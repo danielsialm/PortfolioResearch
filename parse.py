@@ -3,6 +3,7 @@ import fitz
 import os
 import shutil
 import sys
+import re
 
 from numpy import Inf
 
@@ -47,6 +48,7 @@ class type_info():
     self.date = ""
 
 def parse_stock(text: list[str], thisTypeInfo: type_info) -> stock:
+  text.append('')         # -1 indicates idx does not exist, so last item of list is ''
   thisStock = stock()
   thisStock.date = thisTypeInfo.date
   thisStock.security_name = text[thisTypeInfo.secNameIdx]
@@ -64,7 +66,8 @@ def split_stocks(input: list[str], type_supp_info, thisTypeInfo: type_info) -> l
   numColMissing = len([x for x in type_supp_info if x[1] == []]) if type_supp_info else 0
   numDataMissing = sum([len(x[1]) for x in type_supp_info if x[1] != []]) if type_supp_info else 0
   try:
-    numStocks = int((len(input) + numDataMissing) / (thisTypeInfo.infoLen - numColMissing))
+    numCol = int(thisTypeInfo.infoLen.split("_")[0])
+    numStocks = int((len(input) + numDataMissing) / (numCol - numColMissing))
   except:
     print("supp data missing for " + thisTypeInfo.name)
     return []
@@ -74,8 +77,8 @@ def split_stocks(input: list[str], type_supp_info, thisTypeInfo: type_info) -> l
     if type_supp_info:
       for colName, indices in type_supp_info:
         if (indices and i in indices) or not indices:
-          input.insert(i*thisTypeInfo.infoLen + INDICES[thisTypeInfo.infoLen][colName], 'N/A')
-    stocks.append(parse_stock(input[thisTypeInfo.infoLen*i : thisTypeInfo.infoLen*(i+1)], thisTypeInfo))
+          input.insert(i*numCol + INDICES[thisTypeInfo.infoLen][colName], '')
+    stocks.append(parse_stock(input[numCol*i : numCol*(i+1)], thisTypeInfo))
   return stocks
 
 # returns a dictionary of the different types and their (parsed) stocks, for an account
@@ -153,53 +156,87 @@ def split_account(pages):
 
 
 #########################################################################################
-INDICES_6 = { 'DESCRIPTION': 3, 
-              'IDENTIFIER': 4, 
-              'PRICE': 2, 
-              'SHARES': 1,
-              'BOOK VALUE': 0,
-              'MARKET VALUE': 5}
+INDICES_4A = { 'DESCRIPTION': 1, 
+               'IDENTIFIER': 2, 
+               'BOOK VALUE': 0, 
+               'MARKET VALUE': 3,
+               'SHARES': -1 }
 
-INDICES_7 = { 'DESCRIPTION': 4, 
-              'IDENTIFIER': 5, 
-              'TICKER': 0, 
-              'PRICE': 3, 
-              'SHARES': 2,
-              'BOOK VALUE': 1,
-              'MARKET VALUE': 6}
+INDICES_5A = { 'DESCRIPTION': 2, 
+               'IDENTIFIER': 3,
+               'TICKER': 0,
+               'BOOK VALUE': 1, 
+               'MARKET VALUE': 4,
+               'SHARES': -1 }
 
-INDICES_8 = { 'DESCRIPTION': 4, 
-              'IDENTIFIER': 5, 
-              'YIELD': 6, 
-              'COUPON': 3, 
-              'MATURITY': 2,
-              'SHARES': 1,
-              'BOOK VALUE': 0,
-              'MARKET VALUE': 7}
+INDICES_6A = { 'DESCRIPTION': 3, 
+               'IDENTIFIER': 4, 
+               'PRICE': 2, 
+               'SHARES': 1,
+               'BOOK VALUE': 0,
+               'MARKET VALUE': 5}
 
-INDICES_9 = { 'DESCRIPTION': 4, 
-              'IDENTIFIER': 5, 
-              'YIELD': 6, 
-              'COUPON': 3, 
-              'MATURITY': 2,
-              'PRICE': 3,
-              'SHARES': 1,
-              'BOOK VALUE': 0,
-              'MARKET VALUE': 7}
+INDICES_6B = { 'DESCRIPTION': 3, 
+               'IDENTIFIER': 4, 
+               'TICKER': 0, 
+               'SHARES': 2,
+               'BOOK VALUE': 1,
+               'MARKET VALUE': 5}
 
-INDICES_11 = {'DESCRIPTION': 6, 
-              'IDENTIFIER': 8, 
-              'RATING': 0,
-              'YIELD': 9, 
-              'COUPON': 5,
-              'F': 7, 
-              'MATURITY': 4,
-              'PRICE': 3,
-              'SHARES': 2,
-              'BOOK VALUE': 1,
-              'MARKET VALUE': 10}
+INDICES_7A = { 'DESCRIPTION': 4, 
+               'IDENTIFIER': 5, 
+               'TICKER': 0, 
+               'PRICE': 3, 
+               'SHARES': 2,
+               'BOOK VALUE': 1,
+               'MARKET VALUE': 6}
 
-INDICES = {6: INDICES_6, 7: INDICES_7, 8: INDICES_8, 11: INDICES_11}
+INDICES_7B = { 'DESCRIPTION': 2, 
+               'IDENTIFIER': 4, 
+               'YIELD': 5, 
+               'F': 3, 
+               'SHARES': 1,
+               'BOOK VALUE': 0,
+               'MARKET VALUE': 6}
+
+INDICES_8A = { 'DESCRIPTION': 4, 
+               'IDENTIFIER': 5, 
+               'YIELD': 6, 
+               'COUPON': 3, 
+               'MATURITY': 2,
+               'SHARES': 1,
+               'BOOK VALUE': 0,
+               'MARKET VALUE': 7}
+
+INDICES_9A = { 'DESCRIPTION': 5, 
+               'IDENTIFIER': 6, 
+               'YIELD': 7, 
+               'COUPON': 4, 
+               'MATURITY': 3,
+               'PRICE': 2,
+               'SHARES': 1,
+               'BOOK VALUE': 0,
+               'MARKET VALUE': 8}
+
+INDICES_11A = {'DESCRIPTION': 6, 
+               'IDENTIFIER': 8, 
+               'RATING': 0,
+               'YIELD': 9, 
+               'COUPON': 5,
+               'F': 7, 
+               'MATURITY': 4,
+               'PRICE': 3,
+               'SHARES': 2,
+               'BOOK VALUE': 1,
+               'MARKET VALUE': 10}
+
+INDICES = { '4_A': INDICES_4A,
+            '5_A': INDICES_5A,
+            '6_A': INDICES_6A, '6_B': INDICES_6B,
+            '7_A': INDICES_7A, '7_B': INDICES_7B,
+            '8_A': INDICES_8A, 
+            '9_A': INDICES_9A, 
+            '11_A': INDICES_11A}
 
 SRC_DIR = os.path.join(os.getcwd(), sys.argv[1])
 
@@ -250,7 +287,7 @@ if length_provided:
   with open(LENGTH_DIR, 'r') as f:
     for x in f.read().strip().split('\n'):
       thisAccID, thisInfoLen = x.split(';')
-      info_len[thisAccID] = int(thisInfoLen)
+      info_len[thisAccID] = thisInfoLen
 
 # display the pages
 DST_DIR = os.path.join(SRC_DIR, "output_pages")
