@@ -96,15 +96,18 @@ def split_type(text, date, accName, accID, group, acc_supp_info, infoLen) -> dic
     currentType = typeName
 
   indices_type = [i for i, x in enumerate(text) if x == "Instrument:"]
-  indices_total = [i for i, x in enumerate(text) if "TOTAL" in x]
 
   # parse different stocks under type, store as dictionary
   typeDict = {}
   for i in range(len(indices_type)):
     startIdx = indices_type[i] + 3
-    endIdx = indices_total[i]
     typeName = text[indices_type[i] + 1]
     typeID = text[indices_type[i] + 2]
+    try:
+      endIdx = text.index(typeName + '  TOTAL')
+    except:
+      print(accName)
+      exit()
 
     typeInfo = type_info(typeName)
     typeInfo.accID = accID
@@ -140,13 +143,10 @@ def split_account(pages):
       accountID = ""
     
     try:
-      start = page.index("Instrument:")
+      start = page.index("Portfolio:") + 1
     except:
-      # hacky
-      for x in range(len(page)):
-        if 'TOTAL' in page[x]:
-          start = x
-          break
+      print('ignored ' + page[0])
+      continue
 
     cleanedText = page[start:(-3 if hasPort else -2)]
     if accountID in accounts:
