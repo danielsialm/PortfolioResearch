@@ -1,7 +1,8 @@
-insert after RE-REIT (manual entered page since Instrument formatting was unique)
+insert after RE-REIT (manual entered page 323 since Instrument formatting was unique)
 Ohio_STR;12/31/2007;BLACKROCK GRANITE PROP FUND;RBLKRK;160,859,492.00;D;;REAL ESTATE DOMESTIC;RE-DOM;0
 Ohio_STR;12/31/2007;DDR RETAIL/MANATEE;RDDRMA;191,792,082.00;D;;REAL ESTATE DOMESTIC;RE-DOM;0
 Ohio_STR;12/31/2007;REGENCY RETAIL PARTNERS LP;RRPART;13,877,722.53;D;;REAL ESTATE DOMESTIC;RE-DOM;0
 
-
 MARKET VALUE on WESDOME GOLD MINES CONV is '' (column header changes for this type only)
+
+pages 185-258 are aggregates

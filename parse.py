@@ -148,9 +148,14 @@ indices file format:
 name;security name idx;cusip idx;shares idx;market val idx
 '''
 def parse_indices_file(FILE_LOC):
+  if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
+    return {}
+
   idx_file = open(FILE_LOC, 'r')
   idxDict = {}
   for x in idx_file.read().strip().split('\n'):
+    if x == '':
+      continue
     name, info = x.split(';')
     colInfoDict = {}
     for colinfo in info.strip().split(','):
@@ -168,10 +173,15 @@ subsequent lines - data to add
 ACCID;TYPE; which col to add data under;(optional: list specific indices)
 
 stored: map typeID to list of tuples (column to add data, indices (empty list means all))
-LIST OF TUPLES ORDERED BY INDEX FOUND IN PDF
 '''
-def parse_supp_file(FILE_LOC):
+
+
+def parse_supp_file(FILE_LOC, account_lengths):
+  if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
+    return [], {}
+
   supp_file = open(FILE_LOC, 'r')
+  # parse excluded pages
   excludePages = []
   for x in supp_file.readline().strip().split(';'):
     if '-' in x:
@@ -181,7 +191,11 @@ def parse_supp_file(FILE_LOC):
     else:
       excludePages.append(int(x))
   supp_data = {}
+
+  # create data structure for missing cells
   for x in supp_file.read().strip().split('\n'):
+    if x == '':
+      continue
     info = x.split(';')
     this_accid = info[0]
     this_typeid = info[1]
@@ -193,16 +207,31 @@ def parse_supp_file(FILE_LOC):
       supp_data[this_accid][this_typeid] = []
     supp_data[this_accid][this_typeid].append((this_col, this_idxs))
   supp_file.close()
+
+  # sort by column index order so inserting is correct (sort tuple list by column name index)
+  if account_lengths and INDICES:
+    for this_accid in supp_data:
+      infoLen = account_lengths[this_accid]
+      for this_typeid in supp_data[this_accid]:
+        supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
+  print(supp_data)
   return excludePages, supp_data
+
+
 
 '''
 lengths file format:
 accID;column header name
 '''
 def parse_length_file(FILE_LOC):
+  if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
+    return []
+
   info_len = {}
   with open(FILE_LOC, 'r') as f:
     for x in f.read().strip().split('\n'):
+      if x == '':
+        continue
       thisAccID, thisInfoLen = x.split(';')
       info_len[thisAccID] = thisInfoLen
   return info_len
@@ -246,8 +275,8 @@ SRC_DIR = os.path.join(os.getcwd(), args.source)
 
 # load in information from text files
 INDICES = parse_indices_file(os.path.join(SRC_DIR, "indices.txt"))
-excludePages, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"))
-info_len = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
+account_lengths = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
+excludePages, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
 
 
 # read the pdf
@@ -267,12 +296,15 @@ accounts = split_account(pages, args.after)
 # display the accounts
 output_account(accounts)
 
+if args.quitaccount:
+  exit()
+
 # per account, split by type, read the stock
 stocks = []
 for accID in accounts:
   accountName, groupName, text = accounts[accID]
   typeDict = split_type(text, date, accountName, accID, groupName, 
-                        supp_data[accID] if accID in supp_data else None, info_len[accID])
+                        supp_data[accID] if accID in supp_data else None, account_lengths[accID])
   for type in typeDict:
     stocks += typeDict[type]
 
