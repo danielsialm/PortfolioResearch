@@ -3,10 +3,25 @@
 Code to scrape the portfolio stock information from the Ohio State Teacher Retirement System.
 
 ## Utilization
-run `python3 parse.py <YEAR>` to scrape the stocks from that year
+run `python3 parse.py <YEAR>` to scrape the stocks from that year where `<YEAR>` indicates the directory that contains the necessary information to properly scrape (see **Reference**
+
 #### Flags
 `-a` indicates that for this year, account names come after 'Portfolio' rather than before (used in 2019)\
 `-q` early stop for program, stops after splitting by account (used to debug type splits)
+
+#### Output
+Along with outputting information about the pages and accounts, the scraped stocks can be found in the `stock_data.txt` file.\
+The following information is included, separated by semi-colons
+1. Fund name
+2. Date
+3. Security Name
+4. CUSIP
+5. MarketVal
+6. Type
+7. Shares
+8. AccountName
+9. AccountID
+10. Internal Indicator
 
 ### Finished Years: 
 2007, 2008
