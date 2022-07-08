@@ -30,7 +30,8 @@ class stock():
 
 class type_info():
   def __init__(self, name):
-    self.name = name
+    self.typeName = name
+    self.typeID = id
     self.infoLen = None
     self.secNameIdx = -1
     self.cusipIdx = -1
@@ -48,7 +49,7 @@ def parse_stock(text: list[str], thisTypeInfo: type_info) -> stock:
   thisStock.security_name = text[thisTypeInfo.secNameIdx]
   thisStock.CUSIP = text[thisTypeInfo.cusipIdx]
   thisStock.marketVal = text[thisTypeInfo.marketValIdx]
-  thisStock.type = thisTypeInfo.name
+  thisStock.type = thisTypeInfo.typeName
   thisStock.shares = text[thisTypeInfo.sharesIdx]
   thisStock.account_name = thisTypeInfo.accName
   thisStock.account_id = thisTypeInfo.accID
@@ -57,29 +58,51 @@ def parse_stock(text: list[str], thisTypeInfo: type_info) -> stock:
 
 # find a way to figure out how long each stock is?
 def split_stocks(input: list[str], type_supp_info, thisTypeInfo: type_info) -> list[stock]:
-  numColMissing = len([x for x in type_supp_info if x[1] == []]) if type_supp_info else 0
-  numDataMissing = sum([len(x[1]) for x in type_supp_info if x[1] != []]) if type_supp_info else 0
-  try:
-    numCol = int(thisTypeInfo.infoLen.split("-")[0])
-    numStocks = int((len(input) + numDataMissing) / (numCol - numColMissing))
-  except:
-    print("supp data missing for " + thisTypeInfo.name)
+  oldLen = len(input)
+  numColMissing = len([x for x in type_supp_info if (x[1] == [] or x[1][0] < 0)]) if type_supp_info else 0
+  numDataDiff = sum([(len(x[1]) if x[1][0] > 0 else -len(x[1])) for x in type_supp_info if x[1] != []]) if type_supp_info else 0
+  numCol = int(thisTypeInfo.infoLen.split("-")[0])
+  if (len(input) + numDataDiff) % (numCol - numColMissing) != 0:
+    print("supp data missing for " + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
+    print(len(input), numColMissing, numDataDiff)
     return []
+  numStocks = (len(input) + numDataDiff) // (numCol - numColMissing)
 
   stocks = []
-  for i in range(numStocks):
+  count = 0
+  for i in range(1, numStocks + 1):
     if type_supp_info:
       for colName, indices in type_supp_info:
-        if (indices and i in indices) or not indices:
-          input.insert(i*numCol + INDICES[thisTypeInfo.infoLen][colName], '')
-    stocks.append(parse_stock(input[numCol*i : numCol*(i+1)], thisTypeInfo))
+        # three cases to insert: no indices specified, at index to insert, not the negative index
+        if not indices or i in indices or (indices[0] < 0 and -i not in indices):
+          count += 1
+          input.insert(numCol * (i-1) + INDICES[thisTypeInfo.infoLen][colName], '')
+    stock_info = input[numCol*(i-1) : numCol*i]
+    try:
+      stocks.append(parse_stock(stock_info, thisTypeInfo))
+    except:
+      print('parse stock failed', thisTypeInfo.accID, thisTypeInfo.typeID, stock_info)
+  
+  if type_supp_info:
+    totalMissingData = numStocks * numCol - oldLen
+    if(totalMissingData != count):
+      print('data added mismatch for ' + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
+      print('expected:', numDataDiff, '+', numColMissing,'*', numStocks, '=', totalMissingData, 'actual:', count)
   return stocks
 
 '''
 returns a dictionary of the different types and a list of their (parsed) stocks, for an account
 needed - proper supp info, length info, and indics
 '''
-def split_type(text, date, accName, accID, group, acc_supp_info, infoLen) -> dict[str, list[stock]]:
+def split_type(text, date, accName, accID, group, acc_supp_info, infoLen, noTypeID) -> dict[str, list[stock]]:
+  # 'add' typeID if missing
+  if noTypeID:
+    indices_type = [i for i, x in enumerate(text) if x == "Instrument:"]
+    indices_type.reverse()
+    for idx in indices_type:
+      typeName = text[idx + 1]
+      text.insert(idx+1, typeName)
+  
   # clean up page breaks when type changes
   indices_type = [i for i, x in enumerate(text) if x == "Instrument:"]
   currentType = ""
@@ -105,15 +128,22 @@ def split_type(text, date, accName, accID, group, acc_supp_info, infoLen) -> dic
       exit()
 
     typeInfo = type_info(typeName)
+    typeInfo.typeID = typeID
     typeInfo.accID = accID
     typeInfo.accName = accName
     typeInfo.groupName = group
     typeInfo.date = date
     typeInfo.infoLen = infoLen
-    typeInfo.secNameIdx = INDICES[infoLen]['DESCRIPTION']
-    typeInfo.cusipIdx = INDICES[infoLen]['IDENTIFIER']
-    typeInfo.marketValIdx = INDICES[infoLen]['MARKET VALUE']
-    typeInfo.sharesIdx = INDICES[infoLen]['SHARES']
+    try:
+      typeInfo.secNameIdx = INDICES[infoLen]['DESCRIPTION']
+      typeInfo.cusipIdx = INDICES[infoLen]['IDENTIFIER']
+      typeInfo.marketValIdx = INDICES[infoLen]['MARKET VALUE']
+      typeInfo.sharesIdx = INDICES[infoLen]['SHARES']
+    except KeyError:
+      if infoLen not in UNSPEC_IDX:
+        UNSPEC_IDX.append(infoLen)
+        print(infoLen + " has no specified indices")
+      continue
     type_supp_info = None
     type_supp_info = acc_supp_info[typeID] if acc_supp_info and typeID in acc_supp_info else None
     typeDict[typeName] = split_stocks(text[startIdx: endIdx], type_supp_info, typeInfo)
@@ -137,7 +167,13 @@ def split_account(pages, isAfter):
     accountID = page[start-(1 if isAfter else 2)]
 
     groupName = page[-3][7:]
-    cleanedText = page[start:-3]
+    end = -1
+    for i in range(len(page)-1, -1, -1):
+      if 'Group:' in page[i]:
+        end = i
+        break
+    assert end != -1
+    cleanedText = page[start:end]
     if accountID in accounts:
       cleanedText = accounts[accountID][2] + cleanedText
     accounts[accountID] = (accountName, groupName, cleanedText)
@@ -169,8 +205,11 @@ def parse_indices_file(FILE_LOC):
 '''
 Supplement file format:
 first line - pages to exclude
+second line - portfolios with missing instrument info
 subsequent lines - data to add
-ACCID;TYPE; which col to add data under;(optional: list specific indices)
+ACCID;TYPE; which col to add data under;(optional: list specific indices 
+- positive indices need info negative indices have info despite the column missing info)
+
 
 stored: map typeID to list of tuples (column to add data, indices (empty list means all))
 '''
@@ -190,9 +229,13 @@ def parse_supp_file(FILE_LOC, account_lengths):
       excludePages += list(range(start,end + 1))
     else:
       excludePages.append(int(x))
-  supp_data = {}
+
+  # parse portfolios that are missing typeids
+  missingTypeID = supp_file.readline().strip().split(';')
+  missingTypeID = [] if missingTypeID[0] == '' else missingTypeID
 
   # create data structure for missing cells
+  supp_data = {}
   for x in supp_file.read().strip().split('\n'):
     if x == '':
       continue
@@ -214,8 +257,7 @@ def parse_supp_file(FILE_LOC, account_lengths):
       infoLen = account_lengths[this_accid]
       for this_typeid in supp_data[this_accid]:
         supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
-  print(supp_data)
-  return excludePages, supp_data
+  return excludePages, missingTypeID, supp_data
 
 
 
@@ -262,6 +304,7 @@ def output_account(accounts):
 
 
 '''-----------------------------------------------------------------------------------'''
+UNSPEC_IDX = []
 
 # get command line arguments
 parser = argparse.ArgumentParser()
@@ -276,8 +319,7 @@ SRC_DIR = os.path.join(os.getcwd(), args.source)
 # load in information from text files
 INDICES = parse_indices_file(os.path.join(SRC_DIR, "indices.txt"))
 account_lengths = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
-excludePages, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
-
+excludePages, missingTypeID, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
 
 # read the pdf
 with fitz.open(os.path.join(SRC_DIR, "MonthlyMarket.pdf")) as doc:
@@ -304,7 +346,8 @@ stocks = []
 for accID in accounts:
   accountName, groupName, text = accounts[accID]
   typeDict = split_type(text, date, accountName, accID, groupName, 
-                        supp_data[accID] if accID in supp_data else None, account_lengths[accID])
+                        supp_data[accID] if accID in supp_data else None, account_lengths[accID],
+                        accID in missingTypeID)
   for type in typeDict:
     stocks += typeDict[type]
 
