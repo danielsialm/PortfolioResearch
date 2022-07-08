@@ -24,10 +24,9 @@ The following information is included, separated by semi-colons
 10. Internal Indicator
 
 ### Finished Years: 
-2007, 2008
+2007, 2008, 2019
 
 ### Concerns:
-2019 - page 52 what to scrape?\
 Note: Real Estate names cut off (e.g. 2007 312)
 
 ## Reference
@@ -42,6 +41,7 @@ used to indicate which accounts follow which column header format
 ### supplements.txt
 used to indicate where information is missing either by whole columns or individual cells in the table
 also indicates which pages to skip over in the pdf
+also indicates which portfolios are missing type information (typeID)
 
 ### output_pages
 outputs each individual (not-ignored) page read from the pdf into a text file
