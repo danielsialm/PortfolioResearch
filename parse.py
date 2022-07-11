@@ -256,7 +256,8 @@ def parse_supp_file(FILE_LOC, account_lengths):
     for this_accid in supp_data:
       infoLen = account_lengths[this_accid]
       for this_typeid in supp_data[this_accid]:
-        supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
+        if this_typeid in INDICES:
+          supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
   return excludePages, missingTypeID, supp_data
 
 
@@ -345,11 +346,20 @@ if args.quitaccount:
 stocks = []
 for accID in accounts:
   accountName, groupName, text = accounts[accID]
+  try:
+    infoLen = account_lengths[accID]
+  except KeyError:
+    infoLen = input("length for " + accID + ";")
+    f = open(os.path.join(SRC_DIR, "lengths.txt"))
+    f.write(accID + ';' + infoLen + '\n')
   typeDict = split_type(text, date, accountName, accID, groupName, 
-                        supp_data[accID] if accID in supp_data else None, account_lengths[accID],
-                        accID in missingTypeID)
+                        supp_data[accID] if accID in supp_data else None,
+                        infoLen, accID in missingTypeID)
   for type in typeDict:
     stocks += typeDict[type]
+if UNSPEC_IDX:
+  print('indices missing: ' + ' '.join(UNSPEC_IDX))
+
 
 # output stocks
 stocks = map(str, stocks)
