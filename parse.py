@@ -57,16 +57,16 @@ def parse_stock(text: list[str], thisTypeInfo: type_info) -> stock:
   return thisStock
 
 # find a way to figure out how long each stock is?
-def split_stocks(input: list[str], type_supp_info, thisTypeInfo: type_info) -> list[stock]:
-  oldLen = len(input)
+def split_stocks(stock_input: list[str], type_supp_info, thisTypeInfo: type_info) -> list[stock]:
+  oldLen = len(stock_input)
   numColMissing = len([x for x in type_supp_info if (x[1] == [] or x[1][0] < 0)]) if type_supp_info else 0
   numDataDiff = sum([(len(x[1]) if x[1][0] > 0 else -len(x[1])) for x in type_supp_info if x[1] != []]) if type_supp_info else 0
   numCol = int(thisTypeInfo.infoLen.split("-")[0])
-  if (len(input) + numDataDiff) % (numCol - numColMissing) != 0:
+  if (len(stock_input) + numDataDiff) % (numCol - numColMissing) != 0:
     print("supp data missing for " + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
-    print(len(input), numColMissing, numDataDiff)
+    print(len(stock_input), numColMissing, numDataDiff)
     return []
-  numStocks = (len(input) + numDataDiff) // (numCol - numColMissing)
+  numStocks = (len(stock_input) + numDataDiff) // (numCol - numColMissing)
 
   stocks = []
   count = 0
@@ -76,8 +76,8 @@ def split_stocks(input: list[str], type_supp_info, thisTypeInfo: type_info) -> l
         # three cases to insert: no indices specified, at index to insert, not the negative index
         if not indices or i in indices or (indices[0] < 0 and -i not in indices):
           count += 1
-          input.insert(numCol * (i-1) + INDICES[thisTypeInfo.infoLen][colName], '')
-    stock_info = input[numCol*(i-1) : numCol*i]
+          stock_input.insert(numCol * (i-1) + INDICES[thisTypeInfo.infoLen][colName], '')
+    stock_info = stock_input[numCol*(i-1) : numCol*i]
     try:
       stocks.append(parse_stock(stock_info, thisTypeInfo))
     except:
@@ -154,25 +154,27 @@ separate by account
 returns dictionary of form
 accountID : (accountName, groupName, cleanedText)
 '''
-def split_account(pages, isAfter):
+def split_account(pages, accOffsets):
   accounts = {}
   for page in pages:
     try:
-      start = page.index("Portfolio:") + (3 if isAfter else 1)
+      portIDX = page.index('Portfolio:')
     except:
       print('ignored ' + page[0])
       continue
+    del page[portIDX]
     
-    accountName = page[start-(2 if isAfter else 3)]
-    accountID = page[start-(1 if isAfter else 2)]
+    accountName = page[portIDX + accOffsets[0]]
+    accountID = page[portIDX + accOffsets[1]]
+    start = portIDX + accOffsets[2]
 
-    groupName = page[-3][7:]
     end = -1
     for i in range(len(page)-1, -1, -1):
       if 'Group:' in page[i]:
         end = i
         break
     assert end != -1
+    groupName = page[end][7:]
     cleanedText = page[start:end]
     if accountID in accounts:
       cleanedText = accounts[accountID][2] + cleanedText
@@ -206,6 +208,7 @@ def parse_indices_file(FILE_LOC):
 Supplement file format:
 first line - pages to exclude
 second line - portfolios with missing instrument info
+third line - account offsets accountName, accID, start
 subsequent lines - data to add
 ACCID;TYPE; which col to add data under;(optional: list specific indices 
 - positive indices need info negative indices have info despite the column missing info)
@@ -217,7 +220,7 @@ stored: map typeID to list of tuples (column to add data, indices (empty list me
 
 def parse_supp_file(FILE_LOC, account_lengths):
   if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
-    return [], {}
+    return [], [], (-2,-1,0), {}
 
   supp_file = open(FILE_LOC, 'r')
   # parse excluded pages
@@ -233,6 +236,13 @@ def parse_supp_file(FILE_LOC, account_lengths):
   # parse portfolios that are missing typeids
   missingTypeID = supp_file.readline().strip().split(';')
   missingTypeID = [] if missingTypeID[0] == '' else missingTypeID
+
+  # parse account offsets
+  accOffsets = tuple(supp_file.readline().strip().split(';'))
+  if len(accOffsets) != 3:
+    accOffsets = (-2,-1,0)
+  else:
+    accOffsets = tuple(map(int,accOffsets))
 
   # create data structure for missing cells
   supp_data = {}
@@ -258,7 +268,7 @@ def parse_supp_file(FILE_LOC, account_lengths):
       for this_typeid in supp_data[this_accid]:
         if this_typeid in INDICES:
           supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
-  return excludePages, missingTypeID, supp_data
+  return excludePages, missingTypeID, accOffsets, supp_data
 
 
 
@@ -268,7 +278,7 @@ accID;column header name
 '''
 def parse_length_file(FILE_LOC):
   if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
-    return []
+    return {}
 
   info_len = {}
   with open(FILE_LOC, 'r') as f:
@@ -310,9 +320,7 @@ UNSPEC_IDX = []
 # get command line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("source")
-parser.add_argument('-a', '--after', default=False, action=argparse.BooleanOptionalAction)
 parser.add_argument('-q', '--quitaccount', default=False, action=argparse.BooleanOptionalAction)
-parser.add_argument('-s', '--supphelp', default=False, action=argparse.BooleanOptionalAction)
 args = parser.parse_args()
 
 SRC_DIR = os.path.join(os.getcwd(), args.source)
@@ -320,7 +328,7 @@ SRC_DIR = os.path.join(os.getcwd(), args.source)
 # load in information from text files
 INDICES = parse_indices_file(os.path.join(SRC_DIR, "indices.txt"))
 account_lengths = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
-excludePages, missingTypeID, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
+excludePages, missingTypeID, accOffsets, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
 
 # read the pdf
 with fitz.open(os.path.join(SRC_DIR, "MonthlyMarket.pdf")) as doc:
@@ -335,7 +343,7 @@ date = pages[0][5][6:]
 output_pages(pages)
 
 # split pdf into different accounts
-accounts = split_account(pages, args.after)
+accounts = split_account(pages, accOffsets)
 # display the accounts
 output_account(accounts)
 
@@ -350,7 +358,7 @@ for accID in accounts:
     infoLen = account_lengths[accID]
   except KeyError:
     infoLen = input("length for " + accID + ";")
-    f = open(os.path.join(SRC_DIR, "lengths.txt"))
+    f = open(os.path.join(SRC_DIR, "lengths.txt"), 'a')
     f.write(accID + ';' + infoLen + '\n')
   typeDict = split_type(text, date, accountName, accID, groupName, 
                         supp_data[accID] if accID in supp_data else None,
