@@ -3,10 +3,9 @@
 Code to scrape the portfolio stock information from the Ohio State Teacher Retirement System.
 
 ## Utilization
-run `python3 parse.py <YEAR>` to scrape the stocks from that year where `<YEAR>` indicates the directory that contains the necessary information to properly scrape (see **Reference**
+run `python3 parse.py <YEAR>` to scrape the stocks from that year where `<YEAR>` indicates the directory that contains the necessary information to properly scrape (see **Reference**)
 
 #### Flags
-`-a` indicates that for this year, account names come after 'Portfolio' rather than before (used in 2019)\
 `-q` early stop for program, stops after splitting by account (used to debug type splits)
 
 #### Output
@@ -24,7 +23,7 @@ The following information is included, separated by semi-colons
 10. Internal Indicator
 
 ### Finished Years: 
-2007, 2008, 2009, 2019
+2007, 2008, 2009, 2010, 2019
 
 ### Concerns:
 Note: Real Estate names cut off (e.g. 2007 312)
@@ -43,6 +42,7 @@ used to indicate which accounts follow which column header format
 used to indicate where information is missing either by whole columns or individual cells in the table
 also indicates which pages to skip over in the pdf
 also indicates which portfolios are missing type information (typeID)
+also indicates how account information is set up
 
 ### output_pages
 outputs each individual (not-ignored) page read from the pdf into a text file
