@@ -23,11 +23,15 @@ The following information is included, separated by semi-colons
 10. Internal Indicator
 
 ### Finished Years: 
-2007, 2008, 2009, 2010, 2011, 2012, 2019
+2007, 2008, 2009, 2010, 2011, 2012, 2014, 2019
+needs supp data - 2013, 2015, 2016, 2017, 2018
 
 ### Concerns:
 Note: Real Estate names cut off (e.g. 2007 312)
 2009 - AI-VC has a random 0, unsure if shares or misinput
+2013 page 104 - how to scrape
+2014 - only has summary
+double check aggregates
 
 ## Reference
 
