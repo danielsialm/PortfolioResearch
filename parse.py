@@ -65,6 +65,7 @@ def split_stocks(stock_input: list[str], type_supp_info, thisTypeInfo: type_info
   if (oldLen + numDataDiff) % (numCol - numColMissing) != 0:
     print("supp data missing for " + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
     print(oldLen, numColMissing, numDataDiff)
+    return []
   numStocks = (oldLen + numDataDiff) // (numCol - numColMissing)
 
   stocks = []
