@@ -62,11 +62,10 @@ def split_stocks(stock_input: list[str], type_supp_info, thisTypeInfo: type_info
   numColMissing = len([x for x in type_supp_info if (x[1] == [] or x[1][0] < 0)]) if type_supp_info else 0
   numDataDiff = sum([(len(x[1]) if x[1][0] > 0 else -len(x[1])) for x in type_supp_info if x[1] != []]) if type_supp_info else 0
   numCol = int(thisTypeInfo.infoLen.split("-")[0])
-  if (len(stock_input) + numDataDiff) % (numCol - numColMissing) != 0:
+  if (oldLen + numDataDiff) % (numCol - numColMissing) != 0:
     print("supp data missing for " + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
-    print(len(stock_input), numColMissing, numDataDiff)
-    return []
-  numStocks = (len(stock_input) + numDataDiff) // (numCol - numColMissing)
+    print(oldLen, numColMissing, numDataDiff)
+  numStocks = (oldLen + numDataDiff) // (numCol - numColMissing)
 
   stocks = []
   count = 0
@@ -87,7 +86,7 @@ def split_stocks(stock_input: list[str], type_supp_info, thisTypeInfo: type_info
     totalMissingData = numStocks * numCol - oldLen
     if(totalMissingData != count):
       print('data added mismatch for ' + thisTypeInfo.typeID + " in " + thisTypeInfo.accID)
-      print('expected:', numDataDiff, '+', numColMissing,'*', numStocks, '=', totalMissingData, 'actual:', count)
+      print('expected:', totalMissingData, 'actual:', count)
   return stocks
 
 '''
@@ -107,10 +106,18 @@ def split_type(text, date, accName, accID, group, acc_supp_info, infoLen, noType
   indices_type = [i for i, x in enumerate(text) if x == "Instrument:"]
   currentType = ""
   offset = 0
-  for idx in indices_type:
-    typeName = text[idx + 1 - offset]
+  for x in indices_type:
+    idx = x - offset
+    typeName = text[idx + 1]
     if typeName == currentType:
-      del text[idx-offset:idx+3-offset]
+      del text[idx : idx + 3]
+      # special case when duplicate type w/ total in b/w (e.g. 2011 RE-INTL)
+      for i in range(1,4):
+        if 'TOTAL' in text[idx - i]:
+          del text[idx-i : idx]
+          offset += i
+          print('duplicate type', typeName, 'in', accID)
+          break
       offset += 3
     currentType = typeName
   
