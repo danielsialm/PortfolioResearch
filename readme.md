@@ -23,8 +23,8 @@ The following information is included, separated by semi-colons
 10. Internal Indicator
 
 ### Finished Years: 
-2007, 2008, 2009, 2010, 2011, 2012, 2014, 2019
-needs supp data - 2013, 2015, 2016, 2017, 2018
+2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2019
+needs supp data - 2015, 2016, 2017, 2018
 
 ### Concerns:
 Note: Real Estate names cut off (e.g. 2007 312)
