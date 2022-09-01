@@ -1,0 +1,36 @@
+ASOF02   Date 01/24/2002 Time 21:29:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 105
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - BL
+Instrument - COM       COMMON STOCK
+
+PEP BOYS MM & J                            1.574 PBY     713278109Q    17.1500        42,500.00        277,687.64        728,875.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     12.5000         8,000.00         92,902.74        100,000.00
+POSSIS MEDICAL INC                         0.000 POSS    737407106     17.4200        37,200.00        326,462.77        648,024.00
+PRIME MEDICAL SVCS INC                     0.000 PMSI    74156D108      4.8400        20,500.00         98,575.50         99,220.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-FUL  IT-FUL         1.0000       504,830.82        504,830.69        504,830.83
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100      8.1600        56,600.00        368,013.16        461,856.00
+RACING CHAMPIONS CORP                      0.000 RACN    750069106     12.3000        43,900.00        138,162.09        539,970.00
+RAWLINGS SPORTING GOODS CO                 0.000 RAWL    754459105      3.0000        31,100.00        154,680.80         93,300.00
+REGISTER.COM                               0.000 RCOM    75914G101     11.5000        28,800.00        243,681.74        331,200.00
+REPUBLIC FIRST BANCORP INC                 0.000 FRBK    760416107      4.9400        23,600.00        127,840.50        116,584.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107      9.9500        35,000.00        564,203.50        348,250.00
+SCOTTISH ANNUITY & LIFE HLDG               1.033 SCOT    G7885T104     19.3500        31,800.00        512,612.82        615,330.00
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109      8.1000        60,300.00        326,556.72        488,430.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      2.2500       154,800.00        142,190.88        348,300.00
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     10.3400        27,800.00        332,884.82        287,452.00
+THE FINISH LINE-CL A                       0.000 FINL    317923100     15.2900        33,500.00        371,463.42        512,215.00
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108     15.9100        10,400.00        180,578.32        165,464.00
+VIRAGE INC                                 0.000 VRGE    92763Q106      3.3100        36,500.00        166,395.08        120,815.00
+WATER PIK TECHNOLOGIES INC                 0.000 PIK     94113U100      8.6900         6,300.00         50,274.00         54,747.00
+WESTPORT RESOURCES CORP                    0.000 WRC     961418100     17.3500         9,157.00        209,460.62        158,873.95
+
+Instrument Total            59                                                     3,102,087.82     14,556,827.50     20,262,268.79
+
+Portfolio Total             59                                                     3,102,087.82     14,556,827.50     20,262,268.79
+

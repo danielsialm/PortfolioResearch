@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 070
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+ROSS STORES INC                            0.529 ROST    778296103     32.0800        11,800.00        204,083.98        378,544.00
+RPM INC. OHIO                              3.457 RPM     749685103Q    14.4600        15,175.00        236,122.75        219,430.50
+RSA SECURITY INC.                          0.000 RSAS    749719100     17.4600         8,300.00        154,620.81        144,918.00
+RUDDICK CORP.                              2.251 RDK     781258108Q    15.9900         6,900.00        115,269.10        110,331.00
+SAKS INCORPORATED                          0.000 SKS     79377W108      9.3400        21,044.00        584,691.76        196,550.96
+SANDISK CORP                               0.000 SNDK    80004C101     14.4000        10,100.00        676,466.00        145,440.00
+SCANA CORP                                 4.311 SCG     80589M102Q    27.8300        15,498.00        375,724.29        431,309.34
+SCHOLASTIC CORP                            0.000 SCHL    807066105     50.3300         5,200.00        110,921.30        261,716.00
+SCHULMAN (A.) INC.                         3.956 SHLM    808194104Q    13.6500         4,300.00         98,120.36         58,695.00
+SEI INVESTMENTS CO                         0.110 SEIC    784117103     45.1100        16,000.00        131,180.37        721,760.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     35.6900        10,400.00        349,827.60        371,176.00
+SENSIENT TECHNOLOGIES                      2.546 SXT     81725T100Q    20.8100         7,000.00        142,150.09        145,670.00
+SEPRACOR INC.                              0.000 SEPR    817315104     57.0600        11,500.00        576,332.11        656,190.00
+SEQUA CORP - CL A                          0.000 SQA.A   817320104     47.5200         1,500.00         88,020.45         71,280.00
+SIERRA PACIFIC RESOURCES                   5.315 SRP     826428104     15.0500        15,127.00        319,839.87        227,661.35
+SILICON VALLEY BANCSHARES                  0.000 SIVB    827064106     26.7300         6,800.00        221,704.89        181,764.00
+SIX FLAGS INC.                             0.000 PKS     83001P109     15.3800        13,700.00        494,984.75        210,706.00
+SMITH INTERNATIONAL INC                    0.000 SII     832110100     53.6200         7,300.00        431,928.90        391,426.00
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     22.0400        16,500.00        242,172.90        363,660.00
+SMUCKER J M                                1.808 SJM     832696306Q    35.3800         3,600.00         86,595.84        127,368.00
+SOLUTIA INC.                               0.285 SOI     834376105     14.0200        15,391.00        287,363.04        215,781.82
+SONOCO PRODUCTS CO                         3.009 SON     835495102     26.5800        14,120.00        418,895.43        375,309.60
+SOTHEBY’S HOLDINGS CL-A                    0.000 BID     835898107     16.6100         9,100.00        162,384.42        151,151.00
+SOVEREIGN BANCORP INC                      0.817 SOV     845905108     12.2400        36,600.00        442,695.52        447,984.00
+SPX CORP.                                  0.000 SPW     784635104Q   136.9000         6,000.00        463,382.78        821,400.00
+STANCORP FINANCIAL GROUP                   0.677 SFG     852891100     47.2500         4,400.00        212,824.18        207,900.00
+STERIS CORP                                0.000 STE     859152100Q    18.2700        10,300.00        242,109.13        188,181.00
+STEWART & STEVENSON SERVICES               1.807 SSSS    860342104Q    18.8100         4,200.00         94,932.50         79,002.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700        15,500.00        434,824.90        320,385.00
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300        41,400.00        613,289.06      1,197,702.00
+SUPERIOR INDUSTRIES INTL                   1.093 SUP     868168105     40.2500         3,800.00        100,901.22        152,950.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.5100        12,600.00        259,635.45        271,026.00
+SYBASE INC.                                0.000 SY      871130100     15.7600        14,600.00        315,885.00        230,096.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      9.3400         6,000.00        165,511.22         56,040.00
+SYLVAN LEARNING SYSTEMS INC                0.000 SLVN    871399101     22.0700         5,700.00         89,614.65        125,799.00
+SYMANTEC CORP                              0.000 SYMC    871503108     66.3300        10,300.00        280,728.20        683,199.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     59.0700         8,800.00        289,562.09        519,816.00
+TCF FINANCIAL CORP                         2.084 TCB     872275102     47.9800        11,400.00        293,940.57        546,972.00
+TECH DATA CORP                             0.000 TECD    878237106     43.2800         8,200.00        298,465.87        354,896.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 095
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - TEC       TECHNOLOGY
+Instrument - COM       COMMON STOCK
+
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     25.1000           500.00         10,541.25         12,550.00
+MICROSEMI CORP                             0.000 MSCC    595137100     29.7000           900.00         23,377.00         26,730.00
+MICROSOFT CORP.                            0.000 MSFT    594918104     66.2500       141,340.00      8,452,415.38      9,363,775.01
+MILLIPORE CORPORATION                      0.724 MIL     601073109Q    60.7000         1,100.00         65,931.03         66,770.00
+MIPS TECHNOLOGIES INC CL B                 0.000 MIPSB   604567206      7.9800         1,000.00         23,783.75          7,980.00
+MOTOROLA INC                               1.065 MOT     620076109Q    15.0200        57,500.00      1,130,388.49        863,649.99
+MRO SOFTWARE INC                           0.000 MROI    55347W105     23.3800           700.00          8,320.00         16,366.00
+NATIONAL INSTRUMENTS CORP.                 0.000 NATI    636518102     37.4600         1,200.00         54,324.75         44,952.00
+NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     30.7900         4,200.00        117,062.82        129,318.00
+NCR CORPORATION                            0.000 NCR     62886E108     36.8600         2,500.00        102,760.96         92,150.00
+NETEGRITY INC                              0.000 NETE    64110P107     19.3600           800.00         15,464.00         15,488.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     21.8700         7,600.00        169,330.38        166,212.01
+NETWORK EQUIPMENT TECH. INC.               0.000 NWK     641208103      5.4500           700.00          3,517.75          3,815.00
+NETWORKS ASSOCIATES INC.                   0.000 NETA    640938106     25.8500         3,600.00         31,092.50         93,060.00
+NEWPORT CORP                               0.103 NEWP    651824104     19.2800           900.00         31,960.25         17,352.00
+NORTEL NETWORKS CORP. HOLDING              0.000 NT      656568102Q     7.5000        83,900.00      2,580,435.59        629,250.00
+NOVELL INC                                 0.000 NOVL    670006105      4.5900         9,400.00         58,716.71         43,146.00
+NOVELLUS SYSTEMS INC.                      0.000 NVLS    670008101     39.4500         3,500.00        117,875.97        138,075.00
+NVIDIA CORP                                0.000 NVDA    67066G104     66.9000         3,600.00         94,192.84        240,840.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200           700.00         17,514.75         14,014.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     13.8100       147,200.00      3,733,980.28      2,032,832.00
+PALM, INC                                  0.000 PALM    696642107      3.8800        14,700.00        270,198.52         57,036.00
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      7.8100         6,800.00         88,570.24         53,108.00
+PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000           500.00         13,856.50         13,200.00
+PC-TEL INC                                 0.000 PCTI    69325Q105      9.7100           500.00          6,550.89          4,855.00
+PEOPLESOFT INC                             0.000 PSFT    712713106     40.2000         7,700.00        252,160.82        309,540.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000           700.00         12,874.75         10,150.00
+PERKIN ELMER INC                           0.799 PKI     714046109Q    35.0200         3,100.00         89,475.00        108,562.00
+PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108     11.6400           700.00         10,816.00          8,148.00
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500           300.00          6,825.00         13,695.00
+PHOTRONICS INC.                            0.000 PLAB    719405102     31.3500           800.00         23,566.50         25,080.00
+PIONEER STANDARD ELECTRONICS               0.944 PIOS    723877106     12.7000           800.00          9,573.00         10,160.00
+PLANTRONICS INC.                           0.000 PLT     727493108     25.6400         1,200.00         47,813.00         30,768.00
+PLEXUS CORP                                0.000 PLXS    729132100     26.5600         1,100.00         34,080.00         29,216.00
+PMC-SIERRA INC                             0.000 PMCS    69344F106     21.2600         4,300.00        149,865.00         91,418.00
+POLYCOM INC.                               0.000 PLCM    73172K104     34.0700         2,200.00         62,934.50         74,954.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400           800.00         13,537.85         18,272.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     17.2800         1,700.00         56,912.25         29,376.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     17.2800           900.00         13,332.89         15,552.00

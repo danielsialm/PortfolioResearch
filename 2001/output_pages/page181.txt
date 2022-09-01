@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+KEYSPAN CORPORATION                          5.137     49337W100   KSE            182,733        5,601,212.13        6,331,698.46
+KIMBERLY-CLARK CORP                          1.872     494368103 Q KMB          1,181,578       57,294,515.21       70,658,364.40
+KINDER MORGAN INC.                           0.359     49455P101   KMI            182,063        6,125,977.61       10,139,088.46
+KING PHARMACEUTICALS                         0.000     495582108   KG             569,294       19,396,046.86       23,984,356.22
+KIRBY CORP.                                  0.000     497266106   KEX             29,200          621,514.69          804,460.00
+KLA-TENCOR CORP.                             0.000     482480100   KLAC           230,121        8,962,838.20       11,404,846.31
+KNIGHT RIDDER                                1.540     499040103 Q KRI            174,205        8,808,570.42       11,311,130.65
+KNIGHT TRANSPORTATION INC                    0.000     499064103   KNGT            14,100          230,300.00          264,798.00
+KOHLS CORP                                   0.000     500255104   KSS            694,987       28,740,248.46       48,954,884.28
+KOPIN CORP                                   0.000     500600101   KOPN            99,500        1,410,702.23        1,393,000.00
+KORN/FERRY INTERNATIONAL                     0.000     500643200   KFY             55,600        1,169,902.68          592,140.00
+KRAFT FOODS INC - A                          1.528     50075N104   KFT            234,500        7,315,124.22        7,980,035.00
+KRISPY KREME DOUGHNUTS INC                   0.000     501014104   KKD             30,945          699,050.93        1,367,769.00
+KROGER CO.                                   0.000     501044101   KR           1,693,568       29,070,245.56       35,344,764.15
+KROLL INC                                    0.000     501049100   KROL            21,700          535,800.29          327,670.00
+KRONOS INC.                                  0.000     501052104   KRON            30,400          495,910.21        1,470,752.01
+KULICKE & SOFFA INDUSTRIES                   0.000     501242101   KLIC            81,600        1,318,114.05        1,399,440.00
+L-3 COMMUNICATIONS HOLDINGS INC              0.000     502424104   LLL             81,700        5,731,385.20        7,353,000.00
+LA-Z-BOY INC.                                1.649     505336107   LZB             59,000          822,566.08        1,287,380.00
+LABOR READY INC                              0.000     505401208   LRW             44,300          183,454.98          226,373.00
+LABRANCHE & CO., INC.                        0.000     505447102   LAB            128,700        5,082,497.51        4,435,002.00
+LACLEDE GROUP HLDG. CO.                      5.606     505597104   LG              26,800          558,320.64          640,520.00
+LAM RESEARCH CORP                            0.000     512807108   LRCX           282,500        6,522,303.91        6,559,650.01
+LANCASTER COLONY CORP                        2.027     513847103   LANC            73,050        2,132,468.60        2,594,005.50
+LANCE INC                                    4.478     514606102 Q LNCE            28,600          402,941.32          408,694.00
+LAND’S END INC                               0.000     515086106   LE              50,900        2,070,938.41        2,553,144.00
+LANDAMERICA FINANCIAL GROUP                  0.696     514936103   LFG             26,800          941,971.15          769,160.00
+LANDRY’S RESTAURANTS INC.                    0.536     51508L103   LNY             41,900          656,259.03          781,435.00
+LANDSTAR SYSTEM INC.                         0.000     515098101   LSTR             8,300          282,657.28          601,833.00
+LATTICE SEMICON. CORP.                       0.000     518415104   LSCC           237,400        3,994,319.56        4,883,318.00
+LAWSON PRODUCTS                              2.461     520776105 Q LAWS            11,300          282,374.91          293,800.00
+LAWSON SOFTWARE                              0.000     520780107   LWSN            18,000          279,599.89          283,500.00
+LEAR CORP.                                   0.000     521865105   LEA            134,500        5,092,443.98        5,129,830.00
+LEE ENTERPRISES                              1.869     523768109   LEE             78,500        2,630,284.14        2,855,045.00
+LEGATO SYSTEMS INC.                          0.000     524651106   LGTO           206,200        4,415,502.95        2,674,414.00
+LEGG MASON INC.                              0.800     524901105   LM             139,200        5,550,002.61        6,957,216.00
+LEGGETT & PLATT INC                          2.087     524660107   LEG            261,052        5,169,925.65        6,004,196.01
+LEHMAN BROTHERS HOLDING                      0.419     524908100 Q LEH            488,308       20,911,937.90       32,618,974.40
+LENDINGTREE INC                              0.000     52602Q105   TREE            60,700          344,907.36          358,130.00
+LENNAR CORPORATION                           0.106     526057104   LEN            116,500        4,214,948.16        5,454,530.00

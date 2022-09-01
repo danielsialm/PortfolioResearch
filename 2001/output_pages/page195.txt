@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SMUCKER J M                                  1.808     832696306 Q SJM             27,400          699,142.54          969,412.00
+SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC           160,600        2,568,343.92        2,564,782.00
+SNAP-ON TOOLS CORP.                          2.852     833034101 Q SNA             40,077        1,122,861.02        1,348,991.82
+SOLA INTERNATIONAL INC                       0.000     834092108   SOL             22,500          675,310.74          436,500.00
+SOLECTRON CORP                               0.000     834182107   SLR          1,700,394       39,758,237.15       19,180,444.32
+SOLUTIA INC.                                 0.285     834376105   SOI            286,691        4,124,465.70        4,019,407.82
+SONIC AUTOMOTIVE INC.                        0.000     83545G102   SAH              3,800           61,526.94           89,072.00
+SONIC CORP                                   0.000     835451105   SONC            25,900          273,649.42          932,400.00
+SONICWALL INC                                0.000     835470105   SNWL            25,900          441,257.29          503,496.00
+SONOCO PRODUCTS CO                           3.009     835495102   SON            188,620        5,179,578.04        5,013,519.60
+SONOSIGHT INC.                               0.000     83568G104   SONO             9,600          212,174.28          246,624.00
+SOTHEBY’S HOLDINGS CL-A                      0.000     835898107   BID            143,300        2,506,881.06        2,380,213.00
+SOUTH FINANCIAL GROUP, INC                   2.478     837841105   TSFG            66,600        1,196,559.25        1,182,150.00
+SOUTHERN CO                                  5.286     842587107 Q SO           1,004,064       18,216,233.54       25,453,022.39
+SOUTHERN ENERGY HOMES INC                    0.000     842814105   SEHI           154,800          142,190.88          348,300.00
+SOUTHERN UNION COMPANY                       0.000     844030106   SUG             48,720          695,666.55          918,859.20
+SOUTHTRUST CORP                              2.270     844730101   SOTR           725,232       13,095,836.76       17,891,473.44
+SOUTHWEST AIRLINES                           0.108     844741108 Q LUV          1,334,695       16,851,665.36       24,665,163.60
+SOUTHWEST BANCORP OF TEXAS                   0.000     84476R109   SWBT            48,043        1,300,245.73        1,454,261.62
+SOUTHWEST GAS CORP                           3.668     844895102 Q SWX             16,500          329,753.52          368,775.00
+SOUTHWESTERN ENERGY COMPANY                  0.000     845467109   SWN             24,800          299,936.22          257,920.00
+SOVEREIGN BANCORP INC                        0.817     845905108   SOV            496,600        7,540,463.82        6,078,384.00
+SPACELABS MEDICAL INC                        0.000     846247104   SLMD            96,000        1,166,729.98        1,166,400.00
+SPHERION CORPORATION                         0.000     848420105   SFN             52,600        1,323,025.44          513,376.00
+SPINNAKER EXPLORATION CO                     0.000     84855W109   SKE              5,600          240,513.95          230,496.00
+SPRINT CORP.                                 2.490     852061100 Q FON          1,965,445       70,863,482.70       39,466,135.59
+SPRINT PCS GROUP                             0.000     852061506   PCS          2,105,091       63,286,179.82       51,385,271.31
+SPS TECHNOLOGIES INC                         0.000     784626103   ST              24,600        1,130,418.91          859,032.00
+SPSS INC.                                    0.000     78462K102   SPSS               400            7,896.83            7,100.00
+SPX CORP.                                    0.000     784635104 Q SPW             82,500        8,527,306.64       11,294,250.00
+ST JUDE MED. INC.                            0.000     790849103   STJ            115,250        5,592,626.24        8,949,162.51
+ST MARY LAND & EXPLORATION                   0.471     792228108   MARY            27,600          458,959.26          584,844.00
+ST. PAUL COMPANIES                           2.547     792860108 Q SPC            627,080       22,551,469.24       27,572,707.61
+STANCORP FINANCIAL GROUP                     0.677     852891100   SFG             66,200        3,126,869.19        3,127,950.00
+STANDARD MICROSYSTEMS CORP                   0.000     853626109   SMSC            14,400          222,161.29          223,488.00
+STANDARD MOTOR PRODS                         2.589     853666105   SMP             12,600          199,580.81          175,140.00
+STANDARD REGISTER CO                         4.964     853887107   SR              27,000          377,467.64          500,310.00
+STANDARD-PACIFIC CORP                        1.315     85375C101   SPF             48,800          884,957.51        1,186,816.00
+STANDEX INTERNATIONAL CORP                   3.862     854231107   SXI             11,000          244,205.50          239,250.00
+STANLEY WORKS                                2.061     854616109 Q SWK            131,486        4,087,696.77        6,123,303.01

@@ -1,0 +1,30 @@
+ASOF01   Date 01/24/2002 Time 21:29:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - LIQUIDITY RESERVES
+Portfolio  - LQR       LIQUIDITY RESERVE
+Instrument - FUTURES5  FUTURES EXPOSURE
+
+Instrument Total               1                                                        -500.00   -142,843,750.00   -143,650,000.00
+
+Instrument -ISR       STATE OF ISRAEL BONDS
+
+STATE OF ISRAEL BOND           NR  8.5000  7.506 CAEL02           S 06/01/2004     5,000,000.00      4,999,999.99      5,032,812.50
+STATE OF ISRAEL BOND           NR  8.5000  7.505 CAEL01           S 06/01/2004     5,000,000.00      4,999,999.99      5,032,812.50
+
+Instrument Total               2                                                  10,000,000.00      9,999,999.98     10,065,625.00
+
+Instrument -STIF      SHORT TERM INVESTMENT FUND
+
+SEI PRIME OBLIGATION FUND          0.0000  0.000 SEI275             12/31/2002     4,500,000.00      4,500,000.00      4,500,000.00
+
+Instrument Total             1                                                     4,500,000.00      4,500,000.00      4,500,000.00
+
+Portfolio Total             39                                                   906,832,500.00    763,687,743.09    762,947,118.11
+
+Group Total                 39                                906,832,500.00 /             0.00    763,687,743.09    762,947,118.11
+

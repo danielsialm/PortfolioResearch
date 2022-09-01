@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 106
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - VALUE
+Instrument - COM       COMMON STOCK
+
+AIRBORNE INC.                              1.078 ABF     009269101Q    14.8300        14,600.00        181,352.00        216,518.00
+AMCOL INTERNATIONAL CORP.                  0.833 ACO     02341W103      7.2000        12,100.00         73,083.70         87,120.00
+AMERICAN FINANCIAL HLDGS INC.              2.597 AMFH    026075101     25.4100        12,032.00        302,495.91        305,733.12
+ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100         1,700.00         59,534.00         65,467.00
+ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300        12,100.00         79,864.00         49,973.00
+ANCHOR BANCORP WISCONSIN INC.              1.860 ABCW    032839102     17.7400         3,300.00         45,845.25         58,542.00
+ANGELICA CORP                              2.952 AGL     034663104     10.8400         3,100.00         29,263.20         33,604.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100        14,300.00        389,341.44        414,843.00
+APOGEE ENTERPRISES INC.                    1.390 APOG    037598109     15.8200         3,884.00         24,217.65         61,444.88
+APTAR GROUP INC.                           0.685 ATR     038336103Q    35.0300         8,300.00        263,810.79        290,749.00
+ARCH CHEMICALS INC.                        3.448 ARJ     03937R102     23.2000         3,300.00         64,069.50         76,560.00
+ARCTIC CAT INC.                            1.411 ACAT    039670104     17.0000         4,500.00         58,767.00         76,500.00
+AUDIOVOX CORP                              0.000 VOXX    050757103      7.4600         8,300.00         86,501.15         61,918.00
+AVISTA CORP                                3.619 AVA     05379B107     13.2600        33,400.00        574,134.49        442,884.00
+AZTAR CORP.                                0.000 AZR     054802103     18.3000        28,200.00        408,693.96        516,060.00
+BASSETT FURNITURE INDS.                    5.710 BSET    070203104Q    14.0100         2,600.00         36,807.16         36,426.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101      9.1700        27,900.00        256,226.59        255,843.00
+BELL MICROPRODUCTS INC                     0.000 BELM    078137106     12.6200        17,900.00        242,612.77        225,898.00
+BROWN SHOE COMPANY INC                     2.463 BWS     115736100Q    16.2400        14,600.00        143,118.54        237,104.00
+BUILDING MATERIALS HLDG. CORP.             0.000 BMHC    120113105     10.8500         5,800.00         64,779.04         62,930.00
+BURLINGTON COAT FACTORY WAREHO             0.119 BCF     121579106     16.8000        21,000.00        394,786.31        352,800.00
+CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109     13.6800         7,800.00         91,416.00        106,704.00
+CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850         6,000.00         89,242.20        236,910.00
+CAPTARIS INC.                              0.000 CAPA    14071N104      3.6900        27,800.00         59,581.57        102,582.00
+CASCADE NATURAL GAS CORP.                  4.353 CGC     147339105     22.0500         4,400.00         76,177.77         97,020.00
+CASH AMERICAN INT’L. INC.                  0.588 PWN     14754D100      8.5000        16,700.00        125,823.00        141,950.00
+CENTRAL HUDSON GAS & ELEC.                 4.968 CHG     12541M102     43.4700         8,900.00        375,534.98        386,883.00
+CHARTER MUNICIPAL MTG ACCEPTAN             7.138 CHC     160908109     16.2500         3,900.00         50,746.80         63,375.00
+CHESAPEAKE CORP                            3.164 CSK     165159104     27.8100         4,600.00        103,638.00        127,926.00
+CHITTENDEN CORPORATION                     2.753 CHZ     170228100     27.6000         7,750.00        155,849.40        213,900.00
+CIRCUIT CITY STORES-CARMAX                 0.000 KMX     172737306     22.7400        12,100.00        177,931.50        275,154.00
+COHU INC.                                  1.012 COHU    192576106     19.7500        14,700.00        324,869.52        290,325.00
+COMMERCIAL FEDERAL CORP.                   1.361 CFB     201647104     23.5000        22,000.00        519,123.65        517,000.00
+COMPUTER TASK GROUP INC.                   0.000 CTG     205477102      3.9400         3,100.00         16,104.50         12,214.00
+COMSTOCK RESOURCES INC                     0.000 CRK     205768203      7.0000         3,800.00         26,090.80         26,600.00
+CONMED CORPORATION                         0.000 CNMD    207410101     19.9600        17,400.00        243,808.53        347,304.00
+CORN PRODUCTS INT’L INC.                   1.134 CPO     219023108     35.2500        10,900.00        280,154.77        384,225.00
+COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     19.9500        29,000.00        515,931.97        578,550.00
+D.R. HORTON INC.                           0.616 DHI     23331A109     32.4600        16,701.00        308,299.28        542,114.46

@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 096
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - TEC       TECHNOLOGY
+Instrument - COM       COMMON STOCK
+
+PROXIM INC                                 0.000 PROX    744284100      9.9200           800.00         19,040.88          7,936.00
+QLOGIC CORPORATION                         0.000 QLGC    747277101     44.5100         2,400.00        135,439.13        106,824.00
+QRS CORPORATION                            0.000 QRSI    74726X105     14.1000           300.00          3,774.75          4,230.00
+QUALCOMM INC                               0.000 QCOM    747525103     50.5000        19,900.00      1,267,938.73      1,004,950.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      9.8500         4,000.00         52,505.00         39,400.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102     11.5000           800.00         13,280.75          9,200.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     19.6600           500.00         11,347.50          9,830.00
+RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.4000           700.00          7,175.75          5,180.00
+RATIONAL SOFTWARE CORPORATION              0.000 RATL    75409P202     19.5000         5,300.00        188,138.00        103,350.00
+READ-RITE CORP                             0.000 RDRT    755246105      6.6100         3,100.00         19,516.30         20,491.00
+RETEK INC                                  0.000 RETK    76128Q109     29.8700         1,100.00         21,290.54         32,857.00
+REYNOLDS & REYNOLDS CL-A                   1.814 REY     761695105     24.2500         1,900.00         41,787.32         46,075.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100     19.2300         4,400.00         99,048.33         84,611.99
+ROGERS CORP.                               0.000 ROG     775133101     30.3000           300.00         11,282.00          9,090.00
+ROPER INDUSTRIES INC                       0.666 ROP     776696106     49.5000           900.00         32,589.00         44,550.00
+ROXIO INC                                  0.000 ROXI    780008108     16.5500           329.00          5,455.44          5,444.95
+RSA SECURITY INC.                          0.000 RSAS    749719100     17.4600         1,500.00         47,157.25         26,190.00
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     34.3200           400.00         14,924.00         13,728.00
+SANDISK CORP                               0.000 SNDK    80004C101     14.4000         1,800.00         44,202.28         25,920.00
+SANMINA-SCI CORP                           0.000 SANM    800907107     19.9000        13,332.00        317,810.42        265,306.80
+SAPIENT CORP                               0.000 SAPE    803062108      7.7200         3,100.00         18,881.48         23,932.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.5700           300.00          5,970.00          4,371.00
+SCIENTIFIC ATLANTA INC.                    0.167 SFA     808655104Q    23.9400         4,300.00        176,846.94        102,942.00
+SCM MICROSYSTEMS INC                       0.000 SCMM    784018103     14.6400           300.00          8,131.00          4,392.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     35.6900         1,800.00         50,956.19         64,242.00
+SIEBEL SYSTEMS INC.                        0.000 SEBL    826170102     27.9800        11,900.00        627,251.16        332,962.00
+SOLECTRON CORP                             0.000 SLR     834182107     11.2800        21,100.00        543,194.50        238,008.00
+SPSS INC.                                  0.000 SPSS    78462K102     17.7500           400.00          7,896.83          7,100.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     15.5200           300.00          5,593.50          4,656.00
+STARTEK INC                                0.000 SRT     85569C107     18.9500           300.00          4,751.00          5,685.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700         2,800.00         34,975.00         57,876.00
+STRATOS LIGHTWAVE INC.                     0.000 STLW    863100103      6.1500         1,358.00          7,393.00          8,351.70
+SUN MICROSYSTEMS INC.                      0.000 SUNW    866810104     12.3000        85,300.00      2,730,135.70      1,049,190.00
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300         7,000.00        174,859.00        202,510.00
+SUPERTEX INC                               0.000 SUPX    868532102     17.5100           300.00          5,256.00          5,253.00
+SYBASE INC.                                0.000 SY      871130100     15.7600         2,650.00         48,549.50         41,764.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      9.3400         1,000.00          5,680.18          9,340.00
+SYMANTEC CORP                              0.000 SYMC    871503108     66.3300         2,000.00         83,457.50        132,660.00
+SYMBOL TECHNOLOGIES INC                    0.125 SBL     871508107     15.8800         6,700.00        118,302.60        106,396.00

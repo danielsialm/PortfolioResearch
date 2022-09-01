@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+IVAX CORP                                    0.000     465823102   IVX            430,362        9,729,928.40        8,667,490.68
+IVEX PACKAGING CORP                          0.000     465855104   IXX             88,500        1,082,957.59        1,681,500.00
+J & J SNACK FOODS CORP                       0.000     466032109   JJSF            11,200          202,108.56          273,840.00
+J C PENNEY INC                               1.858     708160106 Q JCP            849,918       27,265,046.14       22,862,794.19
+JABIL CIRCUIT INC                            0.000     466313103   JBL            473,602       13,149,910.98       10,760,237.44
+JACK IN THE BOX INC.                         0.000     466367109   JBX             38,100          593,506.25        1,049,274.00
+JACOBS ENGINEERING GROUP                     0.000     469814107   JEC             59,500        2,447,092.31        3,927,000.00
+JAKKS PACIFIC INC.                           0.000     47012E106   JAKK            46,900          676,726.48          888,755.00
+JDA SOFTWARE GROUP INC                       0.000     46612K108   JDAS            21,900          415,222.09          489,465.00
+JDS UNIPHASE CORP                            0.000     46612J101   JDSU         3,977,196      272,899,705.57       34,522,061.28
+JEFFERSON PILOT                              2.377     475070108 Q JP             229,682        9,026,063.69       10,627,386.16
+JEFFRIES GROUP INC                           0.472     472319102   JEF             24,600          594,580.32        1,040,826.00
+JLG INDUSTIRES, INC.                         0.187     466210101   JLG             40,500          580,629.89          431,325.00
+JO-ANN STORES, INC.                          0.000     47758P109   JAS.A          109,700        1,305,700.46          784,355.00
+JOHN HANCOCK FINANCIAL SRVCS                 0.750     41014S106   JHF            206,600        8,254,160.42        8,532,580.00
+JOHNSON & JOHNSON                            1.218     478160104 Q JNJ          6,175,637      198,523,682.31      364,980,199.90
+JOHNSON CONTROLS                             1.634     478366107 Q JCI            114,196        6,703,647.93        9,221,327.01
+JONES APPAREL GROUP INC                      0.000     480074103   JNY            165,783        4,212,813.94        5,499,022.10
+JP MORGAN CHASE & CO.                        3.741     46625H100 Q JPM          3,811,247      135,884,237.14      138,538,828.46
+K MART CORP                                  0.000     482584109   KM           3,795,123       32,719,206.73       20,721,371.58
+K-SWISS INC CL-A                             0.180     482686102   KSWS            47,500        1,446,675.74        1,579,375.00
+K2 INC.                                      0.000     482732104   KTO             25,600          169,411.68          184,576.00
+KADANT INC                                   0.000     48282T104   KAI              2,900           39,350.68           42,050.00
+KAMAN CORP CL-A                              2.820     483548103   KAMNA           30,500          469,726.87          475,800.00
+KANSAS CITY SOUTHERN INDS                    0.000     485170302 Q KSU             87,400        1,315,015.84        1,234,962.00
+KAYDON CORP                                  2.116     486587108 Q KDN             74,400        1,848,429.54        1,687,392.00
+KB HOME                                      0.748     48666K109 Q KBH             34,847          813,866.09        1,397,364.70
+KEANE INC.                                   0.000     486665102   KEA            190,900        4,256,823.80        3,441,927.00
+KEITHLEY INSTRUMENTS INC                     0.887     487584104   KEI             15,900          738,124.64          268,710.00
+KELLOGG CO.                                  3.355     487836108 Q K              553,424       18,994,495.06       16,658,062.39
+KELLWOOD CO.                                 2.665     488044108   KWD             25,100          671,789.16          602,651.00
+KELLY SERVICES INC CL-A                      4.568     488152208   KELYA           56,300        1,454,706.45        1,232,407.00
+KEMET CORP.                                  0.000     488360108   KEM            197,000        2,736,766.17        3,496,750.00
+KENNAMETAL INC                               1.688     489170100   KMT             54,600        1,635,138.20        2,198,742.00
+KENNETH COLE PRODUCTIONS                     0.000     193294105   KCP             15,600          261,433.02          276,120.00
+KERR MCGEE CORP.                             3.284     492386107 Q KMG            228,864       12,241,026.42       12,541,747.21
+KEY ENERGY SERVICES INC                      0.000     492914106   KEG             27,400          241,295.40          252,080.00
+KEY PRODUCTION COMPANY INC                   0.000     493138101   KP              13,500          290,939.56          229,500.00
+KEYCORP                                      4.848     493267108 Q KEY            877,592       21,449,322.07       21,360,589.26
+KEYNOTE SYSTEMS INC                          0.000     493308100   KEYN            57,300          481,409.84          535,755.00

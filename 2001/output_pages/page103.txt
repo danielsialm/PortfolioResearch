@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 074
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+ARCTIC CAT INC.                            1.411 ACAT    039670104     17.0000        27,200.00        299,177.18        462,400.00
+ARGOSY GAMING COMPANY                      0.000 AGY     040228108     32.5200        28,400.00        793,496.00        923,568.00
+ARKANSAS BEST CORP                         0.000 ABFS    040790107     28.8200        25,300.00        402,820.61        729,146.00
+ARMOR HOLDINGS INC                         0.000 AH      042260109     26.9900        26,300.00        516,903.70        709,837.00
+ARQULE INC                                 0.000 ARQL    04269E107     17.0000        16,200.00        280,242.28        275,400.00
+ARTESYN TECHNOLOGIES                       0.000 ATSN    043127109      9.3100        32,100.00        694,162.49        298,851.00
+ARTHROCARE CORP                            0.000 ARTC    043136100     17.9300        24,000.00        492,304.90        430,320.00
+ASHWORTH INC                               0.000 ASHW    04516H101      7.8900        50,400.00        325,826.18        397,656.00
+ASPECT COMMUNICATIONS CORP                 0.000 ASPT    04523Q102      3.8800        31,000.00         93,235.84        120,280.00
+ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     16.8000        28,900.00        356,202.27        485,520.00
+ASTEC INDUSTRIES INC                       0.000 ASTE    046224101     14.4600        18,500.00        621,579.82        267,510.00
+ASTROPOWER INC                             0.000 APWR    04644A101     40.4300        14,700.00        515,481.65        594,321.00
+ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105     23.2900        44,700.00        483,167.70      1,041,063.00
+ATMI INC                                   0.000 ATMI    00207R101     23.8500        31,400.00        610,144.19        748,890.00
+ATMOS ENERGY CORP.                         5.552 ATO     049560105     21.2500        36,800.00        945,816.77        782,000.00
+ATWOOD OCEANICS                            0.000 ATW     050095108     34.8500        11,300.00        504,621.71        393,805.00
+AUDIOVOX CORP                              0.000 VOXX    050757103      7.4600        28,800.00      1,093,241.06        214,848.00
+AVANT] CORPORATION                         0.000 AVNT    053487104     20.4900        35,100.00        561,214.30        719,199.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     12.1500        22,900.00        734,495.43        278,235.00
+AVISTA CORP                                3.619 AVA     05379B107     13.2600        50,300.00        993,652.34        666,978.00
+AWARE INC.                                 0.000 AWRE    05453N100      8.3000        19,700.00      1,098,852.84        163,510.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     12.8900       102,900.00        828,248.45      1,326,381.00
+AXT INC.                                   0.000 AXTI    00246W103     14.4300        20,400.00        358,771.70        294,372.00
+AZTAR CORP.                                0.000 AZR     054802103     18.3000        36,500.00        248,463.68        667,950.00
+BALDOR ELECTRIC                            2.488 BEZ     057741100     20.9000        35,100.00        784,801.38        733,590.00
+BALLY TOTAL FITNESS HLDGS                  0.000 BFT     05873K108     21.5600        28,200.00        850,112.67        607,992.00
+BARNES GROUP INC.                          3.334 B       067806109     23.9900        19,800.00        357,123.00        475,002.00
+BARRA INC                                  0.000 BARZ    068313105     47.0900        21,600.00        531,799.90      1,017,144.00
+BASSETT FURNITURE INDS.                    5.710 BSET    070203104Q    14.0100        11,500.00        335,353.25        161,115.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101      9.1700        30,100.00        800,996.52        276,017.00
+BEI TECHNOLOGIES INC                       0.229 BEIQ    05538P104     17.4400        34,000.00        736,123.00        592,960.00
+BEL FUSE INC-CL B                          0.798 BELFB   077347300     25.0500        10,400.00        375,214.32        260,520.00
+BELDEN INC.                                0.849 BWC     077459105     23.5500        24,800.00        799,264.37        584,040.00
+BELL MICROPRODUCTS INC                     0.000 BELM    078137106     12.6200        14,700.00        237,689.49        185,514.00
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     18.9600        15,400.00        523,007.76        291,984.00
+BIO-TECHNOLOGY GENERAL                     0.000 BTGC    090578105      8.2300        50,500.00        731,135.15        415,615.00
+BLACK BOX CORPORATION                      0.000 BBOX    091826107     52.8800        19,100.00        919,742.29      1,010,008.00
+BOSTON COMMUNICATIONS GROUP                0.000 BCGI    100582105     11.3500        13,800.00        335,718.12        156,630.00
+BOSTON PRIVATE FINL HOLDING                0.634 BPFH    101119105     22.0700        21,700.00        465,240.00        478,919.00

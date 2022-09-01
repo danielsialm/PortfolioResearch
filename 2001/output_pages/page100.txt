@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 071
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+TECUMSEH PRODUCTS CO CL-A                  2.528 TECUA   878895200     50.6300         2,700.00        140,046.95        136,701.00
+TELEFLEX INC                               1.437 TFX     879369106Q    47.3100         5,800.00        209,534.12        274,398.00
+TELEPHONE & DATA                           0.601 TDS     879433100     89.7500         8,700.00        368,830.91        780,825.00
+THE MONY GROUP INC.                        1.301 MNY     615337102     34.5700         7,000.00        264,912.87        241,990.00
+TIDEWATER INC                              1.769 TDW     886423102Q    33.9000         9,000.00        443,188.45        305,099.99
+TIMBERLAND CO CL-A                         0.000 TBL     887100105     37.0800         5,700.00        101,476.24        211,356.00
+TITAN CORP                                 0.000 TTN     888266103     24.9500        10,300.00        358,469.37        256,985.00
+TOOTSIE ROLL INDUSTRIES, INC.              0.716 TR      890516107Q    39.0800         7,478.00        346,800.00        292,240.23
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     12.2600         5,400.00        194,558.92         66,204.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      4.5000        13,500.00        589,199.02         60,750.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     29.3500        10,653.00        392,056.38        312,665.55
+TRIGON HEALTHCARE CORP.                    0.000 TGH     89618L100     69.4500         5,300.00        195,208.97        368,085.00
+TRINITY INDUSTRIES                         2.650 TRN     896522109     27.1700         6,500.00        242,457.27        176,605.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103     12.2600        19,234.00        870,513.73        235,808.84
+TYSON FOODS INC. CL-A                      1.385 TSN     902494103     11.5500        51,667.00        655,102.21        596,753.85
+UCAR INTERNATIONAL INC                     0.000 UCR     90262K109     10.7000         8,300.00        281,052.35         88,810.00
+UNIFI INC                                  0.000 UFI     904677101      7.2500         8,000.00        286,157.84         58,000.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     22.7000        10,800.00        252,908.45        245,160.00
+UNITRIN INC.                               4.048 UTR     913275103     39.5200        10,000.00        301,429.53        395,200.00
+UNIVERSAL CORP-VA                          3.515 UVV     913456109Q    36.4100         4,000.00        148,668.26        145,640.00
+UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     42.7800         8,900.00        199,949.81        380,742.00
+UTILICORP UNITED INC                       4.767 UCU     918005109     25.1700        17,150.00        405,179.95        431,665.50
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     35.6200         7,900.00        164,738.38        281,398.00
+VALERO ENERGY CORP.                        1.049 VLO     91913Y100Q    38.1200        19,191.16        533,835.30        731,567.01
+VALSPAR CORP                               1.363 VAL     920355104     39.6000         7,300.00        251,152.12        289,080.00
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     14.9800        14,158.00        333,172.64        212,086.84
+VECTREN CORPORATION                        4.420 VVC     92240G101     23.9800        10,066.00        205,387.85        241,382.68
+VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     24.5900        11,100.00        318,814.01        272,949.00
+VIAD CORP                                  1.520 VVI     92552R109     23.6800        13,100.00        259,600.43        310,208.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     19.5000        23,584.00        345,767.42        459,888.01
+VISX INC                                   0.000 EYE     92844S105     13.2500         8,100.00         77,031.02        107,325.00
+WADDELL & REED FINANCIAL-CL A              1.087 WDR     930059100     32.2000        11,800.00        356,273.84        379,960.00
+WALLACE COMPUTER SVCS INC                  3.475 WCS     932270101     18.9900         6,100.00        196,320.02        115,839.00
+WASHINGTON POST CL. B                      1.056 WPO     939640108Q   530.0000         1,429.00        755,455.22        757,370.00
+WAUSAU-MOSINEE PAPER CORP.                 2.809 WMO     943315101     12.1000         7,600.00        120,761.43         91,960.00
+WEATHERFORD INTERNATIONAL, INC             0.000 WFT     947074100     37.2600        17,015.00        486,082.33        633,978.90
+WEBSTER FINANCIAL CORPORATION              2.156 WBST    947890109     31.5300         7,300.00        190,009.33        230,169.00
+WESTAMERICA BANCORPORATION                 2.122 WABC    957090103     39.5700         5,100.00        186,672.99        201,807.00
+WESTERN GAS RESOURCES INC                  0.618 WGR     958259103     32.3200         4,800.00        177,400.53        155,136.00

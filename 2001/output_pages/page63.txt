@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+INDEPENDENCE COMMUNITY BANK                1.757 ICBC    453414104     22.7600       105,000.00      2,397,577.20      2,389,800.00
+INDYMAC BANCORP INC                        0.000 NDE     456607100     23.3800       126,000.00      3,504,054.80      2,945,880.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106     22.0200        81,000.00      1,471,254.05      1,783,620.00
+INFORMATION HOLDINGS INC.                  0.000 IHI     456727106     28.3100        19,000.00        504,294.87        537,890.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     34.8800       121,000.00      4,192,187.33      4,220,480.00
+INTERNATIONAL SPEEDWAY CORPORA             0.153 ISCA    460335201     39.1000        90,000.00      4,051,745.04      3,519,000.00
+JO-ANN STORES, INC.                        0.000 JAS.A   47758P109      7.1500       100,000.00      1,190,246.55        715,000.00
+KAYDON CORP                                2.116 KDN     486587108Q    22.6800        70,000.00      1,708,853.98      1,587,600.00
+KELLY SERVICES INC CL-A                    4.568 KELYA   488152208     21.8900        51,000.00      1,291,184.84      1,116,390.00
+KEMET CORP.                                0.000 KEM     488360108     17.7500       182,000.00      2,530,802.96      3,230,500.00
+KENNAMETAL INC                             1.688 KMT     489170100     40.2700        50,000.00      1,420,746.60      2,013,500.00
+KNIGHT RIDDER                              1.540 KRI     499040103Q    64.9300         7,500.00        397,809.75        486,975.00
+KORN/FERRY INTERNATIONAL                   0.000 KFY     500643200     10.6500        50,000.00        949,418.68        532,500.00
+LABRANCHE & CO., INC.                      0.000 LAB     505447102     34.4600       120,000.00      4,689,022.51      4,135,200.00
+LEAR CORP.                                 0.000 LEA     521865105     38.1400       125,000.00      4,658,912.54      4,767,500.00
+LEE ENTERPRISES                            1.869 LEE     523768109     36.3700        72,000.00      2,455,356.67      2,618,640.00
+LENNAR CORPORATION                         0.106 LEN     526057104     46.8200       107,000.00      3,951,553.48      5,009,740.00
+LEUCADIA NATIONAL CORP                     0.866 LUK     527288104     28.8700        99,000.00      3,219,682.09      2,858,130.00
+LONGS DRUG STORES INC                      2.395 LDG     543162101Q    23.3800        60,000.00      1,343,067.81      1,402,799.99
+LONGVIEW FIBRE CO                          4.064 LFB     543213102     11.8100        72,000.00        967,022.78        850,320.00
+LUBRIZOL CORP                              2.963 LZ      549271104     35.0900        87,000.00      2,291,674.67      3,052,830.00
+LYONDELL CHEMICAL COMPANY                  6.280 LYO     552078107Q    14.3300       237,000.00      3,644,560.54      3,396,210.00
+M&T BANK CORPORATION                       1.372 MTB     55261F104     72.8500       186,000.00     12,070,285.43     13,550,100.00
+MACROMEDIA INC                             0.000 MACR    556100105     17.8000        22,000.00        524,879.65        391,600.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     21.4000       105,000.00      2,365,533.19      2,247,000.00
+MANPOWER INC                               0.593 MAN     56418H100     33.7100        14,000.00        442,223.60        471,940.00
+MARSHALL & ILSLEY CORP                     1.833 MI      571834100     63.2800       201,000.00     10,450,591.08     12,719,280.00
+MARTIN MARIETTA MATERIALS                  1.201 MLM     573284106     46.6000        99,000.00      5,106,273.50      4,613,400.00
+MASTEC INC                                 0.000 MTZ     576323109      6.9500       100,000.00      2,133,151.36        695,000.00
+MDU RESOURCES GROUP                        3.268 MDU     552690109     28.1500       119,000.00      4,099,053.00      3,349,850.00
+MEAD CORPORATION                           2.201 MEA     582834107Q    30.8900        13,000.00        405,278.40        401,570.00
+MEDIA GENERAL INC - CL A                   1.364 MEG     584404107     49.8300        50,000.00      2,496,656.96      2,491,500.00
+MERCANTILE BANC.                           2.602 MRBK    587405101Q    43.0400       129,000.00      1,319,984.18      5,552,160.00
+METRIS COMPANIES INC.                      0.155 MXT     591598107     25.7100       131,000.00      3,430,635.83      3,368,010.00
+MINERALS TECHNOLOGIES INC                  0.214 MTX     603158106     46.6400        41,000.00      1,409,270.83      1,912,240.00
+MODINE MANUFACTURING CO                    4.286 MODI    607828100     23.3300        50,000.00      1,227,167.95      1,166,500.00
+MONTANA POWER CO                           0.000 MTP     612085100      5.7500       197,000.00      7,328,114.77      1,132,750.00
+MPS GROUP INC                              0.000 MPS     553409103      7.1400       175,000.00        926,501.03      1,249,500.00
+MURPHY OIL CORP                            1.784 MUR     626717102Q    84.0400        82,800.00      3,140,892.99      6,958,512.00

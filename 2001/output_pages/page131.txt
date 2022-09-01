@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 102
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - GROWT
+Instrument - COM       COMMON STOCK
+
+MICROTUNE INC                              0.000 TUNE    59514P109     23.4600        20,700.00        396,190.13        485,622.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     22.7000        11,400.00        228,321.83        258,780.00
+MONOLITHIC SYSTEM TECHNOLOGY               0.000 MOSY    609842109     20.6000        10,700.00        147,874.00        220,420.00
+MOVIE GALLERY INC                          0.000 MOVI    624581104     24.3600         9,700.00        233,497.16        236,292.00
+MTR GAMING GROUP INC                       0.000 MNTG    553769100     16.0000        17,900.00        270,453.23        286,400.00
+MYRIAD GENETICS INC                        0.000 MYGN    62855J104     52.6400        12,213.00        648,817.32        642,892.32
+NETEGRITY INC                              0.000 NETE    64110P107     19.3600        14,100.00        261,994.45        272,976.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200        12,300.00        244,503.80        246,246.00
+OAK TECHNOLOGY INC                         0.000 OAKT    671802106     13.7500        56,800.00        528,838.06        781,000.00
+OPTIMAL ROBOTICS CORP.                     0.000 OPMR    68388R208     35.4500        10,300.00        313,463.56        365,135.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     47.3000         7,359.00        253,733.78        348,080.70
+PANERA BREAD CO                            0.000 PNRA    69840W108     52.0400        10,063.00        367,826.84        523,678.52
+PEC SOLUTIONS INC                          0.000 PECS    705107100     37.6100        16,600.00        333,055.83        624,326.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     35.1700        26,982.00        671,939.50        948,956.94
+PETSMART INC                               0.000 PETM    716768106      9.8400        27,900.00        229,554.97        274,536.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     32.3100        17,165.00        381,867.09        554,601.15
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500         9,700.00        330,417.88        442,805.00
+PIXELWORKS INC                             0.000 PXLW    72581M107     16.0600        21,400.00        452,824.52        343,684.00
+POLARIS INDUSTRIES INC.                    1.731 PII     731068102     57.7500         7,659.00        352,200.00        442,307.25
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400        16,800.00        353,749.98        383,712.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     17.2800        26,300.00        429,477.96        454,464.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-DUN  IT-DUN         1.0000       205,182.47        205,182.49        205,182.46
+QUOVADX INC                                0.000 QVDX    74913K106      9.1500        23,295.00        284,455.65        213,149.25
+RETEK INC                                  0.000 RETK    76128Q109     29.8700        13,400.00        277,165.58        400,258.00
+RIVERSTONE NETWORKS INC                    0.000 RSTN    769320102     16.6000        28,100.00        316,605.35        466,460.00
+RYLAND GROUP INC                           0.218 RYL     783764103     73.2000         4,773.00        210,854.13        349,383.59
+SANGSTAT MEDICAL CORP                      0.000 SANG    801003104     19.6400         7,700.00        160,750.80        151,227.99
+SCIOS INC                                  0.000 SCIO    808905103     23.7700        23,248.00        547,527.15        552,604.96
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107     34.1200         7,800.00        255,842.70        266,136.00
+SECURE COMPUTING CORP                      0.000 SCUR    813705100     20.5500        11,800.00        263,819.26        242,490.00
+SONICWALL INC                              0.000 SNWL    835470105     19.4400        25,900.00        441,257.29        503,496.00
+SONOSIGHT INC.                             0.000 SONO    83568G104     25.6900         9,600.00        212,174.28        246,624.00
+SPINNAKER EXPLORATION CO                   0.000 SKE     84855W109     41.1600         5,600.00        240,513.95        230,496.00
+STANCORP FINANCIAL GROUP                   0.677 SFG     852891100     47.2500         6,800.00        284,489.81        321,300.00
+STELLENT INC                               0.000 STEL    85856W105     29.5600        20,893.00        638,959.74        617,597.08
+STERICYCLE INC                             0.000 SRCL    858912108     60.8800        17,319.00        667,343.82      1,054,380.72
+STERIS CORP                                0.000 STE     859152100Q    18.2700        15,684.00        279,031.01        286,546.68
+TARO PHARMACEUTICAL INDUS                  0.000 TARO    M8737E108     39.9500        13,500.00        274,116.12        539,325.00
+TECHNITROL INC.                            0.506 TNL     878555101     27.6200         6,900.00        179,295.16        190,578.00

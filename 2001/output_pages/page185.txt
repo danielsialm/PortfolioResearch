@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MINERALS TECHNOLOGIES INC                    0.214     603158106   MTX             43,900        1,532,160.14        2,047,496.00
+MINN MINING & MFG CO                         2.030     604059105 Q MMM            748,200       62,538,504.42       88,444,722.00
+MIPS TECHNOLOGIES INC CL B                   0.000     604567206   MIPSB           78,100        2,208,961.31          623,238.00
+MIRANT CORP                                  0.000     604675108   MIR          1,409,236       26,422,343.87       22,575,960.68
+MOBILE MINI INC.                             0.000     60740F105   MINI            13,800          398,268.00          539,856.00
+MODINE MANUFACTURING CO                      4.286     607828100   MODI            54,900        1,383,185.68        1,280,817.00
+MOHAWK INDUSTRIES INC.                       0.000     608190104   MHK             96,700        2,029,738.36        5,306,896.00
+MOLEX INC                                    0.323     608554101   MOLX           283,196        9,083,089.78        8,764,916.19
+MONACO COACH CORPORATION                     0.000     60886R103   MNC             54,150          776,250.02        1,184,260.50
+MONOLITHIC SYSTEM TECHNOLOGY                 0.000     609842109   MOSY            10,700          147,874.00          220,420.00
+MONTANA POWER CO                             0.000     612085100   MTP            212,400        7,541,051.72        1,221,300.00
+MOODY’S CORPORATION                          0.451     615369105   MCO            136,710        2,769,112.49        5,449,260.59
+MOOG INC. CL A                               0.000     615394202   MOG.A           22,650          459,560.23          493,770.00
+MORGAN STANLEY DEAN WITTER & COMPANY         1.644     617446448 Q MWD          2,198,964       99,014,729.19      123,010,046.17
+MOTOROLA INC                                 1.065     620076109 Q MOT          4,700,084      116,168,102.61       70,595,261.90
+MOVIE GALLERY INC                            0.000     624581104   MOVI             9,700          233,497.16          236,292.00
+MPS GROUP INC                                0.000     553409103   MPS            332,000        1,947,003.11        2,370,480.00
+MRO SOFTWARE INC                             0.000     55347W105   MROI            22,500          799,231.63          526,050.00
+MSA INDUSTRIAL DIRECT CO-A                   0.000     553530106   MSM             32,000          523,794.07          632,000.00
+MTR GAMING GROUP INC                         0.000     553769100   MNTG            17,900          270,453.23          286,400.00
+MUELLER INDUSTRIES INC.                      0.000     624756102   MLI             44,600        1,212,718.47        1,482,950.00
+MURPHY OIL CORP                              1.784     626717102 Q MUR             89,500        3,491,847.63        7,521,580.00
+MUTUAL RISK MANAGEMENT LTD                   0.547     628351108   MM              41,100          891,649.15          300,030.00
+MYERS INDUSTRIES INC.                        1.758     628464109 Q MYE             23,430          325,268.96          319,819.50
+MYLAN LABS                                   0.426     628530107 Q MYL            268,200        7,652,943.24       10,057,500.00
+MYRIAD GENETICS INC                          0.000     62855J104   MYGN            12,213          648,817.32          642,892.32
+NABORS INDUSTRIES                            0.000     629568106   NBR          1,157,037       31,123,717.20       39,721,080.21
+NASH FINCH CO.                               1.157     631158102   NAFC            18,900          343,431.07          587,790.00
+NASSDA CORP                                  0.000     63172M101   NSDA            34,940          581,919.23          785,800.60
+NATIONAL CITY CORP                           4.035     635405103 Q NCC          1,243,190       32,860,724.73       36,350,875.61
+NATIONAL COMMERCE FINANCIAL                  2.371     63545P104   NCF            418,150        8,825,839.43       10,579,195.00
+NATIONAL FUEL & GAS                          4.089     636180101 Q NFG            145,700        3,605,805.44        3,598,790.00
+NATIONAL INSTRUMENTS CORP.                   0.000     636518102   NATI            71,800        1,969,499.92        2,689,628.00
+NATIONAL PRESTO INDS INC                     7.207     637215104   NPK              6,500          242,578.58          180,375.00
+NATIONAL SEMICONDUCTOR CORP.                 0.000     637640103   NSM            306,920        8,132,149.02        9,450,066.80
+NATIONAL-OILWELL INC.                        0.000     637071101   NOI            208,700        6,262,302.67        4,301,307.00
+NATURES SUNSHINE PRODS INC.                  1.107     639027101   NATR            22,600          186,283.13          265,324.00
+NAUTICA ENTERPRISES INC.                     0.000     639089101   NAUT            38,200          923,486.66          488,578.00
+NAVISTAR INTL. CORP.                         0.000     63934E108   NAV            119,822        3,404,172.04        4,732,968.98
+NBTY INC.                                    0.000     628782104   NBTY           111,700        1,006,324.60        1,306,890.00

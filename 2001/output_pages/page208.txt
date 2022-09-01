@@ -1,0 +1,17 @@
+ASOF03   Date 01/24/2002 Time 21:29:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REE       RE EAST REGION
+Instrument - X         OTHER
+
+TERRAMICS LAKE CENTER          PHILADELPHIA PA                 5.600         RLKCTR                  2,408,937.65      1,900,000.00
+
+Instrument Total             1                                                                       2,408,937.65      1,900,000.00
+
+Portfolio Total             23                                                                     917,032,559.32  1,252,179,999.15
+

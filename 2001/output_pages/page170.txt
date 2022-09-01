@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 015
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CUMMINS INC.                                 3.113     231021106 Q CUM             66,490        2,829,085.54        2,562,524.60
+CUNO INCORPORATED                            0.000     126583103   CUNO            15,800          419,484.48          481,900.00
+CURATIVE HEALTH SERVICES INC.                0.000     231264102   CURE            12,200           83,401.84          164,700.00
+CVS CORP.                                    0.777     126650100 Q CVS          1,180,109       42,278,152.20       34,931,226.40
+CYGNUS INC.                                  0.000     232560102   CYGN            17,700          258,495.93           92,925.00
+CYMER INC                                    0.000     232572107   CYMI            43,300        1,116,669.67        1,157,409.00
+CYPRESS SEMICONDUCTOR CORP                   0.000     232806109   CY             240,700        6,981,686.98        4,797,151.00
+CYTEC INDUSTRIES                             0.000     232820100 Q CYT            128,200        4,399,052.66        3,461,400.00
+CYTYC CORPORATION                            0.000     232946103   CYTC           248,750        6,700,413.05        6,492,375.01
+D.R. HORTON INC.                             0.616     23331A109   DHI             94,800        1,546,450.61        3,077,208.00
+D&K HEALTHCARE RESOURCES                     0.175     232861104   DKWD             6,600          181,641.61          375,870.00
+DANA CORP                                    0.288     235811106 Q DCN            547,589       14,482,207.21        7,600,535.32
+DANAHER CORP                                 0.132     235851102   DHR            267,994        9,943,951.50       16,162,718.15
+DARDEN RESTAURANTS INC                       0.226     237194105   DRI            254,308        5,207,634.90        9,002,503.22
+DATASCOPE CORP                               0.589     238113104   DSCP            22,800          602,826.04          773,376.00
+DATASTREAM SYSTEMS INC.                      0.000     238124101   DSTM            82,500          935,397.17          509,025.00
+DAVOX CORP                                   0.000     239208101   DAVX            61,800          569,601.35          597,606.00
+DDI CORP                                     0.000     233162106   DDIC            94,400          959,043.37          928,896.00
+DEAN FOODS CO                                0.000     242370104   DF              85,844        3,608,998.56        5,854,615.36
+DEERE & CO.                                  2.015     244199105 Q DE             499,813       21,004,744.32       21,821,835.58
+DELL COMPUTER CORP.                          0.000     247025109   DELL         5,179,343      125,467,508.50      140,774,542.73
+DELPHI AUTOMOTIVE SYSTEMS CORPORATION        2.049     247126105   DPH          1,280,586       18,273,824.40       17,492,804.75
+DELPHI FINANCIAL GROUP CL-A                  0.840     247131105   DFG             13,400          467,823.15          446,220.00
+DELTA & PINE LAND CO.                        0.883     247357106   DLP             40,600        1,196,166.89          918,778.00
+DELTA AIR LINES, INC.                        0.341     247361108 Q DAL            352,743       16,278,306.01       10,321,260.18
+DELTIC TIMBER CORP                           0.912     247850100   DEL             12,500          269,004.48          342,500.00
+DELUXE CORP.                                 3.559     248019101 Q DLX             25,874          750,661.21        1,075,840.91
+DENDRITE INTERNATIONAL INC.                  0.000     248239105   DRTE            38,900          659,172.70          545,767.00
+DENTSPLY INTERNATIONAL INC.                  0.557     249030107 Q XRAY           110,100        3,960,208.86        5,527,020.00
+DEVON ENERGY CORPORATION                     0.517     25179M103   DVN            389,704       17,482,022.93       15,062,059.62
+DEVRY INC.                                   0.000     251893103   DV              98,000        1,746,952.11        2,788,100.00
+DIAGNOSTIC PRODUCTS CORP                     0.546     252450101   DP              29,000          351,968.83        1,274,550.00
+DIAL CORP/AZ                                 0.932     25247D101 Q DL             123,900        2,076,327.26        2,124,884.99
+DIEBOLD INC                                  1.582     253651103   DBD            133,200        3,956,897.87        5,386,608.00
+DIGENE CORP                                  0.000     253752109   DIGE            14,100          380,932.97          415,950.00
+DIGEX INC                                    0.000     253756100   DIGX           244,700          436,944.95          731,653.00
+DIGI INTERNATIONAL INC                       0.000     253798102   DGII            60,900          460,413.69          387,933.00
+DIGITAL INSIGHT                              0.000     25385P106   DGIN             7,400          164,617.18          165,464.00
+DIGITAL RIVER INC                            0.000     25388B104   DRIV            48,500          752,603.52          772,120.00
+DILLARDS INC. CL-A                           1.000     254067101 Q DDS            104,304        2,281,664.51        1,668,863.99

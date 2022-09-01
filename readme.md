@@ -6,7 +6,8 @@ Code to scrape the portfolio stock information from the Ohio State Teacher Retir
 run `python3 parse.py <YEAR>` to scrape the stocks from that year where `<YEAR>` indicates the directory that contains the necessary information to properly scrape (see **Reference**)
 
 #### Flags
-`-q` early stop for program, stops after splitting by account (used to debug type splits)
+`-q1` early stop for program, stops after splitting by pages
+`-q2` early stop for program, stops after splitting by account
 
 #### Output
 Along with outputting information about the pages and accounts, the scraped stocks can be found in the `stock_data.txt` file.\

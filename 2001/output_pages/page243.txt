@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+BOC GROUP GBP0.25                            5.026     0108120      BOC_L        28,598.00          414,451.86
+BOEHLER-UDDEHOLM A                           3.456     4121305      BOEH_        12,200.00          478,178.00
+BOOTS CO ORD 25P                             6.673     0111441      BOOT_        60,549.00          574,313.01
+BOUYGUES                                     0.760     4002121      EN_FP         6,761.00          222,777.82
+BP AMOCO                                     8.549     0798059      BP/_L     1,416,234.00       10,706,421.80
+BRAMBLES INDS LTD                            0.129     6120009      BIL_A       221,368.00        1,084,903.10
+BRIT AMER TOBACCO                           15.592     0287580      BATS_       157,479.00        1,311,232.51
+BRITISH AEROSPACE                           56.338     0263494      BA/_L       123,557.00          559,992.81
+BRITISH SKY BROADC                           0.000     0141192      BSY_L        65,894.00          661,168.50
+BT GROUP                                     0.000     3091357      BT/A_       532,554.00        4,681,794.31
+BWT AG(BENCKISER W                           0.698     4119054      BWTA_        15,100.00          361,131.51
+CABLE + WIRELESS O                          52.694     0162557      CW/_L       185,870.00          898,527.54
+CADBURY SCHWEPPES                            5.252     0610700      CBRY_       233,622.00        1,420,693.01
+CANON INC JPY50                              0.000     6172323      7751_        80,000.00        2,541,674.50
+CARREFOUR EUR 2.5                            0.517     5641567      CA_FP        19,949.00        1,114,247.42
+CARTER HOLT HARVEY LIMITED                   0.125     6178406      CAH_N     2,248,200.00        1,650,327.62
+CENTRICA 5.55P                               4.114     0573438      CNA_L       535,516.00        1,658,068.27
+CGU ORD 25P(SICOVA                           9.472     0216238      CGNU_       181,637.00        2,316,727.88
+CHEUNG KONG(HLDGS)                           0.000     6190273      1_HK         68,600.00          716,453.91
+CHUBU ELECTRIC POWER CO INC                  0.000     6195609      9502_       136,200.00        2,657,201.65
+CIE DE ST. GOBAIN                            1.050     4768371      SGO_F         2,475.00          353,041.77
+CLARIANT AG-REG                              2.097     7113990      CLN_V         2,500.00           42,417.46
+CLP HLDGS HKD5                               0.078     6097017      2_HK        229,000.00          886,490.36
+COCA-COLA HELLENIC BOTTLING SA               0.761     4420723      EEEK_        12,600.00          184,544.07
+COCA-COLA WEST JAPAN                         0.000     6163286      2579_        24,900.00          535,173.76
+COLONIAL FIRST STATE PROP                    3.285     6206062      CFT_A       494,937.00          558,375.51
+COMMENWEALTH BK OF AUSTRALIS AUD 2.0         0.600     6215035      CBA_A       202,722.00        3,087,819.85
+COMMERCIAL BANK OF GREECE                    1.895     4212823      TEMP_         9,400.00          325,354.34
+COMPAGNIE FIN RICHEMONT                      0.345     7151116      CFR_V         3,700.00           78,688.59
+COMPASS GROUP                                1.705     0533153      CPG_L       123,514.00          977,659.93
+CONTACT ENERGY LTD                           0.000     6152529      CEN_N       907,300.00        1,525,833.77
+CREDIT SUISSE GROUP                          0.000     7171589      CSGN_         8,555.00          285,477.35
+CRH                                          0.797     0182704      CRH_I         8,000.00          145,157.41
+CSL LIMITED                                  0.066     6185495      CSL_A        30,800.00          766,906.69
+DAIMLERCHRYSLER AG                           1.573     5529027      DCX_G        14,400.00          511,272.78
+DELHAIZE-LE LION N                           1.356     4262118      DELB_        17,700.00          934,476.47
+DEN NORSKE BANK NO                           0.007     4263304      DNB_N       258,000.00        1,159,248.87
+DEUTSCHE BANK AG O                           0.990     5750355      DBK_G        10,600.00          641,416.77
+DEUTSCHE TELEKOM D                           1.702     5842359      DTE_G        42,800.00          680,314.18

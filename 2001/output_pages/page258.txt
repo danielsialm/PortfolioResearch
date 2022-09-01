@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 037
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+KOREA TELECOM FREETEL                        0.000     6201421      3239_        51,395.00        1,302,876.36
+LARSEN & TOUBRO LIMITED                      0.070     6100164      LT_IN        26,251.00           88,135.01
+LARSEN + TOUBRO GD                           3.333     4544344      LTO_L        38,000.00          430,350.00
+LUKOIL HLDGS SPND                            1.877     2537432      LUKOY        42,298.00        2,412,674.04
+MAGYAR OLAJ-ES GAZIPARE RESZVENYTAR          0.000     4742494      MOL_H        64,568.00          968,235.54
+MAHANAGAR TELEPHONE NIGAM                    0.000     6117807      ZMTNL       240,054.00          687,458.22
+MALAKOFF BERHAD                              0.000     6555924      MAL_M     1,064,505.00          867,507.29
+MALAYSIA INTL SHIPPING-FRGN                  0.018     6558031      MISF_       560,832.00        1,010,388.19
+MALAYSIAN PACIFIC INDUSTRIES                 0.000     6556693      MPI_M       311,046.00        1,008,608.72
+MATAV RT                                     0.000     4577469      MATAV       136,127.00          700,109.73
+MERCANTIL SERVICIOS FINAN-B                  0.003     2095190      MVZ/B        29,904.79           35,377.41
+METRO CASH + CARRY                           0.000     6526986      MTC_S     8,284,017.95        1,707,905.18
+MIGROS TRL1000                               0.000     4593034      MIGRS     3,457,668.00          245,180.37
+MOBILE TELESYSTEMS ADR                       0.000     2603225      MBT          20,081.00          535,473.70
+MOBINIL-EGYPTIAN MOBILE SERV                 0.000     6103925      EMPN_        43,776.00          644,486.18
+MOSENERGO                                   24.154     5467031      MSNG$    27,154,332.00        1,089,278.74
+NAMPAK ORD ZAR0.05                           0.000     6621397      NPK_S     1,304,178.00        2,006,927.26
+NATIONAL FINANCE T                           0.000     6625560      NFS/F       310,900.00          105,293.40
+NATIONAL PETROCHEMICAL-FOREI                 0.368     6627298      NPC/F        41,700.00           37,146.39
+NEDCOR R1                                    0.000     6628008      NED_S       275,557.00        4,414,734.73
+NIEN HSING TEXTILE CO LTD                    0.000     6591928      1451_     2,284,400.00        1,757,756.71
+OLD MUTUAL                                   0.000     6155131      OML_S     1,544,379.00        2,742,125.32
+ORASCOM CONSTRUCTIONS INDUS                  0.016     6146975      ORCI_        14,374.80          103,029.75
+ORBIS PLN2                                   0.000     5349173      ORB_P        54,089.00          272,815.46
+ORGANIZACION SORIANA                         0.000     2620172      SORIA       433,490.00        1,082,016.42
+OTP BANK                                     0.000     4572282      OTP_H        36,820.00        1,781,285.39
+PEREZ COMPAC                                 1.734     2539999      PC_AR       237,613.00          394,242.00
+PETROCHINA CO                                0.178     6226576      857_H    10,802,000.00        2,356,402.33
+PETROL BRASILEIROS                           0.013     2684532      PETR4       143,471.00        3,650,722.83
+PETROLEO BRASILEIRO S.A.                     0.068     2682365      PETR3       119,609.00        3,311,448.38
+POHANG IRON & STEEL COMPANY ADR              1.739     2692795      PKX          35,660.00          731,743.20
+POHANG IRON+STEEL                            0.000     6693233      0549_        30,889.00        2,425,058.70
+POLSKI KONCERN NAFTOWY ORLEN                 0.066     5810066      PKN_P        60,385.00          301,391.06
+PRESIDENT CHAIN STORE CORP                   0.000     6704986      2912_     1,111,600.00        2,136,644.34
+PT ANEKA TAMBANG TBK                         0.000     6053859      ANTM_       252,500.00           31,438.87
+PT ASTRA INTERNATIONAL INC                   0.000     6291712      ASII_       641,000.00          395,539.44
+PT BANK PAN INDONESIA                        0.000     6291660      PNBN_     1,351,000.00           64,223.17
+PT BHAKTI INVESTAMA                          0.000     6211516      BHIT_       527,500.00           39,499.81
+PT INDOFOOD SUKSES MAK                       0.000     6283979      INDF_     2,341,000.00          255,621.95

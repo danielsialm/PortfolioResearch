@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 108
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - VALUE
+Instrument - COM       COMMON STOCK
+
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    14.1300        33,300.00        434,221.28        470,529.00
+KIRBY CORP.                                0.000 KEX     497266106     27.5500         5,500.00        140,323.92        151,525.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        17,500.00        226,231.37        300,125.00
+LACLEDE GROUP HLDG. CO.                    5.606 LG      505597104     23.9000         8,200.00        186,068.65        195,980.00
+LANDAMERICA FINANCIAL GROUP                0.696 LFG     514936103     28.7000        11,500.00        436,067.14        330,050.00
+LANDRY’S RESTAURANTS INC.                  0.536 LNY     51508L103     18.6500        21,100.00        236,224.76        393,515.00
+LITHIA MOTORS INC - CL A                   0.000 LAD     536797103     20.7000         4,400.00         86,412.93         91,080.00
+LONE STAR STEAKHOUSE & SALOON              3.371 STAR    542307103     14.8300        17,100.00        204,051.10        253,593.00
+MAF BANCORP INC                            1.627 MAFB    55261R108     29.5000         8,300.00        198,591.17        244,850.00
+MDC HOLDINGS INC                           0.740 MDC     552676108     37.7900        13,673.00        353,875.34        516,702.67
+MESABA HOLDINGS INC                        0.000 MAIR    59066B102      7.1200         5,000.00         45,762.28         35,599.99
+MIDAS INC.                                 2.782 MDS     595626102     11.5000        12,000.00        132,027.69        138,000.00
+MONACO COACH CORPORATION                   0.000 MNC     60886R103     21.8700        21,600.00        370,656.00        472,392.00
+NASH FINCH CO.                             1.157 NAFC    631158102     31.1000         6,100.00        100,583.52        189,710.00
+NORTHWESTERN CORPORATION                   6.033 NOR     668074107     21.0500         4,000.00         82,280.00         84,200.00
+NUI CORP                                   4.135 NUI     629431107     23.7000         7,400.00        228,700.44        175,380.00
+OFFSHORE LOGISTICS                         0.000 OLOG    676255102     17.7600        19,600.00        434,542.56        348,096.00
+OSHKOSH TRUCK CORPORATION                  0.717 OTRKB   688239201     48.7500         9,400.00        411,156.15        458,250.00
+PACIFICARE HEALTH SYSTEM                   0.000 PHSY    695112102     16.0000         3,300.00         52,015.83         52,800.00
+PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500         3,000.00         51,165.00         43,050.00
+PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000         7,050.00        263,000.35        186,120.00
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     33.9200         5,700.00        175,237.95        193,344.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     14.2000        21,500.00        234,439.00        305,300.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000         9,800.00        237,940.08        142,100.00
+PHILLIPS-VAN HEUSEN                        1.376 PVH     718592108     10.9000        20,800.00        269,034.21        226,720.00
+PIER 1 IMPORTS INC/DEL                     0.922 PIR     720279108     17.3400        37,200.00        519,045.80        645,048.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      7.9400        31,100.00        263,493.80        246,934.00
+POGO PRODUCING CO                          0.456 PPP     730448107     26.2700        16,400.00        387,961.94        430,828.00
+POPE & TALBOT INC                          4.210 POP     732827100     14.2500         5,900.00         73,868.00         84,075.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     11.0500        33,500.00        345,597.01        370,175.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC  IT-JAC         1.0000       379,331.39        379,331.39        379,331.39
+PROVIDENT BANKSHARES CORPORATI             3.292 PBKS    743859100     24.3000        15,750.00        328,166.88        382,725.00
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100      8.1600        11,700.00         71,001.45         95,472.00
+PUBLIC SERVICE CO OF N MEX                 2.862 PNM     69349H107     27.9500         9,100.00        270,482.00        254,345.00
+QUANEX CORP                                2.261 NX      747620102     28.3000         7,900.00        205,363.92        223,570.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     17.2000        14,800.00        250,934.00        254,560.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     22.5400        13,800.00        314,791.80        311,052.00
+RAYMOND JAMES FINANCIAL INC                1.013 RJF     754730109     35.5200         3,200.00         89,721.00        113,664.00
+RCN CORPORATION                            0.000 RCNC    749361101      2.9300         4,800.00         14,243.04         14,064.00

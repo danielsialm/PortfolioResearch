@@ -1,0 +1,16 @@
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    49,461.96        4,946,196.95
+
+Instrument Total               1                                                 49,461.96        4,946,196.95
+
+Portfolio Total              235                                          2,808,548,369.14      256,559,826.97        248,216,380.28

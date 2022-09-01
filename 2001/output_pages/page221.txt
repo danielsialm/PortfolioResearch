@@ -1,0 +1,25 @@
+ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 015
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REI       RE INTERNATIONAL
+Instrument - I         INTERNATIONAL
+
+BLACKSTONE EUROPEAN FUND       WESTERN EUROPE                  0.000         RBKSTN                  5,554,816.00      5,554,816.00
+DOUGHTY HANSON & CO EUROPEAN   MISC., EUROPE                   0.000         RDGHTY                 18,000,295.52     18,000,295.52
+EUROPA-INTERNATIONAL           MISC EUROPE                     0.000         REUROP                 15,658,288.03     12,564,476.04
+LEND LEASE ASIA                ASIA                            0.000         RLNDLA                  9,333,340.00     11,828,578.00
+LEND LEASE GLOBAL              EUROPE                          0.000         RLNDLS                 23,764,000.00     25,440,357.32
+ORION EUROPEAN REAL ESTATE FUN MISC EUROPE                     0.000         RORION                 20,353,908.89     20,030,722.78
+PRUDENTIAL PROP. PRTNRS.-INT’L EUROPE                          0.000         RPRUDE                 21,382,025.00     23,323,744.00
+SOROS RE INVST-INT’L           EUROPE                          0.000         RSOROS                 20,498,940.00     18,277,779.00
+
+Instrument Total             8                                                                     134,545,613.44    135,020,768.66
+
+Portfolio Total              8                                                                     134,545,613.44    135,020,768.66
+
+Group Total                229                              4,470,772,775.72 /    14,490,584.00  4,830,705,536.30  5,905,631,965.77

@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 032
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+NSTAR CO.                                    4.593     67019E107   NST            101,800        4,189,920.94        4,565,730.00
+NUCOR CORP                                   1.284     670346105 Q NUE            213,729       10,177,894.93       11,319,087.82
+NUEVO ENERGY COMPANY                         0.000     670509108   NEV             16,200          305,070.30          243,000.00
+NUI CORP                                     4.135     629431107   NUI              7,400          228,700.44          175,380.00
+NVIDIA CORP                                  0.000     67066G104   NVDA           287,200        9,987,296.41       19,213,679.98
+NVR INC                                      0.000     62944T105   NVR              7,800          468,046.74        1,591,200.00
+NYFIX INCORPORATED                           0.000     670712108   NYFX            83,800        1,935,835.29        1,677,676.00
+O’CHARLEYS INC                               0.000     670823103   CHUX            24,600          432,219.28          455,345.98
+O’REILLY AUTOMOTIVE INC.                     0.000     686091109   ORLY            79,330        1,455,660.45        2,893,165.10
+OAK TECHNOLOGY INC                           0.000     671802106   OAKT            56,800          528,838.06          781,000.00
+OAKLEY INC.                                  0.000     673662102   OO              23,700          296,157.07          385,361.99
+OCCIDENTAL PETROLEUM CORP.                   3.769     674599105 Q OXY            667,540       15,340,729.92       17,709,836.22
+OCEAN ENERGY INC                             0.833     67481E106   OEI            366,400        5,258,466.97        7,034,880.00
+OCEANEERING INT’L. INC.                      0.000     675232102   OII             47,910          913,279.00        1,059,769.20
+ODYSSEY HOLDINGS CORP                        0.565     67612W108   ORH             98,100        1,663,429.65        1,736,370.00
+OFFICE DEPOT INC                             0.000     676220106   ODP            543,609        7,657,740.40       10,078,510.85
+OFFSHORE LOGISTICS                           0.000     676255102   OLOG            73,700        1,586,611.51        1,308,912.00
+OGE ENERGY CORP                              5.762     670837103   OGE            144,500        3,876,698.21        3,335,060.00
+OHIO CASUALTY CORP.                          0.000     677240103 Q OCAS           112,900        1,204,378.96        1,812,045.00
+OLD REPUBLIC INT’L CORP.                     2.142     680223104   ORI            248,600        5,995,463.27        6,963,286.00
+OLIN CORP                                    4.956     680665205 Q OLN             92,400        1,910,094.50        1,491,336.00
+OM GROUP, INC.                               0.785     670872100 Q OMG             23,600          521,450.13        1,562,084.00
+OMI CORPORATION                              0.000     Y6476W104   OMM             73,800          547,389.36          293,724.00
+OMNICELL INC                                 0.000     68213N109   OMCL            81,600          649,604.55          726,240.00
+OMNICOM GROUP                                0.895     681919106   OMC            359,898       22,484,037.40       32,156,886.29
+OMNOVA SOLUTIONS INC                         0.000     682129101   OMN             39,000          277,520.30          265,200.00
+ON ASSIGNMENT INC                            0.000     682159108   ASGN             2,500           66,217.09           57,425.00
+ONEOK INC.                                   3.475     682680103 Q OKE            118,800        1,837,764.65        2,119,391.99
+ONMICARE INC.                                0.361     681904108   OCR            186,800        3,885,527.59        4,647,584.00
+OPTIMAL ROBOTICS CORP.                       0.000     68388R208   OPMR            29,600          764,162.37        1,049,319.98
+ORACLE SYS. CORP.                            0.000     68389X105   ORCL        11,168,926      116,224,578.02      154,242,868.05
+ORATEC INTERVENTIONS INC                     0.000     68554M108   OTEC            27,000          146,725.10          174,690.00
+ORBITAL SCIENCES CORP.                       0.000     685564106   ORB            205,100          792,400.15          847,063.00
+ORGANOGENESIS INC.                           0.000     685906109   ORG             24,100          285,697.73          115,680.00
+ORTHODONTIC CENTERS OF AMER                  0.000     68750P103   OCA             47,800          835,033.24        1,457,900.00
+ORTHOLOGIC CORP                              0.000     68750J107   OLGC           110,000          456,922.40          537,900.00
+OSHKOSH B’GOSH CL-A                          0.572     688222207 Q GOSHA           30,200          904,453.83        1,266,588.00
+OSHKOSH TRUCK CORPORATION                    0.717     688239201   OTRKB           26,700          957,975.35        1,301,625.00
+OSTEOTECH INC                                0.000     688582105   OSTE               100            1,996.88              555.00
+OUTBACK STEAKHOUSE INC                       0.000     689899102   OSI            175,450        5,061,974.89        6,009,162.50

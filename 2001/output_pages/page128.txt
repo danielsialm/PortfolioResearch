@@ -1,0 +1,56 @@
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 099
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - VA
+Instrument - COM       COMMON STOCK
+
+KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100      9.3500        57,300.00        481,409.84        535,755.00
+LONGS DRUG STORES INC                      2.395 LDG     543162101Q    23.3800        29,200.00        698,147.93        682,695.99
+LORAL SPACE COMM. (WI)                     0.000 LOR     G56462107      2.9900       220,900.00        698,435.57        660,491.00
+LYDALL INC.                                0.000 LDL     550819106     10.0000        24,200.00        219,679.30        242,000.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     21.4000        13,700.00        292,029.20        293,180.00
+MAXTOR CORP                                0.000 MXO     577729205      6.3400       236,400.00      1,428,843.29      1,498,776.00
+MAXWELL TECHNOLOGIES INC                   0.000 MXWL    577767106      9.8000        41,200.00        306,458.80        403,760.00
+MEREDITH CORPORATION                       0.953 MDP     589433101Q    35.6500        21,700.00        732,763.66        773,605.00
+MILLIPORE CORPORATION                      0.724 MIL     601073109Q    60.7000         9,700.00        503,729.30        588,790.00
+MPS GROUP INC                              0.000 MPS     553409103      7.1400       142,500.00        706,920.61      1,017,450.00
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     20.6100        21,500.00        378,485.34        443,115.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     39.5000        58,500.00      1,534,403.76      2,310,750.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106      4.1300       205,100.00        792,400.15        847,063.00
+PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500        45,900.00        617,119.37        658,665.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101     24.6600        31,300.00        542,580.52        771,858.00
+PEPSIAMERICAS INC                          0.289 PAS     71343P200Q    13.8000        74,900.00      1,044,316.09      1,033,620.00
+PHARMACOPEIA INC                           0.000 PCOP    71713B104     13.8900        45,200.00        716,968.15        627,828.00
+PITTSTON BRINK’S GROUP                     0.452 PZB     725701106Q    22.1000        89,000.00      1,828,270.88      1,966,900.00
+PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100      9.7500       104,300.00        998,455.38      1,016,925.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-DAV  IT-DAV         1.0000     5,573,293.14      5,573,293.07      5,573,293.15
+QUANTA SERVICES INC.                       0.000 PWR     74762E102     15.4300        20,500.00        321,098.74        316,315.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      9.8500       225,700.00      2,711,808.67      2,223,145.00
+RYDER SYS. INC.                            2.708 R       783549108Q    22.1500        56,100.00      1,062,718.34      1,242,615.00
+SPACELABS MEDICAL INC                      0.000 SLMD    846247104     12.1500        54,000.00        661,725.66        656,100.00
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     21.5800        14,400.00        269,332.00        310,752.00
+SYMBOL TECHNOLOGIES INC                    0.125 SBL     871508107     15.8800        17,000.00        220,320.00        269,960.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     16.2900       123,000.00      1,894,218.91      2,003,670.00
+TYSON FOODS INC. CL-A                      1.385 TSN     902494103     11.5500        55,200.00        588,764.52        637,560.00
+U.S. INDUSTRIES INC.                       0.000 USI     912080108      2.5600       160,000.00        740,543.65        409,600.00
+UNISYS CORP.                               0.000 UIS     909214108     12.5400       120,800.00      1,629,425.40      1,514,832.00
+UNOVA INC.                                 0.000 UNA     91529B106      5.8000       132,500.00        427,984.28        768,500.00
+VISX INC                                   0.000 EYE     92844S105     13.2500        59,900.00        954,083.64        793,675.00
+VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     17.1000         8,900.00        115,696.40        152,190.00
+WABTEC                                     0.325 WAB     929740108     12.3000        80,400.00        970,763.09        988,920.00
+
+Instrument Total            73                                                    11,195,493.14     65,851,453.58     66,804,172.13
+
+Instrument -WARRANT   WARRANT
+
+DIME BANCORP-WT                            0.000 DIMEZ   25429Q110      0.1500       380,200.00        107,275.42         57,030.00
+
+Instrument Total             1                                                       380,200.00        107,275.42         57,030.00
+
+Portfolio Total             74                                                    11,575,693.14     65,958,729.00     66,861,202.13
+

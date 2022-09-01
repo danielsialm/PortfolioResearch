@@ -1,0 +1,50 @@
+ASOF03   Date 01/24/2002 Time 21:29:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - A         APARTMENT
+
+AUTUMN RIDGE                   ATLANTA, GA                     6.580         RAUTUM                  6,878,730.24      7,300,000.00
+BRIDGEWATER                    ATLANTA, GA                     7.430         RBRIDG                 41,157,771.50     42,200,000.01
+CHAPARRAL CREEK                IRVING, TX                      8.000         RCREEK                 29,448,531.89     31,287,939.81
+HOMES OF PRAIRIE SPRINGS       DALLAS, TX                      9.100         RHMPRS                 32,665,931.97     35,500,000.00
+JEFFERSON PARK                 IRVING, TX                      8.000         RJPARK                 23,760,225.00     25,900,000.00
+JEFFERSON RIDGE                IRVING, TX                      8.000         RRIDGE                 26,017,725.00     25,300,000.00
+WATERS PARK                    AUSTN, TX                       8.200         RWATPK                 29,191,791.00     34,400,000.00
+WYNFIELD TRACE                 ATLANTA, GA                     5.200         RTRACE                  9,689,312.58     11,500,000.00
+
+Instrument Total             8                                                                     198,810,019.18    213,387,939.82
+
+Instrument -I      INDUSTRIAL
+
+15200 TRINITY                  FORT WORTH, TX.                 0.000         RMATTE                 18,101,084.71     14,000,000.00
+ACLINE DISTRIBUTION            TAMPA, FL                       9.630         RACLIN                  5,130,576.39      5,200,000.00
+ALLIANCE AIRLINES              ATLANTA, GA                     9.100         RALLNC                  4,477,000.00      4,100,000.00
+CROSSROADS BUSINESS PARK       TAMPA, FL                       9.200         RCRRD1                  5,204,845.75      6,800,000.00
+GATEWAY BUSINESS CENTER        TAMPA, FL                      12.800         RGATEW                  5,322,377.58      7,500,000.00
+QUADRANT BUSINESS CTR          DEERFIELD BC                   10.875         RQBC01                 12,830,523.78     18,600,000.00
+QUAKER OATS BUILDING           ATLANTA, GA                     0.000         RQOATS                 16,952,685.00     16,952,685.00
+REGENCY 1                      DALLAS TX                       8.500         RREGNC                 16,207,374.38     13,300,000.00
+REGENCY 2                      DALLAS, TX                      0.000         RREGN2                 15,526,783.11     15,000,000.00
+TRADE CENTER I                 ATLANTA GA                      8.500         RTDCNT                 13,769,358.00     11,300,000.01
+TRADE CENTER II                ATLANTA, GA                     0.000         RTDCN2                 12,013,354.50     12,000,000.00
+UNIVERSITY BUSINESS CENTER     TAMPA, FL                      10.530         RUNIVB                  4,762,587.01      7,900,000.00
+
+Instrument Total            12                                                                     130,298,550.21    132,652,685.01
+
+Instrument -O      OFFICE
+
+ARBORETUM                      AUSTIN,TX                       0.000         RARBTM                 41,576,571.20     44,300,000.00
+CIGNA PLAZA                    DALLAS, TX                      0.000         RCIGNA                 19,100,694.00     16,900,000.00
+CROWN POINTE BLDG              ATLANTA                         9.500         RCPTE1                 63,568,516.19     56,800,000.00
+GALLERIA 100                   ATLANTA, GA                     0.000         RGAL10                 66,080,825.00     71,000,000.00
+GALLERIA 400                   ATLANTA, GA                     0.000         RGALPK                 13,595,976.20     28,699,999.97
+GALLERIA 600                   ATLANTA, GA                     0.000         RGAL60                  9,553,205.50      9,553,205.50
+JC PENNY CREDIT                SAN ANTONIO                     9.700         RJCP02                  3,786,732.00      4,800,000.00
+JPM I (aka CHASE I)            DALLAS, TX                      0.000         RINTNL                 13,254,967.97     15,700,000.33
+ROSEMEADE                      DALLAS, TX                      0.000         RROSMD                 23,585,255.00     22,300,000.00

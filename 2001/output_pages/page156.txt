@@ -1,0 +1,16 @@
+ASOF10   Date 01/24/2002 Time 21:29:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 001
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - WARRANT   WARRANT
+
+DIME BANCORP-WT                              0.000     25429Q110   DIMEZ          380,200          107,275.42           57,030.00
+PROGRESS ENERGY - CVO                        0.000     743263AA3   CPLVZ           79,100                0.00           28,476.00
+WASHINGTON GROUP INTL. INC WARRANT           0.000     938862117   WNGWQ           11,972                0.00              155.64
+
+Instrument Total                      3                                           471,272          107,275.42           85,661.64
+

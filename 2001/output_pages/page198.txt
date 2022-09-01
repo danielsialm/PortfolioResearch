@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 043
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+THE MONY GROUP INC.                          1.301     615337102   MNY            105,000        3,891,812.57        3,629,850.00
+THERAGENICS CORPORATION                      0.000     883375107   TGX             58,700          610,684.34          578,782.00
+THERASENSE INC                               0.000     883381105   THER            14,300          297,993.94          354,640.00
+THERMA-WAVE INC                              0.000     88343A108   TWAV            24,500          373,807.40          365,540.00
+THERMO ELECTRON CORP.                        0.000     883556102   TMO            253,958        5,673,972.82        6,059,437.88
+THOMAS & BETTS CORP.                         0.000     884315102 Q TNB             79,446        2,335,196.92        1,680,282.90
+THOMAS INDUSTRIES INC                        1.360     884425109   TII             17,300          376,510.85          432,500.00
+THOR INDUSTRIES INC                          0.215     885160101   THO             14,400          307,971.86          533,520.00
+THQ INC                                      0.000     872443403   THQI            73,730        2,852,390.36        3,573,693.10
+THREE-FIVE SYSTEMS INC                       0.000     88554L108   TFS             33,900        1,091,569.14          539,349.00
+TIDEWATER INC                                1.769     886423102 Q TDW            114,000        4,423,487.90        3,864,599.99
+TIER TECHNOLOGIES INC-CL B                   0.000     88650Q100   TIER            19,200          403,381.01          413,952.00
+TIFFANY & CO                                 0.508     886547108   TIF            291,928        8,338,271.52        9,186,974.16
+TIMBERLAND CO CL-A                           0.000     887100105   TBL             86,900        2,358,936.78        3,222,252.00
+TIMKEN CO.                                   3.213     887389104 Q TKR             85,504        1,435,401.75        1,383,454.72
+TITAN CORP                                   0.000     888266103   TTN            123,800        2,790,737.60        3,088,810.01
+TITAN PHARMACEUTICALS INC                    0.000     888314101   TTP             30,000          877,470.04          294,300.00
+TJX COS. INC.                                0.451     872540109 Q TJX            541,912       14,035,862.83       21,600,612.31
+TMP WORLDWIDE INC                            0.000     872941109   TMPW           296,500       16,114,091.43       12,719,850.00
+TOLL BROTHERS INC                            0.000     889478103   TOL             36,000          808,324.93        1,580,400.00
+TOLLGRADE COMMUNICATIONS INC                 0.000     889542106   TLGD            13,300          416,423.00          443,555.00
+TOM BROWN INC                                0.000     115660201   TMBR            57,100        1,569,432.78        1,542,271.00
+TOO INC                                      0.000     890333107   TOO             30,600          814,572.00          841,500.00
+TOOTSIE ROLL INDUSTRIES, INC.                0.716     890516107 Q TR              70,778        3,254,886.77        2,766,004.24
+TORCHMARK CORP                               0.915     891027104 Q TMK             85,963        2,314,001.68        3,380,924.80
+TORO CO                                      1.066     891092108   TTC             21,600          759,657.53          972,000.00
+TOWER AUTOMOTIVE INC                         0.000     891707101   TWR             35,300          674,784.18          318,759.00
+TOYS R US INC.                               0.000     892335100   TOY            271,490        6,371,032.71        5,630,702.62
+TRANSACTION SYSTEMS ARCHITECTS               0.000     893416107   TSAI            61,400        2,061,728.88          752,764.00
+TRANSKARYOTIC THERAPIES INC.                 0.000     893735100   TKTX            33,983        1,169,546.23        1,454,472.40
+TRANSOCEAN SEDCO FOREX INC.                  0.354     G90078109   RIG            535,691       23,793,977.97       18,117,069.63
+TRANSWITCH CORP                              0.000     894065101   TXCC           185,700        4,634,112.72          835,650.02
+TREDEGAR CORPORATION                         0.842     894650100   TG              36,600          776,657.49          695,400.00
+TRENWICK GROUP LTD                           1.573     G9032C109   TWK             32,600          936,585.40          331,542.00
+TRIAD HOSPITALS INC                          0.000     89579K109   TRI            142,653        4,716,130.64        4,186,865.55
+TRIARC COM                                   0.000     895927101   TRY              1,400           30,778.73           34,020.00
+TRIBUNE CO                                   1.175     896047107 Q TRB            545,819       18,666,604.49       20,430,005.18
+TRICON GLOBAL RESTAURANTS-WI                 0.000     895953107   YUM            279,038        9,229,973.58       13,728,669.58
+TRIGON HEALTHCARE CORP.                      0.000     89618L100   TGH             78,500        4,098,967.91        5,451,825.00
+TRIMBLE NAVIGATION LTD                       0.000     896239100   TRMB            19,600          336,798.60          317,716.00

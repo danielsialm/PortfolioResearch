@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+OVERSEAS SHIPHOLDING GROUP                   2.666     690368105   OSG             86,100        2,117,115.98        1,937,250.00
+OVERTURE SERVICES INC                        0.000     69039R100   OVER            71,660        1,801,809.82        2,538,913.80
+OWENS & MINOR INC.                           1.513     690732102 Q OMI             34,800          467,941.29          643,800.00
+OXFORD HEALTH PLANS                          0.000     691471106   OHP            159,300        4,070,834.60        4,801,301.98
+OXFORD INDUSTRIES INC.                       3.559     691497309   OXM             10,500          278,137.87          247,800.00
+P.F.CHANGS CHINA BISTRO INC                  0.000     69333Y108   PFCB            59,119        2,098,205.50        2,796,328.70
+PACCAR INC                                   1.828     693718108 Q PCAR            73,682        3,290,004.90        4,835,012.83
+PACIFIC CENTURY FINL CORP                    2.781     694058108   BOH            144,400        3,576,525.65        3,738,516.00
+PACIFIC GAS & ELEC. CO.                      0.000     69331C108 Q PCG            778,416       18,461,566.64       14,976,723.84
+PACIFIC SUNWEAR OF CALIFORNIA INC.           0.000     694873100   PSUN            97,720        2,184,270.33        1,995,442.40
+PACIFICARE HEALTH SYSTEM                     0.000     695112102   PHSY            68,400        4,223,607.38        1,094,400.00
+PACKAGING CORP OF AMERICA                    0.000     695156109   PKG            205,600        3,953,867.54        3,731,640.00
+PACTIV CORPORATION                           0.000     695257105   PTV            194,904        5,657,704.93        3,459,546.00
+PALL CORPORATION                             2.826     696429307 Q PLL             97,222        2,268,415.20        2,339,161.32
+PALM, INC                                    0.000     696642107   PALM           748,262       12,948,769.32        2,903,256.56
+PANERA BREAD CO                              0.000     69840W108   PNRA            38,263        1,127,217.18        1,991,206.52
+PAPA JOHN’S INTERNATIONAL                    0.000     698813102   PZZA            16,200          505,680.81          445,176.00
+PARADYNE NETWORKS INC                        0.000     69911G107   PDYN            93,000          312,762.08          362,700.00
+PARAMETRIC TECHNOLOGY CORP                   0.000     699173100   PMTC           327,377        3,521,524.86        2,556,814.37
+PAREXEL INT’L CORP.                          0.000     699462107   PRXL            94,500        1,845,895.24        1,356,075.00
+PARK ELECTROCHEMICAL CORP.                   0.909     700416209   PKE             29,150          673,493.75          769,560.00
+PARK PLACE ENTERTAINMENT CORPORATION         0.000     700690100   PPE            654,600        7,714,826.90        6,002,682.00
+PARKER-HANNIFIN CORP.                        1.568     701094104 Q PH             181,953        7,295,576.78        8,353,462.23
+PATHMARK STORES INC                          0.000     70322A101   PTMK            67,300        1,411,977.66        1,659,618.00
+PATINA OIL & GAS CORP                        0.581     703224105   POG             21,100          417,010.51          580,250.00
+PATTERSON DENTAL COMPANY                     0.000     703412106   PDCO           124,000        3,093,941.29        5,075,319.99
+PATTERSON-UTI ENERGY INC                     0.000     703481101   PTEN           136,300        2,581,219.74        3,177,153.00
+PAXAR CORP.                                  0.000     704227107   PXR             40,500          567,124.27          575,100.00
+PAYCHEX INC                                  1.262     704326107   PAYX           617,854       17,637,143.32       21,532,211.89
+PAYLESS SHOESOURCE INC                       0.000     704379106   PSS             51,300        2,777,429.54        2,880,495.00
+PC-TEL INC                                   0.000     69325Q105   PCTI            42,600          445,100.89          413,646.00
+PEABODY ENERGY CORP                          1.418     704549104   BTU              7,500          218,076.42          211,425.00
+PEC SOLUTIONS INC                            0.000     705107100   PECS            16,600          333,055.83          624,326.00
+PEDIATRIX MEDICAL GROUP INC.                 0.000     705324101   PDX             29,000        1,019,824.39          983,680.00
+PEGASUS SOLUTIONS                            0.000     705906105   PEGS            66,900          832,529.73          949,980.00
+PENFORD CORP.                                1.927     707051108   PENX             3,800           36,366.66           47,310.00
+PENNZOIL-QUAKER STATE COMPANY                0.692     709323109   PZL            126,804        1,400,619.04        1,832,317.80
+PENTAIR INC.                                 1.972     709631105 Q PNR             87,300        2,041,321.71        3,187,323.00
+PENTON MEDIA INC                             1.916     709668107   PME             27,600          881,843.94          172,776.00
+PEOPLES ENERGY CORP                          5.378     711030106 Q PGL             24,477          804,877.88          928,412.60

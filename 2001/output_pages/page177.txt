@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HARTFORD FINL SERVICES                       1.655     416515104   HIG            719,793       34,461,981.79       45,224,594.19
+HASBRO BRADLEY                               0.739     418056107 Q HAS            273,405        4,439,228.51        4,437,363.15
+HAWAIIAN ELECTRIC INDS                       6.156     419870100   HE              57,000        2,070,277.69        2,295,960.00
+HCA INC                                      0.207     404119109   HCA          1,410,886       39,829,390.24       54,375,546.43
+HCC INSURANCE HOLDINGS INC.                  0.907     404132102   HCC            118,000        2,900,445.37        3,250,900.00
+HEALTH MGMT ASSOCIATES CL A                  0.000     421933102   HMA            419,475        6,313,337.70        7,718,340.02
+HEALTH NET                                   0.000     42222G108   HNT            350,494        7,428,065.82        7,633,759.32
+HEALTHSOUTH CORP                             0.000     421924101   HRC          1,131,475       17,387,491.81       16,768,459.50
+HEARTLAND EXPRESS INC.                       0.000     422347104   HTLD            33,100          599,870.11          919,187.00
+HEIDRICK & STRUGGLES INTL                    0.000     422819102   HSII            18,900        1,224,569.11          343,035.00
+HEINZ H. J. CO.                              3.939     423074103 Q HNZ            551,672       20,971,054.00       22,684,752.64
+HELIX TECHNOLOGY                             1.419     423319102   HELX            22,100          864,866.64          498,355.00
+HELMERICH & PAYNE, INC                       0.898     423452101 Q HP             142,700        4,690,452.36        4,763,326.00
+HENRY (JACK) & ASSOCIATES                    0.549     426281101   JKHY           121,500        1,459,695.10        2,653,560.00
+HENRY SCHEIN INC                             0.000     806407102   HSIC            92,769        3,437,583.36        3,435,236.07
+HERCULES INCORPORATED                        0.000     427056106 Q HPC             75,010        2,253,940.05          750,100.00
+HERSHEY FOODS CORP.                          1.787     427866108 Q HSY            259,853       13,624,625.89       17,592,048.12
+HEWLETT-PACKARD CO                           1.557     428236103 Q HWP          3,896,825       88,782,254.30       80,040,785.50
+HEXCEL CORP                                  0.000     428291108   HXL              5,500           55,330.00           16,940.00
+HI/FN INC.                                   0.000     428358105   HIFN             2,000           30,900.46           28,940.00
+HIBERNIA CORP CL-A                           3.147     428656102   HIB            330,500        4,143,582.87        5,879,595.00
+HILB ROGAL & HAMIL.                          1.248     431294107 Q HRH             18,400          507,983.39        1,031,320.00
+HILLENBRAND IND.                             1.519     431573104 Q HB             123,100        6,210,492.77        6,803,737.00
+HILTON HOTELS CORP.                          0.732     432848109 Q HLT            463,306        4,557,397.36        5,059,301.53
+HISPANIC BROADCASTING A                      0.000     43357B104   HSP            231,100        7,080,124.37        5,893,050.00
+HNC SOFTWARE                                 0.000     40425P107   HNCS            44,600        1,097,990.55          918,760.00
+HOLLINGER INTERNATIONAL INC                  4.700     435569108   HLR             58,900          689,421.55          689,130.00
+HOLLYWOOD ENTERTAINMENT CORP                 0.000     436141105   HLYW            14,400          207,156.30          205,776.00
+HOLOGIC INC.                                 0.000     436440101   HOLX            21,500          184,690.76          199,735.00
+HOME DEPOT INC.                              0.392     437076102 Q HD           4,679,136      124,395,585.26      238,682,727.38
+HOMESEEKERS.COM INC                          0.000     437605108   HMSK           465,500          178,031.45           27,464.50
+HON INDUSTRIES                               1.736     438092108   HNI            115,700        2,912,880.71        3,199,105.00
+HONEYWELL INTERNATIONAL INC                  2.217     438516106 Q HON          1,606,990       72,188,749.52       54,348,401.99
+HOOPER HOLMES INC                            0.335     439104100   HH              60,600          659,552.29          542,370.00
+HORACE MANN EDUCATORS                        1.979     440327104 Q HMN             89,000        1,276,426.73        1,888,580.00
+HORMEL FOODS CORP                            1.451     440452100   HRL            231,800        4,416,286.62        6,228,466.00
+HOT TOPIC INC                                0.000     441339108   HOTT            38,332        1,173,729.33        1,203,241.48
+HOTEL RESERVATIONS INC - CL A                0.000     441451101   ROOM            37,655        1,067,780.29        1,732,130.00
+HOUSEHOLD INTL. INC.                         1.518     441815107 Q HI             881,938       37,141,516.11       51,099,487.72
+HOVNANIAN ENTERPRISES-A                      0.000     442487203   HOV              4,400           83,930.00           93,632.00

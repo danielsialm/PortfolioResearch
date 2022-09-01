@@ -1,0 +1,17 @@
+ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 088
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - WARRANT   WARRANT
+
+WASHINGTON GROUP INTL. INC WAR             0.000 WNGWQ   938862117      0.0130        11,972.00              0.00            155.64
+
+Instrument Total             1                                                        11,972.00              0.00            155.64
+
+Portfolio Total            579                                                    16,969,574.80    346,224,325.19    377,261,295.44
+

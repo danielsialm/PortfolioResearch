@@ -1,0 +1,28 @@
+ASOF02   Date 01/24/2002 Time 21:29:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 018
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - VAP       LARGE CAP VALUE PASS
+Instrument - COM       COMMON STOCK
+
+Instrument Total           352                                                    48,674,129.54  1,704,902,925.60  1,585,818,916.00
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       125,000.00      2,991,531.17      3,759,999.99
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100        81,700.00      1,681,415.41      2,345,606.98
+
+Instrument Total             2                                                       206,700.00      4,672,946.58      6,105,606.97
+
+Instrument -WARRANT   WARRANT
+
+PROGRESS ENERGY - CVO                      0.000 CPLVZ   743263AA3      0.3600        42,528.00              0.00         15,310.08
+
+Instrument Total             1                                                        42,528.00              0.00         15,310.08
+
+Portfolio Total            355                                                    48,923,357.54  1,709,575,872.18  1,591,939,833.05
+

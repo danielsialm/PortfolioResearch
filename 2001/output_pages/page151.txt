@@ -1,0 +1,18 @@
+ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 122
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-OTH    ALTERNATIVE INVESTME
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+BEACON GROUP ENERGY FUND II                0.000 9940482GABEACONGR      0.0000    21,096,352.99     21,096,353.04     14,267,866.99
+SUNRISE CAPITAL PARTNERS                   0.000 ASUNRISEASUNRISE       0.0000    20,611,761.00     20,611,761.00     19,892,052.00
+
+Instrument Total             2                                                    41,708,113.99     41,708,114.04     34,159,918.99
+
+Portfolio Total              2                                                    41,708,113.99     41,708,114.04     34,159,918.99
+

@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+EUROPEAN AERONAUTIC DEFENCE                  1.518     4012250      EAD_F       500,000.00        8,506,469.60
+EXEDY CORPORATION                            0.000     6250412      7278_       800,000.00        4,508,192.32
+FORTIS                                       1.063     7266139      FORB_       560,000.00       14,744,366.77
+GREAT EAGLE HOLDINGS LTD                     0.000     6387406      41_HK     6,047,000.00        8,201,220.50
+HITACHI Y50                                  0.000     6429104      6501_       865,000.00        8,110,335.45
+HONG KONG ELECTRIC HKD1                      0.011     6435327      6_HK      1,375,000.00        4,649,520.06
+INTESABCI SPA                                1.326     4076836      BIN_I     3,500,200.00       11,831,851.27
+INVENSYS ORD 25P                            31.728     0807041      ISYS_     1,850,856.00        5,092,040.17
+ITO-YOKADO CO JPY5                           0.000     6467944      8264_       237,000.00       12,108,248.21
+JAPAN TOBACCO INC                            0.000     6474535      2914_           670.00        5,084,150.86
+KAWASAKI STEEL CP                            0.000     6484664      5403_     3,624,000.00        5,189,232.87
+KOKUYO CO Y50                                0.000     6496506      7984_       425,000.00        4,900,787.16
+KUBOTA CORP Y50                              0.000     6497509      6326_     1,250,000.00        4,418,046.52
+KYOCERA CORP JPY50                           0.005     6499260      6971_         5,000.00          408,432.12
+LAGARDERE SCA FF40                           0.687     4547213      MMB_F       172,000.00        7,321,785.64
+MAKITA ELECTRIC Y5                           0.000     6555805      6586_     1,035,000.00        6,695,091.85
+MAN AG ORSH NPV                              1.974     5563520      MAN_G       305,000.00        7,380,256.57
+MATSUSHITA ELC IND                           0.000     6572707      6752_       455,000.00        8,644,771.14
+MITSUBISHI CORP Y5                           0.000     6596785      8058_     1,006,000.00        7,972,605.08
+MITSUBISHI HVY IND                           0.000     6597067      7011_     2,180,000.00        8,437,495.71
+MIZUHO HLDGS JPY50000                        0.000     6286280      8305_         1,096.00        8,917,962.77
+NATL AUSTRALIA BK                            0.145     6624608      NAB_A       508,000.00        7,946,068.27
+NEPTUNE ORIENT LNS                           0.000     6628859      NOL_S     7,815,900.00        5,910,357.82
+NIPPON TEL+TEL CP                            0.000     6641373      9432_           853.00        5,618,426.94
+NISSAN MOTOR CO Y5                           0.000     6642860      7201_     1,457,000.00        7,429,392.94
+NORMANDY MINING OR                           0.260     6645201      NDY_A     8,659,900.00        4,463,181.13
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N       365,000.00       14,592,281.48
+NOVARTIS AG CHF 20                           0.063     7103065      NOVN_       285,000.00       10,794,839.01
+NTT DOCOMO INC                               0.000     6129277      9437_           550.00        8,720,476.49
+OCE NV NLG1                                  0.533     5446751      OCEN_       850,000.00        7,393,863.31
+OMRON CORP Y50                               0.000     6659428      6645_       495,000.00        7,737,844.03
+OUTOKUMPU OYJ A                              3.171     4665148      OUT1V       635,000.00        5,346,939.46
+P & O STEAM                                 79.628     0680048      PO/_L     2,400,000.00        8,736,825.39
+PECHINEY SER’A ’FR                           0.715     4943792      PEC_F       147,000.00        6,509,717.12
+PEUGEOT SA FF35                              0.926     7103526      UG_FP       142,000.00        4,872,152.27
+PHILIPS ELECTRONICS                          0.506     5986622      PHIA_       392,876.00       11,968,240.87
+QANTAS AIRWAYS LTD                           0.270     6710347      QAN_A     3,252,500.00        5,217,852.42
+REPSOL - YPF, SA                             1.176     5669354      REP_S       830,000.00       14,385,630.18
+ROCHE HLDGS AG GEN                           0.043     7110388      ROG_V       120,000.00       10,928,150.50

@@ -1,0 +1,36 @@
+ASOF02   Date 01/24/2002 Time 21:29:15   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - VAL       LARGE CAP VALUE ACTI
+Instrument - COM       COMMON STOCK
+
+WASTE MANAGEMENT INC.                      0.031 WMI     94106L109     31.9100       376,500.00     11,653,777.51     12,014,115.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     31.3900        70,000.00      2,429,608.20      2,197,300.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108    116.8500        40,600.00      2,807,844.28      4,744,110.00
+WELLS FARGO COMPANY                        2.393 WFC     949746101     43.4500     1,164,200.00     42,511,953.19     50,584,490.00
+WENDY’S INTL                               0.822 WEN     950590109Q    29.1700       219,000.00      4,994,674.26      6,388,230.00
+WEYERHAEUSER CO.                           2.958 WY      962166104Q    54.0800       147,000.00      8,467,372.41      7,949,760.00
+WILLAMETTE INDUSTRIES                      1.765 WLL     969133107Q    52.1200        68,300.00      2,855,649.42      3,559,796.00
+WILLIAMS COS. INC.                         3.134 WMB     969457100Q    25.5200       595,000.00     16,869,894.00     15,184,400.00
+WINN-DIXIE STORES INC.                     7.157 WIN     974280109M    14.2500       162,600.00      2,058,066.36      2,317,050.00
+WORLDCOM INC-WORLDCOM GROUP                0.000 WCOM    98157D106     14.0800     2,410,000.00     51,549,981.20     33,932,800.00
+XCEL ENERGY INC                            5.407 XEL     98389B100Q    27.7400       210,000.00      5,042,266.33      5,825,400.00
+XEROX CORP                                 0.000 XRX     984121103Q    10.4200       250,600.00      8,134,462.61      2,611,252.00
+XL CAPITAL LTD - CLASS A                   2.014 XL      G98255105     91.3600        44,500.00      4,061,920.00      4,065,520.00
+ZIONS BANCORPORATION                       1.521 ZION    989701107     52.5800        38,000.00      2,311,086.05      1,998,040.00
+
+Instrument Total           287                                                   109,223,523.38  3,658,668,249.20  3,372,050,575.78
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       169,000.00      3,456,013.04      4,851,990.03
+
+Instrument Total             1                                                       169,000.00      3,456,013.04      4,851,990.03
+
+Portfolio Total            288                                                   109,392,523.38  3,662,124,262.24  3,376,902,565.81
+

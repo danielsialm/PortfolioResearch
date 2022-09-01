@@ -1,0 +1,18 @@
+ASOF02   Date 01/24/2002 Time 21:29:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 047
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - GP5       LARGE CAP GROWTH
+Instrument - COM       COMMON STOCK
+
+YAHOO INC                                  0.000 YHOO    984332106     17.7400       523,800.00     75,360,226.52      9,292,212.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     30.5400       220,000.00      5,093,906.33      6,718,800.00
+
+Instrument Total           158                                                   116,214,483.37  4,076,481,842.94  4,830,790,446.68
+
+Portfolio Total            158                                                   116,214,483.37  4,076,481,842.94  4,830,790,446.68
+

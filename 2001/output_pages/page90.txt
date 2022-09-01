@@ -1,0 +1,24 @@
+ASOF02   Date 01/24/2002 Time 21:29:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 061
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SNP       S&P 500 PASSIVE
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       161,700.00      4,531,262.07      4,863,935.97
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       105,700.00      2,280,089.93      3,034,647.00
+
+Instrument Total             2                                                       267,400.00      6,811,352.00      7,898,582.97
+
+Instrument -WARRANT   WARRANT
+
+PROGRESS ENERGY - CVO                      0.000 CPLVZ   743263AA3      0.3600        36,572.00              0.00         13,165.92
+
+Instrument Total             1                                                        36,572.00              0.00         13,165.92
+
+Portfolio Total            502                                                   111,571,405.52  3,313,618,586.18  4,228,697,115.85
+

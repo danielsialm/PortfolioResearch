@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+NATIONAL COMMERCE FINANCIAL                2.371 NCF     63545P104     25.3000       388,000.00      8,123,318.87      9,816,400.00
+NATIONAL FUEL & GAS                        4.089 NFG     636180101Q    24.7000       134,000.00      3,346,199.57      3,309,800.00
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     20.6100       154,000.00      4,742,378.72      3,173,940.00
+NCO GROUP INC.                             0.000 NCOG    628858102     22.9000        73,000.00      1,462,563.48      1,671,700.00
+NEIMAN MARCUS GROUP INC-CLASS              0.000 NMG.A   640204202     31.0700        96,000.00      3,220,929.65      2,982,720.00
+NEW YORK COMMUNITY BANCORP                 2.798 NYCB    649445103     22.8700       190,000.00      4,362,088.06      4,345,300.00
+NEWPORT CORP                               0.103 NEWP    651824104     19.2800        70,000.00      1,523,725.00      1,349,600.00
+NOBLE AFFILIATES INC                       0.453 NBL     654894104     35.2900       114,000.00      2,704,406.97      4,023,060.00
+NORTHEAST UTILITIES                        2.836 NU      664397106     17.6300       266,000.00      5,404,560.20      4,689,580.00
+NSTAR CO.                                  4.593 NST     67019E107     44.8500        94,000.00      3,861,890.38      4,215,900.00
+OCEAN ENERGY INC                           0.833 OEI     67481E106     19.2000       341,000.00      4,697,190.38      6,547,200.00
+OGE ENERGY CORP                            5.762 OGE     670837103     23.0800       133,000.00      3,594,165.81      3,069,640.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    16.0500       104,000.00      1,046,681.64      1,669,200.00
+OLD REPUBLIC INT’L CORP.                   2.142 ORI     680223104     28.0100       231,000.00      5,568,859.12      6,470,310.00
+OLIN CORP                                  4.956 OLN     680665205Q    16.1400        86,000.00      1,735,614.16      1,388,040.00
+ONEOK INC.                                 3.475 OKE     682680103Q    17.8400       110,000.00      1,723,345.86      1,962,400.00
+ONMICARE INC.                              0.361 OCR     681904108     24.8800       170,000.00      3,398,186.25      4,229,600.00
+OVERSEAS SHIPHOLDING GROUP                 2.666 OSG     690368105     22.5000        81,000.00      2,004,212.53      1,822,500.00
+PACIFIC CENTURY FINL CORP                  2.781 BOH     694058108     25.8900       133,000.00      3,300,078.68      3,443,370.00
+PACIFICARE HEALTH SYSTEM                   0.000 PHSY    695112102     16.0000        60,000.00      3,857,508.49        960,000.00
+PACKAGING CORP OF AMERICA                  0.000 PKG     695156109     18.1500       190,000.00      3,646,469.60      3,448,500.00
+PARK PLACE ENTERTAINMENT CORPO             0.000 PPE     700690100      9.1700       610,000.00      7,142,875.28      5,593,700.00
+PATTERSON-UTI ENERGY INC                   0.000 PTEN    703481101     23.3100       125,000.00      2,366,715.01      2,913,750.00
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     56.1500        48,000.00      2,605,086.59      2,695,200.00
+PENNZOIL-QUAKER STATE COMPANY              0.692 PZL     709323109     14.4500       115,000.00      1,176,434.68      1,661,750.00
+PENTAIR INC.                               1.972 PNR     709631105Q    36.5100        80,000.00      1,769,714.86      2,920,800.00
+PEPSIAMERICAS INC                          0.289 PAS     71343P200Q    13.8000       285,000.00      4,581,901.50      3,933,000.00
+PERRIGO CO.                                0.000 PRGO    714290103     11.8200       128,000.00        894,322.69      1,512,960.00
+PIONEER NATURAL RESOURCES CO.              0.000 PXD     723787107     19.2600       210,000.00      2,545,994.19      4,044,600.00
+PITTSTON BRINK’S GROUP                     0.452 PZB     725701106Q    22.1000       141,000.00      2,896,337.49      3,116,100.00
+PLAINS RESOURCES INC.                      0.000 PLX     726540503     24.6100        15,000.00        368,400.00        369,150.00
+PMI GROUP INC.                             0.238 PMI     69344M101     67.0100        82,000.00      3,163,024.41      5,494,820.00
+POTLATCH CORP.                             2.046 PCH     737628107Q    29.3200        40,000.00      1,420,421.74      1,172,800.00
+POTOMAC ELECTRIC POWER                     4.430 POM     737679100     22.5700       203,000.00      5,489,624.35      4,581,710.00
+PRECISION CASTPARTS CORP                   0.424 PCP     740189105     28.2500       105,000.00      3,672,954.36      2,966,250.00
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     15.1000       270,000.00      5,054,089.08      4,077,000.00
+PROTECTIVE LIFE CORP                       1.935 PL      743674103     28.9300       125,000.00      2,806,407.95      3,616,250.00
+PROVIDENT FINANCIAL GROUP                  3.653 PFGI    743866105     26.2800       100,000.00      3,147,895.74      2,628,000.00
+PUBLIC SERVICE CO OF N MEX                 2.862 PNM     69349H107     27.9500        87,000.00      2,293,068.74      2,431,650.00

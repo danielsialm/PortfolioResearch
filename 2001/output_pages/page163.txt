@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ATI TECHNOLOGIES INC                         0.000     001941103   ATYT            60,400          576,182.36          767,080.03
+ATLANTIC COAST AIRLINES HOLDINGS INC.        0.000     048396105   ACAI            66,200          854,775.80        1,541,798.00
+ATLAS AIR WORLDWIDE HOLDINGS, INC            0.000     049164106   CGO             66,700        2,646,684.62          977,155.00
+ATMEL CORP                                   0.000     049513104   ATML           981,000        9,732,374.72        7,229,970.00
+ATMI INC                                     0.000     00207R101   ATMI            54,400        1,090,042.23        1,297,440.00
+ATMOS ENERGY CORP.                           5.552     049560105   ATO             36,800          945,816.77          782,000.00
+ATRIX LABS INC                               0.000     04962L101   ATRX            12,585          306,459.05          259,376.85
+ATWOOD OCEANICS                              0.000     050095108   ATW             11,300          504,621.71          393,805.00
+AUDIOVOX CORP                                0.000     050757103   VOXX            37,800        1,186,721.96          281,988.00
+AUGUST TECHNOLOGY INC                        0.000     05106U105   AUGT            66,900          711,267.70          738,576.00
+AUSPEX SYSTEMS INC.                          0.000     052116100   ASPX             1,100            6,170.88            1,980.00
+AUTODESK INC.                                0.643     052769106 Q ADSK           109,706        3,975,509.29        4,088,742.64
+AUTOMATIC DATA PROC.                         0.781     053015103 Q ADP          1,178,694       40,799,737.12       69,425,076.58
+AUTOZONE INC                                 0.000     053332102   AZO            100,441        3,585,618.27        7,211,663.80
+AVANT] CORPORATION                           0.000     053487104   AVNT            36,100          581,298.81          739,689.00
+AVAYA INC                                    0.000     053499109   AV             641,980       10,716,626.81        7,800,056.99
+AVERY DENNISON                               2.335     053611109 Q AVY            194,141        9,620,885.12       10,974,790.74
+AVID TECHNOLOGY INC.                         0.000     05367P100   AVID            34,700          852,994.11          421,605.01
+AVISTA CORP                                  3.619     05379B107   AVA             83,700        1,567,786.83        1,109,862.00
+AVNET INC.                                   1.177     053807103 Q AVT            258,622        5,894,593.11        6,587,102.34
+AVOCENT CORPORATION                          0.000     053893103   AVCT            95,700        2,556,314.74        2,320,725.00
+AVON PRODUCTS                                1.634     054303102 Q AVP            447,409       12,667,440.81       20,804,518.50
+AWARE INC.                                   0.000     05453N100   AWRE            20,400        1,108,545.34          169,320.00
+AXCELIS TECHNOLOGIES INC                     0.000     054540109   ACLS           216,200        2,234,008.49        2,786,818.00
+AXT INC.                                     0.000     00246W103   AXTI            21,300          373,801.07          307,359.01
+AZTAR CORP.                                  0.000     054802103   AZR             64,700          657,157.64        1,184,010.00
+BAKER (MICHAEL) CORP                         0.000     057149106   BKR             37,500          356,063.50          570,000.00
+BAKER HUGHES CORP                            1.261     057224107 Q BHI            559,045       15,689,613.51       20,388,371.15
+BALDOR ELECTRIC                              2.488     057741100   BEZ             60,100        1,308,759.56        1,256,090.00
+BALL CORPORATION                             0.848     058498106 Q BLL             18,978          666,214.52        1,341,744.61
+BALLY TOTAL FITNESS HLDGS                    0.000     05873K108   BFT             28,200          850,112.67          607,992.00
+BANDAG INC                                   3.624     059815100 Q BDG             48,100        1,782,913.99        1,671,956.00
+BANK OF AMERICA CORP.                        3.812     060505104 Q BAC          3,229,924      175,763,226.26      203,323,715.79
+BANK OF NEW YORK CO, INC                     1.764     064057102 Q BK           1,555,768       50,906,824.26       63,475,334.40
+BANK ONE CORPORATION                         2.151     06423A103 Q ONE          2,381,170       96,690,548.91       92,984,688.46
+BANKNORTH GROUP INC.                         2.397     06646R107   BKNG           323,500        5,705,228.65        7,285,220.00
+BANTA CORP                                   2.168     066821109   BN              40,700        1,076,971.79        1,201,464.00
+BARD C. R. INC.                              1.302     067383109 Q BCR             19,964          717,722.53        1,287,678.01
+BARNES & NOBLE INC.                          0.000     067774109   BKS            183,400        5,664,719.89        5,428,640.00
+BARNES GROUP INC.                            3.334     067806109   B               31,200          591,989.72          748,488.00

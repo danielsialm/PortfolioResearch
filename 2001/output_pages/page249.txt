@@ -1,0 +1,43 @@
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 028
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+VNU NV EUR                                   1.328     4970950      VNUN_           609.00           27,365.52
+VODAFONE GROUP                              22.621     0719210      VOD_L     3,970,604.00       11,145,111.60
+VOEST-ALPINE                                 3.296     4943402      VAST_        20,000.00          561,500.90
+VOLKSWAGEN AG                                1.783     5497102      VOW_G         4,700.00          182,300.72
+WAREHOUSE GROUP LTD                          0.009     6939625      WHS_N       618,800.00        1,717,833.03
+WESFARMERS LTD                               0.370     6948836      WES_A        93,850.00        1,529,279.76
+WESTPAC BANKING CO                           1.020     6076146      WBC_A       273,949.00        2,086,773.32
+WHARF(HLDGS) HKD1                            0.525     6435576      64355       155,100.00          357,420.17
+WIENERBERGER BAUST                           3.948     5699373      WBST_        62,300.00          853,540.27
+WMC NPV                                      0.253     6954985      WMC_A       135,300.00          663,143.01
+WOLTERS KLUWER NV                            1.338     5671519      WLSNC         5,447.00          126,165.22
+WOOLWORTHS LIMITED                           0.317     6981239      WOW_A       297,400.00        1,713,290.28
+WPP GROUP                                    0.766     0974042      WPP_L        82,233.00          800,157.84
+YAMANOUCHI PHARM J                           0.000     6985383      4503_        43,000.00        1,228,112.87
+ZELTIA SA                                    0.177     4370839      ZEL_S        17,200.00          139,266.85
+ZURICH FINANCIAL SERVICES CHF10              0.932     5983816      ZURN_         2,015.00          796,270.07
+
+Instrument Total             289                                             40,205,946.00      327,237,822.14
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   13,338.72        1,333,872.16
+
+Instrument Total               1                                                 13,338.72        1,333,872.16
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP                0.000     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              291                                             40,282,068.72      328,571,694.30        327,099,528.73

@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 094
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - TEC       TECHNOLOGY
+Instrument - COM       COMMON STOCK
+
+INFOCUS CORPORATION                        0.000 INFS    45665B106     22.0200         1,000.00         18,431.25         22,020.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     26.5900         2,900.00        107,039.24         77,111.00
+INTEL CORP.                                0.254 INTC    458140100Q    31.4500       176,300.00      6,181,871.59      5,544,635.00
+INTER-TEL INC.                             0.208 INTL    458372109     19.2200           700.00          7,433.52         13,454.00
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     25.9000           306.00          7,106.00          7,925.40
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     34.8800         1,500.00         48,144.00         52,320.00
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     32.0600         1,200.00         39,144.00         38,472.00
+INTERVOICE-BRITE INC.                      0.000 INTV    461142101     12.8000           900.00          8,387.00         11,520.00
+INTL BUS MACH CORP                         0.463 IBM     459200101Q   120.9600        45,500.00      4,326,621.16      5,503,680.00
+INTUIT INC.                                0.000 INTU    461202103     42.7800         5,400.00        202,763.93        231,012.00
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     39.0700         1,350.00         42,135.00         52,744.50
+ITRON INC.                                 0.000 ITRI    465741106     30.3000           300.00          2,131.00          9,090.00
+JABIL CIRCUIT INC                          0.000 JBL     466313103     22.7200         4,900.00        124,587.29        111,328.00
+JDS UNIPHASE CORP                          0.000 JDSU    46612J101      8.6800        34,500.00      1,322,612.09        299,460.00
+KEANE INC.                                 0.000 KEA     486665102     18.0300         2,000.00         28,524.00         36,060.00
+KEITHLEY INSTRUMENTS INC                   0.887 KEI     487584104     16.9000           300.00         10,886.00          5,070.00
+KEMET CORP.                                0.000 KEM     488360108     17.7500         2,300.00         42,671.50         40,825.00
+KLA-TENCOR CORP.                           0.000 KLAC    482480100     49.5600         4,400.00        164,625.05        218,064.00
+KOPIN CORP                                 0.000 KOPN    500600101     14.0000         1,600.00         17,927.25         22,400.00
+KRONOS INC.                                0.000 KRON    501052104     48.3800           450.00          9,981.00         21,771.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500         1,200.00         17,805.00         20,580.00
+LAM RESEARCH CORP                          0.000 LRCX    512807108     23.2200         3,200.00         69,499.87         74,304.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104     20.5700         2,800.00         61,373.00         57,596.00
+LEGATO SYSTEMS INC.                        0.000 LGTO    524651106     12.9700         2,300.00         28,997.00         29,831.00
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     59.0000         3,400.00        165,881.00        200,600.00
+LINEAR TECHNOLOGY CORP                     0.409 LLTC    535678106     39.0400         8,300.00        403,076.00        324,032.00
+LSI LOGIC CORP                             0.000 LSI     502161102     15.7800         9,810.17        170,803.60        154,804.48
+LTX CORP                                   0.000 LTXX    502392103     20.9400         1,200.00         32,169.00         25,128.00
+LUCENT TECHNOLOGIES                        0.000 LU      549463107      6.2900        89,500.00      1,283,593.03        562,955.00
+MACROMEDIA INC                             0.000 MACR    556100105     17.8000         1,600.00         23,919.25         28,480.00
+MAPINFO CORP                               0.000 MAPS    565105103     15.6900           300.00          7,878.00          4,707.00
+MAXIM INTGRTD PRDCTS INC.                  0.000 MXIM    57772K101     52.5100         8,600.00        393,601.34        451,586.00
+MCDATA CORPORATION-A WI                    0.000 MCDTA   580031201     24.5000         2,900.00         72,587.00         71,050.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106     23.5700         1,700.00         41,381.50         40,069.00
+MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     33.9800         2,200.00         83,431.70         74,756.00
+METHODE ELECTRONICS CL-A                   2.500 METHA   591520200      8.0000           900.00         10,177.50          7,200.00
+MICREL INCORPORATED                        0.000 MCRL    594793101     26.2300         2,300.00         58,595.95         60,329.00
+MICROCHIP TECHNOLOGY INC.                  0.000 MCHP    595017104     38.7400         3,400.00         90,461.63        131,716.00
+MICRON TECHNOLOGY INC                      0.000 MU      595112103Q    31.0000        15,600.00        539,809.18        483,600.00

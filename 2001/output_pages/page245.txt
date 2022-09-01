@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HONGKONG+CHINA GAS                           0.308     6436557      64365       516,200.00          629,269.99
+HSBC HOLDINGS ORD                           26.234     0540528      HSBA_       592,036.00        6,067,164.54
+HUTCHISON WHAMPOA                            0.004     6448068      13_HK       264,300.00        2,603,674.36
+IBERDROLA SA                                 1.860     4424640      IBE_S       138,937.00        1,789,515.77
+INDEPENDENT NEWSPAPERS LTD.                  0.422     6462024      INL_N       554,300.00          883,186.36
+ING GROEP NV NLG1                            2.393     7154182      INGA_        10,576.00          606,300.41
+INSURANCE AUSTRALIA GROUP                    1.632     6271026      IAG_A       320,613.00          559,883.30
+INTERBREW                                    0.356     4755317      INTB_        52,600.00        1,346,133.34
+INTRACOM SA                                  2.326     5482023      INTRK         7,100.00           95,819.63
+IRISH LIFE & PERMANENT                       3.527     0467865      IPM_I         5,000.00           62,444.97
+ISHARES MSCI EAFE INDEX FUND                 0.142     2801290      EFA           1,650.00          197,637.00
+ITO-YOKADO CO JPY5                           0.000     6467944      8264_        10,000.00          450,931.96
+JAPAN DIGITAL CONTENTS                       0.000     6470986      4185_        69,000.00          397,407.63
+JOHNSON ELECTRIC HLDINGS                     0.000     6281939      179_H       269,600.00          314,520.48
+JUSCO CO JPY50                               0.000     6480048      8267_        26,000.00          544,131.14
+KAO CORP Y50                                 0.000     6483809      4452_        27,768.00          685,765.72
+KBC BANKVERZEKERIN                           1.945     4497749      KBC_B        43,500.00        1,304,659.82
+KEYENCE CORPORATION                          0.000     6490995      6861_         3,800.00          534,916.11
+KINGFISHER PLC                               8.999     3073850      KGF_L       132,712.00          713,760.49
+KOMATSU Y50                                  0.009     6496584      6301_        87,000.00          565,784.74
+KONINKLIJKE AHOLD NV                         1.807     5252602      AHLN_         4,264.00          124,671.30
+KONINKLIJKE KRN                              7.215     5956078      KPN_N         5,929.00           23,571.35
+KONINKLIJKE NUMICO                           3.132     5402601      NUTV_           372.00            8,902.56
+KYOCERA CORP JPY50                           0.000     6499260      6971_         9,300.00          713,318.61
+KYUSHU ELECTRIC POWER                        0.000     6499806      9508_       200,300.00        3,265,870.86
+L’’OREAL FRF10                               0.372     4057808      OR_FP        11,454.00          763,385.40
+LAND SECURITIES OR                           6.151     0504502      LAND_        45,388.00          574,633.72
+LEGAL + GENERAL OR                           6.637     0560399      LGEN_       590,199.00        1,309,309.34
+LI & FUNG LTD                                0.000     6286257      494_H       223,400.00          267,045.39
+LINDE AG                                     2.180     5740817      00340         3,000.00          128,886.92
+LLOYDS TSB GROUP O                          18.949     0870612      LLOY_       345,094.00        3,707,017.24
+LVMH MOET-HENNESSY                           1.447     4061412      MC_FP         8,350.00          275,073.16
+MABUCHI MOTOR CO                             0.004     6551030      6592_         4,200.00          361,180.27
+MARKS+ SPENCER ORD                           5.172     0565402      MKS_L       259,018.00        1,501,493.95
+MATSUSHITA ELC IND                           0.000     6572707      6752_       103,000.00        1,338,051.01
+MATSUSHITA ELECTRIC WORKS                    0.008     6572729      6991_       104,000.00          896,263.13
+MAYR-MELNHOF KARTO                           2.412     4563640      MAYR_        18,900.00          903,267.91
+METRO AG NPV                                 2.007     5041413      MEO_G           280.00           10,037.67
+MISYS ORD GBP0.01                            2.601     0385785      MSY_L        36,365.00          186,485.42

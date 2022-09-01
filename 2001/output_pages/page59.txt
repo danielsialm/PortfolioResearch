@@ -1,0 +1,34 @@
+ASOF02   Date 01/24/2002 Time 21:29:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - IND       LARGE CAP SELECT
+Instrument - COM       COMMON STOCK
+
+WILLAMETTE INDUSTRIES                      1.765 WLL     969133107Q    52.1200        91,000.00      3,378,920.63      4,742,919.99
+WILLIAMS COS. INC.                         3.134 WMB     969457100Q    25.5200       424,428.00     10,940,373.60     10,831,402.57
+WORLDCOM INC-WORLDCOM GROUP                0.000 WCOM    98157D106     14.0800     2,210,800.00     25,597,637.53     31,128,064.01
+WRIGLEY WM JR CO                           1.479 WWY     982526105Q    51.3700        94,500.00      4,556,729.59      4,854,464.99
+XCEL ENERGY INC                            5.407 XEL     98389B100Q    27.7400       241,450.00      5,772,266.49      6,697,823.00
+XEROX CORP                                 0.000 XRX     984121103Q    10.4200       480,000.00      4,986,236.08      5,001,600.02
+XILINX INC                                 0.000 XLNX    983919101     39.0500       210,900.00      9,018,524.08      8,235,645.02
+XL CAPITAL LTD - CLASS A                   2.014 XL      G98255105     91.3600        85,400.00      6,916,983.21      7,802,143.99
+YAHOO INC                                  0.000 YHOO    984332106     17.7400       379,700.00     38,507,089.24      6,735,878.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     30.5400       164,360.00      2,659,850.83      5,019,554.40
+ZIONS BANCORPORATION                       1.521 ZION    989701107     52.5800        61,100.00      3,676,307.14      3,212,638.00
+
+Instrument Total           440                                                   192,844,298.47  5,149,147,218.57  6,965,271,847.11
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       276,200.00      8,444,434.72      8,308,095.98
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       180,500.00      4,375,970.65      5,182,155.04
+
+Instrument Total             2                                                       456,700.00     12,820,405.37     13,490,251.02
+
+Portfolio Total            442                                                   193,300,998.47  5,161,967,623.94  6,978,762,098.13
+

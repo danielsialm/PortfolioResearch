@@ -1,0 +1,34 @@
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TOYOTA MOTOR CORP                            0.006     6900643      7203_       287,700.00        8,454,596.09
+UBS AG-REG                                   0.028     7126114      UBSN_        47,773.00        2,224,757.63
+UCB ORD BEF                                  0.930     5596991      UCB_B        60,388.00        2,311,054.53
+UNICREDITO ITALIAN                           1.354     4232445      UC_IM       122,000.00          543,558.29
+UNILEVER NV CERT.                            1.941     5640898      UN_NA        10,966.00          640,093.17
+UNITED OVERSEAS BA                           0.920     6916781      UOB_S       419,726.00        2,759,690.36
+UPM-KYMMENE CORP F                           1.668     5051252      UPM1V        66,980.00        1,812,224.32
+VA TECHNOLOGIE AG                            4.285     4921635      VATC_        18,900.00        1,068,056.72
+VESTAS WIND SYSTEMS A/S                      0.052     5964651      VWS_D        20,000.00          619,920.48
+VIVENDI UNIVERSAL EUR                        1.433     4834777      EX_FP        11,615.00          481,942.91
+VODAFONE GROUP                               7.446     0719210      VOD_L     2,350,520.00        7,997,857.34
+WIENERBERGER BAUST                           4.478     5699373      WBST_       137,300.00        2,946,133.26
+ZURICH FINANCIAL SERVICES CHF10              2.624     5983816      ZURN_         3,287.00        1,579,272.57
+
+Instrument Total             130                                             21,318,802.00      278,906,658.98
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+PANAGORA - LQR                               0.000     IL-PAN                    29,328.70        2,932,870.25
+
+Instrument Total               1                                                 29,328.70        2,932,870.25
+
+Portfolio Total              131                                             21,348,130.70      281,839,529.23        259,998,137.14

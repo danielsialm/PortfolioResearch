@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 109
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - VALUE
+Instrument - COM       COMMON STOCK
+
+REVLON INC - CL A                          0.000 REV     761525500      6.6600         7,600.00         37,714.16         50,616.00
+RLI CORP                                   1.422 RLI     749607107     45.0000         2,000.00         76,149.00         90,000.00
+ROADWAY CORPORATION                        0.545 ROAD    769742107     36.7000        13,300.00        343,484.72        488,110.00
+ROCK-TENN COMPANY CL A                     2.083 RKT     772739207     14.4000         3,900.00         45,365.50         56,160.00
+RYANS FAMILY STEAK HOUSES                  0.000 RYAN    783519101     21.6500        19,600.00        209,641.06        424,340.00
+RYLAND GROUP INC                           0.218 RYL     783764103     73.2000         7,300.00        237,220.28        534,360.00
+SALTON INC                                 0.000 SFP     795757103     18.8800        17,200.00        299,641.54        324,736.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.5700        10,600.00        144,731.62        154,442.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     22.8800        12,500.00        382,752.05        286,000.00
+SCHWEITZER-MAIDUIT INTL INC                2.526 SWM     808541106     23.7500         6,400.00        125,392.00        152,000.00
+SCM MICROSYSTEMS INC                       0.000 SCMM    784018103     14.6400         1,000.00          6,720.00         14,640.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     46.4000        11,100.00        460,062.06        515,040.00
+SEITEL INC                                 0.000 SEI     816074306     13.6000         7,000.00        101,960.39         95,200.00
+SELECTIVE INSURANCE GROUP                  2.761 SIGI    816300107     21.7300         7,800.00        144,576.29        169,494.00
+SHAW GROUP                                 0.000 SGR     820280105     23.5000        21,400.00        469,935.82        502,900.00
+SONIC AUTOMOTIVE INC.                      0.000 SAH     83545G102     23.4400         3,800.00         61,526.94         89,072.00
+SOUTH FINANCIAL GROUP, INC                 2.478 TSFG    837841105     17.7500         6,400.00         90,487.04        113,600.00
+SOUTHWEST GAS CORP                         3.668 SWX     844895102Q    22.3500         3,000.00         62,203.20         67,050.00
+SPACELABS MEDICAL INC                      0.000 SLMD    846247104     12.1500         1,100.00         13,074.01         13,365.00
+STANDARD-PACIFIC CORP                      1.315 SPF     85375C101     24.3200        19,400.00        497,568.34        471,808.00
+STATEN ISLAND BANCORP                      2.207 SIB     857550107     16.3100        33,000.00        420,927.00        538,230.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     11.0400        14,700.00        136,960.93        162,288.00
+STEWART INFO SVCS                          0.000 STC     860372101     19.7500        13,300.00        262,446.66        262,675.00
+STONE ENERGY CORP                          0.000 SGY     861642106     39.5000        12,900.00        501,077.28        509,550.00
+SUSQUEHANNA BANCSHARES INC.                3.836 SUSQ    869099101     20.8500         5,400.00         86,146.20        112,590.00
+SWIFT ENERGY COMPANY                       0.000 SFY     870738101     20.2000        14,700.00        297,094.95        296,940.00
+SWS GROUP INC                              1.571 SWS     78503N107     25.4500        17,370.00        359,477.29        442,066.50
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     10.3400        16,520.00        186,829.88        170,816.80
+TBC CORP                                   0.000 TBCC    872180104     13.3900        11,400.00         88,181.68        152,646.00
+TESORO PETROLEUM CORP                      0.000 TSO     881609101     13.1100        15,100.00        199,612.67        197,961.00
+THERAGENICS CORPORATION                    0.000 TGX     883375107      9.8600        24,300.00        261,151.40        239,598.00
+TIMKEN CO.                                 3.213 TKR     887389104Q    16.1800        26,100.00        406,448.23        422,298.00
+TOM BROWN INC                              0.000 TMBR    115660201     27.0100        18,700.00        508,582.86        505,087.00
+TORO CO                                    1.066 TTC     891092108     45.0000         7,600.00        238,010.04        342,000.00
+TRIUMPH GROUP INC                          0.000 TGI     896818101     32.5000         9,900.00        439,678.94        321,750.00
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105     16.5200        13,000.00        413,583.86        214,760.00
+UNITED AUTO GROUP INC                      0.000 UAG     909440109     25.8100         1,500.00         40,140.00         38,715.00
+UNITED STATIONERS INC                      0.000 USTR    913004107     33.6500         9,900.00        262,287.38        333,135.00
+UNIVERSAL FOREST PRODUCTS                  0.430 UFPI    913543104     20.9300         4,000.00         59,744.50         83,720.00

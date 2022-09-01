@@ -1,0 +1,44 @@
+ASOF02   Date 01/24/2002 Time 21:29:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MG4       MID-CAP GROWTH
+Instrument - COM       COMMON STOCK
+
+STMICROELECTRONICS NV-NY SHS               0.094 STM     861012102     31.6700        23,600.00        657,424.60        747,411.99
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700        17,700.00        381,911.58        365,859.00
+SUN MICROSYSTEMS INC.                      0.000 SUNW    866810104     12.3000        30,400.00        317,049.29        373,919.98
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300       535,800.00     11,046,502.37     15,500,694.00
+SYMANTEC CORP                              0.000 SYMC    871503108     66.3300       138,200.00      6,357,263.02      9,166,806.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     59.0700       114,800.00      5,793,653.45      6,781,236.00
+TCF FINANCIAL CORP                         2.084 TCB     872275102     47.9800       116,400.00      3,067,245.99      5,584,872.00
+TIMBERLAND CO CL-A                         0.000 TBL     887100105     37.0800        81,200.00      2,257,460.54      3,010,896.00
+TITAN CORP                                 0.000 TTN     888266103     24.9500       111,900.00      2,400,744.48      2,791,905.01
+TOOTSIE ROLL INDUSTRIES, INC.              0.716 TR      890516107Q    39.0800        63,300.00      2,908,086.77      2,473,764.01
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103     12.2600       231,500.00      4,854,465.36      2,838,189.99
+UCAR INTERNATIONAL INC                     0.000 UCR     90262K109     10.7000       101,800.00      1,073,048.62      1,089,260.00
+UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     42.7800       109,900.00      4,514,872.06      4,701,522.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     35.6200        76,100.00      2,252,178.86      2,710,682.00
+VALSPAR CORP                               1.363 VAL     920355104     39.6000        60,700.00      2,200,794.69      2,403,720.00
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     34.5900        21,100.00        779,530.50        729,849.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     44.8300        25,900.00        763,819.92      1,161,097.02
+VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     24.5900       170,500.00      7,009,066.92      4,192,595.00
+VISX INC                                   0.000 EYE     92844S105     13.2500        15,000.00        230,300.58        198,749.99
+WADDELL & REED FINANCIAL-CL A              1.087 WDR     930059100     32.2000       158,300.00      4,636,448.34      5,097,260.00
+WASHINGTON POST CL. B                      1.056 WPO     939640108Q   530.0000        13,200.00      7,228,132.89      6,996,000.00
+WATERS CORPORATION                         0.000 WAT     941848103     38.7500        10,000.00        367,843.47        387,499.98
+WESTAMERICA BANCORPORATION                 2.122 WABC    957090103     39.5700        53,300.00      1,714,432.00      2,109,081.00
+WESTWOOD ONE                               0.000 WON     961815107     30.0500       183,100.00      3,238,294.56      5,502,155.00
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     42.9000       104,000.00      2,539,007.11      4,461,600.00
+WILMINGTON TRUST CO, DELAWARE              3.032 WL      971807102Q    63.3100        59,600.00      2,271,518.19      3,773,276.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107     17.9100       141,800.00      4,791,708.86      2,539,638.00
+WORLDCOM INC-WORLDCOM GROUP                0.000 WCOM    98157D106     14.0800        52,000.00        756,739.42        732,160.00
+
+Instrument Total           184                                                    22,459,063.12    635,004,831.09    756,168,660.59
+
+Portfolio Total            184                                                    22,459,063.12    635,004,831.09    756,168,660.59
+

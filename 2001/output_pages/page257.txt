@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ENERSIS SA ADR (RE                           1.127     2314947      ENI          13,874.00          204,238.25
+FOMENTO ECON MEXIC                           0.000     2242059      FEMSA       685,171.00        2,082,771.35
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    12,190,753.00          281,104.04
+FORMOSA CHEM & FIBRE                         0.002     6348715      1433_     2,614,400.00        1,990,711.50
+GEDEON RICHTER RT                            0.000     4042387      RICHT         7,812.00          444,165.14
+GENTING BERHAD                               0.000     6366676      GENT_       640,097.00        1,493,497.90
+GERDAU METALURGICA S.A.-PREF                 0.002     2581138      GOAU4    33,692,779.00          408,060.13
+GIGABYTE TECHNOLOGY CO.                      0.000     6129181      2376_       815,500.00        1,823,573.14
+GRUPO AEROPORTUARIO DE SUR-B                 0.000     2639349      ASURB       275,600.00          492,183.05
+GRUPO FINANCIERO B                           0.000     2402875      GFBBO       570,991.00          276,754.47
+GRUPO FINANCIERO GALICIA-B                   6.493     2613310      GGAL_       194,475.00          197,858.19
+GRUPO TELEVISA SA                            0.005     2380108      TLEVI       752,919.00        1,315,937.82
+GUANGDONG KELON EL                           0.000     6391935      921_H     2,997,000.00        1,102,102.48
+GUDANG GARAM(PERUS                           0.000     6366999      GGRM_       196,500.00          516,114.37
+GUJARAT AMBUJA CEMENTS LTD                   0.000     6100119      YGAMB        65,534.00          261,181.33
+HACI OMER SABANCI HOLDING                    0.000     5268568      SAHOL    63,229,305.00          238,759.93
+HANA MICROELECTRNC                           0.000     6290292      HANA/        35,300.00           65,323.33
+HINDUSTAN LEVER                              0.000     6261674      HLVR_       270,938.00        1,131,934.78
+HITE BREWERY CO KS                           0.000     6193573      0014_         3,790.00          125,091.81
+HOUSING DEVELOPMENT FINANCE                  0.000     6171900      HDFC_        31,769.00          460,567.73
+HUANENG POWER INTL INC-H                     0.600     6099671      902_H     1,800,000.00        1,036,429.22
+HYUNDAI MOTOR CO K                           0.000     6451055      0538_       113,616.00        2,265,597.11
+ICICI BANK LTD                               0.000     6100368      ICICI       157,098.00          435,894.30
+IDB HOLDING CORP O                           0.000     6456726      IDBH_        50,790.00        1,321,928.63
+IJM CORP BERHAD                              0.000     6455217      IJM_M       886,289.00          842,786.13
+IMPALA PLATINUM HL                           0.004     6457804      IMP_S        44,172.00        1,665,109.43
+IMPERIAL HLDGS R0.                           0.000     6458874      IPL_S       321,943.00        1,970,027.72
+IMPSAT FIBER NETWORKS                        0.000     2541927      IMPT         24,732.00           52,792.93
+IND FIN CORP THAI                            0.000     6458830      IFCT/       271,900.00          122,464.49
+INFOSYS TECHNOLOGIES LTD                     0.000     6205122      INFO_        11,664.00          792,589.76
+IOI CORPORATION BERHAD                       0.016     6464514      IOI_M     1,655,180.00        1,289,477.72
+ISRAEL CORP ORD SH                           0.000     6889678      ILCO_         6,048.00          654,832.37
+KGHM POLSKA MIEDZ                            0.000     5263251      KGH_P       153,768.00          687,474.85
+KIMBERLEY CLARK DE                           0.000     2491914      KIMBE        90,700.00          251,945.09
+KOC HOLDING                                  0.000     4491484      KCHOL     7,121,477.00          164,490.98
+KOMERCNI BANKA                               0.000     4519449      KOMB_        12,431.00          355,339.54
+KOOKMIN BANK KRW50                           0.000     6419365      6000_       103,572.85        2,141,750.30
+KOOKMIN CREDIT CARD                          0.000     6263799      3115_        39,743.00        1,106,231.00
+KOREA ELEC POWER K                           0.000     6495730      1576_       251,177.00        4,598,400.29

@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 080
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    14.1300        54,100.00        880,794.56        764,433.00
+KEITHLEY INSTRUMENTS INC                   0.887 KEI     487584104     16.9000        15,600.00        727,238.64        263,640.00
+KELLWOOD CO.                               2.665 KWD     488044108     24.0100        25,100.00        671,789.16        602,651.00
+KEY PRODUCTION COMPANY INC                 0.000 KP      493138101     17.0000        13,500.00        290,939.56        229,500.00
+KIRBY CORP.                                0.000 KEX     497266106     27.5500        23,700.00        481,190.77        652,935.00
+KOPIN CORP                                 0.000 KOPN    500600101     14.0000        61,400.00        896,312.46        859,600.00
+KROLL INC                                  0.000 KROL    501049100     15.1000        21,700.00        535,800.29        327,670.00
+KRONOS INC.                                0.000 KRON    501052104     48.3800        20,100.00        284,740.74        972,438.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        47,500.00        811,587.96        814,625.00
+LA-Z-BOY INC.                              1.649 LZB     505336107     21.8200        59,000.00        822,566.08      1,287,380.00
+LABOR READY INC                            0.000 LRW     505401208      5.1100        44,300.00        183,454.98        226,373.00
+LACLEDE GROUP HLDG. CO.                    5.606 LG      505597104     23.9000        18,600.00        372,251.99        444,540.00
+LANCE INC                                  4.478 LNCE    514606102Q    14.2900        28,600.00        402,941.32        408,694.00
+LANDAMERICA FINANCIAL GROUP                0.696 LFG     514936103     28.7000        15,300.00        505,904.01        439,110.00
+LANDRY’S RESTAURANTS INC.                  0.536 LNY     51508L103     18.6500        20,800.00        420,034.27        387,920.00
+LANDSTAR SYSTEM INC.                       0.000 LSTR    515098101     72.5100         8,300.00        282,657.28        601,833.00
+LAWSON PRODUCTS                            2.461 LAWS    520776105Q    26.0000        11,300.00        282,374.91        293,800.00
+LENNOX INTERNATIONAL INC.                  3.917 LII     526107107      9.7000        54,100.00        921,374.50        524,770.00
+LIBBEY INC                                 0.918 LBY     529898108     32.6500        14,800.00        473,541.83        483,220.00
+LINDSAY MANUFACTURING CO.                  0.723 LNN     535555106     19.3500        15,100.00        347,013.73        292,185.00
+LINES ’N THINGS INC.                       0.000 LIN     535679104     25.5000        40,700.00      1,227,664.45      1,037,850.00
+LONE STAR STEAKHOUSE & SALOON              3.371 STAR    542307103     14.8300        24,100.00        271,975.37        357,403.00
+LONE STAR TECHNOLOGIES INC                 0.000 LSS     542312103     17.6000        21,500.00        957,180.00        378,400.00
+LUBYS INC.                                 0.000 LUB     549282101Q     5.7100        21,200.00        397,902.99        121,052.00
+LYDALL INC.                                0.000 LDL     550819106     10.0000        18,400.00        363,163.88        184,000.00
+MACDERMID INC.                             0.472 MRD     554273102     16.9500        31,000.00      1,130,781.24        525,450.00
+MAF BANCORP INC                            1.627 MAFB    55261R108     29.5000        24,500.00        556,119.20        722,750.00
+MAGNETEK INC                               0.000 MAG     559424106      9.0100        21,200.00        283,575.99        191,012.00
+MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     29.1500        27,300.00        917,553.00        795,795.00
+MANITOWOC COMPANY INC.                     2.893 MTW     563571108     31.1000        26,200.00        615,605.25        814,820.00
+MAPINFO CORP                               0.000 MAPS    565105103     15.6900        13,900.00        365,014.00        218,091.00
+MARCUS CORPORATION                         1.554 MCS     566330106     14.1500        28,200.00        477,996.53        399,030.00
+MASSEY ENERGY CO                           0.771 MEE     576206106Q    20.7300        72,500.00        711,652.12      1,502,925.00
+MATERIAL SCIENCES CORP.                    0.000 MSC     576674105     10.1200           600.00          8,119.92          6,072.00
+MAXIMUS INC                                0.000 MMS     577933104     42.0600        23,400.00        880,401.13        984,204.00
+MDC HOLDINGS INC                           0.740 MDC     552676108     37.7900        25,960.00        401,837.69        981,028.40
+MEDICIS PHARMACEUTICAL CORP                0.000 MRX     584690309     64.5900        29,400.00      1,033,424.70      1,898,946.00
+MEMBERWORKS INC                            0.000 MBRS    586002107     14.0100        15,000.00        503,869.56        210,150.00
+MENTOR CORP/MINN                           0.420 MNTR    587188103     28.5600        25,400.00        704,146.70        725,424.00

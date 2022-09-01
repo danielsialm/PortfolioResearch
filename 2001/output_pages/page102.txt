@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 073
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+4KIDS ENTERTAINMENT INC.                   0.000 KDE     350865101     20.0300        11,900.00        224,946.88        238,357.00
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     38.1000        52,099.00        980,056.97      1,984,971.90
+A.T. CROSS CO.                             0.000 ATX     227478104Q     5.9000        58,700.00        390,884.45        346,330.00
+AAR CORPORATION                            1.109 AIR     000361105Q     9.0100        26,600.00        604,480.78        239,666.00
+AARON RENTS INC                            0.245 RNT     002535201     16.3000        19,400.00        272,104.75        316,220.00
+ABM INDUSTRIES INC.                        2.105 ABM     000957100     31.3500        23,300.00        567,048.50        730,455.00
+ACCREDO HEALTH INC                         0.000 ACDO    00437V104     39.7000        26,500.00        795,190.80      1,052,050.00
+ACTEL CORPORATION                          0.000 ACTL    004934105     19.9100        22,100.00        694,936.48        440,011.00
+ACTION PERFORMANCE CO                      0.000 ACTN    004933107     30.6100        17,500.00        149,063.25        535,675.00
+ACUITY BRANDS INC                          0.000 AYI     00508Y102     12.1000        40,700.00        554,741.00        492,470.00
+ADAPTEC INC                                0.000 ADPT    00651F108     14.5000       103,231.00      2,588,330.41      1,496,849.50
+ADMINISTAFF INC                            0.000 ASF     007094105     27.4100        26,800.00        781,014.05        734,588.00
+ADVANCE PCS                                0.000 ADVP    00790K109     29.3500        91,900.00      1,812,493.14      2,697,265.00
+ADVANCED ENERGY INDUSTRIES                 0.000 AEIS    007973100     26.6400        30,900.00        787,950.00        823,176.00
+ADVANCED MARKETING SERVICES                0.219 MKT     00753T105     18.2500        18,800.00        341,071.80        343,100.00
+ADVANCED TISSUE SCIENCES INC.              0.000 ATIS    00755F103      4.3600        63,600.00        329,124.27        277,296.00
+ADVO INC.                                  0.000 AD      007585102     43.0000        20,100.00        405,234.93        864,300.00
+AEROFLEX INC                               0.000 ARXX    007768104     18.9300        55,400.00      1,037,860.61      1,048,722.00
+ALLEN TELECOM INC.                         0.000 ALN     018091108      8.5000        30,500.00        565,763.21        259,250.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100     12.0800        35,400.00        865,929.63        427,632.00
+ALLIANT TECHSYSTEMS INC.                   0.000 ATK     018804104     77.2000        24,150.00        755,530.40      1,864,380.00
+ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000        44,100.00      1,379,408.01        961,380.00
+ALPHARMA, INC.-CL A                        0.680 ALO     020813101Q    26.4500        43,500.00      1,192,968.59      1,150,575.00
+AMERICAN FINANCIAL HLDGS INC.              2.597 AMFH    026075101     25.4100        38,700.00        912,538.84        983,367.00
+AMERICAN ITALIAN PASTA COMPANY             0.000 PLB     027070101     42.0300        18,200.00        416,500.03        764,946.00
+AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     18.0800        45,500.00      1,186,360.64        822,640.00
+ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100        12,400.00        596,294.25        477,524.00
+ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300        67,100.00        385,087.62        277,123.00
+ANCHOR BANCORP WISCONSIN INC.              1.860 ABCW    032839102     17.7400        44,100.00        710,003.18        782,334.00
+ANGELICA CORP                              2.952 AGL     034663104     10.8400        14,800.00        175,053.35        160,432.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100        38,600.00        704,288.25      1,119,786.00
+ANNTAYLOR STORES CORP                      0.000 ANN     036115103     35.0000        27,800.00        626,053.97        973,000.00
+APOGEE ENTERPRISES INC.                    1.390 APOG    037598109     15.8200        26,700.00        457,066.96        422,394.00
+APPLEBEES INT’L. INC.                      0.204 APPB    037899101     34.2000        39,900.00        755,571.39      1,364,580.00
+APPLICA                                    0.000 APN     03815A106      9.0100        21,400.00        152,376.27        192,814.00
+APPLIED INDUSTRIAL TECH INC.               2.573 AIT     03820C105     18.6500        38,700.00        688,059.85        721,755.00
+APTAR GROUP INC.                           0.685 ATR     038336103Q    35.0300        35,900.00        918,097.44      1,257,577.00
+ARBITRON INC                               0.000 ARB     03875Q108     34.1500        28,601.00        767,266.56        976,724.15
+ARCH CHEMICALS INC.                        3.448 ARJ     03937R102     23.2000        21,900.00        431,766.05        508,080.00

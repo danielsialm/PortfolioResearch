@@ -1,0 +1,15 @@
+ASOF10   Date 01/24/2002 Time 21:29:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 048
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ZORAN CORP                                   0.000     98975F101   ZRAN            13,500          409,599.06          440,640.00
+
+Instrument Total                  1,761                                       696,438,634   20,122,126,398.23   23,399,906,201.25
+
+Group Total                       1,775                                       698,437,397   20,300,134,044.18   23,583,744,095.82

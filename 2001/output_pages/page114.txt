@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 085
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+SPS TECHNOLOGIES INC                       0.000 ST      784626103     34.9200        13,600.00        593,432.71        474,912.00
+ST MARY LAND & EXPLORATION                 0.471 MARY    792228108     21.1900        27,600.00        458,959.26        584,844.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     15.5200        14,100.00        216,567.79        218,832.00
+STANDARD MOTOR PRODS                       2.589 SMP     853666105     13.9000        12,600.00        199,580.81        175,140.00
+STANDARD REGISTER CO                       4.964 SR      853887107     18.5300        27,000.00        377,467.64        500,310.00
+STANDARD-PACIFIC CORP                      1.315 SPF     85375C101     24.3200        29,400.00        387,389.17        715,008.00
+STANDEX INTERNATIONAL CORP                 3.862 SXI     854231107     21.7500        11,000.00        244,205.50        239,250.00
+STARTEK INC                                0.000 SRT     85569C107     18.9500        13,300.00        737,758.93        252,035.00
+STATEN ISLAND BANCORP                      2.207 SIB     857550107     16.3100        66,900.00        571,057.44      1,091,139.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     11.0400        27,400.00        464,171.34        302,496.00
+STEEL DYNAMICS INC                         0.000 STLD    858119100     11.6100        47,300.00        771,682.08        549,153.00
+STEEL TECHNOLOGIES INC                     1.762 STTX    858147101      9.0800        35,200.00        276,298.00        319,616.00
+STEIN MART INC.                            0.000 SMRT    858375108      8.3600        46,700.00        642,105.61        390,412.00
+STERLING BANCSHARES INC                    1.198 SBIB    858907108     12.5200        41,700.00        570,430.65        522,084.00
+STEWART INFO SVCS                          0.000 STC     860372101     19.7500        17,000.00        355,216.00        335,750.00
+STILLWATER MINING COMPANY                  0.000 SWC     86074Q102     18.5000        38,000.00        569,599.16        703,000.00
+STONE ENERGY CORP                          0.000 SGY     861642106     39.5000        25,400.00      1,053,373.82      1,003,300.00
+STRATOS LIGHTWAVE INC.                     0.000 STLW    863100103      6.1500        61,786.00        325,310.46        379,983.90
+STRIDE RITE CORP                           3.053 SRR     863314100Q     6.5500        48,300.00        620,595.94        316,365.00
+STURM RUGER & CO INC                       6.677 RGR     864159108     11.9800        32,000.00        299,957.18        383,360.00
+SUPERTEX INC                               0.000 SUPX    868532102     17.5100        10,200.00        259,224.63        178,602.00
+SURMODICS INC                              0.000 SRDX    868873100     36.4600        16,400.00        917,580.00        597,944.00
+SUSQUEHANNA BANCSHARES INC.                3.836 SUSQ    869099101     20.8500        38,100.00        708,839.20        794,385.00
+SWIFT ENERGY COMPANY                       0.000 SFY     870738101     20.2000        23,300.00        841,324.81        470,660.00
+SWS GROUP INC                              1.571 SWS     78503N107     25.4500        17,050.00        472,754.69        433,922.50
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     21.5800        36,501.00        611,730.99        787,691.58
+SYMMETRICOM INC                            0.000 SYMM    871543104      7.6100        24,400.00        205,664.54        185,684.00
+SYNCOR INTL CORP-DEL                       0.000 SCOR    87157J106     28.6400        23,100.00        503,602.60        661,584.00
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     10.3400        26,000.00        545,932.28        268,840.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     16.1700        36,300.00        704,459.60        586,971.00
+TBC CORP                                   0.000 TBCC    872180104     13.3900        44,600.00        394,168.42        597,194.00
+TECHNE CORPORATION                         0.000 TECH    878377100     36.8500        40,700.00      1,380,376.05      1,499,795.00
+TECHNITROL INC.                            0.506 TNL     878555101     27.6200        32,300.00        835,953.21        892,126.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     16.2900        30,400.00        453,028.83        495,216.00
+TETRA TECH INC.                            0.000 TTEK    88162G103     19.9100        50,000.00        727,636.47        995,500.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     20.9500        15,200.00        352,420.21        318,440.00
+TEXAS INDUSTRIES INC                       0.813 TXI     882491103     36.9000        20,500.00        726,848.26        756,450.00
+THE MEN’S WEARHOUSE INC.                   0.000 MW      587118100     20.6500        39,500.00      1,043,104.47        815,675.00
+THERAGENICS CORPORATION                    0.000 TGX     883375107      9.8600        34,400.00        349,532.94        339,184.00

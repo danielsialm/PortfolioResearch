@@ -1,0 +1,16 @@
+ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - INTF      INTERNATIONAL FUNDS
+
+EAFE VALUE                                   0.000     IL-EAFEVAL               474,421.89       47,442,189.80
+
+Instrument Total               1                                                474,421.89       47,442,189.80
+
+Portfolio Total              110                                            123,527,785.89      860,672,245.03        797,379,219.56

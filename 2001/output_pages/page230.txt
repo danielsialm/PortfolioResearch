@@ -1,0 +1,43 @@
+ASOF11   Date 01/24/2002 Time 21:29:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ULTRAPAR PARTICIPACOES SA ADR’S             37.142     2496890      UGP         200,000.00        2,477,751.30
+UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_    11,632,000.00        5,001,923.55
+UNIBANCO - SPONSORED GDR                     4.035     2000815      UBB         208,000.00        4,687,304.72
+UNIBANCO-UNIAO DE                          963.074     2909990      UBBR4     5,464,587.00           97,760.43
+UNIBANCO-UNITS                             929.950     2000837      UBBR1     6,474,528.00          318,634.98
+UNIFIED ENERGY SYSTEMS                      12.714     4889335      EESR$    11,260,000.00        1,185,156.05
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,314,420.00        2,544,705.58
+VENFIN LTD                                   0.002     6731928      VNF_S     1,000,000.00        2,104,784.58
+VIA TECHNOLOGIES INC                         0.000     6146823      2388_       720,000.00        3,133,580.78
+VIDESH SANCHAR INGAM                         0.000     6114745      YVSNL       400,000.00        2,687,143.50
+VOTORANTIM CELULOSE - ADR                    2.946     2696560      VCP          46,200.00          596,240.98
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00           80,123.73
+WINBOND ELECTRONICS CORP                     0.000     6966515      2344_     2,390,000.00        2,076,396.08
+YAGEO CORPORATION                            0.000     6984380      2327_     5,387,400.00        4,356,062.34
+ZEE TELEFILMS LIMITED                        0.010     6188535      Z_IN        800,000.00        2,053,457.85
+ZHEJIANG EXPRESSWA                           0.011     6990763      576_H     7,000,000.00        1,245,454.07
+
+Instrument Total             226                                          4,843,635,111.57      529,943,283.14
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                   270,075.09       27,007,509.47
+
+Instrument Total               1                                                270,075.09       27,007,509.47
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+DAESENG FEED CO RT                           0.000     9418264      94182           260.00               80.70
+
+Instrument Total               1                                                    260.00               80.70
+
+Portfolio Total              242                                          4,850,894,205.06      635,550,673.50        570,912,375.94

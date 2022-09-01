@@ -1,0 +1,28 @@
+ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 124
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-SD     STOCK DISTRIBUTION
+Instrument - COM       COMMON STOCK
+
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     40.8900        69,580.00              0.00      2,845,126.20
+CORVIS                                     0.000 CORV    221009103      3.2300       307,584.00      7,391,643.38        993,496.32
+EBENX INC                                  0.000 EBNX    278668108      4.0710       105,103.00      2,207,163.00        427,874.31
+HEWLETT-PACKARD CO                         1.557 HWP     428236103Q    20.5400        29,726.00        535,662.52        610,572.04
+JUNIPER NETWORKS INC                       0.000 JNPR    48203R104     18.9500        17,220.00        415,811.34        326,319.00
+NEW FOCUS INC                              0.000 NUFO    644383101      3.8100        99,000.00      5,352,188.00        377,190.00
+NUANCE COMMUNICATIONS INC                  0.000 NUAN    669967101      9.1000        20,715.00              0.00        188,506.50
+PAIN THERAPEUTICS INC.                     0.000 PTIE    69562K100      9.1600         7,191.00         70,112.25         65,869.56
+RADWARE LTD                                0.000 RDWR    M81873107     12.9900        17,656.00        318,691.00        229,351.44
+SONICWALL INC                              0.000 SNWL    835470105     19.4400        32,019.00        602,350.92        622,449.36
+US INTERNETWORKING INC                     0.000 USIX    917311805      0.2000       186,422.00      3,365,485.40         37,284.40
+VISIBLE GENETICS INC.                      0.000 VGIN    92829S104     11.1500        15,000.00      1,042,753.20        167,250.00
+
+Instrument Total            12                                                       907,216.00     21,301,861.01      6,891,289.13
+
+Portfolio Total             12                                                       907,216.00     21,301,861.01      6,891,289.13
+

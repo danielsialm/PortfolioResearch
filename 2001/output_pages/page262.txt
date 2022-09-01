@@ -1,0 +1,17 @@
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PROVEAFESTATE STREET PROVISI
+Instrument - INTF      INTERNATIONAL FUNDS
+
+STATE ST PROVISIONAL EAFE-EQUITY             0.000     IE-PROVEAF             7,563,534.07      756,353,407.11
+STATE ST PROVISIONAL EAFE-LIQUIDITY RES      0.000     IL-PROVEAF               101,233.40       10,123,340.44
+
+Instrument Total               2                                              7,664,767.47      766,476,747.55
+
+Portfolio Total                2                                              7,664,767.47      766,476,747.55        713,341,075.00

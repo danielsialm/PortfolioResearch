@@ -1,0 +1,50 @@
+ASOF10   Date 01/24/2002 Time 21:29:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ROPER INDUSTRIES INC                         0.666     776696106   ROP             30,900          810,246.24        1,529,550.00
+ROSLYN BANCORP INC                           2.685     778162107   RSLN           128,450        2,046,347.18        2,247,875.01
+ROSS STORES INC                              0.529     778296103   ROST           145,300        3,659,790.96        4,661,224.00
+ROWAN COS.                                   0.000     779382100   RDC            144,868        2,850,035.48        2,806,093.17
+ROXIO INC                                    0.000     780008108   ROXI            15,281          718,154.82          252,913.79
+ROYAL DUTCH PETE                             2.448     780257804 S RD           4,549,085      204,848,379.90      222,996,146.72
+RPM INC. OHIO                                3.457     749685103 Q RPM            179,175        1,032,610.46        2,590,870.50
+RSA SECURITY INC.                            0.000     749719100   RSAS           139,800        3,521,129.19        2,440,908.00
+RTI INTERNATIONAL METALS                     0.000     74973W107   RTI             57,900          878,691.45          576,105.00
+RUBY TUESDAY INC                             0.242     781182100   RI              62,600          431,009.30        1,291,438.00
+RUDDICK CORP.                                2.251     781258108 Q RDK             94,900          681,272.74        1,517,451.00
+RUDOLPH TECHNOLOGIES INC                     0.000     781270103   RTEC            16,300          608,153.00          559,416.00
+RUSS BERRIE & CO INC                         3.200     782233100   RUS             64,000        1,664,358.56        1,920,000.00
+RUSSELL CORP                                 1.066     782352108 Q RML             11,000          191,523.21          165,110.00
+RYANS FAMILY STEAK HOUSES                    0.000     783519101   RYAN            66,000          744,262.64        1,428,900.00
+RYDER SYS. INC.                              2.708     783549108 Q R              140,621        3,001,606.02        3,114,755.15
+RYERSON TULL, INC.                           1.818     78375P107 Q RT              24,773          298,133.99          272,502.99
+RYLAND GROUP INC                             0.218     783764103   RYL             26,473          803,955.01        1,937,823.59
+SABRE HOLDINGS CORP.                         0.000     785905100   TSG            127,099        4,112,476.04        5,382,642.66
+SAFECO CORP.                                 2.375     786429100 Q SAFC           266,942        7,714,101.12        8,315,243.30
+SAFEWAY INC                                  0.000     786514208   SWY          1,077,420       41,796,602.26       44,982,284.98
+SAKS INCORPORATED                            0.000     79377W108   SKS            311,044        9,563,015.99        2,905,150.96
+SALEM COMMUNICATIONS -CL A                   0.000     794093104   SALM             7,200          113,300.64          165,600.00
+SALTON INC                                   0.000     795757103   SFP             24,500          707,567.30          462,560.00
+SANDISK CORP                                 0.000     80004C101   SNDK           148,900        5,026,101.14        2,144,160.00
+SANGSTAT MEDICAL CORP                        0.000     801003104   SANG            28,769          503,195.19          565,023.15
+SANMINA-SCI CORP                             0.000     800907107   SANM         1,349,214       23,807,445.26       26,849,358.58
+SAPIENT CORP                                 0.000     803062108   SAPE           238,121        4,414,093.92        1,838,294.12
+SARA LEE CORP.                               2.699     803111103 Q SLE          1,999,637       35,438,591.72       44,451,930.53
+SBC COMMUNICATIONS INC.                      2.629     78387G103 Q SBC          6,794,617      234,464,940.26      266,145,147.89
+SBS TECHNOLOGIES INC                         0.000     78387P103   SBSE            25,000          462,196.00          364,250.00
+SCANA CORP                                   4.311     80589M102 Q SCG            207,498        5,560,766.21        5,774,669.34
+SCANSOURCE INC                               0.000     806037107   SCSC             4,300          199,987.89          204,680.00
+SCHERING-PLOUGH                              1.787     806605101 Q SGP          2,640,772       61,815,359.17       94,566,045.34
+SCHLUMBERGER                                 1.364     806857108 Q SLB          1,082,713       57,940,719.25       59,495,079.35
+SCHOLASTIC CORP                              0.000     807066105   SCHL            61,500        2,342,520.49        3,095,295.00
+SCHOOL SPECIALTY INC.                        0.000     807863105   SCHS            29,800          697,718.40          681,824.00
+SCHULMAN (A.) INC.                           3.956     808194104 Q SHLM            59,300          802,569.08          809,445.00
+SCHWAB (CHARLES) CORP                        0.258     808513105   SCH          2,527,184       47,888,340.40       39,095,536.47
+SCHWEITZER-MAIDUIT INTL INC                  2.526     808541106   SWM             24,300          429,825.00          577,125.00

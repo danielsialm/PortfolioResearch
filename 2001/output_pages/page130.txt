@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 101
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - GROWT
+Instrument - COM       COMMON STOCK
+
+FAIR ISAAC & COMPANY INC.                  0.126 FIC     303250104     63.0200         9,150.00        419,573.28        576,633.00
+FILENET CORP                               0.000 FILE    316869106     20.2900        21,800.00        373,860.37        442,322.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     29.3900        10,200.00        246,787.91        299,778.00
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     33.9200        10,900.00        346,807.07        369,728.00
+FRED’S INC                                 0.390 FRED    356108100     40.9600        10,000.00        296,326.81        409,600.00
+FREEMARKETS INC                            0.000 FMKT    356602102     23.9700        20,500.00        466,171.92        491,385.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     17.0000        17,800.00        284,930.40        302,600.00
+FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     32.0200        10,520.00        254,702.08        336,850.40
+GENTA INC                                  0.000 GNTA    37245M207     14.2300        16,400.00        256,939.78        233,372.00
+GREY WOLF INC                              0.000 GW      397888108      2.9700        40,700.00        122,509.72        120,879.00
+HARMONIC INC.                              0.000 HLIT    413160102     12.0200        37,600.00        467,710.71        451,952.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     37.0300         8,569.00        298,505.83        317,310.07
+HILB ROGAL & HAMIL.                        1.248 HRH     431294107Q    56.0500         3,600.00        196,140.08        201,780.00
+HNC SOFTWARE                               0.000 HNCS    40425P107     20.6000         9,500.00        249,854.09        195,700.00
+HOLLYWOOD ENTERTAINMENT CORP               0.000 HLYW    436141105     14.2900        14,400.00        207,156.30        205,776.00
+HOT TOPIC INC                              0.000 HOTT    441339108     31.3900        16,932.00        463,470.33        531,495.48
+IMMUNOMEDICS INC                           0.000 IMMU    452907108     20.2600         9,900.00        218,064.56        200,574.00
+INDEPENDENCE COMMUNITY BANK                1.757 ICBC    453414104     22.7600        10,000.00        186,894.36        227,600.00
+INFORMATICA CORP.                          0.000 INFA    45666Q102     14.5100        25,700.00        363,393.76        372,907.00
+INTEGRATED SILICON SOLUTION                0.000 ISSI    45812P107     12.2400        23,600.00        319,687.02        288,864.00
+INTERCEPT GROUP INC                        0.000 ICPT    45845L107     40.9000        12,887.00        411,736.31        527,078.30
+INTERMUNE INC                              0.000 ITMN    45884X103     49.2600        11,579.00        471,110.65        570,381.54
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     32.0600        12,600.00        329,115.25        403,956.00
+INTRADO INC                                0.000 TRDO    46117A100     26.8000        10,400.00        287,152.46        278,720.00
+INVESTORS FINANCIAL SERVICES C             0.120 IFIN    461915100     66.2100           800.00         50,725.33         52,968.00
+ISIS PHARMACEUTICALS INC                   0.000 ISIP    464330109     22.1900        14,100.00        306,329.30        312,879.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106      9.2000        27,400.00        241,295.40        252,080.00
+KOPIN CORP                                 0.000 KOPN    500600101     14.0000        36,500.00        496,462.52        511,000.00
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     44.2000        15,705.00        348,526.98        694,161.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        15,400.00        262,489.72        264,110.00
+LOGICVISION INC                            0.000 LGVN    54140W107     12.7500        10,700.00         98,307.45        136,425.00
+MAGMA DESIGN AUTOMATION                    0.000 LAVA    559181102     30.2800         8,700.00        163,197.44        263,436.00
+MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     29.1500        16,200.00        472,696.84        472,230.00
+MANUGISTICS GROUP INC.                     0.000 MANU    565011103     21.0800        21,500.00        364,685.42        453,220.00
+MAXIMUS INC                                0.000 MMS     577933104     42.0600         6,039.00        245,066.66        254,000.35
+MCAFEE.COM CORPORATION                     0.000 MCAF    579062100     33.9100        16,300.00        267,679.57        552,733.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     39.1100        10,200.00        425,132.30        398,922.00
+MICROMUSE INC.                             0.000 MUSE    595094103     15.0000        33,200.00        394,277.70        498,000.00
+MICROSEMI CORP                             0.000 MSCC    595137100     29.7000        13,100.00        314,287.02        389,070.00

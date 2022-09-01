@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MG4       MID-CAP GROWTH
+Instrument - COM       COMMON STOCK
+
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     26.5300       181,600.00      4,716,446.75      4,817,848.00
+ADAPTEC INC                                0.000 ADPT    00651F108     14.5000        49,400.00        696,922.35        716,300.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     49.9500        54,200.00      3,422,113.50      2,707,290.00
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100    106.1300       121,000.00      7,871,737.82     12,841,730.00
+AMERICAN EAGLE OUTFITTERS                  0.000 AEOS    02553E106     26.1700       146,100.00      4,173,313.24      3,823,437.00
+AMERICAN STANDARD COMPANIES                0.000 ASD     029712106     68.2300       131,000.00      6,164,697.69      8,938,130.00
+AMETEK INC.                                0.752 AME     031100100Q    31.8900        47,700.00        885,153.91      1,521,153.00
+APOGENT TECHNOLOGY                         0.000 AOT     03760A101     25.8000       192,900.00      3,891,083.97      4,976,820.00
+APOLLO GROUP INC                           0.000 APOL    037604105     45.0100       200,600.00      4,879,118.90      9,029,006.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     24.9900        99,500.00      2,220,447.15      2,486,505.00
+ATI TECHNOLOGIES INC                       0.000 ATYT    001941103     12.7000        60,400.00        576,182.36        767,080.03
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     12.8900        82,100.00      1,060,849.42      1,058,269.00
+BARR LABORATORIES INC.                     0.000 BRL     068306109     79.3600        87,200.00      5,669,171.79      6,920,192.00
+BECKMAN COULTER INC.                       0.767 BEC     075811109     44.3000       102,700.00      3,164,152.16      4,549,610.00
+BISYS GROUP INC.                           0.000 BSYS    055472104     63.9900       101,300.00      3,136,807.44      6,482,187.00
+BJ SERVICES CO                             0.000 BJS     055482103     32.4500       323,700.00      7,477,745.44     10,504,065.00
+BJ’S WHOLESALE CLUB INC.                   0.000 BJ      05548J106     44.1000       141,700.00      4,776,616.84      6,248,970.00
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     29.7600       192,100.00      4,460,453.25      5,716,896.00
+C.H.ROBINSON WORLDWIDE INC                 0.691 CHRW    12541W100     28.9150       154,300.00      4,135,568.41      4,461,584.51
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     79.2500        53,900.00      3,419,464.63      4,271,575.00
+CADENCE DESIGN SYS INC                     0.000 CDN     127387108     21.9200       446,300.00      8,850,978.42      9,782,896.01
+CATALINA MARKETING CORP                    0.000 POS     148867104     34.7000        89,400.00      2,490,338.18      3,102,180.00
+CDW COMPUTER CENTERS                       0.000 CDWC    125129106     53.7100       175,100.00      6,541,897.72      9,404,621.00
+CERTEGY INC                                0.000 CEY     156880106     34.2200       114,100.00      3,284,565.48      3,904,502.00
+CHOICEPOINT INC.                           0.000 CPS     170388102     50.6900       114,800.00      4,188,546.34      5,819,212.01
+CHURCH & DWIGHT INC                        1.126 CHD     171340102Q    26.6300        48,100.00      1,256,309.81      1,280,903.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100     13.2200       204,400.00      3,714,257.90      2,702,167.99
+COACH INC                                  0.000 COH     189754104     38.9800        69,300.00      2,578,384.40      2,701,314.00
+COMPUTER NETWORK TECH CORP                 0.000 CMNT    204925101     17.7900        41,400.00        770,304.09        736,506.00
+COR THERAPEUTICS INC                       0.000 CORR    217753102     23.9300       101,600.00      2,326,567.57      2,431,288.02
+COVANCE INC                                0.000 CVD     222816100     22.7000       108,500.00      1,575,885.37      2,462,950.00
+CREDENCE SYSTEMS CORP                      0.000 CMOS    225302108     18.5700        19,200.00        331,996.89        356,544.00
+CREE INC                                   0.000 CREE    225447101     29.4600       158,800.00      4,713,184.00      4,678,248.00
+CSG SYSTEMS INTL. INC.                     0.000 CSGS    126349109     40.4500        96,800.00      5,806,322.75      3,915,560.00
+CUMMINS INC.                               3.113 CUM     231021106Q    38.5400        20,000.00        774,113.75        770,800.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     19.9300       219,600.00      6,622,072.19      4,376,628.00
+CYTYC CORPORATION                          0.000 CYTC    232946103     26.1000       211,800.00      5,770,027.28      5,527,980.01
+DENTSPLY INTERNATIONAL INC.                0.557 XRAY    249030107Q    50.2000       102,400.00      3,723,127.68      5,140,480.00
+DEVRY INC.                                 0.000 DV      251893103     28.4500        87,700.00      1,582,922.06      2,495,065.00

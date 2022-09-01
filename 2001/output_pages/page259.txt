@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+PT KALBE FARMA IDR                           0.000     6173229      KLBF_     2,436,500.00          120,127.67
+PT MAKINDO TBK                               0.000     6095215      MKDO_       241,500.00           91,552.94
+PT MATAHARI PUTRA PRIMA                      0.000     6291701      MPPA_       613,500.00          111,005.26
+PT RAMAYANA LESTARI SENTOSA                  0.000     6328502      RALS_       357,500.00           15,512.42
+PT TELEKOMUNIKASI                            0.000     6291745      TLKM_     2,577,000.00        1,590,179.60
+PTT EXPLORATION & PROD-FOR                   0.060     6290333      PTTEP       152,600.00          458,410.74
+PUBLIC BANK BHD                              0.000     6707093      PBKF_     1,933,025.00        1,326,303.01
+QUIMICA Y MINERA A                           2.144     2771122      SQM          27,675.00          545,427.32
+RANBAXY LABORATORIES LTD                     0.022     6101071      RBXY_        19,426.00          261,170.88
+RELIANCE INDS-SPONS GDR 144A                 1.343     2730598      RIGD_        41,689.00          718,723.78
+RELIANCE INDUSTRIES                          0.000     6099626      RIL_I        37,631.00          201,847.56
+RITEK CORPORATION                            0.000     6740753      2349_     1,338,400.00        2,194,877.28
+SAMSUNG DISP DEVCS                           0.000     6771645      0640_        24,623.00        1,189,003.49
+SAMSUNG ELEC MECH                            0.000     6771689      0915_        57,366.00        2,183,345.05
+SAMSUNG ELECTRONIC                           0.000     6771720      0593_        56,852.00        9,022,614.37
+SAMSUNG FIRE + MAR                           0.000     6155250      0081_        56,308.00        1,748,606.96
+SAMSUNG HEAVY INDUSTRIES                     0.000     6772217      1014_       411,154.00        1,254,385.69
+SAMSUNG SECS CO KS                           0.000     6408448      1636_        74,870.00        2,224,165.07
+SASOL NPV                                    0.254     6777450      SOL_S       107,859.00          914,348.14
+SATYAM COMPUTER SERVICES                     0.000     6241858      SCS_I       123,240.00          306,671.92
+SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       151,500.00          168,584.26
+SHANDONG INTL POWER                          0.614     6142780      1071_     4,070,000.00          884,328.45
+SHINHAN FINANCIAL GROUP LTD                  0.000     6397502      5555_       155,109.00        1,474,387.82
+SIAM CEMENT CO THB                           0.000     6806796      SCC/F        15,300.00          300,186.96
+SIAM CITY CEMENT T                           0.046     6806387      SCCC/        58,500.00          198,628.34
+SIAM COMMERCIAL BK                           0.000     6889935      SCB/F     1,007,700.00          915,760.88
+SIAM MAKRO PUBLIC CO-FOREIGN                 0.104     6798796      MAKRO        24,600.00           30,081.79
+SIDERCA SA CLASS’A                           2.173     2252304      ERCA_        85,696.00          162,560.98
+SIME DARBY BERHAD                            0.070     6808769      SDY_M       976,068.00        1,082,945.74
+SK TELECOM CO LTD                            0.000     6224871      1767_        24,251.00        4,031,806.24
+SK TELECOM CO LTD-ADR                        0.138     2495648      SKM          58,290.00        1,130,243.10
+SOUTH AFRICAN BREWERIES                      0.000     6145240      SAB_S       203,009.00        2,252,727.09
+SOUTHERN PERU COPPER CORP                    2.426     2823777      PCU          20,174.00          191,112.35
+STANDARD BANK                                0.244     6108005      SBC_S       980,277.00        3,232,315.02
+STATE BK OF INDIA                            2.375     5131091      SBID_        24,000.00          175,200.00
+SUEZ CEMENT                                  0.000     6868622      SZCT_        13,744.00          121,837.23
+SUPER-SOL ORD ILS                            0.032     6860543      SAE_I        60,053.00          189,646.34
+SURGUTNEFTEGAZ ADR                           0.319     2810144      SGGD_       125,894.00        1,466,252.10
+SURGUTNEFTEGAZ-$US                          12.787     4851732      SNGS$       379,745.00          101,581.79

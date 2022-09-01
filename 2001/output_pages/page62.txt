@@ -1,0 +1,50 @@
+ASOF02   Date 01/24/2002 Time 21:29:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+ENERGY EAST CORP.                          4.844 EAS     29266M109     18.9900       209,000.00      4,969,414.64      3,968,910.00
+ENSCO INTL INC                             0.402 ESV     26874Q100     24.8500       286,000.00      8,071,582.53      7,107,100.00
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      8.8500       399,000.00      5,044,927.25      3,531,150.01
+EVEREST RE GROUP LTD.                      0.396 RE      G3223R108     70.7000        87,000.00      3,055,398.72      6,150,900.00
+EXTENDED STAY AMERICA INC                  0.000 ESA     30224P101     16.4000       174,000.00      2,935,302.90      2,853,600.00
+FEDERAL SIGNAL CORP                        3.502 FSS     313855108     22.2700        19,000.00        347,148.96        423,129.99
+FIDELITY NATIONAL FINL INC                 1.612 FNF     316326107     24.8000       160,000.00      3,594,874.16      3,968,000.00
+FIRST VIRGINIA BANKS INC                   3.073 FVB     337477103     50.7600        83,700.00      3,728,997.17      4,248,612.00
+FIRSTMERIT CORPORATION                     3.543 FMER    337915102     27.0900       164,000.00      2,879,215.43      4,442,760.00
+FMC CORP.                                  0.000 FMC     302491303     30.7100        46,570.00      1,547,418.15      1,430,164.69
+FOREST OIL CORP.                           0.000 FST     346091705     28.2100        95,000.00      2,512,231.50      2,679,950.00
+FULLER H B CO                              1.494 FULL    359694106Q    28.7700        46,000.00        902,730.36      1,323,420.00
+FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     32.0200       114,000.00      1,919,338.05      3,650,280.00
+GATX CORP                                  3.813 GMT     361448103     32.5200       104,000.00      4,211,179.43      3,382,080.00
+GENAISSANCE PHARMACEUTICALS                0.000 GNSC    36867W105      4.6500        25,000.00        113,416.67        116,250.00
+GLATFELTER                                 4.492 GLT     377316104     15.5800        59,000.00        793,459.40        919,220.00
+GOLDEN STATE BANCORP                       1.529 GSB     381197102     26.1500       251,000.00      7,432,430.77      6,563,650.00
+GRANITE CONSTRUCTION INC                   1.328 GVA     387328107     24.0800        60,000.00      1,370,223.69      1,444,800.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     11.5000       249,000.00      2,672,342.87      2,863,500.01
+GREAT PLAINS ENERGY INC                    6.587 GXP     391164100     25.2000       118,000.00      3,102,790.11      2,973,600.00
+GREATER BAY BANCORP                        1.609 GBBK    391648102     28.5800        16,000.00        424,732.47        457,280.01
+GREENPOINT FINANCIAL                       2.797 GPT     395384100     35.7500       196,000.00      6,395,939.29      7,007,000.00
+GULFMARK OFFSHORE INC                      0.000 GMRK    402629109     28.3100        15,000.00        431,973.00        424,650.00
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105     25.2600       134,000.00      4,178,479.92      3,384,840.00
+HARRIS CORP.                               0.655 HRS     413875105Q    30.5100       125,000.00      3,835,596.15      3,813,750.00
+HARSCO CORP                                2.915 HSC     415864107Q    34.3000        74,000.00      1,650,005.78      2,538,200.00
+HAWAIIAN ELECTRIC INDS                     6.156 HE      419870100     40.2800        52,000.00      1,879,912.06      2,094,560.00
+HCC INSURANCE HOLDINGS INC.                0.907 HCC     404132102     27.5500       109,000.00      2,658,184.04      3,002,950.00
+HEALTH NET                                 0.000 HNT     42222G108     21.7800       235,000.00      4,939,913.35      5,118,300.00
+HELMERICH & PAYNE, INC                     0.898 HP      423452101Q    33.3800        96,000.00      2,968,947.22      3,204,480.00
+HIBERNIA CORP CL-A                         3.147 HIB     428656102     17.7900       307,000.00      3,744,998.05      5,461,530.00
+HISPANIC BROADCASTING A                    0.000 HSP     43357B104     25.5000       215,000.00      6,569,763.90      5,482,500.00
+HORACE MANN EDUCATORS                      1.979 HMN     440327104Q    21.2200        83,000.00      1,119,043.73      1,761,260.00
+HUBBELL INC                                4.492 HUB.B   443510201Q    29.3800        94,000.00      2,537,341.99      2,761,720.00
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     23.2000        64,000.00      1,208,605.06      1,484,800.00
+IDACORP, INC.                              4.581 IDA     451107106     40.6000        71,000.00      3,335,965.08      2,882,600.00
+IMATION CORP                               0.000 IMN     45245A107     21.5800        73,000.00      1,606,511.99      1,575,340.00
+IMC GLOBAL INC.                            0.615 IGL     449669100Q    13.0000       234,000.00      4,526,936.37      3,042,000.00
+INCYTE GENOMICS, INC.                      0.000 INCY    45337C102     19.4400       135,000.00      2,526,403.09      2,624,400.01

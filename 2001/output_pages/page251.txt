@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - COM       COMMON STOCK
+
+BHP LTD                                      2.427     2144337   S  BHP         206,510.00        2,326,049.35
+WMC LIMITED-SPONSORED ADR                    3.794     2954912      WMC          65,000.00          837,223.97
+
+Instrument Total               2                                                271,510.00        3,163,273.32
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+77TH BANK Y50                                0.000     6804165      8341_     1,470,000.00        8,338,010.07
+ABN AMRO HLDGS NV                            2.175     5250769      AABA_       680,000.00       13,200,270.99
+AIOI INSURANCE CO LTD                        0.000     6251169      8761_     1,454,100.00        4,910,612.64
+ALLIANCE & LEICESTER                        18.606     0038614      AL/_L       342,700.00        3,663,750.24
+AMADA CO Y50                                 0.000     6022105      6113_     1,050,000.00        5,688,379.08
+ASTRAZENECA GBP 0.                          20.819     0989529      AZN_L       240,000.00        9,842,436.66
+BAA ORD GBP1                                43.467     0067340      BAA_L       949,981.00        8,556,240.96
+BANYU PHARMACEUTICAL CO LTD                  0.000     6077309      4515_       328,000.00        6,236,334.23
+BASF AG DEM ORD SH                           1.459     5086577      BAS_G       201,000.00        8,445,397.49
+BCO SANTANDER CENTAL HISP                    1.605     5705946      SAN_S     1,020,000.00        8,622,398.39
+BEKAERT SA NPV                               1.551     5827431      BEKB_       108,090.00        4,246,531.06
+BHP LIMITED                                  0.314     6144690      BHP_A       714,588.00        4,844,653.36
+BILLITON PLC                                13.132     0056650      BLT_L       883,000.00        4,687,280.87
+BPB ORD 50P                                119.500     0068707      BPB_L     1,668,800.00        5,772,806.15
+BRIT AMER TOBACCO                            7.433     0287580      BATS_       167,001.00        1,110,666.28
+BRITISH AEROSPACE                           38.899     0263494      BA/_L     2,450,000.00       12,084,601.23
+C&S CO., LTD                                 0.000     6200729      7437_       142,920.00        3,802,121.44
+CABLE + WIRELESS O                          36.383     0162557      CW/_L     1,400,000.00        6,691,031.17
+CANON INC JPY50                              0.003     6172323      7751_        24,000.00          642,925.93
+CHEUNG KONG(HLDGS)                           0.000     6190273      1_HK        785,000.00        8,101,093.99
+CHUBU ELECTRIC POWER CO INC                  0.000     6195609      9502_       222,600.00        3,848,474.19
+CHUGAI PHARMACEUTI                           0.000     6196408      4519_       825,000.00       12,013,762.38
+CIE DE ST. GOBAIN                            1.191     4768371      SGO_F        53,300.00        8,001,864.98
+CORUS GROUP                                  8.912     0828053      CS/_L     5,500,000.00        5,127,950.16
+DAI NIPPON PRINTNG                           0.000     6250906      7912_       340,000.00        4,598,616.18
+DAIMLERCHRYSLER AG                           2.603     5529027      DCX_G       186,679.00       10,300,289.30
+DDI CORPORATION                              0.000     6248990      9433_         1,792.00        7,649,932.96
+DSM NV                                       2.682     5773987      DSMA_        82,900.00        2,976,060.12
+E.ON AG                                      1.584     4942904      EOA_G       141,000.00        7,182,238.93
+ENEL SPA                                     1.929     7144569      ENEL_     1,112,000.00        7,553,267.02
+ENI SPA                                      2.044     7145056      ENI_I     1,050,024.00       12,325,378.41
+ERICSSON LM-B                                0.000     5959378      ERICB     1,949,975.00       13,772,153.56

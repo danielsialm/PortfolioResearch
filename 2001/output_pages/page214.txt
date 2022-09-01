@@ -1,0 +1,27 @@
+ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - R         RETAIL
+
+WAL-MART #56                   NEDERLAND                      10.000         RWAL56                  3,367,000.00      3,300,000.00
+WAL-MART #65                   LEITCHFIELD                    10.000         RWAL65                  1,132,000.00      1,700,000.00
+WAL-MART #66                   ALVIN                          10.000         RWAL66                  1,710,000.00      1,400,000.00
+WAL-MART #67                   ROCKPORT                       10.000         RWAL67                  1,522,000.00      2,000,000.00
+
+Instrument Total            76                                                                     226,651,705.51    240,010,950.19
+
+Instrument -X      OTHER
+
+CROWN POINTE LAND              ATLANTA GA                      9.000         RCPTE4                    547,718.15      2,250,000.00
+GALLERIA LAND                  ATLANTA GA                     11.000         RGALD1                  1,843,199.00      5,339,999.99
+
+Instrument Total             2                                                                       2,390,917.15      7,589,999.99
+
+Portfolio Total            108                                                                     822,662,578.11    881,794,780.81
+

@@ -165,6 +165,7 @@ accountID : (accountName, groupName, cleanedText)
 def split_account(pages, accOffsets):
   accounts = {}
   for page in pages:
+    page = page[1]
     try:
       portIDX = page.index('Portfolio:')
     except:
@@ -229,7 +230,7 @@ stored: map typeID to list of tuples (column to add data, indices (empty list me
 
 def parse_supp_file(FILE_LOC, account_lengths):
   if not (os.path.isfile(FILE_LOC) and os.path.getsize(FILE_LOC) > 0):
-    return [], [], (-2,-1,0), {}
+    return "", [], [], (-2,-1,0), {}
 
   supp_file = open(FILE_LOC, 'r')
   # get date
@@ -312,9 +313,9 @@ def output_pages(pages):
   DST_DIR = os.path.join(SRC_DIR, "output_pages")
   make_dir(DST_DIR)
   for x in pages:
-    pageNum = x[0].split(' ')[1]
+    pageNum = str(x[0])
     out = open(os.path.join(DST_DIR, "page" + pageNum + ".txt"), 'w')
-    out.write('\n'.join(x))
+    out.write('\n'.join(x[1]))
     out.close()
 
 def output_account(accounts):
@@ -332,12 +333,14 @@ UNSPEC_IDX = []
 # get command line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("source")
-parser.add_argument('-q', '--quitaccount', default=False, action=argparse.BooleanOptionalAction)
+parser.add_argument('-q1', '--quitpages', default=False, action=argparse.BooleanOptionalAction)
+parser.add_argument('-q2', '--quitaccount', default=False, action=argparse.BooleanOptionalAction)
 args = parser.parse_args()
 
 SRC_DIR = os.path.join(os.getcwd(), args.source)
 
 # load in information from text files
+
 INDICES = parse_indices_file(os.path.join(SRC_DIR, "indices.txt"))
 account_lengths = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
 date, excludePages, missingTypeID, accOffsets, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
@@ -348,10 +351,14 @@ with fitz.open(os.path.join(SRC_DIR, "MonthlyMarket.pdf")) as doc:
   pageNum = 1
   for page in doc:
     if pageNum not in excludePages:
-      pages.append([x.strip() for x in page.get_text().split('\n')])
+      pages.append((pageNum, [x.strip() for x in page.get_text().split('\n')]))
     pageNum += 1
 # display the pages
+print(len(pages))
 output_pages(pages)
+
+if args.quitpages:
+  exit()
 
 # split pdf into different accounts
 accounts = split_account(pages, accOffsets)

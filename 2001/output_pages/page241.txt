@@ -1,0 +1,17 @@
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-MARVEM  MARVIN & PALMER EMER
+Instrument - INTF      INTERNATIONAL FUNDS
+
+MARVIN EMERGING - EQUITIES                   0.000     IE-MARVEM    IE-MA     2,257,854.15      225,785,415.96
+MARVIN EMERGING - LQR                        0.000     IL-MARVEM    IL-MA       109,767.20       10,976,720.21
+
+Instrument Total               2                                              2,367,621.36      236,762,136.17
+
+Portfolio Total                2                                              2,367,621.36      236,762,136.17        264,379,927.53

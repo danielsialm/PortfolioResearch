@@ -1,0 +1,50 @@
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SUMITOMO BANK JPY5                           0.000     6858526      8318_       218,600.00        1,445,604.18
+SUN HUNG KAI PROPE                           0.000     6859927      16_HK       145,400.00        1,212,653.08
+SWATCH GROUP SZF50                           0.996     7184736      UHRN_        11,619.00                0.00
+SWIRE PACIFIC ’A’H                           0.338     6867748      19_HK        80,800.00          479,854.64
+SWISS REINSURANCE                            0.003     7189816      RUKN_         4,381.00          430,691.01
+SWISSCOM AG CHF25(                           0.849     5533976      SCMN_           402.00          114,153.15
+SYNGENTA CHF                                 0.000     4356646      SYNN_         1,246.00           57,226.16
+TAKEDA CHEM INDS J                           0.000     6870445      4502_        52,747.00        2,223,361.54
+TAKEFUJI CORP                                0.000     6876067      8564_         7,500.00          589,359.79
+TANDBERG ASA                                 0.000     4719261      TAA_N        37,800.00          732,006.63
+TDK CORP JPY50 (6762)                        0.000     6869302      6762_         8,700.00          435,048.89
+TELECOM CORP OF NEW ZEALAND                  0.000     6881436      TEL_N     3,251,000.00        6,928,976.41
+TELEFONICA SA                                0.000     5732524      TEF_S       620,471.00        8,010,971.27
+TELEKOM AUSTRIA                              0.000     4635088      TKA_A        69,300.00          562,291.88
+TELENOR ASA                                  0.001     4732495      TEL_N       305,600.00        1,229,569.29
+TELSTRA CORP NPV                             1.778     6087289      TLS_A       446,174.00        1,137,255.04
+TERRA NETWORKS                               0.000     5813720      TRR_S        19,900.00          176,403.78
+TESCO PLC                                    8.852     0884709      TSCO_       481,721.00        1,437,936.20
+THYSSENKRUPP AG                              4.019     5636927      TKA_G         8,200.00          128,896.45
+TIETOENATOR CORP OYJ                         1.128     5479702      TIE1V         6,800.00          188,028.29
+TITAN CEMENT CO GR                           1.544     4888280      TITK_         4,800.00          169,220.43
+TNT POST GROEP NV                            1.043     5481558      TPG_N         2,186.00           43,479.71
+TOKYO ELEC POWER Y                           0.000     6895404      9501_       108,600.00        2,482,742.15
+TOMRA SYSTEMS ASA                            0.000     4730875      TOM_N       109,300.00        1,208,193.62
+TOSHIBA CORP                                 0.016     6897217      6502_       239,000.00        1,024,309.63
+TOTAL FINA ELF SA                            0.584     4905413      FP_FP        23,822.00        2,457,637.38
+TOWER LIMITED                                0.973     6174299      TWR_N       399,700.00          898,342.38
+TOYOTA MOTOR CORP                            0.000     6900643      7203_       190,676.00        5,455,283.05
+UBS AG-REG                                   0.003     7126114      UBSN_        18,516.00          846,617.48
+UCB ORD BEF                                  0.820     5596991      UCB_B        27,000.00        1,048,141.69
+UFJ HOLDINGS INC                             0.000     6335223      8307_           254.00        1,738,228.08
+UNILEVER NV CERT.                            1.711     5640898      UN_NA         3,185.00          187,500.43
+UNILEVER ORD 1.4P                            4.869     0574873      ULVR_       233,502.00        1,857,258.23
+UNION ELECRTRICA FENOSA SA                   1.395     4913223      UNF_S        40,651.00          615,690.14
+UNION TOOL CO                                0.004     6914053      6278_         8,100.00          248,352.88
+UPM-KYMMENE CORP F                           1.143     5051252      UPM1V        29,200.00        1,010,027.28
+VA TECHNOLOGIE AG                            2.937     4921635      VATC_        14,600.00          290,473.77
+VALMET-RAUMA FIM10                           4.483     5713422      MEO1V        15,100.00          148,618.17
+VIVENDI UNIVERSAL EUR                        0.982     4834777      EX_FP        27,289.00        1,207,298.66

@@ -1,0 +1,18 @@
+ASOF01   Date 01/24/2002 Time 21:29:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 021
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - PIMCO     PACIFIC INVESTMENT C
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+PIMCO - FIXED INCOME               0.0000  0.000 IF-PIMCO           00/00/0000     2,543,234.34    254,323,434.64
+PIMCO - LIQUIDITY                  0.0000  0.000 IL-PIMCO           00/00/0000       217,537.58     21,753,758.78
+
+Instrument Total             2                                                     2,760,771.93    276,077,193.42
+
+Portfolio Total              2                                                     2,760,771.93    276,077,193.42    275,020,023.84
+

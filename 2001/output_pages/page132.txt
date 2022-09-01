@@ -1,0 +1,29 @@
+ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 103
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - GROWT
+Instrument - COM       COMMON STOCK
+
+THQ INC                                    0.000 THQI    872443403     48.4700         6,900.00        319,498.38        334,443.00
+TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     42.8000        18,623.00        565,848.79        797,064.40
+TWEETER HOME ENTERTAINMENT GRO             0.000 TWTR    901167106     29.0000        12,298.00        317,415.72        356,642.01
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105     16.5200        13,700.00        287,246.97        226,324.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     71.2600         9,095.00        527,262.27        648,109.70
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     34.5900         8,400.00        228,161.88        290,556.00
+VERITY INC.                                0.000 VRTY    92343C106     20.2500        24,100.00        375,947.41        488,025.00
+VISIONICS CORPORATION                      0.000 VSNX    92831E101     14.4300        16,300.00        230,205.63        235,209.00
+WASTE CONNECTIONS INC                      0.000 WCNX    941053100     30.9900         9,283.00        273,990.10        287,680.17
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     24.8500        12,800.00        300,584.10        318,080.00
+WEBSENSE INC                               0.000 WBSN    947684106     32.0700        16,300.00        276,474.98        522,741.00
+YELLOW CORP                                0.000 YELL    985509108     25.1000        11,259.00        267,638.74        282,600.90
+ZORAN CORP                                 0.000 ZRAN    98975F101     32.6400        13,500.00        409,599.06        440,640.00
+
+Instrument Total           130                                                     2,302,413.47     44,572,626.24     52,559,659.73
+
+Portfolio Total            130                                                     2,302,413.47     44,572,626.24     52,559,659.73
+
