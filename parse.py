@@ -214,9 +214,10 @@ def parse_indices_file(FILE_LOC):
 
 '''
 Supplement file format:
-first line - pages to exclude
-second line - portfolios with missing instrument info
-third line - account offsets accountName, accID, start
+first line - date
+second line - pages to exclude
+third line - portfolios with missing instrument info
+fourth line - account offsets accountName, accID, start
 subsequent lines - data to add
 ACCID;TYPE; which col to add data under;(optional: list specific indices 
 - positive indices need info negative indices have info despite the column missing info)
@@ -231,6 +232,9 @@ def parse_supp_file(FILE_LOC, account_lengths):
     return [], [], (-2,-1,0), {}
 
   supp_file = open(FILE_LOC, 'r')
+  # get date
+  date = supp_file.readline().strip()
+
   # parse excluded pages
   excludePages = []
   for x in supp_file.readline().strip().split(';'):
@@ -276,7 +280,7 @@ def parse_supp_file(FILE_LOC, account_lengths):
       for this_typeid in supp_data[this_accid]:
         if this_typeid in INDICES:
           supp_data[this_accid][this_typeid].sort(key=lambda x:INDICES[infoLen][x[0]])
-  return excludePages, missingTypeID, accOffsets, supp_data
+  return date, excludePages, missingTypeID, accOffsets, supp_data
 
 
 
@@ -336,7 +340,7 @@ SRC_DIR = os.path.join(os.getcwd(), args.source)
 # load in information from text files
 INDICES = parse_indices_file(os.path.join(SRC_DIR, "indices.txt"))
 account_lengths = parse_length_file(os.path.join(SRC_DIR, "lengths.txt"))
-excludePages, missingTypeID, accOffsets, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
+date, excludePages, missingTypeID, accOffsets, supp_data = parse_supp_file(os.path.join(SRC_DIR, "supplements.txt"), account_lengths)
 
 # read the pdf
 with fitz.open(os.path.join(SRC_DIR, "MonthlyMarket.pdf")) as doc:
@@ -346,7 +350,6 @@ with fitz.open(os.path.join(SRC_DIR, "MonthlyMarket.pdf")) as doc:
     if pageNum not in excludePages:
       pages.append([x.strip() for x in page.get_text().split('\n')])
     pageNum += 1
-date = pages[0][5][6:]
 # display the pages
 output_pages(pages)
 

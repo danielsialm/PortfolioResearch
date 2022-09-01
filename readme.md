@@ -32,8 +32,6 @@ Note: Real Estate names cut off (e.g. 2007 312)
 2014 - only has summary
 double check aggregates
 
-2013 - 2017 date is in different place
-
 ## Reference
 
 ### indices.txt
