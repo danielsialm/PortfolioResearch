@@ -1,0 +1,22 @@
+ASOF03   Date 01/20/2004 Time 18:59:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 012
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REU       RE OPPORTUNITY FUND
+Instrument - U         OPPORTUNITY FUNDS
+
+AEW PARTNERS II                Misc US                         0.000         RAEWII                 20,125,267.21     24,788,766.00
+DLJ R.E. CAPITAL PARTNERS      Misc US                         0.000         RDLJRE                  8,829,858.69      9,013,601.99
+WESTBROOK FUND I               MISC US                        11.000         RTGRRE                  1,354,075.94      8,516,785.98
+WESTBROOK FUND II              MISC US                         0.000         RWSTBK                  3,092,058.62      2,836,726.98
+WESTBROOK FUND III             MISC US                         0.000         RWSTB3                 46,503,419.49     46,812,263.02
+WESTBROOK FUND IV              MISC US                         0.000         RWSTB4                 64,059,684.08     64,754,127.99
+
+Instrument Total             6                                                                     143,964,364.03    156,722,271.96
+
+Portfolio Total              6                                                                     143,964,364.03    156,722,271.96
+

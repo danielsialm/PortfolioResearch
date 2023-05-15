@@ -1,0 +1,50 @@
+ASOF03   Date 01/21/2003 Time 18:53:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - O         OFFICE
+
+JPM III                        DALLAS,TX                       0.000         RCHAS3                 44,291,788.76     44,291,788.82
+ROSEMEADE                      DALLAS, TX                      0.000         RROSMD                 23,585,255.00     20,800,000.00
+SOUTHPARK ONE                  AUSTIN                         11.500         RSPK01                 10,408,643.00     17,400,000.00
+
+Instrument Total            12                                                                     362,804,263.86    365,091,859.18
+
+Instrument -R      RETAIL
+
+BRADLEES #02                   GREENBELT MD                    9.750         RMEM04                  4,900,000.00      5,200,000.00
+BRADLEES #03                   COLUMBIA MD                     8.875         RMEM05                  4,300,000.00      4,000,000.00
+BRADLEES #04                   BURKE MD                       11.250         RMEM06                  5,512,600.00      5,600,000.00
+CREEKSIDE                      FT. WORTH, TX                   0.000         RCRKSD                  2,671,263.60      2,290,000.00
+EAGLE #10                      URBANA, IL                      9.000         REAG10                  1,202,351.04        500,000.00
+GEMCO #05                      YUBA CITY                       8.875         RGEM05                  4,000,000.00      4,400,000.00
+GEMCO #08                      SANTA MARIA                     8.875         RGEM08                  4,400,000.00      5,000,000.00
+GEMCO #11                      BAKERSFIELD                     9.320         RGEM11                  4,900,000.00      5,400,000.00
+GEMCO #12                      CATHEDRAL CITY                  9.382         RGEM12                  5,500,000.00      5,800,000.00
+GEMCO #13                      VALLEJO                         8.875         RGEM13                  3,200,000.00      5,000,000.00
+K MART #08 PM1                 KIMBERLY WI                    11.580         RKM081                  2,211,426.32        600,000.00
+K MART #34 PM1                 MILLIARD NE                    11.650         RKM341                  2,200,002.01      2,257,862.45
+K MART #41                     INDIANAPOLIS                    9.700         RKM041                  2,964,122.00      3,300,000.00
+K MART #44                     S PASADENA                      9.550         RKM044                  3,000,000.00      3,100,000.00
+K MART #47 PM1                 ROCHESTER                      11.530         RKM471                  2,913,271.60      2,836,844.77
+K MART #50                     SPRINGFIELD                     9.550         RKM050                  3,468,664.00      3,700,000.00
+KROGER #02                     COVINGTON                      10.000         RKR002                  2,252,581.00      2,100,000.00
+KROGER #03                     LOUISVILLE                     10.000         RKR003                  1,959,115.00      1,900,000.00
+KROGER #04                     CARTERSVILLE GA                10.000         RKR004                  2,254,876.00      2,400,000.00
+KROGER #09                     FAYETTEVILLE NC                10.000         RKR009                  1,351,062.00      1,700,000.00
+KROGER #11                     DALTON GA                      10.250         RKR011                  2,390,956.10      2,000,000.00
+KROGER #13                     DUNCANVILLE TX                 10.250         RKR013                  2,545,346.34      1,900,000.00
+KROGER #15                     ARLINGTON TX                   10.250         RKR015                  4,723,707.32      4,600,000.00
+KROGER #16                     LANETT AL                      10.250         RKR016                  2,360,976.00      1,700,000.00
+KROGER #17                     W COLUMBIA SC                  10.250         RKR017                  2,527,800.50      1,800,000.00
+KROGER #19                     COLLIERVILLE TN                10.250         RKR019                  4,532,260.79      4,900,000.00
+KROGER #21                     SPARTA IL                      10.250         RKR021                  1,500,000.00      1,500,000.00
+KROGER #22                     WINCHESTER KY                  10.000         RKR022                  1,839,030.00      1,500,000.00
+KROGER #25                     PADUCAH KY                     10.250         RKR025                  2,305,000.00      2,200,000.00
+LAKELAND PLAZA                 CUMMINS, GA                     9.500         RLAKPL                 21,691,549.74     24,600,000.00
+LONGS DRUGS #02                GRASS VALLEY CA                 8.750         RLD002                  1,100,000.00      2,100,000.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 097
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+OMNOVA SOLUTIONS INC                       0.000 OMN     682129101      4.8000           499.99          2,113.03          2,400.01
+ON SEMICONDUCTOR COR                       0.000 ONNN    682189105      6.4500        12,100.00         64,324.20         78,045.01
+ONEIDA FINANCIAL CORP                      2.532 ONFC    682478102     22.1110         2,000.00         43,360.50         44,222.00
+ONEIDA LTD                                 0.000 OCQ     682505102      5.8900        46,200.00        272,758.32        272,118.00
+ONYX PHARMACEUTICALS                       0.000 ONXX    683399109     28.2300        40,900.00        698,757.35      1,154,607.00
+OPENWAVE SYS INC                           0.000 OPWV    683718308     11.0000        59,333.00        470,558.06        652,663.00
+OPLINK COMMUNICATION                       0.000 OPLK    68375Q106      2.3900       123,000.00        210,485.65        293,970.00
+OPNET TECHNOLOGIES INC.                    0.000 OPNT    683757108     16.4600        13,200.00        155,991.81        217,272.00
+OPSWARE INC                                0.000 OPSW    68383A101      7.4000        57,800.00        324,051.55        427,720.00
+OPTICAL COMMUNICATIO                       0.000 OCPI    68382T101      3.7000        19,100.00         37,188.85         70,670.00
+OPTION CARE INC                            0.000 OPTN    683948103     10.6800        30,700.00        314,754.80        327,876.00
+ORASURE TECHNOLOGIES                       0.000 OSUR    68554V108      7.9600        46,700.00        379,834.21        371,732.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106     12.0200        55,700.00        443,268.63        669,514.00
+ORIENTAL FINL GROUP                        2.179 OFG     68618W100     25.7000        23,430.00        556,536.18        602,151.00
+ORLEANS HOMEBUILDERS INC                   0.000 OHB     686588104     28.3300         2,000.00         53,526.99         56,660.00
+ORTHODONTIC CENTERS OF AMER                0.000 OCA     68750P103      8.0500        81,600.00        974,506.96        656,880.00
+ORTHOLOGIC CORP                            0.000 OLGC    68750J107      6.1300        39,700.00        205,207.90        243,361.00
+OSHKOSH B'GOSH CL-A                        2.050 GOSHA   688222207Q    21.4600         2,400.00         70,034.47         51,504.00
+OSHKOSH TRUCK CORPORATION                  0.450 OSK     688239201     51.0300        36,600.00        833,178.43      1,867,698.00
+OSI PHARMACEUTICALS INC                    0.000 OSIP    671040103     32.2100        46,800.00      1,560,067.98      1,507,428.01
+OSI SYSTEMS INC                            0.000 OSIS    671044105     19.2100        15,600.00        245,004.16        299,676.00
+OTTER TAIL CORP                            4.040 OTTR    689648103     26.7300        25,300.00        706,511.62        676,269.00
+OVERLAND STORAGE INC                       0.000 OVRL    690310107     18.8000         3,200.00         67,366.39         60,159.99
+OVERSEAS SHIPHOLDING GROUP                 2.055 OSG     690368105     34.0500        23,700.00        571,623.03        806,985.00
+OWENS & MINOR INC.                         1.643 OMI     690732102Q    21.9100        50,900.00        932,930.41      1,115,219.00
+OXFORD INDUSTRIES INC.                     1.416 OXM     691497309     33.8800        19,400.00        444,310.70        657,272.00
+P A M TRANSN SVCS IN                       0.000 PTSI    693149106     21.3300         6,900.00        166,455.35        147,177.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     50.8800        30,600.00        959,770.62      1,556,928.00
+PAB BANKSHARES INC                         1.801 PAB     69313P101     15.5400         8,500.00        111,282.13        132,090.00
+PACER INTERNATIONAL INC                    0.000 PACR    69373H106     20.2200        19,500.00        367,247.01        394,290.00
+PACIFIC CAP BANCORP                        2.390 PCBC    69404P101     36.8200        41,500.00      1,452,534.98      1,528,030.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     21.1200        92,100.00      1,313,304.10      1,945,152.00
+PACIFIC UN BK CALIF                        0.783 PUBB    695025106     25.5300         4,800.00         71,373.90        122,544.00
+PACKETEER INC                              0.000 PKTR    695210104     16.9800        28,000.00        489,902.43        475,440.00
+PAIN THERAPEUTICS INC.                     0.000 PTIE    69562K100      6.9500        27,900.00        199,537.95        193,905.00
+PALM HARBOR HOMES                          0.000 PHHM    696639103     17.8700        20,800.00        379,902.24        371,696.00
+PALMONE INC                                0.000 PLMO    69713P107     11.7500        44,596.00        525,458.35        524,003.01
+PALMSOURCE INC                             0.000 PSRC    697154102     21.7900         6,549.00        127,006.41        142,702.71
+PANERA BREAD CO                            0.000 PNRA    69840W108     39.5300        33,600.00        835,945.75      1,328,208.00

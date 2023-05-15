@@ -1,0 +1,26 @@
+ASOF10   Date 01/19/2006 Time 18:24:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+THORNBURG MTG INC                           10.381     885218107   TMA            272,600        7,406,260.18        7,142,120.00
+TOWN & COUNTRY TRUST                         2.863     892081100   TCT              2,900           75,269.18           98,049.00
+TRIZEC PROPERTIES INC                        3.490     89687P107   TRZ             48,481          888,271.03        1,111,184.52
+TRUSTREET PROPERTIES INC                     9.028     898404108   TSY             33,100          523,529.49          483,922.00
+U-STORE-IT TRUST                             5.510     91274F104   YSI             93,283        1,895,687.80        1,963,607.15
+UNITED DOMINION RE TRUST                     5.119     910197102   UDR              6,200          132,411.35          145,328.00
+UNIVERSAL HEALTH RLT                         7.147     91359E105   UHT             12,400          397,574.01          388,616.00
+URSTADT BIDDLE PPTYS                         5.552     917286205   UBA             22,300          350,249.54          361,483.00
+VENTAS INC.                                  4.497     92276F100   VTR          1,191,561       30,717,184.37       38,153,783.22
+VORNADO REALTY TRUST                         3.833     929042109   VNO             19,300        1,044,514.90        1,610,971.00
+WASHINGTON RE INV                            4.290     939653101   WRE             29,800          868,397.14          904,430.00
+WEINGARTEN RE INVST                          3.779     948741103   WRI             12,699          399,761.00          480,149.19
+WINSTON HOTELS INC                           6.060     97563A102   WXH             28,100          300,936.46          278,190.00
+
+Instrument Total                    133                                         8,538,172      211,318,959.11      238,056,681.59
+

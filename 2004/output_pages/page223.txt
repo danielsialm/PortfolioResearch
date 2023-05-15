@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+DEVELOPERS DIVERSIFIED RE                    4.597     251591103 Q DDR            242,800        9,050,277.32       10,773,036.00
+DIGITAL REALTY TRUST INC                     4.639     253868103   DLR             22,200          288,960.30          299,034.00
+DUKE RE CORPORATION                          5.448     264411505   DRE            230,400        7,165,977.64        7,865,856.00
+EASTGROUP PROPERTY INC                       3.877     277276101   EGP             16,500          516,646.25          632,280.00
+ENTERTAINMENT PPTYS                          5.050     29380T105   EPR             35,600        1,161,731.89        1,585,980.00
+EQUITY INNS INC                              4.429     294703103   ENN             99,000          812,128.04        1,162,260.00
+EQUITY LIFESTYLE PROPERTIES INC              0.139     29472R108   ELS             14,000          472,796.33          500,500.00
+EQUITY OFFICE PROP                           5.340     294741103   EOP            831,800       22,850,014.31       24,222,016.00
+EQUITY ONE INC                               4.888     294752100   EQY             60,900        1,024,113.66        1,445,157.00
+EQUITY RESIDENTIAL PROP                      4.781     29476L107 Q EQR            364,500        9,651,260.91       13,187,610.00
+ESSEX PROPERTY TRUST INC.                    1.560     297178105   ESS             22,300        1,352,454.19        1,868,740.00
+EXTRA SPACE STORAGE INC                      6.826     30225T102   EXR             24,700          318,204.75          329,251.00
+FEDERAL REALTY INV.                          3.910     313747206 Q FRT             25,100        1,091,008.12        1,296,415.00
+FELCOR LODGING TRUST                         4.095     31430F101   FCH             69,500          658,588.23        1,018,175.00
+FIRST INDUSTRIAL RE                          6.825     32054K103   FR              45,800        1,473,894.87        1,865,434.00
+FIRST POTOMAC REALTY TRUST                   4.561     33610F109   FPO             28,225          515,504.08          643,530.00
+GABLES RESIDENTIAL TRUST                     6.733     362418105   GBP             47,300        1,547,742.85        1,692,867.00
+GENERAL GROWTH PROP                          3.982     370021107 Q GGP            372,060        9,804,969.86       13,453,689.60
+GETTY RLTY CORP                              5.917     374297109   GTY             19,500          467,117.65          560,235.00
+GLENBOROUGH REALTY                           6.578     37803P105   GLB             20,100          378,163.38          427,728.00
+GLIMCHER REALTY TRUST                        2.309     379302102 Q GRT             39,500          910,167.98        1,094,545.00
+GLOBAL SIGNAL INC                            5.809     37944Q103   GSL             28,500          627,284.34          784,890.00
+GMH COMMUNITIES TRUST                        4.539     36188G102   GCT             31,700          417,765.48          446,970.00
+GOVERNMENT PROPERTIES TRUST INC              6.085     38374W107   GPP             22,400          236,794.60          220,864.00
+HEALTH CARE PPTY INV                         6.031     421915109   HCP            216,000        5,698,465.80        5,981,040.00
+HEALTH CARE REIT INC                         6.291     42217K106   HCN             34,278        1,202,710.17        1,307,705.70
+HEALTHCARE RLTY TR                           6.339     421946104   HR              53,000        1,705,737.40        2,157,100.00
+HERITAGE PROPERTY INV TRUST                  4.431     42725M107   HTG             52,400        1,486,996.87        1,681,516.00
+HIGHWOODS PROP INC.                          6.137     431284108 Q HIW             50,500        1,163,549.71        1,398,850.00
+HOME PROPERTIES OF NY INC.                   5.860     437306103   HME             30,700        1,145,875.61        1,320,100.00
+HOMEBANC CORP                                7.024     43738R109   HMB             38,300          354,374.58          370,744.00
+HOSPITALITY PROPERTIES                       6.260     44106M102   HPT            191,751        7,224,900.36        8,820,546.00
+HOST MARRIOTT CORP                           1.156     44107P104   HMT            572,934        6,858,639.04        9,911,758.20
+HRPT PROPERTIES TRUST                        6.547     40426W101   HRP            605,632        6,226,386.23        7,770,258.56
+IMPAC MTG HLDGS INC                         13.233     45254P102   IMH             90,700        1,854,162.39        2,056,169.00
+INLAND REAL ESTATE CORP                      5.893     457461200   IRC             36,000          454,867.44          574,200.00
+INNKEEPERS USA TRUST                         1.690     4576J0104   KPA            114,175        1,032,373.06        1,621,285.00
+INVESTORS REAL ESTAT                         6.139     461730103   IRETS           23,300          233,338.90          244,417.00
+ISTAR FINANCIAL INC                          6.164     45031U101   SFI            111,700        4,388,549.87        5,055,542.00
+KILROY RE CORP                               4.631     49427F108   KRC             51,500        1,515,211.71        2,201,625.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+DOMINION RESOURCES INC-VA                    3.926     25746U109 Q D              298,100       13,552,835.36       20,193,294.00
+DOMINO'S PIZZA INC                           1.460     25754A201   DPZ             26,900          404,029.93          478,820.00
+DONALDSON CO INC                             0.736     257651109   DCI            107,300        1,870,923.03        3,495,834.00
+DONNELLEY (R.R.) & SONS CO.                  2.947     257867101 Q RRD            270,200        7,843,040.66        9,535,358.00
+DORAL FINANCIAL CORP.                        1.461     25811P100   DRL            209,323        6,003,001.14       10,309,157.75
+DOT HILL SYSTEMS CORP                        0.000     25848T109   HILL            48,171          450,975.37          377,660.64
+DOUBLECLICK INC                              0.000     258609304   DCLK            87,600          799,030.27          681,528.00
+DOV PHARMACEUTICAL INC                       0.000     259858108   DOVP            15,700          257,148.99          283,385.00
+DOVER CORP.                                  1.526     260003108 Q DOV            597,700       22,061,831.14       25,067,538.00
+DOVER DOWNS GAMING &                         1.832     260095104   DDE             11,300          111,759.38          148,030.00
+DOVER MOTORSPORTS IN                         0.698     260174107   DVD             20,200           90,452.80          115,746.00
+DOW CHEMICAL CO                              2.706     260543103 Q DOW          2,637,000       90,672,978.33      130,557,870.00
+DOW JONES & CO INC                           2.322     260561105 Q DJ              32,200        1,478,434.03        1,386,532.00
+DOWNEY FINANCIAL CORP.                       0.701     261018105   DSL             21,800          682,731.44        1,242,600.00
+DPL INC                                      3.823     233293109 Q DPL             83,000        1,676,848.77        2,084,130.00
+DRESS BARN INC.                              0.000     261570105   DBRN            34,300          477,820.62          603,680.00
+DREW INDS INC                                0.000     26168L205   DW              66,800        2,168,604.21        2,416,156.00
+DRIL-QUIP INC                                0.000     262037104   DRQ             19,956          340,546.34          484,132.56
+DRS TECHNOLOGIES INC                         0.000     23330X100   DRS             65,512        2,436,050.51        2,798,017.52
+DSP GROUP INC.                               0.000     23332B106   DSPG            41,300          878,777.06          922,229.00
+DST SYSTEMS INC                              0.000     233326107   DST            291,600       12,605,297.86       15,198,191.99
+DTE ENERGY COMPANY                           4.776     233331107 Q DTE            437,900       17,290,110.99       18,886,627.00
+DUCOMMUN INC DEL                             0.000     264147109   DCO             21,100          414,740.48          439,935.00
+DUKE ENERGY CORPORATION                      4.342     264399106 Q DUK            829,600       19,333,128.74       21,013,768.00
+DUN & BRADSTREET CORP                        0.000     26483E100   DNB            130,800        5,479,628.96        7,802,220.00
+DUPONT PHOTOMASKS INC                        0.000     26613X101   DPMI            16,300          577,611.97          430,483.00
+DUQUESNE LIGHT HOLDINGS INC                  5.305     266233105 Q DQE             84,700        1,637,010.00        1,596,595.00
+DURA AUTOMOTIVE SYST                         0.000     265903104   DRRA            21,500          203,679.38          232,845.00
+DURATEK INC                                  0.000     26658Q102   DRTK            37,106          539,997.21          924,310.46
+DURECT CORP                                  0.000     266605104   DRRX            33,700           48,695.33          110,536.00
+DUSA PHARMACEUTICALS INC                     0.000     266898105   DUSA            16,600          152,573.90          237,380.00
+DYAX CORP                                    0.000     26746E103   DYAX             1,100           11,114.14            7,942.00
+DYCOM INDUSTRIES INC.                        0.000     267475101   DY              53,900          694,460.45        1,645,028.00
+DYNAVAX TECHNOLOGIES CORP                    0.000     268158102   DVAX             6,900           59,306.47           55,200.00
+DYNEGY INC                                   6.493     26816Q101   DYN            918,600        5,012,537.04        4,243,932.00
+E I DUPONT DE NEM.                           2.854     263534109 Q DD           1,789,800       86,116,578.86       87,789,690.00
+E-Z-EM INC                                   1.712     269305405   EZM             18,200          199,123.69          265,720.00
+E.PIPHANY INC                                0.000     26881V100   EPNY           289,200        1,448,367.84        1,396,836.00
+E*TRADE GROUP INC.                           0.000     269246104   ET           1,321,400       15,923,211.43       19,754,930.00
+EAGLE BROADBAND INC                          0.000     269437109   EAG            473,200          374,449.75          312,312.00

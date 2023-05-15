@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+JP MORGAN CHASE & CO.                        5.666     46625H100 Q JPM          4,527,818      149,147,215.17      108,667,632.00
+K-SWISS INC CL-A                             0.184     482686102   KSWS            59,100          947,238.27        1,283,061.00
+K2 INC.                                      0.000     482732104   KTO             15,400          137,338.04          144,760.00
+KADANT INC                                   0.000     48282T104   KAI             20,700          290,909.15          310,500.00
+KAMAN CORP CL-A                              4.000     483548103   KAMNA           27,800          427,556.77          305,800.00
+KANSAS CITY SOUTHERN INDS                    0.000     485170302 Q KSU            134,900        2,019,780.00        1,618,800.00
+KAYDON CORP                                  2.263     486587108 Q KDN             97,400        2,388,865.82        2,065,854.00
+KB HOME                                      0.700     48666K109 Q KBH             40,088        1,163,017.50        1,717,770.80
+KEANE INC.                                   0.000     486665102   KEA            146,500        3,464,176.70        1,317,035.00
+KEITHLEY INSTRUMENTS INC                     1.200     487584104   KEI             16,900          709,047.44          211,250.00
+KELLOGG CO.                                  2.947     487836108 Q K              852,529       28,956,598.73       29,216,168.83
+KELLWOOD CO.                                 2.461     488044108   KWD             45,700        1,284,613.02        1,188,200.00
+KELLY SERVICES INC CL-A                      1.618     488152208   KELYA            5,200          160,436.30          128,492.00
+KEMET CORP.                                  0.000     488360108   KEM            193,700        2,503,279.46        1,692,938.00
+KENNAMETAL INC                               1.972     489170100   KMT            103,800        3,464,481.40        3,579,024.00
+KERR MCGEE CORP.                             4.063     492386107 Q KMG            187,232       10,032,786.00        8,294,377.60
+KEY ENERGY SERVICES INC                      0.000     492914106   KEG            110,160          969,711.99          988,135.20
+KEYCORP                                      4.852     493267108 Q KEY            929,755       23,310,965.92       23,374,040.70
+KEYNOTE SYSTEMS INC                          0.000     493308100   KEYN            49,000          411,676.84          378,280.00
+KEYSPAN CORPORATION                          5.051     49337W100   KSE            276,609        9,146,419.43        9,747,701.16
+KIMBERLY-CLARK CORP                          2.527     494368103 Q KMB            866,794       42,291,923.50       41,146,711.18
+KINDER MORGAN INC.                           0.946     49455P101   KMI            148,980        5,124,734.64        6,297,384.60
+KING PHARMACEUTICALS                         0.000     495582108   KG             812,861       25,747,484.45       13,973,080.59
+KIRBY CORP.                                  0.000     497266106   KEX             83,400        2,119,030.76        2,284,326.00
+KLA-TENCOR CORP.                             0.000     482480100   KLAC           149,692        6,126,325.26        5,294,641.40
+KNIGHT RIDDER                                1.707     499040103 Q KRI            156,140        8,029,175.30        9,875,855.00
+KNIGHT TRANSPORTATION INC                    0.000     499064103   KNGT           112,425        2,122,888.32        2,360,925.00
+KOHLS CORP                                   0.000     500255104   KSS            781,589       36,395,758.79       43,729,904.54
+KOPIN CORP                                   0.000     500600101   KOPN            75,600        1,003,590.07          296,352.01
+KORN/FERRY INTERNATIONAL                     0.000     500643200   KFY              5,600          220,484.00           41,888.00
+KRAFT FOODS INC - A                          1.541     50075N104   KFT            187,800        6,674,824.78        7,311,054.00
+KRISPY KREME DOUGHNUTS INC                   0.000     501014104   KKD            138,135        4,703,095.87        4,664,818.95
+KROGER CO.                                   0.000     501044101   KR           1,886,453       33,545,384.68       29,145,698.85
+KROLL INC                                    0.000     501049100   KROL            72,090        1,552,233.99        1,375,477.20
+KRONOS INC.                                  0.000     501052104   KRON            25,600          585,451.71          946,944.00
+KULICKE & SOFFA INDUSTRIES                   0.000     501242101   KLIC            47,900          289,507.98          273,988.00
+KYPHON INC                                   0.000     501577100   KYPH            70,060          868,905.30          598,312.40
+L-3 COMMUNICATIONS HOLDINGS INC              0.000     502424104   LLL            219,900        9,890,800.27        9,875,709.01
+LA JOLLA PHARMACEUTICAL                      0.000     503459109   LJPC            19,400          123,641.74          126,100.00
+LA-Z-BOY INC.                                1.668     505336107   LZB             63,000          960,553.26        1,510,740.00

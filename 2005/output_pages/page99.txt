@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 066
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+MATTHEWS INTL CORP                         0.549 MATW    577128101     36.4100        33,750.00        886,235.99      1,228,837.50
+MATTSON TECHNOLOGY INC                     0.000 MTSN    577223100     10.0600        90,800.00        693,601.89        913,448.00
+MAUI LD & PINEAPPLE                        0.000 MLP     577345101     33.9300         3,600.00         94,113.79        122,148.00
+MAVERICK TUBE CORP                         0.000 MVK     577914104     39.8600        56,200.00      1,325,432.78      2,240,132.00
+MAXIMUS INC                                1.090 MMS     577933104     36.6900        29,300.00      1,006,534.06      1,075,017.00
+MAXTOR CORP                                0.000 MXO     577729205      6.9400       267,000.00      1,391,005.50      1,852,980.00
+MAXYGEN INC                                0.000 MAXY    577776107      7.5100        66,760.00        639,847.44        501,367.60
+MAYTAG COMPANY                             1.912 MYG     578592107Q    18.8200        60,000.00        969,357.64      1,129,200.00
+MB FINL INC                                1.694 MBFI    55264U108     35.4000        23,150.00        675,502.36        819,510.00
+MBT FINANCIAL CORP                         4.197 MBTF    578877102     16.2000        15,500.00        312,502.46        251,100.00
+MCCORMICK & SCHMICKS SEAFOOD R             0.000 MSSR    579793100     22.6100         8,000.00        122,032.00        180,880.00
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      3.8000       144,200.00        938,191.55        547,960.00
+MCG CAPITAL CORP                          11.514 MCGC    58047P107     14.5900        52,800.00        877,558.41        770,352.00
+MCGRATH RENTCORP                           2.014 MGRC    580589109     27.8000        21,700.00        472,215.20        603,260.00
+MEASUREMENT SPECIALITIES INC               0.000 MEAS    583421102     24.3500        12,500.00        274,446.77        304,375.00
+MEDAREX INC                                0.000 MEDX    583916101     13.8500        68,000.00        481,500.49        941,800.00
+MEDCATH CORPORATION                        0.000 MDTH    58404W109     18.5500         7,700.00        146,246.08        142,835.00
+MEDIA GENERAL INC - CL A                   1.656 MEG     584404107     50.7000        27,600.00      1,732,569.11      1,399,320.00
+MEDIACOM COMMUNICATIONS CORP               0.000 MCCC    58446K105      5.4900        54,300.00        401,038.24        298,107.00
+MEDICINES COMPANY                          0.000 MDCO    584688105     17.4500        29,800.00        715,534.55        520,010.00
+MEDICIS PHARMACEUTICAL CORP                0.374 MRX     584690309     32.0500        57,200.00      1,682,430.65      1,833,260.00
+MENTOR CORP/MINN                           1.562 MNT     587188103     46.0800        39,100.00        859,046.01      1,801,728.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106     10.3400        29,264.00        281,799.36        302,589.76
+MERCANTILE BANK CORP                       1.246 MBWM    587376104     38.5000         7,985.00        264,056.74        307,422.50
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     20.6300        18,500.00        626,642.44        381,655.00
+MERGE TECHNOLOGIES INC.                    0.000 MRGE    589981109     25.0400        21,700.00        425,204.53        543,368.00
+MERIDIAN BIOSCIENCE INC                    1.588 VIVO    589584101     20.1400        19,450.00        249,199.92        391,723.00
+MERIDIAN RESOURCE CO                       0.000 TMR     58977Q109      4.2000        91,600.00        596,671.96        384,720.00
+MERIT MED SYS INC                          0.000 MMSI    589889104     12.1400        43,278.00        639,266.49        525,394.92
+MESA AIR GROUP INC                         0.000 MESA    590479101     10.4600        69,400.00        549,462.55        725,924.00
+MESTEK INC                                 0.000 MCC     590829107     13.1000         3,200.00         41,130.60         41,920.00
+METAL MANAGEMENT INC                       1.289 MTLM    591097209     23.2600        36,500.00        730,993.18        848,990.00
+METHODE ELECTRONICS CL-A                   2.006 METH    591520200      9.9700        38,445.00        444,064.63        383,296.65
+METROLOGIC INSTRUMENTS INC                 0.000 MTLG    591676101     19.2600        28,600.00        562,549.64        550,836.00
+MFA MORTGAGE INVESTMENTS INC               3.508 MFA     55272X102      5.7000       142,400.00        976,716.94        811,680.00
+MGE ENERGY INC                             4.069 MGEE    55277P104     33.9100        21,548.00        739,041.90        730,692.68
+MGI PHARMA INC                             0.000 MOGN    552880106     17.1600        60,800.00      1,278,981.77      1,043,328.00
+MICREL INCORPORATED                        0.000 MCRL    594793101     11.6000        65,510.00        822,032.68        759,916.00
+MICRO THERAPEUTICS INC                     0.000 MTIX    59500W100      6.9300        11,300.00         44,908.46         78,309.00

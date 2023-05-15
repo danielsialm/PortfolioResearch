@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SUN LIFE FINANCIAL SVSC CAN                  0.976     2566124      SLF_C        92,000.00        1,957,117.84
+SUNCOR ENERGY INC                            0.368     2861142      SU_CN        96,100.00        1,812,257.24
+SVENSKA CELLULOSA AB-B                       0.454     4865379      SCAB_        16,300.00          584,470.98
+SVENSKA HANDELSBANKEN                        0.449     5703661      SHBA_        47,200.00          763,893.02
+SWISS REINSURANCE                            0.017     7189816      RUKN_         8,571.00          616,728.10
+SWISSCOM AG CHF25(                           0.892     5533976      SCMN_           902.00          249,948.53
+SYNGENTA CHF                                 0.122     4356646      SYNN_         3,646.00          205,092.27
+TAKEDA CHEM INDS J                           0.000     6870445      4502_        74,947.00        2,854,542.60
+TAKEFUJI CORP                                0.000     6876067      8564_         5,700.00          447,913.43
+TALISMAN ENERGY INC                          0.651     2068299      TLM_C        25,100.00        1,173,945.88
+TANDBERG ASA                                 0.000     7283440      TAA_N       103,100.00          817,998.30
+TDK CORP JPY50 (6762)                        0.000     6869302      6762_        11,500.00          697,891.94
+TELE DANMARK AS                              0.000     5698790      TDC_D        84,900.00        2,872,434.82
+TELECOM CORP OF NEW ZEALAND                  0.055     6881436      TEL_N     1,893,600.00        4,319,749.83
+TELEFONICA SA                                4.644     5732524      TEF_S       938,700.00        9,491,114.29
+TELEKOM AUSTRIA                              0.000     4635088      TKA_A       413,700.00        4,857,170.83
+TELENOR ASA                                  0.000     4732495      TEL_N       505,400.00        2,159,044.64
+TELIASONERA                                  0.020     5978384      TLSN_        84,691.00          245,676.61
+TESCO PLC                                   45.653     0884709      TSCO_       576,721.00        1,654,169.73
+THE SWATCH GROUP AG-B                        0.484     7184725      UHR_V         1,500.00          143,398.32
+THOMSON CORP                                 0.728     2889371      TOC_C        50,800.00        1,568,054.80
+THOMSON MULTIMEDIA                           2.120     5988930      TMS_F         7,700.00          128,064.01
+THUS GROUP PLC                               0.000     3125944      THUS_        59,016.00           27,545.82
+THYSSENKRUPP AG                             12.806     5636927      TKA_G        59,600.00        1,014,213.78
+TITAN CEMENT CO GR                           3.302     4888280      TITK_        11,700.00          443,682.21
+TOHOKU ELECTRIC PO                           0.026     6895266      9506_       119,300.00        1,756,173.46
+TOKYO ELEC POWER Y                           0.000     6895404      9501_       107,300.00        2,284,325.51
+TOKYO ELECTRON Y50                           0.000     6895675      8035_        11,800.00          818,707.62
+TOKYO GAS CO Y50                             0.000     6895448      9531_       432,100.00        1,236,704.55
+TOMRA SYSTEMS ASA                            0.000     4730875      TOM_N       147,700.00        1,049,227.70
+TOPDANMARK                                   0.000     5797147      TOP_D        20,600.00        1,046,633.88
+TOSHIBA CORP                                 0.000     6897217      6502_       276,400.00        1,157,614.85
+TOSTEM INAX HOLDING CORP                     0.000     6900212      5938_        37,000.00          505,871.04
+TOTAL                                      180.871     4905413      FP_FP        28,893.00        3,867,656.04
+TOYOTA MOTOR CORP                            0.000     6900643      7203_       204,976.00        5,643,363.55
+TRANSCANADA CORP                             1.796     2665184      TRP_C        90,800.00        1,623,040.24
+UBS AG-REG                                   0.079     7126114      UBSN_         3,515.99          191,387.62
+UCB ORD BEF                                  6.401     5596991      UCB_B        45,200.00        1,497,629.96
+UFJ HOLDINGS INC                             0.000     6335223      8307_           223.00          813,985.61

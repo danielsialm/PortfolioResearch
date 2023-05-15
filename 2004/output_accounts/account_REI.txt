@@ -1,0 +1,17 @@
+Instrument - I         INTERNATIONAL
+
+BLACKSTONE EUROPEAN FUND       MISC W EUROPE                   0.000         RBKSTN                 23,026,066.78     16,483,724.98
+DOUGHTY HANSON & CO EUROPEAN   MISC EUROPE                     0.000         RDGHTY                 32,269,593.71     29,063,996.02
+EUROPA-INTERNATIONAL           MISC EUROPE                     0.000         REUROP                 22,235,365.08     25,983,959.01
+LASALLE ASIA RECOVERY FUND     ASIA                            0.000         RLSARF                 39,320,124.93     45,764,869.99
+LEND LEASE GLOBAL              MISC EUROPE                     0.000         RLNDLS                 46,828,865.44     50,940,299.99
+ORION EUROPEAN REAL ESTATE FUN MISC EUROPE                     0.000         RORION                 26,036,078.48     35,652,818.99
+PRUDENTIAL PROP. PRTNRS.-INT'L EUROPE                          0.000         RPRUDE                 17,678,683.69     20,844,477.00
+SOROS RE INVST-INT'L           MISC EUROPE                     0.000         RSOROS                 34,832,438.66     31,998,421.01
+WESTBROOK FRENCH PORTFOLIO     MISC US                         0.000         RWSTBF                 27,298,797.47     31,953,827.00
+
+Instrument Total             9                                                                     269,526,014.24    288,686,393.99
+
+Portfolio Total              9                                                                     269,526,014.24    288,686,393.99
+
+Group Total                220                              3,297,610,972.55 /    11,142,645.00  3,588,318,516.17  4,848,151,171.75

@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 071
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+WATSON PHARMACEUTICALS INC.                  0.000     942683103   WPI            281,300        9,305,744.11        9,145,063.00
+WATSON WYATT WORLDWIDE                       1.075     942712100   WW              44,400        1,055,136.18        1,238,760.00
+WATTS WATER TECHNOLOGIES INC. CLASS A        1.056     942749102 Q WTS             26,500          567,408.34          802,685.00
+WAUSAU-MOSINEE PAPER CORP.                   2.869     943315101   WPP            543,400        7,873,658.91        6,439,290.00
+WAUWATOSA HOLDINGS INC                       0.000     94348P108   WAUW            11,200          131,264.00          128,128.00
+WAVECOM SA-ADR                               0.000     943531103   WVCM            33,800          382,732.04          398,840.00
+WCI COMMUNITIES INC                          0.000     92923C104   WCI             57,400        1,395,879.75        1,541,190.00
+WD-40 CO                                     3.351     929236107   WDFC            17,600          502,444.86          462,176.00
+WEBEX COMMUNICATIONS INC                     0.000     94767L109   WEBX           185,962        3,967,915.78        4,022,358.06
+WEBMD HEALTH CORP CL A                       0.000     94770V102   WBMD             7,400          233,544.00          214,970.00
+WEBMETHODS                                   0.000     94768C108   WEBM           105,300          700,595.21          811,863.00
+WEBSENSE INC                                 0.000     947684106   WBSN           104,911        3,411,479.65        6,886,358.04
+WEBSIDESTORY INC                             0.000     947685103   WSSI            45,316          750,873.38          821,579.08
+WEBSTER FINANCIAL CORPORATION                2.132     947890109   WBS             35,600        1,271,041.93        1,669,640.00
+WEIGHT WATCHERS INTL                         0.000     948626106   WTW            156,200        8,013,755.35        7,720,966.00
+WEIS MKTS INC                                2.602     948849104   WMK             15,000          531,507.89          645,600.00
+WELLCARE HEALTH PLANS INC                    0.000     94946T106   WCG             24,710          807,812.11        1,009,403.50
+WELLPOINT INC.                               0.000     94973V107   WLP          1,132,827       56,074,283.87       90,388,338.94
+WELLS FARGO COMPANY                          3.310     949746101   WFC          2,542,440       81,274,606.81      159,741,505.20
+WENDY'S INTL                                 1.230     950590109 Q WEN              5,700          260,411.16          314,982.00
+WERNER ENTERPRISES INC                       0.812     950755108   WERN         1,714,500       31,674,918.33       33,775,650.00
+WESBANCO INC                                 3.419     950810101   WSBC            24,000          656,681.44          729,840.00
+WESCO INTL INC                               0.000     95082P105   WCC             33,900          854,440.25        1,448,547.00
+WEST BANCORPORATION                          3.422     95123P106   WTBA            17,640          290,059.07          329,868.00
+WEST COAST BANCORP O                         1.587     952145100   WCBO            15,700          331,559.69          415,265.00
+WEST CORP.                                   0.000     952355105   WSTC           114,811        3,204,982.13        4,839,283.65
+WEST MARINE INC                              0.000     954235107   WMAR            14,400          406,298.99          201,312.00
+WEST PHARMACEUTICAL SERVICES                 1.917     955306105   WST            109,100        2,575,879.97        2,730,773.00
+WESTAMERICA BANCORPORATION                   2.411     957090103   WABC            34,700        1,791,780.43        1,841,529.00
+WESTCORP INC                                 1.921     957907108   WES             10,000          546,166.93          666,100.00
+WESTELL TECHNOLOGIES INC-A                   0.000     957541105   WSTL           145,825          903,087.40          656,212.50
+WESTERN ALLIANCE BANCORP                     0.000     957638109   WAL              4,100          115,292.00          122,467.00
+WESTERN DIGITAL CORP                         0.000     958102105   WDC             54,918          762,597.72        1,022,023.98
+WESTERN GAS RESOURCES INC                    0.637     958259103   WGR             10,100          468,370.62          475,609.00
+WESTERN SIERRA BANCORP                       0.000     959522103   WSBA             7,000          260,523.49          254,730.00
+WESTFIELD FINANCIAL                          2.499     96008D101   WFD              4,600          115,288.04          110,446.00
+WESTLAKE CHEMICAL CORP.                      0.381     960413102   WLK             27,200          650,923.23          783,632.00
+WESTWOOD ONE                                 2.454     961815107   WON            363,963        8,466,829.47        5,932,596.90
+WEYCO GROUP INC                              1.466     962149100   WEYS             6,200          104,999.19          118,420.00
+WEYERHAEUSER CO.                             3.014     962166104 Q WY             375,300       21,843,753.27       24,897,402.00

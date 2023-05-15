@@ -1,0 +1,53 @@
+ASOF02   Date 01/20/2004 Time 18:59:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - A         DIVERSIFIED
+
+CATELLUS DEVELOP CORP                      2.363 CDX     149113102     24.1200           762.00         18,242.00         18,379.44
+COLONIAL PROPERTIES                        6.717 CLP     195872106     39.6000        53,700.00      1,973,058.50      2,126,520.00
+COUSINS PROPERTIES INC                     4.836 CUZ     222795106     30.6000        15,300.00        384,989.04        468,180.00
+CRESCENT RE EQT. CO.                       8.756 CEI     225756105     17.1300       199,300.00      3,338,351.95      3,414,009.00
+VORNADO REALTY TRUST                       5.187 VNO     929042109     54.7500       232,045.00      9,232,073.26     12,704,463.75
+WASHINGTON RE INV                          5.102 WRE     939653101     29.2000        79,400.00      2,341,531.46      2,318,480.00
+
+Instrument Total             6                                                      580,507.00      17,288,246.21     21,050,032.19
+
+Instrument -C      INDUSTRIAL
+
+AMB PROPERTY CORP.                         5.048 AMB     00163T109     32.8800       217,337.00      5,538,395.41      7,146,040.56
+CENTERPOINT PROP CORP.                     4.165 CNT     151895109     74.9000        30,300.00      1,599,517.64      2,269,470.00
+PROLOGIS TRUST                             4.487 PLD     743410102Q    32.0900       310,220.00      5,291,671.71      9,954,959.80
+
+Instrument Total             3                                                      557,857.00      12,429,584.76     19,370,470.36
+
+Instrument -D      MIXED INDUST/OFFICE
+
+DUKE RE CORPORATION                        5.935 DRE     264411505     31.0000       283,183.00      6,394,953.33      8,778,673.00
+KILROY RE CORP                             6.045 KRC     49427F108     32.7500        62,700.00      1,478,233.03      2,053,425.00
+LIBERTY PROPERTY TRUST                     6.221 LRY     531172104Q    38.9000       166,700.00      5,022,295.16      6,484,630.00
+PS BUSINESS PARKS INC/CA                   2.811 PSB     69360J107     41.2600        54,100.00      1,860,761.89      2,232,166.00
+
+Instrument Total             4                                                      566,683.00      14,756,243.41     19,548,894.00
+
+Instrument -F      OFFICE
+
+ALEXANDRIA REAL ESTATE                     4.006 ARE     015271109     57.9000        57,800.00      2,636,158.01      3,346,620.00
+ARDEN REALTY GROUP INC                     6.657 ARI     039793104Q    30.3400       130,600.00      3,464,108.90      3,962,404.00
+BOSTON PROPERTIES INC                      5.229 BXP     101121101     48.1900       274,484.00      9,909,169.33     13,227,383.96
+CARRAMERICA RE CORP                        6.715 CRE     144418100     29.7800       191,600.00      5,727,881.37      5,705,848.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500       816,896.00     19,546,105.94     23,404,070.46
+HIGHWOODS PROP INC.                        6.692 HIW     431284108Q    25.4000        14,100.00        351,828.71        358,140.00
+MACK-CALI RE CORP.                         6.054 CLI     554489104     41.6200       122,448.00      3,900,150.49      5,096,285.76
+PRENTISS PROPERTIES TRUST                  6.789 PP      740706106     32.9900       163,000.00      4,644,145.96      5,377,370.00
+RECKSON ASSOCIATES RE                      4.255 RA      75621K106Q    24.3000         1,899.99         42,846.07         46,170.00
+SL GREEN RE CORP                           4.872 SLG     78440X101     41.0500       105,200.00      3,549,280.82      4,318,460.00
+TRIZEC PROPERTIES INC                      5.194 TRZ     89687P107     15.4000       310,000.00      4,329,671.78      4,774,000.00
+
+Instrument Total            11                                                    2,188,028.00      58,101,347.38     69,616,752.18
+

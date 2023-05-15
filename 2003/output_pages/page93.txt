@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 063
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+TIMBERLAND CO CL-A                         0.000 TBL     887100105     52.0700         3,400.00        136,236.77        177,037.99
+TIME WARNER INC.                           3.001 TWX     887317105     17.9900       804,900.00     25,043,752.56     14,480,151.00
+TJX COS. INC.                              0.634 TJX     872540109Q    22.0500        95,300.00      1,528,747.30      2,101,365.00
+TOLL BROTHERS INC                          0.000 TOL     889478103     39.7600        23,200.00        671,760.05        922,432.01
+TOOTSIE ROLL INDUSTRIES, INC.              0.777 TR      890516107Q    36.0000         4,600.00        171,742.79        165,599.99
+TORCHMARK CORP                             0.966 TMK     891027104Q    45.5400        35,000.00      1,354,764.03      1,593,900.00
+TOTAL SYS SVCS INC                         0.257 TSS     891906109     31.1300        27,500.00        703,228.66        856,075.00
+TOYS R US INC.                             0.000 TOY     892335100     12.6400        94,800.00      1,319,838.55      1,198,272.00
+TRANSATLANTIC HOLDINGS INC                 0.544 TRH     893521104Q    80.8000         3,900.00        275,582.02        315,120.00
+TRAVELERS PROPERTY CASUALTY -              1.885 TAP.B   89420G406     16.9700       156,500.00      2,330,823.63      2,655,805.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     33.2700        14,000.00        430,011.19        465,780.00
+TRIBUNE CO                                 0.852 TRB     896047107Q    51.6000        37,900.00      1,588,597.47      1,955,640.00
+TRUSTMARK CORP                             2.596 TRMK    898402102     29.2700         9,000.00        240,024.91        263,430.00
+TXU CORPORATION                            2.107 TXU     873168108Q    23.7200        59,800.00      1,830,811.64      1,418,456.01
+TYSON FOODS INC. CL-A                      1.208 TSN     902494103     13.2400        82,200.00      1,158,986.93      1,088,328.00
+UGI CORP                                   3.362 UGI     902681105     33.9000         7,900.00        175,613.75        267,810.01
+UNION PACIFIC CORP.                        1.727 UNP     907818108Q    69.4800        47,100.00      2,360,754.54      3,272,508.00
+UNION PLANTERS CORP.                       4.236 UPC     908068109     31.4900        36,800.00      1,124,052.66      1,158,832.00
+UNIONBANCAL CORPORATION                    2.155 UB      908906100     57.5400         9,700.00        451,391.64        558,137.99
+UNISYS CORP.                               0.000 UIS     909214108     14.8500        93,400.00      1,586,462.63      1,386,989.99
+UNITED BANKSHARES INC.                     3.205 UBSI    909907107     31.2000         6,700.00        186,025.34        209,040.00
+UNITED DEFENSE INDUSTRIES INC              0.000 UDI     91018B104     31.8800         4,400.00        120,385.29        140,271.99
+UNITED PARCEL SERVICES INC                 1.341 UPS     911312106     74.5500        82,300.00      5,438,114.35      6,135,465.00
+UNITED STATES STEEL CORP.                  0.571 X       912909108Q    35.0200        42,100.00        786,122.79      1,474,342.00
+UNITED TECHNOLOGIES                        1.477 UTX     913017109Q    94.7700        86,900.00      4,310,599.43      8,235,512.99
+UNITEDGLOBALCOM                            0.000 UCOMA   913247508      8.4800        35,800.00        241,592.23        303,584.00
+UNITEDHEALTH GROUP INC                     0.025 UNH     91324P102A    58.1800       114,400.00      3,080,783.27      6,655,792.00
+UNITRIN INC.                               4.008 UTR     913275103     41.4100         8,400.00        265,599.31        347,844.00
+UNIVERSAL HEALTH SERVICES CL B             0.595 UHS     913903100     53.7200         9,100.00        478,774.66        488,852.00
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     68.9300         2,900.00        155,878.64        199,897.01
+UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     39.6900            99.99          3,036.45          3,969.00
+UNOCAL                                     2.172 UCL     915289102Q    36.8300        47,900.00      1,395,652.42      1,764,157.00
+US BANCORP                                 3.223 USB     902973304     29.7800       356,300.00      7,620,792.28     10,610,614.00
+US CELLULAR CORP.                          0.000 USM     911684108     35.5000         2,800.00         74,997.73         99,399.99
+UST INC.                                   5.603 UST     902911106Q    35.6900         3,400.00        110,293.00        121,346.01
+UTSTARCOM, INC                             0.000 UTSI    918076100     37.0700        29,100.00      1,105,934.19      1,078,737.00
+V F CORP                                   2.405 VFC     918204108Q    43.2400        29,900.00      1,114,782.58      1,292,876.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     29.3500         7,600.00        193,930.57        223,060.00
+VALEANT PHARMACEUTICALS                    1.232 VRX     91911X104Q    25.1500        13,000.00        248,343.83        326,950.00

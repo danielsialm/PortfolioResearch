@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 135
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 600 VA
+Instrument - COM       COMMON STOCK
+
+INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     16.5900         3,300.00         52,201.05         54,747.00
+INTL MULTIFOODS CORP                       3.775 IMC     460043102     21.1900        10,600.00        245,688.58        224,614.00
+IONICS INC                                 0.000 ION     462218108     22.8000        27,200.00        597,258.94        620,160.00
+ITLA CAPITAL CORPORATION                   0.000 ITLA    450565106     33.2300         2,000.00         67,578.00         66,460.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     35.7100         4,100.00        128,291.05        146,411.00
+JAKKS PACIFIC INC.                         0.000 JAKK    47012E106     13.4700        16,900.00        271,113.18        227,643.00
+JEFFRIES GROUP INC                         0.476 JEF     472319102     41.9700        22,800.00        949,607.44        956,916.00
+JO-ANN STORES, INC.                        0.000 JAS.A   47758P109     22.9700        22,700.00        612,402.00        521,419.00
+JOHNSON OUTDOORS INC - CL A                0.000 JOUT    479167108      9.8700         1,205.00         11,127.09         11,893.35
+KAMAN CORP CL-A                            4.000 KAMNA   483548103     11.0000         6,900.00         87,769.92         75,900.00
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    12.0000        69,900.00        975,702.17        838,800.00
+KELLWOOD CO.                               2.461 KWD     488044108     26.0000        17,700.00        533,158.77        460,200.00
+KIRBY CORP.                                0.000 KEX     497266106     27.3900         5,500.00        140,323.92        150,645.00
+LANDAMERICA FINANCIAL GROUP                0.789 LFG     514936103     35.4500        27,200.00        868,814.04        964,240.00
+LANDRY'S RESTAURANTS INC.                  0.470 LNY     51508L103     21.2400        42,100.00        672,190.06        894,204.00
+LENNOX INTERNATIONAL INC.                  3.027 LII     526107107     12.5500        49,400.00        695,184.74        619,970.00
+LONE STAR STEAKHOUSE & SALOON              3.102 STAR    542307103     19.3400        40,000.00        779,615.65        773,600.00
+LTC PROPERTIES INC                         5.952 LTC     502175102      6.7200         5,900.00         40,474.00         39,648.00
+LUFKIN INDUSTRIES INC                      3.070 LUFK    549764108     23.4500         2,200.00         58,274.92         51,590.00
+MAF BANCORP INC                            1.768 MAFB    55261R108     33.9300         2,414.00         57,758.93         81,907.02
+MAGNETEK INC                               0.000 MAG     559424106      4.4400         8,700.00         84,477.00         38,628.00
+MASTEC INC                                 0.000 MTZ     576323109      2.9500        21,000.00         68,208.00         61,950.00
+MATTSON TECHNOLOGY INC                     0.000 MTSN    577223100      2.8600         6,200.00         19,022.84         17,732.00
+MDC HOLDINGS INC                           0.836 MDC     552676108     38.2600        10,600.00        410,160.38        405,556.00
+MERITAGE CORP                              0.000 MTH     59001A102     33.6500         4,200.00        120,047.34        141,330.00
+MESABA HOLDINGS INC                        0.000 MAIR    59066B102      6.1200         2,000.00         18,304.90         12,240.00
+METRIS COMPANIES INC.                      1.619 MXT     591598107      2.4700        54,800.00        135,417.38        135,356.00
+MIDAS INC.                                 4.976 MDS     595626102      6.4300        10,700.00         85,938.98         68,801.00
+MIDWEST EXPRESS HOLDINGS INC               0.000 MEH     597911106      5.3500        15,800.00        273,207.71         84,530.00
+MILACRON, INC.                             0.672 MZ      598709103Q     5.9500        17,300.00        105,629.28        102,935.00
+MYERS INDUSTRIES INC.                      1.869 MYE     628464109Q    10.7000        16,125.00        189,467.79        172,537.50
+NANOMETRICS INC                            0.000 NANO    630077105      4.1900        17,200.00         72,580.56         72,068.00
+NASH FINCH CO.                             4.657 NAFCE   631158102      7.7300        15,400.00        363,821.38        119,042.00
+NATURES SUNSHINE PRODS INC.                1.338 NATR    639027101      9.7100         4,100.00         43,739.62         39,811.00
+NAUTICA ENTERPRISES INC.                   0.000 NAUT    639089101     11.1100        30,288.00        393,868.90        336,499.68
+NEKTAR THERAPEUTICS                        0.000 NKTR    640268108      8.0800        16,700.00        113,947.44        134,936.00
+NEUROGEN CORP                              0.000 NRGN    64124E106      3.6300         2,000.00         17,160.00          7,260.00
+NJ RESOURCES CORP. COMMON                  3.925 NJR     646025106     31.5900        22,200.00        693,474.52        701,298.00
+NORTHWEST NATURAL GAS CO.                  4.656 NWN     667655104     27.0600         5,200.00        134,056.00        140,712.00

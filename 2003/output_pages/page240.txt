@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:19   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ADVANCE AUTO PARTS INC                       0.000     00751Y106   AAP             45,010        2,930,113.43        3,663,814.00
+ADVANCE PCS                                  0.000     00790K109   ADVP           166,402        5,181,570.95        8,762,729.33
+ADVANCED DIGITAL INFO CORP                   0.000     007525108   ADIC            85,100        1,006,625.92        1,191,400.00
+ADVANCED ENERGY INDUSTRIES                   0.000     007973100   AEIS            20,300          471,405.40          528,815.00
+ADVANCED FIBRE COMMUNICATION                 0.000     00754A105   AFCI           127,400        2,907,505.12        2,567,109.98
+ADVANCED MARKETING SERVICES                  0.350     00753T105   MKT             28,300          405,254.04          322,620.00
+ADVANCED MEDICAL OPTICS INC                  0.000     00763M108   AVO             26,800          345,992.40          526,620.00
+ADVANCED MICRO DEVICES INC.                  0.000     007903107   AMD            772,500       10,835,263.71       11,510,249.96
+ADVANCED NEUROMODULATION SYSTEMS             0.000     00757T101   ANSI            42,063        1,012,810.29        1,934,079.73
+ADVANTA CORP                                 2.374     007942204   ADVNB           56,431          662,511.71          717,802.32
+ADVENT SOFTWARE INC                          0.000     007974108   ADVS            58,500          882,887.90        1,019,655.00
+ADVISORY BOARD CO/THE                        0.000     00762W107   ABCO            18,100          750,717.87          631,871.00
+ADVO INC.                                    1.385     007585102   AD              53,962        1,281,657.27        1,713,833.12
+AEROFLEX INC                                 0.000     007768104   ARXX            56,300          801,909.72          658,147.00
+AEROPOSTALE INC                              0.000     007865108   ARO             45,500        1,155,676.97        1,247,610.00
+AES CORP                                     0.000     00130H105   AES            713,500       22,053,587.50        6,735,440.00
+AETHER SYS INC                               0.000     00808V105   AETH            74,900          418,611.35          355,775.00
+AETNA INC.                                   0.059     00817Y108   AET            377,300       16,859,779.35       25,497,934.00
+AFFILIATED COMPUTER SERVICES                 0.000     008190100   ACS            261,500       10,203,198.23       14,241,289.99
+AFFILIATED MANAGERS GROUP                    0.000     008252108   AMG             42,450        2,508,223.25        2,954,095.50
+AFFYMETRIX INC                               0.000     00826T108   AFFX           117,322        2,621,570.02        2,887,294.42
+AFLAC INC                                    0.884     001055102   AFL            979,900       24,657,415.18       35,452,781.99
+AFTERMARKET TECHNOLO                         0.000     008318107   ATAC            17,000          185,946.01          233,239.99
+AGCO CORP.                                   0.000     001084102   AG             119,500        2,190,205.01        2,406,730.00
+AGERE SYSTEMS INC-CL B                       0.000     00845V209   AGR.B        3,078,600        8,292,884.30        8,927,940.00
+AGILE SOFTWARE CORP.                         0.000     00846X105   AGIL           106,290          932,840.03        1,052,271.00
+AGILENT TECHNOLOGIES INC                     0.000     00846U101   A              996,604       31,193,263.32       29,140,700.96
+AGILYSYS INC                                 1.076     00847J105   AGYS            33,800          438,450.98          376,870.00
+AGL RESOURCES INC                            3.848     001204106   ATG             39,800        1,055,365.55        1,158,180.02
+AIR PROD. & CHEM.                            1.741     009158106 Q APD            406,400       14,886,848.25       21,470,112.00
+AIRGAS INC                                   0.744     009363102   ARG            111,700        2,084,856.80        2,399,315.99
+AIRTRAN HLDGS INC                            0.000     00949P108   AAI            101,700        1,308,900.38        1,210,230.00
+AK STEEL HOLDING CORP                        4.902     001547108   AKS             61,100          397,663.31          311,610.00
+AKAMAI TECHNOLOGIES                          0.000     00971T101   AKAM           110,900          585,002.67        1,192,175.00
+AKSYS LTD                                    0.000     010196103   AKSY            35,900          433,894.12          316,996.99
+ALABAMA NATL BANCORP                         2.169     010317105   ALAB            11,700          576,631.21          614,835.00
+ALAMO GROUP INC                              1.572     011311107   ALG             16,400          225,161.33          250,264.00
+ALARIS MEDICAL SYSTEMS INC                   0.000     011637105   AMI             21,400          348,775.80          325,494.01
+ALASKA AIRGROUP INC                          0.000     011659109   ALK             34,100          774,953.96          930,589.00
+ALBANY INTL CL-A                             0.826     012348108 Q AIN            103,990        2,802,778.13        3,525,260.99

@@ -1,0 +1,53 @@
+ASOF02   Date 01/21/2005 Time 18:34:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 100
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 4TR       MID-CAP GROWTH TRANS
+Instrument - COM       COMMON STOCK
+
+TERADYNE INC                               0.000 TER     880770102     17.0700       319,300.00      9,741,725.71      5,450,451.00
+THE FIRST MARBLEHEAD CORP                  0.000 FMD     320771108     56.2500        13,600.00        545,972.00        765,000.00
+THE ST. JOE COMPANY                        0.872 JOE     790148100     64.2000        45,000.00      2,506,419.20      2,889,000.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103     13.3400       291,100.00      2,245,546.72      3,883,274.00
+TIFFANY & CO                               0.750 TIF     886547108     31.9700       115,100.00      3,821,732.03      3,679,747.00
+TOTAL SYS SVCS INC                         0.658 TSS     891906109     24.3000        32,600.00        737,028.68        792,180.00
+UNITED DEFENSE INDUSTRIES INC              0.000 UDI     91018B104     47.2500        27,300.00      1,035,164.50      1,289,925.00
+UNITEDGLOBALCOM                            0.000 UCOMA   913247508      9.6600       450,900.00      3,481,205.39      4,355,694.00
+UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     29.2700       185,100.00      5,743,038.39      5,417,877.00
+URBAN OUTFITTERS INC                       0.000 URBN    917047102     44.4000        36,400.00        570,483.02      1,616,160.00
+US CELLULAR CORP.                          0.000 USM     911684108     44.7600        12,200.00        438,601.10        546,072.00
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     29.1500        65,500.00      1,261,423.77      1,909,325.00
+VCA ANTECH INC                             0.000 WOOF    918194101     19.6000        17,200.00        331,690.40        337,120.00
+VENTAS INC.                                4.742 VTR     92276F100     27.4100        75,000.00      1,417,416.85      2,055,750.00
+W HLDG CO INC                              0.828 WHI     929251106     22.9400        41,982.18        660,975.74        963,071.21
+WADDELL & REED FINANCIAL-CL A              2.511 WDR     930059100     23.8900        80,400.00      2,098,304.16      1,920,756.00
+WASHINGTON POST CL. B                      0.752 WPO     939640108Q   983.0200         5,900.00      4,956,943.41      5,799,818.00
+WEBMD CORP                                 0.000 HLTH    94769M105      8.1600       323,700.00      3,596,228.52      2,641,392.00
+WESTWOOD ONE                               0.000 WON     961815107     26.9300       125,700.00      2,779,558.13      3,385,101.00
+WHOLE FOODS MARKET INC                     0.797 WFMI    966837106     95.3500        46,600.00      2,869,985.29      4,443,310.00
+WILEY JOHN & SONS IN                       0.861 JW.A    968223206     34.8400        62,300.00      1,647,369.16      2,170,532.00
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     35.0400       121,700.00      2,834,183.30      4,264,368.00
+WORTHINGTON INDS                           3.268 WOR     981811102Q    19.5800        60,900.00      1,159,916.03      1,192,422.00
+XTO ENERGY INC.                            0.565 XTO     98385X106     35.3800       209,000.00      4,710,900.18      7,394,420.00
+YUM BRANDS, INC.                           0.847 YUM     988498101     47.1800       208,700.00      5,399,452.98      9,846,466.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     56.2800        89,849.00      2,857,920.29      5,056,701.72
+
+Instrument Total           182                                                    30,572,681.18    525,907,436.83    587,034,814.95
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+CATELLUS DEVELOP CORP                      3.529 CDX     149113102     30.6000       167,700.00      3,906,875.32      5,131,620.00
+CBL & ASSOC PROP                           3.721 CBL     124830100     76.3500        15,300.00        829,834.67      1,168,155.00
+GENERAL GROWTH PROP                        3.982 GGP     370021107Q    36.1600        52,840.00      1,595,232.65      1,910,694.40
+MILLS CORP.                                3.732 MLS     601148109     63.7600        35,800.00      1,524,637.63      2,282,608.00
+REGENCY CENTERS CORP                       3.137 REG     758849103     55.4000        59,000.00      2,570,866.15      3,268,600.00
+WEINGARTEN RE INVST                        3.476 WRI     948741103     40.1000       114,250.00      3,567,257.14      4,581,425.00
+
+Instrument Total             6                                                       444,890.00     13,994,703.56     18,343,102.40
+
+Portfolio Total            188                                                    31,017,571.18    539,902,140.39    605,377,917.35
+

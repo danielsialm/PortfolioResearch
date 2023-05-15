@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+INDEVUS PHARMACEUTIC                         0.000     454072109   IDEV            73,927          471,034.05          440,604.92
+INDYMAC BANCORP INC                          3.947     456607100   NDE             51,400        1,852,754.06        1,770,730.00
+INFINITY PROPERTY & CASUALTY CORP            0.625     45665Q103   IPCC            58,900        1,723,005.75        2,073,280.00
+INFOCROSSING INC                             0.000     45664X109   IFOX             3,100           39,957.78           52,483.00
+INFOCUS CORPORATION                          0.000     45665B106   INFS           155,975        1,254,472.19        1,428,731.00
+INFONET SERVICES                             0.000     45666T106   IN             282,400          525,706.33          570,448.00
+INFORMATICA CORP.                            0.000     45666Q102   INFA           178,319        1,335,192.98        1,447,950.28
+INFOSPACE INC                                0.000     45678T201   INSP            77,225        2,177,016.33        3,672,048.75
+INFOUSA INC                                  0.000     456818301   IUSA            35,300          320,811.45          395,007.00
+INFRASOURCE SERVICES INC                     0.000     45684P102   IFS              9,600          102,366.94          124,800.00
+INGLES MKTS INC                              5.326     457030104   IMKTE           28,200          313,875.40          349,398.00
+INGRAM MICRO INC CL A                        0.000     457153104   IM             803,575       12,764,791.12       16,714,360.00
+INKINE PHARMACEUTICAL CO                     0.000     457214104   INKP             9,600           43,316.55           52,128.00
+INNOVATIVE SOLUTIONS & SUPPORT INC           0.000     45769N105   ISSC            15,100          327,836.54          503,736.00
+INPHONIC INC                                 0.000     45772G105   INPC            29,950          743,293.83          823,026.00
+INPUT/OUTPUT INC.                            0.000     457652105   IO              76,600          614,016.95          677,144.00
+INSIGHT COMMUNICATIONS CO                    0.000     45768V108   ICCI           644,979        5,888,804.21        5,978,955.33
+INSIGHT ENTERPRISES INC.                     0.000     45765U103   NSIT            63,862        1,139,235.95        1,310,448.24
+INSITUFORM TECHNOLOGIES CL A                 0.000     457667103   INSU            29,650          607,006.08          672,165.50
+INSPIRE PHARMACEUTICALS INC                  0.000     457733103   ISPH            45,500          729,801.39          763,035.00
+INSURANCE AUTO AUCTIONS INC                  0.000     457875102   IAAI            37,200          623,589.10          834,024.00
+INTEGRA BK CORP                              2.769     45814P105   IBNK            17,000          313,787.06          392,870.00
+INTEGRA LIFESCIENCES HOLDINGS                0.000     457985208   IART            24,343          764,627.46          898,986.99
+INTEGRATED ALARM SERVICES GROUP INC          0.000     45890M109   IASG            69,600          367,153.51          380,712.00
+INTEGRATED CIRCUIT SYSTEMS                   0.000     45811K208   ICST           138,400        3,360,926.77        2,895,328.00
+INTEGRATED DEVICE TECH INC                   0.000     458118106   IDTI           207,200        3,109,013.33        2,395,232.00
+INTEGRATED ELECTRICAL SVCS                   0.000     45811E103   IES            170,950          970,601.89          827,398.00
+INTEGRATED SILICON SOLUTION                  0.000     45812P107   ISSI            39,600          386,166.46          324,720.00
+INTEL CORP.                                  1.368     458140100 Q INTC        13,974,674      303,478,177.42      326,867,624.86
+INTER-TEL INC.                               1.022     458372109   INTL            22,900          433,770.34          627,002.00
+INTERACTIVE DATA CORP                        0.000     45840J107   IDC             83,930        1,457,980.80        1,824,638.20
+INTERCHANGE CORP                             0.000     45845K109   INCX             3,700           80,301.84           67,118.00
+INTERCHANGE FINL SVC                         2.083     458447109   IFCJ            12,200          300,930.93          316,224.00
+INTERDIGITAL COMM CORP                       0.000     45866A105   IDCC            61,700        1,412,572.26        1,363,570.00
+INTERFACE INC                                0.601     458665106   IFSIA          112,500          634,413.02        1,121,625.00
+INTERGRAPH CORP.                             0.000     458683109   INGR            43,358        1,020,950.88        1,167,630.94
+INTERLAND INC                                0.000     458727203   INLD            15,500           53,935.35           50,685.00
+INTERLINE BRANDS INC                         0.000     458743101   IBI             42,200          633,434.40          742,298.00
+INTERMAGNETICS GENERAL CORP                  0.000     458771102   IMGC            43,138          686,782.63        1,096,161.97
+INTERMUNE INC                                0.000     45884X103   ITMN            13,100          192,342.32          173,706.00

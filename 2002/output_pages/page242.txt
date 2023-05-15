@@ -1,0 +1,18 @@
+ASOF03   Date 01/21/2003 Time 18:53:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - X         OTHER
+
+CROWN POINTE LAND              ATLANTA GA                      9.000         RCPTE4                    547,718.15      2,250,000.00
+GALLERIA LAND                  ATLANTA GA                     11.000         RGALD1                  1,787,097.99      5,283,899.01
+
+Instrument Total             2                                                                       2,334,816.14      7,533,899.01
+
+Portfolio Total            104                                                                     939,601,525.44    948,303,812.81
+

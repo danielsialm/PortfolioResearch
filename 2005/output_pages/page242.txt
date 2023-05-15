@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+DOLLAR TREE STORES INC                       0.000     256747106   DLTR            94,218        2,228,006.29        2,255,578.92
+DOMINION RESOURCES INC-VA                    3.471     25746U109 Q D              756,800       45,297,062.43       58,424,960.00
+DOMINO'S PIZZA INC                           1.652     25754A201   DPZ             75,200        1,516,343.22        1,819,840.00
+DONALDSON CO INC                             1.006     257651109   DCI             47,700          831,715.09        1,516,860.00
+DONEGAL GROUP INC                            1.721     257701201   DGICA           24,400          480,085.33          567,056.00
+DONNELLEY (R.R.) & SONS CO.                  3.040     257867101 Q RRD                300            9,333.82           10,263.00
+DORAL FINANCIAL CORP.                        3.018     25811P100   DRL            133,913        3,136,270.15        1,419,477.80
+DOT HILL SYSTEMS CORP                        0.000     25848T109   HILL            98,271          683,648.56          681,018.03
+DOVER CORP.                                  1.679     260003108 Q DOV          1,090,700       40,590,118.41       44,162,443.00
+DOVER DOWNS GAMING &                         1.696     260095104   DDE             10,100          100,407.97          142,915.00
+DOVER MOTORSPORTS IN                         0.982     260174107   DVD             18,100           82,459.37          110,591.00
+DOW CHEMICAL CO                              3.058     260543103 Q DOW          1,936,955       68,025,755.46       84,877,368.09
+DOWNEY FINANCIAL CORP.                       0.584     261018105   DSL                688           44,835.61           47,052.32
+DPL INC                                      3.690     233293109 Q DPL             13,500          297,398.99          351,135.00
+DRESS BARN INC.                              0.000     261570105   DBRN            67,100        1,858,457.91        2,590,731.00
+DRIL-QUIP INC                                0.000     262037104   DRQ             53,610        2,233,037.71        2,530,392.01
+DRS TECHNOLOGIES INC                         0.233     23330X100   DRS             28,912          969,984.01        1,486,655.04
+DSP GROUP INC.                               0.000     23332B106   DSPG            43,200          931,366.71        1,082,592.00
+DST SYSTEMS INC                              0.000     233326107   DST            225,900       10,181,990.76       13,533,669.00
+DSW INC-CLASS A                              0.000     23334L102   DSW             12,100          256,762.00          317,262.00
+DTE ENERGY COMPANY                           4.769     233331107 Q DTE             95,400        3,825,573.33        4,120,326.00
+DTS INC                                      0.000     23335C101   DTSI            18,300          318,781.01          270,840.00
+DUKE ENERGY CORPORATION                      4.517     264399106 Q DUK          2,446,600       62,273,548.27       67,159,170.00
+DUN & BRADSTREET CORP                        0.000     26483E100   DNB            408,555       23,118,277.91       27,356,842.80
+DUQUESNE LIGHT HOLDINGS INC                  6.127     266233105 Q DQE             82,100        1,586,759.40        1,339,872.00
+DUSA PHARMACEUTICALS INC                     0.000     266898105   DUSA            17,900          164,136.78          192,783.00
+DYCOM INDUSTRIES INC.                        0.000     267475101   DY              77,400        1,206,674.30        1,702,800.00
+DYNAMEX INC                                  0.000     26784F103   DDMX            12,300          210,659.74          234,438.00
+DYNEGY INC                                   6.198     26816Q101   DYN            516,700        2,820,240.93        2,500,828.00
+E I DUPONT DE NEM.                           3.482     263534109 Q DD           1,728,700       82,883,881.04       73,469,750.00
+E*TRADE GROUP INC.                           0.000     269246104   ET             528,800        7,453,261.69       11,030,768.00
+EAGLE MATERIALS INC                          0.980     26969P108   EXP             22,337        1,202,319.38        2,733,155.32
+EARTHLINK INC                                0.000     270321102   ELNK           273,560        2,442,101.44        3,039,251.60
+EAST WEST BANCORP INC.                       0.548     27579R104   EWBC           550,000       19,433,167.71       20,069,500.00
+EASTMAN CHEMICAL CO.                         3.411     277432100 Q EMN             60,694        2,744,397.78        3,131,203.47
+EASTMAN KODAK                                2.136     277461109 Q EK               4,500          129,983.07          105,300.00
+EATON CORP.                                  1.848     278058102 Q ETN             55,200        2,593,039.49        3,703,368.00
+EATON VANCE CORP.                            1.462     278265103   EV              59,865        1,332,893.68        1,637,906.40
+EBAY INC                                     0.000     278642103   EBAY         1,486,600       43,322,931.99       64,295,450.00
+ECHELON CORP                                 0.000     27874N105   ELON            71,500          767,680.01          559,845.00

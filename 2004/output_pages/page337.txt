@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - COM       COMMON STOCK
+
+ELAN CORP PLC-ADR                            0.000     2307237      ELN         178,312.00        4,218,435.00
+
+Instrument Total               1                                                178,312.00        4,218,435.00
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+3 I GROUP                                    4.093     0888693      III_L        89,400.00          673,501.90
+ABB LIMITED CHF2.50                         10.389     7108899      ABBN_        50,564.00          337,615.78
+ACCOR FRF100                                 4.430     5852842      AC_FP        13,061.00          461,726.54
+ACERINOX SA                                  1.983     B01ZVZ5      ACX_S        72,400.00        1,071,745.86
+ACOM CO Y50                                  0.011     6049784      8572_         6,900.00          553,970.79
+ACS ACTIVIDADES                              4.125     B01FLQ6      AAD_L        75,700.00        1,617,114.48
+ADECCO SA-REG                                1.075     7110720      ADEN_         3,996.00          204,072.24
+ADIDAS-SALOMON AG                            1.140     4031976      ADS_G         4,100.00          386,202.25
+AEON CO LTD                                  0.006     6480048      8267_        45,600.00          726,127.94
+AGFA GEVAERT NV                              2.041     5689051      AGFB_        47,827.00          933,564.47
+AIFUL CORP JPY 50                            0.005     6019419      8515_         5,000.00          499,678.13
+AIR LIQUIDE                                  2.907     4011406      AI_FP         7,942.00          937,444.12
+ALCAN ALUMINIUM LTD                          0.851     2013200      AL_CN         7,600.00          313,223.62
+ALCATEL EUR 2.0                              1.899     5975006      CGE_F        49,239.00          531,798.18
+ALL NIPPON AIRWAYS CO LTD                    0.008     6014908      9202_       143,000.00          461,427.71
+ALLIANZ AG NPV(REG                           2.098     5231485      ALV_G        41,078.00        4,737,939.22
+ALLIED IRISH BANKS                           4.949     0019783      ALBK_       436,164.00        7,437,833.57
+ALTADIS SA                                   2.742     5444012      ALT_S        42,300.00        1,733,577.27
+ALUMINA LTD                                  2.638     6954985      AWC_A       165,700.00          743,559.29
+AMADA CO Y50                                 0.008     6022105      6113_        36,600.00          186,574.52
+AMCOR ORD NPV                                3.412     6066608      AMC_A       141,700.00          829,635.04
+AMP ORD AUD3                                 1.687     6709958      AMP_A       267,000.00        1,437,902.49
+AMVESCAP                                     5.386     0128269      AVZ_L        53,120.00          748,424.73
+ARES SERONO                                  0.939     5981070      SEO_V           150.00           96,027.33
+ARIAKE JAPAN CO LTD.                         0.009     6049632      2815_            75.00            2,298.06
+ASAHI GLASS CO JPY                           0.010     6055208      5201_        50,000.00          479,980.39
+ASAHI KASEI CORPORATION                      0.015     6054603      3407_        82,000.00          372,444.70
+ASSA ABLOY AB                                0.165     5698789      ASSAB        53,300.00          622,886.84
+ASTRAZENECA GBP 0.                           8.485     0989529      AZN_L       112,865.00        4,460,511.07
+ATI TECHNOLOGIES INC                         0.000     2000978      ATY_C         5,200.00           74,712.38
+ATLAS COPCO AB                               0.376     4050971      ATCOA        20,900.00          770,230.61
+AUSTRALIA + NEW ZEALAND BANK GROUP           3.844     6065586      ANZ_A       261,900.00        4,085,157.47
+AUSTRALIAN GAS LIG                           3.432     6064969      AGL_A        95,300.00          965,114.72

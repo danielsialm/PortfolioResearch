@@ -1,0 +1,11 @@
+Instrument - T         TIMBER
+
+TIMBER-BASCOM GULF (FLORIDA)   MISC US                         0.000         RTMBR4                177,710,830.21    189,011,415.00
+TIMBER-BASCOM PACIFIC (N.W.)   MISC US                         0.000         RTMBR2                 54,455,014.33    165,382,722.00
+TIMBERLAND - FOREST SYSTEM     MISC US                         0.000         RTMBR5                  2,000,196.00      2,000,196.00
+TIMBERLAND-SOUTHERN            MISC US                         0.000         RTMBR3                 32,992,650.52    165,122,309.00
+
+Instrument Total             4                                                                     267,158,691.06    521,516,642.00
+
+Portfolio Total              4                                                                     267,158,691.06    521,516,642.00
+

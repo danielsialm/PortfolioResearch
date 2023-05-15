@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 003
+ASOF11   Date 01/24/2002 Time 21:29:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 005
 
 Monthly Market Portfolio
 
@@ -7,44 +7,44 @@ Investment Desc                              Yield     Identifier F Ticker      
 
 Group - INTERNATIONAL
 Portfolio  - I-ACT     INTERNAL EMERGING
-Instrument - COM       COMMON STOCK
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-TELEFONOS DE MEXICO ADR                      2.798     2881612   S  TMX          90,000.00        2,971,803.00
-
-Instrument Total               1                                                 90,000.00        2,971,803.00
-
-Instrument -CTRY      COUNTRY FUNDS - CLOSED END
-
-1ST PHILLIPINE FUND                          0.000     2341406      93068       433,000.00        4,368,839.44
-BRAZIL FUND                                  2.796     2121954      91404       998,900.00       23,977,355.16
-CZECH & SLOVAK CORP INC.                     0.000     0242017      FLECS       346,800.00        1,999,867.06
-FIRST ISRAEL FUND INC.                       0.363     2349789      93078       321,400.00        4,309,329.17
-INDOCAM ASIA MALACCA                         0.000     0556310      70601        40,000.00          522,500.00
-KOREA EQUITY FUND                            0.000     2496276      13948       106,700.00          975,877.00
-KOREA FUND                                   0.230     2496414      00094     1,100,000.00       16,395,153.83
-LGSC INDIA FUND                              0.000     6521970      10924       200,000.00        2,371,800.02
-MEXICO FUND INC.                             3.106     2587170      95144       580,561.00        8,647,004.85
-SCHRODER UT SEOUL                            0.000     0791724      40420     1,396,680.39          621,514.62
-SOUTHERN AFRICA FUND INC                     3.605     2824082      SOA         374,717.00        4,857,837.27
-TAIWAN OPPROTUNITIES FUND                    0.000     0875361      33423       200,000.00        2,874,000.00
-THAI PRIME FUND LTD.                         0.000     6887467      82445       800,000.00        3,706,918.77
-
-Instrument Total              13                                              6,898,758.39       75,627,997.19
-
-Instrument -ICOM      INTERNATIONAL COMMON STOCKS
-
-ABSA GROUP ZAR2                              0.000     6910794      ASA_S     2,085,761.00        7,943,149.80
-ACER INCORPORATED                            0.000     6000673      73834     3,489,538.40        2,233,962.60
-ADVANCED INFO SERVICE                        0.000     6412591      ADVAN     4,000,000.00        4,041,129.88
-AFRICAN BANK INVESTMENTS LTD                 0.000     6040776      ABL_S     3,126,200.00        3,412,006.01
-AGORA SA                                     0.000     5618312      AGO_P       100,000.00        1,398,052.60
-AKCANSA CIMENTO SA                           0.000     5130827      AKCNS   250,000,000.00        1,222,847.87
-AKSIGORTA                                    0.000     4012078      AKGRT   224,983,000.00        1,915,531.30
-ALFA SA DE CV SER’                           0.000     2043423      ALFAA     3,105,786.00        4,378,403.25
-ALPHA BANK A.E.                              3.533     4235864      ALPHA        97,410.00        3,113,196.30
-ALUMINUM CORP OF CHINA (CHALCO)              0.000     6425395      2600_     2,798,500.00          495,150.97
-AMERICA MOVIL - ADR                          0.308     2722670      AMX         330,000.00        4,601,032.00
-ANGLO AMERICAN ORD                           9.598     0490151      AAL_L       253,010.00        2,619,563.54
-ANGLO AMERICAN PLA                           0.002     6761000      AMS_S        60,000.00        2,215,686.02
-ANTOFAGASTA PLC                             79.800     0045614      ANTO_       300,000.00        2,086,918.24
-ARAB INTL HOTELS O                           0.000     6047584      ARIH_         4,708.00           21,918.00
+CHINA UNICOM                                 0.000     2603496      CHU         250,000.00        3,190,740.00
+CHINATRUST COMMERCIAL BANK                   0.003     6193443      2815_     3,000,000.00        1,498,969.28
+CIA PARANAENSE ADR                           4.586     2209656      ELP         500,000.00        3,380,169.60
+CIA PARANAENSE DE ENERGI                    63.583     2200154      CPLE6   249,999,999.90        2,138,479.43
+CIA SIDERURGICA NA                       1,561.526     2210261      CSNA3    47,455,577.00        1,403,819.61
+CIA TELECOM CHILE-                           0.000     2213635      CTC         116,300.00        1,271,634.45
+CLAL INSURANCE ENT                           1.340     6200600      CLIS_         8,730.00           95,190.42
+CNOOC ADR                                    1.347     2494764      CEO         100,000.00        1,839,820.77
+COCA-COLA HELLENIC BOTTLING SA               0.979     4420723      EEEK_         8,040.00          245,029.37
+COMMERCIAL BANK OF GREECE                    2.150     4212823      TEMP_        43,650.00        2,098,216.33
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_       720,000.00        7,251,924.98
+COMPAL ELECTRONICS                           0.000     6225744      2324_     3,250,000.00        3,158,789.25
+COMPANHIA DE BEBIDAS ADR                     1.133     2634797      ABV         240,000.00        4,887,520.72
+COMPANIA CERVECERI                           4.044     2217596      CU           75,000.00        1,278,976.78
+CONSORCIO ARA S.A.                           0.000     2209731      ARA*_     2,244,400.00        3,196,730.36
+COSCO PACIFIC LIMITED                        0.085     6354251      1199_     8,000,000.00        4,718,911.30
+CREDICORP LTD                                1.142     2232878      BAP         371,100.00        2,640,286.11
+DAYA GUNA SAMUDERA                           0.000     6253488      DGSA_       128,815.00           88,020.31
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     1,834,875.00        2,705,095.09
+DHANA SIAM FINANCE                           0.000     6268716      DS/F_        98,200.00           83,197.91
+DIMENSION DATA HLDGS PLC                     0.000     6264639      DDT_S     1,000,000.00        1,001,966.72
+ECI TELECOM ORD IL                           3.724     2310150      ECIL        468,700.00        4,766,053.63
+EFG EUROBANK ERGASIS                         2.325     5654316      EUROB       100,000.00        1,850,442.75
+EGIS RT                                      0.000     4040499      EGIS_        70,000.00        2,470,723.09
+ELEKTRA SA CPO SHS                           0.223     2639617      ELEKT        64,000.00           90,496.34
+EMBRATEL PARTICIPA                         517.040     2292559      EBTP4   103,297,000.00        1,614,185.69
+EMBRATEL PARTICIPACOES ADR                   3.846     2297963      EMT         900,000.00        8,262,435.00
+EMPRESAS NAC DE EL                           0.385     2311131      EOC         172,800.00        1,851,826.99
+ENERSIS SA ADR (RE                           1.127     2314947      ENI           6,439.00          139,841.03
+FINANCE ONE THB10(                           0.000     5308646      FIN1_        13,800.00           77,827.77
+FIRSTRAND ZAR0.01                            0.022     6606996      FSR_S       550,000.00          428,296.99
+FISKARAGUNG PERK I                           0.000     6342535      FISK_       301,500.00           44,138.06
+FIVE ARROWS CHILE INVT TRUST                 0.000     0438968      FVA_L        72,000.00                0.00
+FLEMING INDIAN IT                            0.000     0345035      FIN_L     1,900,000.00        1,825,153.39
+FOMENTO ECON MEXIC                           0.155     2242059      FEMSA        61,600.00          199,747.08
+FOMENTO ECONOMICO MEX SP ADR                 2.749     2246039      FMX         140,000.00        4,880,532.66
+FORMOSA PLASTICS CORP                        0.080     6348544      73829       238,601.00          330,947.54
+FOSCHINI ORD R0.01                           0.000     6349688      FOS_S     2,000,000.00        1,433,661.91
+GAS AUTHORITY OF INDIA LTD                   6.123     2498517      GAID_       500,000.00        4,835,000.00

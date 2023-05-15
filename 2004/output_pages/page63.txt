@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - COM       COMMON STOCK
+
+WELLCHOICE INC                             0.000 WC      949475107     53.4000        23,600.00        807,758.01      1,260,240.00
+WELLPOINT INC.                             0.000 WLP     94973V107    115.0000       165,400.00     11,453,711.01     19,021,000.00
+WENDY'S INTL                               1.222 WEN     950590109Q    39.2600       161,500.00      4,674,834.26      6,340,490.00
+WESCO FINL CORP                            0.351 WSC     950817106    393.0000        10,500.00      3,697,247.90      4,126,500.00
+WEST CORP.                                 0.000 WSTC    952355105     33.1100         6,600.00        189,114.44        218,526.00
+WESTAR ENERGY INC.                         4.022 WR      95709T100     22.8700       138,700.00      2,726,959.66      3,172,069.00
+WESTCORP INC                               1.219 WES     957907108     45.9300        23,701.00        964,900.26      1,088,586.93
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     10.8400       244,200.00      1,869,445.71      2,647,128.00
+WFS FINL INC                               0.275 WFSI    92923B106     50.7800        57,100.00      2,802,366.48      2,899,538.00
+WHIRLPOOL CORP                             2.485 WHR     963320106Q    69.2100       145,900.00      8,874,305.36     10,097,739.00
+WHITNEY HOLDING CORP                       3.111 WTNY    966612103     44.9900        65,900.00      2,883,473.94      2,964,841.00
+WILLIAMS COS. INC.                         1.227 WMB     969457100Q    16.2900       898,700.00     15,216,494.71     14,639,823.00
+WILMINGTON TRUST CO, DELAWARE              3.153 WL      971807102Q    36.1500       107,700.00      3,529,380.96      3,893,355.00
+WISCONSIN ENERGY CORP.                     2.491 WEC     976657106Q    33.7100        99,900.00      3,001,457.37      3,367,629.00
+WORTHINGTON INDS                           3.268 WOR     981811102Q    19.5800        17,700.00        370,732.02        346,566.00
+WPS RESOURCES CORP.                        4.443 WPS     92931B106     49.9600        60,200.00      2,797,976.53      3,007,592.00
+XCEL ENERGY INC                            4.560 XEL     98389B100Q    18.2000       647,700.00     12,545,924.24     11,788,140.00
+XEROX CORP                                 0.000 XRX     984121103Q    17.0100     1,179,900.00     19,968,417.65     20,070,099.00
+YELLOW ROADWAY CORP                        0.000 YELL    985577105     55.7100        77,900.00      3,742,538.43      4,339,809.00
+ZIONS BANCORPORATION                       1.881 ZION    989701107     68.0300        96,600.00      5,527,817.98      6,571,698.00
+
+Instrument Total           449                                                    90,752,618.16  2,371,725,343.42  2,943,934,000.44
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMB PROPERTY CORP.                         4.209 AMB     00163T109     40.3900       134,000.00      4,426,157.56      5,412,260.00
+APARTMENT INVT & MGMT                      6.227 AIV     03748R101     38.5400        69,600.00      2,458,425.09      2,682,384.00
+ARCHSTONE COMMUNITIES                      4.490 ASN     039583109Q    38.3000       317,700.00      8,939,163.30     12,167,910.00
+ARDEN REALTY GROUP INC                     5.355 ARI     039793104Q    37.7200        17,200.00        566,098.44        648,784.00
+AVALONBAY COMMUNITIES                      1.450 AVB     053484101Q    75.3000       116,100.00      6,242,684.33      8,742,330.00
+BOSTON PROPERTIES INC                      4.020 BXP     101121101     64.6700       133,900.00      6,798,791.62      8,659,313.00
+BRE PROPERTIES  -CL A                      4.837 BRE     05564E106     40.3100        81,300.00      3,254,690.61      3,277,203.00
+CBL & ASSOC PROP                           3.721 CBL     124830100     76.3500        65,500.00      3,819,999.57      5,000,925.00
+CENTERPOINT PROP CORP.                     3.570 CNT     151895109     47.8900        75,700.00      2,953,956.37      3,625,273.00
+DEVELOPERS DIVERSIFIED RE                  4.597 DDR     251591103Q    44.3700       236,500.00      8,862,845.87     10,493,505.00
+DUKE RE CORPORATION                        5.448 DRE     264411505     34.1400       230,400.00      7,165,977.64      7,865,856.00
+EQUITY OFFICE PROP                         5.340 EOP     294741103     29.1200       549,600.00     15,125,044.68     16,004,352.00
+EQUITY RESIDENTIAL PROP                    4.781 EQR     29476L107Q    36.1800       362,900.00      9,610,724.14     13,129,722.00
+FEDERAL REALTY INV.                        3.910 FRT     313747206Q    51.6500        18,600.00        818,201.42        960,690.00

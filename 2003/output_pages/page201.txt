@@ -1,0 +1,48 @@
+ASOF02   Date 01/20/2004 Time 18:59:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 171
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+SANDISK CORP                               0.000 SNDK    80004C101     61.1400        16,800.00        709,375.31      1,027,152.00
+SEEBEYOND TECHNOLOGY CORP.                 0.000 SBYN    815704101      4.2900       164,400.00        456,173.72        705,276.00
+SELECTICA INC                              0.000 SLTC    816288104      4.2800        75,100.00        296,611.98        321,428.00
+SERVICE CORP INTERNATIONAL                 6.679 SRV     817565104Q     5.3900        65,700.00        260,956.08        354,123.00
+SOLA INTERNATIONAL INC                     0.000 SOL     834092108     18.8000        27,200.00        473,213.27        511,360.00
+SOTHEBY'S HOLDINGS CL-A                    0.000 BID     835898107     13.6600        19,300.00        228,010.52        263,638.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     18.4000        12,070.00        196,149.72        222,088.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     17.8500        17,100.00        260,415.45        305,235.00
+SYMBOL TECHNOLOGIES INC                    0.118 SBL     871508107     16.8900        21,100.00        289,153.50        356,379.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     18.8500        26,100.00        364,896.00        491,985.00
+TELETECH HOLDINGS INC                      0.000 TTEC    879939106     11.3000        45,700.00        319,616.91        516,410.00
+TELIK INC                                  0.000 TELK    87959M109     23.0100         8,300.00        176,164.26        190,983.00
+THE MONY GROUP INC.                        1.438 MNY     615337102     31.2900         1,700.00         46,736.91         53,193.00
+THERASENSE INC                             0.000 THER    883381105     20.3000        27,900.00        475,748.65        566,370.00
+TITAN INT'L INC.                           0.653 TWI     88830M102Q     3.0600        79,800.00         98,211.36        244,188.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      2.3000        51,400.00        147,457.76        118,220.00
+TWEETER HOME ENTERTAINMENT GRO             0.000 TWTR    901167106      9.4500        32,800.00        282,349.04        309,960.00
+UBIQUITEL INC                              0.000 UPCS    903474302      2.6890       104,900.00        204,515.30        282,076.10
+UNIFI INC                                  0.000 UFI     904677101      6.4500        45,700.00        295,636.30        294,765.00
+UNITED ONLINE INC                          0.000 UNTD    911268100     16.7900        25,150.00        462,137.75        422,268.50
+UNITRIN INC.                               4.008 UTR     913275103     41.4100         6,200.00        180,582.66        256,742.00
+UNOVA INC.                                 0.000 UNA     91529B106     22.9500        20,800.00        253,280.94        477,359.99
+USI HOLDINGS CORP                          0.000 USIH    90333H101     13.0500        25,800.00        322,969.77        336,690.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     69.1000        14,500.00        838,182.97      1,001,950.00
+VENTANA MED SYS INC                        0.000 VMSI    92276H106     39.4000        14,500.00        421,988.89        571,300.00
+VERITY INC.                                0.000 VRTY    92343C106     16.6900        26,600.00        442,929.30        443,954.00
+VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     10.2300        22,100.00        196,407.36        226,083.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106      5.8700        32,900.00        167,625.49        193,123.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     15.9500        18,400.00        254,958.94        293,479.99
+WESTERN WIRELESS COR                       0.000 WWCA    95988E204     18.3600        20,000.00        241,180.55        367,200.01
+WIND RIVER SYSTEMS                         0.000 WIND    973149107      8.7600        42,900.00        259,473.48        375,804.00
+WRIGHT MEDICAL GROUP INC                   0.000 WMGI    98235T107     30.4400        21,800.00        432,877.52        663,592.00
+
+Instrument Total           149                                                     6,151,403.93     51,469,280.31     61,987,722.66
+
+Portfolio Total            149                                                     6,151,403.93     51,469,280.31     61,987,722.66
+

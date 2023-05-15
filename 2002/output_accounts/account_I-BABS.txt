@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BABSON STEWART - EQUITIES                    0.000     IE-BAB                 3,504,470.82      350,447,082.20
+BABSON STEWART - LQR                         0.000     IL-BAB                   137,145.35       13,714,535.36
+
+Instrument Total               2                                              3,641,616.17      364,161,617.56
+
+Portfolio Total                2                                              3,641,616.17      364,161,617.56        361,241,050.28

@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MERCURY INTERACTIVE CORP.                    0.000     589405109   MERQ             2,000           66,912.69           55,580.00
+MEREDITH CORPORATION                         1.069     589433101 Q MDP            140,400        7,218,929.75        7,348,536.00
+MERGE TECHNOLOGIES INC.                      0.000     589981109   MRGE            21,800          427,164.00          545,872.00
+MERIDIAN BIOSCIENCE INC                      1.588     589584101   VIVO           116,360        1,460,086.18        2,343,490.40
+MERIDIAN RESOURCE CO                         0.000     58977Q109   TMR             91,600          596,671.96          384,720.00
+MERIT MED SYS INC                            0.000     589889104   MMSI            46,478          686,534.22          564,242.92
+MERITAGE HOMES CORP                          0.000     59001A102   MTH              6,000          449,381.13          377,520.00
+MERRILL LYNCH & CO. INC.                     1.181     590188108 Q MER          2,277,150      102,112,461.98      154,231,369.51
+MESA AIR GROUP INC                           0.000     590479101   MESA           170,000        1,380,801.39        1,778,200.00
+MESTEK INC                                   0.000     590829107   MCC              3,200           41,130.60           41,920.00
+METAL MANAGEMENT INC                         1.289     591097209   MTLM            88,600        1,970,777.04        2,060,836.00
+METHODE ELECTRONICS CL-A                     2.006     591520200   METH            38,445          444,064.63          383,296.65
+METLIFE INC                                  1.061     59156R108   MET          1,062,514       37,247,248.15       52,063,186.00
+METROLOGIC INSTRUMENTS INC                   0.000     591676101   MTLG            31,900          627,459.21          614,394.00
+METTLER-TOLEDO INTERNATIONAL                 0.000     592688105   MTD              3,000          134,563.38          165,600.00
+MFA MORTGAGE INVESTMENTS INC                 3.508     55272X102   MFA            142,400          976,716.94          811,680.00
+MGE ENERGY INC                               4.069     55277P104   MGEE            21,648          742,471.65          734,083.68
+MGI PHARMA INC                               0.000     552880106   MOGN            62,100        1,306,328.42        1,065,636.00
+MGIC INVESTMENT CORP                         0.911     552848103 Q MTG            122,000        7,870,369.28        8,030,039.99
+MGM MIRAGE                                   0.000     552953101   MGM            555,900       21,501,942.36       20,384,853.00
+MICHAELS STORES                              1.130     594087108   MIK              3,951          116,330.13          139,746.87
+MICREL INCORPORATED                          0.000     594793101   MCRL            65,710          824,542.32          762,236.00
+MICRO THERAPEUTICS INC                       0.000     59500W100   MTIX            11,400           45,305.88           79,002.00
+MICROCHIP TECHNOLOGY INC.                    1.990     595017104   MCHP           677,731       17,736,976.54       21,789,051.65
+MICROMUSE INC.                               0.000     595094103   MUSE           127,900          736,559.55        1,264,931.00
+MICRON TECHNOLOGY INC                        0.000     595112103 Q MU             821,600       11,669,140.04       10,935,496.00
+MICROS SYSTEMS INC.                          0.000     594901100   MCRS            87,565        2,639,476.74        4,231,140.80
+MICROSEMI CORP                               0.000     595137100   MSCC            47,400          694,478.26        1,311,084.00
+MICROSOFT CORP.                              1.376     594918104   MSFT        18,358,425      469,114,722.56      480,072,813.75
+MICROSTRATEGY INC-CL A                       0.000     594972408   MSTR            29,300        1,532,014.20        2,424,282.00
+MICROTUNE INC                                0.000     59514P109   TUNE            55,000          266,979.82          229,350.00
+MID-STATE BANCSHARES                         2.691     595440108   MDST            24,200          489,032.29          647,350.00
+MIDDLEBY CORP                                0.000     596278101   MIDD            22,500        1,396,398.82        1,946,250.00
+MIDDLESEX WATER CO                           3.921     596680108   MSEX            12,000          228,186.82          208,080.00
+MIDLAND CO                                   0.624     597486109   MLAN            20,300          599,560.65          731,612.00
+MIDWEST BANC HOLDING                         2.157     598251106   MBHI            27,500          648,133.71          611,875.00
+MILACRON, INC.                               3.174     598709103 Q MZ             199,148          561,672.16          250,926.48
+MILLENNIUM PHARMACEUTICALS                   0.000     599902103   MLNM           722,000        7,267,730.56        7,003,400.00
+MILLER (HERMAN) INC                          1.028     600544100   MLHR            17,100          521,123.67          482,049.00
+MILLIPORE CORPORATION                        0.666     601073109 Q MIL            141,500        8,838,885.64        9,344,660.00

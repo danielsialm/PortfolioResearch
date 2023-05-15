@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 016
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 018
 
 Monthly Market Portfolio
 
@@ -6,11 +6,26 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-JPMOR   JP MORGAN
-Instrument - INTF      INTERNATIONAL FUNDS
+Portfolio  - I-LAZAR   EAFE TRANSITION ACCO
+Instrument - CTRY      COUNTRY FUNDS - CLOSED END
 
-JP MORGAN - LQR                              0.000     IL-JPM                     1,172.73          117,273.11
+SINGAPORE SESDAQ FUND                        0.000     0808077      40543        69,526.00        1,668,624.00
 
-Instrument Total               1                                                  1,172.73          117,273.11
+Instrument Total               1                                                 69,526.00        1,668,624.00
 
-Portfolio Total                1                                                  1,172.73          117,273.11            451,899.88
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+BETEILIGUNGSVERWAL                           0.000     94D0744      94D07           810.00           26,344.38
+GARTMORE LATIN AME                           0.000     4882367      48823       178,000.00        2,737,975.00
+INTERNATIONAL THEATRES LTD                   0.000     2533827      25338        32,500.00          463,125.00
+ROYALE BELGE NPV V                           0.000     5047488      RBVBS           531.00                0.00
+
+Instrument Total               4                                                211,841.00        3,227,444.38
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+LAZARD FRERES - LQR                          0.000     IL-LAZ                    43,480.77        4,348,077.75
+
+Instrument Total               1                                                 43,480.77        4,348,077.75
+
+Portfolio Total                6                                                324,847.77        9,244,146.13          3,707,268.81

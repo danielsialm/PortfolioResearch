@@ -1,0 +1,34 @@
+ASOF02   Date 01/21/2003 Time 18:53:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 144
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6NC       NEXT CENTURY - 600 G
+Instrument - COM       COMMON STOCK
+
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     36.3000        32,580.00        577,251.84      1,182,654.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     17.6900        36,555.00        556,515.85        646,657.95
+PANERA BREAD CO                            0.000 PNRA    69840W108     34.8100        22,425.00        443,069.39        780,614.25
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     22.8000        18,800.00        595,374.11        428,640.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     17.0000         8,910.00        163,134.44        151,470.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-NEX  IT-NEX         1.0000       544,824.84        544,824.84        544,824.83
+SCIOS INC                                  0.000 SCIO    808905103     32.5800        23,960.00        711,926.78        780,616.80
+SHARPER IMAGE CORP                         0.000 SHRP    820013100     17.4300        18,100.00        321,673.89        315,483.00
+SILICON LABORATORIES                       0.000 SLAB    826919102     19.0800        24,860.00        618,239.98        474,328.80
+SURMODICS INC                              0.000 SRDX    868873100     28.6800        15,230.00        521,760.24        436,796.40
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     23.4900        31,580.00        422,377.70        741,814.20
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     35.8400        10,826.00        263,211.18        388,003.84
+UTI WORLDWIDE INC                          0.304 UTIW    G87210103     26.2500        20,690.00        482,360.27        543,112.50
+VERIDIAN CORP                              0.000 VNX     92342R203     21.3400        20,960.00        445,724.44        447,286.40
+VISTACARE INC-CL A                         0.000 VSTA    92839Y109     16.0100           400.00          4,800.00          6,404.00
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     15.0000        36,190.00        554,799.77        542,850.00
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     29.2000        24,740.00        681,651.84        722,408.01
+ZORAN CORP                                 0.000 ZRAN    98975F101     14.0700        24,020.00        346,542.00        337,961.39
+
+Instrument Total            57                                                     2,058,499.84     30,143,311.53     32,118,750.31
+
+Portfolio Total             57                                                     2,058,499.84     30,143,311.53     32,118,750.31
+

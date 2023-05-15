@@ -1,0 +1,52 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 167
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+MERIX CORP                                 0.000 MERX    590049102     24.5300        31,600.00        788,327.24        775,148.00
+MIDWAY GAMES INC.                          0.000 MWY     598148104      3.8800        24,300.00         97,171.25         94,284.01
+NEOFORMA INC                               0.000 NEOF    640475505     10.6400        33,520.00        377,337.49        356,652.80
+NETEGRITY INC                              0.000 NETE    64110P107     10.3100        94,300.00        839,218.72        972,233.00
+NETOPIA INC                                0.000 NTPA    64114K104     14.5800        59,800.00        808,277.08        871,884.00
+NETSOLVE INC                               0.000 NTSL    64115J106      8.1000        22,800.00        178,275.40        184,680.00
+OMI CORPORATION                            0.000 OMM     Y6476W104      8.9300        48,500.00        299,201.53        433,105.00
+ONYX SOFTWARE CORP                         0.000 ONXS    683402200      3.9400       122,700.00        476,126.79        483,438.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     15.6700        29,900.00        370,137.38        468,533.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-FUL  IT-FUL         1.0000       502,222.59        502,222.58        502,222.62
+PRIMUS TELECOMMUNICATIONS GROU             0.000 PRTL    741929103     10.1800       101,900.00        396,595.23      1,037,342.00
+QUANTUM FUEL SYSTEMS TECH WW I             0.000 QTWW    74765E109      8.0400        91,800.00        642,615.22        738,072.00
+RED ROBIN GOURMET BURGERS                  0.000 RRGB    75689M101     30.4400        31,000.00        380,694.62        943,640.00
+REPUBLIC FIRST BANCORP INC                 0.000 FRBK    760416107     12.1500        34,200.00        186,667.50        415,530.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      4.7500        79,000.00        388,685.02        375,250.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     16.8700        49,600.00        705,753.90        836,752.00
+SABA SOFTWARE INC                          0.000 SABA    784932600      3.4500       141,224.00        541,501.56        487,222.83
+SANTANDER BANCORP                          1.807 SBP     802809103     24.3500        33,200.00        500,575.31        808,420.00
+SECURE COMPUTING CORP                      0.000 SCUR    813705100     17.9100        71,900.00        400,867.21      1,287,729.00
+SEEBEYOND TECHNOLOGY CORP.                 0.000 SBYN    815704101      4.2900       129,600.00        353,228.16        555,984.00
+SELECTICA INC                              0.000 SLTC    816288104      4.2800       137,550.00        433,633.57        588,714.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      2.2540       259,300.00        350,946.59        584,462.20
+SRS LABS INC                               0.000 SRSL    78464M106      9.3300        48,800.00        119,897.88        455,304.00
+SUPPORTSOFT INC                            0.000 SPRT    868587106     13.1500        61,400.00        506,047.88        807,410.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      8.5600        92,900.00        610,297.51        795,224.00
+THE 3DO CO                                 0.000 THDOQ   88553W204      0.0250        74,849.00        316,508.64          1,871.23
+TIVO INC                                   0.000 TIVO    888706108      7.4000        64,300.00        276,895.49        475,820.00
+TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     15.6100        51,100.00        216,692.18        797,671.00
+TRICO MARINE SERVICES INC                  0.000 TMAR    896106101      1.7900       281,200.00        424,904.49        503,348.00
+UBIQUITEL INC                              0.000 UPCS    903474302      2.6890        81,600.00        221,552.16        219,422.40
+ULTRATECH INC                              0.000 UTEK    904034105     29.3700        35,500.00        357,904.51      1,042,635.00
+UNIVERSAL ELECTRONICS INC                  0.000 UEIC    913483103     12.7400        14,800.00        136,331.93        188,552.00
+VANS INC                                   0.000 VANS    921930103     11.4100        72,700.00        359,643.24        829,507.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104      9.1500        83,500.00        815,266.09        764,025.00
+WESTMORELAND COAL CO                       0.000 WLB     960878106     17.5000        22,100.00        357,450.88        386,750.00
+WITNESS SYS INC                            0.000 WITS    977424100      9.3300       119,800.00      1,016,149.82      1,117,734.00
+
+Instrument Total            75                                                     6,205,750.59     36,453,578.99     53,561,967.80
+
+Portfolio Total             75                                                     6,205,750.59     36,453,578.99     53,561,967.80
+

@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 114
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     60.5000         7,800.00        431,372.34        471,900.00
+LIMITED BRANDS INC.                        2.153 LTD     532716107Q    13.9300        13,000.00        208,409.67        181,090.00
+LINCOLN NATIONAL CORP                      4.243 LNC     534187109Q    31.5800         5,500.00        224,178.08        173,690.00
+LINEAR TECHNOLOGY CORP                     0.777 LLTC    535678106     25.7200        12,900.00        374,872.96        331,788.00
+LIZ CLAIBORNE                              0.775 LIZ     539320101Q    29.6500         1,700.00         51,833.51         50,405.00
+LOCKHEED MARTIN CORPORATION                0.761 LMT     539830109Q    57.7500        11,900.00        553,932.83        687,225.00
+LOEWS CORP                                 1.349 LTR     540424108Q    44.4600         7,300.00        305,225.17        324,557.99
+LOWE'S COS                                 0.266 LOW     548661107Q    37.5000        16,400.00        473,335.87        615,000.00
+MANOR CARE INC.                            0.000 HCR     564055101     18.6100        17,900.00        366,821.43        333,119.00
+MARATHON OIL CORP                          4.321 MRO     565849106Q    21.2900         6,000.00        125,032.92        127,740.00
+MARRIOTT INT'L INC CL-A                    0.851 MAR     571903202     32.8700         2,700.00         84,755.47         88,749.00
+MARSH & MCLENNAN COS.                      2.423 MMC     571748102Q    46.2100        18,300.00        822,874.37        845,643.00
+MARSHALL & ILSLEY CORP                     2.337 MI      571834100     27.3800         6,400.00        167,805.60        175,232.00
+MASCO CORP.                                2.660 MAS     574599106Q    21.0500           400.00         10,166.02          8,420.00
+MATTEL INC.                                0.261 MAT     577081102Q    19.1500         7,300.00        143,204.93        139,795.00
+MAXIM INTGRTD PRDCTS INC.                  0.242 MXIM    57772K101     33.0400        11,600.00        352,159.70        383,264.00
+MAYTAG COMPANY                             2.526 MYG     578592107Q    28.5000         8,200.00        248,796.62        233,700.00
+MBIA INC.                                  1.550 MBI     55262C100Q    43.8600         9,200.00        363,655.64        403,512.00
+MBNA CORP                                  1.472 KRB     55262L100Q    19.0200        45,600.00        774,540.65        867,312.00
+MCDONALDS CORPORATION                      1.492 MCD     580135101Q    16.0800        20,000.00        607,645.47        321,600.00
+MCGRAW HILL INC                            1.687 MHP     580645109Q    60.4400        12,800.00        623,578.20        773,632.00
+MCKESSON CORP                              0.887 MCK     58155Q103Q    27.0300        13,500.00        437,451.13        364,905.00
+MEADWESTVACO                               3.723 MWV     583334107     24.7100         1,400.00         40,060.83         34,594.00
+MEDIMMUNE INC                              0.000 MEDI    584699102     27.1700        12,400.00        382,376.71        336,908.00
+MEDTRONIC INC                              0.548 MDT     585055106Q    45.6000        18,700.00        569,107.86        852,720.00
+MELLON NATIONAL CORP.                      1.991 MEL     58551A108Q    26.1100        17,200.00        553,301.26        449,092.00
+MERCK & CO INC                             2.543 MRK     589331107Q    56.6100        25,800.00      1,214,503.71      1,460,538.00
+MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     29.6500        12,100.00        319,787.16        358,765.00
+MEREDITH CORPORATION                       0.875 MDP     589433101Q    41.1100         8,500.00        339,171.21        349,435.00
+MERRILL LYNCH & CO. INC.                   1.686 MER     590188108Q    37.9500        15,900.00        624,392.25        603,405.00
+METLIFE INC                                0.776 MET     59156R108     27.0400         6,500.00        204,523.51        175,760.00
+MGIC INVESTMENT CORP                       0.242 MTG     552848103Q    41.3000         7,100.00        354,108.88        293,230.00
+MICRON TECHNOLOGY INC                      0.000 MU      595112103Q     9.7400        31,400.00        596,763.14        305,836.00
+MICROSOFT CORP.                            0.154 MSFT    594918104     51.7000       102,900.00      7,299,490.57      5,319,930.00
+MILLIPORE CORPORATION                      1.294 MIL     601073109Q    34.0000         1,800.00        102,973.57         61,200.00
+MOLEX INC                                  0.434 MOLX    608554101     23.0400         7,500.00        209,766.73        172,800.00
+MONSANTO COMPANY                           2.493 MON     61166W101     19.2500         1,289.00         18,201.57         24,813.25
+MOODY'S CORPORATION                        0.435 MCO     615369105     41.2900        15,600.00        701,656.85        644,124.00
+MORGAN STANLEY DEAN WITTER & C             2.304 MWD     617446448Q    39.9200        20,100.00      1,171,599.25        802,392.00

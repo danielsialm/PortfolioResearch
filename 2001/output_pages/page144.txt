@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 115
+ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 117
 
 Monthly Market Portfolio
 
@@ -9,42 +9,40 @@ Group - COMMON STOCK - EXTERNALLY MANAGED
 Portfolio  - 6PI       PIMCO - GROWTH
 Instrument - COM       COMMON STOCK
 
-ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     26.5300        22,200.00        461,864.59        588,966.00
-AEROFLEX INC                               0.000 ARXX    007768104     18.9300        33,200.00        513,202.30        628,475.99
-AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     70.4800         5,600.00        325,419.42        394,688.00
-ALMOSA HOLDINGS INC                        0.000 APS     011589108     11.9300        19,000.00        281,810.98        226,670.00
-AMN HEALTHCARE SERVICES INC                0.000 AHS     001744101     27.4000        11,500.00        211,070.88        315,100.00
-ARGOSY GAMING COMPANY                      0.000 AGY     040228108     32.5200         6,500.00        163,825.24        211,380.00
-ASE TEST LIMITED                           0.000 ASTSF   Y02516105     13.9300        22,100.00        283,580.11        307,853.00
-ASM INTERNATIONAL N.V.                     0.000 ASMI    N07045102     19.5100        19,500.00        354,561.73        380,445.00
-ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     16.8000        25,700.00        390,455.54        431,760.00
-ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105     23.2900        21,500.00        371,608.10        500,735.00
-BARNES & NOBLE INC.                        0.000 BKS     067774109     29.6000        15,500.00        455,663.89        458,800.00
-BE AEROSPACE INC.                          0.000 BEAV    073302101      9.1700        88,900.00      1,019,249.60        815,213.00
-BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     15.6600        34,900.00        383,684.62        546,534.00
-CALIFORNIA PIZZA KITCHEN INC               0.000 CPKI    13054D109     24.7500        13,000.00        264,688.66        321,749.99
-CAMINUS CORP                               0.000 CAMZ    133766105     23.0000        21,300.00        428,174.74        489,900.00
-CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     43.3900        10,346.00        382,874.12        448,912.94
-CELL THERAPEUTICS INC                      0.000 CTIC    150934107     24.1400        17,300.00        499,404.54        417,622.00
-CENTURY ALUMINUM COMPANY                   1.497 CENX    156431108     13.3600        36,700.00        639,846.90        490,312.00
-CHESAPEAKE ENERGEY CORP                    0.000 CHK     165167107      6.6100       113,300.00        631,243.54        748,913.01
-COLUMBIA SPORTSWEAR CO                     0.000 COLM    198516106     33.3000         7,200.00        279,995.62        239,759.99
-CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204     14.8500        38,000.00        255,634.56        564,300.00
-COOPER CAMERON CORP.                       0.000 CAM     216640102     40.3600        15,300.00        561,898.77        617,508.00
-CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     40.8900        16,878.00        572,914.36        690,141.40
-CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     36.7000        14,200.00        472,434.90        521,140.00
-CUBISTS PHARMACEUTICALS                    0.000 CBST    229678107     35.9600         9,300.00        233,664.24        334,428.00
-CULLEN/FROST BANKERS INC                   2.785 CFR     229899109     30.8800        17,200.00        464,936.64        531,136.00
-DIGENE CORP                                0.000 DIGE    253752109     29.5000        14,100.00        380,932.97        415,950.00
-DOCUMENT INC                               0.000 DCTM    256159104     21.7200        23,600.00        345,183.73        512,592.00
-DUANE READE INC                            0.000 DRD     263578106     30.3500        21,800.00        749,609.15        661,630.00
-E*TRADE GROUP INC.                         0.000 ET      269246104     10.2500        75,200.00        622,259.10        770,799.99
-EGL, INC.                                  0.000 EAGL    268484102     13.9500        31,500.00        446,413.47        439,425.00
-ENDOCARE INC                               0.000 ENDO    29264P104     17.9300        14,700.00        234,767.94        263,571.01
-ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      8.8500        59,100.00        521,215.77        523,035.00
-ENZON INC                                  0.000 ENZN    293904108     56.2800         7,400.00        394,641.68        416,472.00
-EVEREST RE GROUP LTD.                      0.396 RE      G3223R108     70.7000         5,700.00        360,665.83        402,990.00
-EXPEDITORS INT’L. WASH INC.                0.351 EXPD    302130109     56.9500         5,500.00        251,781.74        313,225.00
-FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     28.2000        22,800.00        361,819.48        642,960.00
-FLOWSERVE CORP.                            0.000 FLS     34354P105Q    26.6100        24,700.00        614,005.98        657,267.00
-FORRESTER RESEARCH INC                     0.000 FORR    346563109     20.1400        32,900.00        684,163.06        662,606.00
+ODYSSEY HOLDINGS CORP                      0.565 ORH     67612W108     17.7000        26,100.00        407,012.06        461,970.00
+OPTIMAL ROBOTICS CORP.                     0.000 OPMR    68388R208     35.4500        19,300.00        450,698.81        684,184.98
+OVERTURE SERVICES INC                      0.000 OVER    69039R100     35.4300        14,000.00        246,250.92        496,020.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     32.3100        14,200.00        390,652.40        458,802.00
+PIONEER NATURAL RESOURCES CO.              0.000 PXD     723787107     19.2600        23,400.00        400,314.71        450,683.99
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     17.2800        17,500.00        279,664.00        302,400.00
+PRECISION DRILLING CORP                    0.000 PDS     74022D100     25.8200        20,500.00        483,753.45        529,310.00
+PRI AUTOMATION INC                         0.000 PRIA    69357H106     20.4500        20,200.00        358,756.60        413,090.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-PIM  IT-PIM         1.0000     2,449,116.90      2,449,117.00      2,449,116.95
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     18.0100        19,000.00        292,082.44        342,190.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     22.5400        29,600.00        608,309.27        667,184.00
+REEBOK INTERNATIONAL LTD.                  0.000 RBK     758110100Q    26.5000        23,461.00        578,690.41        621,716.51
+SANGSTAT MEDICAL CORP                      0.000 SANG    801003104     19.6400        21,069.00        342,444.39        413,795.16
+SICOR INC                                  0.000 SCRI    825846108     15.6800        20,800.00        371,320.06        326,144.00
+SKYWEST INC                                0.314 SKYW    830879102     25.4500        21,300.00        471,481.94        542,085.00
+SMARTFORCE PLC - SPONSORED ADR             0.000 SMTF    83170A206     24.7500        43,700.00      1,144,673.23      1,081,575.00
+SOUTHWEST BANCORP OF TEXAS                 0.000 SWBT    84476R109     30.2700        15,943.00        501,465.31        482,594.62
+STATION CASINOS INC                        0.000 STN     857689103     11.1900        37,700.00        326,672.02        421,863.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.5100        20,200.00        374,163.21        434,501.99
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     16.1700        34,700.00        452,206.23        561,099.02
+TELETECH HOLDINGS INC                      0.000 TTEC    879939106     14.3300        32,200.00        413,398.88        461,426.00
+THERASENSE INC                             0.000 THER    883381105     24.8000        14,300.00        297,993.94        354,640.00
+THQ INC                                    0.000 THQI    872443403     48.4700        10,200.00        536,405.96        494,394.00
+TIER TECHNOLOGIES INC-CL B                 0.000 TIER    88650Q100     21.5600        19,200.00        403,381.01        413,952.00
+TITAN PHARMACEUTICALS INC                  0.000 TTP     888314101      9.8100        30,000.00        877,470.04        294,300.00
+UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     42.7800         8,300.00        346,412.36        355,073.99
+VERITAS DGC INC.                           0.000 VTS     92343P107     18.5000        53,500.00      1,032,682.21        989,749.98
+WASTE CONNECTIONS INC                      0.000 WCNX    941053100     30.9900        14,400.00        355,520.36        446,256.00
+WEBSENSE INC                               0.000 WBSN    947684106     32.0700         8,815.00        135,439.23        282,697.05
+WOMEN FIRST HEALTHCARE INC                 0.000 WFHC    978150100      9.9900        25,800.00        227,957.01        257,741.99
+XOMA LTD                                   0.000 XOMA    G9825R107      9.8500        53,300.00        543,122.89        525,005.00
+XTO ENERGY INC.                            0.228 XTO     98385X106     17.5000        34,600.00        539,876.56        605,500.01
+
+Instrument Total           110                                                     5,161,441.90     51,362,290.91     56,811,497.07
+
+Portfolio Total            110                                                     5,161,441.90     51,362,290.91     56,811,497.07
+

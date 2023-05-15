@@ -1,0 +1,31 @@
+ASOF02   Date 01/21/2003 Time 18:52:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 072
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     27.1500        17,100.00        212,580.38        464,265.00
+WILMINGTON TRUST CO, DELAWARE              3.219 WL      971807102Q    31.6800         9,700.00        273,814.85        307,296.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107      4.1000        11,600.00        425,087.99         47,560.00
+WISCONSIN ENERGY CORP.                     3.174 WEC     976657106Q    25.2000        17,000.00        448,263.30        428,400.00
+WPS RESOURCES CORP.                        5.512 WPS     92931B106     38.8200         4,700.00        178,673.90        182,454.00
+XTO ENERGY INC.                            0.161 XTO     98385X106     24.7000        18,600.00        175,802.72        459,420.01
+YORK INTERNATIONAL CORP                    2.346 YRK     986670107     25.5700         5,800.00        248,927.74        148,306.00
+
+Instrument Total           397                                                     4,689,201.99    112,268,011.70    102,488,832.56
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+HOSPITALITY PROPERTIES                     8.181 HPT     44106M102     35.2000         9,200.00        243,153.03        323,840.00
+LIBERTY PROPERTY TRUST                     7.514 LRY     531172104Q    31.9400        11,200.00        337,575.97        357,728.02
+NEW PLAN EXCEL RE TRUST                    8.643 NXL     648053106Q    19.0900        14,300.00        271,283.50        272,987.00
+
+Instrument Total             3                                                        34,700.00        852,012.50        954,555.02
+
+Portfolio Total            400                                                     4,723,901.99    113,120,024.20    103,443,387.58
+

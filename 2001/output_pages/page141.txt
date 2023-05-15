@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 112
+ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 114
 
 Monthly Market Portfolio
 
@@ -7,44 +7,11 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 
 Group - COMMON STOCK - EXTERNALLY MANAGED
 Portfolio  - 6LA       LORD, ABBETT & CO -
-Instrument - COM       COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
 
-FERRO CORP                                 2.248 FOE     315405100Q    25.8000        20,400.00        434,565.58        526,320.00
-FINANCIAL FEDERAL CORP.                    0.000 FIF     317492106     31.2500        65,000.00      1,572,195.11      2,031,250.00
-FOREST OIL CORP.                           0.000 FST     346091705     28.2100        49,500.00      1,553,585.35      1,396,395.00
-GARTNER INC-CL A                           0.000 IT      366651107     11.6900       117,400.00      1,168,614.07      1,372,406.00
-GATX CORP                                  3.813 GMT     361448103     32.5200        10,000.00        309,118.61        325,200.00
-GENESCO INC.                               0.000 GCO     371532102     20.7600        53,100.00      1,086,579.34      1,102,356.00
-GOOD GUYS INC.                             0.000 GGUY    382091106      3.9800        21,200.00        132,323.33         84,376.00
-GRANITE CONSTRUCTION INC                   1.328 GVA     387328107     24.0800        31,600.00        624,379.91        760,928.00
-GYMBOREE CORP                              0.000 GYMB    403777105     11.9300        94,100.00        520,686.75      1,122,613.00
-HARRIS CORP.                               0.655 HRS     413875105Q    30.5100        10,500.00        317,088.79        320,355.00
-HELMERICH & PAYNE, INC                     0.898 HP      423452101Q    33.3800        39,200.00      1,552,143.10      1,308,496.00
-HUGHES SUPPLY INC.                         1.101 HUG     444482103     30.8700        26,700.00        491,843.61        824,229.00
-ICU MEDICAL INC.                           0.000 ICUI    44930G107     44.5000        18,300.00        517,006.80        814,350.00
-IDEX CORPORATION                           1.623 IEX     45167R104     34.5000        23,200.00        676,921.89        800,400.00
-INFOCUS CORPORATION                        0.000 INFS    45665B106     22.0200        31,500.00        519,992.53        693,630.00
-INTERGRAPH CORP.                           0.000 INGR    458683109     13.7400         9,300.00        127,529.61        127,782.00
-INVACARE CORP.                             0.148 IVC     461203101     33.7100        24,000.00        764,917.77        809,040.00
-IVEX PACKAGING CORP                        0.000 IXX     465855104     19.0000        88,500.00      1,082,957.59      1,681,500.00
-JACOBS ENGINEERING GROUP                   0.000 JEC     469814107     66.0000        12,200.00        568,120.69        805,200.00
-KEANE INC.                                 0.000 KEA     486665102     18.0300        60,000.00        856,432.75      1,081,800.00
-KENNETH COLE PRODUCTIONS                   0.000 KCP     193294105     17.7000        15,600.00        261,433.02        276,120.00
-KRONOS INC.                                0.000 KRON    501052104     48.3800         9,850.00        201,188.47        476,543.01
-MANOR CARE INC.                            0.000 HCR     564055101     23.7100        85,800.00      1,668,880.76      2,034,318.00
-MARKEL CORP                                0.000 MKL     570535104    179.6500         5,700.00        985,492.38      1,024,005.00
-MAVERICK TUBE CORP                         0.000 MVK     577914104     12.9500        85,000.00      1,574,201.07      1,100,750.00
-MESA AIR GROUP INC                         0.000 MESA    590479101      7.5200         4,700.00         64,204.48         35,344.01
-MICROS SYSTEMS INC.                        0.000 MCRS    594901100     25.1000        55,000.00        976,010.00      1,380,500.00
-MIDWEST EXPRESS HOLDINGS INC               0.000 MEH     597911106     14.6000        21,100.00        396,459.63        308,060.03
-MOOG INC. CL A                             0.000 MOG.A   615394202     21.8000        22,650.00        459,560.23        493,770.00
-MSA INDUSTRIAL DIRECT CO-A                 0.000 MSM     553530106     19.7500        32,000.00        523,794.07        632,000.00
-MUELLER INDUSTRIES INC.                    0.000 MLI     624756102     33.2500        12,000.00        403,842.90        399,000.00
-NATIONAL-OILWELL INC.                      0.000 NOI     637071101     20.6100        21,200.00        722,322.33        436,932.00
-NBTY INC.                                  0.000 NBTY    628782104     11.7000         9,900.00         95,804.09        115,830.00
-NORDSON CORP                               2.120 NDSN    655663102     26.4100        28,000.00        725,503.82        739,480.00
-NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200        45,500.00        752,843.65        910,910.00
-O’CHARLEYS INC                             0.000 CHUX    670823103     18.5100        24,600.00        432,219.28        455,345.98
-ODYSSEY HOLDINGS CORP                      0.565 ORH     67612W108     17.7000        72,000.00      1,256,417.59      1,274,400.00
-OUTBACK STEAKHOUSE INC                     0.000 OSI     689899102     34.2500        35,600.00        983,662.76      1,219,300.00
-PATHMARK STORES INC                        0.000 PTMK    70322A101     24.6600        36,000.00        869,397.14        887,760.00
+MACK-CALI REALTY CORP.                     7.994 CLI     554489104     31.0200        29,300.00        888,451.70        908,886.00
+
+Instrument Total             1                                                        29,300.00        888,451.70        908,886.00
+
+Portfolio Total            115                                                     8,434,875.72     83,271,145.64     92,570,345.29
+

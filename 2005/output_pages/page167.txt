@@ -1,0 +1,27 @@
+ASOF02   Date 01/19/2006 Time 18:24:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 134
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+WHIRLPOOL CORP                             2.053 WHR     963320106Q    83.7600        47,400.00      3,862,857.02      3,970,224.00
+WYETH                                      2.170 WYE     983024100Q    46.0700        44,500.00      2,034,660.15      2,050,115.00
+YUM BRANDS, INC.                           0.981 YUM     988498101     46.8800        45,900.00      2,316,400.65      2,151,792.00
+
+Instrument Total           198                                                    23,510,331.10    664,851,943.84    794,858,054.96
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ARCHSTONE COMMUNITIES                      4.153 ASN     039583109Q    41.8900        19,900.00        817,611.40        833,611.00
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300       164,600.00      4,451,811.29      4,992,318.00
+PROLOGIS TRUST                             3.167 PLD     743410102Q    46.7200       118,900.00      4,856,260.85      5,555,008.01
+
+Instrument Total             3                                                       303,400.00     10,125,683.54     11,380,937.01
+
+Portfolio Total            201                                                    23,813,731.10    674,977,627.38    806,238,991.97
+

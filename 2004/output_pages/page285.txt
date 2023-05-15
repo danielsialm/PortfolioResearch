@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 066
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SMART & FINAL INC                            0.000     831683107   SMF             32,100          357,218.30          461,919.00
+SMITH (A.O.) CORP                            2.137     831865209   AOS             18,900          514,183.78          565,866.00
+SMITH INTERNATIONAL INC                      0.000     832110100   SII            200,600        9,451,419.90       10,914,646.00
+SMITHFIELD FOODS INC                         0.000     832248108   SFD            183,997        4,831,714.33        5,444,471.23
+SMITHTOWN BANCORP INC                        0.629     832449102   SMTB            13,800          510,594.08          438,150.00
+SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC           264,400        4,214,312.74        4,938,992.00
+SNAP-ON TOOLS CORP.                          2.910     833034101 Q SNA            105,600        3,077,017.89        3,628,416.00
+SOHU.COM INC                                 0.000     83408W103   SOHU            11,300          273,501.99          200,123.00
+SOLA INTERNATIONAL INC                       0.000     834092108   SOL             35,500          706,508.51          977,670.00
+SOLECTRON CORP                               0.000     834182107   SLR          1,357,700       18,427,118.34        7,236,541.00
+SONIC AUTOMOTIVE INC.                        1.935     83545G102   SAH             40,700          930,085.78        1,009,360.00
+SONIC CORP                                   0.000     835451105   SONC            65,965          881,088.94        2,011,932.50
+SONIC INNOVATIONS IN                         0.000     83545M109   SNCI            62,600          285,988.98          261,042.00
+SONIC SOLUTIONS                              0.000     835460106   SNIC            78,180          668,962.23        1,754,359.20
+SONICWALL INC                                0.000     835470105   SNWL           238,075        1,513,889.65        1,504,634.00
+SONOCO PRODUCTS CO                           2.968     835495102   SON            175,600        4,445,379.78        5,206,540.00
+SONOSIGHT INC.                               0.000     83568G104   SONO            16,400          351,402.45          556,780.00
+SOTHEBY'S HOLDINGS CL-A                      0.000     835898107   BID             83,900        1,167,428.73        1,523,624.00
+SOURCE CORP                                  0.000     836167106   SRCPE           41,200        1,037,409.96          787,332.00
+SOURCE INTERLINK COS INC                     0.000     836151209   SORC            58,600          587,734.18          778,208.00
+SOUTH FINANCIAL GROUP, INC                   1.967     837841105   TSFG           147,475        4,259,411.60        4,797,361.75
+SOUTH JERSEY INDS IN                         3.234     838518108   SJI             15,300          596,711.00          804,168.00
+SOUTHCOAST FINANCIAL CORP                    0.000     84129R100   SOCB            42,420          941,047.31        1,100,120.28
+SOUTHERN CO                                  4.266     842587107 Q SO             649,400       14,411,801.68       21,767,888.00
+SOUTHERN ENERGY HOMES INC                    0.000     842814105   SEHI           226,700          306,824.50        1,067,757.00
+SOUTHERN PERU COPPER CORP                    6.985     843611104   PCU            174,392        7,555,253.03        8,233,046.32
+SOUTHERN UNION COMPANY                       0.000     844030106   SUG            100,793        1,634,019.51        2,417,016.14
+SOUTHSIDE BANCSHARES INC                     1.750     84470P109   SBSI            10,395          200,373.56          237,525.75
+SOUTHWEST AIRLINES                           0.110     844741108 Q LUV          1,766,783       26,372,398.26       28,763,227.24
+SOUTHWEST BANCORP IN                         1.143     844767103   OKSB            13,300          233,825.58          325,584.00
+SOUTHWEST BANCORP OF TEXAS                   0.515     84476R109   SWBT            84,354        1,461,555.51        1,964,604.66
+SOUTHWEST GAS CORP                           3.228     844895102 Q SWX             39,350          881,799.48          999,490.00
+SOUTHWESTERN ENERGY COMPANY                  0.000     845467109   SWN             49,765        1,283,474.12        2,522,587.85
+SOVEREIGN BANCORP INC                        0.532     845905108   SOV            430,302        6,846,016.55        9,703,310.09
+SPANISH BROADCASTING SYSTEM                  0.000     846425882   SBSA            17,500          156,790.74          184,800.00
+SPARTECH CORP                                1.771     847220209   SEH             18,900          451,114.44          512,001.00
+SPATIALIGHT INC                              0.000     847248101   HDTV            51,800          241,533.10          463,610.00
+SPECIALTY LABORATORIES                       0.000     84749R100   SP               8,900           96,622.96           98,256.00
+SPECTRASITE INC                              0.000     84761M104   SSI             47,000        2,107,804.28        2,721,300.00
+SPEEDWAY MOTORSPORTS                         0.791     847788106   TRK             16,400          445,041.99          642,552.00

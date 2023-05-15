@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 189
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6NC       NEXT CENTURY - 2000
+Instrument - COM       COMMON STOCK
+
+02MICRO INTERNATIONAL LTD                  0.000 OIIM    G6797E106     22.4000        28,655.00        438,436.81        641,872.00
+ADVANCED NEUROMODULATION SYSTE             0.000 ANSI    00757T101     45.9800        23,047.50        280,861.27      1,059,724.05
+ALTIRIS INC                                0.000 ATRS    02148M100     36.4800        29,920.00        588,912.70      1,091,481.61
+AMERICAN HEALTHWAYS                        0.000 AMHC    02649V104     23.8700        51,190.00      1,123,777.99      1,221,905.30
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     33.6000        41,790.00        733,901.04      1,404,144.00
+AMSURG CORP                                0.000 AMSG    03232P405     37.8900        20,270.00        649,676.06        768,030.30
+ASV INC                                    0.000 ASVI    001963107     37.3600         6,890.00        223,553.93        257,410.40
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     49.0000         9,665.00        495,407.13        473,585.00
+CALLIDUS SOFTWARE INC                      0.000 CALD    13123E500     17.6900        12,195.00        224,430.61        215,729.55
+CERNER CORP.                               0.000 CERN    156782104     37.8500        11,605.00        472,834.71        439,249.25
+CHICAGO PIZZA & BREWERY INC                0.000 CHGO    167889104     14.9200        58,300.00        429,478.29        869,836.00
+CIPHERGEN BIOSYSTEMS                       0.000 CIPH    17252Y104     11.2400        76,885.00        831,012.34        864,187.40
+COGNEX CORP.                               0.849 CGNX    192422103     28.2400        27,220.00        770,322.85        768,692.80
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     55.5600        28,710.00        763,683.98      1,595,127.60
+CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     46.6700        10,405.00        328,519.18        485,601.35
+CREE INC                                   0.000 CREE    225447101     17.6900        76,315.00      1,321,336.14      1,350,012.35
+CYBERONICS INC                             0.000 CYBX    23251P102     32.0100        15,830.00        288,790.97        506,718.29
+ERESEARCH TECHNOLOGY                       0.000 ERES    29481V108     25.4200        58,470.00        822,062.77      1,486,307.41
+EVERGREEN RESOURCES INC                    0.000 EVG     299900308     32.5100        28,620.00        723,788.85        930,436.20
+FRED'S INC                                 0.258 FRED    356108100     30.9800        20,160.00        283,386.78        624,556.80
+HARRIS INTERACTIVE INC                     0.000 HPOL    414549105      8.3000        78,520.00        379,004.46        651,716.00
+HEARTLAND EXPRESS INC.                     0.330 HTLD    422347104     24.1900        20,930.00        471,201.72        506,296.70
+HOT TOPIC INC                              0.000 HOTT    441339108     29.4600        41,587.00        599,686.07      1,225,153.02
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     27.0100        44,160.00        646,643.53      1,192,761.60
+IDC SYSTEMS CORP                           0.000 IDXC    449491109     26.8200        20,020.00        487,932.62        536,936.40
+INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     28.4900        31,690.00        713,654.46        902,848.10
+INTEGRATED SILICON SOLUTION                0.000 ISSI    45812P107     15.6700        31,295.00        501,826.80        490,392.65
+INVESTORS FINANCIAL SERVICES C             0.156 IFIN    461915100     38.4100        33,650.00      1,006,598.30      1,292,496.50
+IPASS INC                                  0.000 IPAS    46261V108     16.0300        23,695.00        441,763.15        379,830.85
+IPAYMENT INC                               0.000 IPMT    46262E105     34.0000        18,325.00        388,750.57        623,049.99
+KNIGHT TRANSPORTATION INC                  0.000 KNGT    499064103     25.6500        36,580.00        713,838.81        938,277.00
+KYPHON INC                                 0.000 KYPH    501577100     24.8300        58,595.00        712,555.80      1,454,913.84
+LCA-VISION INC.                            0.000 LCAV    501803308     21.1700        28,880.00        493,088.13        611,389.60
+LEXAR MEDIA INC                            0.000 LEXR    52886P104     17.4300        72,885.00        666,334.60      1,270,385.55
+MAGMA DESIGN AUTOMATION                    0.000 LAVA    559181102     23.3400        48,345.00        908,200.28      1,128,372.30
+NETFLIX.COM INC                            0.000 NFLX    64110L106     54.6900        25,345.00        551,715.57      1,386,118.05
+NETSCREEN TECHNOLOGIES INC                 0.000 NSCN    64117V107     24.7500        38,090.00        680,053.51        942,727.49
+ODYSSEY HEALTHCARE INC                     0.000 ODSY    67611V101     29.2600        56,852.50        742,769.09      1,663,504.15
+OMNIVISION TECHNOLOGIES INC                0.000 OVTI    682128103     55.2500        24,490.00        409,352.31      1,353,072.51

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 028
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - COM       COMMON STOCK
+
+ETHAN ALLEN INTERIORS INC.                 0.955 ETH     297602104     41.8800        54,900.00      1,594,352.88      2,299,211.99
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     24.9700        93,000.00      1,839,153.53      2,322,210.01
+FEDERATED DEPARTMENT STORES                1.060 FD      31410H101     47.1300       355,200.00     14,657,305.48     16,740,576.02
+FIDELITY NATIONAL FINL INC                 1.856 FNF     316326107     38.7800       267,900.00      5,679,424.60     10,389,162.00
+FIRST AMERICAN CORP.                       2.015 FAF     318522307     29.7700       177,600.00      5,013,461.22      5,287,152.00
+FIRST BANCORP PR                           1.112 FBP     318672102     39.5500        23,000.00        498,502.45        909,649.99
+FIRST MIDWEST BANCORP INC.                 2.715 FMBI    320867104     32.4100        78,400.00      1,963,504.74      2,540,943.99
+FIRST TENNESSEE NATL CORP                  3.628 FTN     337162101     44.1000       200,000.00      7,401,152.51      8,820,000.01
+FIRSTMERIT CORPORATION                     3.856 FMER    337915102     26.9700       129,800.00      2,503,648.37      3,500,706.00
+FLORIDA ROCK INDS                          1.823 FRK     341140101S    54.8500        27,400.00        724,280.39      1,502,890.00
+FLUOR CORP (NEW)                           1.614 FLR     343412102     39.6400       183,300.00      6,410,974.43      7,266,012.01
+FNB CORP                                   2.708 FNB     302520101     35.4500        77,700.00      2,377,271.08      2,754,465.00
+FOOT LOCKER INC                            1.023 FL      344849104     23.4500       341,600.00      6,130,222.38      8,010,520.00
+FORTUNE BRANDS INC.                        1.678 FO      349631101Q    71.4900       244,600.00      8,393,137.48     17,486,454.00
+FRANKLIN RESOURCES INC                     0.653 BEN     354613101Q    52.0600       276,400.00     10,014,714.98     14,389,384.01
+FRIEDMAN BILLINGS RAMSEY -A                5.892 FBR     358434108     23.0800         3,700.00         79,106.00         85,396.00
+FULTON FINANCIAL CORP                      2.921 FULT    360271100     21.9100       177,700.00      3,632,668.34      3,893,407.00
+FURNITURE BRANDS INTERNATIONAL             1.704 FBN     360921100     29.3300        77,700.00      1,636,144.69      2,278,941.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMST    36866W106      5.0500       311,900.00      2,013,032.78      1,575,095.01
+GENUINE PARTS CO                           3.554 GPC     372460105Q    33.2000       292,600.00      9,438,216.89      9,714,320.00
+GEORGIA PACIFIC                            1.630 GP      373298108Q    30.6700       496,500.00     11,349,958.99     15,227,655.00
+GLOBAL PAYMENTS INC-W/I                    0.339 GPN     37940X102     47.1200         2,600.00         64,242.98        122,512.02
+GOODRICH CORP.                             2.694 GR      382388106Q    29.6900       100,200.00      2,385,917.87      2,974,938.00
+GRAINGER W W INC                           1.561 GWW     384802104Q    47.3900       128,000.00      5,460,386.15      6,065,919.99
+GREAT PLAINS ENERGY INC                    5.216 GXP     391164100     31.8200       116,400.00      3,403,515.13      3,703,847.99
+GREENPOINT FINANCIAL                       2.718 GPT     395384100     35.3200       199,700.00      4,520,593.57      7,053,404.00
+GTECH HOLDINGS CORP                        1.374 GTK     400518106     49.4900        10,800.00        509,910.66        534,492.00
+HARRAH'S ENTERTAINMENT INC.                2.411 HET     413619107     49.7700        69,000.00      2,354,905.89      3,434,129.99
+HARRIS CORP.                               1.054 HRS     413875105Q    37.9500       129,600.00      4,264,660.11      4,918,320.00
+HARSCO CORP                                2.510 HSC     415864107Q    43.8200        68,300.00      1,723,401.18      2,992,906.00
+HARTE-HANKS INC.                           0.551 HHS     416196103     21.7500        12,200.00        206,937.88        265,350.01
+HASBRO BRADLEY                             0.563 HAS     418056107Q    21.2800       322,600.00      6,375,570.89      6,864,927.99
+HAWAIIAN ELECTRIC INDS                     5.235 HE      419870100     47.3700        62,500.00      2,747,369.47      2,960,624.99
+HCC INSURANCE HOLDINGS INC.                0.943 HCC     404132102     31.8000        63,300.00      1,570,711.06      2,012,940.02
+HEALTH NET                                 0.000 HNT     42222G108     32.7000       114,000.00      3,659,401.51      3,727,800.00
+HEALTHEON/WEB CORP                         0.000 HLTH    94769M105      8.9900        74,000.00        630,441.33        665,260.00
+HEARST-ARGYLE TELEVI                       0.870 HTV     422317107     27.5600        51,100.00      1,252,115.45      1,408,316.00
+HERSHEY FOODS CORP.                        2.052 HSY     427866108Q    76.9900        66,200.00      4,096,355.03      5,096,738.02
+HIBERNIA CORP CL-A                         3.062 HIB     428656102     23.5100       264,200.00      3,428,116.92      6,211,342.00

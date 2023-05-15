@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 150
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     41.2600        38,290.00      1,221,062.99      1,579,845.40
+ELIZABETH ARDEN INC                        0.000 RDEN    28660G106     23.7400        13,335.00        308,104.47        316,572.90
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     20.2700        26,005.00        436,285.49        527,121.35
+ESCO TECHNOLOGIES INC                      0.000 ESE     296315104     76.6500        11,460.00        580,028.53        878,409.00
+EXCEL TECHNOLOGY INC                       0.000 XLTC    30067T103     26.0000        13,131.00        402,144.54        341,406.00
+EXPONENT INC                               0.000 EXPO    30214U102     27.4900        18,744.00        462,541.98        515,272.56
+FLORIDA ROCK INDS                          1.343 FRK     341140101S    59.5300         7,041.00        295,260.74        419,150.73
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     32.2000        45,610.00      1,198,230.20      1,468,642.00
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     44.7000        23,050.00        697,600.58      1,030,335.00
+GAYLORD ENTMT CO                           0.000 GET     367905106     41.5300        33,560.00        929,616.59      1,393,746.80
+GEN-PROBE INC                              0.000 GPRO    36866T103     45.2100         7,800.00        350,258.21        352,638.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     68.8500         5,955.00        265,572.06        410,001.75
+GILDAN ACTIVEWEAR INC - CL A               0.000 GIL     375916103     33.9900        10,710.00        321,260.17        364,032.90
+GLOBAL PAYMENTS INC                        0.273 GPN     37940X102     58.5400         6,120.00        265,977.86        358,264.80
+GRAY TELEVISION INC                        0.774 GTN     389375106     15.5000        92,295.00      1,157,483.65      1,430,572.50
+GTECH HOLDINGS CORP                        1.310 GTK     400518106     25.9500        47,180.00      1,064,435.64      1,224,321.00
+HARBOR FLA BANCSHARE                       2.311 HARB    411901101     34.6100        19,460.00        566,082.26        673,510.60
+HARRIS INTERACTIVE INC                     0.000 HPOL    414549105      7.9000        61,960.00        448,961.14        489,484.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     46.6200        16,085.00        648,189.38        749,882.70
+IDEX CORPORATION                           1.185 IEX     45167R104     40.5000         9,542.00        260,772.70        386,451.00
+INAMED CORP                                0.000 IMDC    453235103     63.2500        19,042.00        919,234.62      1,204,406.50
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     21.7400        43,130.00        732,920.51        937,646.20
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     20.0000        36,725.00        700,984.94        734,500.00
+INVITROGEN CORP                            0.000 IVGN    46185R100     67.1300         5,520.00        328,803.15        370,557.60
+IPC HOLDINGS LTD                           2.022 IPCR    G4933P101     43.5100         8,025.00        312,347.77        349,167.75
+JM SMUCKER CO                              2.124 SJM     832696405     47.0700        14,380.00        618,609.44        676,866.60
+KERZNER INTERNATIONAL LTD                  0.000 KZL     P6065Y107     60.0500        15,800.00        612,300.07        948,790.00
+KRONOS INC.                                0.000 KRON    501052104     51.1300        19,680.00        720,792.10      1,006,238.40
+LANDSTAR SYSTEM INC.                       0.000 LSTR    515098101     73.6400        11,470.00        400,730.03        844,650.80
+LEUCADIA NATIONAL CORP                     0.359 LUK     527288104     69.4800         5,535.00        213,707.48        384,571.80
+LIFELINE SYS INC                           0.000 LIFE    532192101     25.7600        15,220.00        429,070.75        392,067.20
+LIONS GATE ENTERTAINMENT CORP              0.000 LGF     535919203     10.6200        65,955.00        353,076.69        700,442.10
+LITTELFUSE INC                             0.000 LFUS    537008104     34.1600        15,200.00        511,523.11        519,232.00
+MACDERMID INC.                             0.443 MRD     554273102     36.1000        18,765.00        667,260.49        677,416.50
+MCMORAN EXPLORATION CO                     0.000 MMR     582411104     18.7000        11,355.00        216,045.76        212,338.50
+MERIDIAN BIOSCIENCE INC                    2.760 VIVO    589584101     17.3900        45,360.00        473,872.74        788,810.40
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     78.0600         5,655.00        223,029.71        441,429.30
+MPS GROUP INC                              0.000 MPS     553409103     12.2600        61,610.00        671,007.98        755,338.60
+NEENAH PAPER INC                           0.000 NP      640079109     32.6000        26,845.00        906,875.09        875,147.00

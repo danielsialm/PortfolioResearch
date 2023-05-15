@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 075
+ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 077
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-BOWNE & CO INC.                            1.718 BNE     103043105     12.8000        32,300.00        574,889.18        413,440.00
-BRADY CORPORATION                          2.076 BRC     104674106     36.6000        22,100.00        543,775.14        808,860.00
-BRIGGS & STRATTON                          2.904 BGG     109043109Q    42.7000        19,492.00        809,838.79        832,308.39
-BRIGHTPOINT INC.                           0.000 CELL    109473108      3.1400        40,000.00        133,400.00        125,600.00
-BROOKS AUTOMATION INC                      0.000 BRKS    11434A100     40.6700        16,500.00        624,130.65        671,055.00
-BROOKTROUT INC                             0.000 BRKT    114580103      6.5000        44,700.00        350,908.57        290,550.00
-BROWN SHOE COMPANY INC                     2.463 BWS     115736100Q    16.2400        21,600.00        374,155.89        350,784.00
-BRUSH ENGINEERED MATERIALS                 3.370 BW      117421107     14.2400        16,000.00        233,734.03        227,840.00
-BUCKEYE TECHNOLOGIES INC.                  0.000 BKI     118255108     11.5000        35,200.00        667,899.63        404,800.00
-BUILDING MATERIALS HLDG. CORP.             0.000 BMHC    120113105     10.8500        10,900.00        113,981.44        118,265.00
-BURLINGTON COAT FACTORY WAREHO             0.119 BCF     121579106     16.8000        46,200.00        713,610.34        776,160.00
-BUTLER MANUFACTURING CO.                   2.599 BBR     123655102     27.7000         8,800.00        285,277.30        243,760.00
-C-COR ELECTRONICS                          0.000 CCBL    125010108     14.5700        31,400.00        941,939.68        457,498.00
-C&D TECHNOLOGIES INC.                      0.262 CHP     124661109     22.8500        27,000.00        760,539.39        616,950.00
-CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109     13.6800        42,800.00        718,927.96        585,504.00
-CABOT OIL & GAS CORP.                      0.665 COG     127097103Q    24.0500        31,100.00        598,248.69        747,955.00
-CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850        25,400.00        315,692.22      1,002,919.00
-CAL DIVE INTERNATIONAL INC                 0.000 CDIS    127914109     24.6800        30,600.00        571,564.70        755,208.00
-CAMBREX CORP.                              0.275 CBM     132011107     43.6000        25,200.00        549,315.31      1,098,720.00
-CARAUSTAR INDUSTRIES INC.                  1.731 CSAR    140909102      6.9300         1,600.00         49,079.55         11,088.00
-CARBO CERAMICS, INC.                       0.919 CRR     140781105     39.1600        14,800.00        460,334.02        579,568.00
-CARREKER CORPORATION                       0.000 CANI    144433109      5.9000        18,800.00        722,888.20        110,920.00
-CASCADE NATURAL GAS CORP.                  4.353 CGC     147339105     22.0500        10,900.00        176,397.70        240,345.00
-CASEY’S GENERAL STORES INC.                0.536 CASY    147528103     14.9000        47,500.00        584,411.37        707,750.00
-CASH AMERICAN INT’L. INC.                  0.588 PWN     14754D100      8.5000        24,400.00        269,808.34        207,400.00
-CASTLE (A.M.) & CO.                        2.926 CAS     148411101      8.2000         7,900.00        176,558.58         64,780.00
-CATAPULT COMMUNICATIONS CORP               0.000 CATT    149016107     26.0600        32,600.00        873,077.02        849,556.00
-CATO CORP CL A                             2.857 CACOA   149205106     18.9000        27,100.00        330,814.08        512,190.00
-CDI CORP.                                  0.000 CDI     125071100     19.0000        18,600.00        653,172.33        353,400.00
-CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     43.3900        28,200.00        476,604.00      1,223,598.00
-CENTRAL HUDSON GAS & ELEC.                 4.968 CHG     12541M102     43.4700        16,100.00        592,884.57        699,867.00
-CENTRAL PARKING CORP.                      0.305 CPC     154785109     19.6400        35,200.00      1,250,711.05        691,328.00
-CENTRAL VERMONT PUB SERV                   5.269 CV      155771108     16.7000        11,400.00        184,060.51        190,380.00
-CENTURY ALUMINUM COMPANY                   1.497 CENX    156431108     13.3600        20,500.00        384,785.00        273,880.00
-CEPHALON INC                               0.000 CEPH    156708109     75.5850        49,200.00      2,096,462.82      3,718,782.00
-CERNER CORP.                               0.000 CERN    156782104     49.9300        33,300.00        748,688.39      1,662,669.00
-CHAMPION ENTERPRISES INC.                  0.000 CHB     158496109     12.3100        46,200.00        246,906.66        568,722.00
-CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     13.4000        28,900.00        432,110.86        387,260.00
-CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     34.7700        48,750.00        457,462.60      1,695,037.50
+DELTA & PINE LAND CO.                      0.883 DLP     247357106     22.6300        40,600.00      1,196,166.89        918,778.00
+DELTIC TIMBER CORP                         0.912 DEL     247850100     27.4000        12,500.00        269,004.48        342,500.00
+DENDRITE INTERNATIONAL INC.                0.000 DRTE    248239105     14.0300        37,900.00        641,075.70        531,737.00
+DIAGNOSTIC PRODUCTS CORP                   0.546 DP      252450101     43.9500        29,000.00        351,968.83      1,274,550.00
+DIGI INTERNATIONAL INC                     0.000 DGII    253798102      6.3700        49,700.00        389,257.44        316,589.00
+DIME COMMUNITY BANCSHARES                  2.138 DCOM    253922108     28.0600        19,200.00        519,040.00        538,752.00
+DIMON INC.                                 2.777 DMN     254394109      7.2000        70,800.00        498,173.20        509,760.00
+DIONEX CORP.                               0.000 DNEX    254546104     25.5100        21,500.00        588,489.99        548,465.00
+DMC STRATEX NETWORKS, INC.                 0.000 STXN    23322L106      7.7800        71,900.00      1,030,742.87        559,382.00
+DOWNEY FINANCIAL CORP.                     0.872 DSL     261018105     41.2500        27,600.00        678,027.80      1,138,500.00
+DRESS BARN INC.                            0.000 DBRN    261570105     25.0100        17,100.00        354,122.07        427,671.00
+DRIL-QUIP INC                              0.000 DRQ     262037104     24.1000        15,700.00        574,505.44        378,370.00
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     43.4500        15,500.00        824,207.85        673,475.00
+EAST WEST BANCORP INC.                     0.466 EWBC    27579R104     25.7500        26,600.00        551,218.01        684,950.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     14.5000        50,600.00        738,254.00        733,700.00
+ELANTEC SEMICONDUCTOR INC                  0.000 ELNT    284155108     38.4000        21,600.00        572,702.41        829,440.00
+ELCOR CORPORATION                          0.719 ELK     284443108     27.7900        18,300.00        631,099.29        508,557.00
+ELECTRO SCIENTIFIC INDS INC.               0.000 ESIO    285229100     30.0100        27,600.00        611,014.70        828,276.00
+ELECTROGLAS INC.                           0.000 EGLS    285324109     14.7700        19,200.00        614,426.91        283,584.00
+EMCOR GROUP INC                            0.000 EME     29084Q100     45.4000        14,600.00        587,066.00        662,840.00
+ENERGEN CORP.                              2.839 EGN     29265N108     24.6500        30,500.00        547,431.44        751,825.00
+ENESCO GROUP INC.                          0.000 ENC     292973104Q     6.3000        13,600.00         87,186.45         85,679.99
+ENZO BIOCHEM INC.                          0.000 ENZ     294100102     23.5000        28,200.00        417,830.39        662,700.00
+EPRESENCE INC.                             0.000 EPRE    294348107      4.1900        72,400.00        498,586.25        303,356.00
+ESS TECHNOLOGY                             0.000 ESST    269151106     21.2600        46,700.00        616,669.01        992,842.00
+ESTERLINE TECHNOLOGIES CORP                0.000 ESL     297425100     16.0100        19,900.00        413,238.59        318,599.00
+ETHAN ALLEN INTERIORS INC.                 0.384 ETH     297602104     41.5900        37,900.00        920,904.78      1,576,261.00
+EVERGREEN RESOURCES INC                    0.000 EVG     299900308     38.6100        18,200.00        659,587.11        702,702.00
+EXAR CORP                                  0.000 EXAR    300645108     20.8500        38,300.00        791,278.00        798,555.00
+F.Y.I. INCORPORATED                        0.000 FYII    302712104     33.5000        14,500.00        452,244.04        485,750.00
+FACTORY 2-U STORES INC                     0.000 FTUS    303072102     20.0400        12,300.00        491,671.02        246,492.00
+FACTSET RESEARCH SYSTEMS INC.              0.457 FDS     303075105     34.9500        32,500.00        787,748.17      1,135,875.00
+FAIR ISAAC & COMPANY INC.                  0.126 FIC     303250104     63.0200        22,500.00        603,312.34      1,417,950.00
+FILENET CORP                               0.000 FILE    316869106     20.2900        34,000.00        738,392.88        689,860.00
+FINANCIAL FEDERAL CORP.                    0.000 FIF     317492106     31.2500        16,300.00        472,374.00        509,375.00
+FIRST AMERICAN CORP.                       1.494 FAF     318522307     18.7400        69,500.00        906,808.47      1,302,430.00
+FIRST BANCORP PR                           1.824 FBP     318672102     28.5000        44,500.00      1,230,500.50      1,268,250.00
+FIRST MIDWEST BANCORP INC.                 2.329 FMBI    320867104     29.1900        50,750.00      1,077,320.57      1,481,392.50
+FIRST REPUBLIC BANK                        0.000 FRC     336158100     24.1500        13,400.00        329,584.00        323,610.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 140
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+DIEBOLD INC                                2.157 DBD     253651103     38.0000         2,100.00         94,886.68         79,800.00
+DISCOVERY HOLDING CO-A                     0.000 DISCA   25468Y107     15.1500        30,620.00        452,315.89        463,893.00
+DISNEY (WALT) CO.                          1.126 DIS     254687106Q    23.9700        21,800.00        571,086.67        522,546.00
+DOMINION RESOURCES INC-VA                  3.471 D       25746U109Q    77.2000         8,500.00        587,097.76        656,200.00
+DONNELLEY (R.R.) & SONS CO.                3.040 RRD     257867101Q    34.2100           300.00          9,333.82         10,263.00
+DOW CHEMICAL CO                            3.058 DOW     260543103Q    43.8200         2,900.00        117,406.30        127,078.00
+DPL INC                                    3.690 DPL     233293109Q    26.0100        13,500.00        297,398.99        351,135.00
+DST SYSTEMS INC                            0.000 DST     233326107     59.9100         1,900.00         86,712.74        113,829.00
+DTE ENERGY COMPANY                         4.769 DTE     233331107Q    43.1900        13,100.00        583,760.58        565,789.00
+DUKE ENERGY CORPORATION                    4.517 DUK     264399106Q    27.4500         7,300.00        161,051.58        200,385.00
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     66.9600           600.00         31,728.19         40,176.00
+E I DUPONT DE NEM.                         3.482 DD      263534109Q    42.5000        21,500.00      1,070,241.05        913,750.00
+EASTMAN CHEMICAL CO.                       3.411 EMN     277432100Q    51.5900        10,900.00        488,972.16        562,331.00
+EASTMAN KODAK                              2.136 EK      277461109Q    23.4000         4,500.00        129,983.07        105,300.00
+EATON CORP.                                1.848 ETN     278058102Q    67.0900           900.00         41,931.36         60,381.00
+EATON VANCE CORP.                          1.462 EV      278265103     27.3600         6,100.00        146,202.98        166,896.00
+ECHOSTAR COMMUNICATIONS - A                0.000 DISH    278762109     27.1700           900.00         30,997.31         24,453.00
+ECOLAB INC                                 1.102 ECL     278865100Q    36.2700        15,700.00        449,521.88        569,439.00
+EDISON INTERNATIONAL                       2.476 EIX     281020107Q    43.6100        13,700.00        285,789.82        597,457.00
+EDWARDS (A.G.) INC                         1.707 AGE     281760108     46.8600         8,600.00        356,467.08        402,996.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     41.6100        13,700.00        548,251.78        570,057.00
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     52.3100         2,100.00        103,889.57        109,851.00
+ELI LILLY & COMPANY                        2.827 LLY     532457108Q    56.5900        18,400.00        961,903.05      1,041,256.00
+EMC CORP                                   0.000 EMC     268648102     13.6200        17,500.00        234,444.82        238,350.00
+EMERSON ELECTRIC CO                        2.382 EMR     291011104Q    74.7000         2,000.00        100,368.17        149,400.00
+ENDO PHARMACEUTICALS                       0.000 ENDP    29264F205     30.2600         7,600.00        214,228.34        229,976.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     49.7900        10,800.00        603,764.65        537,732.00
+ENERGY EAST CORP.                          5.087 EAS     29266M109     22.8000         9,600.00        251,549.78        218,880.00
+ENTERGY CORP.                              3.146 ETR     29364G103Q    68.6500         3,800.00        215,938.56        260,870.00
+EOG RESOURCES INC                          0.218 EOG     26875P101     73.3700        12,900.00        544,751.93        946,473.00
+EQUIFAX INC                                0.420 EFX     294429105     38.0200        22,300.00        749,609.46        847,846.00
+EQUITABLE RESOURCES INC                    2.289 EQT     294549100     36.6900        15,000.00        339,441.21        550,350.00
+ERIE INDTY CO                              2.706 ERIE    29530P102     53.2000         1,900.00         94,311.99        101,080.00
+EXELON CORP                                3.010 EXC     30161N101Q    53.1400        12,400.00        428,548.59        658,936.00
+EXPEDIA INC                                0.000 EXPE    30212P105     23.9600        14,600.00        311,396.18        349,816.00
+EXPEDITORS INT'L. WASH INC.                0.444 EXPD    302130109     67.5100           300.00         15,867.34         20,253.00
+EXPRESS SCRIPTS                            0.000 ESRX    302182100     83.8000        10,000.00        710,860.92        838,000.00
+EXXON MOBIL CORPORATION                    2.065 XOM     30231G102Q    56.1700       131,200.00      4,976,556.05      7,369,504.00
+F5 NETWORKS INC                            0.000 FFIV    315616102     57.1900           100.00          4,167.93          5,719.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 012
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+APOLLO GROUP INC                             0.000     037604105   APOL           126,600        3,800,667.39       10,217,886.00
+APOLLO INVESTMENT CORP                       4.768     03761U106   AINV            53,100          726,497.08          801,810.00
+APPLE COMPUTER INC.                          0.000     037833100   AAPL           725,898       22,346,498.73       46,747,831.20
+APPLEBEES INT'L. INC.                        0.226     037899101   APPB           322,050        6,973,902.28        8,518,222.50
+APPLERA CORP - APPLIED BIOSYSTEM             0.813     038020103 Q ABI            396,700        9,018,299.11        8,294,997.00
+APPLICA                                      0.000     03815A106   APN             92,000          582,849.19          556,600.00
+APPLIED FILMS CORP                           0.000     038197109   AFCO             3,764           95,813.38           81,151.84
+APPLIED INDUSTRIAL TECH INC.                 1.751     03820C105   AIT             28,500          444,069.35          780,900.00
+APPLIED MATERIALS INC.                       0.000     038222105   AMAT         4,766,100       94,408,397.96       81,500,310.00
+APPLIED MICRO CIRCUITS CORP                  0.000     03822W109   AMCC         1,189,300        4,687,811.54        5,006,953.00
+APPLIED SIGNAL TECHNOLOGY INC                1.418     038237103   APSG            10,905          253,203.87          384,401.25
+APRIA HEALTHCARE GP. INC.                    0.000     037933108   AHG            108,700        2,876,281.03        3,581,665.00
+APTAR GROUP INC.                             1.136     038336103 Q ATR             53,300        1,748,218.55        2,813,174.00
+AQUA AMERICA INC                             2.114     03836W103   WTR             27,775          537,966.49          682,987.25
+AQUANTIVE INC                                0.000     03839G105   AQNT            52,700          562,123.11          471,138.00
+AQUILA INC                                  18.970     03840P102   ILA            374,000        3,262,971.71        1,380,060.00
+ARAMARK CORP. - CL B                         0.829     038521100   RMK            148,300        3,626,064.47        3,931,433.00
+ARBITRON INC                                 0.000     03875Q108   ARB             28,200          909,760.28        1,104,876.00
+ARCH CHEMICALS INC.                          2.779     03937R102   ARJ             25,900          535,323.72          745,402.00
+ARCH COAL INC.                               0.900     039380100 Q ACI            129,200        4,179,439.82        4,591,768.00
+ARCHER DANIELS MIDLAND CO                    1.344     039483102 Q ADM          1,350,400       18,869,040.21       30,127,424.00
+ARCHIPELAGO HOLDINGS INC                     0.000     03957A104   AX              11,800          170,446.28          247,564.00
+ARCTIC CAT INC.                              1.055     039670104   ACAT            22,720          479,404.19          602,534.40
+ARDEN GROUP INC                              0.995     039762109   ARDNA            4,100          326,108.00          411,945.45
+ARENA PHARMACEUTICALS INC                    0.000     040047102   ARNA            18,500          100,582.65          123,765.00
+ARES CAPITAL CORP                            0.000     04010L103   ARCC            12,300          228,719.73          238,989.00
+ARGONAUT GROUP INC                           0.000     040157109   AGII            86,950        1,386,556.91        1,837,253.50
+ARGOSY GAMING COMPANY                        0.000     040228108   AGY             29,000          833,409.57        1,354,300.00
+ARIAD PHARMACEUTICAL                         0.000     04033A100   ARIA            25,600          172,328.44          190,208.00
+ARIBA INC                                    0.000     04033V203   ARBA           156,241        2,475,260.21        2,593,600.60
+ARKANSAS BEST CORP                           1.069     040790107   ABFS            41,975        1,158,884.90        1,884,257.75
+ARMOR HOLDINGS INC                           0.000     042260109   AH              26,200          588,834.66        1,231,924.00
+ARQULE INC                                   0.000     04269E107   ARQL            11,600           63,964.72           67,164.00
+ARRAY BIOPHARMA INC                          0.000     04269X105   ARRY            54,400          446,309.42          517,888.00
+ARRIS GROUP INC.                             0.000     04269Q100   ARRS           222,671        1,303,911.17        1,567,603.84
+ARROW ELECTRONICS                            0.000     042735100   ARW             87,560        1,950,506.42        2,127,708.00
+ARROW FINL CORP                              2.967     042744102   AROW             9,659          262,008.78          299,429.00
+ARROW INTL INC                               1.161     042764100   ARRO            28,303          720,424.45          877,109.97
+ARTESYN TECHNOLOGIES                         0.000     043127109   ATSN            38,245          272,081.69          432,168.50
+ARTHROCARE CORP                              0.000     043136100   ARTC            15,900          429,808.17          509,754.00

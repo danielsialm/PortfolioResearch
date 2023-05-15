@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 175
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6MA       M.A. WEATHERBIE - 20
+Instrument - COM       COMMON STOCK
+
+ADEZA BIOMEDICAL CORP                      0.000 ADZA    006864102     21.0500        65,047.00      1,124,104.80      1,369,239.35
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     80.2500        65,140.00      3,291,006.13      5,227,485.00
+AKAMAI TECHNOLOGIES                        0.000 AKAM    00971T101     19.9300        69,380.00      1,024,168.03      1,382,743.40
+AMERICAN REPROGRAPHICS CO                  0.000 ARP     029263100     25.4100       121,357.00      1,906,868.97      3,083,681.37
+ATWOOD OCEANICS                            0.000 ATW     050095108     78.0300        10,149.00        783,448.47        791,926.47
+AVOCENT CORPORATION                        0.000 AVCT    053893103     27.1900        44,248.00      1,422,207.52      1,203,103.12
+BRIGHT HORIZON FAMIL                       0.000 BFAM    109195107     37.0500        50,665.00      1,379,530.52      1,877,138.25
+BROWN & BROWN INC                          0.654 BRO     115236101     30.5400       104,080.00      2,072,156.16      3,178,603.20
+CARBO CERAMICS, INC.                       0.707 CRR     140781105     56.5200        24,552.00      1,080,114.30      1,387,679.04
+CARMIKE CINEMAS INC                        2.760 CKEC    143436400     25.3600        32,755.00      1,093,148.49        830,666.80
+CHARLES RIVER LABORATORIES                 0.000 CRL     159864107     42.3700        33,666.00      1,418,643.00      1,426,428.42
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     37.3900       118,534.00      3,041,496.38      4,431,986.26
+CHEMED CORP                                0.483 CHE     16359R103     49.6800        40,255.00      1,700,245.38      1,999,868.40
+CHICAGO BRIDGE & IRON COMPANY              0.357 CBI     167250109     25.2100        44,470.00        889,722.36      1,121,088.70
+CINTAS CORP                                0.777 CTAS    172908105     41.1800        53,877.00      2,262,950.16      2,218,654.86
+COGNEX CORP.                               1.063 CGNX    192422103     30.0900        73,453.00      1,803,881.49      2,210,200.77
+CORPORATE EXECUTIVE BOARD CO               0.445 EXBD    21988R102     89.7000        61,926.00      3,125,152.45      5,554,762.20
+CRA INTERNATIONAL INC                      0.000 CRAI    12618T105     47.6900        16,479.00        733,734.86        785,883.51
+DOLLAR TREE STORES INC                     0.000 DLTR    256747106     23.9400        94,218.00      2,228,006.29      2,255,578.92
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     33.5100       143,731.00      3,708,517.86      4,816,425.81
+ENZON PHARMACEUTICALS INC                  0.000 ENZN    293904108      7.4000        93,314.00      1,040,936.29        690,523.60
+FASTENAL CO                                0.791 FAST    311900104     39.1900       195,444.00      4,053,617.26      7,659,450.36
+FINANCIAL FEDERAL CORP.                    1.349 FIF     317492106     44.4500        95,120.00      2,883,265.90      4,228,084.00
+FORRESTER RESEARCH INC                     0.000 FORR    346563109     18.7500        72,965.00      1,361,012.66      1,368,093.75
+GOLAR LNG LTD                              0.000 GLNG    G9456A100     13.2500        98,646.00      1,393,519.67      1,307,059.50
+GUITAR CENTER INC                          0.000 GTRC    402040109     50.0100        38,048.00      2,149,906.43      1,902,780.48
+HYDRIL                                     0.000 HYDL    448774109     62.6000        21,408.00      1,206,635.68      1,340,140.80
+IHS INC-CLASS A                            0.000 IHS     451734107     20.5200        47,526.00        896,333.34        975,233.52
+INTERWOVEN INC                             0.000 IWOV    46114T508      8.4700        47,626.00        380,298.66        403,392.22
+IXIA                                       0.000 XXIA    45071R109     14.7800        95,313.00      1,329,043.00      1,408,726.14
+LIFE TIME FITNESS INC                      0.000 LTM     53217R207     38.0900        68,122.00      2,015,966.07      2,594,766.98
+LINCARE HOLDINGS INC.                      0.000 LNCR    532791100     41.9100        99,697.00      3,405,765.97      4,178,301.27
+LKQ CORP                                   0.000 LKQX    501889208     34.6200        77,274.00      2,228,803.65      2,675,225.88
+MARTEK BIOSCIENCES CORP                    0.000 MATK    572901106     24.6100        93,625.00      3,272,961.59      2,304,111.25
+MICROCHIP TECHNOLOGY INC.                  1.990 MCHP    595017104     32.1500       145,331.00      3,899,732.31      4,672,391.65
+NATIONAL INSTRUMENTS CORP.                 0.624 NATI    636518102     32.0500        89,531.00      2,057,364.38      2,869,468.55
+NEUSTAR INC-CLASS A                        0.000 NSR     64126X201     30.4900        79,985.00      2,253,777.56      2,438,742.65
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     49.6300        45,145.00      2,224,243.63      2,240,546.35
+PATTERSON COS INC                          0.000 PDCO    703395103     33.4000        29,049.00        830,069.44        970,236.60

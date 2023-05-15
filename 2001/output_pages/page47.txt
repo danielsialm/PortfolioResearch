@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 018
+ASOF02   Date 01/24/2002 Time 21:29:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 020
 
 Monthly Market Portfolio
 
@@ -6,23 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Portfolio  - VAP       LARGE CAP VALUE PASS
+Portfolio  - IND       LARGE CAP SELECT
 Instrument - COM       COMMON STOCK
 
-Instrument Total           352                                                    48,674,129.54  1,704,902,925.60  1,585,818,916.00
-
-Instrument -REIT      REAL ESTATE INVESTMENT TRUST
-
-EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       125,000.00      2,991,531.17      3,759,999.99
-EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100        81,700.00      1,681,415.41      2,345,606.98
-
-Instrument Total             2                                                       206,700.00      4,672,946.58      6,105,606.97
-
-Instrument -WARRANT   WARRANT
-
-PROGRESS ENERGY - CVO                      0.000 CPLVZ   743263AA3      0.3600        42,528.00              0.00         15,310.08
-
-Instrument Total             1                                                        42,528.00              0.00         15,310.08
-
-Portfolio Total            355                                                    48,923,357.54  1,709,575,872.18  1,591,939,833.05
-
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109     11.3200        23,700.00        907,209.97        268,284.02
+ARCHER DANIELS MIDLAND CO                  1.393 ADM     039483102Q    14.3500       568,812.00      7,154,173.95      8,162,452.21
+AT&T CORPORATION                           0.826 T       001957109Q    18.1400     2,483,732.00     43,704,788.22     45,054,898.48
+AT&T WIRELESS SERVICES INC                 0.000 AWE     00209A106     14.3700     1,817,607.00     30,670,829.91     26,119,012.59
+AUTODESK INC.                              0.643 ADSK    052769106Q    37.2700        37,400.00      1,305,522.36      1,393,898.01
+AUTOMATIC DATA PROC.                       0.781 ADP     053015103Q    58.9000       397,975.00     12,549,963.47     23,440,727.48
+AUTOZONE INC                               0.000 AZO     053332102     71.8000        51,300.00      1,942,756.69      3,683,340.00
+AVAYA INC                                  0.000 AV      053499109     12.1500       182,300.00      2,245,751.19      2,214,944.99
+AVERY DENNISON                             2.335 AVY     053611109Q    56.5300        78,800.00      4,063,515.71      4,454,564.00
+AVON PRODUCTS                              1.634 AVP     054303102Q    46.5000       160,200.00      5,064,870.19      7,449,300.00
+BAKER HUGHES CORP                          1.261 BHI     057224107Q    36.4700        51,900.00      1,808,901.39      1,892,793.00
+BANK OF AMERICA CORP.                      3.812 BAC     060505104Q    62.9500     1,138,200.00     61,386,042.59     71,649,690.00
+BANK OF NEW YORK CO, INC                   1.764 BK      064057102Q    40.8000       527,400.00     17,873,011.82     21,517,920.00
+BANK ONE CORPORATION                       2.151 ONE     06423A103Q    39.0500       822,800.00     29,149,810.13     32,130,339.98
+BAXTER INTL                                1.081 BAX     071813109Q    53.6300       474,600.00     12,396,183.27     25,452,798.00
+BB&T CORPORATION                           2.880 BBT     054937107     36.1100       399,600.00     13,452,736.35     14,429,555.99
+BEAR STEARNS COMPANIES INC                 1.023 BSC     073902108     58.6400        27,662.00      1,236,522.04      1,622,099.68
+BECTON DICKINSON & COMPANY                 1.146 BDX     075887109Q    33.1500       200,700.00      6,369,109.89      6,653,204.98
+BED BATH & BEYOND INC                      0.000 BBBY    075896100     33.9000       192,400.00      3,855,124.48      6,522,359.99
+BELLSOUTH                                  1.992 BLS     079860102Q    38.1500     1,087,100.00     27,943,911.06     41,472,865.01
+BEST BUY COMPANY INC                       0.000 BBY     086516101     74.4800       141,700.00      6,489,837.35     10,553,815.99
+BIOGEN INC.                                0.000 BGEN    090597105     57.3500       152,000.00      8,440,409.96      8,717,199.99
+BIOMET INC.                                0.000 BMET    090613100     30.9000       109,387.00      1,682,750.10      3,380,058.30
+BJ’S WHOLESALE CLUB INC.                   0.000 BJ      05548J106     44.1000        74,800.00      3,291,566.52      3,298,680.00
+BLACK & DECKER                             1.272 BDK     091797100Q    37.7300       143,300.00      5,635,874.04      5,406,708.99
+BMC SOFTWARE                               0.000 BMC     055921100     16.3700       155,000.00      2,530,754.27      2,537,350.00
+BOEING CO                                  1.753 BA      097023105Q    38.7800       540,800.00     17,011,884.95     20,972,224.01
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     24.1200       207,400.00      4,701,068.71      5,002,487.99
+BRISTOL-MYERS SQUIBB                       2.156 BMY     110122108Q    51.0000     1,370,500.00     40,006,569.97     69,895,499.99
+BROADCOM CORP CL A                         0.000 BRCM    111320107     40.8700       307,800.00     27,192,731.01     12,579,785.99
+BROWN-FORMAN -CL B                         2.236 BF.B    115637209Q    62.6000        50,200.00      2,793,694.00      3,142,520.00
+BRUNSWICK CORP                             2.297 BC      117043109Q    21.7600        57,100.00      1,067,340.09      1,242,495.99
+BURLINGTON NORTHERN SANTA FE               1.682 BNI     12189T104Q    28.5300       263,800.00      7,269,782.20      7,526,214.00
+CALPINE CORPORATION                        0.000 CPN     131347106     16.7900       424,500.00     14,085,311.65      7,127,355.00
+CAMPBELL SOUP CO.                          2.109 CPB     134429109Q    29.8700        94,800.00      2,532,847.67      2,831,676.00
+CAPITAL ONE FINANCIAL CORP.                0.203 COF     14040H105     53.9500       138,600.00      7,540,900.24      7,477,470.00
+CARDINAL HEALTH INC.                       0.154 CAH     14149Y108Q    64.6600       292,050.00      9,652,750.53     18,883,953.00
+CARNIVAL CORP                              1.495 CCL     143658102Q    28.0800       337,300.00     12,610,219.19      9,471,384.01
+CATERPILLAR INC.                           2.679 CAT     149123101Q    52.2500       231,300.00      9,827,530.60     12,085,424.99

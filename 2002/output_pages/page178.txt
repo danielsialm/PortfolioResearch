@@ -1,0 +1,35 @@
+ASOF02   Date 01/21/2003 Time 18:53:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 150
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-DPE    DOMESTIC PRIVATE EQU
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+APOLLO INVESTMENT FUND IV                  0.000 9940479WAAPOLLOIV      0.0000    59,977,111.00     59,977,110.46     64,646,844.98
+APOLLO INVESTMENT FUND V                   0.000 9940510BABAPOLLO5      0.0000    16,577,761.00     16,577,761.00     16,022,982.00
+BAIN CAPITAL FUND VII                      0.000 9940479XABBAIN7        0.0000    26,932,499.07     26,932,498.99     23,848,720.09
+BLACKSTONE CAPITAL PTNRS III               0.000 BCPMB   VEA02554       0.0000    32,988,819.00     32,988,818.00     34,336,883.98
+BLACKSTONE COMMUNICATION I                 0.000 9940479ZABBCOM1        0.0000     9,825,951.00      9,825,950.89      5,083,580.99
+CID MEZZANINE CAPITAL                      0.000 CIDMEZ  VEA02624       0.0000     7,056,464.31      7,056,464.15      6,325,881.00
+CLAYTON, DUBLILIER & RICE VI               0.000 CLDURI  ACLAYDURI      0.0000    30,289,406.00     30,289,406.00     22,829,856.01
+FOX PAINE CAPITAL FUND                     0.000 FOXPAINEAFOXPAINE      0.0000    29,999,999.00     29,999,999.00     23,775,181.00
+FOX PAINE CAPITAL FUND II                  0.000 9940480DABFOXPAIN      0.0000    12,150,143.00     12,150,143.00      9,150,859.01
+FRANCISCO PARTNERS                         0.000 9940480EABFRISCO1      0.0000    25,620,239.00     25,620,239.00     20,160,988.98
+FS EQUITY PARTNERS IV                      0.000 FSEP4   VEA02586       0.0000    44,844,680.00     44,844,679.17     65,559,683.99
+HEARTLAND INDUSTRIAL PARTNERS              0.000 9940480GABHEART        0.0000    23,404,548.00     23,404,547.94     23,268,449.99
+LEHMAN BROTHERS II                         0.000 LBBP    VEA02551       0.0000    56,236,705.48     56,236,705.24     42,379,389.85
+LINSALATA CAPITAL PARTNERS III             0.000 9940480JALINCAP        0.0000    19,238,808.68     19,238,808.61     19,489,306.99
+LINSALATA CAPITAL PARTNERS IV              0.000 ABLINCAPABLINCAP4      0.0000    13,726,695.00     13,726,695.00     12,456,628.01
+OAK HILL CAPITAL PARTNERS                  0.000 9940480LAOAKHILL       0.0000    31,690,249.97     31,690,249.62     28,068,825.28
+PROVIDENCE EQUITY PARTNERS IV              0.000 9940480MABPROV4        0.0000    17,858,269.03     17,858,268.86     14,737,746.99
+SILVER LAKE PARTNERS                       0.000 ASILLAKEASILLAKE       0.0000     7,606,605.76      7,606,605.51      5,134,479.55
+SKM EQUITY FUND III                        0.000 9940480PABSKM3         0.0000    14,589,931.00     14,589,930.43     11,775,256.99
+
+Instrument Total            19                                                   480,614,885.30    480,614,880.87    449,051,545.68
+
+Portfolio Total             19                                                   480,614,885.30    480,614,880.87    449,051,545.68
+

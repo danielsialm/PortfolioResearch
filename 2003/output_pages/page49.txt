@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 019
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+MAYTAG COMPANY                             2.585 MYG     578592107Q    27.8500        69,400.00      1,781,546.37      1,932,789.98
+McCORMICK & CO                             1.860 MKC     579780206Q    30.1000       157,000.00      3,600,737.42      4,725,699.99
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      9.5300       175,400.00      1,678,715.15      1,671,562.02
+MCKESSON CORP                              0.746 MCK     58155Q103Q    32.1600       260,900.00      9,536,672.00      8,390,544.00
+MEDICIS PHARMACEUTICAL CORP                0.280 MRX     584690309     71.3000        43,800.00      2,010,181.60      3,122,940.00
+MEDIMMUNE INC                              0.000 MEDI    584699102     25.4000       451,800.00     13,410,744.97     11,475,720.00
+MEMC ELECTR MATLS IN                       0.000 WFR     552715104      9.6200       107,100.00      1,109,012.56      1,030,302.00
+MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     48.6400       181,400.00      7,386,756.98      8,823,296.00
+MEREDITH CORPORATION                       0.778 MDP     589433101Q    48.8100        63,250.00      2,752,593.51      3,087,232.48
+METTLER-TOLEDO INTERNATIONAL               0.000 MTD     592688105     42.2100        59,500.00      2,425,366.45      2,511,495.01
+MICHAELS STORES                            0.905 MIK     594087108     44.2000        85,100.00      2,817,751.61      3,761,420.00
+MICROCHIP TECHNOLOGY INC.                  0.359 MCHP    595017104     33.3600       472,350.00     10,188,307.46     15,757,596.00
+MICRON TECHNOLOGY INC                      0.000 MU      595112103Q    13.4700       482,000.00     10,772,276.13      6,492,539.99
+MICROSOFT CORP.                            0.581 MSFT    594918104     27.5400       139,999.99      3,662,645.66      3,855,600.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     64.8000        63,500.00      1,985,335.59      4,114,800.01
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     18.6700       159,900.00      3,653,118.38      2,985,333.01
+MILLER (HERMAN) INC                        0.597 MLHR    600544100     24.2700       124,000.00      2,565,379.68      3,009,479.98
+MILLIPORE CORPORATION                      1.022 MIL     601073109Q    43.0500        77,700.00      2,582,358.98      3,344,985.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     70.5400        27,500.00      1,089,669.76      1,939,850.02
+MOLEX INC                                  0.286 MOLX    608554101     34.8900       253,500.00      7,711,089.73      8,844,615.00
+MONSTER WORLDWIDE INC                      0.000 MNST    611742107     21.9600       167,000.00      8,465,031.80      3,667,320.00
+MOODY'S CORPORATION                        0.495 MCO     615369105     60.5500       212,100.00      8,346,257.49     12,842,654.99
+MYLAN LABS                                 0.475 MYL     628530107Q    25.2600       530,350.00      8,821,056.38     13,396,641.00
+NATIONAL INSTRUMENTS CORP.                 0.439 NATI    636518102     45.4700        52,600.00      1,556,316.79      2,391,721.98
+NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     39.4100       263,800.00      6,254,299.10     10,396,358.01
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     22.3600       124,100.00      3,480,114.47      2,774,876.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     47.8900        54,300.00      1,815,426.16      2,600,427.01
+NETSCREEN TECHNOLOGIES INC                 0.000 NSCN    64117V107     24.7500       127,400.00      3,073,618.76      3,153,150.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     20.5300       554,900.00     11,261,444.79     11,392,096.99
+NETWORKS ASSOCIATES INC.                   0.000 NET     640938106     15.0400       237,900.00      3,203,602.30      3,578,015.98
+NEUROCRINE BIOSCIENCES INC                 0.000 NBIX    64125C109     54.5400        20,600.00      1,115,752.85      1,123,523.99
+NEW YORK COMMUNITY BANCORP                 2.628 NYB     649445103     38.0500       131,900.00      2,476,899.98      5,018,795.00
+NEW YORK TIMES CO. CL A                    1.213 NYT     650111107Q    47.7900       157,200.00      6,398,691.30      7,512,587.99
+NEWELL RUBBERMAID INC.                     3.689 NWL     651229106Q    22.7700       205,600.00      5,833,650.25      4,681,512.00
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     44.5400        81,700.00      2,981,593.84      3,638,918.00
+NEXTEL PARTNERS INC                        0.000 NXTP    65333F107     13.4500       111,900.00        973,834.50      1,505,055.02
+NOBLE ENERGY INC                           0.450 NBL     655044105     44.4300        36,850.00      1,242,189.28      1,637,245.51
+NORTH FORK BANK                            2.965 NFB     659424105     40.4700        42,700.00      1,261,586.82      1,728,068.99
+NORTHERN TRUST CORP                        1.637 NTRS    665859104     46.4200        24,400.00      1,170,564.26      1,132,647.98

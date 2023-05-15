@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 033
+ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 035
 
 Monthly Market Portfolio
 
@@ -6,11 +6,45 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-EAFEVAL EAFE VALUE
-Instrument - INTF      INTERNATIONAL FUNDS
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-EAFE VALUE                                   0.000     IL-EAFEVAL               474,421.89       47,442,189.80
-
-Instrument Total               1                                                474,421.89       47,442,189.80
-
-Portfolio Total              110                                            123,527,785.89      860,672,245.03        797,379,219.56
+CATHAY LIFE INSURANCE CO                     0.000     6425663      73833     1,530,021.51        1,718,440.53
+CEMEX SA PTG CERTS                           0.005     2406457      CEMEX       315,512.00        1,417,620.30
+CEMEX VENEZUELA SACA-I                       0.001     2932178      VCM/1       164,714.00           86,017.58
+CEMIG CIA ENERG MG                           0.787     2192712      CMIG4    69,138,362.00          748,402.79
+CENTRAIS ELETR BRA                           0.355     2308445      ELET6    75,894,268.00          907,671.04
+CESKA SPORITELNA A.S.                        0.000     4143967      CESP_        41,625.00          253,428.17
+CESKE ENERGETICKE ZAVODY                     0.000     5624030      CEZ_C       234,433.00          703,084.38
+CESKY TELECOM                                0.000     5272569      SPTT_        89,688.00        1,049,908.55
+CHECK POINT SOFTWARE TECH                    0.000     2181334      CHKP         85,755.00        3,284,510.51
+CHINA MOBILE HK LTD HKD 0.1                  0.000     6073556      941_H     1,059,000.00        5,155,222.63
+CHINA RESOURCES ENTERPRISES                  0.000     6972459      291_H     1,496,000.00        2,357,853.58
+CHINA STEEL CORP                             0.000     6190950      73840     3,375,680.00        1,676,973.06
+CHINA UNICOM                                 0.000     6263830      762_H     2,844,000.00        4,635,567.91
+CHINATRUST COMMERCIAL BANK                   0.000     6193443      2815_     4,175,992.00        2,879,563.46
+CIA DE MINAS BUENAVENTURA-B                  0.090     2206282      CMB/B        41,765.00          391,088.90
+CIA PARANAENSE ADR                           4.586     2209656      ELP          70,000.00          353,500.00
+CIA PARANAENSE DE ENERGI                    11.803     2200154      CPLE6    56,603,725.00          404,730.42
+CIA SIDERURGICA NA                          53.808     2210261      CSNA3    53,260,346.00          872,068.20
+CIA TELECOM CHILE-                           0.000     2213635      CTC          54,807.00          708,841.31
+CIPLA LIMITED                                0.000     6099972      CIPLA         7,247.00          170,273.27
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_        70,176.00          600,263.69
+COMPAL ELECTRONICS                           0.000     6225744      2324_     1,295,000.00        1,444,357.52
+COMPANHIA BRASILEIRA DE DISTRIBUICAO        90.499     2667771      PCAR4    25,383,354.00          598,948.06
+COMPANIA CERVECERI                           4.044     2217596      CU           11,996.00          264,030.69
+CONSORCIO ARA S.A.                           0.000     2209731      ARA*_       506,457.00          785,178.16
+COSCO PACIFIC LIMITED                        0.001     6354251      1199_     2,376,000.00        1,735,294.71
+CREDICORP LTD                                1.142     2232878      BAP          30,755.00          257,837.92
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     1,015,525.00        2,084,505.53
+DELTA ELECTRONICS THAI-FORGN                 0.157     6418919      DELTA       228,000.00          164,871.49
+DISTRIBUCION Y SERVICIO-ADR                  1.450     2111513      DYS          11,729.00          172,480.88
+DR REDDY’S LABORATORIES                      0.011     6410959      DRRD_        18,064.00          338,194.03
+ECI TELECOM ORD IL                           3.724     2310150      ECIL        204,113.00        1,684,400.14
+EGIS RT                                      0.000     4040499      EGIS_        11,956.00          405,416.58
+ELECTRICITY GENRTG                           0.123     6304643      EGCOM        86,500.00          120,506.81
+ELEKTRA SA CPO SHS                           0.000     2639617      ELEKT     1,676,062.00        1,495,266.79
+EMBOTELLADORA ANDINA-ADR A                   4.923     2299765      AKO/A        48,931.00          650,925.70
+EMBRATEL PARTICIPA                          41.353     2292559      EBTP4   199,005,539.00        1,539,630.34
+EMBRATEL PARTICIPACOES SA                   16.183     2292548      EBTP3   142,371,781.00        1,054,741.72
+EMPRESAS NAC DE EL                           0.385     2311131      EOC          51,893.00          574,603.37

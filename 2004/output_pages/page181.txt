@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 149
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+ACETO CORP                                 0.787 ACET    004446100     19.0400        54,105.00        715,402.70      1,030,159.20
+ACTIVISION INC                             0.000 ATVI    004930202     20.1800        17,555.00        311,906.71        354,259.90
+ACTUANT CORP CL A                          0.115 ATU     00508X203     52.1500         7,955.00        206,075.41        414,853.25
+ADVANCE AUTO PARTS INC                     0.000 AAP     00751Y106     43.6800        20,095.00        748,218.73        877,749.60
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     20.4800        15,985.00        307,214.89        327,372.80
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     67.7400        12,590.00        590,861.50        852,846.60
+ALAMOSA HOLDINGS INC.                      0.000 APCS    011589108     12.4700        44,750.00        534,050.98        558,032.50
+ALLIANCE DATA SYSTEM                       0.000 ADS     018581108     47.4800         7,195.00        285,011.22        341,618.60
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     13.8100        58,045.00        721,771.57        801,601.45
+AMCOL INTERNATIONAL CORP.                  1.791 ACO     02341W103     20.0900        27,390.00        526,397.74        550,265.10
+AMERICAN MEDICAL SYS HLDINGS               0.000 AMMD    02744M108     41.8100         9,170.00        254,675.95        383,397.70
+AMETEK INC.                                0.672 AME     031100100Q    35.6700        28,600.00        633,083.09      1,020,162.00
+AMPHENOL CORP-CL A                         0.081 APH     032095101     36.7400        40,510.00      1,065,192.78      1,488,337.40
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     35.9900        19,815.00        599,848.19        713,141.85
+ANSYS INC                                  0.000 ANSS    03662Q105     32.0600        39,635.00        812,555.18      1,270,698.10
+ASSURED GUARANTY LTD                       0.610 AGO     G0585R106     19.6700        46,120.00        799,320.94        907,180.40
+BALCHEM CORP                               0.259 BCP     057665200     34.6900         8,760.00        256,871.49        303,884.40
+BANK MUTUAL CORP                           1.643 BKMU    063750103     12.1700        29,486.00        303,084.05        358,844.62
+BANK OF HAWAII CORP                        2.601 BOH     062540109     50.7400         7,055.00        313,609.06        357,970.70
+BELDEN CDT INC                             0.862 BDC     077454106     23.2000        22,310.00        532,126.68        517,592.00
+BLACKBAUD INC                              0.000 BLKB    09227Q100     14.6400        24,385.00        285,025.33        356,996.40
+BROWN & BROWN INC                          0.734 BRO     115236101     43.5500        17,300.00        698,207.35        753,415.00
+CERTEGY INC                                0.562 CEY     156880106     35.5300        20,145.00        753,767.84        715,751.85
+CHARLES RIVER LABORATORIES                 0.000 CRL     159864107     46.0100        17,315.00        785,331.07        796,663.15
+CLARCOR INC.                               0.931 CLC     179895107Q    54.7700         8,240.00        322,176.73        451,304.80
+CNA SURETY CORP                            0.000 SUR     12612L108     13.3500        27,210.00        297,326.75        363,253.50
+COGNEX CORP.                               1.147 CGNX    192422103     27.9000        15,485.00        425,095.89        432,031.50
+COLUMBIA SPORTSWEAR CO                     0.000 COLM    198516106     59.6100        11,200.00        615,171.20        667,632.00
+COMMONWEALTH TELEPHONE ENTERPR             0.000 CTCO    203349105     49.6600        14,000.00        597,072.65        695,240.00
+COMMSCOPE INC.                             0.000 CTV     203372107     18.9000        18,850.00        340,806.27        356,265.00
+CORPORATE EXECUTIVE BOARD CO               0.448 EXBD    21988R102     66.9400         7,280.00        362,981.33        487,323.20
+CORRECTIONS CORP OF                        0.000 CXW     22025Y407     40.4500         9,225.00        311,315.48        373,151.25
+DAKTRONICS INC                             0.000 DAKT    234264109     24.8900        32,600.00        701,219.54        811,414.00
+DIGENE CORP                                0.000 DIGE    253752109     26.1500        11,355.00        294,754.59        296,933.25
+DIODES INC                                 0.000 DIOD    254543101     22.6300        15,380.00        341,269.76        348,049.40
+DIONEX CORP.                               0.000 DNEX    254546104     56.6700        11,505.00        547,167.61        651,988.35
+DURATEK INC                                0.000 DRTK    26658Q102     24.9100        25,760.00        395,905.10        641,681.60
+EATON VANCE CORP.                          0.613 EV      278265103     52.1500        20,445.00        782,260.62      1,066,206.75
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     33.0100        16,495.00        501,994.59        544,499.95

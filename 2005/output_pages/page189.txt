@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 156
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 20
+Instrument - COM       COMMON STOCK
+
+ACCELRYS INC                               0.000 ACCL    00430U103      8.0300       103,600.00        829,176.35        831,908.00
+ADESA INC                                  1.228 KAR     00686U104     24.4200        41,400.00        655,326.08      1,010,988.00
+ALLETE, INC.                               2.863 ALE     018522300     44.0000        18,800.00        640,352.00        827,200.00
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     13.0200       100,300.00      1,035,459.64      1,305,906.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100      2.6000        98,900.00        591,080.60        257,140.00
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      9.4700        74,500.00        475,297.82        705,515.00
+ARVINMERITOR INC.                          2.779 ARM     043353101     14.3900        83,000.00      1,492,014.46      1,194,370.00
+AVANEX CORP                                0.000 AVNX    05348W109      1.3700       137,000.00        184,287.29        187,690.00
+BEARINGPOINT INC                           0.000 BE      074002106      7.8600       168,500.00      1,418,633.21      1,324,410.00
+BROCADE COMMUNICATIONS SYSTEM              0.000 BRCD    111621108      4.0700       204,300.00        886,442.05        831,501.00
+CAMBREX CORP.                              0.639 CBM     132011107     18.7700        53,100.00        981,349.13        996,687.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     10.9600       106,700.00      1,387,679.68      1,169,432.00
+CENTERPOINT ENERGY INC                     1.867 CNP     15189T107Q    12.8500        68,400.00        767,388.20        878,940.00
+CLAIRE'S STORES INC                        1.368 CLE     179584107     29.2200        26,000.00        598,031.42        759,720.00
+CMS ENERGY CORP                            4.962 CMS     125896100Q    14.5100        96,200.00        811,890.37      1,395,862.00
+CNH GLOBAL N.V.                            1.014 CNH     N20935206     18.5400        51,900.00        749,645.93        962,226.00
+COMMUNITY HEALTH SYS                       0.000 CYH     203668108     38.3400        31,000.00        713,266.31      1,188,540.00
+CONSTAR INTL INC                           0.000 CNST    21036U107      3.5000        70,300.00        379,751.82        246,050.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     11.7800        61,000.00        764,539.73        718,580.00
+CROWN CORK & SEAL INC.                     5.120 CCK     228368106     19.5300        41,000.00        266,995.23        800,730.00
+CUBIC CORP                                 0.901 CUB     229669106     19.9600        13,800.00        261,545.27        275,448.00
+CYTEC INDUSTRIES                           0.839 CYT     232820100Q    47.6300        53,400.00      1,913,912.98      2,543,442.00
+EARTHLINK INC                              0.000 ELNK    270321102     11.1100        89,100.00        812,252.22        989,901.00
+EXIDE TECHNOLOGIES                         0.000 XIDE    302051206      3.7000       103,100.00      1,085,540.30        381,470.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     16.9100       104,300.00      1,602,468.97      1,763,713.00
+FIRST AMERICAN CORP.                       1.589 FAF     318522307     45.3000        43,000.00        917,151.24      1,947,900.00
+FLAMEL TECHNOLOGIES - SP ADR               0.000 FLML    338488109     18.8800        28,800.00        505,175.30        543,744.00
+FLOWSERVE CORP.                            0.000 FLS     34354P105Q    39.5600        32,700.00        965,793.33      1,293,612.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     13.8100        66,300.00        645,008.65        915,603.00
+GATX CORP                                  2.217 GMT     361448103     36.0800        10,000.00        363,410.63        360,800.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100     11.3500        96,500.00      1,160,111.32      1,095,275.00
+GRUPO TMM SA - ADR A                       0.000 TMM     40051D105      3.8500       116,500.00        409,186.52        448,525.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q    11.3000       103,000.00      1,205,290.47      1,163,900.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106      4.0100       123,100.00        601,046.89        493,631.00
+INPUT/OUTPUT INC.                          0.000 IO      457652105      7.0300        86,400.00        589,449.13        607,392.00
+JACUZZI BRANDS INC                         0.000 JJZ     469865109      8.4000       145,600.00        750,634.59      1,223,040.00
+JO-ANN STORES INC                          0.000 JAS     47758P307     11.8000        73,400.00      1,478,470.46        866,120.00
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    24.4300        49,300.00        716,170.35      1,204,399.00
+KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100     12.8500        76,400.00        762,268.38        981,740.00

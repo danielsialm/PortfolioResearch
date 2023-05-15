@@ -1,0 +1,15 @@
+ASOF10   Date 01/21/2005 Time 18:35:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 001
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - WARRANT   WARRANT
+
+DIME BANCORP-WT                              0.000     25429Q110   DIMEZ          431,800          115,334.87           82,042.00
+TIMCO AVIATION SERVICES INC.-WARRANTS        0.000     887151116   TMASW            9,550                0.00               95.50
+
+Instrument Total                      2                                           441,350          115,334.87           82,137.50
+

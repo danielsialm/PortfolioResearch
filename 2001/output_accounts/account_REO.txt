@@ -1,0 +1,15 @@
+Instrument - I         INDUSTRIAL
+
+OPUS (OIRE) R/E FUND           VARIOUS                         7.162         ROPFND                 42,395,671.00     38,000,000.00
+PROLOGIS PORTFOLIO             MISC  US                        0.000         RPRLOG                 75,387,638.28     69,691,109.89
+
+Instrument Total             2                                                                     117,783,309.28    107,691,109.89
+
+Instrument -R      RETAIL
+
+MIDLAND                                                        5.568         RMIDLN                        125.00            125.00
+
+Instrument Total             1                                                                             125.00            125.00
+
+Portfolio Total              3                                                                     117,783,434.28    107,691,234.89
+

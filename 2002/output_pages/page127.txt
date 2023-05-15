@@ -1,0 +1,52 @@
+ASOF02   Date 01/21/2003 Time 18:53:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 099
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 500
+Instrument - COM       COMMON STOCK
+
+UNITED STATES STEEL CORP.                  1.524 X       912909108Q    13.1200         1,600.00         37,570.54         20,992.00
+UNITED TECHNOLOGIES                        1.582 UTX     913017109Q    61.9400         9,650.00        546,318.12        597,721.00
+UNITEDHEALTH GROUP INC                     0.035 UNH     91324P102A    83.5000        42,093.00      3,112,197.62      3,514,765.50
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     35.8400           194.00          6,978.77          6,952.96
+UNUMPROVIDENT CORP.                        3.363 UNM     91529Y106Q    17.5400        41,640.00      1,075,113.98        730,365.60
+US BANCORP                                 3.675 USB     902973304     21.2200       108,070.00      2,152,853.22      2,293,245.40
+US CELLULAR CORP.                          0.000 USM     911684108     25.0200         2,000.00         58,413.00         50,040.00
+V F CORP                                   2.773 VFC     918204108Q    36.0500        30,360.00      1,251,133.26      1,094,478.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     49.6000        18,190.00        836,660.82        902,224.00
+VERIZON COMMUNICATIONS                     3.974 VZ      92343V104Q    38.7500       285,266.00     10,983,554.11     11,054,057.50
+VIACOM INC-CLASS B                         0.000 VIA.B   925524308     40.7600       199,952.00      8,370,925.22      8,150,043.52
+WACHOVIA CORP.- NEW                        2.854 WB      929903102Q    36.4400        90,870.00      3,762,350.44      3,311,302.80
+WAL MART STORES INC                        0.593 WMT     931142103Q    50.5100       211,926.00      7,998,940.31     10,704,382.26
+WALLACE COMPUTER SVCS INC                  3.068 WCS     932270101     21.5100         8,900.00        166,423.77        191,439.00
+WASHINGTON MUTUAL INC.                     3.243 WM      939322103     34.5300        60,850.00      1,726,689.23      2,101,150.50
+WASHINGTON POST CL. B                      0.785 WPO     939640108Q   738.0000           475.00        331,463.84        350,550.00
+WASTE MANAGEMENT INC.                      0.043 WMI     94106L109     22.9200         2,820.00         70,697.68         64,634.40
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     28.2700        42,104.00      1,207,613.13      1,190,280.08
+WELLS FARGO COMPANY                        2.389 WFC     949746101     46.8700       107,899.00      3,925,813.31      5,057,226.13
+WHIRLPOOL CORP                             2.604 WHR     963320106Q    52.2200         6,280.00        351,717.82        327,941.60
+WYETH                                      2.459 WYE     983024100Q    37.4000       156,875.00      5,996,800.14      5,867,125.00
+XCEL ENERGY INC                            6.818 XEL     98389B100Q    11.0000         4,200.00        100,041.62         46,200.00
+XILINX INC                                 0.000 XLNX    983919101     20.6000        21,740.00        429,672.64        447,844.00
+XL CAPITAL LTD - CLASS A                   2.433 XL      G98255105     77.2500        16,609.00      1,393,630.05      1,283,045.25
+YAHOO INC                                  0.000 YHOO    984332106     16.3500         3,410.00         44,932.75         55,753.50
+YORK INTERNATIONAL CORP                    2.346 YRK     986670107     25.5700         5,800.00        189,608.96        148,306.00
+
+Instrument Total           260                                                    18,078,098.28    515,103,441.81    474,551,034.39
+
+Instrument -CP        COMMERCIAL PAPER (DISCOUNT)
+
+US TREASURY BILL                           0.000         912795ME8      0.9971       300,000.00        299,127.92        299,127.92
+
+Instrument Total             1                                                       300,000.00        299,127.92        299,127.92
+
+Instrument -FUTURES5  FUTURES EXPOSURE
+
+S&P FUTURES INDEX 03/03                    0.000 CD:SP03HCD:SP03H0    878.9000            13.00      2,946,682.34      2,856,425.00
+
+Instrument Total             1                                                            13.00      2,946,682.34      2,856,425.00
+

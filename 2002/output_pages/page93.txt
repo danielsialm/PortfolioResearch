@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 065
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     37.6000         5,200.00        188,901.90        195,520.00
+EDWARDS (A.G.) INC                         1.941 AGE     281760108     32.9600        11,550.00        378,481.82        380,688.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     25.4700         8,800.00         75,066.24        224,136.00
+EGL, INC.                                  0.000 EAGL    268484102     14.2500         6,900.00        213,324.63         98,325.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     20.8300         7,800.00        184,428.50        162,474.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     27.9000        13,300.00        156,709.79        371,070.00
+ENERGY EAST CORP.                          4.526 EAS     29266M109     22.0900        21,291.00        340,044.08        470,318.19
+ENSCO INTL INC                             0.339 ESV     26874Q100     29.4500        21,900.00        685,748.53        644,955.00
+ENTERCOM COMMUNICATIONS CORP               0.000 ETM     293639100     46.9200         7,300.00        337,922.00        342,516.00
+EQUITABLE RESOURCES INC                    1.940 EQT     294549100     35.0400         9,200.00        317,626.50        322,368.00
+EVEREST RE GROUP LTD.                      0.578 RE      G3223R108     55.3000         7,500.00        298,674.94        414,750.00
+EXPEDITORS INT'L. WASH INC.                0.367 EXPD    302130109     32.6500        15,300.00        143,780.31        499,545.00
+EXPRESS SCRIPTS                            0.000 ESRX    302182100     48.0400        11,500.00        174,926.07        552,460.00
+EXTENDED STAY AMERICA INC                  0.000 ESA     30224P101     14.7500        13,800.00        238,256.90        203,550.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     10.7100        17,200.00        471,909.50        184,212.00
+FASTENAL CO                                0.133 FAST    311900104     37.3900        11,200.00        269,718.95        418,768.00
+FEDERAL SIGNAL CORP                        4.119 FSS     313855108     19.4200         7,000.00        159,902.87        135,940.00
+FEI COMPANY                                0.000 FEIC    30241L109     15.2900         4,800.00        189,633.93         73,392.00
+FERRO CORP                                 2.374 FOE     315405100Q    24.4300         6,050.00        150,832.53        147,801.50
+FIDELITY NATIONAL FINL INC                 1.462 FNF     316326107     32.8300        14,070.00        253,694.59        461,918.10
+FIRST HEALTH GROUP CORP.                   0.000 FHCC    320960107     24.3500        14,900.00        205,635.78        362,815.00
+FIRST VIRGINIA BANKS INC                   3.008 FVB     337477103     37.2300        10,624.99        337,609.85        395,568.75
+FIRSTMERIT CORPORATION                     4.616 FMER    337915102     21.6600        12,400.00        320,953.96        268,584.00
+FLOWSERVE CORP.                            0.000 FLS     34354P105Q    14.7900         8,100.00        232,008.80        119,799.00
+FMC CORP.                                  0.000 FMC     302491303     27.3200         5,200.00        157,692.73        142,064.00
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     20.4300         9,600.00        155,334.43        196,128.00
+FOREST OIL CORP.                           0.000 FST     346091705     27.6500         6,900.00        182,298.00        190,785.00
+FULLER H B CO                              1.700 FUL     359694106Q    25.8800         4,200.00        104,471.59        108,696.00
+FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     23.8500         8,300.00        228,040.00        197,955.00
+GALLAGHER (ARTHUR) J & CO.                 2.042 AJG     363576109Q    29.3800        12,900.00        151,311.52        379,002.00
+GARTNER INC-CL B                           0.000 IT.B    366651206      9.4500        12,239.00        178,373.56        115,658.55
+GATX CORP                                  5.609 GMT     361448103     22.8200         7,200.00        236,110.56        164,304.00
+GENTEX CORP.                               0.000 GNTX    371901109     31.6400        11,200.00        138,917.26        354,368.00
+GILEAD SCIENCES INC.                       0.000 GILD    375558103     34.0000        28,900.00        411,833.08        982,600.00
+GLATFELTER                                 5.319 GLT     377316104     13.1600         6,400.00        114,974.53         84,224.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102      5.9600         8,300.00        278,210.18         49,468.00
+GRANITE CONSTRUCTION INC                   2.064 GVA     387328107     15.5000         6,050.00         68,404.94         93,775.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     11.6400        17,815.00        241,778.44        207,366.60
+GREAT PLAINS ENERGY INC                    7.255 GXP     391164100     22.8800        10,100.00        286,393.78        231,088.00

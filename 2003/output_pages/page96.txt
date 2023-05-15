@@ -1,0 +1,23 @@
+ASOF02   Date 01/20/2004 Time 18:58:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 066
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+NEW PLAN EXCEL RE TRUST                    6.688 NXL     648053106Q    24.6700        18,000.00        392,825.53        444,059.99
+PROLOGIS TRUST                             4.487 PLD     743410102Q    32.0900        30,300.00        832,740.11        972,327.01
+REGENCY CENTERS CORP                       5.219 REG     758849103     39.8500         4,400.00        155,647.90        175,340.00
+SIMON PROP GROUP INC.                      5.179 SPG     828806109Q    46.3400         4,200.00        153,938.83        194,628.01
+THORNBURG MTG INC                          9.411 TMA     885218107     27.2000        13,099.99        346,658.65        356,320.00
+TRIZEC PROPERTIES INC                      5.194 TRZ     89687P107     15.4000        15,100.00        178,566.60        232,540.00
+VORNADO REALTY TRUST                       5.187 VNO     929042109     54.7500        14,900.00        662,547.45        815,775.00
+
+Instrument Total            29                                                       533,238.99     14,860,376.65     16,677,417.72
+
+Portfolio Total            860                                                    57,943,852.75  1,606,122,277.20  1,994,193,656.13
+

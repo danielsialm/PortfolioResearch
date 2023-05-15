@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 107
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+SUPERIOR INDUSTRIES INTL                   1.263 SUP     868168105     43.5200        27,000.00      1,037,025.73      1,175,040.00
+SUPERTEX INC                               0.000 SUPX    868532102     19.1000        10,700.00        238,335.63        204,370.00
+SUPPORTSOFT INC                            0.000 SPRT    868587106     13.1500        46,900.00        534,440.02        616,735.00
+SUREWEST COMMUNICATI                       2.474 SURW    868733106     40.4200        13,700.00        436,103.25        553,754.00
+SURMODICS INC                              0.000 SRDX    868873100     23.9000        16,900.00        778,642.67        403,910.00
+SUSQUEHANNA BANCSHARES INC.                3.518 SUSQ    869099101     25.0100        47,900.00      1,020,199.90      1,197,979.00
+SWIFT ENERGY COMPANY                       0.000 SFY     870738101     16.8500        31,000.00        733,295.06        522,350.00
+SWS GROUP INC                              2.247 SWS     78503N107     17.8000        16,900.00        360,827.42        300,820.00
+SYBASE INC.                                0.000 SY      871130100     20.5800       105,300.00      1,997,902.95      2,167,074.00
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     28.1000        46,100.00        936,588.68      1,295,410.00
+SYCAMORE NETWORKS INC                      0.000 SCMR    871206108      5.2400       228,200.00      1,037,515.67      1,195,768.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      8.5600        44,900.00        348,677.53        384,344.00
+SYLVAN LEARNING SYSTEMS INC                0.000 SLVN    871399101     28.7900        42,200.00        714,269.91      1,214,938.00
+SYMMETRICOM INC                            0.000 SYMM    871543104      7.2800        24,100.00        102,175.48        175,447.99
+SYMYX TECHNOLOGIES INC.                    0.000 SMMX    87155S108     20.5500        28,000.00        481,596.74        575,400.00
+SYNAPTICS INC                              0.000 SYNA    87157D109     14.9800        19,700.00        273,512.14        295,106.00
+SYNOVIS LIFE TECHNOLOGIES INC              0.000 SYNO    87162G105     20.3400        12,000.00        287,215.72        244,080.00
+SYNPLICITY INC                             0.000 SYNP    87160Y108      7.8300        14,500.00         88,736.75        113,535.00
+SYNTEL INC                                 0.971 SYNT    87162H103     24.7100         7,700.00        157,381.94        190,267.01
+SYPRIS SOLUTIONS INC                       0.713 SYPR    871655106     16.8100         6,500.00         89,753.97        109,265.00
+SYSTEMAX INC                               0.000 SYX     871851101      6.6600        11,100.00         45,737.51         73,926.00
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     16.3500        40,600.00        587,858.80        663,810.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     28.8100        49,700.00      1,196,665.28      1,431,857.01
+TALK AMERICA HOLDINGS INC                  0.000 TALK    87426R202     11.5200        45,200.00        503,443.32        520,704.00
+TALX CORP                                  0.868 TALX    874918105     23.0300        22,400.00        500,639.00        515,872.00
+TANOX INC                                  0.000 TNOX    87588Q109     14.8500        38,600.00        656,419.14        573,210.00
+TBC CORP                                   0.000 TBCC    872180104     25.8100        20,300.00        295,854.30        523,943.00
+TECHNE CORPORATION                         0.000 TECH    878377100     37.7800        49,200.00      1,659,806.63      1,858,776.00
+TECHNICAL OLYMPIC US                       0.000 TOUS    878483106     27.5300         2,800.00         75,315.08         77,084.00
+TECHNITROL INC.                            0.675 TNL     878555101     20.7400        48,500.00      1,071,928.64      1,005,890.00
+TECUMSEH PRODUCTS CO CL-A                  2.643 TECUA   878895200     48.4300        23,100.00        864,120.91      1,118,733.00
+TEJON RANCH CO DEL                         0.000 TRC     879080109     41.0100         4,400.00        134,188.37        180,444.00
+TEKELEC                                    0.000 TKLC    879101103     15.5500        61,500.00        795,146.06        956,325.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     18.8500        38,900.00        601,361.97        733,265.00
+TELETECH HOLDINGS INC                      0.000 TTEC    879939106     11.3000        41,900.00        180,316.92        473,470.00
+TELIK INC                                  0.000 TELK    87959M109     23.0100        53,100.00        961,712.61      1,221,831.00
+TENNANT COMPANY                            1.940 TNC     880345103     43.3000        10,300.00        404,661.31        445,990.00
+TENNECO AUTOMOTIVE INC                     0.000 TEN     880349105Q     6.6900        80,200.00        407,382.28        536,538.00
+TERAYON COMMUNICATION SYSTEMS              0.000 TERN    880775101      4.5000        52,900.00        205,565.93        238,050.00

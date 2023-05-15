@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 154
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+ACTIVISION INC                             0.000 ATVI    004930202     20.1800        58,299.99        864,458.33      1,176,494.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     20.4800        25,100.00        428,874.81        514,048.00
+AFFYMETRIX INC                             0.000 AFFX    00826T108     36.5500        28,333.00        848,093.76      1,035,571.15
+ALLEGHENY ENERGY INC.                      8.726 AYE     017361106Q    19.7100        49,000.00        661,939.94        965,790.00
+AMERICAN EAGLE OUTFITTERS                  0.509 AEOS    02553E106     47.1000        23,600.00        667,436.79      1,111,560.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100      6.6800        78,800.00        624,621.23        526,384.00
+ANDREW CORP.                               0.000 ANDW    034425108     13.6300        41,900.00        540,490.72        571,097.00
+ARIBA INC                                  0.000 ARBA    04033V203     16.6000        44,700.00        680,040.15        742,020.00
+AUTODESK INC.                              0.158 ADSK    052769106Q    37.9500        50,200.00        700,476.49      1,905,090.00
+BANNER CORP                                2.180 BANR    06652V109     31.1900        16,700.00        389,330.18        520,873.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101     11.6400        41,100.00        201,839.01        478,404.00
+BOMBAY COMPANY                             0.000 BBA     097924104      5.5300        73,300.00        518,868.00        405,349.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     11.6800        61,400.00        693,897.86        717,152.00
+BOWNE & CO INC.                            1.353 BNE     103043105     16.2600        31,800.00        441,708.36        517,068.00
+BROCADE COMMUNICATIONS SYSTEM              0.000 BRCD    111621108      7.6400       115,800.00        555,177.40        884,712.00
+CABELAS INC                                0.000 CAB     126804301     22.7400        29,800.00        698,864.25        677,652.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     40.0500        21,500.00        809,060.83        861,075.00
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     39.9700        12,700.00        497,552.45        507,619.00
+CHIQUITA BRANDS                            1.813 CQB     170032809Q    22.0600        15,600.00        260,946.70        344,136.00
+CHURCH & DWIGHT INC                        0.713 CHD     171340102Q    33.6200        29,600.00        907,090.25        995,152.00
+CITY HLDG CO                               2.428 CHCO    177835105     36.2400        14,200.00        432,777.75        514,608.00
+COACH INC                                  0.000 COH     189754104     56.4000        33,000.00      1,019,737.73      1,861,200.00
+CONNETICS CORP                             0.000 CNCT    208192104     24.2900        22,700.00        615,479.26        551,383.00
+CREE INC                                   0.000 CREE    225447101     40.0800        27,400.00        614,401.16      1,098,192.00
+CTI MOLECULAR IMAGING INC                  0.000 CTMI    22943D105     14.1900        50,000.00        641,469.73        709,500.00
+CURAGEN CORP                               0.000 CRGN    23126R101      7.1600        43,100.00        220,357.78        308,596.00
+DADE BEHRING HOLDINGS INC                  0.000 DADE    23342J206     56.0000        16,000.00        787,375.14        896,000.00
+EDGEWATER TECHNOLOGIN INC.                 0.000 EDGW    280358102      4.9000        60,000.00        303,650.19        294,000.00
+ELECTRONICS BOUTIQUE HLDGS                 0.000 ELBO    286045109     42.9400        19,500.00        616,190.80        837,330.00
+ENZO BIOCHEM INC.                          0.000 ENZ     294100102     19.4700        26,880.00        377,303.66        523,353.60
+F5 NETWORKS INC                            0.000 FFIV    315616102     48.7200        30,200.00        918,022.71      1,471,344.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     22.8900        15,000.00        154,027.42        343,350.00
+FLOWERS INDUSTRIES INC.                    1.583 FLO     343498101     31.5800        15,400.00        487,194.07        486,332.00
+FOSSIL INC.                                0.000 FOSL    349882100     25.6400        28,100.00        744,534.75        720,484.00
+GATX CORP                                  2.706 GMT     361448103     29.5600        35,300.00        881,441.99      1,043,468.00
+GEN-PROBE INC                              0.000 GPRO    36866T103     45.2100        30,900.00        868,883.47      1,396,989.00
+GENERAL CABLE CORP                         1.444 BGC     369300108     13.8500        59,600.00        399,620.56        825,460.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     68.8500        16,900.00        777,417.62      1,163,565.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      8.2900        46,900.00        242,409.60        388,801.00

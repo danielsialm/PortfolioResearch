@@ -1,0 +1,43 @@
+ASOF03   Date 01/19/2006 Time 18:24:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - R         RETAIL
+
+KROGER #03                     LOUISVILLE                     10.000         RKR003                  1,959,115.00      2,100,000.00
+KROGER #09                     FAYETTEVILLE NC                10.000         RKR009                  1,351,062.00      1,140,000.00
+KROGER #13                     DUNCANVILLE TX                 10.250         RKR013                  2,545,346.34      1,800,000.00
+KROGER #15                     ARLINGTON TX                   10.250         RKR015                  4,723,707.32      6,200,000.00
+KROGER #16                     LANETT AL                      10.250         RKR016                  2,360,976.00      2,500,000.00
+KROGER #22                     WINCHESTER KY                  10.000         RKR022                  1,839,030.00      1,900,000.00
+KROGER #25                     PADUCAH KY                      0.000         RKR025                  2,305,000.00      2,000,000.00
+LAKELAND PLAZA                 CUMMINS, GA                     9.500         RLAKPL                 23,173,747.15     41,000,000.41
+LONGS DRUGS #02                GRASS VALLEY CA                 8.750         RLD002                  1,100,000.00      4,000,000.00
+LONGS DRUGS #13                SALINAS CA                      0.000         RLD013                    900,000.00      1,700,000.00
+LONGS DRUGS #20                BAKERSFIELD CA                 10.625         RLD020                  1,450,000.00      1,600,000.00
+LUCKY #10                      ARROYO GRANDE CA                8.750         RLS010                  1,400,000.00      1,800,000.00
+LUCKY #11                      ATASCADERO CA                   9.100         RLS011                  1,750,000.00      1,600,000.00
+PALLADIUM AT CITYPLACE         WEST PALM BEACH, FL             0.000         RPALPR                      1,000.00          1,000.00
+PRESTON VILLAGE CENTER         PLANO, TX                       0.000         RPRSTV                 46,681,714.97     44,000,000.00
+SAFEWAY #09                    WILLIAMSBURG VA                10.500         RSAF09                  2,115,013.00      3,000,000.00
+SUPER X #01                    WINCHESTER KY                  10.250         RSPX01                    639,058.80        700,000.00
+SUPER X #04                    PADUCAH                        10.250         RSPX04                    531,000.00        700,000.00
+TG&Y #03                       LUCEDALE MS                    10.000         RTGY03                     67,742.00        700,000.00
+TG&Y #29                       HAZARD KY                      10.000         RTGY29                  2,000,000.00      2,700,000.00
+
+Instrument Total            23                                                                     109,514,757.58    135,141,000.41
+
+Instrument -X      OTHER
+
+EAGLES LANDING LAND            STOCKBRIDGE, GA 30281           0.000         REAGLE                    710,188.78        710,188.78
+GALLERIA LAND                  ATLANTA GA                     11.000         RGALD1                  1,787,097.95      9,200,000.00
+
+Instrument Total             2                                                                       2,497,286.73      9,910,188.78
+
+Portfolio Total             46                                                                     640,248,649.29    790,892,630.92
+

@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+EXACT SCIENCES CORP                          0.000     30063P105   EXAS            17,700          222,235.82          179,124.01
+EXACTECH INC                                 0.000     30064E109   EXAC             7,200          109,298.34          106,200.01
+EXAR CORP                                    0.000     300645108   EXAR            48,300          945,982.09          824,964.00
+EXCEL TECHNOLOGY INC                         0.000     30067T103   XLTC            20,015          555,567.23          657,692.90
+EXCHANGE NATIONAL BANCSHARES                 1.991     301309100   EXJF             5,000          199,112.58          180,750.00
+EXELEON CORP                                 3.013     30161N101 Q EXC            836,192       36,411,284.75       55,489,701.11
+EXELIXIS INC                                 0.000     30161Q104   EXEL            35,400          307,754.28          250,632.00
+EXPEDITORS INT'L. WASH INC.                  0.424     302130109   EXPD           188,200        4,144,704.62        7,087,612.01
+EXPONENT INC                                 0.000     30214U102   EXPO               900           18,963.90           19,260.00
+EXPRESS SCRIPTS                              0.000     302182100   ESRX           131,000        5,933,116.39        8,702,330.01
+EXPRESSJET HOLDINGS INC                      0.000     30218U108   XJT             36,300          563,873.88          544,500.00
+EXTENDED STAY AMERICA INC                    1.105     30224P101   ESA            174,600        2,623,028.08        2,528,208.00
+EXTREME NETWORKS INC                         0.000     30226D106   EXTR           116,600          641,484.10          840,686.00
+EXULT INC                                    0.000     302284104   EXLT            50,900          433,957.05          362,408.00
+EXXON MOBIL CORPORATION                      2.439     30231G102 Q XOM         13,609,368      355,589,568.88      557,984,088.01
+F N B CORP VA                                2.424     302930102   FNBP             3,400           99,080.99          100,980.00
+F5 NETWORKS INC                              0.000     315616102   FFIV            32,700          653,187.98          820,770.00
+FACTSET RESEARCH SYSTEMS INC.                0.628     303075105   FDS             47,424        1,535,215.39        1,812,071.06
+FAIR ISAAC INC.                              0.162     303250104   FIC            102,930        4,402,253.54        5,060,038.79
+FAIRCHILD CORP/THE                           0.000     303698104   FA              96,800          462,672.52          487,872.00
+FAIRCHILD SEMICONDUTOR CORP                  0.000     303726103   FCS            346,600        6,835,183.64        8,654,602.03
+FALCONSTOR SOFTWARE                          0.000     306137100   FALC            21,900          139,851.91          191,406.00
+FAMILY DOLLAR STORES                         0.947     307000109 Q FDO            391,472       10,939,827.67       14,046,015.38
+FARGO ELECTRONICS                            0.000     30744P102   FRGO            13,900          174,832.35          176,808.00
+FARMER BROS CO                               1.220     307675108   FARM               900          314,072.57          280,125.00
+FARMERS CAP BK CORP                          3.881     309562106   FFKT             7,200          243,651.24          244,872.00
+FASTENAL CO                                  0.600     311900104   FAST           176,760        6,052,582.80        8,827,394.41
+FBL FINANCIAL GROUP INC.-CL A                1.550     30239F106   FFG             19,700          470,671.11          508,260.00
+FED. NATL. MTG. ASSN.                        2.398     313586109 Q FNM          2,087,170      103,467,133.81      156,662,980.21
+FEDERAL AGRIC MTG CO                         0.000     313148306   AGM              9,400          230,277.18          300,424.00
+FEDERAL SIGNAL CORP                          2.283     313855108   FSS             57,600        1,059,881.79        1,009,152.00
+FEDERATED DEPARTMENT STORES                  1.060     31410H101   FD             783,165       32,669,864.07       36,910,566.48
+FEDERATED INVESTORS INC.-CL B                1.158     314211103   FII            192,072        5,465,221.37        5,639,233.93
+FEDEX CORPORATION                            0.355     31428X106   FDX            550,570       24,416,952.74       37,163,474.99
+FEI COMPANY                                  0.000     30241L109   FEIC            23,300          627,562.57          524,250.00
+FERRO CORP                                   2.131     315405100 Q FOE             35,700          889,055.46          971,397.00
+FFLC BANCORP INC                             1.808     30242W104   FFLC             4,900          128,763.77          140,875.00
+FIDELITY BANKSHARES                          1.273     31604Q107   FFFL            16,000          366,162.33          502,400.00
+FIDELITY NATIONAL FINL INC                   1.856     316326107   FNF            553,533       13,898,724.85       21,466,009.74
+FIFTH THIRD BANCORP                          1.962     316773100 Q FITB           931,800       44,192,062.02       55,069,380.00

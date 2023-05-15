@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 081
+ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 083
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     39.1100        22,200.00        995,836.31        868,242.00
-MESA AIR GROUP INC                         0.000 MESA    590479101      7.5200        33,500.00        268,532.71        251,920.00
-METHODE ELECTRONICS CL-A                   2.500 METHA   591520200      8.0000        38,200.00        381,670.18        305,600.00
-METRO ONE TELECOMMUNICATIONS               0.000 MTON    59163F105     30.2500        24,600.00        547,918.50        744,150.00
-MGI PHARMA INC                             0.000 MOGN    552880106     15.2800         2,200.00         38,704.71         33,616.01
-MICHAELS STORES                            0.000 MIK     594087108     32.9500        65,600.00        966,666.07      2,161,520.00
-MICROS SYSTEMS INC.                        0.000 MCRS    594901100     25.1000        19,000.00        550,485.59        476,900.00
-MICROSEMI CORP                             0.000 MSCC    595137100     29.7000        28,800.00        861,577.02        855,360.00
-MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     22.7000        49,500.00        752,381.66      1,123,650.00
-MIDAS INC.                                 2.782 MDS     595626102     11.5000        11,900.00        274,290.97        136,850.00
-MIDWAY GAMES INC.                          0.000 MWY     598148104     15.0100        41,900.00        637,778.32        628,919.00
-MIDWEST EXPRESS HOLDINGS INC               0.000 MEH     597911106     14.6000        15,900.00        376,300.56        232,140.00
-MILACRON, INC.                             0.253 MZ      598709103Q    15.8100        36,400.00        584,589.11        575,484.00
-MOBILE MINI INC.                           0.000 MINI    60740F105     39.1200        13,800.00        398,268.00        539,856.00
-MONACO COACH CORPORATION                   0.000 MNC     60886R103     21.8700        32,550.00        405,594.02        711,868.50
-MRO SOFTWARE INC                           0.000 MROI    55347W105     23.3800        21,800.00        790,911.63        509,684.00
-MUELLER INDUSTRIES INC.                    0.000 MLI     624756102     33.2500        32,600.00        808,875.57      1,083,950.00
-MUTUAL RISK MANAGEMENT LTD                 0.547 MM      628351108      7.3000        41,100.00        891,649.15        300,030.00
-MYERS INDUSTRIES INC.                      1.758 MYE     628464109Q    13.6500        23,430.00        325,268.96        319,819.50
-NASH FINCH CO.                             1.157 NAFC    631158102     31.1000        12,800.00        242,847.55        398,080.00
-NATIONAL PRESTO INDS INC                   7.207 NPK     637215104     27.7500         6,500.00        242,578.58        180,375.00
-NATURES SUNSHINE PRODS INC.                1.107 NATR    639027101     11.7400        22,600.00        186,283.13        265,324.00
-NAUTICA ENTERPRISES INC.                   0.000 NAUT    639089101     12.7900        38,200.00        923,486.66        488,578.00
-NBTY INC.                                  0.000 NBTY    628782104     11.7000        66,900.00        641,794.46        782,730.00
-NDC HEALTH CORP                            0.463 NDC     639480102     34.5500        33,000.00        821,526.11      1,140,150.00
-NETEGRITY INC                              0.000 NETE    64110P107     19.3600        33,500.00        649,405.00        648,560.00
-NETWORK EQUIPMENT TECH. INC.               0.000 NWK     641208103      5.4500           600.00          9,831.13          3,270.00
-NEW ENGLAND BUSINESS SERVICE               4.177 NEB     643872104     19.1500        13,300.00        388,924.85        254,695.00
-NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     35.5100        43,100.00        929,691.08      1,530,481.00
-NJ RESOURCES CORP. COMMON                  3.846 NJR     646025106     46.8000        18,100.00        602,988.19        847,080.00
-NORTHWEST NATURAL GAS CO.                  4.941 NWN     667655104     25.5000        25,600.00        677,431.81        652,800.00
-NORTHWESTERN CORPORATION                   6.033 NOR     668074107     21.0500        23,400.00        515,214.24        492,570.00
-NOVEN PHARMACEUTICALS INC                  0.000 NOVN    670009109     17.7500        23,000.00        421,841.23        408,250.00
-NUEVO ENERGY COMPANY                       0.000 NEV     670509108     15.0000        16,200.00        305,070.30        243,000.00
-NVR INC                                    0.000 NVR     62944T105    204.0000         7,800.00        468,046.74      1,591,200.00
-NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200        25,300.00        920,973.09        506,506.00
-O’REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     36.4700        52,700.00        736,700.51      1,921,969.00
-OCEANEERING INT’L. INC.                    0.000 OII     675232102     22.1200        21,500.00        378,558.33        475,580.00
-OFFSHORE LOGISTICS                         0.000 OLOG    676255102     17.7600        22,600.00        414,499.47        401,376.00
+POLARIS INDUSTRIES INC.                    1.731 PII     731068102     57.7500        24,700.00        896,332.57      1,426,425.00
+POLYMEDICA CORP                            0.000 PLMD    731738100     16.6000        15,300.00        615,298.28        253,980.00
+POLYONE CORPORATION                        2.551 POL     73179P106      9.8000        85,700.00        903,468.02        839,860.00
+POPE & TALBOT INC                          4.210 POP     732827100     14.2500        15,400.00        233,183.25        219,450.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400        28,800.00        517,690.98        657,792.00
+PRE-PAID LEGAL SVCS                        0.000 PPD     740065107     21.9000        22,800.00        514,302.35        499,320.00
+PRESIDENTIAL LIFE                          1.945 PLFE    740884101     20.5600        29,000.00        581,740.00        596,240.00
+PRIMA ENERGY CORP                          0.000 PENG    741901201     21.7500        12,600.00        279,858.00        274,050.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     11.0500        50,100.00        866,683.74        553,605.00
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     35.1900        45,800.00        783,920.61      1,611,702.00
+PROFIT RECOVERY GROUP INTERNAT             0.000 PRGX    743168106      8.1500        46,500.00      1,177,627.40        378,975.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     17.2800        37,500.00        301,287.16        648,000.00
+PROVIDENT BANKSHARES CORPORATI             3.292 PBKS    743859100     24.3000        27,985.00        671,962.84        680,035.50
+PROVINCE HEALTHCARE COMPANY                0.000 PRHC    743977100     30.8600        26,300.00        953,703.18        811,618.00
+PROXIM INC                                 0.000 PROX    744284100      9.9200        24,000.00      1,028,478.87        238,080.00
+QRS CORPORATION                            0.000 QRSI    74726X105     14.1000        14,300.00        898,950.15        201,630.00
+QUAKER CHEM CORP                           3.980 KWR     747316107Q    20.6000         8,900.00        155,791.02        183,340.00
+QUANEX CORP                                2.261 NX      747620102     28.3000        13,800.00        401,350.12        390,540.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     17.2000        27,300.00        699,901.35        469,560.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102     11.5000        27,300.00        606,922.68        313,950.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     19.6600        14,100.00        837,879.57        277,206.00
+RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.4000        10,000.00         50,650.00         74,000.00
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    22.7000        28,900.00        554,365.77        656,030.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     22.5400        20,700.00        516,551.12        466,578.00
+RAYMOND JAMES FINANCIAL INC                1.013 RJF     754730109     35.5200        47,100.00      1,040,073.34      1,672,992.00
+READ-RITE CORP                             0.000 RDRT    755246105      6.6100       113,400.00      1,546,507.53        749,574.00
+REGAL BELOIT                               2.201 RBC     758750103     21.8000        20,700.00        563,771.63        451,260.00
+REGENERON PHARMACEUTICAL                   0.000 REGN    75886F107     28.1600        40,700.00        725,391.67      1,146,112.00
+REGIS CORP                                 0.465 RGIS    758932107     25.7800        39,500.00        664,428.23      1,018,310.00
+REHABCARE GROUP INC                        0.000 RHB     759148109     29.6000        17,600.00        675,462.83        520,960.00
+RELIANCE STEEL & ALUMINUM                  0.914 RS      759509102     26.2500        30,300.00        567,128.40        795,375.00
+REMINGTON OIL & GAS CORP                   0.000 ROIL    759594302     17.3000        41,800.00        627,891.12        723,140.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     32.1000        49,600.00      1,134,007.51      1,592,160.00
+RESMED INC                                 0.000 RMD     761152107     53.9200        29,800.00        799,609.23      1,606,816.00
+RESPIRONICS INC                            0.000 RESP    761230101     34.6400        29,300.00        564,524.40      1,014,952.00
+RGS ENERGY GROUP INC                       4.787 RGS     74956K104     37.6000        36,100.00        998,255.47      1,357,360.00
+RIGGS NATL CORP WASH DC                    1.431 RIGS    766570105     13.9700        27,400.00        466,160.46        382,778.00
+RLI CORP                                   1.422 RLI     749607107     45.0000        10,000.00        416,772.70        450,000.00
+ROADWAY CORPORATION                        0.545 ROAD    769742107     36.7000        22,200.00        492,736.59        814,740.00

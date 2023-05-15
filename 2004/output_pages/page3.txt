@@ -1,0 +1,19 @@
+ASOF01   Date 01/21/2005 Time 18:34:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - LIQUIDITY RESERVES
+Portfolio  - LQR-CONTRALQR-CONTRA ASSETS
+Instrument - TBAS      To Be announced mortgages
+
+TBA-INCOME                         0.5000  3.216 TBA-INCOME         03/19/2033   -82,724,976.00    -84,137,764.33    -84,137,764.31
+
+Instrument Total             1                                                   -82,724,976.00    -84,137,764.33    -84,137,764.31
+
+Portfolio Total              1                                                   -82,724,976.00    -84,137,764.33    -84,137,764.31
+
+Group Total                 64                              1,682,210,024.00 /             0.00  1,678,745,216.46  1,678,745,216.48
+

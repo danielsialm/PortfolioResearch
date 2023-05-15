@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 059
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+PEABODY ENERGY CORP                        1.198 BTU     704549104     41.7100         5,800.00        149,639.64        241,918.00
+PENTAIR INC.                               1.838 PNR     709631105Q    45.7000         9,200.00        242,914.41        420,440.01
+PEOPLES BK BRIDGEPOR                       4.785 PBCT    710198102     32.6000         4,700.00        136,100.59        153,220.00
+PEOPLES ENERGY CORP                        5.042 PGL     711030106Q    42.0400         6,600.00        248,437.50        277,464.00
+PEOPLESOFT INC                             0.000 PSFT    712713106     22.8000        16,200.00        339,265.98        369,360.00
+PEPCO HOLDINGS INC.                        5.117 POM     713291102     19.5400        29,100.00        636,282.00        568,614.00
+PEPSI BOTTLING GROUP INC                   0.165 PBG     713409100     24.1800        31,600.00        720,183.79        764,088.00
+PEPSIAMERICAS INC                          0.233 PAS     71343P200Q    17.1200        48,100.00        774,966.57        823,472.00
+PEPSICO INC.                               1.372 PEP     713448108Q    46.6200       318,900.00      9,392,499.59     14,867,118.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     36.1700         8,400.00        318,438.12        303,828.00
+PERKIN ELMER INC                           1.640 PKI     714046109Q    17.0700        57,100.00        931,782.84        974,696.99
+PETSMART INC                               0.336 PETM    716768106     23.8000        26,300.00        614,053.00        625,940.00
+PFIZER INC.                                1.924 PFE     717081103Q    35.3300     1,440,700.00     30,559,859.74     50,899,931.00
+PHARMACEUTICAL RESOURCES INC               0.000 PRX     717125108     65.1500        14,700.00        845,399.18        957,705.01
+PHELPS DODGE CORP.                         0.000 PD      717265102Q    76.0900        15,499.99      1,061,069.55      1,179,394.99
+PIER 1 IMPORTS INC/DEL                     1.463 PIR     720279108     21.8600        16,700.00        336,496.64        365,062.00
+PITNEY-BOWES, INC.                         2.954 PBI     724479100Q    40.6200        43,400.00      1,589,331.27      1,762,907.99
+PLUM CREEK TIMBER CO INC                   4.597 PCL     729251108     30.4500        33,900.00        948,132.73      1,032,255.00
+PMC-SIERRA INC                             0.000 PMCS    69344F106     20.1500        62,100.00      1,012,405.38      1,251,315.00
+PMI GROUP INC.                             0.402 PMI     69344M101     37.2300        32,600.00        954,257.76      1,213,698.00
+PNC FINANCIAL SERVICES GROUP               3.654 PNC     693475105Q    54.7300        52,600.00      2,666,268.47      2,878,798.01
+POLARIS INDUSTRIES INC.                    1.399 PII     731068102     88.5800        11,100.00        808,078.25        983,238.01
+POLO RALPH LAUREN CORP                     0.694 RL      731572103     28.8000        29,100.00        799,495.96        838,080.01
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200        47,200.00        894,596.74        921,344.00
+POPULAR INC                                2.403 BPOP    733174106     44.9400        24,600.00        948,205.25      1,105,524.01
+PPG INDUSTRIES INC.                        2.749 PPG     693506107Q    64.0200        15,700.00        807,834.74      1,005,114.00
+PPL CORPORATION                            3.520 PPL     69351T106Q    43.7500         8,800.00        256,920.33        384,999.99
+PRAXAIR INC.                               1.413 PX      74005P104Q    38.2000        60,200.00      1,379,042.92      2,299,640.00
+PRECISION CASTPARTS CORP                   0.264 PCP     740189105     45.4100        23,800.00        778,890.18      1,080,758.00
+PRINCIPAL FINANCIAL GROUP                  1.360 PFG     74251V102     33.0700        53,900.00      1,528,726.05      1,782,472.99
+PROCTER & GAMBLE CO                        1.822 PG      742718109Q    99.8800       240,300.00     14,225,285.40     24,001,164.00
+PROGRESS ENERGY, INC                       5.081 PGN     743263105Q    45.2600        39,900.00      1,677,227.37      1,805,874.00
+PROGRESSIVE CORP                           0.119 PGR     743315103     83.5900        36,300.00      1,998,096.46      3,034,317.01
+PROTECTIVE LIFE CORP                       1.891 PL      743674103     33.8400        11,800.00        291,682.84        399,312.00
+PROTEIN DESIGN LABS INC                    0.000 PDLI    74369L103     17.9000        53,800.00        774,704.20        963,020.01
+PROVIDENT FINANCIAL GROUP                  3.004 PFGI    743866105     31.9500         7,700.00        234,014.29        246,014.99
+PROVIDIAN FINANCIAL CORP                   1.030 PVN     74406A102     11.6400       101,800.00      1,867,616.19      1,184,952.00
+PRUDENTIAL FINANCIAL INC                   1.197 PRU     744320102     41.7700       102,400.00      3,308,229.80      4,277,248.00
+PUBLIC SVC ENTERPRISES                     4.931 PEG     744573106Q    43.8000        42,000.00      1,441,903.89      1,839,600.00

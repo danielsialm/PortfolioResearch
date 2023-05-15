@@ -1,0 +1,32 @@
+ASOF11   Date 01/19/2006 Time 18:25:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+VIA TECHNOLOGIES INC                         0.070     6146823      2388_             2.00                7.07
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00                0.00
+YANG MING MARINE TRANSPORT                   0.425     6987583      2609_     1,000,000.00        1,030,660.52
+YOULCHON CHEMICAL CO LTD                     0.004     6146997      00873         5,176.00           28,991.79
+YUHAN CORPORATION                            0.000     6988337      00010           754.87           42,987.83
+
+Instrument Total             200                                            348,224,924.87      237,400,951.79
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                    27,881.26        2,788,126.96
+
+Instrument Total               1                                                 27,881.26        2,788,126.96
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+DAESANG FEED CO RT                           0.000     9418264      94182           260.00               80.70
+
+Instrument Total               1                                                    260.00               80.70
+
+Portfolio Total              236                                            353,513,570.23      313,416,049.08        604,992,713.88

@@ -1,0 +1,51 @@
+ASOF11   Date 01/21/2005 Time 18:35:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ROLLS-ROYCE GROUP PLC                        2.471     3283648      RR/_L     4,050,000.00        6,285,302.15
+SANKYO CO JPY50                              0.012     6775283      4501_       660,000.00       12,851,818.59
+SANTOS NPV(NZ)                               2.772     6776703      STO_A     2,600,000.00        8,546,389.37
+SCHNEIDER ELECTRIC                           2.919     4834108      SU_FP       115,000.00        6,097,843.24
+SCOT + NEWCASTLE O                           8.934     0783969      SCTN_       390,900.00        2,710,593.60
+SCOT POWER PLC 0.5                          10.045     0690070      SPW_L     1,440,000.00        9,528,829.73
+SEKISUI HOUSE Y50                            0.014     6793906      1928_     1,030,000.00        8,661,917.63
+SIEMENS AG DEM 5.0                           2.724     5727973      SIE_G       109,000.00        4,958,697.98
+SUMITOMO OSAKA CMT                           0.015     6858548      5232_     2,525,000.00        5,966,820.39
+SUMITOMO TRUST+BKG JPY 50.0                  0.013     6859002      8403_     2,400,000.00       13,998,143.91
+SUN HUNG KAI PROPE                           0.273     6859927      16_HK     1,164,100.00        7,393,142.95
+SUZUKEN COMPANY                              0.009     6865560      9987_       120,000.00        3,133,627.41
+SWISS REINSURANCE                            1.193     7189816      RUKN_       240,000.00       20,091,236.99
+SYNGENTA CHF                                 0.619     4356646      SYNN_       117,000.00        6,448,133.27
+TAKEDA PHARMACEUTICAL COMPANY                0.016     6870445      4502_       227,400.00        9,342,286.37
+TAKEFUJI CORP                                0.014     6876067      8564_       190,000.00       13,748,286.00
+TELECOM CORP OF NEW ZEALAND                  3.698     6881436      TEL_N     5,306,400.00       12,105,154.51
+TELEFONICA SA                                3.922     5732524      TEF_S       755,000.00        8,467,402.26
+TOKYO BROADCASTING                           0.005     6894166      9401_       800,000.00       10,002,823.24
+TOKYO GAS CO Y50                             0.016     6895448      9531_     2,076,000.00        5,688,772.18
+TOMKINS PLC                                  9.234     0896265      TOMK_     2,300,000.00        5,234,131.92
+TOTAL                                        3.974     4905413      FP_FP        84,700.00        9,322,095.43
+UBS AG-REG                                   2.398     7126114      UBSN_       280,000.00       13,201,552.37
+UNICREDITO ITALIAN                           5.494     4232445      UC_IM     2,200,000.00        9,772,698.94
+UPM-KYMMENE CORP F                           6.230     5051252      UPM1V       625,000.00        9,154,395.23
+UTD UTILITIES 50P                            9.581     3338849      UU/A_       569,444.00        1,094,544.82
+UTD UTILITIES ORD                           13.612     0646233      UU/_L     1,025,000.00        8,329,094.63
+VALEO FRF20                                  4.633     4937579      FR_FP       254,447.00       10,845,846.64
+VODAFONE GROUP                               4.061     0719210      VOD_L     7,393,700.00       22,322,591.66
+WEIR GROUP                                   7.464     0946580      WEIR_     1,750,000.00        6,618,574.77
+
+Instrument Total             108                                            265,666,213.99      891,213,978.64
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE VALUE                                   0.000     IL-EAFEVAL               752,218.84       75,221,884.53
+
+Instrument Total               1                                                752,218.84       75,221,884.53
+
+Portfolio Total              109                                            266,418,432.84      966,435,863.17      1,326,452,120.55

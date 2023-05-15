@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 066
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+GREATER BAY BANCORP                        2.891 GBBK    391648102     17.2900         7,600.00        245,890.37        131,404.00
+GREENPOINT FINANCIAL                       2.213 GPT     395384100     45.1800        14,400.00        383,852.90        650,592.00
+GTECH HOLDINGS CORP                        0.000 GTK     400518106     27.8600         8,400.00        133,857.55        234,024.00
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105      9.1800         9,800.00        179,998.47         89,964.00
+HARRIS CORP.                               1.216 HRS     413875105Q    26.3000         9,800.00        192,362.98        257,740.00
+HARSCO CORP                                3.292 HSC     415864107Q    31.8900         6,000.00        250,485.49        191,340.00
+HARTE-HANKS INC.                           0.535 HHS     416196103     18.6700        13,350.00        241,297.69        249,244.50
+HAWAIIAN ELECTRIC INDS                     5.638 HE      419870100     43.9800         5,400.00        208,689.63        237,492.00
+HCC INSURANCE HOLDINGS INC.                1.056 HCC     404132102     24.6000         9,200.00        247,253.33        226,320.00
+HEALTH NET                                 0.000 HNT     42222G108     26.4000        18,200.00        482,150.96        480,480.00
+HELMERICH & PAYNE, INC                     1.146 HP      423452101Q    27.9100         7,400.00        126,378.34        206,534.00
+HENRY (JACK) & ASSOCIATES                  1.162 JKHY    426281101     12.0400        12,900.00        119,268.77        155,316.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     45.0000         6,500.00        245,965.23        292,500.00
+HIBERNIA CORP CL-A                         3.115 HIB     428656102     19.2600        23,200.00        393,496.50        446,832.00
+HILLENBRAND IND.                           2.070 HB      431573104Q    48.3100         9,100.00        437,310.06        439,621.00
+HISPANIC BROADCASTING A                    0.000 HSP     43357B104     20.5500        16,000.00        507,190.53        328,800.00
+HON INDUSTRIES                             1.768 HNI     438092108     28.2800         8,700.00        233,907.73        246,036.00
+HORACE MANN EDUCATORS                      2.739 HMN     440327104Q    15.3300         6,000.00        157,383.00         91,980.00
+HORMEL FOODS CORP                          1.800 HRL     440452100     23.3300        20,400.00        302,971.40        475,932.00
+HUBBELL INC                                3.756 HUB.B   443510201Q    35.1400         8,700.00        397,693.20        305,718.00
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     29.3000         5,800.00        105,642.31        169,940.00
+ICN PHARMACEUTICALS                        2.841 ICN     448924100Q    10.9100        12,300.00        424,079.72        134,193.00
+IDACORP, INC.                              7.490 IDA     451107106     24.8300         5,600.00        182,231.34        139,048.00
+IDEC PHARMACEUTICALS                       0.000 IDPH    449370105     33.1700        22,500.00        392,900.15        746,325.00
+IMATION CORP                               0.000 IMN     45245A107     35.0800         5,200.00        103,989.83        182,416.00
+IMC GLOBAL INC.                            0.749 IGL     449669100Q    10.6700        16,900.00        531,910.26        180,323.00
+INCYTE GENOMICS, INC.                      0.000 INCY    45337C102      4.5600        10,000.00        187,484.87         45,600.00
+INDEPENDENCE COMMUNITY BANK                2.206 ICBC    453414104     25.3800         8,400.00        192,780.00        213,192.00
+INDYMAC BANCORP INC                        0.000 NDE     456607100     18.4900         8,100.00        220,390.55        149,769.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106      6.1600         5,800.00        295,390.26         35,728.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106      8.3700        15,200.00        249,767.79        127,224.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     18.4600         9,400.00        190,125.57        173,523.99
+INTERNATIONAL SPEEDWAY CORPORA             0.160 ISCA    460335201     37.2900         7,800.00        476,450.70        290,862.00
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     18.3300         7,300.00        235,214.90        133,809.00
+INTERSIL HOLDINGS CORP                     0.000 ISIL    46069S109     13.9400        20,100.00        387,635.12        280,194.00
+INTERSTATE BAKERIES                        1.836 IBC     46072H108     15.2500         6,500.00        207,108.59         99,125.00
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     22.3600         7,150.00        119,627.15        159,874.00
+INVESTORS FINANCIAL SERVICES C             0.182 IFIN    461915100     27.3900         9,500.00        113,522.73        260,205.00
+IVAX CORP                                  0.000 IVX     465823102     12.1300        28,562.00        149,285.62        346,457.06

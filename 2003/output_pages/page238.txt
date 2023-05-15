@@ -1,0 +1,17 @@
+ASOF10   Date 01/20/2004 Time 18:59:18   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+VORNADO REALTY TRUST                         5.187     929042109   VNO            164,472        7,352,152.15        9,004,842.00
+WASHINGTON RE INV                            5.102     939653101   WRE             41,300        1,158,253.48        1,205,960.00
+WEINGARTEN RE INVST                          5.276     948741103   WRI             83,700        3,583,209.34        3,712,095.00
+WINSTON HOTELS INC                           5.882     97563A102   WXH             16,400          146,374.34          167,280.00
+
+Instrument Total                    124                                        10,210,141      260,813,599.09      295,917,808.47
+

@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 014
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 016
 
 Monthly Market Portfolio
 
@@ -6,11 +6,11 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-CASTLE  BLACKROCK INTERNATIO
+Portfolio  - I-JPMOR   JP MORGAN
 Instrument - INTF      INTERNATIONAL FUNDS
 
-BLACKROCK INTL-LQR                           0.000     IL-CAST                      204.55           20,455.23
+JP MORGAN - LQR                              0.000     IL-JPM                     1,172.73          117,273.11
 
-Instrument Total               1                                                    204.55           20,455.23
+Instrument Total               1                                                  1,172.73          117,273.11
 
-Portfolio Total                1                                                    204.55           20,455.23             20,487.45
+Portfolio Total                1                                                  1,172.73          117,273.11            451,899.88

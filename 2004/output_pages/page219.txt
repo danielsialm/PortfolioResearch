@@ -1,0 +1,32 @@
+ASOF02   Date 01/21/2005 Time 18:35:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 187
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-VC     VENTURE CAPITAL
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+NORTHCOAST FUND II                         0.000 9940481FAVCNC          0.0000    11,515,930.00     11,515,930.00      2,597,877.51
+OHIO INNOVATION FUND I                     0.000 OIF1    VEA02581       0.0000     1,800,000.00      1,800,000.00      1,926,034.02
+PARK ST CAPITAL PRIVATE EQUITY             0.000 AVPARK5 AVPARK5        0.0000     1,353,550.68      1,353,550.68      1,201,717.99
+PARK STREET CAPITAL PRIVATE EQ             0.000 AVPARK6 AVPARK6        0.0000       400,000.00        400,000.00        400,000.00
+PRIMUS CAPITAL FUND III-A PFD              0.000 PCFZ    VEA06130       0.0000         1,000.00            999.99        353,819.39
+PRIMUS CAPITAL FUND III-B                  0.000 PCFY    VEA06129       0.0000         1,000.00          1,000.00        403,995.41
+PRIMUS CAPITAL FUND IV                     0.000 PCF4    VEA02451       0.0000    11,374,826.33     11,374,826.13      9,813,737.57
+PRIMUS CAPITAL FUND V                      0.000 9940481YAVPRIMUS5      0.0000    27,652,500.00     27,652,500.00     19,187,219.86
+PRISM VENTURE PARTNERS IV                  0.000 9940608YAVPRISM4       0.0000    11,400,000.00     11,400,000.00      7,876,777.01
+SPACEVEST II                               0.000 VEASPVE VEASPVE        0.0000    11,573,043.36     11,573,043.35      7,176,220.85
+TUCKER ANTHONY PRIVATE EQITY F             0.000 AVTAPE3 AVTAPE3        0.0000     6,075,000.00      6,074,999.93      5,153,737.01
+TUCKER ANTHONY PRIVATE EQUITY              0.000 9940608ZAVTAPE4        0.0000     6,037,500.00      6,037,500.00      5,926,157.00
+WARBURG PINCUS EQUITY PARTNERS             0.000 9940482BAWARBURG       0.0000    27,929,808.58     27,929,808.55     40,659,743.75
+WARBURG PINCUS VIII                        0.000 AWARBURGAWARBURG8      0.0000    30,269,925.00     30,269,924.27     30,357,527.00
+
+Instrument Total            53                                                   535,710,641.55    535,710,636.36    409,182,130.18
+
+Portfolio Total             53                                                   535,710,641.55    535,710,636.36    409,182,130.18
+
+Group Total                110                                          0.00 / 1,272,161,838.24  1,295,037,409.51  1,259,107,441.38
+

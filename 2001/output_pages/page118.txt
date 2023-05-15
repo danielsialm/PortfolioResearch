@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 089
+ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 091
 
 Monthly Market Portfolio
 
@@ -6,45 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Portfolio  - HCP       HEALTHCARE
+Portfolio  - TEC       TECHNOLOGY
 Instrument - COM       COMMON STOCK
 
-ABBOTT LABORATORIES                        1.506 ABT     002824100Q    55.7500        47,200.00      2,183,086.59      2,631,399.99
-ALLERGAN PHARMACEUTICALS INC.              0.479 AGN     018490102Q    75.0500         5,000.00        360,170.00        375,250.00
-ALPHARMA, INC.-CL A                        0.680 ALO     020813101Q    26.4500         3,500.00        118,495.00         92,575.00
-AMERICAN HOME PRODUCTS                     1.499 AHP     026609107Q    61.3600        55,900.00      3,223,337.54      3,430,024.00
-AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     20.8000         5,000.00         80,000.00        104,000.00
-AMERISOURCEBERGEN CORP                     0.047 ABC     03073E105     63.5500         3,430.00        175,068.66        217,976.50
-AMGEN INC                                  0.000 AMGN    031162100     56.4400        30,800.00      1,876,431.48      1,738,351.98
-ANDRX GROUP                                0.000 ADRX    034553107     70.4100         2,000.00        126,995.00        140,820.00
-BAXTER INTL                                1.081 BAX     071813109Q    53.6300        32,800.00      1,497,278.03      1,759,064.00
-BECTON DICKINSON & COMPANY                 1.146 BDX     075887109Q    33.1500        20,200.00        693,074.16        669,630.00
-BIOGEN INC.                                0.000 BGEN    090597105     57.3500         9,900.00        556,012.05        567,765.00
-BIOMET INC.                                0.000 BMET    090613100     30.9000         6,750.00        165,862.89        208,575.00
-BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     24.1200        17,000.00        279,970.00        410,040.00
-BRISTOL-MYERS SQUIBB                       2.156 BMY     110122108Q    51.0000        65,000.00      3,601,393.05      3,315,000.00
-CARDINAL HEALTH INC.                       0.154 CAH     14149Y108Q    64.6600         7,800.00        483,236.32        504,348.00
-CHIRON CORP                                0.000 CHIR    170040109     43.8400         3,900.00        169,935.50        170,976.00
-COR THERAPEUTICS INC                       0.000 CORR    217753102     23.9300         8,000.00        176,532.50        191,440.00
-COVANCE INC                                0.000 CVD     222816100     22.7000         3,700.00         60,133.00         83,990.00
-ELI LILLY & COMPANY                        1.426 LLY     532457108Q    78.5400        19,500.00      1,421,746.41      1,531,530.00
-EXPRESS SCRIPTS                            0.000 ESRX    302182100     46.7600         5,200.00        216,480.00        243,152.00
-FIRST HEALTH GROUP CORP.                   0.000 FHCC    320960107     24.7400         4,200.00         92,272.00        103,908.00
-FOREST LABORATORIES INC.                   0.000 FRX     345838106     81.9500         8,100.00        556,212.97        663,795.00
-GENZYME CORP. GEN. DIV.                    0.000 GENZ    372917104     59.8600        11,400.00        529,726.37        682,404.00
-GUIDANT CORP.                              0.000 GDT     401698105Q    49.8000        17,300.00        729,675.64        861,540.00
-HCA INC                                    0.207 HCA     404119109     38.5400        26,800.00      1,037,994.16      1,032,872.00
-HEALTH MGMT ASSOCIATES CL A                0.000 HMA     421933102     18.4000         5,000.00         93,950.00         92,000.00
-HEALTH NET                                 0.000 HNT     42222G108     21.7800         8,500.00        173,044.10        185,130.00
-HEALTHSOUTH CORP                           0.000 HRC     421924101     14.8200         7,000.00        102,914.00        103,740.00
-HUMANA INC.                                0.000 HUM     444859102     11.7900        14,300.00        154,341.00        168,597.00
-ICN PHARMACEUTICALS                        0.895 ICN     448924100Q    33.5000        10,000.00        304,350.00        335,000.00
-IDEXX LABS INC.                            0.000 IDXX    45168D104     28.5100         4,200.00         95,298.20        119,742.00
-IMCLONE SYSTEMS                            0.000 IMCL    45245W109     46.4600         2,000.00         88,975.00         92,920.00
-IMMUNEX CORP                               0.000 IMNX    452528102     27.7100        18,000.00        364,816.00        498,780.00
-IVAX CORP                                  0.000 IVX     465823102     20.1400         3,000.00         59,823.00         60,420.00
-JOHNSON & JOHNSON                          1.218 JNJ     478160104Q    59.1000        94,300.00      4,461,212.20      5,573,129.99
-KING PHARMACEUTICALS                       0.000 KG      495582108     42.1300        12,000.00        451,257.10        505,560.00
-MCKESSON CORP                              0.641 MCK     58155Q103Q    37.4000         8,000.00        299,590.00        299,200.00
-MEDIMMUNE INC                              0.000 MEDI    584699102     46.3500         6,900.00        258,424.31        319,815.00
-MEDTRONIC INC                              0.449 MDT     585055106Q    51.2100        43,500.00      1,988,273.24      2,227,635.00
+3COM CORP.                                 0.000 COMS    885535104      6.3800         8,700.00         71,564.58         55,506.00
+ACTEL CORPORATION                          0.000 ACTL    004934105     19.9100           700.00         17,309.50         13,937.00
+ACXIOM CORP.                               0.000 ACXM    005125109     17.4700         2,300.00         53,912.50         40,181.00
+ADAPTEC INC                                0.000 ADPT    00651F108     14.5000         2,500.00         23,723.74         36,250.00
+ADC COMMUNICATIONS INC                     0.000 ADCT    000886101      4.6000        20,400.00        350,517.45         93,840.00
+ADOBE SYSTEMS INC.                         0.161 ADBE    00724F101Q    31.0500         6,300.00        268,281.50        195,615.00
+ADTRAN INC.                                0.000 ADTN    00738A106     25.5200         1,000.00         29,618.64         25,520.00
+ADVANCED FIBRE COMMUNICATION               0.000 AFCI    00754A105     17.6700         2,200.00         47,185.25         38,874.00
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107     15.8600         9,000.00        119,138.92        142,740.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     49.9500           840.00         50,479.20         41,958.00
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100    106.1300         1,500.00        102,953.00        159,195.00
+AGILENT TECHNOLOGIES INC                   0.000 A       00846U101     28.5100        12,000.00        530,076.35        342,120.00
+ALLEN TELECOM INC.                         0.000 ALN     018091108      8.5000           800.00         12,518.00          6,800.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100     12.0800         1,100.00         16,337.25         13,288.00
+ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000         1,100.00         32,417.44         23,980.00
+ALTERA CORP                                0.000 ALTR    021441100     21.2200         9,900.00        282,523.96        210,078.00
+AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     18.0800         1,100.00         22,920.50         19,888.00
+ANALOG DEVICES                             0.000 ADI     032654105     44.3900         9,300.00        414,035.22        412,827.00
+ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100           300.00         12,731.00         11,553.00
+ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300           700.00          3,774.25          2,891.00
+ANDREW CORP.                               0.000 ANDW    034425108     21.8900         2,000.00         39,701.00         43,780.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100         1,000.00         23,832.50         29,010.00
+APPLE COMPUTER INC.                        0.000 AAPL    037833100     21.9000         9,100.00        166,253.25        199,290.00
+APPLIED MATERIALS INC.                     0.000 AMAT    038222105     40.1000        21,200.00        841,053.09        850,120.00
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109     11.3200         7,000.00         93,732.57         79,240.00
+ARROW ELECTRONICS                          0.000 ARW     042735100     29.9000         2,500.00         69,264.00         74,750.00
+ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P108      4.0500         7,600.00         36,505.25         30,780.00
+ASPECT COMMUNICATIONS CORP                 0.000 ASPT    04523Q102      3.8800         1,400.00         11,035.25          5,432.00
+ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     16.8000           800.00         20,176.25         13,440.00
+ATMEL CORP                                 0.000 ATML    049513104      7.3700        12,100.00        154,554.72         89,177.00
+ATMI INC                                   0.000 ATMI    00207R101     23.8500           800.00         15,678.00         19,080.00
+AUDIOVOX CORP                              0.000 VOXX    050757103      7.4600           700.00          6,979.75          5,222.00
+AUSPEX SYSTEMS INC.                        0.000 ASPX    052116100      1.8000         1,100.00          6,170.88          1,980.00
+AUTODESK INC.                              0.643 ADSK    052769106Q    37.2700         1,400.00         48,210.70         52,178.00
+AVANT] CORPORATION                         0.000 AVNT    053487104     20.4900         1,000.00         20,084.51         20,490.00
+AVAYA INC                                  0.000 AV      053499109     12.1500         7,700.00        105,342.56         93,554.99
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     12.1500           700.00         11,370.75          8,505.00
+AVNET INC.                                 1.177 AVT     053807103Q    25.4700         3,122.00         71,393.25         79,517.34
+AVOCENT CORPORATION                        0.000 AVCT    053893103     24.2500         1,100.00         30,602.75         26,675.00

@@ -1,0 +1,26 @@
+ASOF09   Date 01/19/2006 Time 18:25:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS-E     EMERGING SWAP
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+FNMA DISCOUNT NOTES                  3.976 313589RJ4                          5,100,000.00        5,098,350.21
+FNMA DISCOUNT NOTES                  4.277 313589UG6-                         4,200,000.00        4,163,723.92
+FNMA DISCOUNT NOTES                  4.298 313589TS2-                        14,000,000.00       13,901,117.53
+FNMA DISCOUNT NOTES                  4.243 31315LTC2                         13,000,000.00       12,932,394.73
+GENERAL ELECTRIC CAP CORP            4.422 36959JCL5                          5,400,000.00        5,348,839.99
+
+Instrument Total               5                                             41,700,000.00       41,444,426.38
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQS-E                                0.000 IL-EQSE                              153,338.25       15,333,825.90
+
+Instrument Total               1                                                153,338.25       15,333,825.90
+
+Portfolio Total                6                                             41,853,338.25       56,778,252.28         60,266,198.96

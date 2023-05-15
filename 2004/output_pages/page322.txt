@@ -1,0 +1,16 @@
+ASOF09   Date 01/21/2005 Time 18:35:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS2      EMERGING ANALYSTS SW
+Instrument - INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP II - LIQUIDITY RES       0.000 IL-EQS2                               15,072.02        1,507,202.02
+
+Instrument Total               1                                                 15,072.02        1,507,202.02
+
+Portfolio Total                1                                                 15,072.02        1,507,202.02          2,123,166.87

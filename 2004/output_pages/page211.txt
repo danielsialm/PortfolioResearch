@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 179
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+ALDERWOODS GROUP INC                       0.000 AWGI    014383103     11.3800        18,800.00        158,559.20        213,944.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100      3.7000        41,700.00        227,575.19        154,290.00
+ALLOY INC                                  0.000 ALOY    019855105      8.0700        38,100.00        160,158.69        307,467.00
+ALPHARMA, INC.-CL A                        1.061 ALO     020813101Q    16.9500        12,700.00        163,464.88        215,265.00
+AMERICA WEST HOLDINGS CORP.                0.000 AWA     023657208      6.5800        29,600.00        164,428.00        194,768.00
+AMERUS GROUP CO                            0.883 AMH     03072M108     45.3000         4,200.00        153,888.84        190,260.00
+APPLICA                                    0.000 APN     03815A106      6.0500        37,600.00        228,350.64        227,480.00
+AQUILA INC                                18.970 ILA     03840P102      3.6900        50,600.00        170,093.87        186,714.00
+ARGONAUT GROUP INC                         0.000 AGII    040157109     21.1300         9,300.00        151,128.91        196,509.00
+ASIAINFO HLDGS INC                         0.000 ASIA    04518A104      5.9600        41,100.00        224,917.90        244,956.00
+BALDWIN & LYONS INC                        1.493 BWINB   057755209     26.7900         6,500.00        165,102.57        174,135.00
+BASSETT FURNITURE INDS.                    4.076 BSET    070203104Q    19.6250         8,700.00        162,002.92        170,737.50
+BLAIR CORP.                                1.682 BL      092828102Q    35.6600         6,400.00        171,858.06        228,224.00
+BLUEGREEN CORP                             0.000 BXG     096231105     19.8300        14,700.00        166,536.93        291,501.00
+BOSTON COMMUNICATIONS GROUP                0.000 BCGI    100582105      9.2400        20,100.00        162,307.50        185,724.00
+C-COR INC                                  0.000 CCBL    125010108      9.3000        22,600.00        153,195.04        210,180.00
+CALLON PETROLEUM CORP                      0.000 CPE     13123X102     14.4600        13,000.00        155,462.82        187,980.00
+CALPINE CORPORATION                        0.000 CPN     131347106      3.9400        50,900.00        178,636.27        200,546.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     13.7500        15,200.00        176,190.87        209,000.00
+CERES GROUP INC                            0.000 CERG    156772105      5.1600        30,700.00        176,933.16        158,412.00
+COMMERCE GROUP INC M                       2.162 CGI     200641108     61.0400         3,400.00        161,975.94        207,536.00
+COMPX INTERNATIONAL                        3.024 CIX     20563P101     16.5300         9,900.00        161,136.71        163,647.00
+CREDENCE SYSTEMS CORP                      0.000 CMOS    225302108      9.1500        21,900.00        155,543.46        200,385.00
+DAVE & BUSTERS INC                         0.000 DAB     23833N104     20.2000        11,400.00        179,919.60        230,280.00
+DELPHI FINANCIAL GROUP CL-A                0.693 DFG     247131105     46.1500         4,200.00        166,257.00        193,830.00
+DEPARTMENT 56 INC                          0.000 DFS     249509100     16.6500        11,000.00        156,278.48        183,150.00
+E.PIPHANY INC                              0.000 EPNY    26881V100      4.8300        43,400.00        158,574.90        209,622.00
+ENPRO INDUSTRIES INC                       0.000 NPO     29355X107     29.5700         8,700.00         92,360.04        257,259.00
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      8.3500        20,800.00        166,904.44        173,680.00
+ESS TECHNOLOGY                             0.000 ESST    269151106      7.1100        23,900.00        153,916.00        169,929.00
+FBL FINANCIAL GROUP INC.-CL A              1.401 FFG     30239F106     28.5500         6,500.00        165,166.04        185,575.00
+FLYI INC                                   0.000 FLYI    34407T104      1.7700        44,500.00        245,006.79         78,765.00
+FPIC INS GROUP INC                         0.000 FPIC    302563101     35.3800         7,400.00        164,621.66        261,812.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     16.2200        14,400.00        164,387.61        233,568.00
+GIANT INDUSTRIES INC                       0.000 GI      374508109     26.5100         7,600.00        162,831.80        201,476.00
+HAYES LEMMERZ INTERNATIONAL IN             0.000 HAYZ    420781304      8.8300        12,800.00        169,683.47        113,024.00
+HIGHLAND HOSPITALITY CORP                  3.202 HIH     430141101     11.2400        15,900.00        165,124.51        178,716.00
+HUB GROUP INC                              0.000 HUBG    443320106     52.2200         5,400.00        152,015.50        281,988.00
+INFINITY PROPERTY & CASUALTY C             0.625 IPCC    45665Q103     35.2000         5,700.00        185,530.51        200,640.00

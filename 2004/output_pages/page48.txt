@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 016
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+JABIL CIRCUIT INC                          0.000 JBL     466313103     25.5800       181,900.00      4,573,197.48      4,653,002.00
+JACOBS ENGINEERING GROUP                   0.000 JEC     469814107     47.7900        99,900.00      3,971,544.73      4,774,221.00
+JDS UNIPHASE CORP                          0.000 JDSU    46612J101      3.1700       869,000.00     19,125,874.26      2,754,730.00
+JETBLUE AIRWAYS CORP                       0.000 JBLU    477143101     23.2200       112,200.00      2,686,029.47      2,605,284.00
+JOHNSON CONTROLS                           1.576 JCI     478366107Q    63.4400        30,100.00      1,136,231.43      1,909,544.00
+JUNIPER NETWORKS INC                       0.000 JNPR    48203R104     27.1900       536,300.00      9,477,813.01     14,581,997.00
+KINETIC CONCEPTS INC                       0.000 KCI     49460W208     76.3000        70,300.00      3,480,912.04      5,363,890.00
+KLA-TENCOR CORP.                           0.000 KLAC    482480100     46.5800       403,600.00     19,604,176.60     18,799,688.00
+L-3 COMMUNICATIONS HOLDINGS IN             0.546 LLL     502424104     73.2400        30,700.00      1,604,875.14      2,248,468.00
+LA QUINTA INNS INC                         0.770 LQI     50419U202      9.0900       312,500.00      2,686,371.99      2,840,625.00
+LABORATORY CRP OF AMER HLDGS               0.000 LH      50540R409     49.8200       254,800.00      9,001,914.49     12,694,136.00
+LAUREATE EDUCATION INC                     0.000 LAUR    518613104     44.0900        78,100.00      2,472,621.24      3,443,429.00
+LEGG MASON INC.                            0.819 LM      524901105     73.2600       135,100.00      4,860,232.51      9,897,426.00
+LEGGETT & PLATT INC                        2.110 LEG     524660107     28.4300        89,400.00      2,138,626.54      2,541,642.00
+LENNAR CORPORATION                         0.970 LEN     526057104     56.6800        49,600.00      2,270,256.35      2,811,328.00
+LEVEL 3 COMMUNICATIO                       0.000 LVLT    52729N100      3.3900       835,000.00      3,432,809.75      2,830,650.00
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     85.0000        73,400.00      5,234,846.67      6,239,000.00
+LIBERTY MEDIA INTL INC-A                   0.000 LBTYA   530719103     46.2300       283,300.00     11,338,395.78     13,096,959.00
+LINCARE HOLDINGS INC.                      0.000 LNCR    532791100     42.6500        78,400.00      2,111,219.32      3,343,760.00
+LINEAR TECHNOLOGY CORP                     1.032 LLTC    535678106     38.7600       273,800.00     10,098,272.97     10,612,488.01
+MANOR CARE INC.                            1.580 HCR     564055101     35.4300       138,800.00      3,865,509.55      4,917,684.00
+MANPOWER INC                               0.828 MAN     56418H100     48.3000        34,800.00      1,337,502.88      1,680,840.00
+MARKEL CORP                                0.000 MKL     570535104    364.0000         4,700.00      1,375,772.76      1,710,800.00
+MARRIOTT INT'L INC CL-A                    0.539 MAR     571903202     62.9800       238,800.00      7,802,470.63     15,039,624.00
+McCORMICK & CO                             1.658 MKC     579780206Q    38.6000       197,600.00      5,458,320.99      7,627,360.00
+MCAFEE INC                                 0.000 MFE     579064106     28.9300       297,300.00      5,699,964.21      8,600,889.00
+MCKESSON CORP                              0.762 MCK     58155Q103Q    31.4600       124,500.00      4,348,955.85      3,916,770.00
+MDC HOLDINGS INC                           0.534 MDC     552676108     86.4400        38,800.00      2,452,392.50      3,353,872.00
+MEDCO HEALTH SOLUTIONS INC                 0.000 MHS     58405U102     41.6000       191,100.00      3,988,369.80      7,949,760.00
+MEDICIS PHARMACEUTICAL CORP                0.341 MRX     584690309     35.1100        68,600.00      1,764,005.21      2,408,546.00
+MEDIMMUNE INC                              0.000 MEDI    584699102     27.1100       333,500.00      9,672,178.73      9,041,185.00
+MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     45.5500       198,100.00      8,546,572.26      9,023,455.00
+MEREDITH CORPORATION                       0.885 MDP     589433101Q    54.2000       156,900.00      8,137,780.60      8,503,980.00
+METTLER-TOLEDO INTERNATIONAL               0.000 MTD     592688105     51.3100        40,400.00      1,757,271.30      2,072,924.00
+MGM MIRAGE                                 0.000 MGG     552953101     72.7400        68,700.00      4,787,801.84      4,997,238.00
+MICHAELS STORES                            0.934 MIK     594087108     29.9700        46,700.00        886,401.75      1,399,599.00
+MICROCHIP TECHNOLOGY INC.                  0.780 MCHP    595017104     26.6600       414,800.00     10,067,033.96     11,058,568.00
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     12.1200       257,700.00      4,679,652.92      3,123,324.00
+MILLIPORE CORPORATION                      0.883 MIL     601073109Q    49.8100        47,100.00      1,603,185.48      2,346,051.00

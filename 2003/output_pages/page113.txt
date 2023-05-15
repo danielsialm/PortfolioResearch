@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 083
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+FLAGSTAR BANCORP INC                       2.801 FBC     337930101     21.4200        42,000.00        604,681.48        899,640.00
+FLEETWOOD ENT.                             1.559 FLE     339099103Q    10.2600        30,200.00        306,415.86        309,852.01
+FLIR SYSTEMS INC                           0.000 FLIR    302445101     36.5000        33,200.00        864,308.06      1,211,800.00
+FLORIDA EAST COAST I                       0.483 FLA     340632108     33.1000        17,700.00        485,626.90        585,870.00
+FLORIDAFIRST BANCORP INC                   0.845 FFBK    343258109     33.1000         6,500.00        154,415.05        215,150.00
+FLOWERS INDUSTRIES INC.                    1.550 FLO     343498101     25.8000        38,000.00        715,196.78        980,400.00
+FLOWSERVE CORP.                            0.000 FLS     34354P105Q    20.8800        56,800.00      1,103,716.83      1,185,984.00
+FLUSHING FINL CORP                         1.602 FFIC    343873105     18.2800        17,250.00        256,909.27        315,329.99
+FMC CORP.                                  0.000 FMC     302491303     34.1300        37,300.00        918,417.29      1,273,049.00
+FMS FINANCIAL CORP                         0.666 FMCO    302509104     18.0000         4,600.00         74,443.49         82,800.00
+FNB CORP INC                               2.644 FNBN    302519103     21.1800         6,000.00        164,618.26        127,080.00
+FOOTHILL INDEPENDENT BANCORP               2.028 FOOT    344905104     23.6600         5,500.00        103,592.77        130,130.00
+FOREST OIL CORP.                           0.000 FST     346091705     28.5700        47,800.00      1,230,321.66      1,365,646.00
+FORRESTER RESEARCH INC                     0.000 FORR    346563109     17.8700        16,700.00        263,130.36        298,429.00
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     27.5000        13,200.00        470,108.34        363,000.00
+FOSSIL INC.                                0.000 FOSL    349882100     28.0100        29,200.00        574,760.74        817,892.00
+FRANKLIN ELEC INC                          0.925 FELE    353514102     60.4900         8,000.00        488,863.56        483,920.00
+FRANKLIN FINL CORP T                       0.813 FNFN    353523202     30.7200         4,000.00        122,134.80        122,880.00
+FRED'S INC                                 0.258 FRED    356108100     30.9800        46,700.00      1,061,534.23      1,446,766.00
+FREEMARKETS INC                            0.000 FMKT    356602102      6.6900        44,700.00        332,521.92        299,043.00
+FREMONT GENERAL CORP.                      1.182 FMT     357288109     16.9100        82,400.00        808,626.88      1,393,384.00
+FRIEDMANS INC                              1.341 FRM     358438109      6.7100        52,200.00        491,855.32        350,262.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     14.2600        42,000.00        742,566.43        598,920.00
+FRONTIER FINL CORP W                       2.231 FTBK    35907K105     33.1600        18,600.00        572,317.69        616,776.00
+FRONTIER OIL CORP                          1.161 FTO     35914P105     17.2200        22,700.00        447,889.37        390,894.00
+FTD INC                                    0.000 FTDI    30265Q109     24.6400         3,700.00         87,514.37         91,168.00
+FTI CONSULTING INC                         0.000 FCN     302941109     23.3700        49,800.00      1,207,360.39      1,163,826.00
+FUELCELL ENERGY INC                        0.000 FCEL    35952H106     13.0000        52,100.00        459,039.77        677,300.00
+FULLER H B CO                              1.513 FUL     359694106Q    29.7400        28,400.00        697,711.78        844,616.00
+G & K SERV. CL-A                           0.190 GKSRA   361268105Q    36.7500        20,500.00        730,379.18        753,375.00
+GA FINANCIAL INC                           2.303 GAF     361437106     34.7300         5,100.00        131,081.15        177,123.00
+GABELLI ASSET MGMT I                       0.050 GBL     36239Y102     39.8000         3,700.00        138,409.30        147,260.00
+GALYAN'S TRADING COMPANY                   0.000 GLYN    36458R101     12.0400         8,100.00        111,685.73         97,524.00
+GAMESTOP CORP.                             0.000 GME     36466R101     15.4100        25,500.00        368,536.73        392,955.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    23.8700        19,400.00        356,303.27        463,078.00
+GARTNER INC-CL A                           0.000 IT      366651107     11.3100        94,300.00        800,141.19      1,066,532.99
+GATEWAY INC.                               0.000 GTW     367626108      4.6000       295,200.00      6,958,660.29      1,357,920.00
+GATX CORP                                  4.574 GMT     361448103     27.9800        44,000.00      1,586,108.40      1,231,120.00
+GAYLORD ENTMT CO NEW                       0.000 GET     367905106     29.8500        14,900.00        314,967.88        444,765.00

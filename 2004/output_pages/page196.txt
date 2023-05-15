@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 164
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+STATE AUTO FINL CORP                       0.696 STFC    855707105     25.8500         8,100.00        244,775.52        209,385.00
+STEEL TECHNOLOGIES INC                     0.727 STTX    858147101     27.5100        19,000.00        481,972.74        522,690.00
+STEELCASE INC                              1.734 SCS     858155203     13.8400        24,900.00        319,458.28        344,616.00
+STEINWAY MUSICAL INS                       0.000 LVB     858495104     28.9400         5,500.00        173,005.85        159,170.00
+STERLING BANCORP                           2.690 STL     859158107     28.2500           400.00          6,682.92         11,300.00
+STERLING BANCSHARES INC                    1.401 SBIB    858907108     14.2700        27,300.00        389,213.37        389,571.00
+STEWART ENTERPRISES INC. CL-A              0.000 STEI    860370105      6.9900        46,000.00        320,480.35        321,540.00
+STEWART INFO SVCS                          1.104 STC     860372101     41.6500        19,200.00        689,206.37        799,680.00
+SYCAMORE NETWORKS INC                      0.000 SCMR    871206108      4.0600        31,600.00        120,516.08        128,296.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      6.9500        21,100.00        118,560.90        146,645.00
+SYNNEX CORP                                0.000 SNX     87162W100     24.0600        12,000.00        242,027.26        288,720.00
+TBC CORP                                   0.000 TBCC    872183108     27.8000        18,000.00        210,694.00        500,400.00
+TECHNICAL OLYMPIC US                       0.236 TOA     878483106     25.3800        19,100.00        485,764.71        484,758.00
+TECUMSEH PRODUCTS CO CL-A                  2.677 TECUA   878895200     47.8000        10,400.00        482,547.52        497,120.00
+TEXAS INDUSTRIES INC                       0.480 TXI     882491103     62.3800        11,100.00        410,134.11        692,418.00
+TEXAS REGIONAL BANCSHARES INC              1.224 TRBS    882673106     32.6800        11,800.00        359,428.00        385,624.00
+THE GEO GROUP INC                          0.000 GGI     36159R103     26.5800         6,300.00        139,822.95        167,454.00
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108      2.4200        10,000.00         20,272.13         24,200.00
+TIER TECHNOLOGIES INC-CL B                 0.000 TIER    88650Q100      9.2500         9,900.00         90,702.81         91,575.00
+TIERONE CORP                               0.804 TONE    88650R108     24.8500         4,900.00        107,378.11        121,765.00
+TOO INC                                    0.000 TOO     890333107     24.4600        18,800.00        433,067.40        459,848.00
+TRAMMELL CROW CO                           0.000 TCC     89288R106     18.1100        12,500.00        127,237.30        226,375.00
+TRANS WORLD ENTERTAINMENT CP               0.000 TWMC    89336Q100     12.4700        16,800.00        129,020.71        209,496.00
+TRIARC COMPANIES, INC.-B                   2.447 TRY.B   895927309     12.2600        22,300.00        276,849.70        273,398.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103      4.4500        11,900.00         78,098.30         52,955.00
+U S XPRESS ENTERPRIS                       0.000 XPRSA   90338N103     29.3000            34.00            402.04            996.20
+UICI                                       1.474 UCI     902737105     33.9000        20,600.00        595,879.53        698,340.00
+UMB FINL CORP                              1.553 UMBF    902788108     56.6600         6,194.00        295,886.47        350,952.04
+UNIFIRST CORP                              0.530 UNF     904708104Q    28.2800         5,300.00        131,656.77        149,884.00
+UNITED FIRE & CAS CO                       1.423 UFCS    910331107     33.7100        11,000.00        284,132.33        370,810.00
+UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     34.9100        28,900.00        964,049.80      1,008,899.00
+UNIVERSAL HEALTH SERVICES CL B             0.719 UHS     913903100     44.5000         8,000.00        357,035.20        356,000.00
+URS CORPORATION                            0.000 URS     903236107     32.1000        11,600.00        345,874.49        372,360.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     22.4200        33,300.00        499,736.64        746,586.00
+VALMONT INDUSTRIES                         1.274 VMI     920253101     25.1100         2,000.00         40,941.00         50,220.00
+VASTERA INC                                0.000 VAST    92239N109      2.6300        28,300.00         69,926.47         74,429.00
+VIAD CORP                                  0.561 VVI     92552R406     28.4900        28,600.00        652,412.09        814,814.00
+VICAL INC                                  0.000 VICL    925602104      4.7000         3,550.00         15,534.09         16,685.00
+VICURON PHARMACEUTICALS INC                0.000 MICU    926471103     17.4100        38,200.00        644,662.05        665,062.00

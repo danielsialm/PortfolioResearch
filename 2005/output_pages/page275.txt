@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 058
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ROYAL CARIBBEAN CRUISES LTD                  1.531     V7780T103   RCL             59,573        2,581,626.80        2,684,359.36
+ROYAL GOLD INC                               0.633     780287108   RGLD            20,000          355,484.11          694,600.00
+RPC INC                                      0.406     749660106   RES             44,925          551,002.71        1,183,324.50
+RSA SECURITY INC.                            0.000     749719100   RSAS           266,500        3,443,409.96        2,992,795.00
+RTI INTERNATIONAL METALS                     0.000     74973W107   RTI             41,650        1,085,430.69        1,580,617.50
+RUBY TUESDAY INC                             0.173     781182100   RI             514,200       13,133,810.32       13,312,638.00
+RUDDICK CORP.                                2.067     781258108 Q RDK             36,200          480,881.40          770,336.00
+RUDOLPH TECHNOLOGIES INC                     0.000     781270103   RTEC            13,700          245,107.66          176,456.00
+RUSH ENTERPRISES INC - CL A                  0.000     781846209   RUSHA          117,000        1,635,567.39        1,740,960.00
+RUSS BERRIE & CO INC                         3.502     782233100   RUS            463,900       10,839,592.52        5,297,738.00
+RUSSELL CORP                                 1.188     782352108 Q RML             34,800          625,717.89          468,408.00
+RUTH'S CHRIS STEAK HOUSE INC                 0.000     783332109   RUTH            13,800          253,920.00          249,780.00
+RYANS RESTAURANT GROUP INC                   0.000     783520109   RYAN            73,100          907,304.11          881,586.00
+RYDER SYS. INC.                              1.560     783549108 Q R               97,881        3,312,194.08        4,015,078.62
+RYERSON TULL, INC.                           0.822     78375P107 Q RYI             43,100          517,137.78        1,048,192.00
+RYLAND GROUP INC                             0.665     783764103   RYL            138,300        5,707,293.88        9,975,579.00
+S & T BANCORP INC                            3.150     783859101   STBA            28,142          882,264.23        1,036,188.44
+S Y BANCORP INC                              2.078     785060104   SYBT            12,700          292,019.44          317,754.00
+S1 CORPORATION                               0.000     78463B101   SONE            97,312          451,908.20          423,307.20
+SABA SOFTWARE INC                            0.000     784932600   SABA           204,324          812,545.79          833,641.92
+SABRE HOLDINGS CORP.                         1.493     785905100   TSG            442,500       10,491,270.57       10,668,675.00
+SAFECO CORP.                                 1.769     786429100 Q SAFC           220,200       10,393,062.26       12,441,300.00
+SAFEGUARD SCIENTIFIC                         0.000     786449108   SFE            274,700          352,099.93          530,171.00
+SAFENET INC                                  0.000     78645R107   SFNT            25,975          743,237.95          836,914.50
+SAFETY INSURANCE GROUP INC                   1.783     78648T100   SAFT            21,026          424,757.47          848,819.62
+SAFEWAY INC                                  0.845     786514208   SWY            583,100       13,536,598.46       13,796,146.00
+SAKS INCORPORATED                            0.000     79377W108   SKS            440,600        7,426,333.17        7,428,516.00
+SALESFORCE.COM INC                           0.000     79466L302   CRM              9,100          241,795.54          291,655.00
+SALIX PHARMACEUTICAL                         0.000     795435106   SLXP            47,794          850,679.85          840,218.52
+SANDERSON FARMS INC                          1.572     800013104   SAFM            26,577          938,613.28          811,395.81
+SANDISK CORP                                 0.000     80004C101   SNDK             3,700          137,275.13          232,434.00
+SANDY SPRING BANCORP INC                     2.522     800363103   SASR             2,461           88,544.31           85,839.68
+SANMINA-SCI CORP                             0.000     800907107   SANM           137,000          519,942.59          583,620.00
+SANTANDER BANCORP                            2.547     802809103   SBP             18,520          453,330.65          465,222.40
+SAPIENT CORP                                 0.000     803062108   SAPE             7,400           40,337.69           42,106.00
+SARA LEE CORP.                               4.179     803111103 Q SLE          2,700,300       54,579,582.23       51,035,670.00
+SAUER-DANFOSS INC                            2.551     804137107   SHS             10,700          117,436.34          201,267.00
+SAVIENT PHARMACEUTICALS INC                  0.000     80517Q100   SVNTE          158,700          591,130.42          593,538.00
+SBA COMMUNICATIONS CORP                      0.000     78388J106   SBAC            60,400          556,768.41        1,081,160.00
+SBS TECHNOLOGIES INC                         0.000     78387P103   SBSE            47,500          470,376.39          478,325.00

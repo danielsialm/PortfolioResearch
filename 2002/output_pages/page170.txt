@@ -1,0 +1,25 @@
+ASOF02   Date 01/21/2003 Time 18:53:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 142
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT & CO -
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+GLENBOROUGH REALTY                         9.652 GLB     37803P105     17.8200        49,200.00        982,649.06        876,744.00
+PRENTISS PROPERTIES TRUST                  7.920 PP      740706106     28.2800        18,500.00        500,425.97        523,180.00
+SL GREEN RE CORP                           5.886 SLG     78440X101     31.6000        27,700.00        851,335.98        875,320.00
+
+Instrument Total             4                                                       115,000.00      2,820,898.22      2,775,044.00
+
+Instrument -RIGHT     RIGHT
+
+INTERPOOL INC - RIGHTS                     0.000 IPX-R   46062R975      0.0000           528.00              0.00              0.00
+
+Instrument Total             1                                                           528.00              0.00              0.00
+
+Portfolio Total            118                                                     8,006,313.30     82,255,550.72     83,349,405.68
+

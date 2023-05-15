@@ -1,0 +1,17 @@
+ASOF02   Date 01/20/2004 Time 18:59:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 147
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+WEINGARTEN RE INVST                        5.276 WRI     948741103     44.3500         6,300.00        260,442.00        279,405.00
+
+Instrument Total            31                                                       220,500.00      6,867,563.98      7,950,564.00
+
+Portfolio Total            659                                                     8,176,653.67    220,097,784.91    266,323,461.93
+

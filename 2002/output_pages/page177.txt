@@ -1,0 +1,36 @@
+ASOF02   Date 01/21/2003 Time 18:53:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 149
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6MA       M.A. WEATHEBIE
+Instrument - COM       COMMON STOCK
+
+PATTERSON-UTI ENERGY INC                   0.000 PTEN    703481101     30.1700        18,280.00        428,403.10        551,507.60
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105      8.3100        20,120.00        180,307.07        167,197.20
+PLATINUM UNDERWRITERS HOLDINGS             0.000 PTP     014977503     26.3500         6,870.00        170,024.12        181,024.50
+POLYMEDICA CORP                            0.000 PLMD    731738100     30.8400        28,430.00        694,706.91        876,781.20
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     14.9000        26,830.00        348,692.21        399,767.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-MAW  IT-MAW         1.0000       800,541.47        800,541.51        800,541.47
+QLT INC.                                   0.000 QLTI    746927102      8.5380        38,470.00        318,148.67        328,456.86
+RESMED INC                                 0.000 RMD     761152107     30.5700        14,520.00        447,030.88        443,876.40
+RETEK INC                                  0.000 RETK    76128Q109      2.7200        50,892.00        192,412.27        138,426.24
+ROBERT HALF INTL INC                       0.000 RHI     770323103     16.1100        26,690.00        441,233.49        429,975.90
+SEMTECH CORPORATION                        0.000 SMTC    816850101     10.9200        13,270.00        168,051.79        144,908.40
+SONIC CORP                                 0.000 SONC    835451105     20.4900        14,300.00        325,656.90        293,007.00
+TIDEWATER INC                              1.929 TDW     886423102Q    31.1000        15,900.00        433,172.77        494,490.00
+UTI WORLDWIDE INC                          0.304 UTIW    G87210103     26.2500         6,700.00        156,588.20        175,875.00
+WEST CORP.                                 0.000 WSTC    952355105     16.6000        21,120.00        371,942.62        350,592.00
+WESTWOOD ONE                               0.000 WON     961815107     37.3600        31,400.00      1,056,448.72      1,173,104.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     16.0000        17,210.00        329,735.71        275,360.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     57.3000        16,195.00        876,734.34        927,973.50
+
+Instrument Total            57                                                     2,246,390.47     29,678,405.29     31,556,834.19
+
+Portfolio Total             57                                                     2,246,390.47     29,678,405.29     31,556,834.19
+
+Group Total              2,019                                          0.00 /   121,086,703.02  2,488,621,223.90  2,375,524,453.18
+

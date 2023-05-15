@@ -1,0 +1,28 @@
+ASOF02   Date 01/19/2006 Time 18:24:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LC1       LARGE-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+WELLS FARGO COMPANY                        3.310 WFC     949746101     62.8300       203,800.00      6,278,329.18     12,804,754.00
+WEYERHAEUSER CO.                           3.014 WY      962166104Q    66.3400        67,500.00      3,926,615.65      4,477,950.00
+WYETH                                      2.170 WYE     983024100Q    46.0700       376,500.00     14,827,617.56     17,345,355.00
+YUM BRANDS, INC.                           0.981 YUM     988498101     46.8800        81,900.00      2,118,903.69      3,839,472.00
+
+Instrument Total           277                                                    77,784,584.00  1,603,181,319.05  2,058,248,168.90
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+CRESCENT RE EQT. CO.                       7.568 CEI     225756105     19.8200       112,300.00      1,926,785.61      2,225,786.00
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300       122,400.00      3,368,459.73      3,712,392.00
+HRPT PROPERTIES TRUST                      8.115 HRP     40426W101     10.3500       173,000.00      1,788,603.25      1,790,550.00
+
+Instrument Total             3                                                       407,700.00      7,083,848.59      7,728,728.00
+
+Portfolio Total            280                                                    78,192,284.00  1,610,265,167.64  2,065,976,896.90
+

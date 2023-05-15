@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 047
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+VIASYS HEALTHCARE INC                        0.000     92553Q209   VAS             48,701          846,552.01          725,157.89
+VICOR CORP                                   0.000     925815102   VICR            47,100          876,177.84          388,622.10
+VINTAGE PETROLEUM INC.                       1.516     927460105 Q VPI            125,400        1,776,856.63        1,322,970.00
+VISHAY INTERTECHNOLOGY INC.                  0.000     928298108   VSH            431,384        5,952,020.59        4,822,873.12
+VISTACARE INC-CL A                           0.000     92839Y109   VSTA               400            4,800.00            6,404.00
+VISTEON CORP                                 3.448     92839U107   VC             410,974        4,905,500.51        2,860,379.04
+VISX INC                                     0.000     92844S105   EYE             72,200          994,089.68          691,676.00
+VITAL SIGNS INC                              0.535     928469105   VITL            15,500          533,033.22          463,140.00
+VITESSE SEMICONDUCTOR CORP                   0.000     928497106   VTSS           413,000        7,014,120.97          902,405.00
+VOLT INFO. SCIENCES INC.                     0.000     928703107   VOL             16,600          364,595.74          283,859.99
+VULCAN MATERIALS CO                          2.506     929160109   VMC            136,612        4,977,930.57        5,122,950.00
+W-H ENERGY SERVICES INC                      0.000     92925E108   WHES            27,200          471,376.00          396,848.00
+WABASH NATIONAL CORP                         0.477     929566107   WNC             23,500          323,869.99          196,930.00
+WABTEC                                       0.284     929740108   WAB             67,000          808,969.24          940,680.00
+WACHOVIA CORP.- NEW                          2.854     929903102 Q WB           2,884,488      110,752,976.67      105,110,742.72
+WADDELL & REED FINANCIAL-CL A                2.694     930059100   WDR            184,700        5,095,426.12        3,633,049.00
+WAL MART STORES INC                          0.593     931142103 Q WMT          9,240,372      286,188,728.14      466,731,189.72
+WALGREEN CO.                                 0.513     931422109 Q WAG          1,906,352       37,695,727.90       55,646,414.88
+WALLACE COMPUTER SVCS INC                    3.068     932270101   WCS             40,100          824,963.39          862,551.00
+WASHINGTON FEDERAL INC.                      3.702     938824109   WFSL           105,857        2,047,619.99        2,630,546.45
+WASHINGTON MUTUAL INC.                       3.243     939322103   WM           1,934,738       52,475,922.66       66,806,503.14
+WASHINGTON POST CL. B                        0.785     939640108 Q WPO             19,830       11,214,962.84       14,634,540.00
+WASTE CONNECTIONS INC                        0.000     941053100   WCN             47,900        1,336,971.74        1,849,419.00
+WASTE MANAGEMENT INC.                        0.043     94106L109   WMI          1,347,990       46,444,444.80       30,895,930.80
+WATER PIK TECHNOLOGIES INC                   0.000     94113U100   PIK             32,300          262,619.00          237,405.00
+WATERS CORPORATION                           0.000     941848103   WAT            158,144        5,519,446.88        3,444,376.32
+WATSCO INC.                                  0.976     942622200   WSO             39,400          634,159.97          645,372.00
+WATSON PHARMACEUTICALS INC.                  0.000     942683103   WPI            471,108       13,082,926.06       13,318,223.16
+WATSON WYATT & CO HOLDINGS                   0.000     942712100   WW              38,100          857,837.98          828,675.01
+WATTS INDUSTRIES INC. CLASS A                1.524     942749102 Q WTS             29,900          487,408.67          470,626.00
+WAUSAU-MOSINEE PAPER CORP.                   3.030     943315101   WMO              7,600          120,761.43           85,272.00
+WAVECOM SA-ADR                               0.000     943531103   WVCM            10,300          126,084.56          145,745.00
+WAYPOINT FINANCIAL CORP                      2.247     946756103   WYPT            41,400          775,008.00          736,920.00
+WD-40 CO                                     3.028     929236107   WDFC            18,400          507,380.11          486,128.00
+WEATHERFORD INTERNATIONAL, LTD.              0.000     G95089101   WFT            257,515        6,974,931.49       10,282,573.95
+WEBEX COMMUNICATIONS INC                     0.000     94767L109   WEBX            47,090          743,792.56          706,350.00
+WEBSENSE INC                                 0.000     947684106   WBSN            23,115          450,515.58          493,759.52
+WEBSTER FINANCIAL CORPORATION                2.183     947890109   WBS            128,800        3,900,170.89        4,482,240.00
+WELLMAN INC                                  2.668     949702104   WLM             50,500          713,940.61          681,245.00
+WELLPOINT HEALTH NETWORKS                    0.000     94973H108   WLP            351,521       16,813,109.25       25,014,234.36

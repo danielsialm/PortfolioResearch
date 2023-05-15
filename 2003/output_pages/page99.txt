@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 069
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+AMERICAN GREETING CL A                     1.829 AM      026375105Q    21.8700        74,500.00      1,392,593.61      1,629,315.00
+AMERICAN HEALTHWAYS                        0.000 AMHC    02649V104     23.8700        38,600.00        765,017.02        921,382.00
+AMERICAN HOME MTG HL                       9.773 AHH     02660R107     22.5100        36,595.00        787,337.66        823,753.44
+AMERICAN ITALIAN PASTA COMPANY             1.790 PLB     027070101     41.9000        18,000.00        561,870.14        754,200.00
+AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     15.0700        51,000.00      1,092,650.01        768,570.00
+AMERICAN MED SEC GRO                       0.000 AMZ     02744P101     22.4200        20,400.00        430,301.51        457,368.00
+AMERICAN MEDICAL SYS HLDINGS               0.000 AMMD    02744M108     21.8000        24,900.00        436,052.61        542,820.00
+AMERICAN MORTGAGE ACCEPTANCE               9.816 AMC     027568104     16.3000         9,700.00        161,694.77        158,110.00
+AMERICAN NATL BANKSH                       2.870 AMNB    027745108     26.4800         5,500.00        151,616.38        145,640.00
+AMERICAN PHYSICIANS                        0.000 ACAP    028884104     18.4000        19,100.00        430,261.90        351,440.00
+AMERICAN STATES WATER CO.                  3.536 AWR     029899101     25.0000        12,200.00        315,670.96        305,000.00
+AMERICAN WEST HOLDINGS CORP.               0.000 AWA     023657208     12.4000        25,300.00        216,047.36        313,720.00
+AMERICAN WOODMARK CORP.                    0.363 AMWD    030506109     55.0500         6,600.00        332,761.12        363,330.00
+AMERICANWEST BANCORP                       0.000 AWBC    03058P109     22.8000        11,100.00        193,316.55        253,080.00
+AMERICAS CAR-MART INC                      0.000 CRMT    03062T105     26.9200         5,200.00        153,602.47        139,984.00
+AMERIGROUP CORPORATION                     0.000 AGP     03073T102     42.6500        32,200.00      1,222,287.62      1,373,330.00
+AMERISTAR CASINOS IN                       0.000 ASCA    03070Q101     24.4700        12,900.00        284,946.41        315,663.00
+AMERON INTERNATIONAL CORP                  2.306 AMN     030710107     34.6900         8,000.00        273,938.81        277,519.99
+AMERUS GROUP CO                            1.143 AMH     03072M108     34.9700        51,200.00      1,748,974.64      1,790,464.00
+AMN HEALTHCARE SERVICES INC                0.000 AHS     001744101     17.1600        15,996.00        228,214.31        274,491.36
+AMPCO-PITTSBURGH CORP                      2.926 AP      032037103     13.6700        19,600.00        216,354.48        267,932.00
+AMR CORP.                                  0.000 AMR     001765106     12.9500       189,000.00      2,096,421.84      2,447,550.00
+AMSURG CORP                                0.000 AMSG    03232P405     37.8900        21,300.00        607,325.62        807,057.00
+ANALOGIC CORP.                             0.780 ALOG    032657207     41.0000         9,500.00        433,836.48        389,500.00
+ANAREN MICROWAVE INC                       0.000 ANEN    032744104     14.1200        36,500.00        444,243.57        515,380.00
+ANCHOR BANCORP WISCONSIN INC.              1.767 ABCW    032839102     24.9000        23,600.00        459,563.17        587,640.00
+ANDREW CORP.                               0.000 ANDW    034425108     11.5100       164,900.00      1,888,207.18      1,897,999.00
+ANGELICA CORP                              2.000 AGL     034663104     22.0000        10,600.00        154,206.37        233,200.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     25.8800        43,900.00        944,423.11      1,136,132.00
+ANNTAYLOR STORES CORP                      0.000 ANN     036115103     39.0000        53,900.00      1,189,238.36      2,102,100.00
+ANSOFT CORP                                0.000 ANST    036384105     12.8300         7,800.00         94,098.76        100,074.00
+ANSYS INC                                  0.000 ANSS    03662Q105     39.7000        17,900.00        527,452.77        710,630.00
+ANTEON INTERNATIONAL CORP                  0.000 ANT     03674E108     36.0500        22,500.00        681,291.63        811,125.00
+ANTHRACITE CAPITAL INC                    10.117 AHR     037023108     11.0700        57,800.00        720,120.26        639,846.00
+ANTIGENICS INC DEL                         0.000 AGEN    037032109     11.3200        23,800.00        313,463.08        269,416.00
+ANWORTH MORTGAGE ASS                       9.476 ANH     037347101     13.9300        36,200.00        574,391.21        504,266.00
+APAC CUSTOMER SERVIC                       0.000 APAC    00185E106      2.6000        36,200.00        107,817.45         94,120.00
+APHTON CORP                                0.000 APHT    03759P101      6.0000        52,100.00        368,635.76        312,600.00
+APOGEE ENTERPRISES INC.                    2.114 APOG    037598109     11.3500        26,900.00        365,503.51        305,315.00

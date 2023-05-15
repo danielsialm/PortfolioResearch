@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 075
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+CHESAPEAKE UTILITIES CORP                  4.222 CPK     165303108     26.0500           600.00         14,106.98         15,630.00
+CHICAGO PIZZA & BREWERY INC                0.000 CHGO    167889104     14.9200        13,000.00        152,549.45        193,960.00
+CHILDREN'S PLACE                           0.000 PLCE    168905107     26.7300        15,100.00        479,426.46        403,623.00
+CHIPPAC INC                                0.000 CHPC    169657103      7.5900        37,800.00        336,174.22        286,902.00
+CHIQUITA BRANDS                            0.000 CQB     170032809Q    22.5300        48,800.00        764,569.39      1,099,464.00
+CHITTENDEN CORPORATION                     2.378 CHZ     170228100     33.6400        40,500.00      1,095,986.14      1,362,420.00
+CHOICE HOTELS INTL INC                     2.269 CHH     169905106     35.2500        19,400.00        565,050.89        683,850.00
+CHOLESTECH CORP                            0.000 CTEC    170393102      7.6300        16,400.00        157,352.61        125,132.00
+CHRISTOPHER & BANKS CORP                   0.819 CBK     171046105     19.5300        42,450.00        897,545.87        829,048.50
+CHRONIMED INC                              0.000 CHMD    171164106      8.4800        32,200.00        297,806.72        273,056.00
+CHURCHILL DOWNS INC                        1.381 CHDN    171484108     36.2010         7,200.00        281,641.13        260,647.20
+CIBER INC.                                 0.000 CBR     17163B102      8.6600        76,800.00        899,926.16        665,088.00
+CIMA LABS INC                              0.000 CIMA    171796105     32.6200        17,300.00        490,361.13        564,326.00
+CIMAREX ENERGY                             0.000 XEC     171798101     26.6900        50,200.00        913,417.01      1,339,838.00
+CINCINNATI BELL INC                        0.000 CBB     171871106      5.0500       258,700.00      1,753,549.16      1,306,434.99
+CIPHERGEN BIOSYSTEMS                       0.000 CIPH    17252Y104     11.2400        41,800.00        414,368.65        469,832.00
+CIRCOR INTERNATIONAL INC                   0.622 CIR     17273K109     24.1000        14,900.00        271,584.28        359,090.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100      7.6700       102,100.00        665,849.63        783,107.00
+CITIZENS BKG CORP MI                       3.484 CBCF    174420109     32.7200        52,300.00      1,412,519.54      1,711,256.00
+CITIZENS FIRST BANCO                       1.578 CTZN    17461R106     22.8000        10,300.00        220,535.08        234,840.00
+CITIZENS INC                               0.000 CIA     174740100      9.4300        17,655.00        129,787.07        166,486.65
+CITIZENS SOUTH BANKING CORP                1.720 CSBC    176682102     13.9500        10,800.00        145,425.38        150,660.00
+CITY BK LYNNWOOD WAS                       2.461 CTBK    17770A109     32.5000         9,700.00        274,961.23        315,250.00
+CITY HLDG CO                               2.285 CHCO    177835105     35.0000        20,100.00        613,915.37        703,500.00
+CKE RESTARUANTS INC.                       0.000 CKR     12561E105      6.3900        33,300.00        221,576.31        212,787.00
+CLARCOR INC.                               1.133 CLC     179895107Q    44.1000        30,100.00        819,208.89      1,327,410.00
+CLARK INC                                  7.484 CLK     181457102     19.2400         9,600.00        127,215.17        184,704.00
+CLAYTON WILLIAMS ENERGY INC                0.000 CWEI    969490101     29.0700        10,600.00        239,499.72        308,142.00
+CLECO CORP. HOLDING CO.                    5.005 CNL     12561W105     17.9800        53,400.00        959,674.46        960,132.00
+CLEVELAND-CLIFFS INC                       0.785 CLF     185896107Q    50.9500        11,000.00        246,586.44        560,450.00
+CLOSURE MEDICAL CORP                       0.000 CLSR    189093107     33.9300        12,300.00        370,479.89        417,339.00
+CMGI INC                                   0.000 CMGI    125750109      1.7800       445,900.00        742,376.88        793,702.00
+CMS ENERGY CORP                            8.450 CMS     125896100Q     8.5200       162,500.00      3,297,548.12      1,384,500.00
+CNA SURETY CORP                            0.000 SUR     12612L108      9.5100        34,400.00        335,592.54        327,144.00
+CNB FINANCIAL CORP/PA                      3.041 CCNE    126128107     42.0800         4,400.00        191,888.29        185,152.00
+CNET NETWORKS INC                          0.000 CNET    12613R104      6.8200       142,300.00      1,007,002.49        970,486.00
+COACHMEN INDUSTRIES INC                    1.325 COA     189873102     18.1100         7,400.00        110,601.42        134,014.00
+COASTAL BANCORP INC                        1.459 CBSA    19041P105     41.1100         4,900.00        142,792.80        201,439.00
+COASTAL FINL CORP DE                       1.247 CFCP    19046E105     17.6400        12,470.00        153,330.07        219,970.80

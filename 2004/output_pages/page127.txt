@@ -1,0 +1,27 @@
+ASOF02   Date 01/21/2005 Time 18:34:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 095
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+SUNSTONE HOTEL INVESTORS INC               0.000 SHO     867892101     20.7800        24,400.00        486,627.50        507,032.00
+TANGER FACTORY OUTLET                      4.724 SKT     875465106     26.4600        20,200.00        412,181.77        534,492.00
+TARRAGON CORP                              0.000 TARR    876287103     17.8500        23,329.00        320,083.91        416,422.65
+TAUBMAN CENTERS INC                        3.806 TCO     876664103Q    29.9500        55,200.00      1,083,097.29      1,653,240.00
+TOWN & COUNTRY TRUST                       6.225 TCT     892081100     27.6300        10,400.00        256,171.96        287,352.00
+U S RESTAURANT PPTYS                       7.309 USV     902971100     18.0600        11,700.00        185,860.18        211,302.00
+U-STORE-IT TRUST                           4.634 YSI     91274F104     17.3500        28,700.00        484,669.85        497,945.00
+UNIVERSAL HEALTH RLT                       6.287 UHT     91359E105     32.1300        13,000.00        363,475.65        417,690.00
+URSTADT BIDDLE PPTYS                       5.161 UBA     917286205     17.0500        23,400.00        348,214.41        398,970.00
+WASHINGTON RE INV                          3.991 WRE     939653101     33.8700        39,000.00      1,105,680.80      1,320,930.00
+WINSTON HOTELS INC                         5.080 WXH     97563A102     11.8100        25,800.00        253,586.28        304,698.00
+
+Instrument Total            90                                                     2,936,207.00     67,066,230.14     81,572,856.55
+
+Portfolio Total          1,879                                                    66,054,467.10  1,019,634,254.75  1,262,657,884.60
+

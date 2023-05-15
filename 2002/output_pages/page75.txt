@@ -1,0 +1,21 @@
+ASOF02   Date 01/21/2003 Time 18:52:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 047
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - GP5       LARGE CAP GROWTH
+Instrument - COM       COMMON STOCK
+
+WYETH                                      2.459 WYE     983024100Q    37.4000     1,002,000.00     42,559,469.23     37,474,800.00
+XILINX INC                                 0.000 XLNX    983919101     20.6000       155,000.00      5,304,179.83      3,193,000.00
+YAHOO INC                                  0.000 YHOO    984332106     16.3500       435,000.00     57,434,778.47      7,112,250.00
+YUM BRANDS, INC.                           0.000 YUM     988498101     24.2200       254,000.00      5,299,310.02      6,151,880.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     41.5200       113,290.00      2,657,653.78      4,703,800.80
+
+Instrument Total           161                                                    90,516,372.45  3,114,570,180.87  2,954,225,232.21
+
+Portfolio Total            161                                                    90,516,372.45  3,114,570,180.87  2,954,225,232.21
+

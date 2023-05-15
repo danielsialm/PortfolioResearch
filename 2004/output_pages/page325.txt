@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CHUNGHWA TELECOM                             0.227     6287841      2412_       560,000.00        1,047,400.00
+CIPLA LIMITED                                0.021     B011108      CIPLA       180,000.00          509,254.24
+CNOOC LTD                                    0.431     B00G0S5      883_H     4,000,000.00        1,632,356.94
+COFCO INTERNATIONAL LTD.                     0.300     6105738      506_H     1,250,000.00          499,018.64
+COMMERCIAL INTERNATIONAL BANK                0.635     6243898      CMIB_       570,000.00        2,870,553.66
+COMPAL ELECTRONICS                           0.190     6225744      2324_     3,734,550.39        2,454,488.41
+DAEWOO SHIPBUILDING & MARINE                 0.002     6211732      04266       100,000.00          782,000.00
+DATANG INTERNATIONAL POWER                   0.384     6080716      991_H     4,000,000.00        1,329,874.40
+DELTA ELECTRONICS INC                        0.120     6260734      2308_     2,326,391.86        2,392,972.23
+DHANA SIAM FINANCE                           0.000     6268716      DS/F_        98,200.00                0.00
+DR REDDY'S LABORATORIES                      0.013     6410959      DRRD_        12,000.00          276,114.82
+ECI TELECOM ORD IL                           2.448     2310150      ECIL        140,000.00        1,377,285.08
+FINANCE ONE THB10(                           0.000     6336925      FIN1/        13,800.00                0.00
+FISKARAGUNG PERK I                           0.000     6342535      FISK_       301,500.00                0.00
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    80,000,000.00          167,563.34
+FORMOSA PLASTICS CORP                        0.098     6348544      73829     1,279,858.45        1,775,083.18
+GIGABYTE TECHNOLOGY CO.                      0.196     6129181      2376_     1,312,500.00        2,292,660.67
+GOLD FIELDS LIMITE                           0.204     6280215      GFI_S       240,000.00        2,796,133.53
+GPO IND BIMBO SER'                           0.267     2392471      BIMBO       500,000.00        1,227,879.52
+GRUPO MEXICO SA                              0.062     2643674      GMEXI       100,000.00          360,174.42
+GUJARAT AMBUJA CEMENT GDR                    1.932     4393074      GJAD_        70,000.00          102,350.21
+HARMONY GOLD MINING CO                       0.242     6410562      HAR_S       180,000.00        1,595,295.35
+HINDALCO INDUSTRIES LIMITED                  0.026     6100142      HNDL_        20,000.00          326,343.14
+HINDUSTAN LEVER                              0.088     6261674      HLVR_       464,000.00        1,319,080.24
+HONG LEONG BANK                              1.148     6436892      HLBK_       700,000.00        1,011,308.72
+HYUNDAI MARINE AND FIRE INS. CO              0.005     B01LXY6      00145       700,000.00        1,523,014.04
+HYUNDAI MOTOR CO K                           0.001     6451055      00538        88,000.00        1,956,384.03
+HYUNDAI MOTOR LTD                            0.003     6148272      00538        16,000.00          317,337.82
+ICL-ISRAEL CHEM OR                           0.751     6455530      CHIM_       250,000.00          278,177.01
+IDB HOLDING CORP O                           5.005     6456726      IDBH_       100,000.00        2,365,686.40
+IJM CORP BERHAD                              0.666     6455217      IJM_M       320,000.00          392,045.77
+IMPALA PLATINUM HL                           0.778     6457804      IMP_S        24,000.00        1,200,021.04
+INFOSYS TECHNOLOGIES LTD                     0.022     6205122      INFO_        80,000.00        1,193,631.74
+IOI CORPORATION BERHAD                       0.914     6464514      IOI_M       440,000.00          603,234.86
+KASIKORNBANK                                 0.000     6888794      KBANK     1,600,000.00          816,002.07
+KGHM POLSKA MIEDZ                            1.067     5263251      KGH_P        80,000.00          296,963.46
+KIMBERLEY CLARK DE                           0.438     2491914      KIMBE       790,000.00        2,233,573.48
+KOMERCNI BANKA                               0.274     4519449      KOMB_        15,000.00          791,148.44
+KOOKMIN BANK KRW50                           0.002     6419365      06000       144,000.00        4,427,422.73

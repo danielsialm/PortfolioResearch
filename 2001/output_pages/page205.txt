@@ -1,46 +1,51 @@
-ASOF10   Date 01/24/2002 Time 21:29:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+ASOF03   Date 01/24/2002 Time 21:29:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 001
 
 Monthly Market Portfolio
 
-Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - ALTERNATIVE INVESTMENTS
-Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+Group - REAL ESTATE
+Portfolio  - REE       RE EAST REGION
+Instrument - A         APARTMENT
 
-HARBOURVEST PARTNERS VI DIRECT FUND L.P.     0.000     AHARBOURDI  99404       16,500,000       16,500,000.00       13,576,934.99
-HARBOURVEST PARTNERS VI PARTNERSHIP FUND     0.000     AHARBOURPA  99404       22,593,163       22,593,162.93       20,415,025.00
-HEARTLAND INDUSTRIAL PARTNERS                0.000     ABHEART     99404       19,791,802       19,791,801.99       19,568,007.99
-LEHMAN BROTHERS II                           0.000     VEA02551    LBBP        61,033,741       61,033,741.88       52,857,297.13
-LINSALATA CAPITAL PARTNERS III               0.000     ALINCAP     99404       17,912,542       17,912,542.09       18,214,006.00
-LINSALATA CAPITAL PARTNERS IV                0.000     ABLINCAP4   ABLIN        7,874,509        7,874,509.00        7,038,999.99
-MERITAGE PRIVATE EQUITY I                    0.000     AMERIT      AMERI       16,250,000       16,250,000.00       12,243,704.98
-MERITAGE PRIVATE EQUITY II                   0.000     AVMERIT2    AVMER        1,250,000        1,250,000.00          872,500.00
-MIAMI VALLEY VENTURE FUND                    0.000     VEA01492    MVVF         2,753,407        2,753,407.84        3,697,001.97
-MORGENTHALER PARTNERS IV                     0.000     VEA01176    MGVP               999              999.99          701,746.01
-MORGENTHALER PARTNERS V                      0.000     VEA01177    MGVPV        9,098,512        9,098,512.08       11,878,551.01
-MORGENTHALER PARTNERS VI                     0.000     AVMORG6     MGVPV       13,750,000       13,750,000.00       10,867,045.98
-MORGENTHALER PARTNERS VII                    0.000     AVMORG7     99405        2,000,000        2,000,000.00        1,782,908.00
-NEW ENTERPRISE ASSOCIATES 10                 0.000     AVNEA10     AVNEA        4,084,188        4,084,188.66        3,759,214.67
-NORTHCOAST FUND                              0.000     VEA06027    NCFD         2,500,000        2,500,000.00        1,208,604.00
-NW OHIO VENTURE FUND                         0.000     VEA05606    NOVF         1,994,950        1,994,950.00          925,000.00
-OAK HILL CAPITAL PARTNERS                    0.000     AOAKHILL    99404       29,090,958       29,090,957.65       28,956,466.65
-OHIO INNOVATION FUND I                       0.000     VEA02581    OIF1         1,600,000        1,600,000.00        2,014,545.04
-PRIMUS CAPITAL FUND II                       0.000     VEA04712    PCFX               800              800.00          224,053.00
-PRIMUS CAPITAL FUND III-A PFD                0.000     VEA06130    PCFZ             1,000              999.99        1,092,462.00
-PRIMUS CAPITAL FUND III-B                    0.000     VEA06129    PCFY             1,000            1,000.00        1,248,158.00
-PRIMUS CAPITAL FUND IV                       0.000     VEA02451    PCF4        13,273,560       13,273,560.48       12,978,389.99
-PRIMUS CAPITAL FUND V                        0.000     AVPRIMUS5   99404        8,910,000        8,910,000.00        7,225,024.00
-PRISM VENTURE PARTNERS IV                    0.000     AVPRISM4    99406        3,000,000        3,000,000.00        3,000,000.00
-PROVIDENCE EQUITY PARTNERS IV                0.000     ABPROV4     99404        8,736,902        8,736,901.96        6,976,011.04
-SILVER LAKE PARTNERS                         0.000     ASILLAKE    ASILL       10,757,662       10,757,662.66       10,361,827.98
-SKM EQUITY FUND III                          0.000     ABSKM3      99404       11,067,610       11,067,610.00        8,981,000.01
-SPACEVEST II                                 0.000     VEASPVE     VEASP        7,118,981        7,118,981.25        9,653,740.00
-SUNRISE CAPITAL PARTNERS                     0.000     ASUNRISE    ASUNR       20,611,761       20,611,761.00       19,892,052.00
-TAPE III                                     0.000     AVTAPE3     AVTAP        2,450,000        2,450,000.00        2,039,364.00
-TUCKER ANTHONY PRIVATE EQUITY FUND IV        0.000     AVTAPE4     99406        1,500,000        1,500,000.00        1,500,000.00
-WARBURG PINCUS EQUITY PARTNERS               0.000     AWARBURG    99404       63,253,696       63,253,696.75       74,497,000.03
-WARBURG PINCUS VIII                          0.000     AWARBURG8   AWARB        9,200,000        9,200,000.00        8,987,648.99
+BATTERY PARK CITY              NEW YORK, NY                    0.000         RBATTR                          0.01     21,800,000.00
+RELATED - E. 39TH ST - SONOMA  NEW YORK, NY                    0.000         REAST2                          0.01     11,230,000.00
+RELATED - LYRIC - WEST 94TH ST NEW YORK, NY                    0.000         RSYMPH                          0.01     19,920,000.00
+RELATED - STRATHMORE           NEW YORK NY                     0.000         REAST1                          0.01     12,700,000.00
+RELATED - UNION SQUARE APARTME NEW YORK NY                     0.000         RUNION                          0.01     16,900,000.00
+RELATED - WEST 89TH STREET     NEW YORK NY                     0.000         RWEST1                          0.01     16,930,000.00
 
-Instrument Total                     73                                       940,608,957      940,608,956.57      937,810,685.47
+Instrument Total             6                                                                               0.06     99,480,000.00
+
+Instrument -I      INDUSTRIAL
+
+WIP02 FLEET                    ARLINGTON VA                    9.500         RFLEET                 14,618,275.66     22,000,000.00
+WIP02 RENAISSANCE              ARLINGTON VA                    9.500         RWIP02                 34,189,851.33     54,700,000.00
+
+Instrument Total             2                                                                      48,808,126.99     76,700,000.00
+
+Instrument -O      OFFICE
+
+101 HUDSON STREET              JERSEY CITY NJ                 14.500         RHUD01                101,497,262.04    132,799,999.62
+2033 K STREET                  WASHINGTON DC                  10.100         RKSTRT                  8,065,185.37     11,100,000.00
+590 MADISON AVENUE             NEW YORK NY                    11.000         RMADAV                137,855,008.00    260,000,000.00
+BALLSTON STATION               BALLSTON VA                     9.550         RBALST                 52,982,290.00     68,300,000.00
+BAY COLONY                     BOSTON, MA                      6.747         RBAYCL                 33,769,153.43     50,199,999.50
+CRI BUILDING                   WASHINGTON, DC                  0.065         RCRIBD                 38,211,229.94     38,000,000.01
+ELEVEN PENN CENTER             PHILADELPHIA PA                 7.000         RPENN1                 72,000,000.00     77,499,999.99
+MORRIS CORPORATE CENTER I & II PARSIPPANY, NJ                  0.000         RMORCC                 60,310,346.25     50,800,000.00
+ONE LINCOLN                    BOSTON, MA                      0.000         ROLINC                 99,937,240.64    140,000,000.03
+WESTGATE CORPORATE CENTER      BERNARDSVILLE NJ                0.000         RWSTCC                 62,127,554.00     59,900,000.00
+
+Instrument Total            10                                                                     666,755,269.67    888,599,999.15
+
+Instrument -R      RETAIL
+
+NESHAMINY MALL                 PHILADELPHIA PA                15.500         RNESH1                 18,962,370.25     16,599,999.99
+PALLADIUM AT CITYPLACE         WEST PALM BEACH, FL             0.000         RPALPR                 32,250,390.00     42,300,000.01
+SILVER CITY GALLERIA           TAUNTON, MA                     6.190         RSILVG                 84,336,769.70     55,000,000.00
+UNION SQUARE RETAIL            NEW YORK, NY                    9.850         RUNSQ2                 63,510,695.00     71,600,000.00
+
+Instrument Total             4                                                                     199,060,224.95    185,500,000.00
 

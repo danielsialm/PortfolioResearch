@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 040
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 042
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-SMUCKER J M                                  1.808     832696306 Q SJM             27,400          699,142.54          969,412.00
-SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC           160,600        2,568,343.92        2,564,782.00
-SNAP-ON TOOLS CORP.                          2.852     833034101 Q SNA             40,077        1,122,861.02        1,348,991.82
-SOLA INTERNATIONAL INC                       0.000     834092108   SOL             22,500          675,310.74          436,500.00
-SOLECTRON CORP                               0.000     834182107   SLR          1,700,394       39,758,237.15       19,180,444.32
-SOLUTIA INC.                                 0.285     834376105   SOI            286,691        4,124,465.70        4,019,407.82
-SONIC AUTOMOTIVE INC.                        0.000     83545G102   SAH              3,800           61,526.94           89,072.00
-SONIC CORP                                   0.000     835451105   SONC            25,900          273,649.42          932,400.00
-SONICWALL INC                                0.000     835470105   SNWL            25,900          441,257.29          503,496.00
-SONOCO PRODUCTS CO                           3.009     835495102   SON            188,620        5,179,578.04        5,013,519.60
-SONOSIGHT INC.                               0.000     83568G104   SONO             9,600          212,174.28          246,624.00
-SOTHEBY’S HOLDINGS CL-A                      0.000     835898107   BID            143,300        2,506,881.06        2,380,213.00
-SOUTH FINANCIAL GROUP, INC                   2.478     837841105   TSFG            66,600        1,196,559.25        1,182,150.00
-SOUTHERN CO                                  5.286     842587107 Q SO           1,004,064       18,216,233.54       25,453,022.39
-SOUTHERN ENERGY HOMES INC                    0.000     842814105   SEHI           154,800          142,190.88          348,300.00
-SOUTHERN UNION COMPANY                       0.000     844030106   SUG             48,720          695,666.55          918,859.20
-SOUTHTRUST CORP                              2.270     844730101   SOTR           725,232       13,095,836.76       17,891,473.44
-SOUTHWEST AIRLINES                           0.108     844741108 Q LUV          1,334,695       16,851,665.36       24,665,163.60
-SOUTHWEST BANCORP OF TEXAS                   0.000     84476R109   SWBT            48,043        1,300,245.73        1,454,261.62
-SOUTHWEST GAS CORP                           3.668     844895102 Q SWX             16,500          329,753.52          368,775.00
-SOUTHWESTERN ENERGY COMPANY                  0.000     845467109   SWN             24,800          299,936.22          257,920.00
-SOVEREIGN BANCORP INC                        0.817     845905108   SOV            496,600        7,540,463.82        6,078,384.00
-SPACELABS MEDICAL INC                        0.000     846247104   SLMD            96,000        1,166,729.98        1,166,400.00
-SPHERION CORPORATION                         0.000     848420105   SFN             52,600        1,323,025.44          513,376.00
-SPINNAKER EXPLORATION CO                     0.000     84855W109   SKE              5,600          240,513.95          230,496.00
-SPRINT CORP.                                 2.490     852061100 Q FON          1,965,445       70,863,482.70       39,466,135.59
-SPRINT PCS GROUP                             0.000     852061506   PCS          2,105,091       63,286,179.82       51,385,271.31
-SPS TECHNOLOGIES INC                         0.000     784626103   ST              24,600        1,130,418.91          859,032.00
-SPSS INC.                                    0.000     78462K102   SPSS               400            7,896.83            7,100.00
-SPX CORP.                                    0.000     784635104 Q SPW             82,500        8,527,306.64       11,294,250.00
-ST JUDE MED. INC.                            0.000     790849103   STJ            115,250        5,592,626.24        8,949,162.51
-ST MARY LAND & EXPLORATION                   0.471     792228108   MARY            27,600          458,959.26          584,844.00
-ST. PAUL COMPANIES                           2.547     792860108 Q SPC            627,080       22,551,469.24       27,572,707.61
-STANCORP FINANCIAL GROUP                     0.677     852891100   SFG             66,200        3,126,869.19        3,127,950.00
-STANDARD MICROSYSTEMS CORP                   0.000     853626109   SMSC            14,400          222,161.29          223,488.00
-STANDARD MOTOR PRODS                         2.589     853666105   SMP             12,600          199,580.81          175,140.00
-STANDARD REGISTER CO                         4.964     853887107   SR              27,000          377,467.64          500,310.00
-STANDARD-PACIFIC CORP                        1.315     85375C101   SPF             48,800          884,957.51        1,186,816.00
-STANDEX INTERNATIONAL CORP                   3.862     854231107   SXI             11,000          244,205.50          239,250.00
-STANLEY WORKS                                2.061     854616109 Q SWK            131,486        4,087,696.77        6,123,303.01
+SYBRON DENTAL SPECIALTIES                    0.000     871142105   SYD             50,901          881,062.99        1,098,443.58
+SYKES ENTERPRISES                            0.000     871237103   SYKE            67,000          552,936.50          625,780.00
+SYLVAN LEARNING SYSTEMS INC                  0.000     871399101   SLVN            79,700        1,398,919.20        1,758,979.00
+SYMANTEC CORP                                0.000     871503108   SYMC           150,500        6,721,448.72        9,982,665.00
+SYMBOL TECHNOLOGIES INC                      0.125     871508107   SBL            873,310       15,013,130.27       13,868,162.82
+SYMMETRICOM INC                              0.000     871543104   SYMM            25,100          214,934.54          191,011.00
+SYNCOR INTL CORP-DEL                         0.000     87157J106   SCOR            23,100          503,602.60          661,584.00
+SYNOPSYS INC.                                0.000     871607107   SNPS           125,200        6,161,995.54        7,395,564.00
+SYNOVUS FINANCIAL CORP                       2.035     87161C105   SNV            615,068       14,080,571.40       15,407,453.40
+SYSCO CORP.                                  1.373     871829107 Q SYY            984,455       15,144,129.29       25,812,410.08
+SYSTEMS & COMPUTER TECH.                     0.000     871873105   SCTC            71,220        1,076,031.98          736,414.80
+T ROWE PRICE GROUP INC.                      1.727     74144T108 Q TROW           176,321        6,316,080.58        6,123,628.33
+TAKE-TWO INTERACTIVE SOFTWARE                0.000     874054109   TTWO           172,600        2,519,366.43        2,790,942.02
+TARGET CORP                                  0.535     87612E106 Q TGT          1,796,393       38,816,651.20       73,741,932.63
+TARO PHARMACEUTICAL INDUS                    0.000     M8737E108   TARO            13,500          274,116.12          539,325.00
+TBC CORP                                     0.000     872180104   TBCC            56,000          482,350.10          749,840.00
+TCF FINANCIAL CORP                           2.084     872275102   TCB            127,800        3,361,186.56        6,131,844.00
+TECH DATA CORP                               0.000     878237106   TECD           103,600        3,855,678.05        4,483,808.00
+TECHNE CORPORATION                           0.000     878377100   TECH            40,700        1,380,376.05        1,499,795.00
+TECHNITROL INC.                              0.506     878555101   TNL             48,100        1,249,490.02        1,328,522.00
+TECO ENERGY                                  5.259     872375100 Q TE             282,200        6,258,007.03        7,404,928.00
+TECUMSEH PRODUCTS CO CL-A                    2.528     878895200   TECUA           30,700        1,530,888.49        1,554,341.00
+TEKTRONIX, INC.                              0.000     879131100 Q TEK             66,156        1,048,767.17        1,705,501.68
+TELEDYNE TECHNOLOGIES INC                    0.000     879360105   TDY            154,300        2,362,026.99        2,513,547.00
+TELEFLEX INC                                 1.437     879369106 Q TFX             90,500        2,190,075.12        4,281,555.00
+TELEPHONE & DATA                             0.601     879433100   TDS            120,700        7,522,648.55       10,832,825.00
+TELETECH HOLDINGS INC                        0.000     879939106   TTEC            32,200          413,398.88          461,426.00
+TELLABS INC.                                 0.000     879664100   TLAB           549,267       20,201,169.23        8,217,034.31
+TEMPLE-INLAND INC.                           2.256     879868107 Q TIN             90,182        4,525,756.89        5,116,024.86
+TENET HEALTHCARE CORP                        0.000     88033G100   THC            518,553       15,161,653.07       30,449,432.16
+TENNANT COMPANY                              2.156     880345103   TNC             33,000        1,410,955.90        1,224,300.00
+TERADYNE INC                                 0.000     880770102   TER            496,372       21,177,859.25       14,960,652.08
+TESORO PETROLEUM CORP                        0.000     881609101   TSO             15,100          199,612.67          197,961.00
+TETRA TECH INC.                              0.000     88162G103   TTEK            50,000          727,636.47          995,500.00
+TETRA TECHNOLOGIES INC.                      0.000     88162F105   TTI             15,200          352,420.21          318,440.00
+TEXAS INDUSTRIES INC                         0.813     882491103   TXI             20,500          726,848.26          756,450.00
+TEXAS INSTRS INC                             0.321     882508104 Q TXN          3,791,155      109,022,452.97      106,152,340.01
+TEXTRON INC.                                 3.135     883203101 Q TXT            352,184       21,601,388.74       14,601,548.64
+THE FINISH LINE-CL A                         0.000     317923100   FINL            33,500          371,463.42          512,215.00
+THE MEN’S WEARHOUSE INC.                     0.000     587118100   MW              39,500        1,043,104.47          815,675.00

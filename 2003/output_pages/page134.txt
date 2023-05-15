@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 104
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+SEMTECH CORPORATION                        0.000 SMTC    816850101     22.7300        71,000.00      1,467,050.07      1,613,830.00
+SENIOR HOUSING PROP TRUST                  7.196 SNH     81721M109     17.2300        54,900.00        755,627.34        945,927.00
+SENSIENT TECHNOLOGIES                      3.034 SXT     81725T100Q    19.7700        47,900.00        966,124.67        946,983.00
+SEQUA CORP - CL A                          0.000 SQA.A   817320104     49.0000         1,000.00         40,212.13         49,000.00
+SERENA SOFTWARE INC                        0.000 SRNA    817492101     18.3500        27,500.00        429,953.66        504,625.00
+SEROLOGICALS CORP                          0.000 SERO    817523103     18.6000        18,400.00        272,910.58        342,240.00
+SFBC INTERNATIONAL INC                     0.000 SFCC    784121105     26.5600        14,500.00        348,169.98        385,120.00
+SHARPER IMAGE CORP                         0.000 SHRP    820013100     32.6500        11,300.00        320,482.29        368,945.00
+SHAW GROUP                                 0.000 SGR     820280105     13.6200        69,800.00      1,146,914.27        950,675.99
+SHENANDOAH TELECOMMU                       1.521 SHEN    82312B106     51.2600         3,900.00        191,360.44        199,914.00
+SHOE CARNIVAL INC                          0.000 SCVL    824889109     17.8000           500.00          7,087.60          8,900.00
+SHOPKO STORES INC                          0.000 SKO     824911101     15.2500        42,200.00        626,829.74        643,550.00
+SHORE BANCSHARES INC                       1.785 SHBI    825107105     38.0900         6,500.00        221,820.28        247,585.00
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     34.6200        20,100.00        503,493.18        695,862.00
+SIERRA BANCORP                             2.040 BSRR    82620P102     15.6800         6,100.00         86,733.04         95,648.00
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109     27.4500        28,100.00        349,588.26        771,345.00
+SIERRA PACIFIC RESOURCES                  10.899 SRP     826428104      7.3400       141,500.00      1,621,320.32      1,038,610.00
+SIGMA DESIGNS INC                          0.000 SIGM    826565103      7.5300        21,300.00        209,177.31        160,389.00
+SILGAN HOLDINGS INC                        0.000 SLGN    827048109     42.5900        13,100.00        412,032.71        557,929.00
+SILICON GRAPHICS COMPUTER SYST             0.000 SGI     827056102      1.3700       246,900.00        299,230.80        338,253.00
+SILICON IMAGE INC                          0.000 SIMGE   82705T102      7.2300        61,500.00        346,047.04        444,644.99
+SILICON STORAGE TECH                       0.000 SSTI    827057100     11.0000       107,400.00        633,442.06      1,181,400.00
+SILICON VALLEY BANCSHARES                  0.000 SIVB    827064106     36.0700        35,600.00        868,273.95      1,284,092.00
+SILICONIX INC                              0.000 SILI    827079203     45.7000        10,000.00        452,640.88        457,000.00
+SIMMONS 1ST NATL COR                       2.007 SFNC    828730200     27.9000        17,100.00        394,409.93        477,090.00
+SIMPLETECH INC                             0.000 STEC    828823104      6.0100        32,800.00        216,648.07        197,128.00
+SIMPSON MANUFACTURING CO                   0.000 SSD     829073105     50.8600        17,900.00        547,054.15        910,394.00
+SINCLAIR BROADCAST GROUP-A                 0.000 SBGI    829226109     14.9200        32,200.00        380,777.31        480,424.00
+SIPEX CORP                                 0.000 SIPX    829909100      7.7100        29,900.00        152,543.61        230,528.99
+SIX FLAGS INC.                             0.000 PKS     83001P109      7.5200       133,900.00      1,752,554.05      1,006,928.00
+SJW CORP                                   3.260 SJW     784305104     89.2500         2,600.00        221,189.67        232,050.00
+SKECHERS U S A INC                         0.000 SKX     830566105      8.1500        22,500.00        183,857.71        183,375.00
+SKYLINE CORP.                              2.064 SKY     830830105Q    34.8700         7,300.00        221,577.01        254,551.00
+SKYWEST INC                                0.441 SKYW    830879102     18.1200        69,600.00      1,260,829.33      1,261,152.00
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      8.7000       179,500.00      8,546,869.77      1,561,650.00
+SM&A                                       0.000 WINS    78465D105     11.7000        27,200.00        322,457.79        318,240.00
+SMART & FINAL INC                          0.000 SMF     831683107     10.0800        14,900.00         72,761.26        150,192.00
+SMITH (A.O.) CORP                          1.711 AOS     831865209     35.0500        20,100.00        545,363.44        704,505.00
+SOHU.COM INC                               0.000 SOHU    83408W103     30.0100        25,000.00        969,848.70        750,250.00

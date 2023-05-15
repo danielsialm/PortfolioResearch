@@ -1,0 +1,51 @@
+ASOF03   Date 01/21/2005 Time 18:35:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - A         APARTMENT
+
+AUTUMN RIDGE                   ATLANTA, GA                     6.580         RAUTUM                  6,878,730.24      7,650,000.01
+BRIDGEWATER                    ATLANTA, GA                     7.430         RBRIDG                 41,157,771.50     41,500,000.01
+CHAPARRAL CREEK                IRVING, TX                      7.997         RCREEK                 29,227,678.89     33,700,000.01
+HOMES OF PRAIRIE SPRINGS       DALLAS, TX                      9.100         RHMPRS                 32,665,931.97     38,000,000.00
+JEFFERSON PARK                 IRVING, TX                      8.000         RJPARK                 23,760,225.00     26,000,000.00
+JEFFERSON RIDGE                IRVING, TX                      8.000         RRIDGE                 26,017,725.00     26,000,000.00
+WATERS PARK                    AUSTN, TX                       8.200         RWATPK                 29,191,791.00     34,500,000.00
+WYNFIELD TRACE                 ATLANTA, GA                     5.200         RTRACE                  9,689,312.58     12,800,000.00
+
+Instrument Total             8                                                                     198,589,166.18    220,150,000.03
+
+Instrument -I      INDUSTRIAL
+
+15200 TRINITY                  FORT WORTH, TX.                 0.000         RMATTE                 18,101,084.71     22,900,000.00
+ALLIANCE AIRLINES              ATLANTA, GA                     9.100         RALLNC                  4,477,000.00      4,000,000.00
+QUADRANT BUSINESS CTR          DEERFIELD BC                   10.875         RQBC01                 12,830,523.77     20,000,000.00
+QUAKER OATS BUILDING           ATLANTA, GA                     0.000         RQOATS                 16,952,685.00     17,760,000.00
+REGENCY 1                      DALLAS TX                       8.500         RREGNC                 16,207,374.36     13,650,000.00
+REGENCY 2                      DALLAS, TX                      0.000         RREGN2                 15,526,783.10     15,200,000.00
+TRADE CENTER I                 ATLANTA GA                      8.500         RTDCNT                 13,769,358.00     10,500,000.01
+TRADE CENTER II                ATLANTA, GA                     0.000         RTDCN2                 12,013,354.50     11,500,000.00
+
+Instrument Total             8                                                                     109,878,163.44    115,510,000.01
+
+Instrument -O      OFFICE
+
+ARBORETUM                      AUSTIN,TX                       0.000         RARBTM                 41,576,571.20     29,900,000.00
+GALLERIA 100                   ATLANTA, GA                     0.839         RGAL10                 36,980,824.96     29,900,000.00
+GALLERIA 400                   ATLANTA, GA                     0.000         RGALPK                 28,698,116.53     43,266,116.94
+GALLERIA 600                   ATLANTA, GA                     0.000         RGAL60                 66,053,527.62     69,775,641.63
+JPM I                          DALLAS, TX                      0.000         RINTNL                 30,264,212.65     47,799,999.99
+JPM II                         DALLAS,TX                       0.000         RCHAS2                 27,806,525.18     52,183,635.48
+JPM III                        DALLAS,TX                       0.000         RCHAS3                 47,616,075.97     39,025,590.75
+SOUTHPARK ONE                  AUSTIN                         11.500         RSPK01                 10,408,643.00     14,600,000.00
+
+Instrument Total             8                                                                     289,404,497.11    326,450,984.79
+
+Instrument -R      RETAIL
+
+K MART #08 PM1                 KIMBERLY WI                    11.580         RKM081                  2,211,426.32        600,000.00

@@ -1,0 +1,38 @@
+ASOF02   Date 01/19/2006 Time 18:24:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 176
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6MA       M.A. WEATHERBIE - 20
+Instrument - COM       COMMON STOCK
+
+PATTERSON-UTI ENERGY INC                   0.485 PTEN    703481101     32.9500        50,700.00      1,045,597.49      1,670,565.00
+POLYCOM INC.                               0.000 PLCM    73172K104     15.3000       147,980.00      2,194,005.18      2,264,094.00
+POLYMEDICA CORP                            1.792 PLMD    731738100     33.4700       107,441.00      2,586,800.72      3,596,050.27
+PRIME MONEY MARKET - 6MA                   0.000 IT-MAW  IT-MAW         1.0000     4,783,090.17      4,783,090.84      4,783,090.25
+RESMED INC                                 0.000 RMD     761152107     38.3100       163,012.00      3,318,445.96      6,244,989.72
+RESOURCES GLOBAL PROFESSIONALS             0.000 RECN    76122Q105     26.0600        80,199.00      2,196,266.11      2,089,985.94
+SEMTECH CORPORATION                        0.000 SMTC    816850101     18.2600       102,957.00      1,711,327.86      1,879,994.82
+SRA INTERNATIONAL INC - CLASS              0.000 SRX     78464R105     30.5400        82,178.00      1,933,729.43      2,509,716.12
+STERICYCLE INC                             0.000 SRCL    858912108     58.8800        38,232.00      1,972,397.90      2,251,100.16
+SURMODICS INC                              0.000 SRDX    868873100     36.9900        18,275.00        747,623.58        675,992.25
+TEXAS ROADHOUSE INC-CLASS A                0.000 TXRH    882681109     15.5500       101,141.00      1,391,884.53      1,572,742.55
+THOR INDUSTRIES INC                        0.499 THO     885160101     40.0700        76,323.00      2,375,228.60      3,058,262.61
+UNITED NATURAL FOODS INC.                  0.000 UNFI    911163103     26.4000        62,221.00      1,535,063.64      1,642,634.40
+UNIVERSAL TECHNICAL INSTITUTE              0.000 UTI     913915104     30.9400        78,831.00      2,619,033.23      2,439,031.14
+UTI WORLDWIDE INC                          0.161 UTIW    G87210103     92.8400        70,049.00      2,978,921.74      6,503,349.16
+VCA ANTECH INC                             0.000 WOOF    918194101     28.2000       124,446.00      2,682,895.14      3,509,377.20
+VISTAPRINT LTD                             0.000 VPRT    G93762204     22.7540        40,025.00        597,929.20        910,728.85
+WASTE CONNECTIONS INC                      0.000 WCN     941053100     34.4600        53,715.00      1,890,502.42      1,851,018.90
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     21.6300        84,062.00      1,647,522.58      1,818,261.06
+WEST CORP.                                 0.000 WSTC    952355105     42.1500       114,811.00      3,204,982.13      4,839,283.65
+WESTWOOD ONE                               2.454 WON     961815107     16.3000        72,573.00      2,124,494.04      1,182,939.90
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     42.8500        57,940.00      1,852,907.84      2,482,729.00
+
+Instrument Total            61                                                     9,311,352.17    122,363,007.27    153,156,356.35
+
+Portfolio Total             61                                                     9,311,352.17    122,363,007.27    153,156,356.35
+

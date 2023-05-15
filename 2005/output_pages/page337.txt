@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+PERSIMMON                                    4.148     0682538      PSN_L         5,064.00           76,779.31
+PETRO-CANADA                                 0.734     2684316      PCA_C        15,600.00          379,965.19
+PETROLEUM GEO SVS                            0.000     B09YC62      PGS_N        36,400.00          884,730.34
+PEUGEOT SA FF35                              3.269     7103526      UG_FP        23,699.00        1,289,653.15
+PHILIPS ELECTRONICS                          1.797     5986622      PHIA_       249,889.00        7,031,457.15
+PLACER DOME INC                              0.321     2691714      PDG_C        12,400.00          195,036.57
+POTASH CORP OF SASKATCHEWAN                  0.551     2696980      POT_C         3,000.00          206,125.90
+POWER CORP OF CANADA                         1.825     2697701      POW/S        10,300.00          221,019.69
+POWER FINANCIAL CORP                         2.384     2697864      PWF_C         8,600.00          193,586.66
+PPR                                          3.123     5505072      PP_FP         8,501.00          895,881.59
+PREMIER FARNELL                              8.942     0331841      PFL_L        58,968.00          177,837.81
+PROSAFE ASA                                  0.567     5241893      PRS_N        28,650.00        1,179,564.35
+PRUDENTIAL CORP GB                           4.977     0709954      PRU_L       128,920.00        1,448,076.72
+PUBLICIS GROUPE                              1.203     4380429      PUB_F         9,035.00          299,873.83
+QBE INS GROUP A 1                            2.862     6715740      QBE_A        15,412.00          175,059.02
+RADEX-HERAKLITH OR                           3.776     4719915      RHI_A        32,800.00          964,204.52
+RECKITT BENCKISER PLC                        3.218     0727871      RB/_L        46,254.00          856,429.71
+RENAULT SA                                   3.081     4712798      RNO_F        21,662.00        1,595,357.89
+RENTOKIL INITIAL O                           7.254     B082RF1      RTO_L       314,315.00          948,325.44
+RESEARCH IN MOTION                           0.000     2117265      RIM_C         4,100.00          296,581.66
+RESONA HOLDINGS INC                          0.000     6421553      8308_           807.99        1,572,897.46
+REUTERS GROUP ORD                            3.987     0236913      RTR_L        85,787.00          927,879.47
+RICOH CO Y50                                 0.009     6738220      7752_        71,000.00        1,227,954.48
+RINKER GROUP LTD                             1.569     6599386      RIN_A        14,543.00          111,100.08
+RIO TINTO LIMITED                            1.156     6220103      RIO_A         4,328.00          133,732.08
+RIO TINTO PLC                                2.953     0718875      RIO_L        79,193.00        1,293,361.69
+ROCHE HLDGS AG GEN                           0.769     7110388      ROG_V        23,055.00        2,892,507.14
+RODAMCO EUROPE                               0.000     5727360      RCEA_        21,049.00        1,743,374.13
+ROGERS COMMUNICATIONS -CL B                  0.261     2169051      RCI/N         3,200.00           71,231.88
+ROHM CO JPY50                                0.006     6747204      6963_        10,500.00        1,312,188.97
+ROYAL + SUN ALLIAN                           6.347     0661689      RSA_L        98,646.00          170,578.29
+ROYAL BANK OF CANADA                         2.413     2754383      RY_CN        17,900.00          885,948.37
+ROYAL BK SCOT GBP                            5.927     0754783      RBS_L       198,639.00        3,768,064.69
+ROYAL DUTCH SHELL PLC - A SHS                8.916     B03MLX2      RDSA_       340,051.00        9,918,010.75
+ROYAL DUTCH SHELL PLC - B SHS                5.871     B03MM40      RDSB_       184,157.00        4,427,168.36
+RWE AG                                       2.836     4768962      RWE_G        71,498.00        2,257,718.50
+RYANAIR HOLDINGS                             0.000     3113864      RYA_I        11,464.00           92,255.78
+SABMILLER PLC                                6.050     0483548      SAB_L        43,789.00          306,312.58
+SAINSBURY(J) GBP0.                           4.247     B019KW7      SBRY_       127,524.00          593,820.48

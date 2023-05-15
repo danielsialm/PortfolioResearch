@@ -1,0 +1,48 @@
+ASOF11   Date 01/21/2003 Time 18:53:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TELECENTRO OESTE CELULAR ADR                 2.000     2298018      TRO         200,000.00        1,482,429.03
+TELECOMASIA THBH10                           0.000     6877071      TA/F_       752,300.00          658,282.89
+TELEFONOS DE MEXIC                           0.000     2881689      TELME     2,550,000.00        4,228,790.27
+TELEFONOS DE MEXICO SA-SER A                 0.321     2881731      TELME       900,000.00        1,043,942.16
+TELEKOMUNIKAYA POL                           0.000     5552551      TPS_P       189,186.00          813,257.02
+TELEMIG CELULAR - ADR                        3.432     2297996      TMB          35,000.00          710,177.38
+TEMPO SCAN PACIFIC TBK/PT                    0.001     6881953      TSPC_        90,000.00           78,752.44
+TENARIS SA                                   0.000     2172402      TS_AF       215,121.00          426,857.89
+TEVA PHARMA IND IL                           0.004     6882172      TEVA_        75,180.00        1,471,042.60
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.388     2883878      TEVA         22,698.00          676,114.10
+THAI FARMERS BANK                            0.000     6888794      TFB/F       467,800.00          566,602.38
+THAI UNION FROZEN PROD-FOREI                 0.168     6422716      TUF/F       269,130.00           77,746.71
+TOFAS OTOMOBIL FAB                           0.000     4894210      TOASO    91,354,000.00          279,573.12
+TRAVELSKY TECHNOLOGY                         0.007     6321954      696_H       834,000.00          519,339.50
+TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    31,704,430.20          390,751.59
+UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_     2,494,034.80        1,034,817.41
+UNIBANCO - SPONSORED GDR                     7.305     2000815      UBB          70,000.00        1,303,571.98
+UNIFIED ENERGY SYSTEMS                      23.273     4889335      EESR$     7,675,000.00        1,112,784.25
+UNIPETROL                                    0.000     5297294      UNIP_       224,928.00          335,726.15
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,783,402.50        3,427,354.31
+VIMPEL COMMUNICATIONS ADR                    0.000     2943675      VIP          24,500.00          572,300.18
+VOTORANTIM CELULOSE - ADR                    2.676     2696560      VCP          57,500.00          855,029.65
+WALMEX V                                     0.011     2135212      WALME       750,000.00        1,878,439.75
+WIPRO                                        0.001     6206051      WPRO_        13,801.00          280,601.14
+YANZHOU COAL MINIG                           0.413     6109893      1171_     1,700,000.00          567,102.38
+YIZHENG CHEM FIBRE                           0.251     6984669      1033_     5,376,000.00        1,299,908.78
+YUKOS - $US                                105.159     5110863      YUKO$        33,060.00          117,029.90
+
+Instrument Total             222                                          1,344,787,508.35      246,929,584.18
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    59,904.46        5,990,446.12
+
+Instrument Total               1                                                 59,904.46        5,990,446.12
+
+Portfolio Total              223                                          1,344,847,412.81      252,920,030.30        242,605,289.92

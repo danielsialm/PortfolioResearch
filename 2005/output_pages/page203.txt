@@ -1,0 +1,52 @@
+ASOF02   Date 01/19/2006 Time 18:24:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 170
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LC       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+KYPHON INC                                 0.000 KYPH    501577100     40.8300        78,261.00      2,986,604.62      3,195,396.63
+LCA-VISION INC.                            1.010 LCAV    501803308     47.5100       113,314.00      3,762,034.13      5,383,548.14
+LITHIA MOTORS INC - CL A                   1.526 LAD     536797103     31.4400         9,900.00        271,755.66        311,256.00
+MASSEY ENERGY CO                           0.422 MEE     576206106Q    37.8700       155,700.00      5,273,448.64      5,896,359.00
+MEASUREMENT SPECIALITIES INC               0.000 MEAS    583421102     24.3500       174,700.00      3,832,810.18      4,253,945.00
+OHIO CASUALTY CORP.                        0.847 OCAS    677240103Q    28.3200       196,700.00      3,548,143.49      5,570,544.00
+OPTION CARE INC                            0.598 OPTN    683948103     13.3600       211,879.00      2,276,491.75      2,830,703.44
+PAR PHARMACEUTICAL COS INC                 0.000 PRX     69888P106     31.3400        98,900.00      2,883,476.64      3,099,526.00
+PILGRIMS PRIDE CORP                        0.271 PPC     721467108     33.1600        29,100.00      1,027,742.35        964,956.00
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     30.7500       214,000.00      3,981,364.97      6,580,500.00
+PRIME MONEY MARKET - 6LC                   0.000 IT-LOR6 IT-LOR6        1.0000     5,341,634.16      5,341,634.77      5,341,634.15
+PRIVATEBANCORP INC                         0.506 PVTB    742962103     35.5700        31,100.00        951,625.56      1,106,227.00
+PSYCHIATRIC SOLUTIONS INC                  0.000 PSYS    74439H108     58.7400         9,600.00        482,304.00        563,904.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     17.3400        94,137.00      1,351,217.76      1,632,335.58
+REGENT COMMUNICATIONS INC                  0.000 RGCI    758865109      4.6400       344,400.00      2,028,832.32      1,598,016.00
+REPUBLIC AIRWAYS HOLDINGS INC              0.000 RJET    760276105     15.2000        41,805.00        523,792.10        635,436.00
+RUSH ENTERPRISES INC - CL A                0.000 RUSHA   781846209     14.8800        95,100.00      1,338,408.48      1,415,088.00
+RYLAND GROUP INC                           0.665 RYL     783764103     72.1300        93,200.00      3,864,326.66      6,722,516.00
+SELECT COMFORT CORP                        0.000 SCSS    81616X103     27.3500       289,807.00      5,022,292.79      7,926,221.45
+SM&A                                       0.000 WINS    78465D105      8.2300       237,202.00      2,154,061.50      1,952,172.46
+SPECTRALINK CORP                           3.369 SLNK    847580107     11.8700        87,407.00        951,812.62      1,037,521.09
+STRATASYS INC                              0.000 SSYS    862685104     25.0100       114,200.00      2,592,118.33      2,856,142.00
+STRAYER EDUCATION INC                      1.067 STRA    863236105     93.7000        24,862.00      2,254,050.15      2,329,569.40
+SYMMETRY MEDICAL INC                       0.000 SMA     871546206     19.3900       134,600.00      2,884,396.86      2,609,894.00
+TEXAS UNITED BANCSHARES INC                1.762 TXUI    882838105     18.1600        15,130.00        261,583.16        274,760.80
+TRIPATH IMAGING INC                        0.000 TPTH    896942109      6.0400       220,542.00      1,860,028.30      1,332,073.68
+TUESDAY MORNING CORP                       3.107 TUES    899035505     20.9200       117,400.00      3,150,726.41      2,456,008.00
+UNIT CORP                                  0.000 UNT     909218109     55.0300        50,900.00      2,654,340.45      2,801,027.00
+UNIVERSAL ELECTRONICS INC                  0.000 UEIC    913483103     17.2300       133,422.00      2,071,345.78      2,298,861.06
+USI HOLDINGS CORP                          0.000 USIH    90333H101     13.7700       331,272.00      4,375,263.68      4,561,615.44
+VITRAN CORP INC-A                          0.000 VTNC    92850E107     19.7000        93,911.00      1,462,850.03      1,850,046.70
+WABASH NATIONAL CORP                       0.944 WNC     929566107     19.0500       128,900.00      2,824,117.78      2,455,545.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     26.7200       120,500.00      2,835,415.81      3,219,760.00
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     21.6300        66,900.00      1,606,190.79      1,447,047.00
+WEBSENSE INC                               0.000 WBSN    947684106     65.6400        79,600.00      2,779,754.36      5,224,944.00
+X-RITE INC                                 1.000 XRIT    983857103     10.0000       162,153.00      2,212,497.43      1,621,530.00
+
+Instrument Total            75                                                    13,307,368.16    170,898,675.57    200,513,315.13
+
+Portfolio Total             75                                                    13,307,368.16    170,898,675.57    200,513,315.13
+

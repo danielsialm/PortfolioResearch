@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 126
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+ALEXANDERS INC                             0.000 ALX     014752109    245.5000           300.00         47,889.71         73,650.00
+ALEXANDRIA REAL ESTATE                     3.478 ARE     015271109     80.5000           100.00          5,530.16          8,050.00
+AMERICAN CAMPUS COMMUNITIES IN             5.443 ACC     024835100     24.8000         3,000.00         66,573.24         74,400.00
+BIOMED REALTY TRUST                        4.426 BMR     09063H107     24.4000         3,200.00         69,710.70         78,080.00
+BRANDYWINE REALTY                          0.286 BDN     105368203     27.9100         2,800.00         76,458.49         78,148.00
+CAPITAL TRUST-CL A                         8.196 CT      14052H506     29.2800         1,800.00         51,201.88         52,704.00
+CEDAR SHOPPING CENTERS INC                 6.396 CDR     150602209     14.0700         4,600.00         65,738.11         64,722.00
+CENTRACORE PROPERTIES TRUST                6.698 CPV     15235H107     26.8700         2,000.00         57,393.12         53,740.00
+COLONIAL PROPERTIES                        6.431 CLP     195872106     41.9800           100.00          3,931.32          4,198.00
+COLUMBIA EQUITY TRUST INC                  3.467 COE     197627102     16.1500         2,500.00         36,550.00         40,375.00
+COMMERCIAL NET LEASE RE                    6.381 NNN     202218103     20.3700           200.00          3,683.41          4,074.00
+CORPORATE OFFICE PROPERTY                  3.151 OFC     22002T108     35.5400           100.00          2,236.12          3,554.00
+DEERFIELD TRIARC CAPITAL CORP             10.219 DFR     244572301     13.7000           100.00          1,388.00          1,370.00
+DIAMONDROCK HOSPITALITY                    5.769 DRH     252784301     11.9600         9,400.00        111,856.26        112,424.00
+DIGITAL REALTY TRUST INC                   4.684 DLR     253868103     22.6300           500.00          9,033.65         11,315.00
+EASTGROUP PROPERTY INC                     3.281 EGP     277276101     45.1600           100.00          3,335.49          4,516.00
+EDUCATION REALTY TRUST INC                 9.309 EDR     28140H104     12.8900         3,900.00         65,352.11         50,271.00
+ENTERTAINMENT PPTYS                        6.135 EPR     29380T105     40.7500           100.00          3,566.14          4,075.00
+EQUITY INNS INC                            5.018 ENN     294703103     13.5500           200.00          2,008.01          2,710.00
+EQUITY ONE INC                             5.190 EQY     294752100     23.1200           100.00          1,935.43          2,312.00
+GETTY RLTY CORP                            6.770 GTY     374297109     26.2900         2,000.00         51,198.03         52,580.00
+GLENBOROUGH REALTY                         7.734 GLB     37803P105     18.1000         4,200.00         82,467.13         76,020.00
+GMH COMMUNITIES TRUST                      5.867 GCT     36188G102     15.5100           100.00          1,428.22          1,551.00
+GOVERNMENT PROPERTIES TRUST IN             6.430 GPT     38374W107      9.3300           100.00            972.11            933.00
+HERITAGE PROPERTY INV TRUST                6.287 HTG     42725M107     33.4000           100.00          2,910.12          3,340.00
+HIGHWOODS PROP INC.                        2.309 HIW     431284108Q    28.4500           200.00          4,751.88          5,690.00
+HOMEBANC CORP                             14.973 HMB     43738R109      7.4800           200.00          1,869.15          1,496.00
+INLAND REAL ESTATE CORP                    6.490 IRC     457461200     14.7900           200.00          3,191.52          2,958.00
+INNKEEPERS USA TRUST                       3.750 KPA     4576J0104     16.0000           200.00          2,389.62          3,200.00
+INVESTORS REAL ESTAT                       7.085 IRETS   461730103      9.2300         7,900.00         76,334.18         72,917.00
+KILROY RE CORP                             3.295 KRC     49427F108     61.9000           100.00          2,842.20          6,190.00
+KITE REALTY GROUP TRUST                    4.848 KRG     49803T102     15.4700         1,500.00         22,123.65         23,205.00
+LASALLE HOTEL PROPERTIES                   3.268 LHO     517942108     36.7200           100.00          2,512.82          3,672.00
+LEXINGTON CORP PPTYS                       5.028 LXP     529043101     21.3000         3,600.00         70,158.61         76,680.00
+MEDICAL PROPERTIES TRUST INC               7.362 MPW     58463J304      9.7800         2,300.00         22,586.00         22,494.00
+MERISTAR HOSPITALITY CORP.                 0.425 MHX     58984Y103      9.4000           100.00            748.48            940.00
+MID-AMERICAN APARTMENT                     4.907 MAA     59522J103     48.5000           100.00          4,011.65          4,850.00
+NATIONWIDE HEALTH PP                       6.915 NHP     638620104     21.4000           200.00          3,730.57          4,280.00
+PARKWAY PROPERTYS INC                      5.291 PKY     70159Q104     40.1400         1,900.00         86,571.73         76,266.00

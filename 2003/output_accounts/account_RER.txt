@@ -1,0 +1,118 @@
+Instrument - A         DIVERSIFIED
+
+CATELLUS DEVELOP CORP                      2.363 CDX     149113102     24.1200           762.00         18,242.00         18,379.44
+COLONIAL PROPERTIES                        6.717 CLP     195872106     39.6000        53,700.00      1,973,058.50      2,126,520.00
+COUSINS PROPERTIES INC                     4.836 CUZ     222795106     30.6000        15,300.00        384,989.04        468,180.00
+CRESCENT RE EQT. CO.                       8.756 CEI     225756105     17.1300       199,300.00      3,338,351.95      3,414,009.00
+VORNADO REALTY TRUST                       5.187 VNO     929042109     54.7500       232,045.00      9,232,073.26     12,704,463.75
+WASHINGTON RE INV                          5.102 WRE     939653101     29.2000        79,400.00      2,341,531.46      2,318,480.00
+
+Instrument Total             6                                                      580,507.00      17,288,246.21     21,050,032.19
+
+Instrument -C      INDUSTRIAL
+
+AMB PROPERTY CORP.                         5.048 AMB     00163T109     32.8800       217,337.00      5,538,395.41      7,146,040.56
+CENTERPOINT PROP CORP.                     4.165 CNT     151895109     74.9000        30,300.00      1,599,517.64      2,269,470.00
+PROLOGIS TRUST                             4.487 PLD     743410102Q    32.0900       310,220.00      5,291,671.71      9,954,959.80
+
+Instrument Total             3                                                      557,857.00      12,429,584.76     19,370,470.36
+
+Instrument -D      MIXED INDUST/OFFICE
+
+DUKE RE CORPORATION                        5.935 DRE     264411505     31.0000       283,183.00      6,394,953.33      8,778,673.00
+KILROY RE CORP                             6.045 KRC     49427F108     32.7500        62,700.00      1,478,233.03      2,053,425.00
+LIBERTY PROPERTY TRUST                     6.221 LRY     531172104Q    38.9000       166,700.00      5,022,295.16      6,484,630.00
+PS BUSINESS PARKS INC/CA                   2.811 PSB     69360J107     41.2600        54,100.00      1,860,761.89      2,232,166.00
+
+Instrument Total             4                                                      566,683.00      14,756,243.41     19,548,894.00
+
+Instrument -F      OFFICE
+
+ALEXANDRIA REAL ESTATE                     4.006 ARE     015271109     57.9000        57,800.00      2,636,158.01      3,346,620.00
+ARDEN REALTY GROUP INC                     6.657 ARI     039793104Q    30.3400       130,600.00      3,464,108.90      3,962,404.00
+BOSTON PROPERTIES INC                      5.229 BXP     101121101     48.1900       274,484.00      9,909,169.33     13,227,383.96
+CARRAMERICA RE CORP                        6.715 CRE     144418100     29.7800       191,600.00      5,727,881.37      5,705,848.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500       816,896.00     19,546,105.94     23,404,070.46
+HIGHWOODS PROP INC.                        6.692 HIW     431284108Q    25.4000        14,100.00        351,828.71        358,140.00
+MACK-CALI RE CORP.                         6.054 CLI     554489104     41.6200       122,448.00      3,900,150.49      5,096,285.76
+PRENTISS PROPERTIES TRUST                  6.789 PP      740706106     32.9900       163,000.00      4,644,145.96      5,377,370.00
+RECKSON ASSOCIATES RE                      4.255 RA      75621K106Q    24.3000         1,899.99         42,846.07         46,170.00
+SL GREEN RE CORP                           4.872 SLG     78440X101     41.0500       105,200.00      3,549,280.82      4,318,460.00
+TRIZEC PROPERTIES INC                      5.194 TRZ     89687P107     15.4000       310,000.00      4,329,671.78      4,774,000.00
+
+Instrument Total            11                                                    2,188,028.00      58,101,347.38     69,616,752.18
+
+
+Instrument - G         APARTMENTS
+
+APARTMENT INVT & MGMT                      6.956 AIV     03748R101     34.5000       244,304.00      9,314,033.42      8,428,488.00
+ARCHSTONE COMMUNITIES                      6.111 ASN     039583109Q    27.9800       390,480.00      8,444,928.71     10,925,630.40
+AVALONBAY COMMUNITIES                      5.857 AVB     053484101Q    47.8000       218,898.00      8,262,826.89     10,463,324.40
+BRE PROPERTIES  -CL A                      5.838 BRE     05564E106     33.4000       101,635.00      2,987,706.71      3,394,609.01
+CAMDEN PROPERTY TRUST                      5.733 CPT     133131102     44.3000        84,176.00      2,663,123.31      3,728,996.80
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100       558,426.00     12,627,773.65     16,479,151.26
+ESSEX PROPERTY TRUST INC.                  4.858 ESS     297178105     64.2200        47,500.00      2,358,140.98      3,050,450.00
+GABLES RESIDENTIAL TRUST                   6.937 GBP     362418105     34.7400        95,100.00      2,744,887.84      3,303,774.00
+HOME PROPERTIES OF NY INC.                 6.140 HME     437306103     40.3900        63,100.00      2,091,051.14      2,548,609.00
+POST PROPERTIES,INC.                       6.447 PPS     737464107Q    27.9200        77,725.00      2,279,253.24      2,170,082.01
+SUMMIT PROPERTIES INC                      5.620 SMT     866239106     24.0200        59,000.00      1,386,530.54      1,417,180.00
+UNITED DOMINION RE TRUST                   5.937 UDR     910197102     19.2000       246,700.00      3,671,076.38      4,736,640.00
+
+Instrument Total            12                                                    2,187,044.00      58,831,332.81     70,646,934.88
+
+Instrument -H      MANUFACTURED HOMES
+
+MANUFACTURED HOME COMM                     5.259 MHC     564682102     37.6500       134,500.00      4,810,145.99      5,063,925.00
+SUN COMMUNITIES INC                        6.304 SUI     866674104     38.7000        48,600.00      1,871,761.18      1,880,820.00
+
+Instrument Total             2                                                      183,100.00       6,681,907.17      6,944,745.00
+
+Instrument -J      REGIONAL MALLS
+
+CBL & ASSOC PROP                           5.132 CBL     124830100     56.5000        76,000.00      2,884,385.14      4,294,000.00
+GENERAL GROWTH PROP                        4.324 GGP     370021107Q    27.7500       450,684.00      5,821,286.57     12,506,481.00
+MILLS CORP.                                5.136 MLS     601148109     44.0000       103,600.00      2,949,976.36      4,558,400.00
+ROUSE CO                                   4.000 RSE     779273101     47.0000       213,100.00      6,181,768.66     10,015,700.00
+SIMON PROP GROUP INC.                      5.179 SPG     828806109Q    46.3400       462,570.00     12,650,683.13     21,435,493.80
+TAUBMAN CENTERS INC                        5.242 TCO     876664103Q    20.6000       122,300.00      2,025,399.67      2,519,380.00
+THE MACERICH CO                            5.483 MAC     554382101     44.5000       176,200.00      5,693,777.33      7,840,900.00
+
+Instrument Total             7                                                    1,604,454.00      38,207,276.86     63,170,354.80
+
+Instrument -K      STRIP CENTERS
+
+CHELSEA PROP GROUP INC                     3.904 CPG     163421100     54.8100        90,600.00      2,585,884.48      4,965,786.00
+DEVELOPERS DIVERSIFIED RE                  5.481 DDR     251591103Q    33.5700       168,700.00      3,532,666.69      5,663,259.00
+FEDERAL REALTY INV.                        5.105 FRT     313747206Q    38.3900       114,900.00      3,159,705.49      4,411,011.00
+
+Instrument - K         STRIP CENTERS
+
+KIMCO REALTY CORP                          5.095 KIM     49446R109Q    44.7500       212,539.00      4,396,200.61      9,511,120.26
+NEW PLAN EXCEL RE TRUST                    6.688 NXL     648053106Q    24.6700        83,800.00      1,640,319.61      2,067,346.00
+PAN PACIFIC RETAIL                         4.281 PNP     69806L104     47.6500       140,500.00      4,801,666.04      6,694,825.00
+REGENCY CENTERS CORP                       5.219 REG     758849103     39.8500       189,800.00      5,707,487.93      7,563,530.00
+TANGER FACTORY OUTLET                      6.044 SKT     875465106     40.7000        21,000.00        873,298.00        854,700.00
+WEINGARTEN RE INVST                        5.276 WRI     948741103     44.3500       116,383.00      3,481,189.30      5,161,586.08
+
+Instrument Total             9                                                    1,138,222.00      30,178,418.15     46,893,163.34
+
+Instrument -M      SELF STORAGE
+
+PUBLIC STORAGE INC                         4.148 PSA     74460D109     43.3900       198,000.00      7,289,741.29      8,591,220.00
+SHURGARD STORAGE CTRS                      5.737 SHU     82567D104     37.6500        92,300.00      3,092,044.17      3,475,095.00
+
+Instrument Total             2                                                      290,300.00      10,381,785.46     12,066,315.00
+
+Instrument -N      LODGING/RESORTS
+
+FELCOR LODGING TRUST                       5.415 FCH     31430F101     11.0800       125,700.00      1,904,527.27      1,392,756.00
+HILTON HOTELS CORP.                        0.467 HLT     432848109Q    17.1300        57,000.00        959,949.20        976,410.00
+HOSPITALITY PROPERTIES                     6.976 HPT     44106M102     41.2800       137,700.00      4,276,017.50      5,684,256.00
+HOST MARRIOTT CORP                         8.441 HMT     44107P104     12.3200       806,700.00      7,885,518.88      9,938,544.00
+LASALLE HOTEL PROPERTIES                   4.528 LHO     517942108     18.5500        47,100.00        838,697.94        873,705.00
+MERISTAR HOSPITALITY CORP.                 0.614 MHX     58984Y103      6.5100       140,400.00      1,070,916.27        914,004.00
+
+Instrument Total             6                                                    1,314,600.00      16,935,627.06     19,779,675.00
+
+Portfolio Total             62                                                   10,610,795.00     263,791,769.27    349,087,336.75
+

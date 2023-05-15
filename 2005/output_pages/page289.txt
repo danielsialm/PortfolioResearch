@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 072
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+WFS FINL INC                                 0.183     92923B106   WFSI            10,100          767,652.52          769,115.00
+WGL HOLDINGS, INC.                           4.424     92924F106   WGL             60,200        1,549,003.19        1,809,612.00
+WHEELING-PITTSBURGH CORP                     0.000     963142302   WPSC             9,300          152,920.23           83,886.00
+WHIRLPOOL CORP                               2.053     963320106 Q WHR            142,900       11,779,310.07       11,969,304.00
+WHITING PETROLEUM CORP                       0.000     966387102   WLL             46,860        1,605,389.86        1,874,400.00
+WHOLE FOODS MARKET INC                       0.775     966837106   WFMI            16,800          872,039.91        1,300,152.00
+WILEY JOHN & SONS IN                         0.922     968223206   JW.A           492,660       20,277,421.79       19,233,446.40
+WILLBROS GROUP INC                           0.000     969199108   WG              26,750          388,623.88          386,270.00
+WILLIAMS COS. INC.                           1.294     969457100 Q WMB            888,168       17,759,596.46       20,578,852.56
+WILLIAMS SCOTSMAN INTL                       0.000     96950G102   WLSC            28,300          463,486.66          489,873.00
+WILLIAMS-SONOMA INC                          0.000     969904101   WSM            135,700        4,024,826.43        5,855,455.00
+WILMINGTON TRUST CO, DELAWARE                3.084     971807102 Q WL               4,600          165,237.00          178,986.00
+WILSHIRE BANCORP INC                         0.930     97186T108   WIBC            16,300          248,813.70          280,197.00
+WILSONS THE LEATHER                          0.000     972463103   WLSN            20,000          123,780.27           72,600.00
+WIND RIVER SYSTEMS                           0.000     973149107   WIND           113,900          903,596.74        1,682,303.00
+WINNEBAGO INDUSTRIES                         1.081     974637100   WGO             35,300          850,359.97        1,174,784.00
+WINTRUST FINANCIAL CORP                      0.437     97650W108   WTFC            16,000          628,624.60          878,400.00
+WISCONSIN ENERGY CORP.                       2.252     976657106 Q WEC             21,800          653,201.98          851,508.00
+WITNESS SYS INC                              0.000     977424100   WITS            28,500          581,471.62          560,595.00
+WMS INDUSTRIES INC                           0.000     929297109   WMS             28,100          632,999.02          705,029.00
+WOLVERINE WORLD WIDE                         1.157     978097103   WWW             61,175          907,847.12        1,373,990.50
+WOODWARD GOVERNOR CO.                        1.395     980745103   WGOV            39,520        2,282,083.73        3,399,115.20
+WORLD ACCEP CORP DEL                         0.000     981419104   WRLD            20,113          383,281.63          573,220.50
+WORLD AIR HOLDINGS INC                       0.000     98142V104   WLDAE           56,700          637,078.43          545,454.00
+WORLD FUEL SVCS CORP                         0.444     981475106   INT             45,780        1,172,530.50        1,543,701.60
+WORLD WRESTLING ENTM                         6.539     98156Q108   WWE             21,600          238,629.79          317,088.00
+WORLDSPACE INC-CLASS A                       0.000     981579105   WRSP            12,600          177,786.00          182,826.00
+WORTHINGTON INDS                             3.539     981811102 Q WOR             89,800        1,532,446.28        1,725,058.00
+WPS RESOURCES CORP.                          4.086     92931B106   WPS            137,400        7,712,465.18        7,599,594.00
+WPT ENTERPRISES INC                          0.000     98211W108   WPTE             6,100           54,718.64           36,234.00
+WRIGHT EXPRESS CORP                          0.000     98233Q105   WXS             21,700          380,129.75          477,400.00
+WRIGHT MEDICAL GROUP INC                     0.000     98235T107   WMGI            30,700          824,208.47          626,280.00
+WRIGLEY WM JR CO                             1.684     982526105 Q WWY            240,500       12,786,778.85       15,990,845.00
+WSFS FINL CORP                               0.457     929328102   WSFS            11,500          596,459.79          704,375.00
+WYETH                                        2.170     983024100 Q WYE          2,633,402      102,160,672.53      121,320,830.14
+WYNN RESORTS LTD                             0.000     983134107   WYNN             1,000           52,145.84           54,850.00
+X-RITE INC                                   1.000     983857103   XRIT           724,553        8,371,481.52        7,245,530.00
+XCEL ENERGY INC                              4.658     98389B100 Q XEL            920,000       17,467,643.30       16,983,200.00
+XENOPORT INC                                 0.000     98411C100   XNPT             5,300           87,556.00           95,294.00
+XEROX CORP                                   0.000     984121103 Q XRX          2,525,000       33,928,521.93       36,991,250.00

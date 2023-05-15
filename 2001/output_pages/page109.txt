@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 080
+ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 082
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    14.1300        54,100.00        880,794.56        764,433.00
-KEITHLEY INSTRUMENTS INC                   0.887 KEI     487584104     16.9000        15,600.00        727,238.64        263,640.00
-KELLWOOD CO.                               2.665 KWD     488044108     24.0100        25,100.00        671,789.16        602,651.00
-KEY PRODUCTION COMPANY INC                 0.000 KP      493138101     17.0000        13,500.00        290,939.56        229,500.00
-KIRBY CORP.                                0.000 KEX     497266106     27.5500        23,700.00        481,190.77        652,935.00
-KOPIN CORP                                 0.000 KOPN    500600101     14.0000        61,400.00        896,312.46        859,600.00
-KROLL INC                                  0.000 KROL    501049100     15.1000        21,700.00        535,800.29        327,670.00
-KRONOS INC.                                0.000 KRON    501052104     48.3800        20,100.00        284,740.74        972,438.00
-KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        47,500.00        811,587.96        814,625.00
-LA-Z-BOY INC.                              1.649 LZB     505336107     21.8200        59,000.00        822,566.08      1,287,380.00
-LABOR READY INC                            0.000 LRW     505401208      5.1100        44,300.00        183,454.98        226,373.00
-LACLEDE GROUP HLDG. CO.                    5.606 LG      505597104     23.9000        18,600.00        372,251.99        444,540.00
-LANCE INC                                  4.478 LNCE    514606102Q    14.2900        28,600.00        402,941.32        408,694.00
-LANDAMERICA FINANCIAL GROUP                0.696 LFG     514936103     28.7000        15,300.00        505,904.01        439,110.00
-LANDRY’S RESTAURANTS INC.                  0.536 LNY     51508L103     18.6500        20,800.00        420,034.27        387,920.00
-LANDSTAR SYSTEM INC.                       0.000 LSTR    515098101     72.5100         8,300.00        282,657.28        601,833.00
-LAWSON PRODUCTS                            2.461 LAWS    520776105Q    26.0000        11,300.00        282,374.91        293,800.00
-LENNOX INTERNATIONAL INC.                  3.917 LII     526107107      9.7000        54,100.00        921,374.50        524,770.00
-LIBBEY INC                                 0.918 LBY     529898108     32.6500        14,800.00        473,541.83        483,220.00
-LINDSAY MANUFACTURING CO.                  0.723 LNN     535555106     19.3500        15,100.00        347,013.73        292,185.00
-LINES ’N THINGS INC.                       0.000 LIN     535679104     25.5000        40,700.00      1,227,664.45      1,037,850.00
-LONE STAR STEAKHOUSE & SALOON              3.371 STAR    542307103     14.8300        24,100.00        271,975.37        357,403.00
-LONE STAR TECHNOLOGIES INC                 0.000 LSS     542312103     17.6000        21,500.00        957,180.00        378,400.00
-LUBYS INC.                                 0.000 LUB     549282101Q     5.7100        21,200.00        397,902.99        121,052.00
-LYDALL INC.                                0.000 LDL     550819106     10.0000        18,400.00        363,163.88        184,000.00
-MACDERMID INC.                             0.472 MRD     554273102     16.9500        31,000.00      1,130,781.24        525,450.00
-MAF BANCORP INC                            1.627 MAFB    55261R108     29.5000        24,500.00        556,119.20        722,750.00
-MAGNETEK INC                               0.000 MAG     559424106      9.0100        21,200.00        283,575.99        191,012.00
-MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     29.1500        27,300.00        917,553.00        795,795.00
-MANITOWOC COMPANY INC.                     2.893 MTW     563571108     31.1000        26,200.00        615,605.25        814,820.00
-MAPINFO CORP                               0.000 MAPS    565105103     15.6900        13,900.00        365,014.00        218,091.00
-MARCUS CORPORATION                         1.554 MCS     566330106     14.1500        28,200.00        477,996.53        399,030.00
-MASSEY ENERGY CO                           0.771 MEE     576206106Q    20.7300        72,500.00        711,652.12      1,502,925.00
-MATERIAL SCIENCES CORP.                    0.000 MSC     576674105     10.1200           600.00          8,119.92          6,072.00
-MAXIMUS INC                                0.000 MMS     577933104     42.0600        23,400.00        880,401.13        984,204.00
-MDC HOLDINGS INC                           0.740 MDC     552676108     37.7900        25,960.00        401,837.69        981,028.40
-MEDICIS PHARMACEUTICAL CORP                0.000 MRX     584690309     64.5900        29,400.00      1,033,424.70      1,898,946.00
-MEMBERWORKS INC                            0.000 MBRS    586002107     14.0100        15,000.00        503,869.56        210,150.00
-MENTOR CORP/MINN                           0.420 MNTR    587188103     28.5600        25,400.00        704,146.70        725,424.00
+OM GROUP, INC.                             0.785 OMG     670872100Q    66.1900        23,600.00        521,450.13      1,562,084.00
+OMNOVA SOLUTIONS INC                       0.000 OMN     682129101      6.8000        39,000.00        277,520.30        265,200.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108     22.9700         2,500.00         66,217.09         57,425.00
+ORGANOGENESIS INC.                         0.000 ORG     685906109      4.8000        24,100.00        285,697.73        115,680.00
+ORTHODONTIC CENTERS OF AMER                0.000 OCA     68750P103     30.5000        47,800.00        835,033.24      1,457,900.00
+OSHKOSH B’GOSH CL-A                        0.572 GOSHA   688222207Q    41.9400        30,200.00        904,453.83      1,266,588.00
+OSHKOSH TRUCK CORPORATION                  0.717 OTRKB   688239201     48.7500        17,300.00        546,819.20        843,375.00
+OSTEOTECH INC                              0.000 OSTE    688582105      5.5500           100.00          1,996.88            555.00
+OWENS & MINOR INC.                         1.513 OMI     690732102Q    18.5000        34,800.00        467,941.29        643,800.00
+OXFORD INDUSTRIES INC.                     3.559 OXM     691497309     23.6000        10,500.00        278,137.87        247,800.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     47.3000        12,700.00        460,343.02        600,710.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     20.4200        32,800.00        805,106.25        669,776.00
+PANERA BREAD CO                            0.000 PNRA    69840W108     52.0400        13,500.00        268,371.91        702,540.00
+PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500        45,600.00      1,177,610.87        654,360.00
+PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000        21,600.00        396,636.90        570,240.00
+PATINA OIL & GAS CORP                      0.581 POG     703224105     27.5000        21,100.00        417,010.51        580,250.00
+PAXAR CORP.                                0.000 PXR     704227107     14.2000        40,500.00        567,124.27        575,100.00
+PC-TEL INC                                 0.000 PCTI    69325Q105      9.7100        42,100.00        438,550.00        408,791.00
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     33.9200        23,300.00        844,586.44        790,336.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     14.2000        45,400.00        598,090.73        644,680.00
+PENFORD CORP.                              1.927 PENX    707051108     12.4500         3,800.00         36,366.66         47,310.00
+PENTON MEDIA INC                           1.916 PME     709668107      6.2600        27,600.00        881,843.94        172,776.00
+PEP BOYS MM & J                            1.574 PBY     713278109Q    17.1500        52,600.00        574,006.75        902,090.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     35.1700        44,500.00        930,723.39      1,565,065.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000        23,000.00        925,889.93        333,500.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     32.3100        54,000.00        729,912.03      1,744,740.00
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     37.7100        20,600.00        644,183.82        776,826.00
+PHILADELPHIA SUBURBAN CORP.                3.680 PSC     718009608     22.5500        47,748.00        568,255.72      1,076,717.40
+PHILLIPS-VAN HEUSEN                        1.376 PVH     718592108     10.9000        29,700.00        408,068.63        323,730.00
+PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108     11.6400        23,800.00        430,140.51        277,032.00
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500        14,500.00        504,444.86        661,925.00
+PHOTRONICS INC.                            0.000 PLAB    719405102     31.3500        25,400.00        591,556.51        796,290.00
+PIEDMONT NATURAL GAS CO INC NO             4.301 PNY     720186105     35.8000        31,700.00        875,771.79      1,134,860.00
+PIER 1 IMPORTS INC/DEL                     0.922 PIR     720279108     17.3400        95,000.00      1,186,143.10      1,647,300.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109      6.0300        21,100.00        310,937.43        127,233.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      7.9400        44,700.00      1,029,101.89        354,918.00
+PIONEER STANDARD ELECTRONICS               0.944 PIOS    723877106     12.7000        25,800.00        419,368.36        327,660.00
+PLAINS RESOURCES INC.                      0.000 PLX     726540503     24.6100        23,400.00        438,828.87        575,873.99
+POGO PRODUCING CO                          0.456 PPP     730448107     26.2700        50,000.00      1,616,547.22      1,313,500.00

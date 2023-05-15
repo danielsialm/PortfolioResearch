@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 078
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+WILMINGTON TRUST CO, DELAWARE                3.153     971807102 Q WL             119,200        3,946,121.13        4,309,080.00
+WILSHIRE BANCORP INC                         0.000     97186T108   WIBC            29,200          388,244.10          482,968.00
+WILSON GREATBATCH TECHNOLOGIES INC           0.000     972232102   GB              23,700          872,834.39          531,354.00
+WILSONS THE LEATHER                          0.000     972463103   WLSN            10,100           56,070.15           39,390.00
+WIND RIVER SYSTEMS                           0.000     973149107   WIND           137,900          842,938.01        1,868,545.00
+WINN-DIXIE STORES INC.                       4.395     974280109 M WIN             91,300          743,775.95          415,415.00
+WINNEBAGO INDUSTRIES                         0.716     974637100   WGO             36,053          849,669.64        1,408,230.18
+WINTRUST FINANCIAL CORP                      0.351     97650W108   WTFC            44,000        1,916,193.62        2,506,240.00
+WIRELESS FACILITIES                          0.000     97653A103   WFII            20,395          206,190.76          192,528.80
+WISCONSIN ENERGY CORP.                       2.491     976657106 Q WEC            102,000        3,062,780.39        3,438,420.00
+WITNESS SYS INC                              0.000     977424100   WITS           108,200        1,023,211.08        1,889,172.00
+WMS INDUSTRIES INC                           0.000     929297109   WMS             12,800          278,464.41          429,312.00
+WOLVERINE WORLD WIDE                         1.241     978097103   WWW             53,050        1,172,486.51        1,666,831.00
+WOODHEAD INDUSTRIES                          2.495     979438108   WDHD            42,063          657,351.08          674,269.89
+WOODWARD GOVERNOR CO.                        1.340     980745103   WGOV            42,800        2,308,965.64        3,064,908.00
+WORLD ACCEP CORP DEL                         0.000     981419104   WRLD            26,613          501,463.69          732,123.63
+WORLD FUEL SVCS CORP                         0.602     981475106   INT             12,500          374,747.86          622,500.00
+WORLD WRESTLING ENTM                         3.957     98156Q108   WWE             31,000          354,949.66          376,030.00
+WORTHINGTON INDS                             3.268     981811102 Q WOR            174,500        3,565,848.53        3,416,710.00
+WPS RESOURCES CORP.                          4.443     92931B106   WPS             68,394        3,178,256.13        3,416,964.24
+WRIGHT MEDICAL GROUP INC                     0.000     98235T107   WMGI            29,500          792,380.29          840,750.00
+WRIGLEY WM JR CO                             1.358     982526105 Q WWY            357,640       19,247,765.76       24,745,111.60
+WSFS FINL CORP                               0.397     929328102   WSFS            10,700          486,158.09          645,424.00
+WYETH                                        2.160     983024100 Q WYE          2,801,097      106,631,312.03      119,298,721.23
+WYNN RESORTS LTD                             0.000     983134107   WYNN            45,000        2,099,593.02        3,011,400.00
+X-RITE INC                                   0.624     983857103   XRIT           147,653        2,055,312.02        2,363,924.53
+XCEL ENERGY INC                              4.560     98389B100 Q XEL            930,500       17,446,430.64       16,935,100.00
+XEROX CORP                                   0.000     984121103 Q XRX          1,722,300       28,578,339.82       29,296,323.00
+XILINX INC                                   0.674     983919101   XLNX           474,700       15,361,080.37       14,074,855.00
+XL CAPITAL LTD - CLASS A                     2.537     G98255105   XL               3,570          279,474.48          277,210.50
+XM SATELLITE RADIO HOLD-CL A                 0.000     983759101   XMSR           199,900        4,262,864.37        7,520,238.00
+XTO ENERGY INC.                              0.565     98385X106   XTO            360,550        8,091,333.52       12,756,259.05
+XYBERNAUT CORP                               0.000     984149104   XYBR           196,500          247,880.06          241,695.00
+YAHOO INC                                    0.000     984332106   YHOO         1,843,200       61,215,468.18       69,451,776.00
+YANKEE CANDLE CO                             0.000     984757104   YCC            126,900        3,314,911.04        4,210,542.00
+YARDVILLE NATL BANCO                         1.342     985021104   YANB            14,500          333,080.90          496,770.00
+YELLOW ROADWAY CORP                          0.000     985577105   YELL            83,000        3,996,821.60        4,623,930.00
+YORK INTERNATIONAL CORP                      2.316     986670107   YRK             38,900        1,016,750.40        1,343,606.00
+YOUNG INNOVATIONS IN                         0.474     987520103   YDNT             5,200          157,311.91          175,396.00
+YUM BRANDS, INC.                             0.847     988498101   YUM            638,700       17,677,756.98       30,133,866.00

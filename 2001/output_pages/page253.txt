@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 032
+ASOF11   Date 01/24/2002 Time 21:29:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 034
 
 Monthly Market Portfolio
 
@@ -6,45 +6,45 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-EAFEVAL EAFE VALUE
+Portfolio  - I-EAP     EMERGING ANALYST POR
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-ROYAL + SUN ALLIAN                          87.813     0661689      RSA_L     1,850,050.00       13,251,564.70
-SANKYO CO JPY50                              0.000     6775283      4501_       480,000.00       10,365,870.67
-SANTOS NPV(NZ)                               0.084     6776703      STO_A     1,150,000.00        3,636,381.62
-SCHNEIDER ELECTRIC                           2.030     4834108      SU_FP       115,000.00        6,097,843.24
-SCOT + NEWCASTLE O                          16.125     0783969      SCTN_       390,900.00        2,710,593.60
-SCOT POWER PLC 0.5                         199.339     0690070      SPW_L     1,440,000.00        9,801,455.40
-SEKISUI HOUSE Y50                            0.000     6793906      1928_       770,000.00        7,007,620.60
-SHARP CORP JPY50                             0.000     6800602      6753_       800,000.00       10,095,792.23
-SIEMENS AG DEM 5.0                           0.807     5727973      SIE_G       114,854.00        7,262,376.73
-SKF AB-B                                     0.000     4767066      SKFB_       461,400.00        7,403,666.71
-SMURFIT (JEFFERSON) GROUP                    1.523     0819143      SMFT_     3,850,000.00        6,354,639.86
-SUN HUNG KAI PROPE                           0.005     6859927      16_HK       538,000.00        4,094,881.57
-SWISS REINSURANCE                            0.023     7189816      RUKN_       134,000.00       13,304,414.11
-TAKEFUJI CORP                                0.000     6876067      8564_        78,920.00        6,548,978.76
-TELE DANMARK AS                              0.000     5698790      TDC_D       235,000.00        8,919,650.05
-TELECOM CORP OF NEW ZEALAND                  0.020     6881436      TEL_N     5,350,000.00       12,265,901.47
-TELEFONICA SA                                0.000     5732524      TEF_S       315,000.00        4,970,443.67
-TELEKOM AUSTRIA                              0.000     4635088      TKA_A     1,000,000.00        6,294,482.27
-TOHOKU ELECTRIC PO                           0.000     6895266      9506_       216,400.00        3,122,271.20
-TOKIO MARINE +FIRE                           0.000     6894768      8751_       751,000.00        8,050,620.65
-TOKYO ELEC POWER Y                           0.000     6895404      9501_       150,500.00        3,705,024.74
-TOKYO GAS CO Y50                             0.000     6895448      9531_     2,076,000.00        5,688,772.18
-TOMKINS PLC                                 51.630     0896265      TOMK_     2,300,000.00        5,234,131.92
-TOSTEM INAX HOLDING CORP                     0.000     6900212      5938_       413,000.00        6,196,693.17
-TOTAL FINA ELF SA                            0.966     4905413      FP_FP        90,000.00        9,780,337.93
-UBS AG-REG                                   0.080     7126114      UBSN_       300,000.00       14,144,520.40
-UNICREDITO ITALIAN                           1.535     4232445      UC_IM     2,423,199.00       10,764,179.22
-UNITED BUSINESS MEDIA PLC                   89.377     3022421      UBM_L     1,225,000.00        9,265,717.75
-UPM-KYMMENE CORP F                           2.145     5051252      UPM1V       170,000.00        5,203,425.58
-UTD UTILITIES ORD                           69.481     0646233      UU/_L       925,000.00        8,535,903.41
-VALEO FRF20                                  1.415     4937579      FR_FP       215,000.00        9,266,302.64
-VODAFONE GROUP                               5.141     0719210      VOD_L     6,500,000.00       20,685,159.42
-VOLVO AB-B                                   0.000     4937739      VOLVB       482,500.00        7,937,999.79
-WEIR GROUP                                  42.036     0946580      WEIR_     1,750,000.00        6,618,574.77
-WHITBREAD PLC                               24.730     3034545      WTB_L       176,280.00        2,312,633.76
-WMC NPV                                      0.496     6954985      WMC_A     1,450,000.00        6,635,323.43
-
-Instrument Total             107                                            122,781,854.00      810,066,781.91
-
+ABSA GROUP ZAR2                              0.000     6910794      ASA_S       646,715.00        2,799,196.21
+ACER INCORPORATED                            0.000     6000673      73834     1,870,696.00        1,119,533.51
+ADVANCED INFO SERVICE                        0.000     6412591      ADVAN       586,000.00          700,130.65
+AFRICAN BANK INVESTMENTS LTD                 0.000     6040776      ABL_S     1,653,014.00        2,107,293.58
+AGORA SA                                     0.000     5618312      AGO_P        18,159.00          266,085.32
+AKCANSA CIMENTO SA                           0.000     5130827      AKCNS    26,523,668.00          132,875.74
+AKSIGORTA                                    0.000     4012078      AKGRT    27,727,567.00          270,883.40
+ALFA SA DE CV SER’                           0.000     2043423      ALFAA     1,101,496.00        1,689,016.17
+ALUMINUM CORP OF CHINA (CHALCO)              0.000     6425395      2600_     3,171,700.00          559,822.96
+AMBEV 4                                     61.496     2361976      AMBV4     9,701,468.00        1,956,323.27
+AMBEV3                                     144.427     2361932      AMBV3     4,771,416.00        1,038,090.01
+AMERICA MOVIL SA                             0.000     2667470      AMXL_     3,927,828.00        1,993,773.13
+ANGLO AMERICAN ORD                           0.000     6152972      AGL_S       444,397.00        6,420,439.35
+ANGLO AMERICAN PLA                           0.000     6761000      AMS_S        49,490.00        1,650,196.64
+ANTOFAGASTA PLC                          1,066.636     0045614      ANTO_        50,914.00          330,365.80
+ASUR (GRUPO AEROPORTUARIO)                   0.000     2639361      ASR          21,864.00          403,609.44
+AVENG LTD                                    0.000     6153339      AEG_S     1,935,736.00        1,629,890.62
+BANCO BRADESCO SA                            0.280     2074520      BBDC4   479,446,832.00        2,169,789.16
+BANCO ITAU SA PREF                           0.604     2459581      ITAU4     6,141,192.00          497,317.50
+BANCO PROVINCIAL                             0.009     2074489      BPV_V        81,972.00           80,562.10
+BANCO SANTANDER CHILE - ADR                  2.792     2088338      BSB          19,472.00          354,605.12
+BANCO SANTIAGO ADR                           4.539     2136646      SAN          11,262.00          258,476.16
+BANGKOK BANK THB10                           0.000     6077019      BBL/F       206,700.00          446,722.22
+BANGKOK EXPRESSWAY                           0.044     6113311      BECL/       177,600.00           85,241.23
+BANK LEUMI LE-ISRAEL                         0.345     6076425      LUMI_       434,103.00          837,970.58
+BANK PEKAO SA ORD                            0.000     5473113      PEO_P        14,222.00          256,895.09
+BBVA BANCO FRANCES S.A.                     11.864     2074371      FRAN_        11,103.00           32,398.77
+BEC WORLD PCL-FOREIGN                        0.000     6078142      BEC/F        50,300.00          301,203.02
+BEZEQ ISRAEL TELCM                           0.075     6098032      BEZQ_       295,140.00          414,468.07
+BHARAT HEAVY ELECTRICALS                     0.000     6129523      BHEL_       400,054.00        1,138,370.21
+BIDVEST GROUP ORD                            0.000     6100089      BVT_S       336,095.00        1,659,346.81
+BIMANTARA CITRA ID                           0.000     6100465      BMTR_       231,000.00          149,195.93
+BK HAPOALIM BM ILS                           0.006     6075808      POLI_       409,137.00        1,050,803.85
+BK OF AYUDHYA THB                            0.000     6075949      BAY/F       433,000.00          168,425.51
+BK PRZEMYSLOWO-HANDLOWY PBK                  0.000     4067807      BPH_P         4,911.00          124,894.16
+BRASIL TELECOM PART SA                       6.025     2292645      TCSP3   153,325,511.00        1,141,636.81
+BRASIL TELECOM PARTICIPACOES S/A            73.800     2292656      TCSP4    30,250,305.00          218,897.00
+BRE BANK SA PLN 4.                           0.267     4143053      BRE_P         4,764.00          130,536.93
+BRILLIANCE CHINA AUTOMOTIVE                  0.089     6181482      1114_     3,200,000.00        1,064,489.14

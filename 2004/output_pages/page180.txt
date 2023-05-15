@@ -1,0 +1,28 @@
+ASOF02   Date 01/21/2005 Time 18:34:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 148
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6BB       DAVID L BABSON - 200
+Instrument - COM       COMMON STOCK
+
+SOUTHCOAST FINANCIAL CORP                  0.000 SOCB    84129R100     25.9340        42,420.00        941,047.31      1,100,120.28
+SYMBION INC                                0.000 SMBI    871507109     22.0800        56,600.00        967,527.27      1,249,728.00
+SYMMETRY MEDICAL INC                       0.000 SMA     871546206     21.0500         6,000.00         90,000.00        126,300.00
+TECHNE CORPORATION                         0.000 TECH    878377100     38.9000        12,900.00        515,049.83        501,810.00
+TEXAS ROADHOUSE INC-CLASS A                0.000 TXRH    882681109     29.5500        21,800.00        460,083.31        644,190.00
+U S B HLDG INC                             2.088 UBH     902910108     24.9000         7,600.00        191,969.64        189,240.00
+ULTRALIFE BATTERIES INC                    0.000 ULBI    903899102     19.4500        75,300.00      1,127,397.65      1,464,585.00
+UNIT CORP                                  0.000 UNT     909218109     38.2100        26,000.00        733,738.27        993,460.00
+VALEANT PHARMACEUTICALS                    1.176 VRX     91911X104Q    26.3500        33,600.00        743,611.75        885,360.00
+VIRGINIA COMMERCE BANCORP                  0.000 VCBI    92778Q109     28.3200        20,250.00        535,014.14        573,480.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     22.3600        90,600.00      1,793,913.82      2,025,816.00
+WINTRUST FINANCIAL CORP                    0.351 WTFC    97650W108     56.9600        20,200.00        994,030.75      1,150,592.00
+
+Instrument Total            51                                                     4,579,241.35     46,514,998.08     54,092,325.47
+
+Portfolio Total             51                                                     4,579,241.35     46,514,998.08     54,092,325.47
+

@@ -1,0 +1,30 @@
+ASOF10   Date 01/21/2003 Time 18:53:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - COM       COMMON STOCK
+
+AKAMAI TECHNOLOGIES                          0.000     00971T101   AKAM           327,314        1,217,608.08          566,253.22
+AMERICAN MEDICAL SYS HLDINGS                 0.000     02744M108   AMMD            54,375        1,180,188.38          881,418.75
+CORINTHIAN COLLEGES INC                      0.000     218868107   COCO           139,160                0.00        5,268,597.60
+CORVIS                                       0.000     221009103   CORV           307,584        7,391,643.38          218,384.64
+EBENX INC                                    0.000     278668108   EBNX           105,103        2,207,163.00          500,290.28
+EXACT SCIENCES CORP                          0.000     30063P105   EXAS            26,276          435,657.00          284,569.08
+HEWLETT-PACKARD CO                           1.843     428236103 Q HPQ             29,726          535,662.52          516,043.36
+JUNIPER NETWORKS INC                         0.000     48203R104   JNPR            17,220          415,811.34          117,096.00
+MELLON NATIONAL CORP.                        1.991     58551A108 Q MEL             40,200        1,527,238.20        1,049,622.00
+NEW FOCUS INC                                0.000     644383101   NUFO            99,000        5,352,188.00          380,160.00
+NUANCE COMMUNICATIONS INC                    0.000     669967101   NUAN            20,715                0.00           51,373.20
+PAIN THERAPEUTICS INC.                       0.000     69562K100   PTIE             7,191           70,112.25           17,186.49
+RADWARE LTD                                  0.000     M81873107   RDWR            17,656          318,691.00          142,660.48
+SONICWALL INC                                0.000     835470105   SNWL            32,019          602,350.92          116,228.97
+TIVO INC                                     0.000     888706108   TIVO            19,803          132,383.00          103,569.69
+US INTERNETWORKING INC                       0.000     917311805   USIQE          186,422                0.00               24.23
+
+Instrument Total                     16                                         1,429,764       21,386,697.07       10,213,477.99
+
+Group Total                          90                                     1,086,095,584    1,106,052,507.00      888,024,527.86

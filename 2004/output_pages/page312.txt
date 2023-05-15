@@ -1,0 +1,51 @@
+ASOF02   Date 01/21/2005 Time 18:35:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - J         REGIONAL MALLS
+
+GENERAL GROWTH PROP                        3.982 GGP     370021107Q    36.1600       475,354.00      7,704,430.59     17,188,800.64
+MACERICH CO                                4.140 MAC     554382101     62.8000       167,200.00      5,512,819.56     10,500,160.00
+PENNSYLVANIA RI                            5.046 PEI     709102107     42.8000        51,000.00      1,768,799.58      2,182,800.00
+SIMON PROP GROUP INC.                      1.308 SPG     828806109Q    64.6700       475,821.00     13,444,455.63     30,771,344.07
+TAUBMAN CENTERS INC                        3.806 TCO     876664103Q    29.9500       117,300.00      2,292,058.69      3,513,135.00
+
+Instrument Total             6                                                    1,356,175.00      34,343,114.40     69,462,564.71
+
+Instrument -K      STRIP CENTERS
+
+DEVELOPERS DIVERSIFIED RE                  4.597 DDR     251591103Q    44.3700       233,000.00      7,962,376.95     10,338,210.00
+EQUITY ONE INC                             4.888 EQY     294752100     23.7300        25,000.00        595,995.00        593,250.00
+FEDERAL REALTY INV.                        3.910 FRT     313747206Q    51.6500       124,400.00      4,439,358.31      6,425,260.00
+KIMCO REALTY CORP                          4.207 KIM     49446R109Q    57.9900       228,539.00      5,513,545.82     13,252,976.61
+NEW PLAN EXCEL RE TRUST                    6.093 NXL     648053106Q    27.0800        97,800.00      2,002,320.35      2,648,424.00
+PAN PACIFIC RETAIL                         3.460 PNP     69806L104     62.7000       134,500.00      5,304,910.26      8,433,150.00
+REGENCY CENTERS CORP                       3.137 REG     758849103     55.4000       172,800.00      5,196,279.84      9,573,120.00
+SAUL CENTERS INC                           4.078 BFS     804395101     38.2500         6,000.00        199,081.62        229,500.00
+WEINGARTEN RE INVST                        3.476 WRI     948741103     40.1000       106,075.00      2,488,630.90      4,253,607.50
+
+Instrument Total             9                                                    1,128,114.00      33,702,499.05     55,747,498.11
+
+Instrument -L      FREE STANDING
+
+MILLS CORP.                                3.732 MLS     601148109     63.7600       100,000.00      3,011,318.98      6,376,000.00
+
+Instrument Total             1                                                      100,000.00       3,011,318.98      6,376,000.00
+
+Instrument -M      SELF STORAGE
+
+PUBLIC STORAGE INC                         3.228 PSA     74460D109     55.7500       249,000.00     10,154,851.12     13,881,750.00
+SHURGARD STORAGE CTRS                      4.998 SHU     82567D104     44.0100        63,000.00      2,220,702.65      2,772,630.00
+SOVRAN SELF STORAGE                        5.742 SSS     84610H108     42.1400        28,000.00      1,109,333.95      1,179,920.00
+U-STORE-IT TRUST                           4.634 YSI     91274F104     17.3500        25,000.00        422,934.00        433,750.00
+
+Instrument Total             4                                                      365,000.00      13,907,821.72     18,268,050.00
+
+Instrument -N      LODGING/RESORTS
+
+EQUITY INNS INC                            4.429 ENN     294703103     11.7400       192,000.00      1,951,154.26      2,254,080.00

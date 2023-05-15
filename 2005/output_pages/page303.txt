@@ -1,0 +1,36 @@
+ASOF02   Date 01/19/2006 Time 18:24:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - M         SELF STORAGE
+
+PUBLIC STORAGE INC                         2.953 PSA     74460D109     67.7200       252,000.00     11,126,012.31     17,065,440.00
+SHURGARD STORAGE CTRS                      3.949 SHU     82567D104     56.7100        84,000.00      3,518,883.39      4,763,640.00
+SOVRAN SELF STORAGE                        5.237 SSS     84610H108     46.9700        10,000.00        458,311.00        469,700.00
+U-STORE-IT TRUST                           5.510 YSI     91274F104     21.0500       109,700.00      2,096,008.15      2,309,185.00
+
+Instrument Total             4                                                      455,700.00      17,199,214.85     24,607,965.00
+
+Instrument -N      LODGING/RESORTS
+
+BOYKIN LODGING CO                          5.892 BOY     103430104     12.2200        36,000.00        474,859.53        439,920.00
+EQUITY INNS INC                            5.018 ENN     294703103     13.5500       215,800.00      2,305,239.56      2,924,090.00
+FELCOR LODGING TRUST                       3.486 FCH     31430F101     17.2100        42,000.00        620,424.30        722,820.00
+HOSPITALITY PROPERTIES                     7.281 HPT     44106M102     40.1000       118,700.00      4,092,623.14      4,759,870.00
+HOST MARRIOTT CORP                         2.533 HMT     44107P104     18.9500       831,200.00      9,364,263.82     15,751,240.01
+INNKEEPERS USA TRUST                       3.750 KPA     4576J0104     16.0000        99,000.00      1,450,632.02      1,584,000.00
+LASALLE HOTEL PROPERTIES                   3.268 LHO     517942108     36.7200        69,100.00      1,947,238.46      2,537,352.00
+MERISTAR HOSPITALITY CORP.                 0.425 MHX     58984Y103      9.4000       170,400.00      1,346,464.90      1,601,760.00
+STRATEGIC HOTEL CAPITAL INC                4.276 SLH     86272T106     20.5800        82,000.00      1,415,556.22      1,687,560.00
+SUNSTONE HOTEL INVESTORS INC               4.516 SHO     867892101     26.5700       157,000.00      3,700,413.59      4,171,490.00
+WINSTON HOTELS INC                         6.060 WXH     97563A102      9.9000       103,000.00      1,144,353.36      1,019,700.00
+
+Instrument Total            11                                                    1,924,200.00      27,862,068.90     37,199,802.01
+
+Portfolio Total             85                                                   12,824,354.00     349,513,236.06    506,168,398.25
+

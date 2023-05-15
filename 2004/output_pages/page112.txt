@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 080
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+PRAECIS PHARMACEUTICALS INC                0.000 PRCS    739421105      1.9000        58,143.00        305,993.80        110,471.70
+PREMIERE GLOBAL SERVICES INC               0.000 PGI     740585104     10.7100        44,600.00        305,404.04        477,666.00
+PRESIDENTIAL LIFE                          2.358 PLFE    740884101     16.9600        35,261.00        595,480.57        598,026.56
+PRESSTEK INC                               0.000 PRST    741113104      9.6800        28,500.00        197,087.87        275,880.00
+PRG-SCHULTZ INTL INC                       0.000 PRGX    69357C107      5.0300        45,600.00        248,622.33        229,368.00
+PRICE COMMUNICATIONS CORP                  0.000 PR      741437305     18.5900        57,905.00        802,285.42      1,076,453.95
+PRICELINE.COM INC                          0.000 PCLN    741503403     23.5900        16,487.00        432,781.50        388,928.33
+PRIMEDIA INC                               0.000 PRM     74157K101      3.8000        47,700.00        122,844.70        181,260.00
+PRINCETON REVIEW INC                       0.000 REVU    742352107      6.1500        18,300.00        131,247.11        112,545.00
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     21.7700        31,800.00        602,764.53        692,286.00
+PRIVATEBANCORP INC                         0.372 PVTB    742962103     32.2300        18,200.00        371,920.98        586,586.00
+PROASSURANCE CORP                          0.000 PRA     74267C106     39.1100        29,100.00        892,594.42      1,138,101.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     23.3500        44,052.00        713,222.62      1,028,614.20
+PROQUEST COMPANY                           0.000 PQE     74346P102     29.7000        26,600.00        697,005.13        790,020.00
+PROSPERITY BANCSHARE                       1.129 PRSP    743606105     29.2100        18,340.00        460,780.84        535,711.40
+PROVIDE COMMERCE INC                       0.000 PRVD    74373W103     37.1500        14,800.00        307,694.16        549,820.00
+PROVIDENT BANCORP INC                      1.213 PBCP    74383A109     13.1900        31,848.00        361,964.81        420,075.12
+PROVIDENT BANKSHARES CORPORATI             2.914 PBKS    743859100     36.3700        29,452.00        720,327.99      1,071,169.24
+PROVIDENT FINANCIAL HLDGS                  1.941 PROV    743868101     28.8500        12,500.00        281,068.13        360,625.00
+PROVIDENT FINANCIAL SERVICES               1.239 PFS     74386T105     19.3700        70,909.00      1,257,533.52      1,373,507.33
+PROVINCE HEALTHCARE COMPANY                0.000 PRV     743977100     22.3500        64,300.00      1,127,889.41      1,437,105.00
+PROXYMED INC                               0.000 PILL    744290305      9.8200         6,700.00         60,734.50         65,794.00
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100     12.5150        74,900.00        508,431.53        937,373.50
+PSYCHIATRIC SOLUTIONS INC                  0.000 PSYS    74439H108     36.5600         4,200.00        122,532.35        153,552.00
+PULITZER INC                               1.233 PTZ     745769109     64.8500         9,300.00        454,750.73        603,105.00
+QAD INC                                    1.121 QADI    74727D108      8.9200        14,283.00        185,632.14        127,404.36
+QC HOLDINGS INC                            0.000 QCCO    74729T101     19.1600         5,500.00         87,688.15        105,380.00
+QUAKER CHEM CORP                           3.462 KWR     747316107Q    24.8400         9,200.00        220,631.45        228,528.00
+QUALITY SYSTEMS INC                        0.000 QSII    747582104     59.8000         3,760.00        149,720.88        224,848.00
+QUANEX CORP                                0.787 NX      747620102     68.5700        18,200.00        656,322.64      1,247,974.00
+QUANTA SERVICES INC.                       0.000 PWR     74762E102      8.0000        80,000.00        599,477.18        640,000.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      2.6200       200,200.00        868,821.97        524,524.00
+QUEST SOFTWARE INC                         0.000 QSFT    74834T103     15.9500        55,250.00        672,582.37        881,237.50
+QUICKSILVER INC                            0.000 ZQK     74838C106     29.7900        61,900.00      1,079,513.02      1,844,001.00
+QUICKSILVER RESOURCE                       0.000 KWK     74837R104     36.7800        25,900.00        676,561.77        952,602.00
+QUIDEL CORP                                0.000 QDEL    74838J101      5.0800        77,400.00        509,622.07        393,192.00
+R & G FINANCIAL CORP CL-B                  1.121 RGF     749136107     38.8800        36,150.00        874,454.06      1,405,512.00
+R.H. DONNELLEY CORP.                       0.000 RHD     74955W307Q    59.0500        20,500.00        844,304.23      1,210,525.00
+RADIATION THERAPY SERVICES INC             0.000 RTSX    750323206     17.0000         6,100.00         71,171.75        103,700.00

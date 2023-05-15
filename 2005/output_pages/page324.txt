@@ -1,0 +1,17 @@
+ASOF11   Date 01/19/2006 Time 18:25:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-SANF    BERNSTEIN EMERGING M
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BERNSTEIN EMERGING - EQUITIES                0.000     IE-SAN                 4,604,466.05      460,446,605.18
+BERNSTEIN EMERGING - LIQUIDITY               0.000     IL-SAN                   381,539.14       38,153,914.85
+
+Instrument Total               2                                              4,986,005.20      498,600,520.03
+
+Portfolio Total                2                                              4,986,005.20      498,600,520.03        809,557,411.64

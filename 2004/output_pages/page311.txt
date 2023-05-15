@@ -1,0 +1,52 @@
+ASOF02   Date 01/21/2005 Time 18:35:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - F         OFFICE
+
+PRENTISS PROPERTIES TRUST                  5.863 PP      740706106     38.2000       105,000.00      3,049,719.59      4,011,000.00
+RECKSON ASSOCIATES RE                      5.175 RA      75621K106Q    32.8100        40,500.00      1,253,298.57      1,328,805.00
+SL GREEN RE CORP                           3.567 SLG     78440X101     60.5500       125,000.00      4,769,053.33      7,568,750.00
+TRIZEC PROPERTIES INC                      4.228 TRZ     89687P107     18.9200       421,000.00      6,155,742.94      7,965,320.00
+
+Instrument Total            16                                                    2,349,228.00      62,946,027.53     84,167,945.24
+
+Instrument -G      APARTMENTS
+
+APARTMENT INVT & MGMT                      6.227 AIV     03748R101     38.5400       233,704.00      8,784,740.05      9,006,952.16
+ARCHSTONE COMMUNITIES                      4.490 ASN     039583109Q    38.3000       438,480.00     10,880,313.13     16,793,784.00
+ASSOCIATED ESTATES                         6.653 AEC     045604105     10.2200         3,100.00         29,915.00         31,682.00
+AVALONBAY COMMUNITIES                      1.450 AVB     053484101Q    75.3000       167,898.00      6,337,710.28     12,642,719.40
+BRE PROPERTIES  -CL A                      4.837 BRE     05564E106     40.3100        78,635.00      2,415,684.16      3,169,776.85
+CAMDEN PROPERTY TRUST                      4.980 CPT     133131102     51.0000       102,176.00      3,959,984.24      5,210,976.00
+EQUITY RESIDENTIAL PROP                    4.781 EQR     29476L107Q    36.1800       569,426.00     13,510,304.72     20,601,832.68
+ESSEX PROPERTY TRUST INC.                  1.560 ESS     297178105     83.8000        75,000.00      4,918,515.84      6,285,000.00
+GABLES RESIDENTIAL TRUST                   6.733 GBP     362418105     35.7900        16,100.00        464,697.09        576,219.00
+HOME PROPERTIES OF NY INC.                 5.860 HME     437306103     43.0000        43,100.00      1,428,277.40      1,853,300.00
+POST PROPERTIES,INC.                       5.157 PPS     737464107Q    34.9000        37,225.00      1,068,649.96      1,299,152.50
+SUMMIT PROPERTIES INC                      4.146 SMT     866239106     32.5600        58,000.00      1,363,030.03      1,888,480.00
+UNITED DOMINION RE TRUST                   4.717 UDR     910197102     24.8000       262,700.00      4,323,568.17      6,514,960.00
+
+Instrument Total            13                                                    2,085,544.00      59,485,390.07     85,874,834.59
+
+Instrument -H      MANUFACTURED HOMES
+
+EQUITY LIFESTYLE PROPERTIES IN             0.139 ELS     29472R108     35.7500        94,500.00      3,359,900.28      3,378,375.00
+SUN COMMUNITIES INC                        6.062 SUI     866674104     40.2500        39,000.00      1,543,354.97      1,569,750.00
+
+Instrument Total             2                                                      133,500.00       4,903,255.25      4,948,125.00
+
+Instrument -I      OUTLET CENTERS
+
+TANGER FACTORY OUTLET                      4.724 SKT     875465106     26.4600        52,400.00      1,099,496.31      1,386,504.00
+
+Instrument Total             1                                                       52,400.00       1,099,496.31      1,386,504.00
+
+Instrument -J      REGIONAL MALLS
+
+CBL & ASSOC PROP                           3.721 CBL     124830100     76.3500        69,500.00      3,620,550.35      5,306,325.00

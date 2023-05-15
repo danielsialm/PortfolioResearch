@@ -1,0 +1,51 @@
+ASOF02   Date 01/21/2003 Time 18:53:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 087
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+VEECO INSTRUMENTS INC                      0.000 VECO    922417100     11.5600        28,600.00      1,005,426.65        330,616.00
+VERITAS DGC INC.                           0.000 VTS     92343P107      7.9000        34,500.00        863,942.74        272,550.00
+VERITY INC.                                0.000 VRTY    92343C106     13.3910        40,900.00      1,580,844.06        547,691.90
+VIALTA INC CL A                            0.000 VLTA    92554D306      0.3050           599.00              0.00            182.70
+VIASAT INC.                                0.000 VSAT    92552V100     11.5400        28,700.00        625,444.44        331,198.00
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     14.8900        28,901.00        549,641.01        430,335.89
+VICOR CORP                                 0.000 VICR    925815102      8.2510        46,900.00        874,528.04        386,971.90
+VINTAGE PETROLEUM INC.                     1.516 VPI     927460105Q    10.5500        69,900.00      1,156,728.19        737,445.00
+VITAL SIGNS INC                            0.535 VITL    928469105     29.8800        15,500.00        533,033.22        463,140.00
+VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     17.1000        16,600.00        364,595.74        283,859.99
+W-H ENERGY SERVICES INC                    0.000 WHES    92925E108     14.5900        27,200.00        471,376.00        396,848.00
+WABASH NATIONAL CORP                       0.477 WNC     929566107      8.3800        23,500.00        323,869.99        196,930.00
+WASHINGTON FEDERAL INC.                    3.702 WFSL    938824109     24.8500        71,830.00      1,242,220.98      1,784,975.50
+WASTE CONNECTIONS INC                      0.000 WCN     941053100     38.6100        31,600.00        933,813.44      1,220,076.00
+WATSCO INC.                                0.976 WSO     942622200     16.3800        30,900.00        529,618.97        506,142.00
+WATSON WYATT & CO HOLDINGS                 0.000 WW      942712100     21.7500        38,100.00        857,837.98        828,675.01
+WATTS INDUSTRIES INC. CLASS A              1.524 WTS     942749102Q    15.7400        29,900.00        487,408.67        470,626.00
+WAYPOINT FINANCIAL CORP                    2.247 WYPT    946756103     17.8000        41,400.00        775,008.00        736,920.00
+WD-40 CO                                   3.028 WDFC    929236107     26.4200        18,400.00        507,380.11        486,128.00
+WELLMAN INC                                2.668 WLM     949702104     13.4900        34,600.00        479,733.61        466,754.00
+WERNER ENTERPRISES INC                     0.371 WERN    950755108     21.5300        71,033.00        964,735.80      1,529,340.49
+WET SEAL INC                               0.000 WTSLA   961840105     10.7610        32,675.00        422,582.54        351,615.68
+WHITNEY HOLDING CORP                       3.600 WTNY    966612103     33.3300        45,450.00      1,393,440.36      1,514,848.50
+WINNEBAGO INDUSTRIES                       0.509 WGO     974637100     39.2300        21,700.00        490,964.44        851,291.00
+WINTRUST FINANCIAL CORP                    0.383 WTFC    97650W108     31.3200        19,700.00        587,847.00        617,004.00
+WMS INDUSTRIES INC                         0.000 WMS     929297109     14.9800        33,900.00        645,273.73        507,822.00
+WOLVERINE WORLD WIDE                       1.191 WWW     978097103     15.1100        44,400.00      1,027,703.01        670,884.00
+WOODWARD GOVERNOR CO.                      2.137 WGOV    980745103     43.5000        12,600.00      1,047,460.93        548,100.00
+X-RITE INC                                 1.430 XRIT    983857103      6.9900        21,000.00        220,114.12        146,790.00
+YELLOW CORP                                0.000 YELL    985509108     25.1910        33,400.00        529,968.40        841,379.40
+ZALE CORP.                                 0.000 ZLC     988858106     31.9000        37,600.00      1,174,779.86      1,199,440.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     57.3000        36,000.00      1,286,230.67      2,062,800.00
+ZENITH NATIONAL INSURANCE CP               4.251 ZNT     989390109     23.5200        20,600.00        562,112.46        484,512.00
+ZIXIT CORP                                 0.000 ZIXI    98974P100      4.4100        33,000.00        149,389.65        145,530.00
+
+Instrument Total           580                                                    19,170,058.80    390,075,485.94    357,512,763.34
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+CAPITAL AUTOMOTIVE                         6.793 CARS    139733109     23.7000        31,000.00        757,349.32        734,700.00

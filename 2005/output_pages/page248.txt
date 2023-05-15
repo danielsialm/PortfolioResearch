@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+GAMESTOP CORP-CL B                           0.000     36467W208   GME.B            4,110           86,567.73          118,779.00
+GAMESTOP CORP.                               0.000     36467W109   GME             67,928        1,904,787.46        2,161,468.96
+GANNETT INC                                  1.915     364730101 Q GCI            677,100       48,839,220.46       41,011,947.00
+GAP INC                                      1.020     364760108 Q GPS          1,647,514       31,318,218.85       29,062,146.96
+GARDNER DENVER MACHINERY                     0.000     365558105 Q GDI             26,600          686,949.57        1,311,380.00
+GARTNER INC-CL A                             0.000     366651107   IT              19,800          224,592.99          255,420.00
+GATEWAY INC.                                 0.000     367626108   GTW            102,100        1,421,945.30          256,271.00
+GATX CORP                                    2.217     361448103   GMT            124,025        3,643,829.50        4,474,822.00
+GAYLORD ENTMT CO                             0.000     367905106   GET             66,430        2,025,805.89        2,895,683.70
+GEHL COMPANY                                 0.000     368483103   GEHL            12,500          346,216.04          328,125.00
+GEMSTAR-TV GUIDE INTL INC                    0.000     36866W106   GMST         3,259,600       16,598,159.80        8,507,556.00
+GEN-PROBE INC                                0.000     36866T103   GPRO            30,900          868,883.47        1,507,611.00
+GENCORP INC                                  0.676     368682100 Q GY              34,300          448,347.64          608,825.00
+GENENTECH INC.                               0.000     368710406   DNA            741,400       35,060,495.61       68,579,500.00
+GENERAL CABLE CORP                           1.015     369300108   BGC          1,975,250       25,463,276.93       38,912,425.00
+GENERAL COMMUNICATION                        0.000     369385109   GNCMA        2,508,668       25,180,821.26       25,914,540.44
+GENERAL DYNAMICS CORP.                       1.402     369550108 Q GD             402,900       33,715,716.78       45,950,745.00
+GENERAL ELECTRIC CO                          2.853     369604103 Q GE          19,238,197      460,440,495.17      674,298,804.85
+GENERAL MILLS INC                            2.757     370334104 Q GIS            501,000       22,410,972.85       24,709,320.00
+GENERAL MOTORS CORP                         10.298     370442105 Q GM             882,200       32,105,981.40       17,132,324.00
+GENESCO INC.                                 0.000     371532102   GCO             23,900          560,544.26          927,081.00
+GENESEE & WYO INC                            0.000     371559105   GWR             81,000        2,131,509.02        3,041,550.00
+GENESIS HEALTHCARE CORP                      0.000     37184D101   GHCI            29,100          665,765.07        1,062,732.00
+GENESIS MICROCHIP INC.                       0.000     37184C103   GNSS            92,100        1,419,011.20        1,666,089.00
+GENLYTE GROUP INC                            0.000     372302109   GLYT           119,972        4,526,430.88        6,426,900.04
+GENOMIC HEALTH INC                           0.000     37244C101   GHDX             5,300           53,106.00           48,283.00
+GENTIVA HEALTH SERVICES                      0.000     37247A102   GTIV            76,636        1,135,129.30        1,129,614.64
+GENUINE PARTS CO                             2.846     372460105 Q GPC             29,900        1,243,146.61        1,313,208.00
+GENWORTH FINANCIAL INC-CL A                  0.867     37247D106   GNW            359,400       11,791,030.21       12,428,052.00
+GENZYME CORP. GEN. DIV.                      0.000     372917104   GENZ           363,300       16,081,063.58       25,714,374.00
+GEORGIA GULF CORP                            1.051     373200203   GGC             36,100        1,041,873.64        1,098,162.00
+GERDAU AMERISTEEL CORP                       1.418     37373P105   GNA          1,250,000        6,452,623.40        7,050,000.00
+GERON CORP                                   0.000     374163103   GERN            67,600          532,725.58          582,036.00
+GETTY IMAGES INC.                            0.000     374276103   GYI            271,200       17,956,546.37       24,210,024.00
+GEVITY HR INC                                1.088     374393106   GVHR            29,250          610,214.67          752,310.00
+GFI GROUP INC                                0.000     361652209   GFIG            14,490          513,906.47          687,260.70
+GIANT INDUSTRIES INC                         0.000     374508109   GI              15,300          387,949.48          794,988.00
+GIBRALTAR INDUSTRIES INC                     0.871     374689107   ROCK           477,500       10,772,162.31       10,953,850.00
+GILEAD SCIENCES INC.                         0.000     375558103   GILD           957,148       25,691,225.11       50,374,699.24
+GLACIER BANCORP INC                          2.129     37637Q105   GBCI            33,031          687,018.54          992,581.55

@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 068
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 070
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP4       S&P 400 PASSIVE
 Instrument - COM       COMMON STOCK
 
-MILLER (HERMAN) INC                        0.634 MLHR    600544100     23.6600        11,200.00        272,638.02        264,992.00
-MINERALS TECHNOLOGIES INC                  0.214 MTX     603158106     46.6400         2,900.00        122,889.31        135,256.00
-MIPS TECHNOLOGIES INC CL B                 0.000 MIPSB   604567206      7.9800         5,800.00        192,286.73         46,284.00
-MODINE MANUFACTURING CO                    4.286 MODI    607828100     23.3300         4,900.00        156,017.73        114,317.00
-MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     54.8800         7,800.00        164,475.14        428,064.00
-MONTANA POWER CO                           0.000 MTP     612085100      5.7500        15,400.00        212,936.95         88,550.00
-MPS GROUP INC                              0.000 MPS     553409103      7.1400        14,500.00        313,581.47        103,530.00
-MURPHY OIL CORP                            1.784 MUR     626717102Q    84.0400         6,700.00        350,954.64        563,068.00
-MYLAN LABS                                 0.426 MYL     628530107Q    37.5000        18,600.00        392,417.26        697,500.00
-NATIONAL COMMERCE FINANCIAL                2.371 NCF     63545P104     25.3000        30,150.00        702,520.56        762,795.00
-NATIONAL FUEL & GAS                        4.089 NFG     636180101Q    24.7000        11,700.00        259,605.87        288,990.00
-NATIONAL INSTRUMENTS CORP.                 0.000 NATI    636518102     37.4600         7,600.00        146,556.38        284,696.00
-NATIONAL-OILWELL INC.                      0.000 NOI     637071101     20.6100        12,000.00        419,116.28        247,320.00
-NCO GROUP INC.                             0.000 NCOG    628858102     22.9000         3,800.00        182,786.38         87,020.00
-NEIMAN MARCUS GROUP INC-CLASS              0.000 NMG.A   640204202     31.0700         7,100.00        188,461.20        220,597.00
-NETWORKS ASSOCIATES INC.                   0.000 NETA    640938106     25.8500        20,450.00        692,023.89        528,632.50
-NEUBERGER BERMAN INC                       0.683 NEU     641234109     43.9000        10,400.00        451,533.33        456,560.00
-NEW YORK COMMUNITY BANCORP                 2.798 NYCB    649445103     22.8700        15,100.00        292,639.73        345,337.00
-NEWPORT CORP                               0.103 NEWP    651824104     19.2800         5,400.00        261,491.50        104,112.00
-NOBLE AFFILIATES INC                       0.453 NBL     654894104     35.2900         8,400.00        308,967.99        296,436.00
-NORDSON CORP                               2.120 NDSN    655663102     26.4100         4,900.00        130,639.69        129,409.00
-NORTH FORK BANK                            2.625 NFB     659424105     31.9900        24,050.00        540,427.57        769,359.50
-NORTHEAST UTILITIES                        2.836 NU      664397106     17.6300        20,700.00        261,030.04        364,941.00
-NSTAR CO.                                  4.593 NST     67019E107     44.8500         7,800.00        328,030.56        349,830.00
-OCEAN ENERGY INC                           0.833 OEI     67481E106     19.2000        25,400.00        561,276.59        487,680.00
-OGE ENERGY CORP                            5.762 OGE     670837103     23.0800        11,500.00        282,532.40        265,420.00
-OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    16.0500         8,900.00        157,697.32        142,845.00
-OLD REPUBLIC INT’L CORP.                   2.142 ORI     680223104     28.0100        17,600.00        426,604.15        492,976.00
-OLIN CORP                                  4.956 OLN     680665205Q    16.1400         6,400.00        174,480.34        103,296.00
-ONEOK INC.                                 3.475 OKE     682680103Q    17.8400         8,800.00        114,418.79        156,991.99
-ONMICARE INC.                              0.361 OCR     681904108     24.8800        13,800.00        412,229.44        343,344.00
-OUTBACK STEAKHOUSE INC                     0.000 OSI     689899102     34.2500        11,350.00        217,453.21        388,737.50
-OVERSEAS SHIPHOLDING GROUP                 2.666 OSG     690368105     22.5000         5,100.00        112,903.45        114,750.00
-OXFORD HEALTH PLANS                        0.000 OHP     691471106     30.1400        13,600.00        560,789.78        409,904.00
-PACIFIC CENTURY FINL CORP                  2.781 BOH     694058108     25.8900        11,400.00        276,446.97        295,146.00
-PACIFICARE HEALTH SYSTEM                   0.000 PHSY    695112102     16.0000         5,100.00        314,083.06         81,600.00
-PACKAGING CORP OF AMERICA                  0.000 PKG     695156109     18.1500        15,600.00        307,397.94        283,140.00
-PAPA JOHN’S INTERNATIONAL                  0.000 PZZA    698813102     27.4800         3,400.00        148,282.62         93,432.00
-PARK PLACE ENTERTAINMENT CORPO             0.000 PPE     700690100      9.1700        44,600.00        571,951.62        408,982.00
+ROSS STORES INC                            0.529 ROST    778296103     32.0800        11,800.00        204,083.98        378,544.00
+RPM INC. OHIO                              3.457 RPM     749685103Q    14.4600        15,175.00        236,122.75        219,430.50
+RSA SECURITY INC.                          0.000 RSAS    749719100     17.4600         8,300.00        154,620.81        144,918.00
+RUDDICK CORP.                              2.251 RDK     781258108Q    15.9900         6,900.00        115,269.10        110,331.00
+SAKS INCORPORATED                          0.000 SKS     79377W108      9.3400        21,044.00        584,691.76        196,550.96
+SANDISK CORP                               0.000 SNDK    80004C101     14.4000        10,100.00        676,466.00        145,440.00
+SCANA CORP                                 4.311 SCG     80589M102Q    27.8300        15,498.00        375,724.29        431,309.34
+SCHOLASTIC CORP                            0.000 SCHL    807066105     50.3300         5,200.00        110,921.30        261,716.00
+SCHULMAN (A.) INC.                         3.956 SHLM    808194104Q    13.6500         4,300.00         98,120.36         58,695.00
+SEI INVESTMENTS CO                         0.110 SEIC    784117103     45.1100        16,000.00        131,180.37        721,760.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     35.6900        10,400.00        349,827.60        371,176.00
+SENSIENT TECHNOLOGIES                      2.546 SXT     81725T100Q    20.8100         7,000.00        142,150.09        145,670.00
+SEPRACOR INC.                              0.000 SEPR    817315104     57.0600        11,500.00        576,332.11        656,190.00
+SEQUA CORP - CL A                          0.000 SQA.A   817320104     47.5200         1,500.00         88,020.45         71,280.00
+SIERRA PACIFIC RESOURCES                   5.315 SRP     826428104     15.0500        15,127.00        319,839.87        227,661.35
+SILICON VALLEY BANCSHARES                  0.000 SIVB    827064106     26.7300         6,800.00        221,704.89        181,764.00
+SIX FLAGS INC.                             0.000 PKS     83001P109     15.3800        13,700.00        494,984.75        210,706.00
+SMITH INTERNATIONAL INC                    0.000 SII     832110100     53.6200         7,300.00        431,928.90        391,426.00
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     22.0400        16,500.00        242,172.90        363,660.00
+SMUCKER J M                                1.808 SJM     832696306Q    35.3800         3,600.00         86,595.84        127,368.00
+SOLUTIA INC.                               0.285 SOI     834376105     14.0200        15,391.00        287,363.04        215,781.82
+SONOCO PRODUCTS CO                         3.009 SON     835495102     26.5800        14,120.00        418,895.43        375,309.60
+SOTHEBY’S HOLDINGS CL-A                    0.000 BID     835898107     16.6100         9,100.00        162,384.42        151,151.00
+SOVEREIGN BANCORP INC                      0.817 SOV     845905108     12.2400        36,600.00        442,695.52        447,984.00
+SPX CORP.                                  0.000 SPW     784635104Q   136.9000         6,000.00        463,382.78        821,400.00
+STANCORP FINANCIAL GROUP                   0.677 SFG     852891100     47.2500         4,400.00        212,824.18        207,900.00
+STERIS CORP                                0.000 STE     859152100Q    18.2700        10,300.00        242,109.13        188,181.00
+STEWART & STEVENSON SERVICES               1.807 SSSS    860342104Q    18.8100         4,200.00         94,932.50         79,002.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700        15,500.00        434,824.90        320,385.00
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300        41,400.00        613,289.06      1,197,702.00
+SUPERIOR INDUSTRIES INTL                   1.093 SUP     868168105     40.2500         3,800.00        100,901.22        152,950.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.5100        12,600.00        259,635.45        271,026.00
+SYBASE INC.                                0.000 SY      871130100     15.7600        14,600.00        315,885.00        230,096.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      9.3400         6,000.00        165,511.22         56,040.00
+SYLVAN LEARNING SYSTEMS INC                0.000 SLVN    871399101     22.0700         5,700.00         89,614.65        125,799.00
+SYMANTEC CORP                              0.000 SYMC    871503108     66.3300        10,300.00        280,728.20        683,199.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     59.0700         8,800.00        289,562.09        519,816.00
+TCF FINANCIAL CORP                         2.084 TCB     872275102     47.9800        11,400.00        293,940.57        546,972.00
+TECH DATA CORP                             0.000 TECD    878237106     43.2800         8,200.00        298,465.87        354,896.00

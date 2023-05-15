@@ -1,0 +1,26 @@
+ASOF10   Date 01/21/2005 Time 18:35:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+PRIMUS CAPITAL FUND V                        0.000     AVPRIMUS5   99404       27,652,500       27,652,500.00       19,187,219.86
+PRISM VENTURE PARTNERS IV                    0.000     AVPRISM4    99406       11,400,000       11,400,000.00        7,876,777.01
+PROVIDENCE EQUITY PARTNERS IV                0.000     ABPROV4     99404       17,666,914       17,666,912.81       26,498,417.01
+SILVER LAKE PARTNERS                         0.000     ASILLAKE    ASILL        3,988,519        3,988,518.96       14,552,340.65
+SILVER LAKE PARTNERS II                      0.000     ABSLP2      99408        2,931,162        2,931,162.33        2,879,409.84
+SKM EQUITY FUND III                          0.000     ABSKM3      99404       22,500,600       22,500,599.85       19,440,883.99
+SPACEVEST II                                 0.000     VEASPVE     VEASP       11,573,043       11,573,043.35        7,176,220.85
+SUNRISE CAPITAL PARTNERS                     0.000     ASUNRISE    ASUNR       26,839,979       26,839,978.81       12,317,860.99
+TPG PARTNERS IV                              0.000     ABTPG4      99407       16,723,858       16,723,857.96       16,019,291.01
+TUCKER ANTHONY PRIVATE EQITY FUND III        0.000     AVTAPE3     AVTAP        6,075,000        6,074,999.93        5,153,737.01
+TUCKER ANTHONY PRIVATE EQUITY FUND IV        0.000     AVTAPE4     99406        6,037,500        6,037,500.00        5,926,157.00
+WARBURG PINCUS EQUITY PARTNERS               0.000     AWARBURG    99404       27,929,808       27,929,808.55       40,659,743.75
+WARBURG PINCUS VIII                          0.000     AWARBURG8   AWARB       30,269,925       30,269,924.27       30,357,527.00
+
+Instrument Total                     93                                     1,270,907,334    1,270,907,321.60    1,243,845,837.71
+

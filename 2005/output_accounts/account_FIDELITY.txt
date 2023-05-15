@@ -1,0 +1,18 @@
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+FIDELITY - FIXED INCOME            0.0000  0.000 IF-FIDELIT         00/00/0000     1,932,740.35    193,274,035.71
+FIDELITY - LIQUIDITY               0.0000  0.000 IL-FIDELIT         00/00/0000       203,178.96     20,317,896.89
+FIDELITY-EQUITY                    0.0000  0.000 IE-FIDELIT         00/00/0000           470.01         47,001.05
+
+Instrument Total               3                                                   2,136,389.33    213,638,933.65
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+SECURITY LENDING INCOME - EXT.     0.0000  0.000 SL-EXFI            00/00/0000             0.00              0.01
+
+Instrument Total             1                                                             0.00              0.01
+
+Portfolio Total              4                                                     2,136,389.33    213,638,933.66    234,864,081.29
+
+Group Total                 13                                 11,141,079.58 /             0.00  1,114,107,958.76  1,169,089,095.65
+

@@ -1,0 +1,39 @@
+ASOF02   Date 01/21/2003 Time 18:53:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - K         STRIP CENTERS
+
+FEDERAL REALTY INV.                        6.899 FRT     313747206Q    28.1200       112,900.00      2,795,710.88      3,174,747.96
+HERITAGE PROPERTY INV TRUST                8.410 HTG     42725M107     24.9700        40,000.00        975,267.00        998,800.00
+KIMCO REALTY CORP                          7.049 KIM     49446R109Q    30.6400       326,539.00      6,754,200.19     10,005,154.95
+NEW PLAN EXCEL RE TRUST                    8.643 NXL     648053106Q    19.0900       217,800.00      4,269,750.13      4,157,801.99
+PAN PACIFIC RETAIL                         5.475 PNP     69806L104     36.5300       117,500.00      3,606,792.50      4,292,275.02
+REGENCY CENTERS CORP                       6.296 REG     758849103     32.4000       177,300.00      4,756,761.69      5,744,519.97
+WEINGARTEN RE INVST                        6.022 WRI     948741103     36.8600       146,383.00      4,378,534.05      5,395,677.38
+
+Instrument Total             9                                                    1,499,722.00      35,628,368.38     43,237,636.31
+
+Instrument -M      SELF STORAGE
+
+PUBLIC STORAGE INC                         5.571 PSA     74460D109     32.3100       353,000.00     13,045,439.46     11,405,430.06
+SHURGARD STORAGE CTRS                      6.764 SHU     82567D104     31.3400       121,300.00      4,025,108.48      3,801,541.99
+
+Instrument Total             2                                                      474,300.00      17,070,547.94     15,206,972.05
+
+Instrument -N      LODGING/RESORTS
+
+FELCOR LODGING TRUST                       5.244 FCH     31430F101     11.4400       146,700.00      2,517,431.95      1,678,247.99
+HOSPITALITY PROPERTIES                     8.181 HPT     44106M102     35.2000       164,700.00      5,119,078.44      5,797,439.97
+HOST MARRIOTT CORP                        11.751 HMT     44107P104      8.8500       707,800.00      6,671,565.07      6,264,030.00
+MERISTAR HOSPITALITY CORP.                 0.606 MHX     58984Y103      6.6000       123,800.00      1,870,146.59        817,079.98
+
+Instrument Total             4                                                    1,143,000.00      16,178,222.05     14,556,797.94
+
+Portfolio Total             61                                                   12,354,908.00     313,449,900.94    331,614,848.73
+

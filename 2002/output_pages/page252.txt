@@ -1,0 +1,55 @@
+ASOF09   Date 01/21/2003 Time 18:53:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+ALLSTATE FINANCIAL GLOBAL FUND AA2   2.003 020012AL4        Q                50,000,000.00       50,000,000.00
+AMERICAN EXPRESS CREDIT        AA3   1.559 0258M0AT6        M                40,000,000.00       40,000,000.00
+AMERICAN GENERAL FINANCE       A1    7.295 02635PQN6        Q                60,000,000.00       60,000,000.00
+AMERICAN HONDA FINANCE         A2    4.032 02666QKS1        Q                60,000,000.00       60,000,000.00
+BANK OF NEW YORK               AA3   2.218 06406HAQ2        Q                60,000,000.00       60,000,000.00
+BANK ONE NA, ILLINOIS          AA2   1.920 06423EMU6        Q                60,000,000.00       60,000,000.00
+BAYERISCHE LANDESBANK          AAA   1.472 0727M5F49        Q                40,000,000.00       39,968,775.78
+BOEING CAPITAL CORP            A3    3.432 09700WDQ3        Q                40,000,000.00       40,000,000.00
+CARCO AUTO LOAN MASTER TRUST   AAA   2.252 141389BM7        M                75,000,000.00       74,978,909.14
+CATERPILLAR FINANCIAL SERVICE  A2    5.316 14912LP96        Q                60,000,000.00       60,000,000.00
+CCCIT 2001-A5 A5               AAA   4.008 17305EAN5        Q                75,000,000.00       75,034,603.63
+CHAMT 2001-3 A                 AAA   4.138 16151RAU7        M                30,000,000.00       30,000,375.99
+CHAMT 2002-4 A                 AAA   1.918 16151RBR3        M                20,000,000.00       20,000,000.00
+COUNTRYWIDE HOME LOAN          A3    4.214 22237LLB6        Q                15,000,000.00       15,000,000.00
+DOMINION VIRGINIA POWER        A3    2.635 92781FBT4        Q                45,000,000.00       45,000,000.00
+FEDERAL HOME LOAN BANK         AAA   1.833 3133MMGW7        Q               120,000,000.00      120,000,000.00
+FIRST UNION NATIONAL BANK      AA3   4.012 33737XRN0        Q                30,000,000.00       30,000,000.00
+FIRST USA CREDIT CARD MASTER T AAA   3.749 337435BW0        M                62,500,000.00       62,552,038.17
+FORD CREDIT FLOORPLAN MASTER O AAA   3.888 34528PAA4        M                62,500,000.00       62,531,007.75
+FREDDIE MAC                    AAA   1.711 312925SA9        Q                55,000,000.00       55,000,000.00
+GENERAL ELEC CAP CORP          AAA   2.035 36962GYX6        Q                40,000,000.00       40,000,000.00
+HOUSEHOLD FINANCE CORP         A2    2.258 44181KP99        Q                40,000,000.00       40,000,000.00
+IBM CORP                       A1    1.926 459200AY7        Q                35,000,000.00       35,000,000.00
+JOHN DEERE CAPITAL CORP        A3    3.371 24422ENQ8        Q                40,000,000.00       40,000,000.00
+JOHN HANCOCK GLOB FDG II       AA2   1.994 41011WAU4        Q                40,000,000.00       39,982,320.79
+JP MORGAN CHASE                AA3   5.215 46623EAF6        Q                40,000,000.00       40,000,000.00
+KEYCORP                        A2    5.386 49326EDA8        Q                60,000,000.00       59,997,572.15
+MERRILL LYNCH & CO             AA3   1.810 59018YPK1        Q                40,000,000.00       40,000,000.00
+NATIONAL CITY BANK             AA3   5.204 63534XBB5        Q                50,000,000.00       50,000,000.00
+PACCAR FINANCIAL CORP          A1    3.219 69371RVG8        Q                30,000,000.00       30,000,000.00
+TEXTRON FINANCIAL CORP         A3    3.604 88319QD34        Q                60,000,000.00       60,000,000.00
+VERIZON WIRELESS INC           A2    2.270 92344SAA8        Q                50,000,000.00       50,000,000.00
+WASHINGTON MUTUAL BANK         A2    3.341 93933AAH7        Q                40,000,000.00       40,000,000.00
+Wells Fargo & Co.                    1.845 949746CP4        Q                25,000,000.00       25,000,000.00
+
+Instrument Total              34                                          1,650,000,000.00    1,650,045,603.40
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP - LIQUDITY RESERVE       0.000 IL-EQS                                63,641.97        6,364,197.17
+
+Instrument Total               1                                                 63,641.97        6,364,197.17
+
+Portfolio Total               35                                          1,650,063,641.97    1,656,409,800.57      1,519,485,420.52

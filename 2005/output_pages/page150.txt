@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 117
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     88.5700           200.00          9,332.44         17,714.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105      8.9700           100.00          1,463.24            897.00
+PENN VA CORP                               0.784 PVA     707882106     57.4000           100.00          2,388.54          5,740.00
+PENNFED FINL SVCS IN                       1.520 PFSB    708167101     18.4200           100.00          1,682.92          1,842.00
+PENNSYLVANIA COMMERCE BANCORP              0.000 COBH    708677109     31.8500           800.00         26,541.20         25,480.00
+PEOPLES ENERGY CORP                        6.216 PGL     711030106Q    35.0700           100.00          3,766.23          3,507.00
+PEP BOYS MM & J                            1.813 PBY     713278109Q    14.8900           200.00          3,208.55          2,978.00
+PER-SE TECHNOLOGIES                        0.000 PSTI    713569309     23.3600           700.00         11,004.26         16,352.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     28.3700           100.00          3,197.78          2,837.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105      7.9700           100.00          1,599.82            797.00
+PEROT SYSTEMS COPR. CL. A                  0.000 PER     714265105     14.1400           500.00          6,353.42          7,070.00
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     21.9500           200.00          6,395.47          4,390.00
+PETROLEUM DEVELOPMENT CORP                 0.000 PETDE   716578109     33.3400           100.00          1,785.72          3,334.00
+PETROQUEST ENERGY INC                      0.000 PQ      716748108      8.2800           100.00            667.57            828.00
+PFF BANCORP INC                            1.965 PFB     69331W104     30.5200           100.00          2,619.31          3,052.00
+PHARMION CORP                              0.000 PHRM    71715B409     17.7700           100.00          2,793.23          1,777.00
+PHASE FORWARD INC                          0.000 PFWD    71721R406      9.7500           100.00            776.63            975.00
+PHILLIPS-VAN HEUSEN                        0.463 PVH     718592108     32.4000           100.00          2,115.06          3,240.00
+PHOENIX COMPANIES INC.                     1.173 PNX     71902E109     13.6400           900.00         10,067.28         12,276.00
+PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108      6.2600         4,400.00         37,158.88         27,544.00
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     18.2800           100.00          1,907.61          1,828.00
+PHOTRONICS INC.                            0.000 PLAB    719405102     15.0600         5,000.00         96,157.22         75,300.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     32.2600         1,500.00         30,472.33         48,390.00
+PIER 1 IMPORTS INC/DEL                     4.581 PIR     720279108      8.7300         2,000.00         29,455.86         17,460.00
+PIKE ELECTRIC CORP                         0.000 PEC     721283109     16.2200           100.00          1,875.00          1,622.00
+PLANTRONICS INC.                           0.706 PLT     727493108     28.3000           200.00          7,452.52          5,660.00
+PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100     13.6700         1,600.00         14,512.28         21,872.00
+PLEXUS CORP                                0.000 PLXS    729132100     22.7400         1,000.00         15,697.10         22,740.00
+PLUG POWER INC                             0.000 PLUG    72919P103      5.1300         9,000.00         62,263.49         46,170.00
+PLX TECHNOLOGY INC                         0.000 PLXT    693417107      8.6000           100.00            844.26            860.00
+PMA CAP CORP                               4.600 PMACA   693419202      9.1300           100.00            503.92            913.00
+PMC-SIERRA INC                             0.000 PMCS    69344F106      7.7100         1,300.00         12,351.95         10,023.00
+POLYCOM INC.                               0.000 PLCM    73172K104     15.3000           300.00          5,038.76          4,590.00
+POLYMEDICA CORP                            1.792 PLMD    731738100     33.4700           100.00          2,480.75          3,347.00
+POLYONE CORPORATION                        3.888 POL     73179P106      6.4300        11,800.00         68,261.80         75,874.00
+PORTALPLAYER INC                           0.000 PLAY    736187204     28.3200           300.00          7,701.71          8,496.00
+PORTFOLIO RECOVERY ASSOCIATES              0.000 PRAA    73640Q105     46.4400           100.00          3,156.44          4,644.00
+POTLATCH CORP.                             1.176 PCH     737628107Q    50.9800         1,500.00         47,114.64         76,470.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     23.8100           100.00          2,188.06          2,381.00

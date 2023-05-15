@@ -1,0 +1,9 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+FOREIGN & COLONIAL - EQUITIES                0.000     IE-FOR                 3,982,798.10      398,279,810.14
+FOREIGN & COLONIAL - FIXED INCOME            0.000     IF-FOR                   510,036.23       51,003,623.40
+FOREIGN & COLONIAL - LQR                     0.000     IL-FOR                    64,578.21        6,457,821.12
+
+Instrument Total               3                                              4,557,412.54      455,741,254.66
+
+Portfolio Total                3                                              4,557,412.54      455,741,254.66        421,473,010.47

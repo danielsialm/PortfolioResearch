@@ -1,0 +1,17 @@
+ASOF03   Date 01/21/2003 Time 18:53:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REM       RE MIDWEST REGION
+Instrument - X         OTHER
+
+WESTBELT WEST PK               COLUMBUS                       10.000         RWSBT1                    371,027.04        200,199.94
+
+Instrument Total             1                                                                         371,027.04        200,199.94
+
+Portfolio Total             23                                                                     489,763,296.55    536,200,199.94
+

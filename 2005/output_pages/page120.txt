@@ -1,0 +1,20 @@
+ASOF02   Date 01/19/2006 Time 18:24:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 087
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+UNIVERSAL HEALTH RLT                       7.147 UHT     91359E105     31.3400        12,400.00        397,574.01        388,616.00
+URSTADT BIDDLE PPTYS                       5.552 UBA     917286205     16.2100        22,200.00        348,678.91        359,862.00
+WASHINGTON RE INV                          4.290 WRE     939653101     30.3500        29,800.00        868,397.14        904,430.00
+WINSTON HOTELS INC                         6.060 WXH     97563A102      9.9000        23,400.00        250,601.89        231,660.00
+
+Instrument Total            86                                                     2,952,095.00     62,108,313.57     67,982,315.26
+
+Portfolio Total          1,754                                                    64,150,248.25  1,042,611,196.89  1,254,597,286.85
+

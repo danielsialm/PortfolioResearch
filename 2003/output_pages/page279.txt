@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 047
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MATRIA HEALTHCARE IN                         0.000     576817209   MATR            19,200          370,593.65          405,696.00
+MATRIX SERVICE CO                            0.000     576853105   MTRX            30,761          443,842.35          558,312.15
+MATRIXONE, INC.                              0.000     57685P304   MONE            51,900          306,162.04          319,704.00
+MATRIXX INITIATIVES INC                      0.000     57685L105   MTXX            35,600          514,079.24          631,508.40
+MATTEL INC.                                  2.075     577081102 Q MAT          1,044,348       18,636,589.75       20,124,585.97
+MATTHEWS INTL CORP                           0.540     577128101   MATW            34,400          891,458.61        1,017,896.00
+MATTSON TECHNOLOGY INC                       0.000     577223100   MTSN            33,700          142,477.35          411,814.00
+MAUI LD & PINEAPPLE                          0.000     577345101   MLP              3,700           94,712.08          127,945.99
+MAVERICK TUBE CORP                           0.000     577914104   MVK             68,300        1,129,953.16        1,314,775.00
+MAXIM INTGRTD PRDCTS INC.                    0.642     57772K101   MXIM           656,470       22,284,035.21       32,692,206.01
+MAXIMUS INC                                  0.000     577933104   MMS             18,600          659,640.66          727,818.00
+MAXTOR CORP                                  0.000     577729205   MXO            740,699        7,255,314.87        8,221,770.00
+MAXWELL SHOE INC                             0.000     577766108   MAXS            16,700          239,061.35          283,399.00
+MAXWELL TECHNOLOGIES INC                     0.000     577767106   MXWL            34,400          255,878.22          244,240.00
+MAXYGEN INC                                  0.000     577776107   MAXY            57,300          650,025.08          609,099.00
+MAY DEPT STORES                              3.302     577778103 Q MAY            755,915       21,589,188.57       21,974,449.05
+MAYTAG COMPANY                               2.585     578592107 Q MYG             83,900        2,153,771.49        2,336,614.98
+MB FINL INC                                  1.978     55264U108   MBFI            30,850          860,015.16        1,122,940.00
+MBIA INC.                                    1.350     55262C100 Q MBI            369,800       17,165,458.80       21,903,254.00
+MBNA CORP                                    1.609     55262L100 Q KRB          2,726,915       48,607,034.40       67,763,837.74
+MBT FINANCIAL CORP                           3.634     578877102   MBTF             7,406          116,880.21          122,273.06
+McCORMICK & CO                               1.860     579780206 Q MKC            191,300        4,426,821.68        5,758,129.99
+MCCLATCHY CO                                 0.639     579489105   MNI              3,300          219,899.13          227,040.00
+MCDATA CORPORATION-A                         0.000     580031201   MCDTA          178,600        1,715,891.04        1,702,058.02
+MCDERMOTT INTERNATIONAL                      0.000     580037109 Q MDR             36,900          235,493.44          440,955.00
+MCDONALDS CORPORATION                        1.611     580135101 Q MCD          2,802,067       77,191,505.65       69,575,323.61
+MCG CAPITAL CORP                             8.615     58047P107   MCGC            59,400          920,424.30        1,158,300.00
+MCGRATH RENTCORP                             2.935     580589109   MGRC             9,200          255,185.46          250,700.00
+MCGRAW HILL INC                              1.544     580645109 Q MHP            325,870       18,207,875.23       22,784,830.40
+MCKESSON CORP                                0.746     58155Q103 Q MCK            666,600       23,720,776.72       21,437,856.01
+MCLEODUSA INC                                0.000     582266706   MCLD           538,700          793,952.96          797,276.00
+MCMORAN EXPLORATION CO                       0.000     582411104   MMR             14,200          209,835.97          266,250.01
+MDC HOLDINGS INC                             0.775     552676108   MDC             41,400        1,185,151.46        2,670,299.99
+MDU RESOURCES GROUP                          2.855     552690109   MDU            304,050        6,891,713.06        7,239,430.50
+MEADWESTVACO                                 3.092     583334107   MWV            400,700        9,798,513.43       11,920,825.03
+MEASUREMENT SPECIALITIES INC                 0.000     583421102   MSS             38,700          213,280.80          790,641.01
+MEDALLION FINANCIAL CORP                     2.107     583928106   TAXI            24,963          167,382.39          236,898.87
+MEDAREX INC                                  0.000     583916101   MEDX            89,000          626,669.11          554,470.00
+MEDCO HEALTH SOLUTIONS INC                   0.000     58405U102   MHS            627,756       14,190,037.93       21,337,426.42
+MEDIA GENERAL INC - CL A                     1.167     584404107   MEG             36,511        2,277,820.73        2,376,866.10

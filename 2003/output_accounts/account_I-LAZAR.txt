@@ -1,0 +1,26 @@
+Instrument - CTRY      COUNTRY FUNDS - CLOSED END
+
+ISRAEL FUND                                  0.000     0457242      ISR_L       571,389.00                0.00
+
+Instrument Total               1                                                571,389.00                0.00
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+BETEILIGUNGSVERWAL                           0.000     94D0744      94D07           753.00                0.00
+CIA VALE DO RIO DO                           0.000     9993145      VALE_        83,300.00                0.00
+F&C-EM MK POLISH                             0.000     4560243      FOCLP       198,683.00                0.00
+F&C-ROMANIAN INV                            40.000     0165288      01652       199,690.00        1,996,900.00
+INTERNATIONAL THEATRES LTD                   0.000     2533827      25338        32,500.00                0.00
+ROYALE BELGE NPV V                           0.000     5047488      RBVBS           531.00                0.00
+TELECOM ASIA RTS                             0.000     94F1516      94F15       535,516.00                0.00
+TI AUTOMOTIVE LTD                            0.000     3067529      6525Z       375,200.00                0.00
+
+Instrument Total               8                                              1,426,173.00        1,996,900.00
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+LAZARD FRERES - LQR                          0.000     IL-LAZ                       885.96           88,596.69
+
+Instrument Total               1                                                    885.96           88,596.69
+
+Portfolio Total               10                                              1,998,447.96        2,085,496.69            153,135.11

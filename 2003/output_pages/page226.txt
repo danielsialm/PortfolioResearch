@@ -1,0 +1,44 @@
+ASOF02   Date 01/20/2004 Time 18:59:15   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 196
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+TOWER AUTOMOTIVE INC                       0.000 TWR     891707101      6.8300        57,002.00        279,196.60        389,323.66
+TRANS WORLD ENTERTAINMENT CP               0.000 TWMC    89336Q100      7.1200        36,685.00        266,954.49        261,197.20
+TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     15.6100        19,966.00        276,415.41        311,669.26
+UICI                                       0.000 UCI     902737105     13.2800        18,781.00        257,731.49        249,411.68
+UNIFI INC                                  0.000 UFI     904677101      6.4500        51,000.00        244,465.95        328,950.00
+UNITED CAPITAL CORP                        0.000 AFP     909912107     20.7200        13,800.00        255,316.50        285,936.00
+UNITED FIRE & CAS CO                       1.982 UFCS    910331107     40.3600         6,510.00        259,783.78        262,743.60
+UNIVERSAL AMERN FINL                       0.000 UHCO    913377107      9.9100        24,915.00        252,237.81        246,907.65
+USG CORPORATION                            0.603 USG     903293405     16.5700        17,210.00        261,752.05        285,169.70
+VANS INC                                   0.000 VANS    921930103     11.4100        20,263.00        249,767.53        231,200.83
+VERITAS DGC INC.                           0.000 VTS     92343P107     10.4800        28,786.00        264,325.58        301,677.28
+VISTEON CORP                               2.305 VC      92839U107     10.4100        38,200.00        251,629.13        397,662.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     15.9500        16,842.00        259,353.33        268,629.90
+WASHINGTON GROUP INTERNATIONAL             0.000 WGII    938862208     33.9700         7,737.00        264,112.55        262,825.89
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     20.6100        12,852.00        274,170.43        264,879.72
+WILSONS THE LEATHER                        0.000 WLSN    972463103      3.4900        41,832.00        225,215.45        145,993.68
+WSFS FINL CORP                             0.445 WSFS    929328102     44.8500         6,020.00        261,936.72        269,997.00
+
+Instrument Total           134                                                     3,291,567.52     33,577,688.36     35,259,008.58
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+BRT REALTY TRUST                           5.268 BRT     055645303     28.8500           200.00          4,826.00          5,770.00
+CRIIMI MAE INC                             0.000 CMM     226603504     10.4300        23,157.00        251,943.53        241,527.51
+OMEGA HEALTHCARE INV                       6.430 OHI     681936100      9.3300        32,830.00        263,046.91        306,303.90
+TRANSCONTINENTAL RLT                       0.000 TCI     893617209     16.7300         5,100.00         69,126.87         85,323.00
+
+Instrument Total             4                                                        61,287.00        588,943.31        638,924.41
+
+Portfolio Total            138                                                     3,352,854.52     34,166,631.67     35,897,932.99
+
+Group Total              2,763                                          0.00 /   156,004,511.21  2,891,381,375.07  3,406,311,050.70
+

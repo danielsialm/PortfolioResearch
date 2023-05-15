@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 090
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 4JL       JACOBS LEVY - 400
+Instrument - COM       COMMON STOCK
+
+E*TRADE GROUP INC.                         0.000 ET      269246104      4.8600       135,100.00        680,988.14        656,586.00
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     37.6000        21,000.00        795,892.09        789,600.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     25.4700        27,000.00        522,968.49        687,690.00
+EGL, INC.                                  0.000 EAGL    268484102     14.2500        23,900.00        345,640.12        340,575.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     20.8300         5,800.00         92,192.38        120,814.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     27.9000        41,700.00      1,170,648.27      1,163,430.00
+ENSCO INTL INC                             0.339 ESV     26874Q100     29.4500        52,900.00      1,437,270.19      1,557,905.00
+EXPRESS SCRIPTS                            0.000 ESRX    302182100     48.0400        24,900.00      1,398,667.86      1,196,196.00
+FIDELITY NATIONAL FINL INC                 1.462 FNF     316326107     32.8300        41,400.00      1,012,324.41      1,359,162.00
+FIRSTMERIT CORPORATION                     4.616 FMER    337915102     21.6600        26,200.00        567,848.00        567,492.00
+FORTUNE BRANDS INC.                        2.322 FO      349631101Q    46.5100         7,200.00        371,559.18        334,872.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMSTE   36866W106      3.2500        57,300.00        211,299.35        186,225.00
+GENTEX CORP.                               0.000 GNTX    371901109     31.6400        40,100.00      1,174,951.56      1,268,764.00
+GILEAD SCIENCES INC.                       0.000 GILD    375558103     34.0000        49,700.00      1,292,058.02      1,689,800.00
+GOODYEAR T & R                             7.048 GT      382550101Q     6.8100        80,500.00      1,110,856.90        548,205.00
+GREATER BAY BANCORP                        2.891 GBBK    391648102     17.2900        57,400.00      1,246,558.06        992,446.00
+HALLIBURTON COMPANY                        2.672 HAL     406216101Q    18.7100        10,000.00        188,177.00        187,100.00
+HARRIS CORP.                               1.216 HRS     413875105Q    26.3000        41,400.00      1,035,642.40      1,088,820.00
+HARTE-HANKS INC.                           0.535 HHS     416196103     18.6700        50,300.00        943,551.39        939,101.00
+HCC INSURANCE HOLDINGS INC.                1.056 HCC     404132102     24.6000        26,600.00        605,619.29        654,360.00
+HIBERNIA CORP CL-A                         3.115 HIB     428656102     19.2600        65,000.00      1,132,273.09      1,251,900.00
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     29.3000        38,100.00        966,284.01      1,116,330.00
+IMATION CORP                               0.000 IMN     45245A107     35.0800        30,000.00        859,864.95      1,052,400.00
+INDYMAC BANCORP INC                        0.000 NDE     456607100     18.4900        17,900.00        339,189.00        330,971.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     18.4600        31,100.00        849,485.95        574,106.00
+INTERSIL HOLDINGS CORP                     0.000 ISIL    46069S109     13.9400        52,800.00      1,277,722.90        736,032.00
+JONES APPAREL GROUP INC                    0.000 JNY     480074103     35.4400         9,500.00        326,751.58        336,680.00
+KEMET CORP.                                0.000 KEM     488360108      8.7400        33,000.00        282,281.92        288,420.00
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     33.7700        31,900.00      1,137,398.02      1,077,263.00
+LEE ENTERPRISES                            2.028 LEE     523768109     33.5200         7,400.00        248,438.61        248,048.00
+LEGG MASON INC.                            0.906 LM      524901105     48.5400        24,100.00      1,006,393.11      1,169,814.00
+LENNAR CORPORATION                         0.096 LEN     526057104     51.6000        23,200.00      1,086,928.59      1,197,120.00
+LIFEPOINT HOSPITALS INC.                   0.000 LPNT    53219L109     29.9310        30,000.00        996,800.26        897,930.00
+LONGVIEW FIBRE CO                          6.639 LFB     543213102      7.2300        37,500.00        264,393.92        271,125.00
+LUBRIZOL CORP                              3.409 LZ      549271104     30.5000        30,700.00        922,737.89        936,350.00
+M&T BANK CORPORATION                       1.512 MTB     55261F104     79.3500         1,000.00         65,127.55         79,350.00
+MACROMEDIA INC                             0.000 MACR    556100105     10.6500        43,600.00        553,958.14        464,340.00
+MANPOWER INC                               0.627 MAN     56418H100     31.9000        33,200.00      1,245,059.11      1,059,080.00
+McCORMICK & CO                             1.896 MKC     579780206Q    23.2000        51,900.00      1,074,137.15      1,204,080.00

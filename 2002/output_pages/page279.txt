@@ -1,0 +1,39 @@
+ASOF11   Date 01/21/2003 Time 18:53:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 029
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+VOLKSWAGEN AG                                4.568     5497102      VOW_G         3,800.00          164,381.66
+WAREHOUSE GROUP LTD                          0.039     6939625      WHS_N        17,800.00           49,414.06
+WESFARMERS LTD                               0.744     6948836      WES_A        76,650.00        1,249,006.85
+WESTPAC BANKING CO                           1.613     6076146      WBC_A       273,949.00        2,086,773.32
+WHARF(HLDGS) HKD1                            0.680     6435576      4_HK         50,000.00          102,625.06
+WIENERBERGER BAUST                           4.089     5699373      WIE_A        83,900.00        1,372,906.31
+WMC RESOURCES LTD                            0.000     6571469      WMR_A       135,300.00          297,140.22
+WOLTERS KLUWER NV                            4.471     5671519      WLSNC        15,410.00          274,239.50
+WOOLWORTHS LIMITED                           0.516     6981239      WOW_A       217,950.00        1,255,587.14
+WPP GROUP                                    1.696     0974042      WPP_L        73,933.00          719,395.73
+YAMANOUCHI PHARM J                           0.000     6985383      4503_        27,000.00          771,140.64
+ZURICH FINANCIAL SERVICES CHF10              0.889     5983816      ZURN_         9,165.00        1,735,217.99
+
+Instrument Total             324                                             35,378,989.50      379,488,806.70
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   35,668.02        3,566,802.78
+
+Instrument Total               1                                                 35,668.02        3,566,802.78
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP                0.000     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              326                                             35,477,441.52      383,055,609.48        340,201,061.58

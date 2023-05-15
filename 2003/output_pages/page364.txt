@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+NEDCOR R1                                    0.000     6628008      NED_S       116,707.00        1,910,536.61
+NIEN HSING TEXTILE CO LTD                    0.000     6591928      1451_     2,284,400.00        1,757,756.71
+OAO GAZPROM-GDR                              0.758     5140989      OGZD_        34,000.00          763,976.28
+OLD MUTUAL                                   0.000     6155131      OML_S     1,698,000.00        2,421,821.87
+ORASCOM CONSTRUCTIONS INDUS                  0.001     6146975      ORCI_        20,000.00          122,061.07
+ORBIS PLN2                                   0.000     5349173      ORB_P        98,089.00          495,729.75
+OTP BANK                                     0.000     7320154      OTP_H       100,000.00          483,782.02
+PETROCHINA CO                                0.062     6226576      857_H     9,302,000.00        2,029,184.83
+PHOENIXTEC POWER                             0.000     6685508      2411_     2,515,000.00        1,660,671.71
+POHANG IRON+STEEL                            0.000     6693233      00549        37,989.00        3,321,263.93
+POLSKI KONCERN NAFTOWY ORLEN                 0.010     5810066      PKN_P       290,385.00        1,381,768.20
+POONGSAN CORPORATION                         0.000     6694474      00581       137,000.00        1,189,634.78
+PREMIER IMAGE TECHNOLOGY                     0.000     6143330      2394_     1,040,000.00        1,234,817.97
+PROKOM SOFTWARE SA                           0.061     5372878      PKM_P         5,000.00          173,667.67
+PT ANEKA TAMBANG TBK                         0.000     6053859      ANTM_       391,375.00           31,438.87
+PT ASTRA INTERNATIONAL INC                   0.000     6291712      ASII_     1,041,000.00          535,527.97
+PT BANK CENTRAL ASIA                         0.000     6352772      BBCA_       954,000.00          334,622.85
+PT BANK PAN INDONESIA                        0.000     6545248      PNBN_     3,377,500.00           64,223.17
+PT BHAKTI INVESTAMA                          0.000     6211516      BHIT_       527,500.00           39,499.81
+PT INDOFOOD SUKSES MAK                       0.000     6283979      INDF_     2,341,000.00          255,621.95
+PT KALBE FARMA IDR                           0.000     6173229      KLBF_     2,436,500.00          120,127.67
+PT MATAHARI PUTRA PRIMA                      0.000     6291701      MPPA_       613,500.00          111,005.26
+PT RAMAYANA LESTARI SENTOSA                  0.000     6328502      RALS_       357,500.00           15,512.42
+PT TELEKOMUNIKASI                            0.000     6291745      TLKM_     2,577,000.00        1,590,179.60
+PTT EXPLORATION & PROD-FOR                   0.063     6290333      PTTEP        87,600.00          263,150.60
+PTT PCL/FOREIGN                              0.038     6420390      PTT/F       330,000.00        1,152,759.48
+PUBLIC BANK BHD                              0.000     6707093      PBKF_     3,020,351.25        1,326,302.86
+RANBAXY LABORATORIES LTD                     0.030     6101071      RBXY_        31,081.00          261,165.84
+RATCHABURI ELEC GEN HODG-FOR                 0.000     6294249      RATCH       290,000.00          304,555.64
+RELIANCE INDS-SPONS GDR 144A                 1.469     4731146      RIGD_        41,689.00          718,723.78
+RELIANCE INDUSTRIES                          0.000     6099626      RIL_I       198,510.00        1,234,322.13
+RESORTS WORLD BERHAD                         0.456     6731962      RNB_M       550,000.00        1,259,594.80
+SABMILLER PLC                                0.008     6145240      SAB_S        98,000.00          651,531.87
+SAMPO CORP                                   0.000     6771924      1604_     4,000,000.00        1,775,333.76
+SAMSUNG ELEC MECH                            0.000     6771689      00915        59,000.00        1,810,430.01
+SAMSUNG ELECTRONIC                           0.000     6771720      00593        45,922.00        7,834,828.84
+SAMSUNG FIRE + MAR                           0.000     6155250      00081        56,308.00        1,748,606.96
+SAMSUNG HEAVY INDUSTRIES                     0.000     6772217      01014       281,154.00          857,769.97
+SAPPI ZARI(SICOVAM                           0.000     6777007      SAP_S       130,000.00        1,647,028.93

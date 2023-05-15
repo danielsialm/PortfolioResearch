@@ -1,0 +1,52 @@
+ASOF02   Date 01/19/2006 Time 18:24:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 096
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 1TR       INTERNAL 1000 TRANSI
+Instrument - COM       COMMON STOCK
+
+W HLDG CO INC                              2.308 WHI     929251106      8.2300         3,900.00         48,771.61         32,097.00
+WACHOVIA CORP.                             3.859 WB      929903102Q    52.8600       106,781.00      4,850,937.07      5,644,443.66
+WAL MART STORES INC                        1.282 WMT     931142103Q    46.8000       242,271.00     12,115,338.41     11,338,282.81
+WALGREEN CO.                               0.587 WAG     931422109Q    44.2600        49,500.00      2,124,861.75      2,190,870.00
+WASHINGTON MUTUAL INC.                     4.505 WM      939322103     43.5000        45,958.00      1,894,405.97      1,999,173.01
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     26.8500         7,900.00        232,496.46        212,115.00
+WELLCARE HEALTH PLANS INC                  0.000 WCG     94946T106     40.8500         5,010.00        176,190.68        204,658.50
+WELLPOINT INC.                             0.000 WLP     94973V107     79.7900        47,103.00      3,459,066.52      3,758,348.37
+WELLS FARGO COMPANY                        3.310 WFC     949746101     62.8300         4,540.00        192,415.65        285,248.20
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     18.6100        28,516.00        397,757.12        530,682.76
+WORLD FUEL SVCS CORP                       0.444 INT     981475106     33.7200         6,380.00        228,698.31        215,133.60
+WYETH                                      2.170 WYE     983024100Q    46.0700        50,102.00      2,224,424.98      2,308,199.13
+XL CAPITAL LTD - CLASS A                   2.968 XL      G98255105     67.3800         8,544.00        628,964.51        575,694.72
+YUM BRANDS, INC.                           0.981 YUM     988498101     46.8800        24,576.00      1,225,675.94      1,152,122.88
+
+Instrument Total           326                                                    17,925,622.00    603,344,888.72    691,227,084.05
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+CBL & ASSOC PROP                           4.112 CBL     124830100     39.5100         6,831.00        270,518.89        269,892.81
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300       103,300.00      2,934,550.37      3,133,089.00
+EQUITY RESIDENTIAL PROP                    4.524 EQR     29476L107Q    39.1200        27,000.00        967,326.84      1,056,240.00
+HEALTH CARE PPTY INV                       6.572 HCP     421915109     25.5600         4,571.00        112,355.09        116,834.76
+HEALTH CARE REIT INC                       7.315 HCN     42217K106     33.9000        23,099.00        808,538.44        783,056.10
+HIGHWOODS PROP INC.                        2.309 HIW     431284108Q    28.4500         3,454.00         95,296.33         98,266.30
+HOSPITALITY PROPERTIES                     7.281 HPT     44106M102     40.1000        11,037.00        473,321.45        442,583.70
+HRPT PROPERTIES TRUST                      8.115 HRP     40426W101     10.3500        12,783.00        159,635.87        132,304.05
+KIMCO REALTY CORP                          4.114 KIM     49446R109Q    32.0800        46,962.00      1,035,480.59      1,506,540.96
+KKR FINANCIAL CORP                         5.335 KFN     482476306     23.9900         1,202.00         26,824.92         28,835.98
+LIBERTY PROPERTY TRUST                     5.741 LRY     531172104Q    42.8500         3,869.00        163,628.60        165,786.63
+MACERICH CO                                4.051 MAC     554382101     67.1400         2,887.00        132,971.32        193,833.18
+MACK-CALI RE CORP.                         5.833 CLI     554489104     43.2000        13,434.00        587,927.37        580,348.78
+MILLS CORP.                                5.984 MLS     601148109     41.9400        10,330.00        420,923.56        433,240.19
+NEW PLAN EXCEL RE TRUST                    5.392 NXL     648053106Q    23.1800         2,717.00         58,926.70         62,980.06
+TRIZEC PROPERTIES INC                      3.490 TRZ     89687P107     22.9200        40,581.00        766,431.35        930,116.52
+VENTAS INC.                                4.497 VTR     92276F100     32.0200         7,661.00        205,262.46        245,305.22
+
+Instrument Total            17                                                       321,718.00      9,219,920.15     10,179,254.24
+
+Portfolio Total            343                                                    18,247,340.00    612,564,808.87    701,406,338.29
+

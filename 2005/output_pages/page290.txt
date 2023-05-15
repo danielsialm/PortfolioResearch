@@ -1,0 +1,34 @@
+ASOF10   Date 01/19/2006 Time 18:24:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 073
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+XILINX INC                                   1.110     983919101   XLNX            11,100          289,839.89          279,831.00
+XL CAPITAL LTD - CLASS A                     2.968     G98255105   XL             570,544       40,342,581.54       38,443,254.72
+XM SATELLITE RADIO HOLD-CL A                 0.000     983759101   XMSR           675,600       20,934,778.78       18,430,368.00
+XTO ENERGY INC.                              0.682     98385X106   XTO            209,633        9,101,596.32        9,211,274.02
+YAHOO INC                                    0.000     984332106   YHOO         1,392,800       46,290,004.11       54,569,904.00
+YANKEE CANDLE CO                             0.976     984757104   YCC             48,000        1,307,830.72        1,228,800.00
+YARDVILLE NATL BANCO                         1.327     985021104   YANB             9,000          225,566.04          311,850.00
+YELLOW ROADWAY CORP                          0.000     984249102   YRCW           160,700        7,412,573.22        7,168,827.00
+YOUNG INNOVATIONS IN                         0.469     987520103   YDNT            13,800          478,422.66          470,304.00
+YUM BRANDS, INC.                             0.981     988498101   YUM            478,176       14,708,387.93       22,416,890.88
+ZALE CORP.                                   0.000     988858106   ZLC             70,994        1,883,806.52        1,785,499.10
+ZEBRA TECHNOLOGIES CORP CL-A                 0.000     989207105   ZBRA            57,940        1,852,907.84        2,482,729.00
+ZENITH NATIONAL INSURANCE CP                 2.168     989390109   ZNT             34,450          991,590.36        1,588,834.00
+ZHONE TECHNOLOGIES INC                       0.000     98950P108   ZHNE           116,300          299,665.19          246,556.00
+ZIMMER HOLDINGS INC                          0.000     98956P102   ZMH            280,900       12,280,572.00       18,943,896.00
+ZIONS BANCORPORATION                         1.905     989701107   ZION           292,980       21,002,794.29       22,137,568.80
+ZOLL MEDICAL CORP                            0.000     989922109   ZOLL            10,100          334,462.85          254,419.00
+ZORAN CORP                                   0.000     98975F101   ZRAN           695,386        7,578,795.75       11,272,207.06
+ZUMIEZ INC                                   0.000     989817101   ZUMZ            13,900          454,901.83          600,758.00
+ZYMOGENETICS INC                             0.000     98985T109   ZGEN             4,710           70,214.48           80,117.10
+
+Instrument Total                  2,700                                       844,795,401   21,397,989,302.24   26,343,804,177.09
+
+Group Total                       2,835                                       853,774,923   21,609,423,596.22   26,581,917,279.18

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+FORWARD AIR CORPORATION                      0.000     349853101   FWRD            23,900          952,801.35          463,899.01
+FOSSIL INC.                                  0.000     349882100   FOSL            60,350        1,097,526.98        1,227,519.00
+FOUNDRY NETWORKS INC                         0.000     35063R100   FDRY            24,800          217,914.09          174,592.00
+FOX ENTERTAINMENT GRP INC. - CL A            0.000     35138T107   FOX            115,600        2,356,815.26        2,997,508.01
+FPL GROUP INC.                               3.858     302571104 Q FPL            379,252       18,943,222.56       22,804,422.76
+FRANKLIN RESOURCES INC                       0.880     354613101 Q BEN            499,842       18,091,577.32       17,034,615.36
+FRED'S INC                                   0.466     356108100   FRED            45,110        1,212,987.08        1,159,327.00
+FREDDIE MAC                                  1.490     313400301 Q FRE          1,664,167       78,793,398.94       98,269,061.35
+FREEMARKETS INC                              0.000     356602102   FMKT            28,170          154,939.75          181,386.63
+FREEPORT MCMORAN CLASS B                     0.000     35671D857   FCX            554,650        8,060,165.63        9,307,027.00
+FREMONT GENERAL CORP.                        1.781     357288109   FMT             82,000          415,350.11          368,179.99
+FRONTIER AIRLINES INC                        0.000     359065109   FRNT            26,200          608,750.79          177,112.00
+FRONTIER OIL CORP                            1.161     35914P105   FTO             28,700          635,685.00          494,214.00
+FTI CONSULTING INC                           0.000     302941109   FCN             29,870          953,405.55        1,199,280.50
+FULLER H B CO                                1.700     359694106 Q FUL             31,200          783,246.69          807,456.00
+FULTON FINANCIAL CORP                        3.397     360271100   FULT             4,700           88,490.49           83,002.00
+FURNITURE BRANDS INTERNATIONAL INC.          0.000     360921100   FBN            138,300        2,723,972.39        3,298,455.00
+G & K SERV. CL-A                             0.197     361268105 Q GKSRA           22,900          867,189.04          810,682.90
+GADZOOKS INC                                 0.000     362553109   GADZ            22,700          427,483.56          106,690.00
+GALLAGHER (ARTHUR) J & CO.                   2.042     363576109 Q AJG            165,700        3,410,350.65        4,868,266.00
+GANNETT INC                                  1.337     364730101 Q GCI            547,175       29,592,469.53       39,287,165.00
+GAP INC                                      0.579     364760108 Q GPS          1,972,409       37,294,203.68       30,611,787.69
+GARDNER DENVER MACHINERY                     0.000     365558105 Q GDI             15,600          248,131.58          316,680.00
+GARTNER INC-CL A                             0.000     366651107   IT              66,400          685,968.82          610,880.02
+GARTNER INC-CL B                             0.000     366651206   IT.B            12,239          178,373.56          115,658.55
+GATEWAY INC.                                 0.000     367626108   GTW            609,395       23,171,707.06        1,913,500.30
+GATX CORP                                    5.609     361448103   GMT            201,200        7,766,686.04        4,591,384.00
+GBC BANCORP/CALIFORNIA                       2.479     361475106   GBCB            10,800          346,350.29          209,088.00
+GEMSTAR-TV GUIDE INTL INC                    0.000     36866W106   GMSTE          572,100        4,153,240.05        1,859,325.00
+GENCORP INC                                  1.515     368682100 Q GY             128,600        1,390,646.95        1,018,512.00
+GENELABS TECHNOLOGIES INC                    0.000     368706107   GNLB           151,800          335,061.20          257,908.20
+GENENCOR INTERNATIONAL INC                   0.000     368709101   GCOR            51,000          580,994.01          498,780.00
+GENENTECH INC.                               0.000     368710406   DNA             28,950        1,013,834.23          959,982.00
+GENERAL CABLE CORP                           5.263     369300108   BGC            100,400          280,492.43          381,520.00
+GENERAL COMMUNICATION                        0.000     369385109   GNCMA           62,100          438,742.47          416,691.00
+GENERAL DYNAMICS CORP.                       1.511     369550108 Q GD             314,056       18,216,816.64       24,926,624.72
+GENERAL ELECTRIC CO                          3.121     369604103 Q GE          20,607,820      474,346,278.62      501,800,417.01
+GENERAL MILLS INC                            2.342     370334104 Q GIS            698,809       28,291,676.46       32,809,082.55
+GENERAL MOTORS CORP                          5.425     370442105 Q GM           1,099,132       58,029,111.17       40,514,005.52
+GENESCO INC.                                 0.000     371532102   GCO            155,978        3,015,582.83        2,905,870.16

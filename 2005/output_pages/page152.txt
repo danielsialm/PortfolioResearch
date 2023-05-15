@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 119
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+REPUBLIC AIRWAYS HOLDINGS INC              0.000 RJET    760276105     15.2000           100.00          1,197.51          1,520.00
+REPUBLIC BANCORP INC                       3.697 RBNC    760282103     11.9000           300.00          3,233.94          3,570.00
+RES-CARE INC                               0.000 RSCR    760943100     17.3700           700.00          9,053.80         12,159.00
+RESOURCE AMERICA INC                       1.407 REXI    761195205     17.0500           100.00            942.18          1,705.00
+RESOURCES GLOBAL PROFESSIONALS             0.000 RECN    76122Q105     26.0600           200.00          3,853.64          5,212.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      6.0200         5,400.00         34,815.68         32,508.00
+RETAIL VENTURES INC                        0.000 RVI     76128Y102     12.4400         3,000.00         33,141.60         37,320.00
+REVLON INC - CL A                          0.000 REV     761525500      3.1000        24,300.00         76,723.08         75,330.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100      5.4100           600.00          3,836.89          3,246.00
+RIGEL PHARMACEUTICALS INC                  0.000 RIGL    766559603      8.3600         1,000.00         22,332.72          8,360.00
+RIMAGE CORP                                0.000 RIMG    766721104     28.9800           300.00          6,168.74          8,694.00
+RLI CORP                                   1.363 RLI     749607107     49.8700           200.00          6,460.90          9,974.00
+ROANOKE ELEC STL COR                       1.864 RESC    769841107     23.6000         3,300.00         54,134.34         77,880.00
+ROCK-TENN COMPANY CL A                     2.637 RKT     772739207     13.6500           100.00          1,622.26          1,365.00
+ROCKWOOD HOLDINGS INC                      0.000 ROC     774415103     19.7300         3,600.00         68,652.00         71,028.00
+ROFIN-SINAR TECHNOLOGIES INC               0.000 RSTI    775043102     43.4700           400.00         11,409.48         17,388.00
+ROLLINS INC                                1.014 ROL     775711104     19.7100         3,000.00         51,112.52         59,130.00
+ROYAL GOLD INC                             0.633 RGLD    780287108     34.7300           100.00          1,777.42          3,473.00
+RPC INC                                    0.406 RES     749660106     26.3400         1,600.00         19,623.91         42,144.00
+RSA SECURITY INC.                          0.000 RSAS    749719100     11.2300           300.00          4,420.28          3,369.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     37.9500           100.00          1,622.15          3,795.00
+RUDDICK CORP.                              2.067 RDK     781258108Q    21.2800           100.00          1,328.40          2,128.00
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     12.8800           100.00          1,789.11          1,288.00
+RUSSELL CORP                               1.188 RML     782352108Q    13.4600           100.00          1,798.04          1,346.00
+RUTH'S CHRIS STEAK HOUSE INC               0.000 RUTH    783332109     18.1000         2,300.00         42,320.00         41,630.00
+RYANS RESTAURANT GROUP INC                 0.000 RYAN    783520109     12.0600           800.00          9,929.46          9,648.00
+RYERSON TULL, INC.                         0.822 RYI     78375P107Q    24.3200           800.00          9,598.85         19,456.00
+S & T BANCORP INC                          3.150 STBA    783859101     36.8200           100.00          3,135.04          3,682.00
+SAFENET INC                                0.000 SFNT    78645R107     32.2200           100.00          2,861.36          3,222.00
+SAFETY INSURANCE GROUP INC                 1.783 SAFT    78648T100     40.3700           200.00          4,040.31          8,074.00
+SALIX PHARMACEUTICAL                       0.000 SLXP    795435106     17.5800         4,400.00         78,315.09         77,352.00
+SANTANDER BANCORP                          2.547 SBP     802809103     25.1200         2,200.00         53,851.37         55,264.00
+SAPIENT CORP                               0.000 SAPE    803062108      5.6900           200.00          1,090.21          1,138.00
+SAUER-DANFOSS INC                          2.551 SHS     804137107     18.8100         1,800.00         19,755.65         33,858.00
+SAVIENT PHARMACEUTICALS INC                0.000 SVNTE   80517Q100      3.7400         2,300.00          8,567.11          8,602.00
+SCANSOURCE INC                             0.000 SCSC    806037107     54.6800           100.00          3,633.37          5,468.00
+SCHNITZER STL INDS                         0.222 SCHN    806882106     30.5900           200.00          4,986.20          6,118.00
+SCHOLASTIC CORP                            0.000 SCHL    807066105     28.5100         1,600.00         49,110.05         45,616.00
+SCHWEITZER-MAIDUIT INTL INC                2.421 SWM     808541106     24.7800           100.00          2,795.36          2,478.00

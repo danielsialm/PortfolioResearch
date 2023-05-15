@@ -1,25 +1,14 @@
-ASOF02   Date 01/24/2002 Time 21:29:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 126
+ASOF10   Date 01/24/2002 Time 21:29:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
 
 Monthly Market Portfolio
 
-Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - ALTERNATIVE INVESTMENTS
-Portfolio  - AI-VC     VENTURE CAPITAL
-Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+Group - COMMON STOCK
+Instrument - FUTURES5  FUTURES EXPOSURE
 
-PRIMUS CAPITAL FUND V                      0.000 9940481YAVPRIMUS5      0.0000     8,910,000.00      8,910,000.00      7,225,024.00
-PRISM VENTURE PARTNERS IV                  0.000 9940608YAVPRISM4       0.0000     3,000,000.00      3,000,000.00      3,000,000.00
-SPACEVEST II                               0.000 VEASPVE VEASPVE        0.0000     7,118,981.53      7,118,981.25      9,653,740.00
-TAPE III                                   0.000 AVTAPE3 AVTAPE3        0.0000     2,450,000.00      2,450,000.00      2,039,364.00
-TUCKER ANTHONY PRIVATE EQUITY              0.000 9940608ZAVTAPE4        0.0000     1,500,000.00      1,500,000.00      1,500,000.00
-WARBURG PINCUS EQUITY PARTNERS             0.000 9940482BAWARBURG       0.0000    63,253,696.80     63,253,696.75     74,497,000.03
-WARBURG PINCUS VIII                        0.000 AWARBURGAWARBURG8      0.0000     9,200,000.00      9,200,000.00      8,987,648.99
+S&P FUTURES INDEX 03/02                      0.000     CD:SP02H0   CD:SP              500      142,843,750.00      143,650,000.00
 
-Instrument Total            46                                                   319,820,757.40    319,820,756.80    306,449,115.68
-
-Portfolio Total             46                                                   319,820,757.40    319,820,756.80    306,449,115.68
-
-Group Total                 95                                          0.00 /   945,494,831.96    990,533,478.01    966,465,316.70
+Instrument Total                      1                                               500      142,843,750.00      143,650,000.00
 

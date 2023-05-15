@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 074
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+CB BANCSHARES INC HA                       2.286 CBBI    124785106     62.9750         5,200.00        323,364.38        327,470.00
+CCBT FINL COS INC                          2.174 CCBT    12500Q102     34.9500         4,300.00        112,934.79        150,285.00
+CCC INFORMATION SVCS                       0.000 CCCG    12487Q109     16.9000        15,000.00        232,004.20        253,500.00
+CDI CORP.                                  1.099 CDI     125071100     32.7500        14,700.00        452,219.82        481,425.00
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     47.3900        28,300.00        742,409.30      1,341,137.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     13.9100        97,900.00      1,106,187.75      1,361,788.99
+CELL GENESYS INC                           0.000 CEGE    150921104     12.9400        41,500.00        433,749.69        537,010.00
+CELL THERAPEUTICS INC                      0.000 CTIC    150934107      8.7000        53,700.00        593,566.84        467,190.00
+CENTENE CORP                               0.000 CNC     15135B101     28.0100        21,100.00        502,556.80        591,011.00
+CENTER BANCORP INC                         1.831 CNBC    151408101     19.6600         9,100.00        149,567.37        178,906.00
+CENTER FINANCIAL CORP                      1.174 CLFC    15146E102     27.2500         5,600.00         88,152.18        152,600.00
+CENTEX CONSTRUCTION                        0.331 CXP     15231R109     60.2700         7,900.00        336,315.78        476,133.00
+CENTILLIUM COMMUNICATIONS INC              0.000 CTLM    152319109      5.6300        63,600.00        555,040.68        358,068.00
+CENTRAL COAST BANCOR                       0.000 CCBN    153145107     18.1400         9,900.00        174,359.95        179,586.00
+CENTRAL EUROPEAN DISTRIBUTION              0.000 CEDC    153435102     31.6000         8,400.00        170,829.22        265,440.00
+CENTRAL GARDEN & PET                       0.000 CENT    153527106     28.0300        19,100.00        518,141.63        535,373.01
+CENTRAL HUDSON GAS & ELEC.                 4.605 CHG     12541M102     46.9000        17,400.00        700,853.24        816,060.00
+CENTRAL PACIFIC FINANCIAL CORP             2.130 CPF     154760102     30.0400        17,300.00        468,264.47        519,692.00
+CENTRAL PARKING CORP.                      0.401 CPC     154785109     14.9300        21,900.00        627,244.96        326,967.00
+CENTRAL VERMONT PUB SERV                   3.914 CV      155771108     23.5000        14,300.00        253,628.88        336,050.00
+CENTURY ALUMINUM COMPANY                   1.052 CENX    156431108     19.0100         5,500.00         74,423.16        104,555.00
+CENTURY BANCORP INC                        1.353 CNBKA   156432106     35.4600         3,900.00        122,565.66        138,294.00
+CENTURY BUSINESS SVC                       0.000 CBIZ    156490104      4.4700        87,900.00        293,369.26        392,913.00
+CEPHEID                                    0.000 CPHD    15670R107      9.5800        14,200.00         69,402.33        136,035.99
+CERADYNE INC                               0.000 CRDN    156710105     34.0600        10,000.00        284,006.10        340,600.00
+CERNER CORP.                               0.000 CERN    156782104     37.8500        34,200.00        873,283.10      1,294,470.00
+CFS BANCORP INC                            2.965 CITZ    12525D102     14.8400        11,600.00        172,735.34        172,144.00
+CHAMPION ENTERPRISES INC.                  0.000 CHB     158496109      7.0000        41,000.00        240,168.53        287,000.00
+CHARLES RIVER ASSOCI                       0.000 CRAI    159852102     31.9900         9,500.00        301,757.17        303,905.00
+CHARLOTTE RUSSE HOLDING INC                0.000 CHIC    161048103     13.8600        13,700.00        159,428.76        189,882.00
+CHARMING SHOPPES                           0.000 CHRS    161133103      5.4000       123,100.00        658,001.82        664,740.00
+CHARTER COMMUNICATIONS                     0.000 CHTR    16117M107      4.0200       275,000.00        963,994.60      1,105,499.99
+CHARTER FINL CORP WE                       2.146 CHFN    16122M100     37.2700           300.00          9,192.22         11,181.01
+CHARTER MUNICIPAL MTG ACCEPTAN             7.004 CHC     160908109     21.1300        49,800.00        965,490.10      1,052,274.00
+CHATTEM INC                                0.000 CHTT    162456107     17.9000         7,200.00        122,201.75        128,880.00
+CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     18.9100        41,400.00        624,162.03        782,874.00
+CHEMICAL FINL CORP                         2.912 CHFC    163731102     36.3900        28,600.00        927,284.73      1,040,754.00
+CHEROKEE INC DEL NEW                       1.649 CHKE    16444H102     22.7400        14,100.00        306,365.41        320,634.00
+CHESAPEAKE CORP                            3.323 CSK     165159104     26.4800        23,500.00        540,563.19        622,280.00

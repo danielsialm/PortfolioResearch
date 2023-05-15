@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 030
+ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 032
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-MINERALS TECHNOLOGIES INC                    0.214     603158106   MTX             43,900        1,532,160.14        2,047,496.00
-MINN MINING & MFG CO                         2.030     604059105 Q MMM            748,200       62,538,504.42       88,444,722.00
-MIPS TECHNOLOGIES INC CL B                   0.000     604567206   MIPSB           78,100        2,208,961.31          623,238.00
-MIRANT CORP                                  0.000     604675108   MIR          1,409,236       26,422,343.87       22,575,960.68
-MOBILE MINI INC.                             0.000     60740F105   MINI            13,800          398,268.00          539,856.00
-MODINE MANUFACTURING CO                      4.286     607828100   MODI            54,900        1,383,185.68        1,280,817.00
-MOHAWK INDUSTRIES INC.                       0.000     608190104   MHK             96,700        2,029,738.36        5,306,896.00
-MOLEX INC                                    0.323     608554101   MOLX           283,196        9,083,089.78        8,764,916.19
-MONACO COACH CORPORATION                     0.000     60886R103   MNC             54,150          776,250.02        1,184,260.50
-MONOLITHIC SYSTEM TECHNOLOGY                 0.000     609842109   MOSY            10,700          147,874.00          220,420.00
-MONTANA POWER CO                             0.000     612085100   MTP            212,400        7,541,051.72        1,221,300.00
-MOODY’S CORPORATION                          0.451     615369105   MCO            136,710        2,769,112.49        5,449,260.59
-MOOG INC. CL A                               0.000     615394202   MOG.A           22,650          459,560.23          493,770.00
-MORGAN STANLEY DEAN WITTER & COMPANY         1.644     617446448 Q MWD          2,198,964       99,014,729.19      123,010,046.17
-MOTOROLA INC                                 1.065     620076109 Q MOT          4,700,084      116,168,102.61       70,595,261.90
-MOVIE GALLERY INC                            0.000     624581104   MOVI             9,700          233,497.16          236,292.00
-MPS GROUP INC                                0.000     553409103   MPS            332,000        1,947,003.11        2,370,480.00
-MRO SOFTWARE INC                             0.000     55347W105   MROI            22,500          799,231.63          526,050.00
-MSA INDUSTRIAL DIRECT CO-A                   0.000     553530106   MSM             32,000          523,794.07          632,000.00
-MTR GAMING GROUP INC                         0.000     553769100   MNTG            17,900          270,453.23          286,400.00
-MUELLER INDUSTRIES INC.                      0.000     624756102   MLI             44,600        1,212,718.47        1,482,950.00
-MURPHY OIL CORP                              1.784     626717102 Q MUR             89,500        3,491,847.63        7,521,580.00
-MUTUAL RISK MANAGEMENT LTD                   0.547     628351108   MM              41,100          891,649.15          300,030.00
-MYERS INDUSTRIES INC.                        1.758     628464109 Q MYE             23,430          325,268.96          319,819.50
-MYLAN LABS                                   0.426     628530107 Q MYL            268,200        7,652,943.24       10,057,500.00
-MYRIAD GENETICS INC                          0.000     62855J104   MYGN            12,213          648,817.32          642,892.32
-NABORS INDUSTRIES                            0.000     629568106   NBR          1,157,037       31,123,717.20       39,721,080.21
-NASH FINCH CO.                               1.157     631158102   NAFC            18,900          343,431.07          587,790.00
-NASSDA CORP                                  0.000     63172M101   NSDA            34,940          581,919.23          785,800.60
-NATIONAL CITY CORP                           4.035     635405103 Q NCC          1,243,190       32,860,724.73       36,350,875.61
-NATIONAL COMMERCE FINANCIAL                  2.371     63545P104   NCF            418,150        8,825,839.43       10,579,195.00
-NATIONAL FUEL & GAS                          4.089     636180101 Q NFG            145,700        3,605,805.44        3,598,790.00
-NATIONAL INSTRUMENTS CORP.                   0.000     636518102   NATI            71,800        1,969,499.92        2,689,628.00
-NATIONAL PRESTO INDS INC                     7.207     637215104   NPK              6,500          242,578.58          180,375.00
-NATIONAL SEMICONDUCTOR CORP.                 0.000     637640103   NSM            306,920        8,132,149.02        9,450,066.80
-NATIONAL-OILWELL INC.                        0.000     637071101   NOI            208,700        6,262,302.67        4,301,307.00
-NATURES SUNSHINE PRODS INC.                  1.107     639027101   NATR            22,600          186,283.13          265,324.00
-NAUTICA ENTERPRISES INC.                     0.000     639089101   NAUT            38,200          923,486.66          488,578.00
-NAVISTAR INTL. CORP.                         0.000     63934E108   NAV            119,822        3,404,172.04        4,732,968.98
-NBTY INC.                                    0.000     628782104   NBTY           111,700        1,006,324.60        1,306,890.00
+NSTAR CO.                                    4.593     67019E107   NST            101,800        4,189,920.94        4,565,730.00
+NUCOR CORP                                   1.284     670346105 Q NUE            213,729       10,177,894.93       11,319,087.82
+NUEVO ENERGY COMPANY                         0.000     670509108   NEV             16,200          305,070.30          243,000.00
+NUI CORP                                     4.135     629431107   NUI              7,400          228,700.44          175,380.00
+NVIDIA CORP                                  0.000     67066G104   NVDA           287,200        9,987,296.41       19,213,679.98
+NVR INC                                      0.000     62944T105   NVR              7,800          468,046.74        1,591,200.00
+NYFIX INCORPORATED                           0.000     670712108   NYFX            83,800        1,935,835.29        1,677,676.00
+O’CHARLEYS INC                               0.000     670823103   CHUX            24,600          432,219.28          455,345.98
+O’REILLY AUTOMOTIVE INC.                     0.000     686091109   ORLY            79,330        1,455,660.45        2,893,165.10
+OAK TECHNOLOGY INC                           0.000     671802106   OAKT            56,800          528,838.06          781,000.00
+OAKLEY INC.                                  0.000     673662102   OO              23,700          296,157.07          385,361.99
+OCCIDENTAL PETROLEUM CORP.                   3.769     674599105 Q OXY            667,540       15,340,729.92       17,709,836.22
+OCEAN ENERGY INC                             0.833     67481E106   OEI            366,400        5,258,466.97        7,034,880.00
+OCEANEERING INT’L. INC.                      0.000     675232102   OII             47,910          913,279.00        1,059,769.20
+ODYSSEY HOLDINGS CORP                        0.565     67612W108   ORH             98,100        1,663,429.65        1,736,370.00
+OFFICE DEPOT INC                             0.000     676220106   ODP            543,609        7,657,740.40       10,078,510.85
+OFFSHORE LOGISTICS                           0.000     676255102   OLOG            73,700        1,586,611.51        1,308,912.00
+OGE ENERGY CORP                              5.762     670837103   OGE            144,500        3,876,698.21        3,335,060.00
+OHIO CASUALTY CORP.                          0.000     677240103 Q OCAS           112,900        1,204,378.96        1,812,045.00
+OLD REPUBLIC INT’L CORP.                     2.142     680223104   ORI            248,600        5,995,463.27        6,963,286.00
+OLIN CORP                                    4.956     680665205 Q OLN             92,400        1,910,094.50        1,491,336.00
+OM GROUP, INC.                               0.785     670872100 Q OMG             23,600          521,450.13        1,562,084.00
+OMI CORPORATION                              0.000     Y6476W104   OMM             73,800          547,389.36          293,724.00
+OMNICELL INC                                 0.000     68213N109   OMCL            81,600          649,604.55          726,240.00
+OMNICOM GROUP                                0.895     681919106   OMC            359,898       22,484,037.40       32,156,886.29
+OMNOVA SOLUTIONS INC                         0.000     682129101   OMN             39,000          277,520.30          265,200.00
+ON ASSIGNMENT INC                            0.000     682159108   ASGN             2,500           66,217.09           57,425.00
+ONEOK INC.                                   3.475     682680103 Q OKE            118,800        1,837,764.65        2,119,391.99
+ONMICARE INC.                                0.361     681904108   OCR            186,800        3,885,527.59        4,647,584.00
+OPTIMAL ROBOTICS CORP.                       0.000     68388R208   OPMR            29,600          764,162.37        1,049,319.98
+ORACLE SYS. CORP.                            0.000     68389X105   ORCL        11,168,926      116,224,578.02      154,242,868.05
+ORATEC INTERVENTIONS INC                     0.000     68554M108   OTEC            27,000          146,725.10          174,690.00
+ORBITAL SCIENCES CORP.                       0.000     685564106   ORB            205,100          792,400.15          847,063.00
+ORGANOGENESIS INC.                           0.000     685906109   ORG             24,100          285,697.73          115,680.00
+ORTHODONTIC CENTERS OF AMER                  0.000     68750P103   OCA             47,800          835,033.24        1,457,900.00
+ORTHOLOGIC CORP                              0.000     68750J107   OLGC           110,000          456,922.40          537,900.00
+OSHKOSH B’GOSH CL-A                          0.572     688222207 Q GOSHA           30,200          904,453.83        1,266,588.00
+OSHKOSH TRUCK CORPORATION                    0.717     688239201   OTRKB           26,700          957,975.35        1,301,625.00
+OSTEOTECH INC                                0.000     688582105   OSTE               100            1,996.88              555.00
+OUTBACK STEAKHOUSE INC                       0.000     689899102   OSI            175,450        5,061,974.89        6,009,162.50

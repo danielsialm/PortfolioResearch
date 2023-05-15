@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 103
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 500
+Instrument - COM       COMMON STOCK
+
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     49.7700         9,300.00        590,216.13        462,861.00
+ELI LILLY & COMPANY                        2.110 LLY     532457108Q    63.5000        22,100.00      1,071,310.45      1,403,350.00
+EMERSON ELECTRIC CO                        3.087 EMR     291011104Q    50.8500        11,800.00        476,336.22        600,030.00
+ENTERGY CORP.                              3.070 ETR     29364G103Q    45.5900        12,200.00        524,762.26        556,198.00
+EXELEON CORP                               3.335 EXC     30161N101Q    52.7700        12,000.00        526,216.80        633,240.00
+EXXON MOBIL CORPORATION                    2.633 XOM     30231G102Q    34.9400       396,200.00     10,731,697.18     13,843,228.00
+FED. NATL. MTG. ASSN.                      2.051 FNM     313586109Q    64.3300        40,600.00      2,248,883.90      2,611,798.00
+FEDERATED DEPARTMENT STORES                0.000 FD      31410H101     28.7600        18,600.00        746,609.80        534,936.00
+FEDERATED INVESTORS INC.-CL B              0.906 FII     314211103     25.3700        23,600.00        672,437.16        598,732.00
+FEDEX CORPORATION                          0.368 FDX     31428X106     54.2200        23,300.00        989,842.73      1,263,326.00
+FIFTH THIRD BANCORP                        1.776 FITB    316773100Q    58.5500        55,000.00      3,049,389.36      3,220,250.00
+FIRST AMERICAN CORP.                       1.801 FAF     318522307     22.2000        27,000.00        501,354.90        599,400.00
+FIRST DATA CORP                            0.225 FDC     319963104Q    35.4100        53,600.00      1,002,627.99      1,897,976.00
+FIRST ENERGY CORP.                         4.549 FE      337932107Q    32.9700        23,500.00        638,187.34        774,795.00
+FORD MOTOR COMPANY                         4.301 F       345370860      9.3000        66,700.00        660,463.40        620,310.00
+FOREST LABORATORIES INC.                   0.000 FRX     345838106     98.2200        25,600.00      1,848,072.29      2,514,432.00
+FOX ENTERTAINMENT GRP INC. - C             0.000 FOX     35138T107     25.9300       115,600.00      2,356,815.26      2,997,508.01
+FPL GROUP INC.                             3.858 FPL     302571104Q    60.1300        20,800.00      1,122,963.85      1,250,704.00
+FREDDIE MAC                                1.490 FRE     313400301Q    59.0500        41,100.00      1,842,241.60      2,426,955.00
+FREEPORT MCMORAN CLASS B                   0.000 FCX     35671D857     16.7800        32,900.00        471,212.68        552,062.00
+GENERAL DYNAMICS CORP.                     1.511 GD      369550108Q    79.3700         6,200.00        360,760.05        492,094.00
+GENERAL ELECTRIC CO                        3.121 GE      369604103Q    24.3500       601,100.00     16,876,999.67     14,636,785.00
+GENERAL MOTORS CORP                        5.425 GM      370442105Q    36.8600       119,700.00      5,598,868.62      4,412,142.00
+GILEAD SCIENCES INC.                       0.000 GILD    375558103     34.0000        23,800.00        855,883.70        809,200.00
+GILLETTE CO                                2.141 G       375766102Q    30.3600        47,500.00      1,656,789.07      1,442,100.00
+GOODYEAR T & R                             7.048 GT      382550101Q     6.8100        31,800.00        685,992.76        216,558.00
+GRAINGER W W INC                           1.396 GWW     384802104Q    51.5500        19,900.00        976,873.75      1,025,845.00
+GUIDANT CORP.                              0.000 GDT     401698105Q    30.8500        28,400.00      1,041,271.60        876,140.00
+HARLEY-DAVIDSON INC                        0.303 HDI     412822108Q    46.2000        14,200.00        532,498.25        656,040.00
+HARTFORD FINL SERVICES                     2.377 HIG     416515104     45.4300        19,400.00        993,245.95        881,342.00
+HCA INC                                    0.192 HCA     404119109     41.5000        13,200.00        382,443.32        547,800.00
+HEWLETT-PACKARD CO                         1.843 HPQ     428236103Q    17.3600       357,600.00      8,909,179.50      6,207,936.00
+HIBERNIA CORP CL-A                         3.115 HIB     428656102     19.2600        25,000.00        507,687.50        481,500.00
+HOME DEPOT INC.                            1.001 HD      437076102Q    23.9600        29,200.00      1,004,819.45        699,632.00
+HONEYWELL INTERNATIONAL INC                3.125 HON     438516106Q    24.0000        57,600.00      2,107,771.23      1,382,400.00
+HUDSON CITY BANCORP INC                    2.361 HCBK    443683107     18.6300        27,600.00        503,018.28        514,188.00
+ILLINOIS TOOL WORKS                        1.418 ITW     452308109Q    64.8600        14,300.00        915,280.07        927,498.00
+INTEL CORP.                                0.513 INTC    458140100Q    15.5700       412,200.00     11,478,652.08      6,417,954.00
+INTERNATIONAL PAPER                        2.859 IP      460146103Q    34.9700        46,300.00      1,660,223.01      1,619,111.00

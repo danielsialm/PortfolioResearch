@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 063
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+AVOCENT CORPORATION                        0.000 AVCT    053893103     22.2200         6,600.00        207,160.52        146,652.00
+BANDAG INC                                 3.309 BDG     059815100Q    38.6800         2,800.00        138,983.03        108,304.00
+BANK OF HAWAII CORP                        2.500 BOH     062540109     30.3900         9,500.00        230,372.48        288,705.00
+BANKNORTH GROUP INC.                       2.654 BNK     06646R107     22.6000        21,800.00        367,931.93        492,680.00
+BANTA CORP                                 2.046 BN      066821109     31.2700         3,700.00        101,357.42        115,699.00
+BARNES & NOBLE INC.                        0.000 BKS     067774109     18.0700         9,900.00        285,971.91        178,893.00
+BARR LABORATORIES INC.                     0.000 BRL     068306109     65.0900         6,450.00        259,074.32        419,830.50
+BECKMAN COULTER INC.                       1.219 BEC     075811109     29.5200         9,200.00        224,531.98        271,584.00
+BELO CORP                                  1.407 BLC     080555105Q    21.3200        16,600.00        390,007.78        353,912.00
+BISYS GROUP INC.                           0.000 BSG     055472104     15.9000        17,700.00        201,369.74        281,430.00
+BJ'S WHOLESALE CLUB INC.                   0.000 BJ      05548J106     18.3000        10,300.00        163,629.43        188,490.00
+BLACK HILLS CORP                           4.374 BKH     092113109     26.5200         4,000.00        101,974.77        106,080.00
+BLYTH INC.                                 0.822 BTH     09643P108     26.7600         6,800.00        220,376.70        181,968.00
+BOB EVANS FARMS                            1.884 BOBE    096761101Q    23.3500         5,200.00        102,377.57        121,420.00
+BORDERS GROUP INC                          0.000 BGP     099709107     16.1000        11,700.00        386,214.27        188,370.00
+BORG WARNER INC.                           1.428 BWA     099724106     50.4200         4,000.00        205,303.77        201,680.00
+BOWATER INC.                               1.907 BOW     102183100Q    41.9500         8,100.00        358,371.11        339,795.00
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     32.2500        14,250.00        158,817.22        459,562.50
+BROADWING INC.                             0.000 BRW     111620100      3.5200        32,200.00        606,394.04        113,344.00
+BROWN & BROWN INC                          0.711 BRO     115236101     32.3200        10,200.00        320,470.00        329,664.00
+C.H.ROBINSON WORLDWIDE INC                 1.025 CHRW    12541W100     31.2000        12,400.00        270,192.81        386,880.00
+CABOT CORP                                 1.959 CBT     127055101     26.5400         9,000.00        167,879.98        238,860.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     47.2000         3,604.00        125,835.56        170,108.80
+CADENCE DESIGN SYS INC                     0.000 CDN     127387108     11.7900        39,600.00        894,901.78        466,884.00
+CALLAWAY GOLF COMPANY                      2.113 ELY     131193104     13.2500        11,200.00        326,480.44        148,400.00
+CAREER EDUCATION CORP                      0.000 CECO    141665109     40.0000         6,800.00        345,814.00        272,000.00
+CARLISLE COS INC                           2.078 CSL     142339100     41.3800         4,500.00        186,859.16        186,210.00
+CARMAX INC.                                0.000 KMX     143130102     17.8800        15,193.00        645,265.77        271,650.84
+CARPENTER TECHNOLOGY                       2.650 CRS     144285103     12.4500         3,300.00        151,367.19         41,085.00
+CATALINA MARKETING CORP                    0.000 POS     148867104     18.5000         8,000.00        116,861.46        148,000.00
+CBRL GROUP INC.                            0.066 CBRL    12489V106Q    30.1300         7,300.00        214,436.61        219,949.00
+CDW COMPUTER CENTERS                       0.000 CDWC    125129106     43.8500        12,400.00        418,702.87        543,740.00
+CERIDIAN CORP - NEW                        0.000 CEN     156779100     14.4200        21,800.00        301,754.09        314,356.00
+CERTEGY INC                                0.000 CEY     156880106     24.5500         9,800.00        243,699.46        240,590.00
+CHARLES RIVER LABORATORIES                 0.000 CRL     159864107     38.4800         6,600.00        256,872.00        253,968.00
+CHECKFREE CORP                             0.000 CKFR    162813109     16.0010        11,600.00        570,833.28        185,611.60
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     36.1500         7,500.00        103,739.64        271,125.00
+CHOICEPOINT INC.                           0.000 CPS     170388102     39.4900        12,500.00        272,417.15        493,625.00
+CHURCH & DWIGHT INC                        0.985 CHD     171340102Q    30.4300         5,900.00         87,923.31        179,537.00

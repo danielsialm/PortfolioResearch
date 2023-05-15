@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 075
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+BROOKS-PRI AUTOMATION INC                  0.000 BRKS    11442E102     11.4600        34,000.00      1,332,684.19        389,640.00
+BROOKTROUT INC                             0.000 BRKT    114580103      5.3000        25,000.00        196,257.62        132,500.00
+BROWN SHOE COMPANY INC                     1.678 BWS     115736100Q    23.8300        19,100.00        331,425.85        455,153.00
+BRUSH ENGINEERED MATERIALS                 8.727 BW      117421107      5.5000        29,700.00        280,675.40        163,350.00
+BUCKEYE TECHNOLOGIES INC.                  0.000 BKI     118255108      6.1500        34,700.00        614,055.51        213,405.00
+BUILDING MATERIALS HLDG. CORP.             1.398 BMHC    120113105     14.3000        13,700.00        153,315.11        195,910.00
+BURLINGTON COAT FACTORY WAREHO             0.111 BCF     121579106     17.9500        50,700.00        793,899.29        910,065.00
+BUTLER MANUFACTURING CO.                   3.720 BBR     123655102     19.3500         9,400.00        260,513.63        181,890.00
+C&D TECHNOLOGIES INC.                      0.339 CHP     124661109     17.6700        30,800.00        834,829.47        544,236.00
+CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109      5.9000        49,000.00        802,317.16        289,100.00
+CABOT OIL & GAS CORP.                      0.645 COG     127097103Q    24.7800        35,200.00        694,780.68        872,256.00
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     35.6400        32,200.00        565,615.85      1,147,608.00
+CAL DIVE INTERNATIONAL INC                 0.000 CDIS    127914109     23.5000        39,800.00        798,692.00        935,300.00
+CAMBREX CORP.                              0.397 CBM     132011107     30.2100        27,600.00        680,436.25        833,796.00
+CAPTARIS INC.                              0.000 CAPA    14071N104      2.4000        59,600.00        215,731.22        143,040.01
+CARAUSTAR INDUSTRIES INC.                  1.265 CSAR    140909102      9.4800        26,900.00        324,219.77        255,012.00
+CARBO CERAMICS, INC.                       1.068 CRR     140781105     33.7000        16,900.00        545,433.18        569,530.00
+CARREKER CORPORATION                       0.000 CANIE   144433109      4.5300        40,100.00        307,877.84        181,653.00
+CASCADE NATURAL GAS CORP.                  4.800 CGC     147339105     20.0000        12,300.00        222,775.34        246,000.00
+CASEY'S GENERAL STORES INC.                0.819 CASY    147528103     12.2100        56,600.00        721,569.28        691,086.00
+CASH AMERICAN INT'L. INC.                  0.525 PWN     14754D100      9.5200        30,800.00        315,608.75        293,216.00
+CASTLE (A.M.) & CO.                        5.274 CAS     148411101      4.5500        29,400.00        169,259.56        133,770.00
+CATAPULT COMMUNICATIONS CORP               0.000 CATT    149016107     11.9500        14,200.00        356,766.28        169,690.00
+CATO CORP CL A                             2.779 CTR     149205106     21.5900        29,500.00        389,825.89        636,905.00
+CDI CORP.                                  0.000 CDI     125071100     26.9800        22,600.00        723,333.67        609,748.00
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     30.7000        30,500.00        627,682.46        936,350.00
+CENTRAL HUDSON GAS & ELEC.                 4.632 CHG     12541M102     46.6300        18,000.00        680,445.45        839,340.00
+CENTRAL PARKING CORP.                      0.318 CPC     154785109     18.8600        39,700.00      1,312,550.16        748,742.00
+CENTRAL VERMONT PUB SERV                   4.814 CV      155771108     18.2800        13,000.00        215,235.69        237,640.00
+CENTURY ALUMINUM COMPANY                   2.699 CENX    156431108      7.4100        18,200.00        307,005.93        134,862.00
+CEPHALON INC                               0.000 CEPH    156708109     48.6680        60,600.00      2,908,345.12      2,949,280.80
+CERNER CORP.                               0.000 CERN    156782104     31.2600        37,900.00      1,026,178.09      1,184,754.00
+CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     10.3400        35,200.00        513,445.01        363,968.00
+CHEMED CORP.                               1.357 CHE     163596109     35.3500        10,800.00        391,781.75        381,780.00
+CHESAPEAKE CORP                            4.930 CSK     165159104     17.8500        14,900.00        362,224.64        265,965.00
+CHICO'S FAS INC                            0.000 CHS     168615102     18.9100        95,650.00        849,670.10      1,808,741.50
+CHILDREN'S PLACE                           0.000 PLCE    168905107     10.6400        28,300.00      1,019,679.44        301,112.00
+CHITTENDEN CORPORATION                     3.139 CHZ     170228100     25.4800        37,625.00        995,580.89        958,685.00
+CHRISTOPHER & BANKS CORP                   0.000 CBK     171046105     20.7500        29,550.00        841,568.52        613,162.50

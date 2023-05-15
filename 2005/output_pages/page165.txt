@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 132
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+MERCK & CO INC                             4.778 MRK     589331107Q    31.8100       255,100.00      7,453,517.30      8,114,731.00
+MERRILL LYNCH & CO. INC.                   1.181 MER     590188108Q    67.7300       131,300.00      6,938,410.27      8,892,949.00
+METLIFE INC                                1.061 MET     59156R108     49.0000       120,100.00      3,163,864.50      5,884,900.00
+MGM MIRAGE                                 0.000 MGM     552953101     36.6700        35,100.00      1,334,710.28      1,287,117.00
+MICRON TECHNOLOGY INC                      0.000 MU      595112103Q    13.3100       372,900.00      4,651,127.90      4,963,299.00
+MICROSOFT CORP.                            1.376 MSFT    594918104     26.1500       412,200.00     13,463,984.70     10,779,030.00
+MONSANTO COMPANY                           1.031 MON     61166W101     77.5300        80,200.00      2,650,259.25      6,217,906.00
+MOODY'S CORPORATION                        0.455 MCO     615369105     61.4200        94,600.00      2,421,075.28      5,810,332.00
+NATIONAL SEMICONDUCTOR CORP.               0.461 NSM     637640103     25.9800        48,700.00      1,149,738.82      1,265,226.00
+NATIONWIDE FINANCIAL SERVICE               1.727 NFS     638612101     44.0000        27,600.00        844,526.15      1,214,400.00
+NEWMONT MNG. CORP. HLDG CO                 0.749 NEM     651639106Q    53.4000        14,600.00        549,151.26        779,640.00
+NORDSTROM INC                              0.909 JWN     655664100Q    37.4000        28,400.00        768,673.10      1,062,160.00
+NORFOLK SOUTHERN CORP.                     1.159 NSC     655844108Q    44.8300       103,500.00      3,456,589.90      4,639,905.00
+NORTH FORK BANK                            3.655 NFB     659424105     27.3600       134,950.00      3,734,259.13      3,692,232.00
+NORTHEAST UTILITIES                        3.555 NU      664397106     19.6900        50,600.00        957,699.79        996,314.00
+NORTHROP GRUMMAN CORP.                     1.730 NOC     666807102Q    60.1100       104,500.00      5,706,675.19      6,281,495.00
+NUCOR CORP                                 0.899 NUE     670346105Q    66.7200        79,000.00      3,598,325.77      5,270,880.00
+OCCIDENTAL PETROLEUM CORP.                 1.802 OXY     674599105Q    79.8800        66,200.00      2,802,422.22      5,288,056.00
+OFFICE DEPOT INC                           0.000 ODP     676220106     31.4000        66,800.00      1,835,641.48      2,097,520.00
+PACIFIC GAS & ELEC. CO.                    3.556 PCG     69331C108Q    37.1200       142,900.00      4,757,201.19      5,304,448.00
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     25.1000        63,100.00      1,534,020.98      1,583,810.00
+PEPSI BOTTLING GROUP INC                   1.118 PBG     713409100     28.6100        46,600.00      1,381,764.56      1,333,226.00
+PEPSICO INC.                               1.760 PEP     713448108Q    59.0800        33,500.00      1,572,289.26      1,979,180.00
+PFIZER INC.                                4.116 PFE     717081103Q    23.3200       677,320.00     17,184,166.48     15,795,102.40
+PLUM CREEK TIMBER CO INC                   4.216 PCL     729251108     36.0500        67,200.00      2,422,941.98      2,422,560.00
+POLARIS INDUSTRIES INC.                    2.231 PII     731068102     50.2000        48,300.00      2,545,521.61      2,424,660.00
+PRIME MONEY MARKET - 5GS                   0.000 IT-GOL  IT-GOL         1.0000     2,529,986.10      2,529,986.10      2,529,986.10
+PRINCIPAL FINANCIAL GROUP                  1.370 PFG     74251V102     47.4300       110,800.00      3,373,824.30      5,255,244.00
+PROCTER & GAMBLE CO                        1.935 PG      742718109Q    57.8800       204,772.00      7,840,510.93     11,852,203.36
+PRUDENTIAL FINANCIAL INC                   1.065 PRU     744320102     73.1900        76,000.00      2,598,543.99      5,562,440.00
+QUALCOMM INC                               0.835 QCOM    747525103     43.0800        97,500.00      3,055,253.44      4,200,300.00
+QUESTAR CORP                               1.188 STR     748356102Q    75.7000        11,300.00        769,576.33        855,410.00
+RADIAN GROUP INC.                          0.136 RDN     750236101     58.5900        39,300.00      1,974,546.46      2,302,587.00
+RAYTHEON COMPANY                           2.191 RTN     755111507Q    40.1500       143,900.00      4,965,123.07      5,777,585.00
+REPUBLIC SERVICES INC                      1.491 RSG     760759100     37.5500       136,800.00      3,686,985.60      5,136,840.00
+SAFEWAY INC                                0.845 SWY     786514208     23.6600        61,700.00      1,451,733.13      1,459,822.00
+SIERRA PACIFIC RESOURCES                   6.135 SRP     826428104     13.0400        61,500.00        751,523.85        801,960.00
+SLM CORP                                   1.597 SLM     78442P106     55.0900        34,600.00      1,868,920.96      1,906,114.00
+SOUTHERN COPPER CORP                      10.152 PCU     84265V105     66.9800        22,100.00      1,256,111.68      1,480,258.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 087
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+IBERIABANK CORP                            1.627 IBKC    450828108     59.0000         8,100.00        412,759.44        477,900.00
+IBT BANCORP INC/PA                         2.363 IRW     44923F108     59.2300         3,100.00        147,507.15        183,613.00
+ICT GROUP INC                              0.000 ICTG    44929Y101     11.7500         6,600.00         65,313.39         77,550.01
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     34.2800        12,700.00        414,220.78        435,356.00
+IDACORP, INC.                              4.010 IDA     451107106     29.9200        46,100.00      1,899,652.28      1,379,312.00
+IDC SYSTEMS CORP                           0.000 IDXC    449491109     26.8200        20,800.00        381,419.51        557,856.00
+IDENTIX INC                                0.000 IDNX    451906101      4.4500       103,300.00        684,779.57        459,685.00
+IDEX CORPORATION                           1.346 IEX     45167R104     41.5900        33,300.00      1,044,035.45      1,384,947.00
+IGATE CORP                                 0.000 IGTE    45169U105      7.8500        49,000.00        245,532.30        384,650.00
+IGEN INC                                   0.000 IGEN    449536101     58.9100        21,700.00        713,288.43      1,278,347.00
+IHOP CORP.                                 2.598 IHP     449623107     38.4800        23,900.00        716,670.04        919,672.00
+II VI INC                                  0.000 IIVI    902104108     25.8000        13,200.00        312,990.99        340,560.00
+ILEX ONCOLOGY INC                          0.000 ILXO    451923106     21.2500        46,300.00        916,999.48        983,875.00
+IMAGISTICS INTERNATIONAL INC               0.000 IGI     45247T104     37.5000        18,700.00        389,544.75        701,250.00
+IMC GLOBAL INC.                            0.805 IGL     449669100Q     9.9300       109,400.00      1,408,824.62      1,086,342.00
+IMMUCOR INC                                0.000 BLUD    452526106     20.3900        23,100.00        349,896.31        471,009.00
+IMMUNOGEN INC                              0.000 IMGN    45253H101      5.0500        79,000.00        355,224.25        398,950.00
+IMMUNOMEDICS INC                           0.000 IMMU    452907108      4.5600        11,100.00         76,198.54         50,616.00
+IMPAC MEDICAL SYSTEMS INC                  0.000 IMPC    45255A104     25.5600           800.00         17,340.53         20,448.00
+IMPAX LABORATORIES INC                     0.000 IPXL    45256B101     14.3900        47,100.00        568,736.82        677,769.00
+INAMED CORP                                0.000 IMDC    453235103     48.0600        32,250.00        799,418.40      1,549,935.00
+INCYTE CORP                                0.000 INCY    45337C102      6.8400        86,600.00        498,349.65        592,343.99
+INDEPENDENCE HLDG CO                       0.209 INHO    453440307     23.9200        10,200.00        231,497.16        243,984.00
+INDEPENDENT BANK CORP/MA                   1.804 INDB    453836108     28.8200        14,200.00        349,981.50        409,244.00
+INDEPENDENT BANK CORP/MI                   2.256 IBCP    453838104     28.3600        23,930.00        580,281.07        678,654.80
+INDEVUS PHARMACEUTIC                       0.000 IDEV    454072109      5.8900        71,300.00        416,640.48        419,957.00
+INET TECHNOLOGIES INC                      0.000 INTI    45662V105     12.0000        27,800.00        333,078.72        333,600.00
+INFINITY PROPERTY & CASUALTY C             0.665 IPCC    45665Q103     33.0500        19,300.00        548,279.39        637,865.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106      9.6800        63,500.00        764,728.25        614,680.01
+INFONET SERVICES                           0.000 IN      45666T106      1.7000       155,400.00        265,054.39        264,180.00
+INFORMATICA CORP.                          0.000 INFA    45666Q102     10.3000        77,300.00        611,934.85        796,190.00
+INFORMATION HOLDINGS INC.                  0.000 IHI     456727106     22.1000        21,700.00        590,326.95        479,570.00
+INFOSPACE INC                              0.000 INSP    45678T201     23.0500        36,500.00        578,966.33        841,325.00
+INFOUSA INC                                0.000 IUSA    456818301      7.4200        35,700.00        323,301.61        264,894.00
+INNKEEPERS USA TRUST                       1.433 KPA     4576J0104      8.3700        32,400.00        241,229.44        271,188.00
+INNOVEX INC.                               0.000 INVX    457647105      8.4300        37,900.00        401,537.51        319,497.00
+INPUT/OUTPUT INC.                          0.000 IO      457652105      4.5100        53,400.00        305,528.07        240,834.00
+INSIGHT COMMUNICATIONS CO                  0.000 ICCI    45768V108     10.3100        53,700.00        740,096.49        553,647.00
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103     18.8000        63,800.00      1,099,808.18      1,199,440.00

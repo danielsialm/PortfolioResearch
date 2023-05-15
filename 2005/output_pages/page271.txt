@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 054
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+POLYMEDICA CORP                              1.792     731738100   PLMD           132,941        3,219,390.94        4,449,535.27
+POLYONE CORPORATION                          3.888     73179P106   POL             97,200          562,292.12          624,996.00
+POPULAR INC                                  3.026     733174106   BPOP           438,400        9,173,411.52        9,272,160.00
+PORTALPLAYER INC                             0.000     736187204   PLAY            28,700          736,797.33          812,784.00
+PORTFOLIO RECOVERY ASSOCIATES INC            0.000     73640Q105   PRAA            16,500          520,813.21          766,260.00
+POSSIS MEDICAL INC                           0.000     737407106   POSS            35,900          427,574.80          357,205.00
+POTLATCH CORP.                               1.176     737628107 Q PCH             30,700          964,279.73        1,565,086.00
+POWELL INDS INC                              0.000     739128106   POWL             7,170          128,999.39          128,773.20
+POWER INTEGRATIONS INC                       0.000     739276103   POWI            31,100          680,486.73          740,491.00
+POWER ONE INC.                               0.000     739308104   PWER           102,000          551,128.00          614,040.00
+POWERDSINE LTD                               0.000     M41415106   PDSN            20,200          128,053.04          138,774.00
+POWERWAVE TECHNOLOGIES                       0.000     739363109   PWAV           191,400        1,642,392.17        2,405,898.00
+POZEN INC                                    0.000     73941U102   POZN            25,300          130,547.32          242,627.00
+PPG INDUSTRIES INC.                          3.247     693506107 Q PPG              3,500          223,966.76          202,650.00
+PPL CORPORATION                              3.401     69351T106 Q PPL          1,122,200       24,872,553.43       32,992,680.00
+PRA INTERNATIONAL                            0.000     69353C101   PRAI            22,700          548,499.39          639,005.00
+PRAXAIR INC.                                 1.359     74005P104 Q PX             421,400       18,219,983.77       22,317,344.00
+PRE-PAID LEGAL SVCS                          3.140     740065107   PPD             10,300          382,211.52          393,563.00
+PRECISION CASTPARTS CORP                     0.231     740189105   PCP            560,700       17,500,838.32       29,049,867.00
+PREFERRED BANK/LOS ANGELES                   1.528     740367107   PFBC            12,100          471,265.55          538,450.00
+PREFORMED LINE PRODUCTS CO                   1.869     740444104   PLPC             2,600          104,288.08          111,254.00
+PREMIERE GLOBAL SERVICES INC                 0.000     740585104   PGI             76,200          717,301.13          619,506.00
+PREMIERWEST BANCORP                          0.357     740921101   PRWT            14,600          217,504.55          204,400.00
+PREMIUM STANDARD FARMS INC                   1.604     74060C105   PORK            10,400          154,336.00          155,584.00
+PRESIDENTIAL LIFE                            2.100     740884101   PLFE            54,761          906,076.98        1,042,649.44
+PRESTIGE BRANDS HOLDINGS INC                 0.000     74112D101   PBH             50,700          598,981.68          633,750.00
+PRICE COMMUNICATIONS CORP                    0.000     741437305   PR              65,205          943,187.32          969,598.35
+PRICELINE.COM INC                            0.000     741503403   PCLN            45,187        1,079,742.56        1,008,573.84
+PRIDE INTERNATIONAL INC.                     0.000     74153Q102   PDE            214,000        3,981,364.97        6,580,500.00
+PRIME MONEY MARKET - 5GS                     0.000     IT-GOL      IT-GO        2,529,986        2,529,986.10        2,529,986.10
+PRIME MONEY MARKET - 5IN                     0.000     IT-INT      IT-IN        2,134,269        2,134,269.81        2,134,269.81
+PRIME MONEY MARKET - 6CH                     0.000     IT-CIP      IT-CI        1,749,790        1,749,790.86        1,749,790.74
+PRIME MONEY MARKET - 6DG                     0.000     IT-DAV      IT-DA        3,039,367        3,039,368.18        3,039,367.59
+PRIME MONEY MARKET - 6EA                     0.000     IT-EAG      IT-EA          702,148          702,148.12          702,148.09
+PRIME MONEY MARKET - 6FC                     0.000     IT-FUL6     IT-FU        2,375,695        2,375,695.42        2,375,695.38
+PRIME MONEY MARKET - 6FT                     0.000     IT-FUL      IT-FU           44,628           44,628.90           44,628.91
+PRIME MONEY MARKET - 6LA                     0.000     IT-LOR      IT-LO        7,546,874        7,546,875.78        7,546,874.25
+PRIME MONEY MARKET - 6LC                     0.000     IT-LOR6     IT-LO        5,341,634        5,341,634.77        5,341,634.15
+PRIME MONEY MARKET - 6MA                     0.000     IT-MAW      IT-MA        4,783,090        4,783,090.84        4,783,090.25
+PRIME MONEY MARKET - 6NC                     0.000     IT-NEX      IT-NE        1,397,549        1,397,549.60        1,397,549.66

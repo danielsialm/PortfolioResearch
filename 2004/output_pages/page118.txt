@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 086
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+STRATASYS INC                              0.000 SSYS    862685104     33.5600        10,200.00        299,341.41        342,312.00
+STRATTEC SECURITY CORP                     0.000 STRT    863111100     62.6200         7,431.00        432,979.94        465,329.22
+STRAYER EDUCATION INC                      0.455 STRA    863236105    109.7900        14,500.00      1,367,887.11      1,591,955.00
+STRIDE RITE CORP                           1.790 SRR     863314100Q    11.1700        59,500.00        654,597.35        664,615.00
+STURM RUGER & CO INC                       4.429 RGR     864159108      9.0300        23,500.00        272,128.83        212,205.00
+SUFFOLK BANCORP                            2.182 SUBK    864739107     34.8300        12,100.00        385,698.06        421,443.00
+SUN BANCORP INC/NJ                         0.000 SNBC    86663B102     24.9800           600.00         13,288.81         14,988.00
+SUNRISE SENIOR LIVING INC                  0.000 SRZ     86768K106     46.3600        23,600.00        744,327.05      1,094,096.00
+SUNTERRA CORP                              0.000 SNRR    86787D208     14.0400        20,600.00        227,610.14        289,224.00
+SUPERGEN INC                               0.000 SUPG    868059106      7.0500        19,700.00        120,536.60        138,885.00
+SUPERIOR ENERGY SVCS                       0.000 SPN     868157108     15.4100        60,300.00        558,196.03        929,223.00
+SUPERIOR INDUSTRIES INTL                   2.134 SUP     868168105     29.0500        24,800.00        949,235.78        720,440.00
+SUPERTEX INC                               0.000 SUPX    868532102     21.7000         9,900.00        218,290.61        214,830.00
+SUPPORTSOFT INC                            0.000 SPRT    868587106      6.6600        17,400.00        192,525.63        115,884.00
+SUREWEST COMMUNICATI                       3.527 SURW    868733106     28.3500        16,182.00        477,019.68        458,759.70
+SURMODICS INC                              0.000 SRDX    868873100     32.5100        15,800.00        394,719.53        513,658.00
+SUSQUEHANNA BANCSHARES INC.                3.687 SUSQ    869099101     24.9500        42,290.00        909,749.39      1,055,135.50
+SWIFT ENERGY COMPANY                       0.000 SFY     870738101     28.9400        39,600.00        850,295.70      1,146,024.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.4800        61,600.00      1,026,128.32      1,323,168.00
+SWS GROUP INC                              1.824 SWS     78503N107     21.9200         3,100.00         44,125.75         67,952.00
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     35.3800        42,800.00        879,847.33      1,514,264.00
+SYCAMORE NETWORKS INC                      0.000 SCMR    871206108      4.0600       242,671.00      1,059,285.02        985,244.26
+SYKES ENTERPRISES                          0.000 SYKE    871237103      6.9500        67,975.00        405,467.35        472,426.25
+SYMBION INC                                0.000 SMBI    871507109     22.0800         9,200.00        153,592.63        203,136.00
+SYMMETRICOM INC                            0.000 SYMM    871543104      9.7100        49,889.00        380,666.82        484,422.19
+SYMYX TECHNOLOGIES INC.                    0.000 SMMX    87155S108     30.0800        21,721.00        421,241.91        653,367.68
+SYNAPTICS INC                              0.000 SYNA    87157D109     30.5800        24,500.00        367,326.28        749,210.00
+SYNNEX CORP                                0.000 SNX     87162W100     24.0600        18,700.00        330,401.78        449,922.00
+SYNTEL INC                                 1.368 SYNT    87162H103     17.5400         8,100.00        165,562.05        142,074.00
+SYNTROLEUM CORP.                           0.000 SYNM    871630109      8.0300           400.00          2,771.99          3,212.00
+SYPRIS SOLUTIONS INC                       0.783 SYPR    871655106     15.3100         7,454.00        102,262.49        114,120.74
+SYSTEMAX INC                               0.000 SYX     871851101      7.3400        10,700.00         67,584.62         78,538.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     34.7900        42,800.00      1,086,260.97      1,489,012.00
+TALK AMERICA HOLDINGS INC                  0.000 TALK    87426R202      6.6200        70,000.00        523,369.11        463,400.00
+TALX CORP                                  0.930 TALX    874918105     25.7900        15,200.00        336,470.35        392,008.00
+TANOX INC                                  0.000 TNOX    87588Q109     15.2000        38,200.00        636,131.06        580,640.00
+TASER INTERNATIONAL INC                    0.000 TASR    87651B104     31.5900        41,400.00        808,695.44      1,307,826.00
+TAYLOR CAPITAL GROUP INC                   0.716 TAYC    876851106     33.5000         4,324.00        102,007.70        144,854.00
+TBC CORP                                   0.000 TBCC    872183108     27.8000        11,900.00        184,660.74        330,820.00

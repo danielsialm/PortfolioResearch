@@ -1,0 +1,35 @@
+ASOF02   Date 01/20/2004 Time 18:59:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 157
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+UNIFIRST CORP                              0.632 UNF     904708104Q    23.7100        19,400.00        442,108.02        459,974.00
+URS CORPORATION                            0.000 URS     903236107     25.0100        26,800.00        520,680.80        670,268.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     17.0000        17,700.00        295,638.14        300,900.00
+VECTREN CORPORATION                        4.624 VVC     92240G101     24.6500        24,300.00        599,545.14        598,995.00
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     20.6100        13,500.00        281,697.46        278,235.00
+WESTAMERICA BANCORPORATION                 2.092 WABC    957090103     49.7000        11,500.00        504,674.04        571,550.00
+WOLVERINE WORLD WIDE                       1.079 WWW     978097103     20.3800        19,400.00        380,800.52        395,372.00
+
+Instrument Total            85                                                     4,394,325.50     48,432,258.33     55,300,276.04
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ALEXANDRIA REAL ESTATE                     4.006 ARE     015271109     57.9000        10,100.00        462,227.49        584,790.00
+AMERICAN FINANCIAL REALTY TRUS             5.865 AFR     02607P305     17.0500        36,000.00        534,177.00        613,800.00
+CEDAR SHOPPING CENTERS INC                 0.000 CDR     150602209     12.4200        48,800.00        562,644.00        606,096.00
+HERSHA HOSPITALITY TRUST                   7.128 HT      427825104     10.1000        36,600.00        320,664.00        369,660.00
+HOME PROPERTIES OF NY INC.                 6.140 HME     437306103     40.3900        16,400.00        590,704.08        662,396.00
+PS BUSINESS PARKS INC/CA                   2.811 PSB     69360J107     41.2600        17,100.00        612,701.90        705,546.00
+SL GREEN RE CORP                           4.872 SLG     78440X101     41.0500        16,700.00        604,111.18        685,535.00
+
+Instrument Total             7                                                       181,700.00      3,687,229.65      4,227,823.00
+
+Portfolio Total             92                                                     4,576,025.50     52,119,487.98     59,528,099.04
+

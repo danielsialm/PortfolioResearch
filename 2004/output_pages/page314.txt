@@ -1,0 +1,26 @@
+ASOF03   Date 01/21/2005 Time 18:35:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 012
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REN       RE NATURAL RESOURCES
+Instrument - F         FARMLAND
+
+FARMLANDS-UBS AGRIVEST SA      MISC US                         9.250         RFMLND                  2,008,434.44      2,716,369.80
+
+Instrument Total             1                                                                       2,008,434.44      2,716,369.80
+
+Instrument -T      TIMBER
+
+TIMBER-BASCOM GULF (FLORIDA)   MISC US                         0.000         RTMBR4                178,880,830.21    174,695,049.01
+TIMBER-BASCOM PACIFIC (N.W.)   MISC US                         0.000         RTMBR2                 54,587,014.33    147,842,192.00
+TIMBERLAND - FOREST SYSTEM     MISC US                         0.000         RTMBR5                  2,000,196.00      2,000,196.00
+TIMBERLAND-SOUTHERN            MISC US                         0.000         RTMBR3                 33,122,650.52    157,534,190.00
+
+Instrument Total             4                                                                     268,590,691.06    482,071,627.01
+
+Portfolio Total              5                                                                     270,599,125.50    484,787,996.81
+

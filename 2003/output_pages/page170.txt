@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 140
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+MICHAELS STORES                            0.905 MIK     594087108     44.2000           400.00         15,048.00         17,680.00
+MICROSOFT CORP.                            0.581 MSFT    594918104     27.5400       171,400.00      5,800,865.72      4,720,356.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     64.8000         6,300.00        307,600.98        408,240.00
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     18.6700        12,300.00        177,112.13        229,641.00
+MILLER (HERMAN) INC                        0.597 MLHR    600544100     24.2700         3,300.00         79,919.40         80,091.00
+MILLIPORE CORPORATION                      1.022 MIL     601073109Q    43.0500           400.00         17,638.66         17,220.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     70.5400         3,900.00        225,108.00        275,106.00
+MOLEX INC                                  0.286 MOLX    608554101     34.8900         7,500.00        203,548.31        261,674.99
+MONSANTO COMPANY                           1.806 MON     61166W101     28.7800         7,200.00        168,386.73        207,216.00
+MONSTER WORLDWIDE INC                      0.000 MNST    611742107     21.9600         2,500.00         53,073.25         54,900.00
+MOODY'S CORPORATION                        0.495 MCO     615369105     60.5500         5,700.00        256,374.62        345,135.00
+MORGAN STANLEY DEAN WITTER & C             1.728 MWD     617446448Q    57.8700        19,800.00      1,067,947.20      1,145,826.00
+MOTOROLA INC                               1.137 MOT     620076109Q    14.0700         4,300.00         58,001.41         60,501.00
+MURPHY OIL CORP                            1.224 MUR     626717102Q    65.3100         6,600.00        334,762.50        431,046.00
+MYLAN LABS                                 0.475 MYL     628530107Q    25.2600        37,100.00        745,063.32        937,146.00
+NATIONAL CITY CORP                         3.771 NCC     635405103Q    33.9400        14,700.00        412,429.38        498,918.00
+NATIONAL FUEL & GAS                        4.419 NFG     636180101Q    24.4400         8,000.00        206,547.82        195,520.00
+NATIONAL INSTRUMENTS CORP.                 0.439 NATI    636518102     45.4700         2,500.00         90,900.00        113,675.00
+NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     39.4100         6,500.00        248,773.81        256,165.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     47.8900         4,500.00        164,233.99        215,505.00
+NEIMAN MARCUS GROUP INC-CLASS              0.968 NMG.A   640204202     53.6700         5,200.00        218,239.34        279,084.00
+NETSCREEN TECHNOLOGIES INC                 0.000 NSCN    64117V107     24.7500         4,300.00        105,325.40        106,425.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     20.5300        20,400.00        282,240.43        418,812.01
+NEW YORK COMMUNITY BANCORP                 2.628 NYB     649445103     38.0500        11,650.00        318,829.62        443,282.50
+NEW YORK TIMES CO. CL A                    1.213 NYT     650111107Q    47.7900        10,100.00        388,709.39        482,679.00
+NEWELL RUBBERMAID INC.                     3.689 NWL     651229106Q    22.7700         4,200.00        128,249.91         95,634.00
+NEWMONT MNG. CORP. HLDG CO                 0.411 NEM     2636607  Q    48.6100         4,600.00        195,877.34        223,606.00
+NEWS CORP LTD- SPONS ADR PRF               0.578 NWS/A   652487802     30.2500         1,832.79         37,404.81         55,441.90
+NEXTEL COMMUNICATIONS CL-A                 0.000 NXTL    65332V103     28.0600        32,200.00        405,298.93        903,532.00
+NICOR INC.                                 5.464 GAS     654086107Q    34.0400         7,400.00        215,044.49        251,896.00
+NIKE INC. -CL B                            1.168 NKE     654106103Q    68.4600         6,000.00        293,816.89        410,760.00
+NISOURCE INCORPORATED                      4.193 NI      65473P105Q    21.9400         2,100.00         40,871.88         46,074.01
+NORDSTROM INC                              1.282 JWN     655664100Q    34.3000         7,100.00        221,585.12        243,530.00
+NORFOLK SOUTHERN CORP.                     1.353 NSC     655844108Q    23.6500         4,500.00         92,026.23        106,425.00
+NORTHERN TRUST CORP                        1.637 NTRS    665859104     46.4200         3,100.00        125,196.23        143,902.00
+NORTHROP GRUMMAN CORP.                     1.673 NOC     666807102Q    95.6000           703.00         67,015.79         67,206.79
+NOVELLUS SYSTEMS INC.                      0.000 NVLS    670008101     42.0500         2,600.00         82,952.32        109,330.00
+NSTAR CO.                                  4.577 NST     67019E107     48.5000         4,400.00        205,216.00        213,400.00
+NTL INC                                    0.000 NTLI    62940M104     69.7500         6,000.00        231,918.50        418,500.00

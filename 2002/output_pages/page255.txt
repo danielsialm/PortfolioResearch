@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ASSOCIATED CEMENT COS LTD                    0.000     6155915      ACC_I     1,000,000.00        3,059,250.33
+ASUR ADR                                    12.851     2639361      ASR         500,000.00        7,721,104.05
+ASUSTEK COMPUTER INC                         0.005     6051046      54927       376,500.00        1,346,731.14
+AU OPTRONICS CORP - ADR                      0.000     2877149      AUO         291,000.00        2,474,072.60
+AVENG LTD                                    0.000     6153339      AEG_S       730,000.00          534,958.72
+AYALA CORPORATION                            0.000     6087063      AC_PM    15,000,000.00        1,436,572.43
+AYALA LAND INC                               0.000     6055112      ALI_P    10,521,886.00        1,059,975.17
+BANCO BRADESCO SA                            0.208     2074520      BBDC4   687,272,000.00        3,232,641.70
+BANCO ITAU SA PREF                           0.049     2459581      ITAU4    30,003,240.00        2,282,214.90
+BANGKOK BANK THB10                           0.000     6077019      BBL/F     2,500,000.00        2,474,172.13
+BANK DAGANG NAS ID                           0.000     6004567      BDNI/       930,000.00                0.00
+BANK PEKAO SA ORD                            0.071     5473113      PEO_P        50,000.00          976,612.17
+BARLOWORLD LIMITED                           0.000     6079123      BAW_S       701,238.00        4,361,464.53
+BEC WORLD PCL-FOREIGN                        0.000     6078142      BEC/F       300,000.00        1,605,923.20
+BEIJING DATANG POW                           0.000     6080716      991_H     9,500,000.00        3,177,232.73
+BERJAYA SPORTS TOTO BERHAD                   0.073     6331566      BST_M       800,000.00        1,051,963.00
+BEZEQ ISRAEL TELCM                           0.364     6098032      BEZQ_       490,968.00          570,259.13
+BHARAT HEAVY ELECTRICALS                     0.000     6129523      BHEL_       624,580.00        1,843,465.58
+BIDVEST GROUP ORD                            0.493     6100089      BVT_S       186,095.00          918,776.37
+BK HAPOALIM BM ILS                           0.071     6075808      POLI_     1,467,344.00        3,762,991.74
+BNP PARIBAS SOUTH ASIA VALUE FUND            0.000     0363651      GDISA       157,424.00        2,483,856.95
+BRASIL TELECOM PARTICIPACOES S/A            55.972     2292656      BRTP4   121,497,000.00        1,591,077.71
+CASA ANGLO BRAS S.A.                         0.000     2177214      CABR4    44,161,119.00                0.00
+CATHAY LIFE INSURANCE CO                     0.000     6425663      73833     4,280,713.99        5,904,165.35
+CEMEX ADR                                    4.742     2488671      CX          150,000.00        3,664,110.00
+CEMIG CIA ENERG MG                           2.555     2192712      CMIG4    57,149,071.05          681,625.02
+CENTRAIS ELETR BRA                          27.747     2308445      ELET6   300,000,000.00        3,402,655.75
+CESKE ENERGETICKE ZAVODY                     0.000     5624030      CEZ_C     1,700,000.00        3,813,078.99
+CESKY TELECOM                                0.000     5272569      SPTT_       600,000.00        5,020,008.77
+CHECK POINT SOFTWARE TECH                    0.000     2181334      CHKP        190,000.00        3,419,810.00
+CHINA MOBILE HK ADR                          0.000     2111375      CHL         510,000.00        9,800,181.42
+CHINA MOBILE HK LTD HKD 0.1                  0.000     6073556      941_H       662,000.00        1,807,429.36
+CHINA PETROLEUM & CHEMICAL ADR               7.223     2639189      SNP         250,000.00        4,211,418.76
+CHINA RESOURCES ENTERPRISES                  0.000     6972459      291_H     5,000,000.00        4,742,286.84
+CHINA UNICOM ADR                             0.000     2603496      CHU         300,000.00        3,693,240.68
+CHINATRUST FINANCIAL HOLDING CO.             0.002     6527666      2891_     2,000,000.00          999,312.86
+CIA PARANAENSE DE ENERGI                    41.630     2200154      CPLE6   249,999,999.90        2,138,479.43
+CIA TELECOM CHILE-ADR                        0.104     2213635      CTC         116,300.00        1,271,634.45
+CIA VALE DO RIO DOCE - ADR                   0.000     2857334      RIO          40,000.00          963,764.00

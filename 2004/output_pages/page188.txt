@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 156
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      5.1500        91,400.00        529,552.80        470,710.00
+NOVATEL WIRELESS INC                       0.000 NVTL    66987M604     19.3800        28,700.00        599,522.24        556,206.00
+NVIDIA CORP                                0.000 NVDA    67066G104     23.5600        63,000.00        933,101.34      1,484,280.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108      6.1900        61,300.00        380,322.08        379,447.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    23.2100        20,300.00        321,737.84        471,163.00
+ORTHOLOGIC CORP                            0.000 OLGC    68750J107      6.2500        72,700.00        425,068.17        454,375.00
+PALMONE INC                                0.000 PLMO    69713P107     31.5500        32,700.00        730,251.65      1,031,685.00
+PARK NATL CORP                             2.656 PRK     700658107    135.5000         5,250.00        591,539.12        711,375.00
+PARKER DRILLING CO                         0.000 PKD     701081101      3.9300       102,200.00        267,895.42        401,646.00
+PARTNERS TRUST FINL                        2.060 PRTR    70213F102     11.6500        46,200.00        485,130.80        538,230.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     60.5500        20,500.00        493,331.93      1,241,275.00
+PEP BOYS MM & J                            1.581 PBY     713278109Q    17.0700        32,700.00        639,931.34        558,189.00
+PER-SE TECHNOLOGIES                        0.000 PSTI    713569309     15.8300        30,900.00        447,739.62        489,147.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109     19.7800        35,600.00        309,325.10        704,168.00
+PLACER SIERRA BANCSHARES                   0.703 PLSB    726079106     28.4400        24,100.00        478,885.00        685,404.00
+PLANTRONICS INC.                           0.482 PLT     727493108     41.4700        17,900.00        490,022.27        742,313.00
+PRESIDENTIAL LIFE                          2.358 PLFE    740884101     16.9600        15,700.00        245,611.57        266,272.00
+PRIME MONEY MARKET - 6FC                   0.000 IT-FUL6 IT-FUL6        1.0000     3,392,270.26      3,392,270.23      3,392,270.27
+PRIMEDIA INC                               0.000 PRM     74157K101      3.8000       198,500.00        614,345.92        754,300.00
+PROVIDENT BANCORP INC                      1.213 PBCP    74383A109     13.1900        35,400.00        441,779.88        466,926.00
+RESOURCES CONNECTION INC                   0.000 RECN    76122Q105     54.3100        22,200.00        861,962.85      1,205,682.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      5.7400       112,700.00        565,528.09        646,898.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     20.5400        19,200.00        311,322.09        394,368.00
+SABA SOFTWARE INC                          0.000 SABA    784932600      4.0000        72,900.00        312,875.57        291,600.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     53.4000         8,800.00        484,606.90        469,920.00
+SELECTICA INC                              0.000 SLTC    816288104      3.5800       103,300.00        429,103.76        369,814.00
+SERVICE CORP INTERNATIONAL                 4.832 SCI     817565104Q     7.4500        74,900.00        367,531.45        558,005.00
+SONICWALL INC                              0.000 SNWL    835470105      6.3200        77,400.00        457,674.72        489,168.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     23.9800        17,293.00        288,975.72        414,686.14
+SPATIALIGHT INC                            0.000 HDTV    847248101      8.9500        51,800.00        241,533.10        463,610.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     20.0800        18,500.00        296,992.34        371,480.00
+STEWART & STEVENSON SERVICES               1.680 SVC     860342104Q    20.2300        26,400.00        446,114.11        534,072.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.4800        35,280.00        606,231.99        757,814.40
+SYNAPTICS INC                              0.000 SYNA    87157D109     30.5800        22,400.00        669,010.80        684,992.00
+TEKELEC                                    0.000 TKLC    879101103     20.4400        41,200.00        743,371.80        842,128.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.4300        35,800.00        559,306.01      1,053,594.00
+TELETECH HOLDINGS INC                      0.000 TTEC    879939106      9.6900        62,800.00        469,759.17        608,532.00
+TESORO CORP                                0.000 TSO     881609101     31.8600        15,600.00        356,274.55        497,016.00
+TESSERA TECHNOLOGIES INC                   0.000 TSRA    88164L100     37.2100        28,800.00        592,776.34      1,071,648.00

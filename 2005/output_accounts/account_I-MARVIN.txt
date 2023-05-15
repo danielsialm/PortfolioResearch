@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+MARVIN & PALMER - EQUITIES                   0.000     IE-MARV               10,898,039.85    1,089,803,985.75
+MARVIN & PALMER - LIQUIDITY                  0.000     IL-MARV                  537,166.71       53,716,671.03
+
+Instrument Total               2                                             11,435,206.56    1,143,520,656.78
+
+Portfolio Total                2                                             11,435,206.56    1,143,520,656.78      1,387,413,707.64

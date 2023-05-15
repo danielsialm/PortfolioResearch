@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 132
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+WEYERHAEUSER CO.                           2.380 WY      962166104Q    67.2200         4,100.00        238,456.28        275,602.00
+WHITNEY HOLDING CORP                       3.111 WTNY    966612103     44.9900         5,400.00        229,470.44        242,946.00
+WHOLE FOODS MARKET INC                     0.797 WFMI    966837106     95.3500        11,600.00        795,825.98      1,106,060.00
+WILEY JOHN & SONS IN                       0.861 JW.A    968223206     34.8400         9,300.00        294,312.55        324,012.00
+WILLIAMS COS. INC.                         1.227 WMB     969457100Q    16.2900         4,900.00         62,132.00         79,821.00
+WILMINGTON TRUST CO, DELAWARE              3.153 WL      971807102Q    36.1500        11,500.00        416,740.17        415,725.00
+WISCONSIN ENERGY CORP.                     2.491 WEC     976657106Q    33.7100         2,100.00         61,323.02         70,791.00
+WORTHINGTON INDS                           3.268 WOR     981811102Q    19.5800         2,500.00         48,363.89         48,950.00
+WPS RESOURCES CORP.                        4.443 WPS     92931B106     49.9600         5,300.00        245,308.47        264,788.00
+WRIGLEY WM JR CO                           1.358 WWY     982526105Q    69.1900        15,700.00        848,608.82      1,086,283.00
+WYETH                                      2.160 WYE     983024100Q    42.5900        14,100.00        582,072.38        600,519.00
+WYNN RESORTS LTD                           0.000 WYNN    983134107     66.9200         4,100.00        198,903.19        274,372.00
+XCEL ENERGY INC                            4.560 XEL     98389B100Q    18.2000        36,400.00        605,252.14        662,480.00
+XEROX CORP                                 0.000 XRX     984121103Q    17.0100         8,100.00        115,911.96        137,781.00
+XILINX INC                                 0.674 XLNX    983919101     29.6500        16,200.00        474,758.62        480,330.00
+XM SATELLITE RADIO HOLD-CL A               0.000 XMSR    983759101     37.6200         1,400.00         24,489.46         52,668.00
+XTO ENERGY INC.                            0.565 XTO     98385X106     35.3800        20,550.00        427,668.16        727,059.05
+YAHOO INC                                  0.000 YHOO    984332106     37.6800        31,200.00        812,011.24      1,175,616.00
+YELLOW ROADWAY CORP                        0.000 YELL    985577105     55.7100         5,100.00        254,283.17        284,121.00
+YUM BRANDS, INC.                           0.847 YUM     988498101     47.1800         2,200.00         94,328.02        103,796.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     56.2800         2,125.00         96,438.09        119,595.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     80.1200        14,400.00        884,839.04      1,153,728.00
+ZIONS BANCORPORATION                       1.881 ZION    989701107     68.0300           900.00         60,031.35         61,227.00
+
+Instrument Total           647                                                     9,056,660.16    246,338,428.49    299,601,503.47
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+APARTMENT INVT & MGMT                      6.227 AIV     03748R101     38.5400         2,000.00         74,454.40         77,080.00
+ARCHSTONE COMMUNITIES                      4.490 ASN     039583109Q    38.3000         1,300.00         37,007.72         49,790.00
+ARDEN REALTY GROUP INC                     5.355 ARI     039793104Q    37.7200         1,600.00         46,916.64         60,352.00
+AVALONBAY COMMUNITIES                      1.450 AVB     053484101Q    75.3000         3,800.00        244,924.40        286,140.00
+BOSTON PROPERTIES INC                      4.020 BXP     101121101     64.6700         3,200.00        140,885.79        206,944.00
+BRE PROPERTIES  -CL A                      4.837 BRE     05564E106     40.3100         2,300.00         93,192.09         92,713.00
+CAMDEN PROPERTY TRUST                      4.980 CPT     133131102     51.0000         4,700.00        201,618.24        239,700.00
+CATELLUS DEVELOP CORP                      3.529 CDX     149113102     30.6000         3,800.00         93,595.13        116,280.00
+CBL & ASSOC PROP                           3.721 CBL     124830100     76.3500         3,300.00        211,667.18        251,955.00
+CENTERPOINT PROP CORP.                     3.570 CNT     151895109     47.8900         1,600.00         54,699.00         76,624.00
+DEVELOPERS DIVERSIFIED RE                  4.597 DDR     251591103Q    44.3700         6,300.00        187,431.45        279,531.00

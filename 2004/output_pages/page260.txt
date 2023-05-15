@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+IVILLAGE INC                                 0.000     46588H105   IVIL            34,900          181,631.84          215,682.00
+IXIA                                         0.000     45071R109   XXIA            63,288          764,264.60        1,063,871.28
+IXYS CORP                                    0.000     46600W106   SYXI            20,900          170,695.73          215,688.00
+J & J SNACK FOODS CORP                       0.000     466032109   JJSF            62,709        2,219,879.75        3,074,622.27
+J C PENNEY INC                               1.207     708160106 Q JCP            618,800       18,456,069.09       25,618,320.00
+J. JILL GROUP INC                            0.000     466189107   JILL            19,700          442,849.45          293,333.00
+J2 GLOBAL COMMUNICAT                         0.000     46626E205   JCOM            20,900          518,742.73          721,050.00
+JABIL CIRCUIT INC                            0.000     466313103   JBL            197,046        4,933,216.82        5,040,436.68
+JACK IN THE BOX INC.                         0.000     466367109   JBX            123,800        3,187,320.30        4,564,506.00
+JACKSON HEWITT TAX SERVICE INC               1.108     468202106   JTX             41,800          852,720.00        1,055,450.00
+JACOBS ENGINEERING GROUP                     0.000     469814107   JEC            124,435        4,922,081.52        5,946,748.65
+JACUZZI BRANDS INC                           0.000     469865109   JJZ            276,800        1,501,517.39        2,408,160.00
+JAKKS PACIFIC INC.                           0.000     47012E106   JAKK            28,139          460,162.66          622,153.29
+JAMDAT MOBILE INC                            0.000     47023T100   JMDT             6,800          142,327.31          140,420.00
+JANUS CAPITAL GROUP INC                      0.238     47102X105   JNS            906,900       14,270,231.37       15,244,989.00
+JARDEN CORP                                  0.000     471109108   JAH             40,750        1,152,921.40        1,770,180.00
+JDA SOFTWARE GROUP INC                       0.000     46612K108   JDAS            28,567          571,330.49          389,082.54
+JDS UNIPHASE CORP                            0.000     46612J101   JDSU         1,895,300       41,713,773.87        6,008,101.00
+JEFFERSON PILOT                              2.925     475070108 Q JP             334,800       14,447,211.00       17,396,208.00
+JEFFRIES GROUP INC                           1.191     472319102   JEF             92,509        3,037,977.32        3,726,262.52
+JETBLUE AIRWAYS CORP                         0.000     477143101   JBLU           433,800       10,406,899.19       10,072,836.00
+JLG INDUSTIRES, INC.                         0.101     466210101   JLG            146,910        2,105,424.86        2,883,843.30
+JM SMUCKER CO                                2.124     832696405   SJM             45,684        1,970,845.95        2,150,345.88
+JO-ANN STORES INC                            0.000     47758P307   JAS             58,320        1,388,422.19        1,606,132.80
+JOHN B. SANFILIPPO & SON INC                 0.000     800422107   JBSS            19,800          466,130.76          510,444.00
+JOHNSON & JOHNSON                            1.797     478160104 Q JNJ          6,486,699      239,852,697.34      411,386,450.58
+JOHNSON CONTROLS                             1.576     478366107 Q JCI            406,448       17,637,740.05       25,785,061.12
+JONES APPAREL GROUP INC                      1.093     480074103   JNY            241,500        7,768,139.23        8,831,655.00
+JONES LANG LASALLE I                         0.000     48020Q107   JLL            114,200        2,795,971.44        4,272,222.00
+JOS. A. BANK CLOTHIERS INC.                  0.000     480838101   JOSB            11,375          306,739.04          321,912.50
+JOURNAL COMMUNICATIONS INC                   1.438     481130102   JRN             77,800        1,379,011.83        1,405,846.00
+JOURNAL REGISTER CO                          0.000     481138105   JRC             82,700        1,521,576.65        1,598,591.00
+JOY GLOBAL INC                               1.036     481165108   JOYG            97,550        2,141,140.06        4,236,596.50
+JPMORGAN CHASE & CO.                         3.486     46625H100 Q JPM          7,532,668      252,791,122.53      293,849,378.68
+JUNIPER NETWORKS INC                         0.000     48203R104   JNPR           539,820        9,533,983.37       14,677,705.80
+JUPITERMEDIA CORP                            0.000     48207D101   JUPM            71,300          707,329.38        1,695,514.00
+K V PHARMACEUTICAL C                         0.000     482740206   KV.A            39,700          791,811.87          875,385.00
+K-SWISS INC CL-A                             0.343     482686102   KSWS            28,700          393,407.73          835,744.00
+K.C.S. ENERGY INC.                           0.541     482434206   KCS            155,300        1,785,152.37        2,295,334.00
+K2 INC.                                      0.000     482732104   KTO             30,450          422,249.95          483,546.00

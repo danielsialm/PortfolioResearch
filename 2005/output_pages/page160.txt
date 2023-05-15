@@ -1,0 +1,26 @@
+ASOF02   Date 01/19/2006 Time 18:24:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 127
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+PENNSYLVANIA RI                            5.629 PEI     709102107     37.3600         2,100.00         71,482.94         78,456.00
+PRENTISS PROPERTIES TRUST                  0.245 PP      740706106     40.6800           200.00          6,828.82          8,136.00
+RAMCO-GERSHENSON PPT                       3.591 RPT     751452202     26.6500           100.00          2,960.60          2,665.00
+SAUL CENTERS INC                           4.653 BFS     804395101     36.1000           100.00          3,387.78          3,610.00
+SIZELER PPTY INVS IN                       3.112 SIZ     830137105     12.8500           100.00          1,306.38          1,285.00
+SPIRIT FINANCE CORP                        7.400 SFC     848568309     11.3500           200.00          2,227.20          2,270.00
+SUNSTONE HOTEL INVESTORS INC               4.516 SHO     867892101     26.5700         2,400.00         50,940.55         63,768.00
+U-STORE-IT TRUST                           5.510 YSI     91274F104     21.0500         2,900.00         58,566.71         61,045.00
+URSTADT BIDDLE PPTYS                       5.552 UBA     917286205     16.2100           100.00          1,570.63          1,621.00
+WINSTON HOTELS INC                         6.060 WXH     97563A102      9.9000         4,700.00         50,334.57         46,530.00
+
+Instrument Total            51                                                        77,800.00      1,425,620.58      1,479,179.00
+
+Portfolio Total          1,175                                                     1,567,140.50     23,445,510.92     25,189,648.92
+

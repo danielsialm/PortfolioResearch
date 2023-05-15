@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BABSON STEWART - EQUITIES                    0.000     IE-BAB                 5,660,248.17      566,024,817.21
+BABSON STEWART - LIQUIDITY                   0.000     IL-BAB                   220,762.44       22,076,244.02
+
+Instrument Total               2                                              5,881,010.61      588,101,061.23
+
+Portfolio Total                2                                              5,881,010.61      588,101,061.23        809,737,179.50

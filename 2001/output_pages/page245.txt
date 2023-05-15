@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 024
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 026
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - INTERNATIONAL
 Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-HONGKONG+CHINA GAS                           0.308     6436557      64365       516,200.00          629,269.99
-HSBC HOLDINGS ORD                           26.234     0540528      HSBA_       592,036.00        6,067,164.54
-HUTCHISON WHAMPOA                            0.004     6448068      13_HK       264,300.00        2,603,674.36
-IBERDROLA SA                                 1.860     4424640      IBE_S       138,937.00        1,789,515.77
-INDEPENDENT NEWSPAPERS LTD.                  0.422     6462024      INL_N       554,300.00          883,186.36
-ING GROEP NV NLG1                            2.393     7154182      INGA_        10,576.00          606,300.41
-INSURANCE AUSTRALIA GROUP                    1.632     6271026      IAG_A       320,613.00          559,883.30
-INTERBREW                                    0.356     4755317      INTB_        52,600.00        1,346,133.34
-INTRACOM SA                                  2.326     5482023      INTRK         7,100.00           95,819.63
-IRISH LIFE & PERMANENT                       3.527     0467865      IPM_I         5,000.00           62,444.97
-ISHARES MSCI EAFE INDEX FUND                 0.142     2801290      EFA           1,650.00          197,637.00
-ITO-YOKADO CO JPY5                           0.000     6467944      8264_        10,000.00          450,931.96
-JAPAN DIGITAL CONTENTS                       0.000     6470986      4185_        69,000.00          397,407.63
-JOHNSON ELECTRIC HLDINGS                     0.000     6281939      179_H       269,600.00          314,520.48
-JUSCO CO JPY50                               0.000     6480048      8267_        26,000.00          544,131.14
-KAO CORP Y50                                 0.000     6483809      4452_        27,768.00          685,765.72
-KBC BANKVERZEKERIN                           1.945     4497749      KBC_B        43,500.00        1,304,659.82
-KEYENCE CORPORATION                          0.000     6490995      6861_         3,800.00          534,916.11
-KINGFISHER PLC                               8.999     3073850      KGF_L       132,712.00          713,760.49
-KOMATSU Y50                                  0.009     6496584      6301_        87,000.00          565,784.74
-KONINKLIJKE AHOLD NV                         1.807     5252602      AHLN_         4,264.00          124,671.30
-KONINKLIJKE KRN                              7.215     5956078      KPN_N         5,929.00           23,571.35
-KONINKLIJKE NUMICO                           3.132     5402601      NUTV_           372.00            8,902.56
-KYOCERA CORP JPY50                           0.000     6499260      6971_         9,300.00          713,318.61
-KYUSHU ELECTRIC POWER                        0.000     6499806      9508_       200,300.00        3,265,870.86
-L’’OREAL FRF10                               0.372     4057808      OR_FP        11,454.00          763,385.40
-LAND SECURITIES OR                           6.151     0504502      LAND_        45,388.00          574,633.72
-LEGAL + GENERAL OR                           6.637     0560399      LGEN_       590,199.00        1,309,309.34
-LI & FUNG LTD                                0.000     6286257      494_H       223,400.00          267,045.39
-LINDE AG                                     2.180     5740817      00340         3,000.00          128,886.92
-LLOYDS TSB GROUP O                          18.949     0870612      LLOY_       345,094.00        3,707,017.24
-LVMH MOET-HENNESSY                           1.447     4061412      MC_FP         8,350.00          275,073.16
-MABUCHI MOTOR CO                             0.004     6551030      6592_         4,200.00          361,180.27
-MARKS+ SPENCER ORD                           5.172     0565402      MKS_L       259,018.00        1,501,493.95
-MATSUSHITA ELC IND                           0.000     6572707      6752_       103,000.00        1,338,051.01
-MATSUSHITA ELECTRIC WORKS                    0.008     6572729      6991_       104,000.00          896,263.13
-MAYR-MELNHOF KARTO                           2.412     4563640      MAYR_        18,900.00          903,267.91
-METRO AG NPV                                 2.007     5041413      MEO_G           280.00           10,037.67
-MISYS ORD GBP0.01                            2.601     0385785      MSY_L        36,365.00          186,485.42
+REED INTERNATIONAL                           2.558     0730835      REED_        56,473.00          481,776.96
+REPSOL - YPF, SA                             0.914     5669354      REP_S       108,632.00        1,641,275.12
+REUTERS GROUP ORD                            3.096     0236913      RTR_L       101,787.00        1,100,936.82
+RHONE POULENC ORD                            0.378     4736817      AVE_F        25,193.00        1,647,597.43
+RICOH CO Y50                                 0.000     6738220      7752_        39,000.00          665,439.87
+RIO TINTO LIMITED                            0.759     6220103      RIO_A        79,274.00        1,420,918.96
+RIO TINTO PLC                                9.240     0718875      RIO_L       112,893.00        1,843,742.27
+ROCHE HLDGS AG CHF                           0.300     7108918      RO_SW         3,814.00          431,534.79
+ROCHE HLDGS AG GEN                           0.005     7110388      ROG_V        13,687.00        1,133,679.52
+ROHM CO JPY50                                0.000     6747204      6963_         7,500.00        1,033,669.08
+ROYAL BK SCOT GBP                            9.210     0754783      RBOS_       188,850.00        3,316,086.93
+ROYAL DUTCH PETROL                           2.213     5202704      RDA_N        11,502.00          662,792.09
+RWE AG                                       3.229     4768962      RWE_G        10,600.00          399,879.89
+RYANAIR HOLDINGS                             0.000     3111761      RYA_I         5,000.00           51,933.38
+SAINSBURY(J) GBP0.                           5.524     0767640      SBRY_        58,327.00          309,906.15
+SAMPO-LEONIA INSURANCE COMPANY PLC           4.844     5226038      SAMAS        47,200.00          353,748.18
+SANOFI SYNTHELABO                            0.359     5671735      SAN_F        11,870.00          797,714.97
+SAP AG NPV(SWISS C                           0.206     4846288      SAP_G         4,800.00          513,527.83
+SCHERING AG DEM NP                           1.467     4845757      SCH_G         3,000.00          150,586.49
+SCHNEIDER ELECTRIC                           1.392     4834108      SU_FP         8,281.00          375,246.16
+SCOT POWER PLC 0.5                         288.703     0690070      SPW_L       109,782.00          679,239.39
+SHARP CORP JPY50                             0.000     6800602      6753_        64,000.00          857,194.59
+SHELL TRANSPORTATION & TRADING              13.886     0803414      SHEL_       338,857.00        2,635,033.17
+SHIN-ETSU CHEMICAL                           0.000     6804585      4063_        33,700.00        1,054,995.64
+SIEMENS AG DEM 5.0                           0.487     5727973      SIE_G        15,900.00          799,237.29
+SIX CONTINENTS                              10.565     0243195      SXC_L       118,519.00        1,210,759.39
+SKY CITY LIMITED                             4.141     6823193      SKC_N       249,100.00          595,826.46
+SMURFIT (JEFFERSON) GROUP                    0.811     0819143      SMFT_       157,600.00          333,434.81
+SOCIETE GENERALE                             2.597     5966516      GLE_F         8,636.00          438,011.55
+SOLVAY SA NPV                                1.953     4821100      SOLB_         9,100.00          518,905.00
+SONERA GROUP PLC 0                           0.842     5556586      SRA1V        91,200.00          455,842.38
+SONY CORP JPY50                              0.000     6821506      6758_        45,452.00        2,120,757.99
+SPAR HANDELS                                 0.000     5106709      SPA_G           200.00            3,721.58
+STATOIL ASA                                  0.000     7133608      STL_N       265,600.00        1,784,850.52
+STMICROELECTRONICS NV                        0.097     5962332      STM_F        14,984.00          323,416.78
+STORA ENSO OY J-R                            1.667     5072673      STERV        42,400.00          562,281.85
+STOREBRAND ASA NOK                           0.025     4852832      STB_N       100,600.00          569,080.19
+SUEZ EUR                                     1.330     7118047      SZE_F        24,032.00          775,931.78
+SUMITOMO BAKELITE CO.                        0.000     6858504      4203_        88,000.00          509,117.24

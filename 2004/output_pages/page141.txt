@@ -1,0 +1,23 @@
+ASOF02   Date 01/21/2005 Time 18:34:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 109
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+HRPT PROPERTIES TRUST                      6.547 HRP     40426W101     12.8300         6,232.00         70,443.42         79,956.56
+LIBERTY PROPERTY TRUST                     5.648 LRY     531172104Q    43.2000         4,214.00        169,190.67        182,044.80
+MACERICH CO                                4.140 MAC     554382101     62.8000        20,328.00        936,280.21      1,276,598.40
+MACK-CALI RE CORP.                         5.474 CLI     554489104     46.0300         3,036.00        132,143.56        139,747.08
+PAN PACIFIC RETAIL                         3.460 PNP     69806L104     62.7000        25,247.00      1,396,931.79      1,582,986.90
+TRIZEC PROPERTIES INC                      4.228 TRZ     89687P107     18.9200         8,231.00        133,180.48        155,730.52
+VORNADO REALTY TRUST                       3.993 VNO     929042109     76.1300         5,331.00        265,017.50        405,849.03
+
+Instrument Total            13                                                       144,495.00      5,507,913.72      6,534,344.64
+
+Portfolio Total            265                                                    22,083,260.68    586,342,646.17    689,203,341.27
+

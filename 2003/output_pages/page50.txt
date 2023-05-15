@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+NOVELL INC                                 0.000 NOVL    670006105     10.5200       205,000.00      1,115,181.53      2,156,599.99
+NOVELLUS SYSTEMS INC.                      0.000 NVLS    670008101     42.0500       275,300.00      9,388,828.26     11,576,365.00
+NUVEEN INVESTMENTS INC-CL A                2.250 JNC     67090F106     26.6600        32,500.00        916,650.94        866,450.01
+NVIDIA CORP                                0.000 NVDA    67066G104     23.2500       256,300.00      8,284,151.00      5,958,975.00
+NVR INC                                    0.000 NVR     62944T105    466.0000         5,000.00        793,465.37      2,330,000.00
+O'REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     38.3600        41,900.00        983,614.18      1,607,284.00
+ONMICARE INC.                              0.222 OCR     681904108     40.3900        60,600.00      1,365,547.16      2,447,634.00
+OUTBACK STEAKHOUSE INC                     1.176 OSI     689899102     44.2100        57,800.00      1,727,516.57      2,555,338.00
+OXFORD HEALTH PLANS                        0.919 OHP     691471106     43.5000       161,300.00      5,646,855.23      7,016,549.99
+PACTIV CORPORATION                         0.000 PTV     695257105     23.9000       115,400.00      2,629,481.83      2,758,059.99
+PALL CORPORATION                           1.341 PLL     696429307Q    26.8300       157,700.00      3,566,689.39      4,231,091.00
+PATTERSON DENTAL COMPANY                   0.000 PDCO    703412106     64.1600        90,300.00      3,142,748.62      5,793,648.00
+PATTERSON-UTI ENERGY INC                   0.000 PTEN    703481101     32.9200       136,900.00      3,906,241.94      4,506,748.00
+PENTAIR INC.                               1.838 PNR     709631105Q    45.7000         9,600.00        253,475.88        438,720.02
+PEOPLESOFT INC                             0.000 PSFT    712713106     22.8000       130,934.00      2,497,169.30      2,985,295.20
+PEPSI BOTTLING GROUP INC                   0.165 PBG     713409100     24.1800       242,600.00      5,529,005.93      5,866,068.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     36.1700        52,500.00      1,508,562.70      1,898,924.99
+PERKIN ELMER INC                           1.640 PKI     714046109Q    17.0700        80,500.00      1,313,972.85      1,374,135.00
+PETSMART INC                               0.336 PETM    716768106     23.8000       240,600.00      3,453,313.12      5,726,280.02
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     26.9700        82,100.00      1,595,318.86      2,214,236.99
+PHARMACEUTICAL RESOURCES INC               0.000 PRX     717125108     65.1500        56,700.00      2,470,563.37      3,694,005.00
+PHELPS DODGE CORP.                         0.000 PD      717265102Q    76.0900        78,500.00      3,572,936.45      5,973,065.01
+PIER 1 IMPORTS INC/DEL                     1.463 PIR     720279108     21.8600       120,100.00      2,421,090.37      2,625,385.99
+PIONEER NATURAL RESOURCES CO.              0.000 PXD     723787107     31.9300        23,700.00        519,884.18        756,741.01
+PITNEY-BOWES, INC.                         2.954 PBI     724479100Q    40.6200       268,800.00      9,843,600.03     10,918,655.99
+PIXAR                                      0.000 PIXR    725811103     69.2900        70,000.00      4,705,475.78      4,850,299.99
+PMC-SIERRA INC                             0.000 PMCS    69344F106     20.1500       182,000.00      3,921,931.86      3,667,300.00
+POLARIS INDUSTRIES INC.                    1.399 PII     731068102     88.5800        20,000.00        985,567.76      1,771,600.00
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200        92,200.00      1,969,806.75      1,799,744.01
+POPULAR INC                                2.403 BPOP    733174106     44.9400        66,500.00      2,563,237.73      2,988,509.99
+PRAXAIR INC.                               1.413 PX      74005P104Q    38.2000       168,400.00      3,857,654.96      6,432,879.98
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     18.6400       134,500.00      2,446,814.28      2,507,079.98
+PROTEIN DESIGN LABS INC                    0.000 PDLI    74369L103     17.9000       116,100.00      1,679,263.63      2,078,190.02
+PROVIDIAN FINANCIAL CORP                   1.030 PVN     74406A102     11.6400       185,300.00      4,950,152.85      2,156,891.98
+QLOGIC CORPORATION                         0.000 QLGC    747277101     51.6000       160,000.00      5,074,482.20      8,255,999.99
+QUEST DIAGNOSTICS INC                      0.820 DGX     74834L100     73.1100       110,100.00      6,091,397.42      8,049,411.00
+QWEST COMMUNICATIONS INTL.                 1.157 Q       749121109      4.3200       543,000.00     20,326,379.15      2,345,760.00
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     19.3000        60,500.00      1,044,260.67      1,167,650.00
+RADIOSHACK CORP                            0.814 RSH     750438103Q    30.6800       315,100.00      8,229,536.63      9,667,267.98

@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 072
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+TRAMMELL CROW CO                             0.000     89288R106   TCC             49,800          553,005.57          659,850.00
+TRANS WORLD ENTERTAINMENT CP                 0.000     89336Q100   TWMC            84,885          580,263.68          604,381.20
+TRANSACTION SYSTEMS ARCHITECTS               0.000     893416107   TSAI            58,700          911,686.68        1,328,381.00
+TRANSATLANTIC HOLDINGS INC                   0.544     893521104 Q TRH             36,500        2,579,165.15        2,949,200.01
+TRANSKARYOTIC THERAPIES INC.                 0.000     893735100   TKTX           106,685          931,898.60        1,665,352.85
+TRANSMETA CORP                               0.000     89376R109   TMTA           137,700          220,310.39          468,180.00
+TRANSMONTAIGNE INC                           0.000     893934109   TMG             20,900          125,800.53          134,805.00
+TRANSOCEAN SEDCO FOREX INC.                  0.499     G90078109   RIG            158,600        3,577,697.85        3,807,986.00
+TRANSWITCH CORP                              0.000     894065101   TXCC            51,400          147,457.76          118,220.00
+TRAVELERS PROPERTY CASUALTY - B              1.885     89420G406   TAP.B        1,889,482       28,269,197.01       32,064,509.57
+TRC COS INC                                  0.000     872625108   TRR             14,200          228,178.53          299,052.00
+TREDEGAR CORPORATION                         1.030     894650100   TG              42,200          744,288.69          655,365.99
+TREX COMPANY INC                             0.000     89531P105   TWP              4,800          186,965.70          182,304.00
+TRIAD GTY INC                                0.000     895925105   TGIC             9,200          393,279.28          463,220.00
+TRIAD HOSPITALS INC                          0.000     89579K109   TRI            212,400        6,676,643.58        7,066,548.00
+TRIARC COM                                   2.199     895927101   TRY             19,400          173,485.05          229,308.00
+TRIARC COMPANIES, INC.-B                     2.782     895927309   TRY.B           65,900          692,925.00          710,401.99
+TRIBUNE CO                                   0.852     896047107 Q TRB            736,200       30,589,926.14       37,987,920.02
+TRICO BANCSHARES                             2.534     896095106   TCBK             6,300          161,786.81          198,828.00
+TRICO MARINE SERVICES INC                    0.000     896106101   TMAR           281,200          424,904.49          503,348.00
+TRIDENT MICROSYSTEMS INC                     0.000     895919108   TRID            31,527          516,890.65          549,200.33
+TRIMBLE NAVIGATION LTD                       0.000     896239100   TRMB            63,300        1,552,901.19        2,357,292.00
+TRIMERIS INC                                 0.000     896263100   TRMS             9,800          473,663.28          205,604.00
+TRINITY INDUSTRIES                           0.778     896522109   TRN            112,300        2,812,909.53        3,463,332.00
+TRIPATH IMAGING INC                          0.000     896942109   TPTH            43,100          368,797.07          336,180.00
+TRIQUENT SEMICONDUCTOR                       0.000     89674K103   TQNT           250,449        2,149,527.54        1,770,674.43
+TRITON PCS HOLDINGS INC CL A                 0.000     89677M106   TPC             59,400          312,841.70          331,452.00
+TRIUMPH GROUP INC                            0.000     896818101   TGI             17,300          698,055.90          629,720.00
+TRIZETTO GROUP INC                           0.000     896882107   TZIX            37,400          258,286.12          241,230.00
+TROY FINL CORP                               1.828     897329108   TRYF             7,900          226,374.29          276,500.00
+TRUST CO NJ JERSEY C                         1.814     898304100   TCNJ            22,400          712,713.66          888,832.00
+TRUSTCO BANK CORP. NY                        4.562     898349105   TRST            90,000          943,740.49        1,183,500.00
+TRUSTMARK CORP                               2.596     898402102   TRMK            90,900        2,424,251.54        2,660,643.00
+TTM TECHNOLOGIES                             0.000     87305R109   TTMI            87,575          881,306.81        1,478,266.00
+TUESDAY MORNING CORP                         0.000     899035505   TUES            16,500          460,769.53          499,125.00
+TULARIK INC                                  0.000     899165104   TLRK            58,500          692,229.12          944,775.00
+TUPPERWARE CORPORATION                       5.075     899896104   TUP             63,993        1,046,576.31        1,109,638.62
+TWEETER HOME ENTERTAINMENT GROUP             0.000     901167106   TWTR            56,900          477,921.43          537,704.99
+TXU CORPORATION                              2.107     873168108 Q TXU            602,100       17,925,764.85       14,281,812.01
+TYCO INT'L. LTD NEW                          0.188     902124106 Q TYC             70,600        1,202,106.20        1,870,900.00

@@ -1,0 +1,27 @@
+ASOF03   Date 01/20/2004 Time 18:59:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REI       RE INTERNATIONAL
+Instrument - I         INTERNATIONAL
+
+BLACKSTONE EUROPEAN FUND       MISC W EUROPE                   0.000         RBKSTN                 18,430,343.00     17,043,693.05
+DOUGHTY HANSON & CO EUROPEAN   MISC EUROPE                     0.000         RDGHTY                 24,775,921.12     22,790,673.01
+EUROPA-INTERNATIONAL           MISC EUROPE                     0.000         REUROP                 27,242,546.31     29,974,684.64
+LASALLE ASIA RECOVERY FUND     ASIA                            0.000         RLSARF                 25,097,400.00     24,663,247.00
+LEND LEASE ASIA                MISC ASIA                       0.000         RLNDLA                 11,000,000.00     12,935,979.00
+LEND LEASE GLOBAL              MISC EUROPE                     0.000         RLNDLS                 50,000,000.00     49,920,875.00
+ORION EUROPEAN REAL ESTATE FUN MISC EUROPE                     0.000         RORION                 25,190,022.99     30,293,180.53
+PRUDENTIAL PROP. PRTNRS.-INT'L EUROPE                          0.000         RPRUDE                 17,678,683.69     23,294,980.92
+SOROS RE INVST-INT'L           MISC EUROPE                     0.000         RSOROS                 26,089,377.89     25,841,665.00
+WESTBROOK FRENCH PORTFOLIO     MISC US                         0.000         RWSTBF                 30,000,000.00     30,000,000.00
+
+Instrument Total            10                                                                     255,504,295.00    266,758,978.15
+
+Portfolio Total             10                                                                     255,504,295.00    266,758,978.15
+
+Group Total                227                              3,595,739,374.90 /    10,610,795.00  3,859,531,137.76  4,704,326,775.63

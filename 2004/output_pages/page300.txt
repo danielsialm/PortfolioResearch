@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+FS EQUITY PARTNERS V                         0.000     ABFSV       99407        8,046,320        8,046,319.98        5,851,329.01
+GENERAL CATALYST GROUP II                    0.000     AVGCG2      99405        6,100,000        6,100,000.00        5,661,473.00
+GENERAL CATALYST GROUP III                   0.000     AVGCG3      AVGCG        3,000,000        3,000,000.00        2,997,318.00
+GILBERT GLOBAL EQUITY PARTNERS L.P.          0.000     AGILBERTG   GILBE       61,850,413       61,850,413.72       37,470,937.00
+GLOBESPAN CAPITAL PARTNERS IV                0.000     AVGLBSPN4   99407        7,128,000        7,128,000.00        5,927,343.00
+HARBOURVEST INT'L III-DIRECT                 0.000     VEA02633    HVIPE       11,388,438       11,388,437.47        5,798,777.98
+HARBOURVEST INT'L III-PARTNERSHIP            0.000     AHARBPART   99404       47,158,634       47,158,634.14       50,506,845.00
+HARBOURVEST INT'L IV-DIRECT                  0.000     AGHIPEP4D   99405       20,727,958       20,727,957.93       19,237,549.00
+HARBOURVEST INT'L IV-PARTNERSHIP             0.000     AGHIPEP4P   99405       37,341,565       37,341,564.76       36,865,537.99
+HARBOURVEST PARTNERS VI DIRECT FUND L.P.     0.000     AHARBOURDI  99404       21,795,999       21,795,999.61       15,191,855.00
+HARBOURVEST PARTNERS VI PARTNERSHIP FUND     0.000     AHARBOURPA  99404       40,539,972       40,539,971.19       29,860,679.03
+HARBOURVEST PARTNERS VII BUYOUT FUND         0.000     ABHVP7      99407        4,755,000        4,754,999.97        4,550,104.98
+HARBOURVEST PARTNERS VII VENTURE FUND        0.000     AVHVP7      99407        4,750,000        4,750,000.00        4,558,117.00
+HEARTLAND INDUSTRIAL PARTNERS                0.000     ABHEART     99404       23,343,929       23,343,928.88       23,418,459.01
+LEHMAN BROTHERS II                           0.000     VEA02551    LBBP         9,248,892        9,248,891.68       14,863,713.88
+LIGHTHOUSE CAPITAL PARTNERS V                0.000     AVLIGHTHS5  99407        6,250,000        6,250,000.00        5,935,361.00
+LIME ROCK PARTNERS II                        0.000     AOLIMEROCK  99406       17,628,778       17,628,777.77       17,601,470.01
+LIME ROCK PARTNERS III                       0.000     AOLIMEROCK  AOLIM           41,911           41,911.00           41,911.00
+LINSALATA CAPITAL PARTNERS III               0.000     ALINCAP     99404              999              999.91       11,432,850.99
+LINSALATA CAPITAL PARTNERS IV                0.000     ABLINCAP4   ABLIN       14,132,242       14,132,242.61       23,538,799.99
+MERITAGE PRIVATE EQUITY I                    0.000     AMERIT      AMERI       24,500,000       24,500,000.00       14,157,318.98
+MERITAGE PRIVATE EQUITY II                   0.000     AVMERIT2    AVMER       11,250,000       11,250,000.00        8,338,159.98
+MIAMI VALLEY VENTURE FUND                    0.000     VEA01492    MVVF         2,689,429        2,689,429.19        1,108,013.98
+MONITOR CLIPPER EQUITY PARTNERS II           0.000     ABMONITOR2  99407        4,761,707        4,761,707.70        3,803,580.99
+MORGENTHALER PARTNERS IV                     0.000     VEA01176    MGVP               999              999.99          178,084.02
+MORGENTHALER PARTNERS V                      0.000     VEA01177    MGVPV        6,612,414        6,612,413.62        2,845,151.99
+MORGENTHALER PARTNERS VI                     0.000     AVMORG6     MGVPV       17,398,472       17,398,472.11        8,378,003.99
+MORGENTHALER PARTNERS VII                    0.000     AVMORG7     99405       19,600,821       19,600,820.96       16,347,417.96
+N0RTHWEST OHIO VENTURE FUND                  0.000     VEA05606    NOVF         1,908,506        1,908,506.97          192,086.98
+NEW ENTERPRISE ASSOCIATES 10                 0.000     AVNEA10     AVNEA       12,490,315       12,490,314.45       12,901,430.51
+NEW ENTERPRISE ASSOCIATES 11                 0.000     AVNEA11     AVNEA        3,000,000        3,000,000.00        2,938,645.00
+NORTHCOAST FUND                              0.000     VEA06027    NCFD             1,000            1,000.00            1,000.00
+NORTHCOAST FUND II                           0.000     AVCNC       99404       11,515,930       11,515,930.00        2,597,877.51
+OAK HILL CAPITAL PARTNERS                    0.000     AOAKHILL    99404       16,059,164       16,059,163.99       22,654,642.49
+OHIO INNOVATION FUND I                       0.000     VEA02581    OIF1         1,800,000        1,800,000.00        1,926,034.02
+PARK ST CAPITAL PRIVATE EQUITY FUND V        0.000     AVPARK5     AVPAR        1,353,550        1,353,550.68        1,201,717.99
+PARK STREET CAPITAL PRIVATE EQUITY FUND      0.000     AVPARK6     AVPAR          400,000          400,000.00          400,000.00
+PRIMUS CAPITAL FUND III-A PFD                0.000     VEA06130    PCFZ             1,000              999.99          353,819.39
+PRIMUS CAPITAL FUND III-B                    0.000     VEA06129    PCFY             1,000            1,000.00          403,995.41
+PRIMUS CAPITAL FUND IV                       0.000     VEA02451    PCF4        11,374,826       11,374,826.13        9,813,737.57

@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 012
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 014
 
 Monthly Market Portfolio
 
@@ -6,12 +6,11 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-BERNS   SANFORD BERNSTEIN EA
+Portfolio  - I-CASTLE  BLACKROCK INTERNATIO
 Instrument - INTF      INTERNATIONAL FUNDS
 
-BERNSTEIN - EQUITIES                         0.000     IE-BER                11,653,701.11    1,165,370,111.21
-BERNSTEIN - LQR                              0.000     IL-BER                   496,703.35       49,670,335.53
+BLACKROCK INTL-LQR                           0.000     IL-CAST                      204.55           20,455.23
 
-Instrument Total               2                                             12,150,404.46    1,215,040,446.74
+Instrument Total               1                                                    204.55           20,455.23
 
-Portfolio Total                2                                             12,150,404.46    1,215,040,446.74      1,109,718,934.20
+Portfolio Total                1                                                    204.55           20,455.23             20,487.45

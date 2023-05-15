@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CONSORCIO ARA S.A.                           0.089     2209731      ARA*_       310,000.00          848,124.85
+CONTROLADORA COMER                           0.071     2222459      COMER       235,000.00          309,715.46
+CORP INTERAMERICANA ENTRET                   0.000     2224347      CIEB_       140,000.00          302,528.27
+CPFL ENERGIA SA - ADR                        2.602     B0315D7      CPL          43,000.00          774,000.00
+CREDICORP LTD                                3.510     2232878      BAP          18,000.00          177,106.73
+DAEWOO SHIPBUILDING & MARINE                 0.001     6211732      04266       100,000.00          793,820.75
+DAISHIN SECURITIES                           0.002     6251200      00354        80,000.00        1,212,106.65
+DATANG INTERNATIONAL POWER                   0.469     6080716      991_H     2,540,000.00          856,934.01
+DELTA ELECTRONICS INC                        0.104     6260734      2308_     1,016,316.00        1,281,411.89
+DEMASZ RT                                    0.035     5068456      DEMAS         2,000.00          165,815.41
+DENWAY MOTORS LTD                            0.400     6263766      203_H     3,600,000.00        1,303,978.99
+DR REDDY'S LABORATORIES                      0.011     6410959      DRRD_        53,000.00        1,056,471.26
+ECI TELECOM ORD IL                           2.670     2310150      ECIL         29,113.00          232,433.37
+EDGARS CONSOLIDATED STORES                   0.660     B0BP746      ECO_S       190,000.00          809,944.82
+ELECTRICITY GEN PUB CO                       0.086     6304643      63046        86,500.00          120,506.81
+EMBOTELLADORAS ARCA SA                       0.608     2823885      ARCA*       485,000.00        1,019,678.63
+EMP ICA SOC CONTRO                           0.000     B0MT4R9      ICA*_       166,666.00          433,162.78
+EMPRESA BRAS DE AERONA-PREF                  0.970     2428569      EMBR4             1.00                4.93
+EMPRESAS CMPC S.A.                           0.004     2196015      CMPC_        36,500.00          357,449.98
+ENERSIS                                      0.000     2299453      ENERS     3,500,000.00          503,388.63
+EREGLI DEMIR CELIK                           6.543     B03MS97      EREGL        63,000.00          247,105.47
+FAR EASTERN DEPARTMENT STORE                 0.089     6331373      2903_     2,415,000.00        1,220,279.26
+FOMENTO ECON MEXIC                           0.081     2242059      FEMSA       400,000.00        1,379,509.76
+FORD OTOMOTIV SAN                           11.609     B03MSR5      FROTO        60,000.00          236,492.87
+FORMOSA CHEM & FIBRE                         0.235     6348715      1326_     1,420,000.00        2,161,926.02
+FOUNTAIN SET HLDGS                           0.360     6349053      420_H     2,150,000.00        1,609,885.71
+FUBON FINL HOLDING CO.                       0.183     6411673      2881_     3,100,000.00        2,722,065.76
+GAIL INDIA                                   0.066     6133405      GAIL_       126,600.00          480,921.65
+GENTING BERHAD                               0.321     6366676      GENT_       208,097.00          485,539.59
+GIANT MANUFACTURING                          0.143     6372167      9921_     1,255,000.00        1,667,999.97
+GIGABYTE TECHNOLOGY CO.                      0.185     6129181      2376_     1,765,117.00        2,879,564.84
+GOLD FIELDS LIMITE                           0.098     6280215      GFI_S       160,000.00        1,937,703.57
+GPO FIN BANORTE SE                           0.131     2421041      GFNOR       380,000.00          368,450.27
+GPO IND BIMBO SER'                           0.223     2392471      BIMBO       420,000.00          842,748.90
+GRUMA SA                                     0.218     2392545      GRUMA        40,000.00           97,146.50
+GRUPO MEXICO SA                              0.538     2643674      GMEXI       800,000.00        1,246,633.50
+GRUPO TELEVISA SA                            0.297     2380108      TLEVI       160,000.00          324,840.51
+GUJARAT AMBUJA CEMENTS LTD                   0.039     B09QQ11      YGAMB       480,000.00          255,067.69
+HACI OMER SABANCI HOLDING                    0.969     B03N0C7      SAHOL       180,000.00          455,162.11

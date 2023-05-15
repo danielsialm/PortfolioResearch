@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 194
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+ETHYL CORP                                 0.000 EY      297659609     21.8700        12,714.00        268,055.47        278,055.18
+FAIRCHILD CORP/THE                         0.000 FA      303698104      5.0400        53,200.00        266,952.00        268,128.00
+FINANCIAL INDS CORP                        0.709 FNIN    317574101     14.1000        17,700.00        253,812.80        249,570.00
+FINLAY ENTERPRISES I                       0.000 FNLY    317884203     14.1300        16,500.00        245,723.02        233,145.00
+FIRST FINL CORP IND                        2.399 THFF    320218100     30.0100         8,712.00        256,433.06        261,447.12
+FIRST UNITED CORP                          2.954 FUNC    33741H107     24.3700        10,424.00        254,771.08        254,032.88
+FRIEDMANS INC                              1.341 FRM     358438109      6.7100        17,700.00        254,893.84        118,767.00
+GAMESTOP CORP.                             0.000 GME     36466R101     15.4100        16,059.00        246,263.70        247,469.19
+GENE LOGIC INC                             0.000 GLGC    368689105      5.1900        51,600.00        242,481.30        267,804.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     18.0400        21,900.00        250,006.16        395,076.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      5.1500        59,200.00        265,953.04        304,880.00
+GOODY'S FAMILY CLOTHING INC.               0.854 GDYS    382588101      9.3600        24,422.00        262,225.94        228,589.92
+GREAT ATL & PAC TEA                        0.000 GAP     390064103Q     8.4000        34,126.00        254,010.93        286,658.40
+GUNDLE/SLT ENVIRONMENTAL INC               0.000 GSE     402809107     20.7600         2,600.00         51,092.00         53,976.00
+HAMPSHIRE GROUP LTD                        0.000 HAMP    408859106     31.3700         8,000.00        268,899.00        250,960.00
+HANDLEMAN CO.                              1.363 HDL     410252100     20.5300        14,736.00        266,081.73        302,530.08
+HARVEST NATURAL RESO                       0.000 HNR     41754V103      9.9500        35,001.00        280,516.62        348,259.95
+HAWTHORNE FINL CORP                        0.000 HTHR    420542102     27.9800         9,652.00        265,981.82        270,062.96
+HOLLY CORP                                 1.600 HOC     435758305     27.5000         9,765.00        261,605.70        268,537.50
+HORIZON OFFSHORE INC                       0.000 HOFF    44043J105      4.4000        62,800.00        265,527.82        276,320.00
+HOUSTON EXPL CO                            0.000 THX     442120101     36.5200         7,604.00        266,078.80        277,698.08
+HYPERCOM CORP                              0.000 HYC     44913M105      4.7600        50,955.00        259,339.47        242,545.80
+INFINITY PROPERTY & CASUALTY C             0.665 IPCC    45665Q103     33.0500         7,857.00        262,375.36        259,673.85
+INFOCUS CORPORATION                        0.000 INFS    45665B106      9.6800        51,500.00        256,702.04        498,520.00
+INFONET SERVICES                           0.000 IN      45666T106      1.7000       127,300.00        266,769.28        216,410.00
+INTERCEPT GROUP INC                        0.000 ICPT    45845L107     11.2900        24,537.00        272,544.20        277,022.73
+INTERLAND INC                              0.000 INLD    458727203      6.5300        31,600.00        244,217.44        206,348.00
+INVISION TECHNOLOGIES INC                  0.000 INVN    461851107     33.5700         8,698.00        261,198.33        291,991.86
+IONICS INC                                 0.000 ION     462218108     31.8500         9,600.00        239,183.04        305,760.00
+ITLA CAPITAL CORPORATION                   0.000 ITLA    450565106     50.1000         5,164.00        256,539.74        258,716.40
+JARDEN CORP                                0.000 JAH     471109108     27.3400         9,588.00        260,044.83        262,135.92
+JO-ANN STORES INC                          0.000 JAS     47758P307     20.4000        12,936.00        270,238.09        263,894.40
+KEMET CORP.                                0.000 KEM     488360108     13.6900        19,648.00        262,102.36        268,981.12
+KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100     11.9000        21,018.00        266,323.94        250,114.20
+KINDRED HEALTHCARE I                       0.000 KIND    494580103     51.9800         5,038.00        267,553.07        261,875.24
+LANDAMERICA FINANCIAL GROUP                0.765 LFG     514936103     52.2600         5,046.00        264,108.14        263,703.96
+LIGHTBRIDGE INC                            0.000 LTBG    532226107      9.1000        26,933.00        261,086.31        245,090.30
+LTC PROPERTIES INC                         6.784 LTC     502175102     14.7400        18,420.00        264,957.13        271,510.80
+M&F WORLDWIDE CORP                         0.000 MFW     552541104     13.3600        18,726.00        269,779.22        250,179.36

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SCRIPPS CO. E.W. CL A                        0.779     811054204 Q SSP             38,800        2,983,625.52        2,985,660.00
+SEACOAST FINL SERVICES COPR                  2.198     81170Q106   SCFS            46,300        1,014,613.92          926,509.30
+SEACOR SMIT INC.                             0.000     811904101   CKH             22,900        1,022,859.05        1,019,050.00
+SEALED AIR CORP.                             0.000     81211K100   SEE            248,027        8,368,438.20        9,251,407.10
+SEARS ROEBUCK & CO.                          3.841     812387108 Q S              586,428       25,494,511.26       14,044,950.60
+SEI INVESTMENTS CO                           0.441     784117103   SEIC           230,300        4,977,358.93        6,259,554.00
+SELECTIVE INSURANCE GROUP                    2.382     816300107   SIGI            80,765        1,809,191.06        2,033,662.70
+SEMPRA ENERGY                                4.228     816851109   SRE            498,856       11,037,942.02       11,797,944.40
+SEMTECH CORPORATION                          0.000     816850101   SMTC           158,770        4,045,201.71        1,733,768.40
+SENSIENT TECHNOLOGIES                        2.492     81725T100 Q SXT            108,000        1,999,371.26        2,426,760.00
+SEPRACOR INC.                                0.000     817315104   SEPR           147,500        5,326,597.79        1,426,325.00
+SEQUA CORP - CL A                            0.000     817320104   SQA.A            1,500           88,020.45           58,665.00
+SERENA SOFTWARE INC                          0.000     817492101   SRNA            47,100          656,716.95          743,709.00
+SERVICEMASTER COMPANY                        3.783     81760N109   SVM             16,320          172,166.88          181,152.00
+SFBC INTERNATIONAL INC                       0.000     784121105   SFCC            30,400          443,288.76          394,592.00
+SHARPER IMAGE CORP                           0.000     820013100   SHRP            18,100          321,673.89          315,483.00
+SHAW GROUP                                   0.000     820280105   SGR             90,800        1,771,568.34        1,493,660.00
+SHERWIN-WILLIAMS CO                          2.123     824348106 Q SHW            323,729        8,335,011.64        9,145,344.25
+SHOPKO STORES INC                            0.000     824911101   SKO             86,300        1,367,589.65        1,074,435.00
+SHUFFLE MASTER INC                           0.000     825549108   SHFL            31,910          703,751.62          609,800.10
+SICOR INC                                    0.000     825846108   SCRI           237,000        3,670,762.95        3,756,450.00
+SIEBEL SYSTEMS INC.                          0.000     826170102   SEBL           874,814       16,471,412.60        6,543,608.72
+SIERRA HEALTH SERVICES                       0.000     826322109   SIE            126,600        1,160,813.89        1,520,466.00
+SIERRA PACIFIC RESOURCES                    12.307     826428104   SRP            153,027        2,909,192.47          994,675.50
+SIGMA-ALDRICH                                0.739     826552101 Q SIAL           146,509        5,385,304.72        7,134,988.30
+SILICON LABORATORIES                         0.000     826919102   SLAB            24,860          618,239.98          474,328.80
+SILICON VALLEY BANCSHARES                    0.000     827064106   SIVB            86,300        2,514,520.40        1,574,975.00
+SIMPSON MANUFACTURING CO                     0.000     829073105   SSD             44,000        1,119,967.42        1,447,600.00
+SIX FLAGS INC.                               0.000     83001P109   PKS            563,600        8,043,333.25        3,218,156.00
+SKILLSOFT PLC ADR                            0.000     830928107   SKILE           67,200          228,457.52          184,800.00
+SKYLINE CORP.                                2.440     830830105 Q SKY              9,200          274,648.70          271,400.00
+SKYWEST INC                                  0.612     830879102   SKYWE          165,104        3,151,215.90        2,157,909.28
+SKYWORKS SOLUTIONS INC                       0.000     83088M102   SWKS           311,900       12,974,421.13        2,688,578.00
+SLM CORP                                     0.962     78442P106   SLM            294,453       21,187,799.70       30,581,888.58
+SMITH (A.O.) CORP                            2.073     831865209   AOS             55,600        1,464,048.09        1,501,756.00
+SMITH INTERNATIONAL INC                      0.000     832110100   SII            239,600        6,868,969.36        7,815,752.00
+SMITHFIELD FOODS INC                         0.000     832248108   SFD            282,700        5,406,102.42        5,608,768.00
+SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC           100,600        1,608,813.19        1,548,334.60
+SNAP-ON TOOLS CORP.                          3.557     833034101 Q SNA             81,922        2,539,328.35        2,302,827.42
+SOLA INTERNATIONAL INC                       0.000     834092108   SOL             34,400          808,584.98          447,200.00

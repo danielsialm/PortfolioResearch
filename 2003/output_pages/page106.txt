@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 076
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+COBIZ INC                                  1.302 COBZ    190897108     18.4200        10,000.00        150,772.10        184,200.00
+COCA-COLA BOTTLING                         1.869 COKE    191098102     53.4900         1,600.00         82,541.88         85,584.00
+COEUR D'ALENE MINES CORP.                  0.000 CDE     192108108      5.7800       215,200.00        400,545.44      1,243,856.01
+COGNEX CORP.                               0.849 CGNX    192422103     28.2400        40,900.00      1,041,745.34      1,155,016.00
+COHERENT INC.                              0.000 COHR    192479103     23.8000        41,600.00        979,825.53        990,080.00
+COHU INC.                                  1.044 COHU    192576106     19.1500        25,300.00        878,760.91        484,495.00
+COINSTAR INC                               0.000 CSTR    19259P300     18.0600        35,000.00        714,844.58        632,100.00
+COLDWATER CREEK INC.                       0.000 CWTR    193068103     11.0000        14,250.00        151,529.17        156,750.00
+COLE NATIONAL CORP N                       0.000 CNJ     193290103     20.0000         7,300.00         94,054.42        146,000.00
+COLLAGENEX PHARMACEUTICALS INC             0.000 CGPI    19419B100     11.2100        11,200.00        118,652.50        125,552.00
+COLLINS & AIKMAN CORP                      0.000 CKC     194830204      4.3300        82,500.00        260,824.27        357,225.00
+COLUMBIA BANCORP                           1.877 CBMD    197227101     31.9500         6,600.00        172,986.66        210,870.00
+COLUMBIA BANCORP/OR                        2.087 CBBO    197231103     17.2500         9,100.00        130,844.09        156,975.00
+COLUMBIA BANKING SYSTEM INC                0.923 COLB    197236102     21.6600        16,100.00        298,281.09        348,726.00
+COLUMBIA LABS INC                          0.000 COB     197779101      6.3000        67,500.00        627,444.88        425,250.01
+COMMERCE GROUP INC M                       3.240 CGI     200641108     39.5000        28,000.00      1,070,901.33      1,106,000.00
+COMMERCIAL BANKSHARES INC/FL               1.907 CLBK    201607108     33.5600         4,100.00        128,791.38        137,596.00
+COMMERCIAL CAPITAL BANCORP INC             0.000 CCBI    20162L105     21.4100         1,700.00         21,879.18         36,397.00
+COMMERCIAL FEDERAL CORP.                   1.872 CFB     201647104     26.7100        53,400.00      1,292,196.86      1,426,314.00
+COMMERCIAL METALS CO.                      1.052 CMC     201723103     30.4000        24,200.00        403,811.51        735,680.00
+COMMONWEALTH TELEPHONE ENTERPR             0.000 CTCO    203349105     37.7500        26,400.00      1,158,874.96        996,600.00
+COMMSCOPE INC.                             0.000 CTV     203372107     16.3300        71,600.00        990,678.81      1,169,228.00
+COMMUNITY BANK OF NORTH VA                 1.686 CBNV    203566104     18.9800         5,000.00         67,897.79         94,900.00
+COMMUNITY BANK SYSTEM INC                  2.612 CBU     203607106     49.0000        13,700.00        549,885.92        671,300.00
+COMMUNITY BKS INC MI                       1.696 CMTY    203628102     39.3100         9,800.00        302,429.17        385,238.00
+COMMUNITY FIRST BANKSHARES                 3.179 CFBX    203902101     28.9400        44,000.00      1,075,475.31      1,273,360.00
+COMMUNITY TR BANCORP                       2.768 CTBI    204149108     30.2000        16,280.00        422,310.40        491,656.00
+COMPUCOM SYS INC                           0.000 CMPC    204780100      5.2400        60,000.00        289,305.35        314,400.00
+COMPUCREDIT CORP                           0.000 CCRT    20478N100     21.2800        16,100.00        276,395.69        342,608.00
+COMPUTER HORIZONS CO                       0.000 CHRZ    205908106      3.9300        75,700.00        303,705.70        297,501.00
+COMPUTER NETWORK TECH CORP                 0.000 CMNT    204925101      9.5400        32,600.00        268,111.43        311,004.00
+COMPUTER PROGRAMS &                        1.689 CPSI    205306103     20.1200         7,500.00        147,110.73        150,900.00
+COMSTOCK RESOURCES INC                     0.000 CRK     205768203     19.3000        36,000.00        496,844.32        694,800.00
+COMTECH TELECOMMUNICATIONS                 0.000 CMTL    205826209     28.8700        21,700.00        588,873.46        626,479.00
+CONCEPTUS INC                              0.000 CPTS    206016107     10.6200        20,900.00        321,694.30        221,958.01
+CONCORD CAMERA CORP                        0.000 LENS    206156101      9.2500        29,600.00        227,137.58        273,800.00
+CONCORD COMMUNICATIONS INC                 0.000 CCRD    206186108     19.9700        19,700.00        344,643.03        393,409.00
+CONCUR TECHNOLOGIES INC                    0.000 CNQR    206708109      9.6800        27,700.00        317,457.95        268,136.00
+CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204      4.3700        75,000.00        209,626.20        327,750.00

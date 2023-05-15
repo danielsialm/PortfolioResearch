@@ -1,0 +1,36 @@
+ASOF02   Date 01/20/2004 Time 18:59:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 190
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6NC       NEXT CENTURY - 2000
+Instrument - COM       COMMON STOCK
+
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     50.8800        23,585.00        417,878.60      1,200,004.80
+PORTFOLIO RECOVERY ASSOCIATES              0.000 PRAA    73640Q105     26.5500        15,540.00        415,993.58        412,587.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     33.4600        15,185.00        283,188.45        508,090.10
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-NEX  IT-NEX         1.0000        56,318.17         56,318.18         56,318.18
+PROASSURANCE CORP                          0.000 PRA     74267C106     32.1500        17,510.00        485,935.18        562,946.50
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     24.5400        20,200.00        456,260.12        495,708.00
+SALIX PHARMACEUTICAL                       0.000 SLXP    795435106     22.6700        25,860.00        503,785.95        586,246.20
+SHARPER IMAGE CORP                         0.000 SHRP    820013100     32.6500        34,775.00        774,598.36      1,135,403.74
+SILICON LABORATORIES                       0.000 SLAB    826919102     43.2200        26,320.00        786,185.68      1,137,550.40
+SONIC SOLUTIONS                            0.000 SNIC    835460106     15.3000        63,355.00        497,048.33        969,331.48
+STRAYER EDUCATION INC                      0.238 STRA    863236105    108.8300         5,005.00        423,567.94        544,694.15
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     38.8900        14,130.00        442,695.39        549,515.70
+TRIDENT MICROSYSTEMS INC                   0.000 TRID    895919108     17.4200        31,527.00        516,890.65        549,200.33
+TTM TECHNOLOGIES                           0.000 TTMI    87305R109     16.8800        38,375.00        459,749.88        647,770.00
+UNITED ONLINE INC                          0.000 UNTD    911268100     16.7900        78,540.00      1,358,627.71      1,318,686.61
+UNITED PANAM FINANCIAL CORP                0.000 UPFC    911301109     16.7100        14,415.00        243,313.08        240,874.65
+UTI WORLDWIDE INC                          0.250 UTIW    G87210103     37.9300        27,810.00        648,998.05      1,054,833.30
+VISTACARE INC-CL A                         0.000 VSTA    92839Y109     35.1500        35,700.00        604,288.40      1,254,855.01
+WET SEAL INC                               0.000 WTSLA   961840105      9.8900        41,055.00        496,876.26        406,033.95
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     42.2700        16,645.00        458,613.37        703,584.15
+
+Instrument Total            59                                                     1,971,927.17     33,639,957.34     49,939,084.21
+
+Portfolio Total             59                                                     1,971,927.17     33,639,957.34     49,939,084.21
+

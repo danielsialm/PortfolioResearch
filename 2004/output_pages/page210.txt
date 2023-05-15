@@ -1,0 +1,45 @@
+ASOF02   Date 01/21/2005 Time 18:35:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 178
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6WE       WESTCAP INVESTORS -
+Instrument - COM       COMMON STOCK
+
+KENSEY NASH CORP                           0.000 KNSY    490057106     34.5300         1,634.00         47,882.73         56,422.02
+LA QUINTA INNS INC                         0.770 LQI     50419U202      9.0900        24,409.00        182,403.54        221,877.81
+LIFEPOINT HOSPITALS INC.                   0.000 LPNT    53219L109     34.8200         4,501.00        146,338.71        156,724.82
+MERITAGE HOMES CORP                        0.000 MTH     59001A102    112.7000         2,884.00        184,443.83        325,026.80
+MONACO COACH CORPORATION                   0.972 MNC     60886R103     20.5700        12,756.00        274,125.11        262,390.92
+NAVARRE CORP                               0.000 NAVR    639208107     17.6000        19,370.00        201,789.40        340,912.00
+NPS PHARMACEUTICALS INC.                   0.000 NPSP    62936P103     18.2800           411.00          8,968.97          7,513.08
+PANERA BREAD CO                            0.000 PNRA    69840W108     40.3200         4,396.00        166,061.17        177,246.72
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     24.2800         5,469.00        155,752.58        132,787.32
+PRIME MONEY MARKET - 6WE                   0.000 IT-WST  IT-WST         1.0000       160,072.51        160,072.71        160,072.46
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100     12.5150        15,427.00        178,895.56        193,068.92
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     31.8600         7,210.00        183,727.05        229,710.60
+RESMED INC                                 0.000 RMD     761152107     51.1000           969.00         43,068.56         49,515.90
+ROGERS CORP.                               0.000 ROG     775133101     43.1000         4,304.00        142,326.83        185,502.40
+SAFENET INC                                0.000 SFNT    78645R107     36.7400         6,690.00        207,681.14        245,790.60
+SBS BROADCASTING SA                        0.000 SBTV    L8137F102     40.2300         3,036.00         54,785.52        122,138.28
+SEMTECH CORPORATION                        0.000 SMTC    816850101     21.8700         5,776.00         81,106.59        126,321.12
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      9.4300        25,143.00        269,238.41        237,098.49
+SOUTHWEST BANCORP OF TEXAS                 0.515 SWBT    84476R109     23.2900         8,054.00        139,749.43        187,577.66
+SPHERION CORPORATION                       0.000 SFN     848420105      8.4000        18,762.00        159,383.57        157,600.80
+SUPERIOR ENERGY SVCS                       0.000 SPN     868157108     15.4100         4,747.00         61,715.89         73,151.27
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     37.2100         7,552.00        265,724.04        281,009.92
+UNOVA INC.                                 0.000 UNA     91529B106     25.2900         3,063.00         66,518.18         77,463.27
+VALUECLICK, INC                            0.000 VCLK    92046N102     13.3300        10,530.00         75,247.04        140,364.90
+VALUEVISION MEDIA INC                      0.000 VVTV    92047K107     13.9100        37,185.00        527,151.81        517,243.35
+WERNER ENTERPRISES INC                     0.618 WERN    950755108     22.6400         5,507.00        120,988.72        124,678.48
+WESTERN GAS RESOURCES INC                  0.683 WGR     958259103     29.2500         4,057.00         86,304.88        118,667.25
+WINNEBAGO INDUSTRIES                       0.716 WGO     974637100     39.0600         7,253.00        211,960.51        283,302.18
+WOODHEAD INDUSTRIES                        2.495 WDHD    979438108     16.0300         4,463.00         56,163.29         71,541.89
+
+Instrument Total            68                                                       682,947.51     10,496,535.27     13,118,226.51
+
+Portfolio Total             68                                                       682,947.51     10,496,535.27     13,118,226.51
+

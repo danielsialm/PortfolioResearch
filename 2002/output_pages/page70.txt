@@ -1,0 +1,26 @@
+ASOF02   Date 01/21/2003 Time 18:52:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MG4       MID-CAP GROWTH
+Instrument - COM       COMMON STOCK
+
+WADDELL & REED FINANCIAL-CL A              2.694 WDR     930059100     19.6700       172,900.00      4,739,152.28      3,400,943.00
+WASHINGTON POST CL. B                      0.785 WPO     939640108Q   738.0000        17,958.00     10,144,960.90     13,253,004.00
+WEATHERFORD INTERNATIONAL, LTD             0.000 WFT     G95089101     39.9300       238,300.00      6,400,693.16      9,515,319.00
+WESTAMERICA BANCORPORATION                 2.389 WABC    957090103     40.1800        45,500.00      1,481,231.67      1,828,190.00
+WESTERN GAS RESOURCES INC                  0.542 WGR     958259103     36.8500        61,000.00      2,251,969.31      2,247,850.00
+WESTWOOD ONE                               0.000 WON     961815107     37.3600       211,300.00      4,582,623.11      7,894,168.00
+WHOLE FOODS MARKET INC                     0.000 WFMI    966837106     52.7300       100,300.00      3,748,323.48      5,288,819.00
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     27.1500       209,600.00      3,164,102.91      5,690,640.00
+WILMINGTON TRUST CO, DELAWARE              3.219 WL      971807102Q    31.6800        93,100.00      1,774,147.18      2,949,408.00
+XTO ENERGY INC.                            0.161 XTO     98385X106     24.7000       232,000.00      3,598,067.49      5,730,400.00
+
+Instrument Total           166                                                    23,394,935.00    620,678,718.65    650,063,752.62
+
+Portfolio Total            166                                                    23,394,935.00    620,678,718.65    650,063,752.62
+

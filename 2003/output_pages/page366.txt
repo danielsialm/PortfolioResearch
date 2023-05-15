@@ -1,0 +1,25 @@
+ASOF11   Date 01/20/2004 Time 18:59:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,895,016.00        3,434,037.54
+WALMEX V                                     0.009     2135212      WALME       600,000.00        1,502,751.80
+WIPRO                                        0.001     6206051      WPRO_        13,801.00          280,601.14
+YUKOS - $US                                290.798     5110863      YUKO$       209,193.99        2,448,812.48
+
+Instrument Total             202                                          2,730,553,328.54      227,485,050.59
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    93,076.44        9,307,644.67
+
+Instrument Total               1                                                 93,076.44        9,307,644.67
+
+Portfolio Total              234                                          2,739,767,257.99      271,804,742.86        375,532,609.17

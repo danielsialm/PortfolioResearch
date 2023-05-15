@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MCV       MID-CAP VALUE (F)
+Instrument - COM       COMMON STOCK
+
+CTS CORP.                                  1.085 CTS     126501105     11.0600     1,250,000.00     15,063,294.20     13,825,000.00
+DEAN FOODS CO                              0.000 DF      242370104     37.6600       300,900.00      7,711,992.10     11,331,894.00
+DISCOVERY HOLDING CO-A                     0.000 DISCA   25468Y107     15.1500       340,000.00      4,887,902.03      5,151,000.00
+DOVER CORP.                                1.679 DOV     260003108Q    40.4900       895,000.00     33,325,595.86     36,238,550.00
+EAST WEST BANCORP INC.                     0.548 EWBC    27579R104     36.4900       550,000.00     19,433,167.71     20,069,500.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     19.9100       300,899.00      5,398,065.90      5,990,899.09
+ENBRIDGE ENERGY MANAGEMENT                 0.000 EEQ     29250X103     45.3500       115,000.00      5,402,162.64      5,215,250.00
+ENDO PHARMACEUTICALS                       0.000 ENDP    29264F205     30.2600       800,000.00     18,182,147.28     24,208,000.00
+ENGELHARD CORP.                            1.592 EC      292845104Q    30.1500       799,600.00     23,193,824.59     24,107,940.00
+ERIE INDTY CO                              2.706 ERIE    29530P102     53.2000        97,000.00      5,127,369.26      5,160,400.00
+F5 NETWORKS INC                            0.000 FFIV    315616102     57.1900       100,000.00      4,452,777.56      5,719,000.00
+FIFTH THIRD BANCORP                        4.029 FITB    316773100Q    37.7200       800,000.00     36,009,472.70     30,176,000.00
+FIRST HORIZON NATIONAL CORPORA             4.682 FHN     320517105     38.4400       635,000.00     25,593,353.40     24,409,400.00
+FLAGSTAR BANCORP INC                       4.166 FBC     337930101     14.4000     1,480,000.00     29,096,809.40     21,312,000.00
+FRIEDMAN BILLINGS RAMSEY -A                8.080 FBR     358434108      9.9000     1,350,000.00     24,147,807.68     13,365,000.00
+GALLAGHER (ARTHUR) J & CO.                 3.626 AJG     363576109Q    30.8800       330,000.00      9,530,506.09     10,190,400.00
+GANNETT INC                                1.915 GCI     364730101Q    60.5700       275,000.00     19,737,270.18     16,656,750.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMST    36866W106      2.6100     3,150,000.00     16,123,001.77      8,221,500.00
+GENERAL CABLE CORP                         1.015 BGC     369300108     19.7000     1,794,300.00     24,089,673.79     35,347,710.00
+GENERAL COMMUNICATION                      0.000 GNCMA   369385109     10.3300     2,450,000.00     24,631,732.87     25,308,500.00
+GERDAU AMERISTEEL CORP                     1.418 GNA     37373P105      5.6400     1,250,000.00      6,452,623.40      7,050,000.00
+GIBRALTAR INDUSTRIES INC                   0.871 ROCK    374689107     22.9400       280,000.00      6,478,001.54      6,423,200.00
+GOODRICH CORP.                             1.946 GR      382388106Q    41.1000       150,000.00      5,273,250.00      6,165,000.00
+GOODYEAR T & R                             2.761 GT      382550101Q    17.3800     1,000,000.00     14,881,481.00     17,380,000.00
+GULFMARK OFFSHORE INC                      0.000 GMRK    402629109     29.6200       205,000.00      4,813,554.42      6,072,100.00
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105     14.1100     2,800,000.00     34,041,661.10     39,508,000.00
+HARLEY-DAVIDSON INC                        1.398 HDI     412822108Q    51.4900       460,000.00     21,569,957.29     23,685,400.00
+HARRAH'S ENTERTAINMENT INC.                2.033 HET     413619107     71.2900       200,000.00     12,409,016.89     14,258,000.00
+HEALTH MGMT ASSOCIATES CL A                1.092 HMA     421933102     21.9600       347,700.00      7,261,580.50      7,635,492.00
+HEALTH NET                                 0.000 HNT     42222G108     51.5500       165,000.00      4,671,560.50      8,505,750.00
+HENRY (JACK) & ASSOCIATES                  0.943 JKHY    426281101     19.0800       150,000.00      2,585,820.00      2,862,000.00
+HILB ROGAL & HOBBS CO                      1.194 HRH     431294107Q    38.5100       150,000.00      5,210,129.98      5,776,500.00
+HILLENBRAND IND.                           2.287 HB      431573104Q    49.4100        92,700.00      5,132,800.47      4,580,307.00
+HORACE MANN EDUCATORS                      2.215 HMN     440327104Q    18.9600       535,000.00      9,545,101.94     10,143,600.00
+ILLINOIS TOOL WORKS                        1.500 ITW     452308109Q    87.9900       356,500.00     24,720,052.82     31,368,435.00
+INGERSOLL-RAND CO-A                        1.411 IR      G4776G101Q    40.3700       199,789.00      7,392,163.51      8,065,481.93
+INNOVATIVE SOLUTIONS & SUPPORT             0.000 ISSC    45769N105     12.7800       885,000.00     15,464,325.10     11,310,300.00
+INTEGRATED ALARM SERVICES GROU             0.000 IASG    45890M109      2.8600     1,225,000.00      6,056,631.68      3,503,500.00
+INTL GAME TECHNOLOGY                       1.624 IGT     459902102     30.7800       700,000.00     17,582,659.68     21,546,000.00

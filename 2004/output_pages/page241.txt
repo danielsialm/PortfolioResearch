@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+COCA COLA CO.                                2.402     191216100 Q KO           4,055,864      186,732,458.61      168,845,618.32
+COCA-COLA BOTTLING                           1.752     191098102   COKE               300           16,876.83           17,118.00
+COCA-COLA ENTERPRISE                         0.767     191219104   CCE            536,764       13,278,424.45       11,191,529.40
+COEUR D'ALENE MINES CORP.                    0.000     192108108   CDE            302,375          903,242.95        1,188,333.75
+COGNEX CORP.                                 1.147     192422103   CGNX           128,401        3,142,358.66        3,582,387.90
+COGNIZANT TECH SOLUTIONS CORP                0.000     192446102   CTSH           181,700        2,961,077.47        7,691,361.00
+COHEN & STEERS INC                           2.461     19247A100   CNS              8,300          127,038.18          134,875.00
+COHERENT INC.                                0.000     192479103   COHR            79,600        1,959,500.18        2,423,024.00
+COHU INC.                                    1.077     192576106   COHU            25,600          844,164.81          475,136.00
+COINSTAR INC                                 0.000     19259P300   CSTR            23,700          485,166.27          635,871.00
+COLDWATER CREEK INC.                         0.000     193068103   CWTR            47,225          781,695.03        1,457,835.75
+COLGATE PALMOLIVE                            1.876     194162103 Q CL           1,062,700       43,474,937.54       54,367,732.00
+COLLAGENEX PHARMACEUTICALS INC               0.000     19419B100   CGPI             9,400           56,472.38           68,996.00
+COLLEGIATE FUNDING SERVICES                  0.000     19458M108   CFSI             8,900          111,746.02          125,401.00
+COLLINS & AIKMAN CORP                        0.000     194830204   CKC             88,600          324,654.15          386,296.00
+COLONIAL BANCGROUP INC.                      2.873     195493309   CNB            232,800        3,625,476.42        4,942,344.00
+COLOR KINETICS INC                           0.000     19624P100   CLRK             4,500           57,181.16           79,110.00
+COLUMBIA BANCORP                             1.988     197227101   CBMD             7,265          210,313.99          248,390.35
+COLUMBIA BANKING SYSTEM INC                  1.120     197236102   COLB            17,229          341,711.52          430,552.71
+COLUMBIA SPORTSWEAR CO                       0.000     198516106   COLM            13,300          729,981.50          792,813.00
+COMCAST CORP - CL A                          0.000     20030N101   CMCSA        5,227,645      157,921,306.73      173,976,025.60
+COMCAST CP CL A SPL                          0.000     20030N200 Q CMCSK            8,149          252,278.25          267,613.16
+COMERICA INC.                                3.408     200340107 Q CMA            306,400       15,501,489.90       18,696,528.00
+COMFORT SYS USA INC                          0.000     199908104   FIX             73,500          485,452.24          564,480.00
+COMMERCE BANCORP INC                         1.366     200519106   CBH             36,500        2,070,568.84        2,350,600.00
+COMMERCE BANCSHARES                          1.832     200525103   CBSH           106,251        4,176,128.43        5,333,800.20
+COMMERCE GROUP INC M                         2.162     200641108   CGI             45,900        1,962,329.26        2,801,736.00
+COMMERCIAL BANKSHARES INC/FL                 1.766     201607108   CLBK                 1               25.12               38.50
+COMMERCIAL CAPITAL BANCORP INC               0.862     20162L105   CCBI            30,472          517,477.57          706,340.96
+COMMERCIAL FEDERAL CORP.                     1.817     201647104   CFB             81,800        2,049,310.02        2,430,278.00
+COMMERCIAL METALS CO.                        0.474     201723103   CMC             41,050        1,173,242.84        2,075,488.00
+COMMERCIAL VEHICLE GROUP INC                 0.000     202608105   CVGI            62,900          979,727.25        1,373,107.00
+COMMONWEALTH TELEPHONE ENTERPRISES INC       0.000     203349105   CTCO            38,000        1,655,605.03        1,887,080.00
+COMMSCOPE INC.                               0.000     203372107   CTV             78,650        1,199,628.67        1,486,485.00
+COMMUNITY BANK SYSTEM INC                    2.548     203607106   CBU             30,600          589,065.70          864,450.00
+COMMUNITY BKS INC MI                         2.414     203628102   CMTY            11,863          292,591.52          334,062.08
+COMMUNITY HEALTH SYS                         0.000     203668108   CYH            199,700        5,036,003.37        5,567,636.00
+COMMUNITY TR BANCORP                         2.966     204149108   CTBI            15,606          380,847.85          505,010.16
+COMPASS BANCSHARES INC                       2.568     20449H109   CBSS           203,200        5,448,830.80        9,889,744.00
+COMPASS MINERALS INTERNATIONAL INC           4.127     20451N101   CMP             16,800          326,560.42          407,064.00

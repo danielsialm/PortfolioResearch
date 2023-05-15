@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 111
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+VANS INC                                   0.000 VANS    921930103     11.4100        33,100.00        311,342.40        377,671.00
+VARIAN INC.                                0.000 VARI    922206107     41.7300        35,400.00      1,152,454.01      1,477,242.00
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     43.6900        34,300.00        933,406.84      1,498,567.00
+VASTERA INC                                0.000 VAST    92239N109      4.0000        32,400.00        166,405.88        129,600.00
+VCA ANTECH INC                             0.000 WOOF    918194101     30.9800        31,500.00        657,881.03        975,870.00
+VECTOR GROUP LTD                           9.803 VGR     92240M108     16.3200        19,105.00        319,450.27        311,793.61
+VEECO INSTRUMENTS INC                      0.000 VECO    922417100     28.2000        27,500.00        791,584.73        775,500.00
+VENTANA MED SYS INC                        0.000 VMSI    92276H106     39.4000        14,900.00        482,317.30        587,060.00
+VENTAS INC.                                4.863 VTR     92276F100     22.0000        81,800.00      1,333,564.18      1,799,600.00
+VERINT SYS INC                             0.000 VRNT    92343X100     22.5600           200.00          5,098.70          4,512.00
+VERITAS DGC INC.                           0.000 VTS     92343P107     10.4800        53,300.00        736,565.92        558,584.00
+VERITY INC.                                0.000 VRTY    92343C106     16.6900        25,300.00        836,793.29        422,257.00
+VERSO TECHNOLOGIES INC                     0.000 VRSO    925317109      3.2000        90,400.00        254,605.51        289,280.00
+VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     10.2300        92,700.00      2,334,861.61        948,321.00
+VIASAT INC.                                0.000 VSAT    92552V100     19.1400        32,300.00        659,052.51        618,222.00
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     20.6000        36,100.00        731,732.19        743,660.00
+VICOR CORP                                 0.000 VICR    925815102     11.4100        23,200.00        383,752.69        264,712.00
+VICURON PHARMACEUTICALS INC                0.000 MICU    926471103     18.6500        47,300.00        692,308.86        882,145.00
+VIGNETTE CORPORATION                       0.000 VIGN    926734104      2.2700       183,900.00        442,168.76        417,453.00
+VINTAGE PETROLEUM INC.                     1.496 VPI     927460105Q    12.0300        59,800.00        883,538.56        719,393.99
+VIRAGE LOGIC CORPORATION                   0.000 VIRL    92763R104     10.1700        15,200.00        134,795.56        154,584.00
+VIRBAC CORP                                0.000 VBACE   927649103      6.5100        10,900.00         68,230.31         70,959.00
+VIRGINIA COMMERCE BANCORP                  0.000 VCBI    92778Q109     32.0300         5,800.00        120,604.54        185,774.00
+VIRGINIA FINL CORP                         2.139 VFGI    927810101     35.5200         8,700.00        261,541.12        309,024.00
+VISTACARE INC-CL A                         0.000 VSTA    92839Y109     35.1500        13,900.00        421,102.53        488,585.00
+VISTEON CORP                               2.305 VC      92839U107     10.4100       178,200.00      1,941,415.93      1,855,062.00
+VISX INC                                   0.000 EYE     92844S105     23.1500        45,900.00        703,964.57      1,062,585.00
+VITAL IMAGES INC                           0.000 VTAL    92846N104     17.8400        19,400.00        356,260.50        346,096.00
+VITAL SIGNS INC                            0.733 VITL    928469105     32.7000         7,000.00        234,108.44        228,900.00
+VITALWORKS INC                             0.000 VWKS    928483106      4.4200        45,200.00        170,352.01        199,784.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106      5.8700       269,800.00      1,745,144.14      1,583,726.00
+VITRIA TECHNOLOGY                          0.000 VITR    92849Q401      7.1000        22,200.00        109,060.33        157,620.00
+VIVUS INC                                  0.000 VVUS    928551100      3.7900        45,500.00        199,560.89        172,445.00
+VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     22.6000         9,600.00        196,486.47        216,960.00
+W HLDG CO INC                              1.182 WHI     929251106     18.6100        83,859.00        958,949.89      1,560,615.99
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     16.2000        16,900.00        303,848.15        273,780.00
+WABASH NATIONAL CORP                       0.136 WNC     929566107     29.3000        31,000.00        438,865.02        908,300.00
+WABTEC                                     0.234 WAB     929740108     17.0400        28,600.00        401,860.70        487,344.00
+WACKENHUT CORRECTION                       0.000 WHC     929798106     22.8000        17,800.00        339,397.56        405,840.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+ACADIA RLTY TR                               3.690     004239109   AKR             29,400          418,841.75          589,470.00
+AFFORDABLE RESIDENTIAL COMMUNITIES           7.869     008273104   ARC             27,500          277,515.37          262,075.00
+AGREE REALTY CORP                            6.782     008492100   ADC              8,100          245,007.99          234,090.00
+ALEXANDERS INC                               0.000     014752109   ALX              2,000          319,264.74          491,000.00
+ALEXANDRIA REAL ESTATE                       3.478     015271109   ARE             31,050        1,841,150.57        2,499,525.00
+AMB PROPERTY CORP.                           0.823     00163T109   AMB              1,600           68,488.00           78,672.00
+AMERICAN CAMPUS COMMUNITIES INC              5.443     024835100   ACC             17,600          390,563.02          436,480.00
+AMERICAN FINANCIAL REALTY TRUST              9.000     02607P305   AFR             56,600          724,019.31          679,200.00
+AMLI RESIDENTIAL PROP                        5.046     001735109   AML             13,000          377,900.22          494,650.00
+APARTMENT INVT & MGMT                        6.337     03748R101   AIV             12,600          451,897.44          477,162.00
+ARBOR REALTY TRUST INC                      10.802     038923108   ABR             25,000          617,021.82          648,000.00
+ARCHSTONE COMMUNITIES                        4.153     039583109 Q ASN             39,200        1,391,684.49        1,642,088.00
+ARDEN REALTY GROUP INC                       4.505     039793104 Q ARI            162,100        7,325,220.63        7,266,943.00
+AVALONBAY COMMUNITIES                        0.286     053484101 Q AVB              1,000           67,902.30           89,250.00
+BIOMED REALTY TRUST                          4.426     09063H107   BMR             74,825        1,455,188.29        1,825,730.00
+BOSTON PROPERTIES INC                        3.669     101121101   BXP              5,400          276,146.79          400,302.00
+BOYKIN LODGING CO                            5.892     103430104   BOY             44,900          592,033.14          548,678.00
+BRANDYWINE REALTY                            0.286     105368203   BDN             59,200        1,616,550.98        1,652,272.00
+CAMDEN PROPERTY TRUST                        0.151     133131102   CPT                800           34,318.00           46,336.00
+CAPITAL LEASE FUNDING INC                    7.597     140288101   LSE             42,600          487,088.92          448,578.00
+CAPITAL TRUST-CL A                           8.196     14052H506   CT              23,000          654,246.24          673,440.00
+CARRAMERICA RE CORP                          3.300     144418100   CRE              2,100           74,694.69           72,723.00
+CBL & ASSOC PROP                             4.112     124830100   CBL             13,631          533,408.79          538,560.81
+CEDAR SHOPPING CENTERS INC                   6.396     150602209   CDR             79,550        1,009,069.25        1,119,268.50
+CENTERPOINT PROP CORP.                       3.738     151895109   CNT             21,375          945,281.56        1,057,635.00
+CENTRACORE PROPERTIES TRUST                  6.698     15235H107   CPV             23,200          665,760.22          623,384.00
+COLONIAL PROPERTIES                          6.431     195872106   CLP             47,224        1,856,525.31        1,982,463.52
+COLUMBIA EQUITY TRUST INC                    3.467     197627102   COE             14,700          214,914.00          237,405.00
+COMMERCIAL NET LEASE RE                      6.381     202218103   NNN             55,200        1,016,620.45        1,124,424.00
+CORPORATE OFFICE PROPERTY                    3.151     22002T108   OFC             32,700          731,214.20        1,162,158.00
+COUSINS PROPERTIES INC                       5.229     222795106   CUZ             52,600        1,642,549.03        1,488,580.00
+CRESCENT RE EQT. CO.                         7.568     225756105   CEI            489,900        9,092,767.66        9,709,818.00
+DEERFIELD TRIARC CAPITAL CORP               10.219     244572301   DFR             49,350          686,127.54          676,095.00
+DEVELOPERS DIVERSIFIED RE                    4.593     251591103 Q DDR            186,600        8,459,886.34        8,773,932.00
+DIAMONDROCK HOSPITALITY                      5.769     252784301   DRH            222,400        2,464,037.91        2,659,904.00
+DIGITAL REALTY TRUST INC                     4.684     253868103   DLR             30,400          549,245.69          687,952.00
+EASTGROUP PROPERTY INC                       3.281     277276101   EGP             23,300          777,168.53        1,052,228.00
+ECC CAPITAL CORP                            31.858     26826M108   ECR            239,000          729,727.80          540,140.00
+EDUCATION REALTY TRUST INC                   9.309     28140H104   EDR             23,100          387,085.58          297,759.00
+ENTERTAINMENT PPTYS                          6.135     29380T105   EPR             27,100          966,423.19        1,104,325.00

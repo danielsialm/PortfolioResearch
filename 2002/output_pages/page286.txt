@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+FORMOSA CHEM & FIBRE                         0.001     6348715      1326_       742,000.00          533,008.74
+GEDEON RICHTER RT                            0.000     4042387      RICHT        25,312.00        1,443,200.88
+GENTING BERHAD                               0.000     6366676      GENT_       640,097.00        1,493,497.90
+GIGABYTE TECHNOLOGY CO.                      0.000     6129181      2376_       592,825.00        1,152,730.79
+GOLD FIELDS LIMITE                           0.000     6280215      GFI_S       150,000.00        1,765,365.79
+GPO FINANCIERO BBV                           0.000     2968786      GFBBB     2,250,000.00        1,816,507.11
+GRUPO TELEVISA SA                            0.000     2380108      TLEVI       800,000.00        1,431,666.76
+GUJARAT AMBUJA CEMENTS LTD                   0.000     6100119      YGAMB        65,534.00          261,181.33
+HACI OMER SABANCI HOLDING                    0.000     5268568      SAHOL    97,909,737.00          281,185.35
+HANA MICROELECTRNC                           0.112     6290292      HANA/        35,300.00           65,323.33
+HINDUSTAN LEVER                              0.000     6261674      HLVR_       322,938.00        1,302,731.29
+HINDUSTAN PETROLEUM CORP                     0.000     6100476      HPCL_        51,000.00          288,356.05
+HOUSING DEVELOPMENT FINANCE                  0.000     6171900      HDFC_        77,538.00          554,173.70
+HUANENG POWER INTL INC-H                     0.615     6099671      902_H       916,393.00          527,653.60
+HYUNDAI MARINE AND FIRE INS. CO              0.005     6451077      0145_        10,000.00          250,417.89
+HYUNDAI MOTOR CO K                           0.000     6451055      0538_       113,616.00        2,265,597.11
+ICICI BANK LTD                               0.000     6100368      ICICI       156,000.00          449,223.08
+IDB HOLDING CORP O                           0.000     6456726      IDBH_        50,790.00        1,321,928.63
+IJM CORP BERHAD                              0.000     6455217      IJM_M       886,289.00          842,786.13
+IMPALA PLATINUM HL                           0.000     6457804      IMP_S        56,672.00        2,680,352.24
+IND FIN CORP THAI                            0.000     6458830      IFCT/       271,900.00          122,464.49
+INFOSYS TECHNOLOGIES LTD                     0.000     6205122      INFO_        16,954.00        1,202,058.19
+INVENTEC CO LTD                              0.130     6459930      2356_     1,500,000.00          935,488.20
+IOI CORPORATION BERHAD                       0.711     6464514      IOI_M     1,103,180.00          830,570.67
+ISRAEL CORP ORD SH                           0.000     6889678      ILCO_         6,048.00          654,832.37
+JIANGXI COPPER COMPANY LTD-H                 0.000     6000305      358_H     3,837,000.00          382,666.88
+JSC MMC NORILSK ADR                          2.967     2768243      NILSY        35,000.00          703,000.00
+JSC NORILSK NICEL                          113.747     7131431      GMKN$        40,000.00          751,500.00
+KGHM POLSKA MIEDZ                            0.000     5263251      KGH_P       153,768.00          687,474.85
+KOC HOLDING                                  0.000     4491484      KCHOL    20,612,954.00          231,603.92
+KOOKMIN BANK KRW50                           0.000     6419365      6000_       115,572.85        2,514,879.41
+KOOKMIN CREDIT CARD                          0.000     6263799      3115_        39,743.00        1,106,231.00
+KOOR INDS ORD ILS0                           1.306     6481698      KOR_I           781.00           16,755.80
+KOREA ELEC POWER K                           0.000     6495730      1576_       251,177.00        4,598,400.29
+KOREA TELECOM FREETEL                        0.000     6201421      3239_        51,395.00        1,302,876.36
+LARSEN & TOUBRO LIMITED                      0.000     6100164      LT_IN        45,251.00          171,603.24
+LARSEN + TOUBRO GDR                          3.372     4544344      LTO_L        38,000.00          430,350.00
+LG CABLE +MCHY KSW                           0.007     6375780      0626_       240,000.00        2,299,673.70
+LUKOIL HLDGS SPND                            2.571     2537432      LUKOY        27,298.00        1,557,075.41

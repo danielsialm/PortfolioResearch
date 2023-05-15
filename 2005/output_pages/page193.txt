@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 160
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+EXCEL TECHNOLOGY INC                       0.000 XLTC    30067T103     23.7800        14,951.00        441,848.99        355,534.78
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     42.9200        43,550.00      1,162,582.42      1,869,166.00
+FOREST OIL CORP.                           0.000 FST     346091705     45.5700        20,610.00      1,069,479.80        939,197.70
+FORWARD AIR CORPORATION                    0.654 FWRD    349853101     36.6500        35,145.00        835,365.61      1,288,064.25
+FRANKLIN ELEC INC                          1.011 FELE    353514102     39.5400         7,605.00        323,324.55        300,701.70
+GAYLORD ENTMT CO                           0.000 GET     367905106     43.5900        23,930.00        724,160.61      1,043,108.70
+GFI GROUP INC                              0.000 GFIG    361652209     47.4300         8,290.00        259,938.33        393,194.70
+GRACO INC.                                 1.589 GGG     384109104     36.4800        30,690.00      1,036,486.73      1,119,571.20
+GTECH HOLDINGS CORP                        1.071 GTK     400518106     31.7400        50,360.00      1,340,144.23      1,598,426.40
+HERITAGE COMMERCE CORP                     0.000 HTBK    426927109     21.5000        10,825.00        202,868.41        232,737.50
+HOLOGIC INC.                               0.000 HOLX    436440101     37.9200         4,185.00        157,273.00        158,695.20
+HUNT (JB) TRANSPRT SVCS INC                1.060 JBHT    445658107     22.6400        39,545.00        881,321.62        895,298.80
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     22.7100        43,130.00        732,920.51        979,482.30
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     31.9000        18,725.00        512,591.49        597,327.50
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     59.1100        12,300.00        734,301.76        727,053.00
+JACKSON HEWITT TAX SERVICE INC             1.154 JTX     468202106     27.7100        34,290.00        913,820.29        950,175.90
+KRONOS INC.                                0.000 KRON    501052104     41.8600        21,904.00        827,350.62        916,901.44
+LAYNE CHRISTENSEN COMPANY                  0.000 LAYN    521050104     25.4300        15,350.00        365,591.89        390,350.50
+LIGAND PHARMACEUTICA                       0.000 LGND    53220K207     11.1500         8,065.00         89,912.29         89,924.75
+LOGITECH INTERNATIONAL - ADR               0.000 LOGI    541419107     46.7700         8,403.00        325,313.22        393,008.31
+MACDERMID INC.                             0.860 MRD     554273102     27.9000        29,975.00      1,007,084.81        836,302.50
+MEDICAL ACTION INDUSTRIES INC              0.000 MDCI    58449L100     20.4400        12,535.00        228,982.99        256,215.40
+MERCURY GENERAL CORP.                      2.954 MCY     589400100     58.2200        15,945.00        879,609.35        928,317.90
+MERIDIAN BIOSCIENCE INC                    1.588 VIVO    589584101     20.1400        47,460.00        396,000.72        955,844.40
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     48.3200         7,670.00        251,810.92        370,614.40
+MINERALS TECHNOLOGIES INC                  0.357 MTX     603158106     55.8900         6,970.00        451,017.26        389,553.30
+MOLECULAR DEVICES CORP                     0.000 MDCC    60851C107     28.9300        13,665.00        383,252.72        395,328.45
+NETRATINGS INC                             0.000 NTRT    64116M108     12.3300        19,750.00        227,808.50        243,517.50
+NEUROCRINE BIOSCIENCES INC                 0.000 NBIX    64125C109     62.7300         2,580.00        158,375.62        161,843.40
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      7.6300        89,995.00        693,648.83        686,661.85
+NII HOLDINGS INC                           0.000 NIHD    62913F201     43.6800        26,215.00        625,841.61      1,145,071.20
+ORBOTECH LTD                               0.000 ORBK    2661784       23.9700        28,135.00        668,365.95        674,395.95
+ORIENT EXPRESS HOTELS LTD -A               0.317 OEH     G67743107     31.5200        32,570.00        919,285.22      1,026,606.40
+OUTDOOR CHANNEL HOLDINGS INC               0.000 OUTD    690027206     13.5000         9,779.00        137,599.32        132,016.50
+PARTNERRE LTD                              2.314 PRE     G6852T105     65.6700        22,400.00      1,418,203.09      1,471,008.00
+PEROT SYSTEMS COPR. CL. A                  0.000 PER     714265105     14.1400        17,585.00        249,315.13        248,651.90
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     96.6900         4,685.00        259,303.31        452,992.65
+PRIME MONEY MARKET - 6EA                   0.000 IT-EAG  IT-EAG         1.0000       702,148.09        702,148.12        702,148.09
+PRIMUS GUARANTY LTD                        0.000 PRS     G72457107     13.0500        53,950.00        709,717.97        704,047.50

@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+NOKIA(AB)OY EUR0.2                           2.748     5902941      NOK1V       360,650.00        5,215,408.34
+NOMURA HOLDINGS, INC.                        0.000     6643108      8604_        90,939.00        1,522,417.70
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N       105,500.00        4,658,399.86
+NORSKE SKOGINDUSTRIER ASA                    0.000     7070396      NSG_N        77,550.00        1,372,577.67
+NOVARTIS AG CHF 20                           0.019     7103065      NOVN_       297,298.00       11,752,617.78
+NTT DOCOMO INC                               0.000     6129277      9437_         1,482.00        3,537,345.92
+OEST ELEKTRIZITATS                           1.779     4661607      OEEW_        28,000.00        2,277,664.18
+OMV AG AUSH100                               5.308     4651459      OMV_A        35,400.00        3,245,658.16
+ORIX CORP Y50                                0.001     6661144      8591_         4,000.00          407,875.60
+ORKLA ASA NWKR 6.2                           0.000     5459715      ORK_N       139,900.00        2,474,367.74
+OVERSEAS CHINESE BANKING CORP                0.357     6663689      OCBC_        98,000.00          557,534.92
+PEARSON ORD 25P                             16.701     0677608      PSON_        70,263.00        1,073,212.13
+PEUGEOT SA FF35                              4.563     7103526      UG_FP        12,998.00          588,008.58
+PHILIPS ELECTRONICS                          3.840     5986622      PHIA_        74,827.00        1,711,294.37
+PIN-PRINTEMPS-REDO                           4.595     5505072      PP_FP         3,845.00          415,042.66
+PREUSSAG AG NPV                              5.852     5666292      TUI_G         2,300.00           63,208.66
+PRUDENTIAL CORP GB                          24.707     0709954      PRU_L       128,920.00        1,448,076.72
+RAS ITL1000                                  3.346     4718246      R_IM          8,959.00          112,768.74
+RECKITT BENCKISER PLC                        3.473     0727871      RB/_L        46,254.00          856,429.71
+REED INTERNATIONAL                           5.358     0730835      REL_L        97,860.00          823,228.99
+RENAULT SA                                   2.155     4712798      RNO_F        10,897.00          530,003.26
+REPSOL - YPF, SA                             1.928     5669354      REP_S        62,100.00          715,927.27
+REUTERS GROUP ORD                           14.599     0236913      RTR_L        85,787.00          927,879.47
+RHONE POULENC ORD                            1.811     4736817      AVE_F        42,337.00        2,593,298.58
+RICOH CO Y50                                 0.000     6738220      7752_        39,000.00          665,439.87
+RIO TINTO LIMITED                            1.213     6220103      RIO_A        76,724.00        1,375,212.38
+RIO TINTO PLC                              170.943     0718875      RIO_L        79,193.00        1,293,361.69
+ROCHE HLDGS AG CHF                           0.203     7108918      RO_SW         5,714.00          656,478.08
+ROCHE HLDGS AG GEN                           0.020     7110388      ROG_V        77,387.00        5,756,092.19
+ROHM CO JPY50                                0.000     6747204      6963_         5,700.00          785,588.49
+ROYAL BK SCOT GBP                           29.061     0754783      RBOS_       154,739.00        2,827,647.30
+ROYAL DUTCH PETROL                           5.345     5202704      RDA_N       121,495.00        5,466,882.99
+RWE AG                                       5.447     4768962      RWE_G         6,100.00          211,242.04
+SABMILLER PLC                                9.115     0483548      SAB_L        91,965.00          643,313.06
+SAINSBURY(J) GBP0.                          13.945     0767640      SBRY_       158,542.00          745,415.64
+SAMPO-LEONIA INSURANCE COMPANY PLC          15.202     5226038      SAMAS        32,500.00          238,910.71
+SAN PAOLO-IMI SPA                            9.646     5556575      SPI_I        20,830.00          162,757.16
+SANOFI SYNTHELABO                            1.747     5671735      SAN_F        24,920.00        1,546,703.08
+SANYO ELECTRIC CO                            0.000     6776769      6764_        50,000.00          235,615.02

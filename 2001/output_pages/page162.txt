@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 007
+ASOF10   Date 01/24/2002 Time 21:29:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 009
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-APOGENT TECHNOLOGY                           0.000     03760A101   AOT            208,500        4,105,928.86        5,379,300.00
-APOLLO GROUP INC                             0.000     037604105   APOL           217,550        5,261,779.44        9,791,925.50
-APPLE COMPUTER INC.                          0.000     037833100   AAPL           668,950       15,971,500.46       14,650,005.01
-APPLEBEES INT’L. INC.                        0.204     037899101   APPB            51,544        1,054,893.94        1,762,804.80
-APPLERA CORP - APPLIED BIOSYSTEM             0.432     038020103 Q ABI            359,305       13,797,430.54       14,109,907.33
-APPLICA                                      0.000     03815A106   APN             21,400          152,376.27          192,814.00
-APPLIED INDUSTRIAL TECH INC.                 2.573     03820C105   AIT             38,700          688,059.85          721,755.00
-APPLIED MATERIALS INC.                       0.000     038222105   AMAT         1,628,881       66,199,017.44       65,318,128.09
-APPLIED MICRO CIRCUITS CORP                  0.000     03822W109   AMCC           621,090       16,479,418.94        7,030,738.83
-APRIA HEALTHCARE GP. INC.                    0.000     037933108   AHG            107,600        2,345,989.16        2,688,924.00
-APTAR GROUP INC.                             0.685     038336103 Q ATR             44,200        1,181,908.23        1,548,326.00
-ARBITRON INC                                 0.000     03875Q108   ARB             28,601          767,266.56          976,724.15
-ARCH CHEMICALS INC.                          3.448     03937R102   ARJ             25,200          495,835.55          584,640.00
-ARCH COAL INC.                               1.013     039380100 Q ACI            143,100        2,831,994.67        3,248,370.00
-ARCHER DANIELS MIDLAND CO                    1.393     039483102 Q ADM          1,535,785       19,832,350.98       22,038,514.76
-ARCTIC CAT INC.                              1.411     039670104   ACAT            31,700          357,944.18          538,900.00
-ARGOSY GAMING COMPANY                        0.000     040228108   AGY             34,900          957,321.24        1,134,948.00
-ARKANSAS BEST CORP                           0.000     040790107   ABFS            48,831          968,676.94        1,407,309.42
-ARMOR HOLDINGS INC                           0.000     042260109   AH              26,300          516,903.70          709,837.00
-ARQULE INC                                   0.000     04269E107   ARQL            16,200          280,242.28          275,400.00
-ARRIS GROUP INC.                             0.000     04269Q100   ARRS           128,300        1,125,291.51        1,252,208.00
-ARROW ELECTRONICS                            0.000     042735100   ARW            207,300        3,895,532.27        6,198,270.00
-ARTESYN TECHNOLOGIES                         0.000     043127109   ATSN            32,100          694,162.49          298,851.00
-ARTHROCARE CORP                              0.000     043136100   ARTC            24,000          492,304.90          430,320.00
-ARVINMERITOR INC.                            2.036     043353101   ARM            128,825        3,763,614.81        2,530,123.00
-ASCENTIAL SOFTWARE CORP                      0.000     04362P108   ASCL           583,200        3,248,597.72        2,361,960.00
-ASE TEST LIMITED                             0.000     Y02516105   ASTSF           22,100          283,580.11          307,853.00
-ASHLAND INC                                  2.387     044204105 Q ASH             47,775        1,791,885.98        2,201,518.03
-ASHWORTH INC                                 0.000     04516H101   ASHW            50,400          325,826.18          397,656.00
-ASM INTERNATIONAL N.V.                       0.000     N07045102   ASMI            19,500          354,561.73          380,445.00
-ASPECT COMMUNICATIONS CORP                   0.000     04523Q102   ASPT            32,400          104,271.09          125,712.00
-ASPECT MEDICAL SYSTEMS INC                   0.000     045235108   ASPM            20,200          254,580.31          202,000.00
-ASPEN TECHNOLOGY INC                         0.000     045327103   AZPN           126,500        1,633,719.03        2,125,200.00
-ASSOCIATED BANC-CORP.                        3.513     045487105   ASBC           131,762        4,141,030.62        4,649,880.98
-ASTEC INDUSTRIES INC                         0.000     046224101   ASTE            18,500          621,579.82          267,510.00
-ASTORIA FINANCIAL CORP.                      5.139     046265104   ASFC           193,700        4,258,813.65        5,125,302.00
-ASTROPOWER INC                               0.000     04644A101   APWR            22,774          815,211.90          920,752.82
-ASYST TECHNOLOGIES INC                       0.000     04648X107   ASYT            26,200          348,026.27          334,312.00
-AT&T CORPORATION                             0.826     001957109 Q T            7,077,467      147,398,825.27      128,385,251.38
-AT&T WIRELESS SERVICES INC                   0.000     00209A106   AWE          5,219,946       98,708,869.93       75,010,624.01
+BARR LABORATORIES INC.                       0.000     068306109   BRL             93,450        5,912,307.87        7,416,192.00
+BARRA INC                                    0.000     068313105   BARZ            22,100          557,851.15        1,040,689.00
+BARRICK GOLD CORP.                           1.379     067901108 S ABX            675,843       13,753,213.17       10,779,706.21
+BASSETT FURNITURE INDS.                      5.710     070203104 Q BSET            14,100          372,160.41          197,541.00
+BAUSCH & LOMB INC                            2.761     071707103 Q BOL            112,627        5,105,550.99        4,241,532.82
+BAXTER INTL                                  1.081     071813109 Q BAX          1,328,792       36,578,940.03       71,263,114.96
+BB&T CORPORATION                             2.880     054937107   BBT            923,340       29,556,868.26       33,341,807.40
+BE AEROSPACE INC.                            0.000     073302101   BEAV           146,900        2,076,472.71        1,347,073.00
+BEAR STEARNS COMPANIES INC                   1.023     073902108   BSC            155,698        6,906,194.84        9,130,130.72
+BECKMAN COULTER INC.                         0.767     075811109   BEC            111,700        3,380,756.24        4,948,310.00
+BECTON DICKINSON & COMPANY                   1.146     075887109 Q BDX            663,280       18,462,345.78       21,987,731.99
+BED BATH & BEYOND INC                        0.000     075896100   BBBY           622,615       11,430,831.94       21,106,648.50
+BEI TECHNOLOGIES INC                         0.229     05538P104   BEIQ            84,000        1,546,115.51        1,464,960.00
+BEL FUSE INC-CL B                            0.798     077347300   BELFB           10,600          381,905.82          265,530.00
+BELDEN INC.                                  0.849     077459105   BWC             24,800          799,264.37          584,040.00
+BELL MICROPRODUCTS INC                       0.000     078137106   BELM            33,100          486,670.01          417,722.00
+BELLSOUTH                                    1.992     079860102 Q BLS          3,552,918      118,078,061.60      135,543,821.71
+BELO CORP                                    1.600     080555105 Q BLC            219,300        3,591,056.87        4,111,875.00
+BEMIS CO.                                    2.033     081437105 Q BMS             69,534        2,151,922.65        3,419,682.12
+BENCHMARK ELECTRONICS INC                    0.000     08160H101   BHE             15,900          531,162.76          301,464.00
+BEST BUY COMPANY INC                         0.000     086516101   BBY            403,947       16,200,221.39       30,085,972.56
+BIG LOTS, INC.                               0.000     089302103   BLI            148,238        3,342,679.88        1,541,675.19
+BIO-TECHNOLOGY GENERAL                       0.000     090578105   BTGC            50,500          731,135.15          415,615.00
+BIOGEN INC.                                  0.000     090597105   BGEN           377,445       18,487,003.53       21,646,470.75
+BIOMET INC.                                  0.000     090613100   BMET           406,385        5,886,311.16       12,557,296.50
+BISYS GROUP INC.                             0.000     055472104   BSYS           110,000        3,329,438.35        7,038,900.00
+BJ SERVICES CO                               0.000     055482103   BJS            379,600        8,707,190.65       12,318,019.99
+BJ’S WHOLESALE CLUB INC.                     0.000     05548J106   BJ             227,300        8,239,755.96       10,023,930.00
+BLACK & DECKER                               1.272     091797100 Q BDK            251,050       10,051,414.83        9,472,116.49
+BLACK BOX CORPORATION                        0.000     091826107   BBOX            19,600          946,017.79        1,036,448.00
+BLACK HILLS CORP                             3.309     092113109   BKH             53,900        1,788,993.41        1,823,976.00
+BLYTH INC.                                   0.860     09643P108   BTH             94,000        2,423,157.59        2,185,500.00
+BMC SOFTWARE                                 0.000     055921100   BMC            600,290       17,691,084.44        9,826,747.31
+BOB EVANS FARMS                              1.628     096761101 Q BOBE            55,100        1,012,002.24        1,353,807.00
+BOEING CO                                    1.753     097023105 Q BA           1,670,338       59,319,454.13       64,775,707.64
+BOISE CASCADE CORP                           1.764     097383103 Q BCC             75,090        2,409,787.35        2,553,810.90
+BON-TON STORES                               0.000     09776J101   BONT            64,000          195,848.42          172,800.00
+BORDERS GROUP INC                            0.000     099709107   BGP            204,000        4,306,159.33        4,047,360.00
+BORG WARNER INC.                             1.148     099724106   BWA             62,400        2,707,878.78        3,260,399.99
+BORLAND SOFTWARE CORPORATION                 0.000     099849101   BORL            34,900          383,684.62          546,534.00

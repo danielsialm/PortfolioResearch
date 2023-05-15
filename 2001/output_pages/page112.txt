@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 083
+ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 085
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-POLARIS INDUSTRIES INC.                    1.731 PII     731068102     57.7500        24,700.00        896,332.57      1,426,425.00
-POLYMEDICA CORP                            0.000 PLMD    731738100     16.6000        15,300.00        615,298.28        253,980.00
-POLYONE CORPORATION                        2.551 POL     73179P106      9.8000        85,700.00        903,468.02        839,860.00
-POPE & TALBOT INC                          4.210 POP     732827100     14.2500        15,400.00        233,183.25        219,450.00
-POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400        28,800.00        517,690.98        657,792.00
-PRE-PAID LEGAL SVCS                        0.000 PPD     740065107     21.9000        22,800.00        514,302.35        499,320.00
-PRESIDENTIAL LIFE                          1.945 PLFE    740884101     20.5600        29,000.00        581,740.00        596,240.00
-PRIMA ENERGY CORP                          0.000 PENG    741901201     21.7500        12,600.00        279,858.00        274,050.00
-PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     11.0500        50,100.00        866,683.74        553,605.00
-PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     35.1900        45,800.00        783,920.61      1,611,702.00
-PROFIT RECOVERY GROUP INTERNAT             0.000 PRGX    743168106      8.1500        46,500.00      1,177,627.40        378,975.00
-PROGRESS SOFTWARE                          0.000 PRGS    743312100     17.2800        37,500.00        301,287.16        648,000.00
-PROVIDENT BANKSHARES CORPORATI             3.292 PBKS    743859100     24.3000        27,985.00        671,962.84        680,035.50
-PROVINCE HEALTHCARE COMPANY                0.000 PRHC    743977100     30.8600        26,300.00        953,703.18        811,618.00
-PROXIM INC                                 0.000 PROX    744284100      9.9200        24,000.00      1,028,478.87        238,080.00
-QRS CORPORATION                            0.000 QRSI    74726X105     14.1000        14,300.00        898,950.15        201,630.00
-QUAKER CHEM CORP                           3.980 KWR     747316107Q    20.6000         8,900.00        155,791.02        183,340.00
-QUANEX CORP                                2.261 NX      747620102     28.3000        13,800.00        401,350.12        390,540.00
-QUICKSILVER INC                            0.000 ZQK     74838C106     17.2000        27,300.00        699,901.35        469,560.00
-RADIANT SYSTEMS INC                        0.000 RADS    75025N102     11.5000        27,300.00        606,922.68        313,950.00
-RADISYS CORPORATION                        0.000 RSYS    750459109     19.6600        14,100.00        837,879.57        277,206.00
-RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.4000        10,000.00         50,650.00         74,000.00
-RALCORP HOLDINGS                           0.000 RAH     751028101Q    22.7000        28,900.00        554,365.77        656,030.00
-RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     22.5400        20,700.00        516,551.12        466,578.00
-RAYMOND JAMES FINANCIAL INC                1.013 RJF     754730109     35.5200        47,100.00      1,040,073.34      1,672,992.00
-READ-RITE CORP                             0.000 RDRT    755246105      6.6100       113,400.00      1,546,507.53        749,574.00
-REGAL BELOIT                               2.201 RBC     758750103     21.8000        20,700.00        563,771.63        451,260.00
-REGENERON PHARMACEUTICAL                   0.000 REGN    75886F107     28.1600        40,700.00        725,391.67      1,146,112.00
-REGIS CORP                                 0.465 RGIS    758932107     25.7800        39,500.00        664,428.23      1,018,310.00
-REHABCARE GROUP INC                        0.000 RHB     759148109     29.6000        17,600.00        675,462.83        520,960.00
-RELIANCE STEEL & ALUMINUM                  0.914 RS      759509102     26.2500        30,300.00        567,128.40        795,375.00
-REMINGTON OIL & GAS CORP                   0.000 ROIL    759594302     17.3000        41,800.00        627,891.12        723,140.00
-RENAL CARE GROUP INC.                      0.000 RCI     759930100     32.1000        49,600.00      1,134,007.51      1,592,160.00
-RESMED INC                                 0.000 RMD     761152107     53.9200        29,800.00        799,609.23      1,606,816.00
-RESPIRONICS INC                            0.000 RESP    761230101     34.6400        29,300.00        564,524.40      1,014,952.00
-RGS ENERGY GROUP INC                       4.787 RGS     74956K104     37.6000        36,100.00        998,255.47      1,357,360.00
-RIGGS NATL CORP WASH DC                    1.431 RIGS    766570105     13.9700        27,400.00        466,160.46        382,778.00
-RLI CORP                                   1.422 RLI     749607107     45.0000        10,000.00        416,772.70        450,000.00
-ROADWAY CORPORATION                        0.545 ROAD    769742107     36.7000        22,200.00        492,736.59        814,740.00
+SPS TECHNOLOGIES INC                       0.000 ST      784626103     34.9200        13,600.00        593,432.71        474,912.00
+ST MARY LAND & EXPLORATION                 0.471 MARY    792228108     21.1900        27,600.00        458,959.26        584,844.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     15.5200        14,100.00        216,567.79        218,832.00
+STANDARD MOTOR PRODS                       2.589 SMP     853666105     13.9000        12,600.00        199,580.81        175,140.00
+STANDARD REGISTER CO                       4.964 SR      853887107     18.5300        27,000.00        377,467.64        500,310.00
+STANDARD-PACIFIC CORP                      1.315 SPF     85375C101     24.3200        29,400.00        387,389.17        715,008.00
+STANDEX INTERNATIONAL CORP                 3.862 SXI     854231107     21.7500        11,000.00        244,205.50        239,250.00
+STARTEK INC                                0.000 SRT     85569C107     18.9500        13,300.00        737,758.93        252,035.00
+STATEN ISLAND BANCORP                      2.207 SIB     857550107     16.3100        66,900.00        571,057.44      1,091,139.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     11.0400        27,400.00        464,171.34        302,496.00
+STEEL DYNAMICS INC                         0.000 STLD    858119100     11.6100        47,300.00        771,682.08        549,153.00
+STEEL TECHNOLOGIES INC                     1.762 STTX    858147101      9.0800        35,200.00        276,298.00        319,616.00
+STEIN MART INC.                            0.000 SMRT    858375108      8.3600        46,700.00        642,105.61        390,412.00
+STERLING BANCSHARES INC                    1.198 SBIB    858907108     12.5200        41,700.00        570,430.65        522,084.00
+STEWART INFO SVCS                          0.000 STC     860372101     19.7500        17,000.00        355,216.00        335,750.00
+STILLWATER MINING COMPANY                  0.000 SWC     86074Q102     18.5000        38,000.00        569,599.16        703,000.00
+STONE ENERGY CORP                          0.000 SGY     861642106     39.5000        25,400.00      1,053,373.82      1,003,300.00
+STRATOS LIGHTWAVE INC.                     0.000 STLW    863100103      6.1500        61,786.00        325,310.46        379,983.90
+STRIDE RITE CORP                           3.053 SRR     863314100Q     6.5500        48,300.00        620,595.94        316,365.00
+STURM RUGER & CO INC                       6.677 RGR     864159108     11.9800        32,000.00        299,957.18        383,360.00
+SUPERTEX INC                               0.000 SUPX    868532102     17.5100        10,200.00        259,224.63        178,602.00
+SURMODICS INC                              0.000 SRDX    868873100     36.4600        16,400.00        917,580.00        597,944.00
+SUSQUEHANNA BANCSHARES INC.                3.836 SUSQ    869099101     20.8500        38,100.00        708,839.20        794,385.00
+SWIFT ENERGY COMPANY                       0.000 SFY     870738101     20.2000        23,300.00        841,324.81        470,660.00
+SWS GROUP INC                              1.571 SWS     78503N107     25.4500        17,050.00        472,754.69        433,922.50
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     21.5800        36,501.00        611,730.99        787,691.58
+SYMMETRICOM INC                            0.000 SYMM    871543104      7.6100        24,400.00        205,664.54        185,684.00
+SYNCOR INTL CORP-DEL                       0.000 SCOR    87157J106     28.6400        23,100.00        503,602.60        661,584.00
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     10.3400        26,000.00        545,932.28        268,840.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     16.1700        36,300.00        704,459.60        586,971.00
+TBC CORP                                   0.000 TBCC    872180104     13.3900        44,600.00        394,168.42        597,194.00
+TECHNE CORPORATION                         0.000 TECH    878377100     36.8500        40,700.00      1,380,376.05      1,499,795.00
+TECHNITROL INC.                            0.506 TNL     878555101     27.6200        32,300.00        835,953.21        892,126.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     16.2900        30,400.00        453,028.83        495,216.00
+TETRA TECH INC.                            0.000 TTEK    88162G103     19.9100        50,000.00        727,636.47        995,500.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     20.9500        15,200.00        352,420.21        318,440.00
+TEXAS INDUSTRIES INC                       0.813 TXI     882491103     36.9000        20,500.00        726,848.26        756,450.00
+THE MEN’S WEARHOUSE INC.                   0.000 MW      587118100     20.6500        39,500.00      1,043,104.47        815,675.00
+THERAGENICS CORPORATION                    0.000 TGX     883375107      9.8600        34,400.00        349,532.94        339,184.00

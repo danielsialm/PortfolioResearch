@@ -1,0 +1,9 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+GENESIS - EQUITIES                           0.000     IE-GEN                 3,157,943.35      315,794,335.67
+GENESIS - FIXED INCOME                       0.000     IF-GEN                   302,471.94       30,247,194.90
+GENESIS - LIQUIDITY RESERVES                 0.000     IL-GEN                   901,634.15       90,163,415.75
+
+Instrument Total               3                                              4,362,049.46      436,204,946.32
+
+Portfolio Total                3                                              4,362,049.46      436,204,946.32        384,092,773.28

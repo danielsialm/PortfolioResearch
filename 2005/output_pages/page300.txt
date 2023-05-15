@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - A         DIVERSIFIED
+
+COLONIAL PROPERTIES                        6.431 CLP     195872106     41.9800       104,000.00      4,187,679.49      4,365,920.00
+COUSINS PROPERTIES INC                     5.229 CUZ     222795106     28.3000       101,000.00      2,835,242.55      2,858,300.00
+CRESCENT RE EQT. CO.                       7.568 CEI     225756105     19.8200        78,000.00      1,406,583.53      1,545,960.00
+VORNADO REALTY TRUST                       3.833 VNO     929042109     83.4700       303,045.00     15,807,554.05     25,295,166.15
+
+Instrument Total             4                                                      586,045.00      24,237,059.62     34,065,346.15
+
+Instrument -B      HEALTH CARE
+
+VENTAS INC.                                4.497 VTR     92276F100     32.0200        50,000.00      1,267,627.50      1,601,000.00
+
+Instrument Total             1                                                       50,000.00       1,267,627.50      1,601,000.00
+
+Instrument -C      INDUSTRIAL
+
+AMB PROPERTY CORP.                         0.823 AMB     00163T109     49.1700       191,537.00      5,966,883.51      9,417,874.29
+CENTERPOINT PROP CORP.                     3.738 CNT     151895109     49.4800        72,000.00      2,902,017.30      3,562,560.00
+FIRST INDUSTRIAL RE                        1.337 FR      32054K103     38.5000        57,000.00      2,254,440.19      2,194,500.00
+PROLOGIS TRUST                             3.167 PLD     743410102Q    46.7200       579,006.00     16,078,871.07     27,051,160.32
+
+Instrument Total             4                                                      899,543.00      27,202,212.07     42,226,094.61
+
+Instrument -D      MIXED INDUST/OFFICE
+
+BEDFORD PROPERTY                           1.959 BED     076446301     21.9400        22,000.00        485,211.84        482,680.00
+DIGITAL REALTY TRUST INC                   4.684 DLR     253868103     22.6300        78,400.00      1,334,738.33      1,774,192.00
+DUKE RE CORPORATION                        3.889 DRE     264411505     33.4000       166,183.00      4,322,864.82      5,550,512.20
+FIRST POTOMAC REALTY TRUST                 1.804 FPO     33610F109     26.6000        53,000.00      1,397,726.74      1,409,799.99
+LIBERTY PROPERTY TRUST                     5.741 LRY     531172104Q    42.8500       148,700.00      4,986,231.60      6,371,795.00
+PS BUSINESS PARKS INC/CA                   2.357 PSB     69360J107     49.2000        75,100.00      2,914,385.44      3,694,920.00
+
+Instrument Total             6                                                      543,383.00      15,441,158.77     19,283,899.19
+
+Instrument -F      OFFICE
+
+ALEXANDRIA REAL ESTATE                     3.478 ARE     015271109     80.5000        63,000.00      3,739,464.14      5,071,500.00
+ARDEN REALTY GROUP INC                     4.505 ARI     039793104Q    44.8300       133,000.00      5,165,604.75      5,962,390.00
+BIOMED REALTY TRUST                        4.426 BMR     09063H107     24.4000       103,000.00      2,327,221.55      2,513,200.00
+BOSTON PROPERTIES INC                      3.669 BXP     101121101     74.1300       226,484.00      8,990,812.65     16,789,258.92

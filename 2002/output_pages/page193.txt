@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+BOEING CO                                    2.061     097023105 Q BA           1,580,891       56,092,970.89       52,153,594.09
+BOISE CASCADE CORP                           2.379     097383103 Q BCC             66,120        2,103,534.91        1,667,546.40
+BON-TON STORES                               0.000     09776J101   BONT            91,000          261,638.42          355,810.00
+BORDERS GROUP INC                            0.000     099709107   BGP            259,300        5,250,873.97        4,174,730.00
+BORG WARNER INC.                             1.428     099724106   BWA             53,000        2,574,928.67        2,672,260.00
+BORLAND SOFTWARE CORPORATION                 0.000     099849101   BORL            80,940          941,112.25          995,562.01
+BOSTON COMMUNICATIONS GROUP                  0.000     100582105   BCGI            83,300          883,073.37        1,058,743.00
+BOSTON PRIVATE FINL HOLDING                  1.007     101119105   BPFH            22,800          495,774.35          452,808.00
+BOSTON SCIENTIFIC CORP.                      0.000     101137107   BSX          1,098,570       27,234,052.32       46,711,196.40
+BOWATER INC.                                 1.907     102183100 Q BOW            193,100        9,175,304.11        8,100,545.00
+BOWNE & CO INC.                              1.841     103043105   BNE             36,900          632,114.32          440,955.00
+BOYD GAMING COPR                             0.000     103304101   BYD             11,470          178,718.17          161,153.50
+BRADY CORPORATION                            2.398     104674106   BRC             26,800          714,693.48          893,780.00
+BRIGGS & STRATTON                            3.013     109043109 Q BGG             38,992        1,615,598.61        1,655,990.24
+BRINKER INTERNATIONAL INC                    0.000     109641100   EAT            167,349        3,993,058.09        5,397,037.50
+BRISTOL-MYERS SQUIBB                         4.838     110122108 Q BMY          4,223,086      144,400,967.77       97,764,440.90
+BROADCOM CORP CL A                           0.000     111320107   BRCM           535,213       70,374,110.79        8,060,307.78
+BROADWING INC.                               0.000     111620100   BRW            438,200        9,444,566.95        1,542,464.00
+BROOKS-PRI AUTOMATION INC                    0.000     11442E102   BRKS            34,000        1,332,684.19          389,640.00
+BROOKSTONE INC                               0.000     114537103   BKST            20,000          221,304.82          289,200.00
+BROOKTROUT INC                               0.000     114580103   BRKT            31,300          234,307.73          165,890.00
+BROWN & BROWN INC                            0.711     115236101   BRO            149,100        4,649,604.56        4,818,912.00
+BROWN SHOE COMPANY INC                       1.678     115736100 Q BWS             19,100          331,425.85          455,153.00
+BROWN-FORMAN -CL B                           2.295     115637209 Q BF.B            43,653        2,384,298.40        2,853,160.08
+BRUNSWICK CORP                               2.517     117043109 Q BC             189,391        3,950,353.82        3,761,305.26
+BRUSH ENGINEERED MATERIALS                   8.727     117421107   BW              48,300          488,843.52          265,650.00
+BUCA INC.                                    0.000     117769109   BUCA            69,200          674,135.75          575,744.00
+BUCKEYE TECHNOLOGIES INC.                    0.000     118255108   BKI             34,700          614,055.51          213,405.00
+BUILDING MATERIALS HLDG. CORP.               1.398     120113105   BMHC            24,103          287,151.58          344,672.90
+BURLINGTON COAT FACTORY WAREHOUSE            0.111     121579106   BCF             74,900        1,256,422.56        1,344,455.00
+BURLINGTON NORTHERN SANTA FE                 1.845     12189T104 Q BNI            719,023       19,901,189.56       18,701,788.23
+BURLINGTON RESOURCES                         1.289     122014103 Q BR             368,900       13,931,940.09       15,733,585.00
+BUTLER MANUFACTURING CO.                     3.720     123655102   BBR              9,400          260,513.63          181,890.00
+C-COR ELECTRONICS                            0.000     125010108   CCBL            16,800           53,124.96           55,776.00
+C.H.ROBINSON WORLDWIDE INC                   1.025     12541W100   CHRW           162,500        4,387,934.25        5,070,000.00
+C&D TECHNOLOGIES INC.                        0.339     124661109   CHP             30,800          834,829.47          544,236.00
+CABLE DESIGN TECHNOLOGIES                    0.000     126924109   CDT             49,000          802,317.16          289,100.00
+CABLEVISION SYSTEMS NEW YORK GROUP-A         0.000     12686C109   CVC             28,600          405,379.89          478,764.00
+CABOT CORP                                   1.959     127055101   CBT            167,300        3,800,393.78        4,440,142.00
+CABOT MICROELECTRONICS CORPORATION           0.000     12709P103   CCMP            68,764        3,558,242.39        3,245,660.79

@@ -1,0 +1,51 @@
+ASOF02   Date 01/21/2005 Time 18:34:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 092
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+WHEELING-PITTSBURGH CORP                   0.000 WPSC    963142302     38.5400        15,800.00        383,057.79        608,932.00
+WHITING PETROLEUM CORP                     0.000 WLL     966387102     30.2500        36,800.00      1,027,578.11      1,113,200.00
+WILD OATS MARKETS INC.                     0.000 OATS    96808B107      8.8100         6,168.00         74,141.18         54,340.08
+WILSHIRE BANCORP INC                       0.000 WIBC    97186T108     16.5400        29,200.00        388,244.10        482,968.00
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     22.4200        23,700.00        872,834.39        531,354.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107     13.5500        78,900.00        395,853.24      1,069,095.00
+WINN-DIXIE STORES INC.                     4.395 WIN     974280109M     4.5500        91,300.00        743,775.95        415,415.00
+WINNEBAGO INDUSTRIES                       0.716 WGO     974637100     39.0600        28,800.00        637,709.13      1,124,928.00
+WINTRUST FINANCIAL CORP                    0.351 WTFC    97650W108     56.9600        23,800.00        922,162.87      1,355,648.00
+WIRELESS FACILITIES                        0.000 WFII    97653A103      9.4400        20,395.00        206,190.76        192,528.80
+WITNESS SYS INC                            0.000 WITS    977424100     17.4600        24,100.00        309,870.52        420,786.00
+WMS INDUSTRIES INC                         0.000 WMS     929297109     33.5400        12,800.00        278,464.41        429,312.00
+WOLVERINE WORLD WIDE                       1.241 WWW     978097103     31.4200        52,050.00      1,158,645.92      1,635,411.00
+WOODHEAD INDUSTRIES                        2.495 WDHD    979438108     16.0300        13,500.00        215,703.77        216,405.00
+WOODWARD GOVERNOR CO.                      1.340 WGOV    980745103     71.6100        10,800.00        754,674.46        773,388.00
+WORLD ACCEP CORP DEL                       0.000 WRLD    981419104     27.5100        26,613.00        501,463.69        732,123.63
+WORLD FUEL SVCS CORP                       0.602 INT     981475106     49.8000        12,500.00        374,747.86        622,500.00
+WORLD WRESTLING ENTM                       3.957 WWE     98156Q108     12.1300        31,000.00        354,949.66        376,030.00
+WRIGHT MEDICAL GROUP INC                   0.000 WMGI    98235T107     28.5000        29,500.00        792,380.29        840,750.00
+WSFS FINL CORP                             0.397 WSFS    929328102     60.3200        10,700.00        486,158.09        645,424.00
+X-RITE INC                                 0.624 XRIT    983857103     16.0100        23,100.00        296,907.72        369,831.00
+XYBERNAUT CORP                             0.000 XYBR    984149104      1.2300       196,500.00        247,880.06        241,695.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     33.1800        47,400.00      1,252,211.13      1,572,732.00
+YARDVILLE NATL BANCO                       1.342 YANB    985021104     34.2600         9,300.00        233,084.90        318,618.00
+YORK INTERNATIONAL CORP                    2.316 YRK     986670107     34.5400        38,900.00      1,016,750.40      1,343,606.00
+YOUNG INNOVATIONS IN                       0.474 YDNT    987520103     33.7300         5,200.00        157,311.91        175,396.00
+ZALE CORP.                                 0.000 ZLC     988858106     29.8700        66,194.00      1,676,228.72      1,977,214.78
+ZENITH NATIONAL INSURANCE CP               2.247 ZNT     989390109     49.8400        16,500.00        545,769.41        822,360.00
+ZILA INC                                   0.000 ZILA    989513205      4.2800        50,400.00        248,868.73        215,712.00
+ZIPREALTY INC                              0.000 ZIPR    98974V107     17.8700         5,000.00         80,458.88         89,350.00
+ZOLL MEDICAL CORP                          0.000 ZOLL    989922109     34.4000        16,100.00        545,168.22        553,840.00
+ZORAN CORP                                 0.000 ZRAN    98975F101     11.5800        59,186.00      1,151,766.40        685,373.88
+ZYGO CORP                                  0.000 ZIGO    989855101     11.7900        19,900.00        246,261.22        234,621.00
+ZYMOGENETICS INC                           0.000 ZGEN    98985T109     23.0000        21,610.00        293,861.39        497,030.00
+
+Instrument Total         1,789                                                    63,118,260.10    952,568,024.61  1,181,085,028.05
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AAMES INVESTMENT CORP                      2.243 AIC     00253G108     10.7000        40,600.00        443,317.63        434,420.00

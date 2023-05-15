@@ -1,0 +1,33 @@
+ASOF10   Date 01/21/2005 Time 18:35:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+SOVRAN SELF STORAGE                          5.742     84610H108   SSS             23,000          792,245.35          969,220.00
+STRATEGIC HOTEL CAPITAL INC                  5.333     86272T106   SLH             22,500          305,961.75          371,250.00
+SUMMIT PROPERTIES INC                        4.146     866239106   SMT             55,100        1,250,764.02        1,794,056.00
+SUN COMMUNITIES INC                          6.062     866674104   SUI             17,900          691,722.69          720,475.00
+SUNSTONE HOTEL INVESTORS INC                 0.000     867892101   SHO             24,400          486,627.50          507,032.00
+TANGER FACTORY OUTLET                        4.724     875465106   SKT             20,200          412,181.77          534,492.00
+TARRAGON CORP                                0.000     876287103   TARR            23,329          320,083.91          416,422.65
+TAUBMAN CENTERS INC                          3.806     876664103 Q TCO             55,200        1,083,097.29        1,653,240.00
+THORNBURG MTG INC                            9.392     885218107   TMA            146,300        4,322,862.48        4,236,848.00
+TOWN & COUNTRY TRUST                         6.225     892081100   TCT             10,400          256,171.96          287,352.00
+TRIZEC PROPERTIES INC                        4.228     89687P107   TRZ            160,531        2,459,454.59        3,037,246.52
+U S RESTAURANT PPTYS                         7.309     902971100   USV             11,700          185,860.18          211,302.00
+U-STORE-IT TRUST                             4.634     91274F104   YSI             28,700          484,669.85          497,945.00
+UNITED DOMINION RE TRUST                     4.717     910197102   UDR             62,200        1,209,929.89        1,542,560.00
+UNIVERSAL HEALTH RLT                         6.287     91359E105   UHT             13,000          363,475.65          417,690.00
+URSTADT BIDDLE PPTYS                         5.161     917286205   UBA             23,400          348,214.41          398,970.00
+VORNADO REALTY TRUST                         3.993     929042109   VNO            208,531       10,693,587.46       15,875,465.03
+WASHINGTON RE INV                            3.991     939653101   WRE             39,000        1,105,680.80        1,320,930.00
+WEINGARTEN RE INVST                          3.476     948741103   WRI            126,350        3,970,447.97        5,066,635.00
+WINSTON HOTELS INC                           5.080     97563A102   WXH             31,200          300,848.47          368,472.00
+
+Instrument Total                    140                                        11,982,071      330,101,301.31      412,899,378.82
+

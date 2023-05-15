@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     91.2500        24,000.00        974,041.85      2,190,000.00
+MOLEX INC                                  0.500 MOLXE   608554101     30.0000       179,700.00      5,444,708.55      5,391,000.00
+MONSTER WORLDWIDE INC                      0.000 MNST    611742107     33.6400        93,800.00      4,527,377.48      3,155,432.00
+MOODY'S CORPORATION                        0.345 MCO     615369105     86.8500       162,100.00      6,885,694.67     14,078,385.00
+MYLAN LABS                                 0.678 MYL     628530107Q    17.6800       426,400.00      7,309,464.10      7,538,752.00
+NABORS INDUSTRIES LTD.                     0.000 NBR     G6359F103     51.2900        33,300.00      1,748,889.36      1,707,957.00
+NATIONAL INSTRUMENTS CORP.                 0.733 NATI    636518102     27.2500        46,100.00        963,660.65      1,256,225.00
+NATIONAL SEMICONDUCTOR CORP.               0.445 NSM     637640103     17.9500       237,900.00      3,365,991.36      4,270,304.99
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     35.2900       283,400.00      9,313,207.11     10,001,186.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     43.9800        21,400.00        715,737.56        941,172.00
+NBTY INC.                                  0.000 NTY     628782104     24.0100        67,000.00      1,514,945.58      1,608,670.00
+NCR CORPORATION                            0.000 NCR     62886E108     69.2300       171,000.00      6,907,518.75     11,838,330.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     33.2200       150,200.00      3,075,230.47      4,989,644.00
+NEUROCRINE BIOSCIENCES INC                 0.000 NBIX    64125C109     49.3000        26,200.00      1,377,962.07      1,291,660.00
+NEW YORK TIMES CO. CL A                    1.519 NYT     650111107Q    40.8000        59,100.00      2,513,790.45      2,411,280.00
+NEXTEL PARTNERS INC                        0.000 NXTP    65333F107     19.5400       151,400.00      1,947,596.02      2,958,356.00
+NII HOLDINGS INC                           0.000 NIHD    62913F201     47.4500        70,100.00      2,323,121.60      3,326,245.00
+NOKIA CORP - ADR                           1.946 NOK     654902204A    15.6700       262,200.00      4,154,919.64      4,108,674.00
+NORDSTROM INC                              1.112 JWN     655664100Q    46.7300       263,900.00      9,802,137.59     12,332,047.00
+NORTH FORK BANK                            3.050 NFB     659424105     28.8500        56,600.50      1,338,209.14      1,632,924.43
+NUCOR CORP                                 0.993 NUE     670346105Q    52.3400        44,900.00      1,106,928.68      2,350,066.00
+NVR INC                                    0.000 NVR     62944T105    769.4000        11,600.00      5,856,562.21      8,925,040.00
+ONMICARE INC.                              0.260 OCR     681904108     34.6200        78,600.00      2,824,800.05      2,721,132.00
+OSHKOSH TRUCK CORPORATION                  0.511 OSK     688239201     68.3800        25,600.00      1,296,611.46      1,750,528.00
+OSI PHARMACEUTICALS INC                    0.000 OSIP    671040103     74.8500       108,100.00      5,906,334.79      8,091,285.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     22.2600       171,800.00      3,336,257.72      3,824,268.00
+PACTIV CORPORATION                         0.000 PTV     695257105     25.2900        59,700.00      1,365,926.63      1,509,813.00
+PATTERSON COS INC                          0.000 PDCO    703395103     43.3900        76,700.00      1,334,711.07      3,328,013.00
+PATTERSON-UTI ENERGY INC                   0.411 PTEN    703481101     19.4500       190,500.00      2,733,956.42      3,705,225.00
+PERKIN ELMER INC                           1.245 PKI     714046109Q    22.4900        57,700.00        936,652.66      1,297,673.00
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     39.4800       143,000.00      4,765,474.75      5,645,640.00
+PETSMART INC                               0.337 PETM    716768106     35.5300       277,500.00      5,113,512.76      9,859,575.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     41.2900        28,200.00        594,154.02      1,164,378.00
+PITNEY-BOWES, INC.                         2.636 PBI     724479100Q    46.2800       271,900.00     10,701,622.89     12,583,532.00
+PIXAR                                      0.000 PIXR    725811103     85.6100        76,700.00      6,233,118.15      6,566,287.00
+POLARIS INDUSTRIES INC.                    1.352 PII     731068102     68.0200       160,900.00      9,153,954.69     10,944,418.00
+PRECISION CASTPARTS CORP                   0.182 PCP     740189105     65.6800        95,800.00      5,029,524.44      6,292,144.00
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     20.5400        66,600.00      1,188,748.22      1,367,964.00
+PROTEIN DESIGN LABS INC                    0.000 PDLI    74369L103     20.6600        57,400.00        937,809.70      1,185,884.00

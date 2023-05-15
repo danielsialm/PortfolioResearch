@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CHEESECAKE FACTORY (THE)                     0.000     163072101   CAKE            96,173        3,056,175.48        4,234,497.19
+CHEMICAL FINL CORP                           2.912     163731102   CHFC            28,600          927,284.73        1,040,754.00
+CHEROKEE INC DEL NEW                         1.649     16444H102   CHKE            14,100          306,365.41          320,634.00
+CHESAPEAKE CORP                              3.323     165159104   CSK             34,777          806,218.80          920,894.96
+CHESAPEAKE ENERGEY CORP                      1.030     165167107   CHK            380,800        3,698,322.12        5,171,263.98
+CHESAPEAKE UTILITIES CORP                    4.222     165303108   CPK              3,300           71,888.25           85,965.00
+CHEVRONTEXACO CORP                           3.380     166764100 Q CVX          2,211,678      160,399,396.20      191,066,862.41
+CHICAGO MERCANTILE EXCHANGE                  1.160     167760107   CME              9,460          666,569.13          684,525.60
+CHICAGO PIZZA & BREWERY INC                  0.000     167889104   CHGO            71,300          582,027.74        1,063,796.00
+CHICO'S FAS INC                              0.000     168615102   CHS            273,000        6,853,137.68       10,087,350.01
+CHILDREN'S PLACE                             0.000     168905107   PLCE            86,756        1,899,920.32        2,318,987.88
+CHIPPAC INC                                  0.000     169657103   CHPC            37,800          336,174.22          286,902.00
+CHIQUITA BRANDS                              0.000     170032809 Q CQB             75,640        1,250,588.46        1,704,169.20
+CHIRON CORP                                  0.000     170040109   CHIR           179,600        5,214,118.82       10,235,404.01
+CHITTENDEN CORPORATION                       2.378     170228100   CHZ             68,900        1,903,024.51        2,317,796.00
+CHOICE HOTELS INTL INC                       2.269     169905106   CHH             36,600        1,074,548.87        1,290,150.00
+CHOICEPOINT INC.                             0.000     170388102   CPS            157,200        5,295,413.84        5,987,748.00
+CHOLESTECH CORP                              0.000     170393102   CTEC            16,400          157,352.61          125,132.00
+CHRISTOPHER & BANKS CORP                     0.819     171046105   CBK             42,450          897,545.87          829,048.50
+CHRONIMED INC                                0.000     171164106   CHMD            32,200          297,806.72          273,056.00
+CHUBB CORP                                   2.114     171232101 Q CB             465,500       25,717,637.50       31,700,550.00
+CHURCH & DWIGHT INC                          0.808     171340102 Q CHD             68,465        2,241,102.48        2,711,214.00
+CHURCHILL DOWNS INC                          1.381     171484108   CHDN             9,500          364,545.78          343,909.50
+CIBER INC.                                   0.000     17163B102   CBR            175,149        1,797,550.15        1,516,790.34
+CIENA CORP.                                  0.000     171779101   CIEN           932,600        6,864,644.53        6,192,464.02
+CIGNA CORP.                                  2.295     125509109 Q CI             403,517       23,708,609.58       23,202,227.52
+CIMA LABS INC                                0.000     171796105   CIMA            17,300          490,361.13          564,326.00
+CIMAREX ENERGY                               0.000     171798101   XEC             50,200          913,417.01        1,339,838.00
+CINCINNATI BELL INC                          0.000     171871106   CBB            338,700        2,152,338.81        1,710,434.99
+CINCINNATI FINANCIAL CORP.                   2.387     172062101 Q CINF           256,600        8,866,138.94       10,746,408.00
+CINERGY CORP                                 4.844     172474108 Q CIN            313,000       10,017,308.46       12,147,530.03
+CINTAS CORP                                  0.538     172908105   CTAS           228,854        8,781,912.16       11,472,451.02
+CIPHERGEN BIOSYSTEMS                         0.000     17252Y104   CIPH           118,685        1,245,380.99        1,334,019.40
+CIRCOR INTERNATIONAL INC                     0.622     17273K109   CIR             14,900          271,584.28          359,090.00
+CIRCUIT CITY STORES                          0.691     172737108 Q CC             570,300        6,456,781.04        5,777,139.00
+CIRRUS LOGIC INC                             0.000     172755100   CRUS           102,100          665,849.63          783,107.00
+CISCO SYSTEMS                                0.000     17275R102   CSCO        14,782,868      312,706,385.34      359,075,863.73
+CIT GROUP INC                                1.335     125581108   CIT            521,900       14,736,868.37       18,762,304.98
+CITADEL BROADCASTING CORP                    0.000     17285T106   CDL             61,270        1,274,943.90        1,370,609.90
+CITIGROUP INC.                               2.884     172967101 Q C           10,907,032      282,057,651.60      529,427,333.30

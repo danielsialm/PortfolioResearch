@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 089
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 4JL       JACOBS LEVY - 400
+Instrument - COM       COMMON STOCK
+
+3COM CORP.                                 0.000 COMS    885535104      4.6300       200,900.00      1,105,709.90        930,167.00
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     26.8600        32,300.00        765,315.90        867,578.00
+ADTRAN INC.                                0.000 ADTN    00738A106     32.9000        26,900.00        576,189.38        885,010.00
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107      6.4600        10,400.00        104,861.85         67,184.00
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100     52.6500        34,100.00      1,346,757.34      1,795,365.00
+AGCO CORP.                                 0.000 AG      001084102     22.1000        29,800.00        737,660.26        658,580.00
+AGERE SYSTEMS INC-CL A                     0.000 AGR/A   00845V100      1.4400        72,800.00        139,734.77        104,832.00
+AIRGAS INC                                 0.000 ARG     009363102     17.2500        48,400.00        742,723.18        834,900.00
+ALBANY INTL CL-A                           1.064 AIN     012348108Q    20.6600        32,500.00        760,243.00        671,450.00
+ALLERGAN PHARMACEUTICALS INC.              0.624 AGN     018490102Q    57.6200        13,500.00        744,223.75        777,870.00
+ALLMERICA FINANCIAL CORP.                  2.475 AFC     019754100     10.1000        44,500.00      1,207,044.95        449,450.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100      4.7600        43,000.00        211,305.26        204,680.00
+APPLEBEES INT'L. INC.                      0.258 APPB    037899101     23.1910         8,000.00        181,817.82        185,528.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     22.2400        25,200.00        583,151.81        560,448.00
+APTAR GROUP INC.                           0.768 ATR     038336103Q    31.2400         8,400.00        219,930.17        262,416.00
+AQUILA INC                                39.548 ILA     03840P102      1.7700       188,000.00        697,087.15        332,760.00
+ARROW ELECTRONICS                          0.000 ARW     042735100     12.7900        45,300.00        587,966.82        579,387.00
+AVOCENT CORPORATION                        0.000 AVCT    053893103     22.2200        27,700.00        615,909.96        615,494.00
+BANDAG INC                                 3.309 BDG     059815100Q    38.6800         8,900.00        274,059.09        344,252.00
+CABOT CORP                                 1.959 CBT     127055101     26.5400        32,300.00        800,886.25        857,242.00
+CALLAWAY GOLF COMPANY                      2.113 ELY     131193104     13.2500        74,500.00      1,099,204.59        987,125.00
+CARLISLE COS INC                           2.078 CSL     142339100     41.3800        23,500.00      1,049,626.18        972,430.00
+CBRL GROUP INC.                            0.066 CBRL    12489V106Q    30.1300        23,400.00        544,736.14        705,042.00
+CHOICEPOINT INC.                           0.000 CPS     170388102     39.4900        33,200.00      1,123,306.89      1,311,068.00
+CHURCH & DWIGHT INC                        0.985 CHD     171340102Q    30.4300        23,900.00        683,012.93        727,277.00
+CITRIX SYSTEMS INC                         0.000 CTXS    177376100     12.3200        26,400.00        332,027.40        325,248.00
+CLAIRE'S STORES INC                        0.725 CLE     179584107     22.0700        48,700.00        950,729.07      1,074,809.00
+CMS ENERGY CORP                            7.627 CMS     125896100Q     9.4400        13,300.00        374,354.04        125,552.00
+COACH INC                                  0.000 COH     189754104     32.9200        43,900.00      1,005,789.85      1,445,188.00
+COLONIAL BANCGROUP INC.                    4.694 CNB     195493309     11.9300        54,700.00        752,943.75        652,571.00
+COMMSCOPE INC.                             0.000 CTV     203372107      7.9000        65,300.00        514,888.23        515,870.00
+CONSTELLATION BRANDS INC-A                 0.000 STZ     21036P108     23.7100        40,400.00      1,079,183.67        957,884.00
+COOPER CAMERON CORP.                       0.000 CAM     216640102     49.8200        23,100.00      1,202,337.74      1,150,842.00
+CYTEC INDUSTRIES                           0.000 CYT     232820100Q    27.2800        24,100.00        708,931.06        657,448.00
+D.R. HORTON INC.                           1.383 DHI     23331A109     17.3500        63,900.00      1,204,409.47      1,108,665.00
+DEAN FOODS CO                              0.000 DF      242370104     37.1000        34,700.00      1,143,299.52      1,287,370.00
+DENTSPLY INTERNATIONAL INC.                0.483 XRAY    249030107Q    37.2000        33,100.00      1,210,125.40      1,231,320.00
+DPL INC                                    6.127 DPL     233293109Q    15.3400        61,900.00        863,870.28        949,546.00
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     34.4900        31,600.00        913,260.08      1,089,884.00

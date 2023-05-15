@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 032
+ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 034
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-NSTAR CO.                                    4.593     67019E107   NST            101,800        4,189,920.94        4,565,730.00
-NUCOR CORP                                   1.284     670346105 Q NUE            213,729       10,177,894.93       11,319,087.82
-NUEVO ENERGY COMPANY                         0.000     670509108   NEV             16,200          305,070.30          243,000.00
-NUI CORP                                     4.135     629431107   NUI              7,400          228,700.44          175,380.00
-NVIDIA CORP                                  0.000     67066G104   NVDA           287,200        9,987,296.41       19,213,679.98
-NVR INC                                      0.000     62944T105   NVR              7,800          468,046.74        1,591,200.00
-NYFIX INCORPORATED                           0.000     670712108   NYFX            83,800        1,935,835.29        1,677,676.00
-O’CHARLEYS INC                               0.000     670823103   CHUX            24,600          432,219.28          455,345.98
-O’REILLY AUTOMOTIVE INC.                     0.000     686091109   ORLY            79,330        1,455,660.45        2,893,165.10
-OAK TECHNOLOGY INC                           0.000     671802106   OAKT            56,800          528,838.06          781,000.00
-OAKLEY INC.                                  0.000     673662102   OO              23,700          296,157.07          385,361.99
-OCCIDENTAL PETROLEUM CORP.                   3.769     674599105 Q OXY            667,540       15,340,729.92       17,709,836.22
-OCEAN ENERGY INC                             0.833     67481E106   OEI            366,400        5,258,466.97        7,034,880.00
-OCEANEERING INT’L. INC.                      0.000     675232102   OII             47,910          913,279.00        1,059,769.20
-ODYSSEY HOLDINGS CORP                        0.565     67612W108   ORH             98,100        1,663,429.65        1,736,370.00
-OFFICE DEPOT INC                             0.000     676220106   ODP            543,609        7,657,740.40       10,078,510.85
-OFFSHORE LOGISTICS                           0.000     676255102   OLOG            73,700        1,586,611.51        1,308,912.00
-OGE ENERGY CORP                              5.762     670837103   OGE            144,500        3,876,698.21        3,335,060.00
-OHIO CASUALTY CORP.                          0.000     677240103 Q OCAS           112,900        1,204,378.96        1,812,045.00
-OLD REPUBLIC INT’L CORP.                     2.142     680223104   ORI            248,600        5,995,463.27        6,963,286.00
-OLIN CORP                                    4.956     680665205 Q OLN             92,400        1,910,094.50        1,491,336.00
-OM GROUP, INC.                               0.785     670872100 Q OMG             23,600          521,450.13        1,562,084.00
-OMI CORPORATION                              0.000     Y6476W104   OMM             73,800          547,389.36          293,724.00
-OMNICELL INC                                 0.000     68213N109   OMCL            81,600          649,604.55          726,240.00
-OMNICOM GROUP                                0.895     681919106   OMC            359,898       22,484,037.40       32,156,886.29
-OMNOVA SOLUTIONS INC                         0.000     682129101   OMN             39,000          277,520.30          265,200.00
-ON ASSIGNMENT INC                            0.000     682159108   ASGN             2,500           66,217.09           57,425.00
-ONEOK INC.                                   3.475     682680103 Q OKE            118,800        1,837,764.65        2,119,391.99
-ONMICARE INC.                                0.361     681904108   OCR            186,800        3,885,527.59        4,647,584.00
-OPTIMAL ROBOTICS CORP.                       0.000     68388R208   OPMR            29,600          764,162.37        1,049,319.98
-ORACLE SYS. CORP.                            0.000     68389X105   ORCL        11,168,926      116,224,578.02      154,242,868.05
-ORATEC INTERVENTIONS INC                     0.000     68554M108   OTEC            27,000          146,725.10          174,690.00
-ORBITAL SCIENCES CORP.                       0.000     685564106   ORB            205,100          792,400.15          847,063.00
-ORGANOGENESIS INC.                           0.000     685906109   ORG             24,100          285,697.73          115,680.00
-ORTHODONTIC CENTERS OF AMER                  0.000     68750P103   OCA             47,800          835,033.24        1,457,900.00
-ORTHOLOGIC CORP                              0.000     68750J107   OLGC           110,000          456,922.40          537,900.00
-OSHKOSH B’GOSH CL-A                          0.572     688222207 Q GOSHA           30,200          904,453.83        1,266,588.00
-OSHKOSH TRUCK CORPORATION                    0.717     688239201   OTRKB           26,700          957,975.35        1,301,625.00
-OSTEOTECH INC                                0.000     688582105   OSTE               100            1,996.88              555.00
-OUTBACK STEAKHOUSE INC                       0.000     689899102   OSI            175,450        5,061,974.89        6,009,162.50
+PEOPLESOFT INC                               0.000     712713106   PSFT           564,426       17,388,108.66       22,689,925.20
+PEP BOYS MM & J                              1.574     713278109 Q PBY             95,100          851,694.39        1,630,965.00
+PEPSI BOTTLING GROUP INC                     0.340     713409100   PBG            392,200        8,678,564.18        9,216,699.99
+PEPSIAMERICAS INC                            0.289     71343P200 Q PAS            382,979        5,974,503.73        5,285,110.20
+PEPSICO INC.                                 1.191     713448108 Q PEP          3,407,850       91,606,940.03      165,928,216.50
+PEREGRINE SYSTEMS INC.                       0.000     71366Q101   PRGN            25,500          449,110.93          378,165.02
+PERFORMANCE FOOD GROUP COMPANY               0.000     713755106   PFGC            71,482        1,602,662.89        2,514,021.94
+PERFORMANCE TECHNOLOGIES INC                 0.000     71376K102   PTIX            48,700          624,277.22          648,684.00
+PERICOM SEMICONDUCTOR CORP                   0.000     713831105   PSEM            33,500        1,176,704.76          485,750.00
+PERKIN ELMER INC                             0.799     714046109 Q PKI             88,406        2,021,142.49        3,095,978.11
+PERRIGO CO.                                  0.000     714290103   PRGO           138,900        1,038,419.81        1,641,798.00
+PETSMART INC                                 0.000     716768106   PETM            27,900          229,554.97          274,536.00
+PFIZER INC.                                  1.104     717081103 Q PFE         12,890,277      238,955,134.85      513,677,538.45
+PHARMACEUTICAL PRODUCT DEVELOPMENT INC.      0.000     717124101   PPDI            85,365        1,502,431.52        2,758,143.15
+PHARMACIA CORPORATION                        1.266     71713U102   PHA          2,700,948      105,826,783.48      115,195,432.19
+PHARMACOPEIA INC                             0.000     71713B104   PCOP            45,200          716,968.15          627,828.00
+PHELPS DODGE CORP.                           0.000     717265102 Q PD             118,973        6,345,752.50        3,854,725.20
+PHILADELPHIA CONS HLDG CO                    0.000     717528103   PHLY            20,600          644,183.82          776,826.00
+PHILADELPHIA SUBURBAN CORP.                  3.680     718009608   PSC             47,748          568,255.72        1,076,717.40
+PHILIP MORRIS COS                            5.060     718154107 Q MO           4,667,940      140,537,916.60      214,025,049.01
+PHILLIPS PETROLEUM                           2.389     718507106 Q P              810,261       36,649,429.66       48,826,327.85
+PHILLIPS-VAN HEUSEN                          1.376     718592108   PVH            107,500        1,363,293.82        1,171,750.00
+PHOENIX TECHNOLOGIES LTD                     0.000     719153108   PTEC            24,500          440,956.51          285,180.00
+PHOTON DYNAMICS INC                          0.000     719364101   PHTN            24,500          841,687.74        1,118,425.00
+PHOTRONICS INC.                              0.000     719405102   PLAB            26,200          615,123.01          821,370.00
+PICO HOLDINGS INC                            0.000     693366205   PICO             8,000           92,902.74          100,000.00
+PIEDMONT NATURAL GAS CO INC NORTH CAROL      4.301     720186105   PNY             31,700          875,771.79        1,134,860.00
+PIER 1 IMPORTS INC/DEL                       0.922     720279108   PIR            132,200        1,705,188.90        2,292,348.00
+PINNACLE ENTERTAINMENT, INC.                 0.000     723456109   PNK             21,100          310,937.43          127,233.00
+PINNACLE SYSTEMS                             0.000     723481107   PCLE            75,800        1,292,595.69          601,852.00
+PINNACLE WEST CAPITAL CORP                   3.823     723484101 Q PNW             58,613        2,036,921.09        2,452,954.04
+PIONEER NATURAL RESOURCES CO.                0.000     723787107   PXD            247,898        3,374,974.42        4,774,515.47
+PIONEER STANDARD ELECTRONICS                 0.944     723877106   PIOS            26,600          428,941.36          337,820.00
+PITNEY-BOWES, INC.                           3.084     724479100 Q PBI            590,320       22,485,671.98       22,201,935.21
+PITTSTON BRINK’S GROUP                       0.452     725701106 Q PZB            238,000        5,014,494.14        5,259,800.00
+PIXELWORKS INC                               0.000     72581M107   PXLW            21,400          452,824.52          343,684.00
+PLACER DOME INC.                             0.916     725906101 Q PDG            469,102        6,901,725.61        5,117,902.80
+PLAINS RESOURCES INC.                        0.000     726540503   PLX             38,400          807,228.87          945,023.99
+PLANTRONICS INC.                             0.000     727493108   PLT             46,700        1,129,460.76        1,197,388.00
+PLAYTEX PRODUCTS INC                         0.000     72813P100   PYX            104,300          998,455.38        1,016,925.00

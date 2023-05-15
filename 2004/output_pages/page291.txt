@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 072
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+TRANSMETA CORP                               0.000     89376R109   TMTA           177,600          246,529.32          289,488.00
+TRANSMONTAIGNE INC                           0.000     893934109   TMG             60,700          358,480.74          372,091.00
+TRANSWITCH CORP                              0.000     894065101   TXCC           387,300          498,032.01          596,442.00
+TRC COS INC                                  0.000     872625108   TRR             10,100          163,009.45          171,700.00
+TREDEGAR CORPORATION                         0.791     894650100   TG              42,500          732,306.91          858,925.00
+TREX COMPANY INC                             0.000     89531P105   TWP              6,400          269,730.41          335,616.00
+TRIAD GTY INC                                0.000     895925105   TGIC            14,000          661,286.82          846,720.00
+TRIAD HOSPITALS INC                          0.000     89579K109   TRI            112,800        3,795,566.17        4,197,288.00
+TRIARC COM                                   2.000     895927101   TRY             52,995          670,617.83          688,935.00
+TRIARC COMPANIES, INC.-B                     2.447     895927309   TRY.B           43,200          488,958.13          529,632.00
+TRIBUNE CO                                   1.139     896047107 Q TRB            688,500       29,188,322.83       29,013,390.00
+TRICO BANCSHARES                             1.880     896095106   TCBK            22,411          385,832.24          524,417.40
+TRIDENT MICROSYSTEMS INC                     0.000     895919108   TRID            84,157        1,198,885.86        1,407,105.04
+TRIMBLE NAVIGATION LTD                       0.000     896239100   TRMB            88,285        1,799,092.29        2,916,936.40
+TRIMERIS INC                                 0.000     896263100   TRMS            37,400          525,925.81          529,958.00
+TRINITY INDUSTRIES                           0.704     896522109   TRN            172,900        4,911,926.53        5,892,432.00
+TRIPATH IMAGING INC                          0.000     896942109   TPTH           199,300        1,709,937.41        1,787,721.00
+TRIQUENT SEMICONDUCTOR                       0.000     89674K103   TQNT           104,400          911,153.36          464,580.00
+TRIUMPH GROUP INC                            0.000     896818101   TGI             23,500          850,615.21          928,250.00
+TRIZETTO GROUP INC                           0.000     896882107   TZIX            34,800          220,278.66          330,600.00
+TRUSTCO BANK CORP. NY                        4.351     898349105   TRST            82,700          875,575.16        1,140,433.00
+TRUSTMARK CORP                               2.574     898402102   TRMK            52,300        1,396,336.84        1,624,961.00
+TRW AUTOMOTIVE HOLDINGS CORP                 0.000     87264S106   TRW             31,250          604,059.43          646,875.00
+TTM TECHNOLOGIES                             0.000     87305R109   TTMI            69,220          699,339.65          816,796.00
+TUESDAY MORNING CORP                         0.000     899035505   TUES            21,500          632,073.60          658,545.00
+TUPPERWARE CORPORATION                       4.247     899896104   TUP             58,000          967,571.74        1,201,760.00
+TWEETER HOME ENTERTAINMENT GROUP             0.000     901167106   TWTR           103,000          651,990.00          705,550.00
+TXU CORPORATION                              3.485     873168108 Q TXU            572,542       17,868,677.22       36,963,311.52
+TYCO INT'L. LTD NEW                          1.119     902124106 Q TYC            124,700        2,728,944.73        4,456,778.00
+TYLER TECHNOLOGIES I                         0.000     902252105   TYL             61,800          483,270.62          516,648.00
+TYSON FOODS INC. CL-A                        0.869     902494103   TSN          1,186,228       17,113,194.09       21,826,595.20
+U S B HLDG INC                               2.088     902910108   UBH             20,351          426,401.57          506,739.90
+U S CONCRETE INC                             0.000     90333L102   RMIX            23,500          159,360.04          180,245.00
+U S XPRESS ENTERPRIS                         0.000     90338N103   XPRSA            6,434           77,417.94          188,516.20
+UAP HOLDING CORP                             0.000     903441103   UAPH            78,625        1,253,945.89        1,357,853.75
+UBIQUITEL INC                                0.000     903474302   UPCS           320,215        1,062,063.35        2,279,930.80
+UCBH HOLDINGS INC                            0.349     90262T308   UCBH            36,400        1,169,792.63        1,667,848.00
+UGI CORP                                     3.055     902681105   UGI              8,020          289,634.11          328,098.20
+UICI                                         1.474     902737105   UCI             68,600        1,454,154.89        2,325,540.00
+UIL HOLDINGS CORPORATION                     5.614     902748102   UIL             18,000          746,811.69          923,400.00

@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+MARVIN EMERGING - EQUITIES                   0.000     IE-MARVEM    IE-MA     2,206,223.53      220,622,353.56
+MARVIN EMERGING - LQR                        0.000     IL-MARVEM    IL-MA       118,584.34       11,858,434.60
+
+Instrument Total               2                                              2,324,807.88      232,480,788.16
+
+Portfolio Total                2                                              2,324,807.88      232,480,788.16        252,164,727.24

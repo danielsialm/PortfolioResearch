@@ -1,0 +1,24 @@
+
+CAPITAL AUTOMOTIVE                           6.793     139733109   CARS            31,000          757,349.32          734,700.00
+CATELLUS DEVELOP CORP                        0.000     149111106   CDX              2,845           57,496.31           56,473.25
+COLONIAL PROPERTIES                          7.778     195872106   CLP             25,000          779,135.23          848,500.00
+EASTGROUP PROPERTY INC                       7.372     277276101   EGP             19,600          486,487.21          499,800.00
+EQUITY OFFICE PROP                           8.006     294741103   EOP            613,396       17,353,309.11       15,322,632.05
+EQUITY RESIDENTIAL PROP                      7.038     29476L107 Q EQR            367,381        8,477,936.58        9,030,225.01
+ESSEX PROPERTY TRUST INC.                    6.057     297178105   ESS             20,300        1,048,318.78        1,032,255.00
+GLENBOROUGH REALTY                           9.652     37803P105   GLB             81,100        1,597,321.06        1,445,202.00
+HOSPITALITY PROPERTIES                       8.181     44106M102   HPT              9,200          243,153.03          323,840.00
+KILROY RE CORP                               8.590     49427F108   KRC             30,900          769,140.77          712,245.00
+LASALLE HOTEL PROPERTIES                     6.000     517942108   LHO              2,600           36,179.00           36,400.00
+LIBERTY PROPERTY TRUST                       7.514     531172104 Q LRY             89,200        2,725,351.70        2,849,048.05
+NEW PLAN EXCEL RE TRUST                      8.643     648053106 Q NXL             18,800          356,570.88          358,891.99
+PARKWAY PROPERTYS INC                        7.411     70159Q104   PKY              1,700           61,297.06           59,636.00
+PRENTISS PROPERTIES TRUST                    7.920     740706106   PP              18,500          500,425.97          523,180.00
+RECKSON ASSOCIATES RE                        8.076     75621K106 Q RA               9,000          211,924.73          189,450.00
+SHURGARD STORAGE CTRS                        6.764     82567D104   SHU             38,600        1,218,072.65        1,209,724.00
+SIMON PROP GROUP INC.                        6.457     828806109 Q SPG            262,370        9,411,427.87        8,938,945.91
+SL GREEN RE CORP                             5.886     78440X101   SLG             27,700          851,335.98          875,320.00
+WINSTON HOTELS INC                           7.692     97563A102   WXH              5,400           47,262.19           42,120.00
+
+Instrument Total                     20                                         1,674,592       46,989,495.43       45,088,588.26
+

@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 067
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+MICROMUSE INC.                             0.000 MUSE    595094103      9.8900       125,900.00        725,041.81      1,245,151.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     48.3200        40,100.00        867,402.83      1,937,632.00
+MICROSEMI CORP                             0.000 MSCC    595137100     27.6600        47,400.00        694,478.26      1,311,084.00
+MICROSTRATEGY INC-CL A                     0.000 MSTR    594972408     82.7400        19,200.00        931,824.21      1,588,608.00
+MICROTUNE INC                              0.000 TUNE    59514P109      4.1700        54,800.00        266,008.98        228,516.00
+MID-STATE BANCSHARES                       2.691 MDST    595440108     26.7500        24,100.00        487,011.50        644,675.00
+MIDDLEBY CORP                              0.000 MIDD    596278101     86.5000         5,400.00        292,648.95        467,100.00
+MIDDLESEX WATER CO                         3.921 MSEX    596680108     17.3400        12,000.00        228,186.82        208,080.00
+MIDLAND CO                                 0.624 MLAN    597486109     36.0400        20,200.00        596,607.15        728,008.00
+MIDWEST BANC HOLDING                       2.157 MBHI    598251106     22.2500        14,000.00        327,770.93        311,500.00
+MINE SAFETY APPLIANCES CO                  1.546 MSA     602720104     36.2100        30,400.00        807,893.22      1,100,784.00
+MINERALS TECHNOLOGIES INC                  0.357 MTX     603158106     55.8900        21,600.00      1,190,713.92      1,207,224.00
+MIPS TECHNOLOGIES IN                       0.000 MIPS    604567107      5.6800        37,400.00        250,369.04        212,432.00
+MKS INSTRUMENTS INC                        0.000 MKSI    55306N104     17.8900        55,000.00        995,403.51        983,950.00
+MOBILE MINI INC.                           0.000 MINI    60740F105     47.4000        15,500.00        403,085.83        734,700.00
+MOBILITY ELECTRONICS INC                   0.000 MOBE    60741U101      9.6600        28,300.00        236,941.78        273,378.00
+MODINE MANUFACTURING CO                    2.147 MOD     607828100     32.5900        45,400.00      1,213,103.31      1,479,586.00
+MOLECULAR DEVICES CORP                     0.000 MDCC    60851C107     28.9300        32,904.00        676,831.86        951,912.72
+MOLINA HEALTHCARE INC                      0.000 MOH     60855R100     26.6400        11,700.00        444,691.15        311,688.00
+MOMENTA PHARMACEUTICALS INC                0.000 MNTA    60877T100     22.0400        10,100.00        212,111.08        222,604.00
+MONARCH CASINO & RES                       0.000 MCRI    609027107     22.6000         9,800.00        207,228.75        221,480.00
+MONEYGRAM INTERNATIONAL INC.               0.613 MGI     60935Y109     26.0800        91,100.00      1,815,525.22      2,375,888.00
+MONOGRAM BIOSCIENCES INC                   0.000 MGRM    60975U108      1.8700       128,300.00        336,770.82        239,921.00
+MONRO MUFFLER BRAKE                        0.659 MNRO    610236101     30.3200        11,062.00        242,185.43        335,399.84
+MOOG INC. CL A                             0.000 MOG.A   615394202     28.3800        35,700.00        752,256.28      1,013,166.00
+MOVADO GROUP INC                           1.092 MOV     624580106     18.3000        19,400.00        264,778.30        355,020.00
+MPS GROUP INC                              0.000 MPS     553409103     13.6700       137,300.00      1,060,304.15      1,876,891.00
+MRO SOFTWARE INC                           0.000 MROI    55347W105     14.0400        21,100.00        329,414.90        296,244.00
+MRV COMMUNICATIONS I                       0.000 MRVC    553477100      2.0500       109,900.00        369,123.79        225,295.00
+MTR GAMING GROUP INC                       0.000 MNTG    553769100     10.4100        24,500.00        227,431.29        255,045.00
+MTS SYS CORP                               1.154 MTSC    553777103     34.6400        28,600.00        564,288.12        990,704.00
+MUELLER INDUSTRIES INC.                    1.458 MLI     624756102     27.4200        38,600.00      1,125,806.58      1,058,412.00
+MULTI-FINELINE ELECTRONIX INC              0.000 MFLX    62541B101     48.1700        20,100.00        338,852.98        968,217.00
+MULTIMEDIA GAMES, INC.                     0.000 MGAM    625453105      9.2500        64,000.00        703,105.67        592,000.00
+MWI VETERINARY SUPPLY INC                  0.000 MWIV    55402X105     25.8100         5,100.00        101,847.00        131,631.00
+MYERS INDUSTRIES INC.                      1.371 MYE     628464109Q    14.5800        27,680.00        300,827.61        403,574.40
+MYOGEN INC                                 0.000 MYOG    62856E104     30.1600        33,100.00        795,736.03        998,296.00
+MYRIAD GENETICS INC                        0.000 MYGN    62855J104     20.8000        41,100.00        672,638.78        854,880.00
+NABI BIOPHARMACEUTIC                       0.000 NABI    629519109      3.3800        51,771.00        509,299.00        174,985.98

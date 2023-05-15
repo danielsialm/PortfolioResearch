@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 042
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 044
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - INTERNATIONAL
 Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-AEGON NV                                     2.349     5927375      AEGN_        17,812.00          715,190.56
-ALLIANZ AG NPV(REG                           0.439     5231485      ALV_G         9,500.00        2,586,325.08
-ALLIED IRISH BANKS                           2.470     0019783      ALBK_       497,464.00        5,023,169.33
-ASSIC GENERALI SPA                           0.734     4056719      G_IM         22,275.00          572,623.94
-ASTRAZENECA GBP 0.                          30.152     0989529      AZN_L        65,334.00        2,428,919.26
-BARCLAYS PLC ORD G                           3.883     0078201      BARC_        64,010.00        1,614,543.87
-BAYER AG COM NPV                             3.457     5069211      BAY_G        25,500.00        1,062,326.04
-BNP PARIBAS                                  1.974     4133667      BNP_F        12,312.00          885,754.62
-BOEHLER-UDDEHOLM A                           3.920     4121305      BOEH_        15,000.00          625,738.19
-BP AMOCO                                     4.075     0798059      BP/_L       742,115.00        5,507,129.66
-BT GROUP                                     0.000     3091357      BT/A_       200,304.00        2,074,072.83
-BWT AG(BENCKISER W                           0.791     4119054      BWTA_        22,600.00          678,556.42
-CANON INC JPY50                              0.000     6172323      7751_        65,000.00        1,728,924.45
-CAPITALAND LIMITED                           0.312     6309303      CAPL_       631,469.00          896,190.79
-CARLSBERG A/S                                0.146     4169219      BRYB_         7,400.00          295,775.97
-CARREFOUR EUR 2.5                            0.754     5641567      CA_FP        16,848.00          964,330.49
-CHARTERED SEMICONDUCTOR                      0.000     6180917      CSM_S       301,834.00          755,413.30
-CHEUNG KONG(HLDGS)                           0.000     6190273      1_HK         62,000.00          682,926.32
-CIA VALE DO RIO DO                           0.000     9914529      VALE_         8,684.00                0.00
-CITY DEVELOPMENTS                            0.386     6197928      CIT_S       407,300.00        1,833,354.29
-CREDIT SUISSE GROUP                          0.000     7171589      CSGN_        20,883.00          949,566.60
-CRH                                          0.903     0182704      CRH_I       250,583.00        3,371,008.76
-D/S 1912-B                                   0.000     4248754      DSAB_           131.00        1,275,114.80
-D/S SVENDBORG-B                              0.007     4253048      DSACB            89.00        1,249,953.17
-DAIMLERCHRYSLER AG                           2.295     5529027      DCX_G        25,500.00        1,770,876.93
-DANISCO A/S                                  0.238     4155586      DSC_D        14,200.00          601,763.75
-DANSKE BANK                                  0.389     4588825      DANSK       126,000.00        1,414,017.79
-DBS GROUP HOLDINGS                           0.635     6175203      DBS_S       491,359.00        3,736,406.99
-DELHAIZE-LE LION N                           1.538     4262118      DELB_        26,089.00        1,518,024.11
-DEN NORSKE BANK NO                           0.616     4263304      DNB_N       187,000.00          811,223.34
-DEUTSCHE BANK AG O                           1.445     5750355      DBK_G        10,500.00          665,174.76
-DEUTSCHE TELEKOM D                           2.817     5842359      DTE_G        63,300.00        2,908,340.22
-DIAGEO ORD GBP 28.                           4.061     0237400      DGE_L        84,362.00          846,695.96
-E.ON AG                                      1.397     4942904      EOA_G        22,400.00        1,205,422.74
-EAST JAPAN RAILWAY                           0.000     6298542      9020_           309.00        1,679,776.91
-EIRCOM                                       4.031     0723147      EIR_I        20,513.00           20,126.62
-ELAN CORPORATION PLC                         0.000     0307295      ELN_I        21,953.00        1,113,385.59
-ELECTRABEL ORD NPV                           3.824     4294791      ELEB_        24,800.00        6,202,914.71
-ENI SPA                                      1.802     7145056      ENI_I        64,500.00          747,769.60
+OMV AG AUSH100                               2.810     4651459      OMV_A        47,500.00        4,069,913.60
+ORKLA ASA NWKR 6.2                           0.218     5459715      ORK_N        52,600.00          952,173.87
+OVERSEAS CHINESE BANKING CORP                0.478     6663689      OCBC_       422,460.00        2,866,072.25
+PHILIPS ELECTRONICS                          0.446     5986622      PHIA_        29,037.00          983,978.14
+RHONE POULENC ORD                            0.552     4736817      AVE_F        14,561.00          865,048.29
+ROCHE HLDGS AG GEN                           0.025     7110388      ROG_V        22,050.00        2,067,390.63
+ROYAL BK SCOT GBP                            3.031     0754783      RBOS_        63,016.00          983,361.38
+ROYAL DUTCH PETROL                           2.510     5202704      RDA_N        33,515.00        2,032,768.04
+SAMPO-LEONIA INSURANCE COMPANY PLC           7.067     5226038      SAMAS        85,250.00          558,810.28
+SANOFI SYNTHELABO                            0.462     5671735      SAN_F         9,974.00          323,776.87
+SAP AG NPV(SWISS C                           0.341     4846288      SAP_G         8,100.00        1,048,448.22
+SHELL TRANSPORTATION & TRADING               4.571     0803414      SHEL_       216,000.00        1,770,024.78
+SIEMENS AG DEM 5.0                           0.711     5727973      SIE_G        18,300.00          983,600.85
+SINGAPORE AIRLINES                           0.610     6811734      SIA_S       473,300.00        3,565,994.70
+SINGAPORE PRESS HO                           0.938     6133966      SPH_S       177,200.00        2,279,492.05
+SINGAPORE TECH ENG                           0.373     6043214      STE_S     1,012,800.00        1,345,856.07
+SINGAPORE TELECOMM                           0.996     6810753      ST_SP     2,684,300.00        3,091,122.22
+SMURFIT (JEFFERSON) GROUP                    1.184     0819143      SMFT_       427,313.00          715,208.30
+SOLVAY SA NPV                                2.215     4821100      SOLB_        34,831.00        2,068,895.15
+SONERA GROUP PLC 0                           1.229     5556586      SRA1V       305,830.00        7,932,289.29
+SONY CORP JPY50                              0.003     6821506      6758_        74,100.00        3,435,310.77
+STORA ENSO OY J-R                            2.432     5072673      STERV        84,800.00        1,018,910.48
+STOREBRAND ASA NOK                           0.234     4852832      STB_N        66,600.00          474,394.54
+SUEZ EUR                                     1.711     7118047      SZE_F        15,240.00          472,543.18
+SUMITOMO BANK JPY5                           0.008     6858526      8318_       488,000.00        6,252,504.09
+SUN HUNG KAI PROPE                           0.000     6859927      16_HK        68,000.00          636,214.67
+SWISS REINSURANCE                            0.014     7189816      RUKN_         5,502.00          500,455.81
+SWISSCOM AG CHF25(                           1.425     5533976      SCMN_         1,673.00          570,682.49
+TAKEDA CHEM INDS J                           0.007     6870445      4502_        96,000.00        3,510,375.03
+TELE DANMARK AS                              0.000     5698790      TDC_D        31,100.00        1,896,301.90
+TELECOM ITALIA MOBILE                        2.671     4876746      TIM_I        92,500.00          319,167.23
+TELECOM ITALIA SPA                           2.847     5297506      95210        66,100.00          733,029.61
+TELENOR ASA                                  0.009     4732495      TEL_N       421,098.00        1,798,238.68
+TESCO PLC                                    2.914     0884709      TSCO_       310,301.00          885,740.68
+TI AUTOMOTIVE LTD                            0.000     3067529      6525Z        29,590.00                0.00
+TIETOENATOR CORP OYJ                         1.280     5479702      TIE1V        46,010.00        1,366,746.04
+TOKYO ELEC POWER Y                           0.000     6895404      9501_       116,500.00        2,746,241.65
+TOMRA SYSTEMS ASA                            0.025     4730875      TOM_N        42,750.00          673,127.39
+TOTAL FINA ELF SA                            0.852     4905413      FP_FP        17,456.00        1,688,951.89

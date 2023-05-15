@@ -1,0 +1,18 @@
+ASOF01   Date 01/21/2003 Time 18:52:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - SALOMON   SALOMON BROS. ASSET
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+SALOMON - FIXED INCOME             0.0000  0.000 IF-SALOMON         00/00/0000     1,682,217.99    168,221,799.48
+SALOMON - LIQUIDITY                0.0000  0.000 IL-SALOMON         00/00/0000        56,569.62      5,656,962.71
+
+Instrument Total             2                                                     1,738,787.62    173,878,762.19
+
+Portfolio Total              2                                                     1,738,787.62    173,878,762.19    183,251,642.78
+

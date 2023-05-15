@@ -1,0 +1,41 @@
+ASOF11   Date 01/19/2006 Time 18:25:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+WEST JAPAN RAILWAY JPY50000                  0.010     6957995      9021_           141.00          560,095.36
+WESTFIELD GROUP                              4.411     B01BTX7      WDC_A        39,074.00          480,753.13
+WESTON (GEORGE) LTD                          1.428     2956662      WN_CN         1,800.00          135,484.43
+WESTPAC BANKING CO                           3.223     6076146      WBC_A        43,624.00          635,884.37
+WHARF(HLDGS) HKD1                            0.338     6435576      4_HK         29,500.00           93,610.76
+WIENERBERGER BAUST                           3.733     5699373      WIE_A        83,255.00        3,504,619.25
+WOODSIDE PETROLEUM LIMITED                   1.253     6979728      WPL_A         7,295.00          112,903.34
+WOOLWORTHS LIMITED                           2.219     6981239      WOW_A        16,169.00          187,174.40
+WPP GROUP                                    2.259     B0J6N10      WPP_L        73,933.00          719,395.73
+YAKULT HONSHA CO LTD                         0.005     6985112      2267_        30,500.00          669,668.10
+YAMATO HOLDINGS CO                           0.007     6985565      9064_        70,000.00        1,070,284.35
+YARA INTERNATIONAL ASA                       0.338     7751259      YAR_N       178,700.00        1,601,700.69
+ZODIAC SA                                    1.630     7294334      ZC_FP         6,593.00          372,233.40
+ZURICH FINANCIAL SERVICES CHF10              1.084     5983816      ZURN_         4,617.00          829,067.48
+
+Instrument Total             482                                             61,729,959.71      752,799,739.86
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   45,542.55        4,554,255.07
+
+Instrument Total               1                                                 45,542.55        4,554,255.07
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP              943.520     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              484                                             61,838,286.26      757,353,994.93        953,536,160.94

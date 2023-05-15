@@ -1,0 +1,22 @@
+ASOF02   Date 01/20/2004 Time 18:58:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 012
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LC1       LARGE-CAP CORE (F)
+Instrument - COM       COMMON STOCK
+
+WASTE MANAGEMENT INC.                      0.033 WMI     94106L109     29.6000        77,300.00      2,600,299.47      2,288,080.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     96.9900        11,300.00        664,934.43      1,095,987.00
+WELLS FARGO COMPANY                        3.056 WFC     949746101     58.8900       228,800.00      6,989,270.01     13,474,032.00
+WEYERHAEUSER CO.                           2.500 WY      962166104Q    64.0000        36,900.00      1,942,956.00      2,361,600.01
+WYETH                                      2.167 WYE     983024100Q    42.4500       204,300.00      7,750,753.58      8,672,535.00
+XILINX INC                                 0.000 XLNX    983919101     38.7400        11,700.00        376,071.77        453,258.00
+
+Instrument Total           201                                                    30,794,891.32    868,519,173.40  1,055,959,324.11
+
+Portfolio Total            201                                                    30,794,891.32    868,519,173.40  1,055,959,324.11
+

@@ -1,0 +1,67 @@
+Instrument - COM       COMMON STOCK
+
+02MICRO INTERNATIONAL LTD                  0.000 OIIM    G6797E106      9.7490        29,490.00        510,806.00        287,498.01
+ACCREDO HEALTH INC                         0.000 ACDO    00437V104     35.2500        14,640.00        522,661.72        516,060.00
+ADVANCED NEUROMODULATION SYSTE             0.000 ANSI    00757T101     35.1000        19,140.00        349,865.58        671,814.00
+ADVISORY BOARD CO/THE                      0.000 ABCO    00762W107     29.9000        12,340.00        400,420.06        368,966.00
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     17.8000        34,710.00        605,580.52        617,838.00
+BEARINGPOINT INC                           0.000 BE      074002106      6.9000        41,570.00        351,882.19        286,833.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     12.3000        42,040.00        564,823.49        517,092.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     47.2000         8,560.00        496,971.81        404,032.00
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     35.6400        16,895.00        645,292.98        602,137.80
+CAREER EDUCATION CORP                      0.000 CECO    141665109     40.0000         9,520.00        416,823.96        380,800.00
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     36.1500        26,220.00        706,812.54        947,853.00
+CHICAGO PIZZA & BREWERY INC                0.000 CHGO    167889104      6.9000        48,250.00        358,810.53        332,925.00
+CHICO'S FAS INC                            0.000 CHS     168615102     18.9100        28,780.00        324,175.09        544,229.80
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     37.8600        23,420.00        424,414.42        886,681.20
+CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     31.9200        12,220.00        384,788.44        390,062.40
+CTI MOLECULAR IMAGING INC                  0.000 CTMI    22943D105     24.6600        13,270.00        341,330.97        327,238.20
+CYBERONICS INC                             0.000 CYBX    23251P102     18.4000        26,250.00        478,885.84        483,000.00
+DOCUMENT INC                               0.000 DCTM    256159104     15.6600        33,000.00        600,019.38        516,780.01
+ELECTRONICS BOUTIQUE HLDGS                 0.000 ELBO    286045109     15.8100        18,600.00        454,512.03        294,066.00
+EMULEX CORP                                0.000 ELX     292475209     18.5500        18,110.00        438,432.88        335,940.50
+EXTREME NETWORKS INC                       0.000 EXTR    30226D106      3.2700        99,550.00        451,769.85        325,528.50
+FRED'S INC                                 0.466 FRED    356108100     25.7000        15,810.00        333,359.00        406,317.00
+FTI CONSULTING INC                         0.000 FCN     302941109     40.1500        23,470.00        699,788.71        942,320.50
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     13.0500        46,820.00        633,035.15        611,001.01
+HEARTLAND EXPRESS INC.                     0.000 HTLD    422347104     22.9110        12,650.00        282,533.34        289,824.15
+HOT TOPIC INC                              0.000 HOTT    441339108     22.8800        38,095.00        823,996.95        871,613.60
+HOTELS. COM                                0.000 ROOM    44147T108     54.6300        16,884.00        551,851.02        922,372.92
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     29.3000        22,040.00        645,098.65        645,772.00
+INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     18.2500        41,010.00        918,590.90        748,432.50
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     18.3300        34,940.00        705,807.14        640,450.19
+INVERESK RESEARCH GROUP INC.               0.000 IRGI    461238107     21.5800        25,250.00        458,849.51        544,895.00
+INVESTORS FINANCIAL SERVICES C             0.182 IFIN    461915100     27.3900        37,180.00      1,181,375.81      1,018,360.20
+J. JILL GROUP INC                          0.000 JILL    466189107     13.9800        38,965.00        786,876.38        544,730.70
+KNIGHT TRANSPORTATION INC                  0.000 KNGT    499064103     21.0000        45,025.00        878,638.39        945,525.00
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     33.7700         9,630.00        221,492.50        325,205.10
+KYPHON INC                                 0.000 KYPH    501577100      8.5400        70,060.00        868,905.30        598,312.40
+LEAPFROG ENTERPRISES INC                   0.000 LF      52186N106     25.1500        30,780.00        484,199.80        774,117.00
+ODYSSEY HEALTHCARE INC                     0.000 ODSY    67611V101     34.7000        27,790.00        813,477.92        964,313.00
+OVERTURE SERVICES INC                      0.000 OVER    69039R100     27.3100        29,875.00        771,116.22        815,886.25
+
+Instrument - COM       COMMON STOCK
+
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     36.3000        32,580.00        577,251.84      1,182,654.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     17.6900        36,555.00        556,515.85        646,657.95
+PANERA BREAD CO                            0.000 PNRA    69840W108     34.8100        22,425.00        443,069.39        780,614.25
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     22.8000        18,800.00        595,374.11        428,640.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     17.0000         8,910.00        163,134.44        151,470.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-NEX  IT-NEX         1.0000       544,824.84        544,824.84        544,824.83
+SCIOS INC                                  0.000 SCIO    808905103     32.5800        23,960.00        711,926.78        780,616.80
+SHARPER IMAGE CORP                         0.000 SHRP    820013100     17.4300        18,100.00        321,673.89        315,483.00
+SILICON LABORATORIES                       0.000 SLAB    826919102     19.0800        24,860.00        618,239.98        474,328.80
+SURMODICS INC                              0.000 SRDX    868873100     28.6800        15,230.00        521,760.24        436,796.40
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     23.4900        31,580.00        422,377.70        741,814.20
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     35.8400        10,826.00        263,211.18        388,003.84
+UTI WORLDWIDE INC                          0.304 UTIW    G87210103     26.2500        20,690.00        482,360.27        543,112.50
+VERIDIAN CORP                              0.000 VNX     92342R203     21.3400        20,960.00        445,724.44        447,286.40
+VISTACARE INC-CL A                         0.000 VSTA    92839Y109     16.0100           400.00          4,800.00          6,404.00
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     15.0000        36,190.00        554,799.77        542,850.00
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     29.2000        24,740.00        681,651.84        722,408.01
+ZORAN CORP                                 0.000 ZRAN    98975F101     14.0700        24,020.00        346,542.00        337,961.39
+
+Instrument Total            57                                                     2,058,499.84     30,143,311.53     32,118,750.31
+
+Portfolio Total             57                                                     2,058,499.84     30,143,311.53     32,118,750.31
+

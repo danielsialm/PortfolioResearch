@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 043
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+MOBINIL-EGYPTIAN MOBILE SERV                 1.173     6103925      EMPN_         8,000.00          117,778.90
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.003     4742494      MOL_H        28,000.00          444,117.62
+MTN GROUP LIMITED                            0.165     6563206      MTN_S       320,000.00          335,754.53
+MURRAY & ROBERTS HOLDINGS                    0.375     B0N3K50      MUR_S       200,000.00          467,838.66
+NASPERS ZAR 0.02 S                           0.098     6622691      NPN_S        65,000.00          517,204.89
+NATIONAL PETROCHEMICAL-FOREI                 0.174     6627298      66322       150,000.00          495,376.38
+NIEN HSING TEXTILE CO LTD                    0.271     6591928      1451_     3,048,400.00        2,398,876.53
+NONG SHIM CO KRW50                           0.001     6638115      00437         7,500.00        2,086,140.45
+OAO GAZPROM-GDR                              0.458     5140989      OGZD_        34,000.00          763,976.28
+OIL & NATURAL GAS CORP LTD                   0.085     6139362      ONGC_        70,000.00        1,367,837.07
+OLD MUTUAL                                   0.047     6155131      OML_S       960,000.00        1,537,638.17
+ORASCOM CONSTRUCTIONS INDUS                  0.071     B03BN88      ORCI_        32,000.00           97,648.85
+ORASCOM TELECOM                              0.144     6269838      ORAT_         8,000.00          610,621.75
+ORBIS PLN2                                   0.316     5349173      ORB_P        98,089.00          495,729.75
+OTP BANK                                     0.009     7320154      OTP_H        80,000.00          387,025.61
+PETROCHINA CO                                0.602     6226576      857_H     5,200,000.00        1,260,336.98
+PHOENIXTEC POWER                             0.206     6685508      2411_     2,165,000.00        1,604,357.70
+PICC PROPERTY & CASUALTY                     0.400     6706250      2328_     3,400,000.00        1,254,017.96
+POLSKI KONCERN NAFTOWY ORLEN                 1.043     5810066      PKN_P       144,000.00          685,209.70
+POONGSAN CORPORATION                         0.003     6694474      00581        75,000.00          651,259.92
+POSCO                                        0.003     6693233      00549        30,000.00        2,622,809.71
+PREMIER IMAGE TECHNOLOGY                     0.090     6143330      2394_     2,699,999.99        2,558,327.87
+PRESIDENT CHAIN STORE CORP                   0.132     6704986      2912_       300,000.00          461,935.60
+PT ANEKA TAMBANG TBK                         0.000     6053859      ANTM_       391,375.00           31,438.87
+PT ASTRA INTERNATIONAL INC                   0.000     6291712      ASII_     1,041,000.00          535,527.97
+PT BANK CENTRAL ASIA                         0.000     B01C1P6      BBCA_     1,908,000.00          334,622.85
+PT KALBE FARMA IDR                           0.000     6728102      KLBF_     1,173,000.00           28,916.43
+PT RAMAYANA LESTARI SENTOSA                  0.000     B03CPL8      RALS_     1,787,500.00           15,512.42
+PT TELEKOMUNIKASI                            0.000     B02ZK79      TLKM_     1,700,000.00          524,506.27
+PTT PCL/FOREIGN                              0.072     6420390      64203       188,000.00          656,723.58
+PUBLIC BANK BHD                              1.447     B012W53      PBKF_       970,175.00          852,103.75
+PUSAN BANK                                   0.002     6075552      00528       150,000.00        1,254,187.20
+RANBAXY LABORATORIES LTD                     0.052     B0CMCH4      RBXY_        28,000.00          117,638.48
+RATCHABURI ELEC GEN HODG-FOR                 0.125     6294249      62942       290,000.00          304,555.64
+RELIANCE INDUSTRIES                          0.018     6099626      RIL_I       140,000.00        1,147,543.04
+RESORTS WORLD BERHAD                         0.496     6731962      RNB_M       450,000.00        1,030,577.56
+S P SETIA BERHAD GROUP                       2.029     6868774      SPSB_       425,000.00          407,824.18
+SADIA S.A.-PREF                              0.259     2706072      SDIA4       200,000.00          331,514.96
+SAMPO CORP                                   0.315     6771924      1604_     1,200,000.00          507,238.22

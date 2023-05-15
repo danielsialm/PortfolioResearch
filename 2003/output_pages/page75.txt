@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+AMERICAN NATL INS CO                       3.508 ANAT    028591105     84.3700         1,900.00        165,954.31        160,303.00
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     33.6000        21,150.00        721,868.82        710,640.00
+AMERICAN POWER CONVERSION                  1.308 APCC    029066107     24.4500        30,700.00        515,952.31        750,615.00
+AMERICAN STANDARD COMPANIES                0.000 ASD     029712106    100.7000        11,400.00        739,863.35      1,147,980.00
+AMERICREDIT CORP.                          0.000 ACF     03060R101     15.9300        27,000.00        368,358.30        430,110.00
+AMERISOURCEBERGEN CORP                     0.178 ABC     03073E105     56.1500         5,700.00        362,439.24        320,055.00
+AMERITRADE HLDG CORP                       0.000 AMTD    03074K100     14.0700        42,900.00        367,801.23        603,603.01
+AMETEK INC.                                0.497 AME     031100100Q    48.2600         5,500.00        265,529.13        265,430.00
+AMGEN INC                                  0.000 AMGN    031162100     61.8000       239,900.00      8,603,136.68     14,825,820.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100     18.2100        17,000.00        261,215.09        309,570.00
+AMPHENOL CORP-CL A                         0.000 APH     032095101     63.9300         3,600.00        190,614.39        230,148.00
+AMSOUTH BANCORPORATION                     3.918 ASO     032165102     24.5000        65,200.00      1,353,984.02      1,597,400.01
+ANADARKO PETROLEUM CORP                    1.097 APC     032511107Q    51.0100        46,300.00      2,015,500.94      2,361,763.01
+ANALOG DEVICES                             0.087 ADI     032654105     45.6500        67,900.00      2,440,572.00      3,099,635.00
+ANDRX GROUP                                0.000 ADRX    034553107     24.0400        13,300.00        321,245.86        319,732.00
+ANHEUSER-BUSCH                             1.670 BUD     035229103Q    52.6800       154,900.00      4,575,431.23      8,160,132.01
+ANTHEM INC                                 0.000 ATH     03674B104     75.0000        33,800.00      2,207,997.69      2,535,000.00
+AON CORP                                   2.506 AOC     037389103Q    23.9400        47,300.00      1,479,539.52      1,132,362.00
+APACHE CORP.                               0.295 APA     037411105     81.1000        17,400.00        795,956.36      1,411,139.99
+APOGENT TECHNOLOGY                         0.000 AOT     03760A101     23.0400        42,800.00        914,397.72        986,112.00
+APOLLO GROUP INC                           0.000 APOL    037604105     68.0000        23,900.00        512,485.07      1,625,200.00
+APPLE COMPUTER INC.                        0.000 AAPL    037833100     21.3700        67,900.00      1,328,442.46      1,451,023.00
+APPLEBEES INT'L. INC.                      0.178 APPB    037899101     39.2700        10,200.00        234,066.25        400,553.99
+APPLERA CORP - APPLIED BIOSYST             0.820 ABI     038020103Q    20.7100        38,800.00        933,048.86        803,548.00
+APPLIED MATERIALS INC.                     0.000 AMAT    038222105     22.4500       333,700.00      6,289,213.29      7,491,565.00
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109      5.9800       151,800.00      1,627,284.33        907,764.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     28.4700        10,300.00        242,371.47        293,241.00
+APTAR GROUP INC.                           0.717 ATR     038336103Q    39.0000         6,300.00        191,576.90        245,700.00
+ARCHER DANIELS MIDLAND CO                  1.576 ADM     039483102Q    15.2200        96,300.00      1,251,663.00      1,465,686.01
+ARROW ELECTRONICS                          0.000 ARW     042735100     23.1400        43,000.00        950,238.39        995,020.00
+ARVINMERITOR INC.                          1.658 ARM     043353101     24.1200        41,400.00        818,917.09        998,568.00
+ASHLAND INC                                2.496 ASH     044204105Q    44.0600        12,700.03        470,901.34        559,563.55
+ASSOCIATED BANC-CORP.                      3.188 ASBC    045487105     42.6500        12,800.00        378,512.13        545,920.00
+ASTORIA FINANCIAL CORP.                    2.365 AF      046265104     37.2000        30,600.00        921,130.02      1,138,319.99
+AT&T CORPORATION                           4.679 T       001957505Q    20.3000       146,300.00      4,898,564.30      2,969,890.00
+AT&T WIRELESS SERVICES INC                 0.000 AWE     00209A106      7.9900       285,300.00      4,114,644.92      2,279,547.00
+ATMEL CORP                                 0.000 ATML    049513104      6.0100        76,200.00        401,687.04        457,961.99
+AUTODESK INC.                              0.488 ADSK    052769106Q    24.5800        48,600.00        795,773.50      1,194,588.00
+AUTOLIV, INC                               1.593 ALV     052800109     37.6500        33,700.00        986,177.45      1,268,805.00

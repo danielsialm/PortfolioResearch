@@ -1,0 +1,17 @@
+ASOF03   Date 01/21/2005 Time 18:35:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REW       RE WEST REGION
+Instrument - X         OTHER
+
+GLENDALE CITY CENTER           GLENDALE, CA                    2.215         RGLNDC                  7,199,521.29      8,099,521.32
+
+Instrument Total             1                                                                       7,199,521.29      8,099,521.32
+
+Portfolio Total             25                                                                     875,914,601.99  1,149,563,243.69
+

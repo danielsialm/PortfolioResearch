@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 175
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+FIRST UNITED CORP                          2.954 FUNC    33741H107     24.3700         1,800.00         41,846.40         43,866.00
+FIRSTFED FINANCIAL CORP                    0.000 FED     337907109     43.5000        18,700.00        536,554.12        813,450.00
+FLUSHING FINL CORP                         1.602 FFIC    343873105     18.2800         7,300.00        134,265.54        133,444.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     14.2600        33,500.00        487,354.65        477,710.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    23.8700         4,700.00        103,379.32        112,189.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMST    36866W106      5.0500        74,200.00        352,032.10        374,710.00
+GENCORP INC                                1.114 GY      368682100Q    10.7700        61,500.00        603,815.49        662,355.00
+GLATFELTER                                 2.891 GLT     377316104     12.4500        16,500.00        202,940.46        205,425.00
+GRANITE CONSTRUCTION INC                   1.702 GVA     387328107     23.4900        15,000.00        240,850.50        352,350.00
+GREIF INC                                  1.577 GEF     397624107     35.5100         4,500.00         98,279.94        159,795.00
+HANGER ORTHOPEDIC GROUP INC.               0.000 HGR     41043F208     15.5700        21,800.00        297,133.18        339,426.00
+HAVERTY FURNITURE                          1.258 HVT     419596101     19.8600        24,200.00        424,244.44        480,612.00
+HAWTHORNE FINL CORP                        0.000 HTHR    420542102     27.9800           450.00         10,080.75         12,591.00
+HEALTHTRONICS SURGIC                       0.000 HTRN    42222L107      6.2500         5,800.00         33,880.80         36,250.00
+HICKORY TECH CORP                          3.842 HTCO    429060106     11.4500         1,502.00         17,227.67         17,197.90
+HORIZON FINANCIAL CORP                     2.855 HRZB    44041F105     17.5100         3,000.00         49,944.00         52,530.00
+HORIZON OFFSHORE INC                       0.000 HOFF    44043J105      4.4000         1,300.00          5,318.42          5,720.00
+HOUSTON EXPL CO                            0.000 THX     442120101     36.5200         8,600.00        248,016.18        314,071.99
+HUMAN GENOME SCIENCE                       0.000 HGSI    444903108     13.2500         5,400.00         73,873.62         71,550.00
+HYPERCOM CORP                              0.000 HYC     44913M105      4.7600         2,800.00         10,850.28         13,328.00
+INCYTE CORP                                0.000 INCY    45337C102      6.8400        19,400.00        107,095.76        132,696.00
+INFORTE CORP                               0.000 INFT    45677R107      8.2900         3,800.00         31,098.82         31,502.00
+INNKEEPERS USA TRUST                       1.433 KPA     4576J0104      8.3700        33,500.00        235,825.80        280,395.00
+INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     13.0500         2,300.00         36,382.55         30,015.00
+INTEGRA BK CORP                            4.277 IBNK    45814P105     21.9769         1,600.00         27,332.00         35,163.04
+INTERLAND INC                              0.000 INLD    458727203      6.5300        34,860.00        263,597.85        227,635.80
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     16.1500        38,500.00        725,525.61        621,775.00
+ITLA CAPITAL CORPORATION                   0.000 ITLA    450565106     50.1000         1,000.00         33,789.00         50,100.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     37.7600         3,500.00        109,516.75        132,160.00
+JOHNSON OUTDOORS INC - CL A                0.000 JOUT    479167108     15.0030         2,554.00         35,284.72         38,317.66
+JONES LANG LASALLE I                       0.000 JLL     48020Q107     20.7300         1,200.00         20,247.60         24,876.00
+K2 INC.                                    0.000 KTO     482732104     15.2100        35,000.00        598,683.75        532,350.00
+KADANT INC                                 0.000 KAI     48282T104     21.6500         9,100.00        162,371.68        197,015.00
+KINDRED HEALTHCARE I                       0.000 KIND    494580103     51.9800        20,200.00        646,486.65      1,049,996.00
+LA QUINTA INNS INC                         1.092 LQI     50419U202      6.4100        71,500.00        427,608.54        458,315.00
+LACLEDE GROUP HLDG. CO.                    4.693 LG      505597104     28.5500         6,300.00        181,470.38        179,865.00
+LANCE INC                                  4.258 LNCE    514606102Q    15.0300        27,600.00        301,751.04        414,828.00
+LANDAMERICA FINANCIAL GROUP                0.765 LFG     514936103     52.2600        18,700.00        678,255.63        977,262.00
+LANDRY'S RESTAURANTS INC.                  0.388 LNY     51508L103     25.7200         2,500.00         39,916.28         64,300.00

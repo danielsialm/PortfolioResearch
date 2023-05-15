@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+FLUOR CORP                                   0.828     343412102   FLR             38,500        2,035,924.27        2,974,510.00
+FLUSHING FINL CORP                           2.569     343873105   FFIC            20,350          327,783.04          316,849.50
+FMC TECHNOLOGIES INC                         0.000     30249U101   FTI            104,497        3,104,559.06        4,485,011.24
+FNB CORP                                     5.414     302520101   FNB             33,800          547,282.05          586,768.00
+FOOT LOCKER INC                              1.526     344849104   FL               6,700          156,749.86          158,053.00
+FORD MOTOR COMPANY                           5.181     345370860   F            3,008,200       45,304,712.38       23,223,304.00
+FOREST CITY ENTERPRI                         0.632     345550107   FCE.A           10,100          337,531.25          383,093.00
+FOREST LABORATORIES INC.                     0.000     345838106   FRX            791,174       26,125,414.59       32,184,958.32
+FOREST OIL CORP.                             0.000     346091705   FST            179,910        8,752,564.55        8,198,498.70
+FORMFACTOR INC                               0.000     346375108   FORM            35,800          852,556.67          874,594.00
+FORRESTER RESEARCH INC                       0.000     346563109   FORR           103,765        1,931,632.38        1,945,593.75
+FORTUNE BRANDS INC.                          1.845     349631101 Q FO             385,300       19,646,565.46       30,061,106.00
+FORWARD AIR CORPORATION                      0.654     349853101   FWRD            69,345        1,873,513.83        2,541,494.25
+FOSSIL INC.                                  0.000     349882100   FOSL            79,550        1,756,254.12        1,711,120.50
+FOUNDATION COAL HOLDINGS INC                 0.526     35039W100   FCL             46,770        1,361,211.97        1,777,260.00
+FOUNDRY NETWORKS INC                         0.000     35063R100   FDRY           276,700        2,835,820.30        3,821,227.00
+FOXHOLLOW TECHNOLOGIES INC                   0.000     35166A103   FOXH            14,700          418,166.72          437,913.00
+FPIC INS GROUP INC                           0.000     302563101   FPIC            19,500          465,114.20          676,650.00
+FPL GROUP INC.                               3.416     302571104 Q FPL            587,100       22,634,040.69       24,399,876.00
+FRANKLIN BANK CORP                           0.000     352451108   FBTX            21,400          386,249.91          384,986.00
+FRANKLIN ELEC INC                            1.011     353514102   FELE            31,105        1,148,538.33        1,229,891.70
+FRANKLIN RESOURCES INC                       0.510     354613101 Q BEN            291,600       15,028,351.19       27,413,316.00
+FRED'S INC                                   0.491     356108100   FRED            42,100          797,013.75          684,967.00
+FREDDIE MAC                                  2.876     313400301 Q FRE          1,227,310       60,817,423.47       80,204,708.50
+FREEPORT MCMORAN CLASS B                     2.323     35671D857   FCX            185,500        7,359,181.94        9,979,900.00
+FREESCALE SEMICONDUCTOR INC - B              0.000     35687M206   FSL.B        1,088,956       23,730,483.77       27,409,022.52
+FREIGHTCAR AMERICA INC                       0.249     357023100   RAIL            47,600        1,723,790.53        2,288,608.00
+FREMONT GENERAL CORP.                        1.721     357288109   FMT             83,600        1,745,970.61        1,942,028.00
+FRIEDMAN BILLINGS RAMSEY -A                  8.080     358434108   FBR          1,373,000       24,598,928.63       13,592,700.00
+FRONTIER AIRLINES INC                        0.000     359065109   FRNT           218,100        2,087,483.84        2,015,244.00
+FRONTIER FINL CORP W                         2.125     35907K105   FTBK            26,200          539,672.73          838,400.00
+FRONTIER OIL CORP                            0.426     35914P105   FTO             66,400          722,626.49        2,491,992.00
+FROZEN FOOD EXPRESS INDS                     0.000     359360104   FFEX            15,900          166,832.38          175,377.00
+FTI CONSULTING INC                           0.000     302941109   FCN             41,100          983,899.49        1,127,784.00
+FUELCELL ENERGY INC                          0.000     35952H106   FCEL            51,000          501,102.91          431,970.00
+FULLER H B CO                                1.527     359694106 Q FUL             30,500          796,456.42          978,135.00
+FULTON FINANCIAL CORP                        3.295     360271100   FULT             2,668           47,093.20           46,956.80
+FURNITURE BRANDS INTERNATIONAL INC.          2.687     360921100   FBN             99,500        2,314,461.20        2,221,835.00
+G & K SERV. CL-A                             0.178     361268105 Q GKSRA           20,530          737,965.66          805,802.50
+GALLAGHER (ARTHUR) J & CO.                   3.626     363576109 Q AJG            331,500        9,574,312.12       10,236,720.00

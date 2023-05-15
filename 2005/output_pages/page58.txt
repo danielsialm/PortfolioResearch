@@ -1,0 +1,19 @@
+ASOF02   Date 01/19/2006 Time 18:24:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MCV       MID-CAP VALUE (F)
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+HEALTH CARE PPTY INV                       6.572 HCP     421915109     25.5600       250,000.00      6,502,649.19      6,390,000.00
+PROLOGIS TRUST                             3.167 PLD     743410102Q    46.7200       298,276.00      9,772,103.22     13,935,454.72
+VENTAS INC.                                4.497 VTR     92276F100     32.0200       900,000.00     22,796,849.29     28,818,000.00
+
+Instrument Total             3                                                     1,448,276.00     39,071,601.70     49,143,454.72
+
+Portfolio Total            159                                                   101,318,467.60  2,069,448,297.93  2,183,075,383.80
+

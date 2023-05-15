@@ -1,0 +1,44 @@
+ASOF02   Date 01/21/2005 Time 18:34:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 140
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5JL       JACOBS LEVY - 1000
+Instrument - COM       COMMON STOCK
+
+UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     34.9100         8,300.00        307,473.50        289,753.00
+US BANCORP                                 3.831 USB     902973304     31.3200        40,500.00      1,115,386.74      1,268,460.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     43.2400       134,900.00      4,807,161.34      5,833,076.00
+VERIZON COMMUNICATIONS                     3.801 VZ      92343V104Q    40.5100       487,300.00     18,720,639.43     19,740,523.00
+VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     10.5700        11,000.00        124,154.80        116,270.00
+VIACOM INC-CLASS B                         0.769 VIA.B   925524308     36.3900       372,436.00     14,279,759.82     13,552,946.04
+VICURON PHARMACEUTICALS INC                0.000 MICU    926471103     17.4100        10,000.00        172,275.00        174,100.00
+WACHOVIA CORP.                             3.498 WB      929903102Q    52.6000       118,200.00      4,459,707.00      6,217,320.00
+WAL MART STORES INC                        0.984 WMT     931142103Q    52.8200       269,100.00     15,462,322.93     14,213,862.00
+WASHINGTON MUTUAL INC.                     4.351 WM      939322103     42.2800        60,100.00      2,485,618.38      2,541,028.00
+WELLS FARGO COMPANY                        3.089 WFC     949746101     62.1500       216,100.00     10,865,253.02     13,430,615.00
+WESCO INTL INC                             0.000 WCC     95082P105     29.6400        19,400.00        494,899.92        575,016.00
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     10.8400        76,600.00        660,199.86        830,344.00
+WRIGLEY WM JR CO                           1.358 WWY     982526105Q    69.1900        79,100.00      4,440,100.79      5,472,929.00
+XCEL ENERGY INC                            4.560 XEL     98389B100Q    18.2000        90,800.00      1,394,370.20      1,652,560.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     33.1800        27,800.00        785,014.36        922,404.00
+YUM BRANDS, INC.                           0.847 YUM     988498101     47.1800        11,900.00        461,411.26        561,442.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     56.2800        34,600.00      2,074,735.91      1,947,288.00
+
+Instrument Total           252                                                    36,530,748.15  1,030,678,794.01  1,177,320,684.85
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         5.340 EOP     294741103     29.1200        99,200.00      2,799,182.12      2,888,704.00
+HEALTH CARE REIT INC                       6.291 HCN     42217K106     38.1500         3,000.00        103,542.84        114,450.00
+KIMCO REALTY CORP                          4.207 KIM     49446R109Q    57.9900        41,700.00      1,783,000.26      2,418,183.00
+MAGUIRE PROPERTIES INC                     5.826 MPG     559775101     27.4600        13,300.00        368,116.07        365,218.00
+NATIONWIDE HEALTH PP                       6.231 NHP     638620104     23.7500        20,200.00        442,517.36        479,750.00
+
+Instrument Total             5                                                       177,400.00      5,496,358.65      6,266,305.00
+
+Portfolio Total            257                                                    36,708,148.15  1,036,175,152.66  1,183,586,989.85
+

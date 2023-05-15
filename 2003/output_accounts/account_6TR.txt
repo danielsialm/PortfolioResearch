@@ -1,0 +1,16 @@
+Instrument - COR       CORPORATE NOTES/BONDS
+
+TIMCO AVIATION SERVICES, INC.              0.000         887151AB4S     0.0000         9,575.28              0.00              0.00
+
+Instrument Total             1                                                         9,575.28              0.00              0.00
+
+Instrument -WARRANT   WARRANT
+
+TIMCO AVIATION SERVICES INC.-W             0.000 TMASW   887151116      0.0001         9,550.00              0.00              0.96
+
+Instrument Total             1                                                         9,550.00              0.00              0.96
+
+Portfolio Total              2                                                        19,125.28              0.00              0.96
+
+Group Total              4,305                                          0.00 /   660,278,601.44 17,317,805,989.80 21,171,748,270.27
+

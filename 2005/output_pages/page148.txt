@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 115
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+NAUTILUS INC                               2.143 NLS     63910B102     18.6600         4,100.00         71,428.71         76,506.00
+NAVIGANT CONSULTING                        0.000 NCI     63935N107     21.9800         3,500.00         57,355.26         76,930.00
+NAVIGATORS GROUP INC                       0.000 NAVG    638904102     43.6100         1,500.00         52,311.74         65,415.00
+NBT BANCORP INC                            3.520 NBTB    628778102     21.5900           100.00          2,021.16          2,159.00
+NBTY INC.                                  0.000 NTY     628782104     16.2500         1,100.00         28,494.16         17,875.00
+NCI BUILDING SYS INC                       0.000 NCS     628852105     42.4800           100.00          2,372.42          4,248.00
+NCO GROUP INC.                             0.000 NCOG    628858102     16.9200         2,700.00         57,240.75         45,684.00
+NDC HEALTH CORP                            0.832 NDC     639480102     19.2300           100.00          2,333.53          1,923.00
+NEENAH PAPER INC                           1.428 NP      640079109     28.0000           100.00          2,977.63          2,800.01
+NEKTAR THERAPEUTICS                        0.000 NKTR    640268108     16.4600           300.00          5,371.99          4,938.00
+NEOPHARM INC                               0.000 NEOL    640919106     10.7900           100.00            786.89          1,079.00
+NESS TECHNOLOGIES INC                      0.000 NSTC    64104X108     10.7700           100.00          1,436.14          1,077.00
+NETBANK INC                                1.114 NTBK    640933107      7.1800           200.00          1,746.27          1,436.00
+NETFLIX.COM INC                            0.000 NFLX    64110L106     27.0600           100.00          1,637.42          2,706.00
+NETGEAR INC                                0.000 NTGR    64111Q104     19.2500         2,300.00         34,025.85         44,275.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2900         5,300.00         74,767.46         65,137.00
+NEUROCRINE BIOSCIENCES INC                 0.000 NBIX    64125C109     62.7300           100.00          4,429.81          6,273.00
+NEUROGEN CORP                              0.000 NRGN    64124E106      6.5900           100.00            749.75            659.00
+NEUROMETRIX INC                            0.000 NURO    641255104     27.2800           100.00          1,912.23          2,728.00
+NEUSTAR INC-CLASS A                        0.000 NSR     64126X201     30.4900         2,500.00         80,025.00         76,225.00
+NEWALLIANCE BANCSHARES INC                 1.513 NAL     650203102     14.5400           300.00          4,212.41          4,362.00
+NEWMARKET CORP                             0.000 NEU     651587107     24.4600         1,600.00         26,777.91         39,136.00
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      7.6300           300.00          1,940.11          2,289.00
+NEWPORT CORP                               0.147 NEWP    651824104     13.5400           100.00          1,423.41          1,354.00
+NGP CAPITAL RESOURCES CO                   4.569 NGPC    62912R107     13.1300           100.00          1,500.80          1,313.00
+NIC INC                                    0.000 EGOV    62914B100      6.1600           100.00            635.65            616.00
+NJ RESOURCES CORP. COMMON                  3.437 NJR     646025106     41.8900         1,100.00         35,406.88         46,079.00
+NN INC                                     3.018 NNBR    629337106     10.6000           100.00          1,233.74          1,060.00
+NORTH PITTSBURGH SYS                       4.027 NPSI    661562108     18.8700         2,400.00         45,730.80         45,288.00
+NORTHWEST NATURAL GAS CO.                  4.037 NWN     667655104     34.1800         1,400.00         41,619.53         47,852.00
+NOVEN PHARMACEUTICALS INC                  0.000 NOVN    670009109     15.1300           100.00          1,883.83          1,513.00
+NS GROUP INC                               0.000 NSS     628916108     41.8100           400.00          8,472.64         16,724.00
+NU SKIN ENTERPRISES                        2.047 NUS     67018T105     17.5800           200.00          3,428.82          3,516.00
+NUANCE COMMUNICATIONS                      0.000 NUAN    67020Y100      7.6300           900.00          4,163.26          6,867.00
+NUVASINE INC                               0.000 NUVA    670704105     18.1000         2,700.00         38,051.82         48,870.00
+O'CHARLEYS INC                             0.000 CHUX    670823103     15.5100         4,000.00         73,181.56         62,040.00
+OAKLEY INC.                                1.089 OO      673662102     14.6900           100.00          1,244.74          1,469.00
+OCEANEERING INT'L. INC.                    0.000 OII     675232102     49.7800           100.00          2,407.04          4,978.00
+OCTEL CORP                                 0.860 OTL     675727101     16.2700           100.00          1,909.06          1,627.00

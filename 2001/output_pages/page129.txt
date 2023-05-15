@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 100
+ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 102
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK - EXTERNALLY MANAGED
 Portfolio  - 6DH       DUNCAN-HURST - GROWT
 Instrument - COM       COMMON STOCK
 
-ACCREDO HEALTH INC                         0.000 ACDO    00437V104     39.7000        16,919.00        514,358.29        671,684.30
-AEROFLEX INC                               0.000 ARXX    007768104     18.9300        25,500.00        412,686.89        482,715.00
-AFC ENTERPRISES                            0.000 AFCE    00104Q107     28.3900        16,819.00        332,939.06        477,491.41
-AIRBORNE INC.                              1.078 ABF     009269101Q    14.8300        26,980.00        343,828.28        400,113.40
-AIRGAS INC                                 0.000 ARG     009363102     15.1200        26,173.00        345,075.44        395,735.76
-AIRGATE PCS INC                            0.000 PCSA    009367103     45.5500         8,054.00        454,582.71        366,859.70
-ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000        11,300.00        323,590.78        246,340.00
-AMERICAN CAPITAL STRATEGIES                8.042 ACAS    024937104     28.3500        14,108.00        373,539.03        399,961.80
-AMERIPATH INC                              0.000 PATH    03071D109     32.2600        12,687.00        387,840.48        409,282.62
-APPLEBEES INT’L. INC.                      0.204 APPB    037899101     34.2000        11,644.00        299,322.55        398,224.80
-ARKANSAS BEST CORP                         0.000 ABFS    040790107     28.8200        17,131.00        426,991.92        493,715.42
-ARRIS GROUP INC.                           0.000 ARRS    04269Q100      9.7600        28,700.00        307,484.51        280,112.00
-ASTROPOWER INC                             0.000 APWR    04644A101     40.4300         8,074.00        299,730.25        326,431.82
-ASYST TECHNOLOGIES INC                     0.000 ASYT    04648X107     12.7600        26,200.00        348,026.27        334,312.00
-ATMI INC                                   0.000 ATMI    00207R101     23.8500        22,200.00        464,220.04        529,470.00
-ATRIX LABS INC                             0.000 ATRX    04962L101     20.6100        12,585.00        306,459.05        259,376.85
-AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     12.8900        28,700.00        317,229.37        369,943.00
-C-COR ELECTRONICS                          0.000 CCBL    125010108     14.5700        14,900.00        215,404.58        217,093.00
-CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850        15,232.00        326,863.01        601,435.52
-CAREER EDUCATION CORP                      0.000 CECO    141665109     34.2800        25,160.00        584,811.14        862,484.80
-CELL THERAPEUTICS INC                      0.000 CTIC    150934107     24.1400        16,608.00        481,946.21        400,917.12
-CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     34.7700        13,655.00        350,235.01        474,784.35
-CHOICEPOINT INC.                           0.000 CPS     170388102     50.6900        10,500.00        370,208.39        532,245.00
-CHRISTOPHER & BANKS CORP                   0.000 CHBS    171046105     34.2500        26,193.00        475,113.42        897,110.25
-CIMA LABS INC                              0.000 CIMA    171796105     36.1500        10,903.00        606,119.90        394,143.44
-CKE RESTARUANTS INC.                       0.000 CKR     12561E105      9.0500        19,300.00        166,922.02        174,665.00
-COMPUTER NETWORK TECH CORP                 0.000 CMNT    204925101     17.7900        28,700.00        468,420.14        510,573.00
-CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204     14.8500        24,300.00        361,793.79        360,855.00
-COPART INC                                 0.000 CPRT    217204106     36.3700        12,504.00        300,053.01        454,770.48
-CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     40.8900        14,031.00        469,492.45        573,727.59
-COVANCE INC                                0.000 CVD     222816100     22.7000        28,240.00        517,952.88        641,048.02
-CUBISTS PHARMACEUTICALS                    0.000 CBST    229678107     35.9600        12,250.00        458,438.00        440,510.00
-CYMER INC                                  0.000 CYMI    232572107     26.7300        14,800.00        348,610.06        395,604.00
-DIGITAL INSIGHT                            0.000 DGIN    25385P106     22.3600         7,400.00        164,617.18        165,464.00
-EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     36.2500        15,441.00        498,104.49        559,736.25
-ELECTRONICS BOUTIQUE HLDGS                 0.000 ELBO    286045109     39.9400        12,485.00        397,322.77        498,650.90
-EMCOR GROUP INC                            0.000 EME     29084Q100     45.4000         8,163.00        293,868.94        370,600.20
-ESS TECHNOLOGY                             0.000 ESST    269151106     21.2600        30,100.00        419,722.49        639,926.00
-F5 NETWORKS INC                            0.000 FFIV    315616102     21.5400        22,600.00        499,080.53        486,804.00
+MICROTUNE INC                              0.000 TUNE    59514P109     23.4600        20,700.00        396,190.13        485,622.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     22.7000        11,400.00        228,321.83        258,780.00
+MONOLITHIC SYSTEM TECHNOLOGY               0.000 MOSY    609842109     20.6000        10,700.00        147,874.00        220,420.00
+MOVIE GALLERY INC                          0.000 MOVI    624581104     24.3600         9,700.00        233,497.16        236,292.00
+MTR GAMING GROUP INC                       0.000 MNTG    553769100     16.0000        17,900.00        270,453.23        286,400.00
+MYRIAD GENETICS INC                        0.000 MYGN    62855J104     52.6400        12,213.00        648,817.32        642,892.32
+NETEGRITY INC                              0.000 NETE    64110P107     19.3600        14,100.00        261,994.45        272,976.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200        12,300.00        244,503.80        246,246.00
+OAK TECHNOLOGY INC                         0.000 OAKT    671802106     13.7500        56,800.00        528,838.06        781,000.00
+OPTIMAL ROBOTICS CORP.                     0.000 OPMR    68388R208     35.4500        10,300.00        313,463.56        365,135.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     47.3000         7,359.00        253,733.78        348,080.70
+PANERA BREAD CO                            0.000 PNRA    69840W108     52.0400        10,063.00        367,826.84        523,678.52
+PEC SOLUTIONS INC                          0.000 PECS    705107100     37.6100        16,600.00        333,055.83        624,326.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     35.1700        26,982.00        671,939.50        948,956.94
+PETSMART INC                               0.000 PETM    716768106      9.8400        27,900.00        229,554.97        274,536.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     32.3100        17,165.00        381,867.09        554,601.15
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500         9,700.00        330,417.88        442,805.00
+PIXELWORKS INC                             0.000 PXLW    72581M107     16.0600        21,400.00        452,824.52        343,684.00
+POLARIS INDUSTRIES INC.                    1.731 PII     731068102     57.7500         7,659.00        352,200.00        442,307.25
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400        16,800.00        353,749.98        383,712.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     17.2800        26,300.00        429,477.96        454,464.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-DUN  IT-DUN         1.0000       205,182.47        205,182.49        205,182.46
+QUOVADX INC                                0.000 QVDX    74913K106      9.1500        23,295.00        284,455.65        213,149.25
+RETEK INC                                  0.000 RETK    76128Q109     29.8700        13,400.00        277,165.58        400,258.00
+RIVERSTONE NETWORKS INC                    0.000 RSTN    769320102     16.6000        28,100.00        316,605.35        466,460.00
+RYLAND GROUP INC                           0.218 RYL     783764103     73.2000         4,773.00        210,854.13        349,383.59
+SANGSTAT MEDICAL CORP                      0.000 SANG    801003104     19.6400         7,700.00        160,750.80        151,227.99
+SCIOS INC                                  0.000 SCIO    808905103     23.7700        23,248.00        547,527.15        552,604.96
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107     34.1200         7,800.00        255,842.70        266,136.00
+SECURE COMPUTING CORP                      0.000 SCUR    813705100     20.5500        11,800.00        263,819.26        242,490.00
+SONICWALL INC                              0.000 SNWL    835470105     19.4400        25,900.00        441,257.29        503,496.00
+SONOSIGHT INC.                             0.000 SONO    83568G104     25.6900         9,600.00        212,174.28        246,624.00
+SPINNAKER EXPLORATION CO                   0.000 SKE     84855W109     41.1600         5,600.00        240,513.95        230,496.00
+STANCORP FINANCIAL GROUP                   0.677 SFG     852891100     47.2500         6,800.00        284,489.81        321,300.00
+STELLENT INC                               0.000 STEL    85856W105     29.5600        20,893.00        638,959.74        617,597.08
+STERICYCLE INC                             0.000 SRCL    858912108     60.8800        17,319.00        667,343.82      1,054,380.72
+STERIS CORP                                0.000 STE     859152100Q    18.2700        15,684.00        279,031.01        286,546.68
+TARO PHARMACEUTICAL INDUS                  0.000 TARO    M8737E108     39.9500        13,500.00        274,116.12        539,325.00
+TECHNITROL INC.                            0.506 TNL     878555101     27.6200         6,900.00        179,295.16        190,578.00

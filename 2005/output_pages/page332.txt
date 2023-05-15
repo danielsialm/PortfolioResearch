@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+DDI CORPORATION                              0.008     6248990      9433_           317.00        1,764,227.12
+DELHAIZE-LE LION N                           1.794     4262118      DELB_        26,337.00          860,899.69
+DEN NORSKE BANK NO                           0.523     4263304      DNBNO       488,160.00        2,994,759.16
+DENSO CORP Y50                               0.007     6640381      6902_        21,300.00          371,370.32
+DEUTSCHE BANK AG O                           3.596     5750355      DBK_G        89,321.00        6,218,842.92
+DEUTSCHE BOERSE AG                           0.955     7021963      DB1_G        15,397.00        1,158,158.14
+DEUTSCHE LUFTHANSA                           2.830     5287488      LHA_G        93,916.00        1,287,483.79
+DEUTSCHE POST AG                             2.873     4617859      DPW_G       120,505.00        2,398,638.04
+DEUTSCHE TELEKOM D                           5.200     5842359      DTE_G       426,144.00        7,052,343.98
+DEXIA                                        2.815     7147610      DEXB_       222,087.00        2,783,464.82
+DIAGEO ORD GBP 28.                           6.020     0237400      DGE_L       251,383.00        2,564,255.02
+DIXONS GROUP ORD                             8.532     0047245      DSGI_        77,610.00          220,439.70
+DOUGLAS HLDG AG DE                           3.623     4596680      DOU_G        15,568.00          606,011.33
+DSV, DE SAMMENSLUT VOGN                      0.050     5872969      DSV_D        15,500.00        1,667,704.98
+E.ON AG                                      3.169     4942904      EOA_G       111,512.00        6,758,578.70
+EAST JAPAN RAILWAY                           0.008     6298542      9020_           247.00        1,205,556.60
+EISAI CO JPY50                               0.013     6307200      4523_        29,200.00          760,541.90
+ELECTRIC POWER DEVELOPMENT C                 0.012     B02Q328      9513_       106,000.00        3,410,385.66
+ELPIDA MEMORY INC                            0.000     B035F62      6665_        70,800.00        2,132,893.22
+ELSEVIER NV ORD                              3.318     4148810      REN_N       107,216.00        1,482,328.11
+EMI GROUP PLC                                5.662     0044473      EMI_L       136,809.00          651,067.69
+ENBRIDGE INC                                 2.709     2466149      ENB_C        11,000.00          241,128.15
+ENCANA CORP                                  0.488     2793193      ECA_C        24,700.00          624,859.67
+ERSTE BANK DER OESTER SPARK                  1.378     5289837      EBS_A       152,574.00        8,365,046.77
+ESPRIT HOLDINGS                              0.456     6321642      330_H        18,200.00          109,830.19
+ESSILOR INTERNATIONAL                        1.314     7212477      EF_FP         4,691.00          388,535.55
+EURONEXT                                     1.608     7153770      NXT_F        15,728.00          666,653.75
+EUROPEAN AERONAUTIC DEFENCE                  1.848     4012250      EAD_F        27,275.00          785,078.48
+FANUC JPY50                                  0.005     6356934      6954_        19,600.00        1,228,195.99
+FORTIS                                       3.413     7266139      FORB_       508,195.00       11,547,222.27
+FOSTERS BREWING GR                           2.628     6349268      FGL_A        34,483.00          144,474.28
+FRANCE TELECOM FRF                           5.618     5176177      FTE_F       186,109.00        5,349,560.50
+FRASER + NEAVE LTD                           1.788     6689458      FNN_S       128,400.00          979,884.08
+FRESENIUS MEDICAL CARE                       1.766     5160073      FME3_         5,486.00          433,478.33
+FRIENDS PRO PLC                              6.884     3055977      FP/_L       215,783.00          691,636.61
+FRONTLINE LTD                                0.343     5561052      FRO_N        44,300.00        1,192,613.70
+FUJI PHOTO FILM CO                           0.005     6356525      4901_        46,324.00        1,495,071.51
+FUJITSU NEW JPY50                            0.005     6356945      6702_       188,997.00        1,161,160.70
+GALLAHER GROUP ORD                           6.279     0383369      GLH_L        57,825.00          907,924.76

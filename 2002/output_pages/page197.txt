@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:18   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 014
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+COMPUTER ASSOCIATE INTL. INC.                0.592     204912109 S CA           1,185,488       35,057,255.85       16,004,088.00
+COMPUTER SCIENCES                            0.000     205363104   CSC            353,606       18,031,136.71       12,181,726.70
+COMPUWARE CORP                               0.000     205638109   CPWR         1,126,720        9,291,267.52        5,408,256.00
+COMVERSE TECHNOLOGY INC.                     0.000     205862402   CMVT           458,350       11,687,289.10        4,592,667.00
+CONAGRA FOODS, INC.                          3.958     205887102 Q CAG          1,307,948       29,593,790.81       32,711,779.48
+CONCERTO SOFTWARE INC                        0.000     20602T106   CRTO            67,100          555,498.49          452,925.00
+CONCORD CAMERA CORP                          0.000     206156101   LENS            39,700          264,940.29          215,571.00
+CONCORD COMMUNICATIONS INC                   0.000     206186108   CCRD            18,700          284,744.00          168,113.00
+CONCORD EFS INC.                             0.000     206197105   CE           1,818,510       33,141,728.41       28,623,347.40
+CONEXANT SYSTEMS INC.                        0.000     207142100   CNXT           214,228          308,831.08          344,907.08
+CONMED CORPORATION                           0.000     207410101   CNMD            49,150          844,624.26          962,848.50
+CONNETICS CORP                               0.000     208192104   CNCT            55,700          652,469.75          669,514.00
+CONOCOPHILLIPS                               3.306     20825C104 Q COP          1,492,100       71,816,625.83       72,202,719.00
+CONSOLIDATED EDISON INC.                     5.231     209115104 Q ED             269,478       10,179,768.69       11,539,047.96
+CONSOLIDATED GRAPHICS INC.                   0.000     209341106   CGX             14,600          772,331.25          324,850.00
+CONSTELLATION BRANDS INC-A                   0.000     21036P108   STZ            207,700        4,688,360.17        4,924,567.00
+CONSTELLATION ENERGY GROUP INC               3.450     210371100 Q CEG            278,589        9,049,335.65        7,750,345.98
+CONVERGYS CORPORATION                        0.000     212485106   CVG          1,016,108       24,488,648.55       15,394,036.20
+COOPER CAMERON CORP.                         0.000     216640102   CAM            182,450        9,753,171.02        9,089,659.00
+COOPER COMPANIES INC.                        0.479     216648402   COO             34,000          545,651.53          850,680.00
+COOPER INDUSTRIES LTD - CLASS A              3.840     G24182100 Q CBE            195,180        7,703,686.82        7,114,311.00
+COOPER TIRE & RUBBER                         2.737     216831107 Q CTB            186,843        3,648,925.03        2,866,171.61
+COORS (ADOLPH) CL-B                          1.338     217016104 Q RKY            119,125        6,501,092.15        7,296,406.25
+COORSTEK                                     0.000     217020106   CRTK            36,200        1,041,270.56          924,910.00
+COPART INC                                   0.000     217204106   CPRT           187,600        3,171,560.81        2,221,184.00
+CORINTHIAN COLLEGES INC                      0.000     218868107   COCO            95,662        1,906,129.10        3,621,763.32
+CORIXA COPR                                  0.000     21887F100   CRXA            40,200          255,409.80          256,878.00
+CORN PRODUCTS INT'L INC.                     1.327     219023108   CPO             71,700        1,801,537.47        2,160,321.00
+CORNING INC                                  0.000     219350105 Q GLW          2,536,689       47,194,087.63        8,396,440.59
+CORPORATE EXECUTIVE BOARD CO                 0.000     21988R102   EXBD            25,620          813,795.75          817,790.40
+COST PLUS INC                                0.000     221485105   CPWM            28,800          999,002.99          825,696.00
+COSTCO WHOLESALE CORP.                       0.000     22160K105   COST           792,566       25,949,869.21       22,239,401.96
+COUNTRYWIDE FINANCIAL CORP                   0.929     222372104 Q CFC            273,735       11,988,159.23       14,138,412.75
+COVANCE INC                                  0.000     222816100   CVD            182,050        3,380,243.31        4,476,609.50
+COVENANT TRANSPORT INC CL-A                  0.000     22284P105   CVTI             3,910           71,669.00           74,133.60
+COVENTRY HEALTH CARE INC.                    0.000     222862104   CVH             81,100        1,346,531.44        2,354,333.00
+COX COMMUNICATIONS                           0.000     224044107   COX             78,651        2,204,352.61        2,233,688.40
+CPI CORP                                     3.864     125902106   CPY             11,950          162,757.55          173,155.50
+CRANE CO                                     2.007     224399105 Q CR              39,994          759,676.42          797,080.42
+CRAY INC                                     0.000     225223106   CRAY            15,500          113,277.73          118,885.00

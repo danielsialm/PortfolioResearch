@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 095
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 097
 
 Monthly Market Portfolio
 
@@ -9,42 +9,46 @@ Group - COMMON STOCK
 Portfolio  - TEC       TECHNOLOGY
 Instrument - COM       COMMON STOCK
 
-MICROS SYSTEMS INC.                        0.000 MCRS    594901100     25.1000           500.00         10,541.25         12,550.00
-MICROSEMI CORP                             0.000 MSCC    595137100     29.7000           900.00         23,377.00         26,730.00
-MICROSOFT CORP.                            0.000 MSFT    594918104     66.2500       141,340.00      8,452,415.38      9,363,775.01
-MILLIPORE CORPORATION                      0.724 MIL     601073109Q    60.7000         1,100.00         65,931.03         66,770.00
-MIPS TECHNOLOGIES INC CL B                 0.000 MIPSB   604567206      7.9800         1,000.00         23,783.75          7,980.00
-MOTOROLA INC                               1.065 MOT     620076109Q    15.0200        57,500.00      1,130,388.49        863,649.99
-MRO SOFTWARE INC                           0.000 MROI    55347W105     23.3800           700.00          8,320.00         16,366.00
-NATIONAL INSTRUMENTS CORP.                 0.000 NATI    636518102     37.4600         1,200.00         54,324.75         44,952.00
-NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     30.7900         4,200.00        117,062.82        129,318.00
-NCR CORPORATION                            0.000 NCR     62886E108     36.8600         2,500.00        102,760.96         92,150.00
-NETEGRITY INC                              0.000 NETE    64110P107     19.3600           800.00         15,464.00         15,488.00
-NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     21.8700         7,600.00        169,330.38        166,212.01
-NETWORK EQUIPMENT TECH. INC.               0.000 NWK     641208103      5.4500           700.00          3,517.75          3,815.00
-NETWORKS ASSOCIATES INC.                   0.000 NETA    640938106     25.8500         3,600.00         31,092.50         93,060.00
-NEWPORT CORP                               0.103 NEWP    651824104     19.2800           900.00         31,960.25         17,352.00
-NORTEL NETWORKS CORP. HOLDING              0.000 NT      656568102Q     7.5000        83,900.00      2,580,435.59        629,250.00
-NOVELL INC                                 0.000 NOVL    670006105      4.5900         9,400.00         58,716.71         43,146.00
-NOVELLUS SYSTEMS INC.                      0.000 NVLS    670008101     39.4500         3,500.00        117,875.97        138,075.00
-NVIDIA CORP                                0.000 NVDA    67066G104     66.9000         3,600.00         94,192.84        240,840.00
-NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200           700.00         17,514.75         14,014.00
-ORACLE SYS. CORP.                          0.000 ORCL    68389X105     13.8100       147,200.00      3,733,980.28      2,032,832.00
-PALM, INC                                  0.000 PALM    696642107      3.8800        14,700.00        270,198.52         57,036.00
-PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      7.8100         6,800.00         88,570.24         53,108.00
-PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000           500.00         13,856.50         13,200.00
-PC-TEL INC                                 0.000 PCTI    69325Q105      9.7100           500.00          6,550.89          4,855.00
-PEOPLESOFT INC                             0.000 PSFT    712713106     40.2000         7,700.00        252,160.82        309,540.00
-PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000           700.00         12,874.75         10,150.00
-PERKIN ELMER INC                           0.799 PKI     714046109Q    35.0200         3,100.00         89,475.00        108,562.00
-PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108     11.6400           700.00         10,816.00          8,148.00
-PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500           300.00          6,825.00         13,695.00
-PHOTRONICS INC.                            0.000 PLAB    719405102     31.3500           800.00         23,566.50         25,080.00
-PIONEER STANDARD ELECTRONICS               0.944 PIOS    723877106     12.7000           800.00          9,573.00         10,160.00
-PLANTRONICS INC.                           0.000 PLT     727493108     25.6400         1,200.00         47,813.00         30,768.00
-PLEXUS CORP                                0.000 PLXS    729132100     26.5600         1,100.00         34,080.00         29,216.00
-PMC-SIERRA INC                             0.000 PMCS    69344F106     21.2600         4,300.00        149,865.00         91,418.00
-POLYCOM INC.                               0.000 PLCM    73172K104     34.0700         2,200.00         62,934.50         74,954.00
-POWER INTEGRATIONS INC                     0.000 POWI    739276103     22.8400           800.00         13,537.85         18,272.00
-POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     17.2800         1,700.00         56,912.25         29,376.00
-PROGRESS SOFTWARE                          0.000 PRGS    743312100     17.2800           900.00         13,332.89         15,552.00
+SYMMETRICOM INC                            0.000 SYMM    871543104      7.6100           700.00          9,270.00          5,327.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     59.0700         1,600.00         78,780.00         94,512.00
+SYSTEMS & COMPUTER TECH.                   0.000 SCTC    871873105     10.3400           900.00         10,385.00          9,306.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     16.1700           800.00         14,516.00         12,936.00
+TECH DATA CORP                             0.000 TECD    878237106     43.2800         1,400.00         44,205.56         60,592.00
+TECHNITROL INC.                            0.506 TNL     878555101     27.6200           900.00         27,834.00         24,858.00
+TEKTRONIX, INC.                            0.000 TEK     879131100Q    25.7800         2,500.00         78,087.50         64,450.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     16.2900           900.00         14,779.25         14,661.00
+TELLABS INC.                               0.000 TLAB    879664100     14.9600        10,600.00        418,820.24        158,576.00
+TERADYNE INC                               0.000 TER     880770102     30.1400         4,700.00        164,963.35        141,658.00
+TEXAS INSTRS INC                           0.321 TXN     882508104Q    28.0000        45,700.00      1,766,256.76      1,279,600.00
+THERMA-WAVE INC                            0.000 TWAV    88343A108     14.9200           700.00         10,310.00         10,444.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     23.8600         4,800.00        101,457.71        114,528.00
+THQ INC                                    0.000 THQI    872443403     48.4700           500.00         15,352.50         24,235.00
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108     15.9100           500.00          9,676.25          7,955.00
+TITAN CORP                                 0.000 TTN     888266103     24.9500         1,600.00         31,523.75         39,920.00
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     12.2600         1,000.00         10,815.50         12,260.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      4.5000         2,200.00         61,634.25          9,900.00
+TRIMBLE NAVIGATION LTD                     0.000 TRMB    896239100     16.2100           700.00         14,939.00         11,347.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103     12.2600         3,455.00         84,684.02         42,358.30
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105     16.5200           500.00         11,407.50          8,260.00
+UNISYS CORP.                               0.000 UIS     909214108     12.5400         8,200.00        121,745.25        102,828.00
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     34.5900           900.00         25,811.25         31,131.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     44.8300        10,400.00        589,748.45        466,232.00
+VERITY INC.                                0.000 VRTY    92343C106     20.2500           900.00         20,999.50         18,225.00
+VIASAT INC.                                0.000 VSAT    92552V100     15.6000           700.00         10,181.25         10,920.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     19.5000         4,163.00         77,797.79         81,178.50
+VISUAL NETWORKS INC                        0.000 VNWK    928444108      4.6200           800.00          3,921.75          3,696.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106     12.4300         5,000.00        153,860.18         62,150.00
+WATERS CORPORATION                         0.000 WAT     941848103     38.7500         3,400.00        193,638.00        131,750.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107     17.9100         1,900.00         56,430.00         34,029.00
+X-RITE INC                                 1.175 XRIT    983857103      8.5100           500.00          4,167.50          4,255.00
+XEROX CORP                                 0.000 XRX     984121103Q    10.4200        18,000.00        136,958.75        187,560.00
+XILINX INC                                 0.000 XLNX    983919101     39.0500         8,900.00        388,655.84        347,544.99
+YAHOO INC                                  0.000 YHOO    984332106     17.7400        14,700.00        236,758.10        260,778.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     55.5100           800.00         37,081.50         44,408.01
+
+Instrument Total           270                                                     2,124,005.17     69,257,268.45     53,857,182.95
+
+Portfolio Total            270                                                     2,124,005.17     69,257,268.45     53,857,182.95
+
+Group Total              3,500                                          0.00 /   662,431,032.12 19,952,619,505.42 23,192,988,353.96
+

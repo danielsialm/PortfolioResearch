@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 104
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 500
+Instrument - COM       COMMON STOCK
+
+INTL BUS MACH CORP                         0.774 IBM     459200101Q    77.5000       109,300.00     10,078,371.89      8,470,750.00
+ITT INDUSTRIES INC                         0.988 ITT     450911102     60.6900         8,000.00        375,666.68        485,520.00
+J C PENNEY INC                             2.173 JCP     708160106Q    23.0100        58,400.00      1,332,050.92      1,343,784.00
+JABIL CIRCUIT INC                          0.000 JBL     466313103     17.9200        46,800.00      1,000,642.76        838,656.00
+JOHNSON & JOHNSON                          1.526 JNJ     478160104Q    53.7100       212,300.00      7,152,592.67     11,402,633.00
+JOHNSON CONTROLS                           1.796 JCI     478366107Q    80.1700        43,200.00      3,303,413.14      3,463,344.00
+JP MORGAN CHASE & CO.                      5.666 JPM     46625H100Q    24.0000       170,600.00      6,325,641.48      4,094,400.00
+KRAFT FOODS INC - A                        1.541 KFT     50075N104     38.9300        78,800.00      2,936,073.46      3,067,684.00
+KROGER CO.                                 0.000 KR      501044101     15.4500       101,100.00      1,945,472.67      1,561,995.00
+LEHMAN BROTHERS HOLDING                    0.675 LEH     524908100Q    53.2900        51,900.00      2,675,465.99      2,765,751.00
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     60.5000        29,600.00      1,561,119.34      1,790,800.00
+LIMITED BRANDS INC.                        2.153 LTD     532716107Q    13.9300        65,000.00        931,710.00        905,450.00
+LOCKHEED MARTIN CORPORATION                0.761 LMT     539830109Q    57.7500        20,800.00        917,289.77      1,201,200.00
+LOEWS CORP                                 1.349 LTR     540424108Q    44.4600        79,500.00      3,628,893.36      3,534,570.00
+LOEWS CORP - CAROLINA GROUP                8.781 CG      540424207     20.2700        26,000.00        655,722.78        527,020.00
+LOWE'S COS                                 0.266 LOW     548661107Q    37.5000        76,900.00      2,219,483.06      2,883,750.00
+LSI LOGIC CORP                             0.000 LSI     502161102      5.7700        82,200.00        525,833.40        474,294.00
+M&T BANK CORPORATION                       1.512 MTB     55261F104     79.3500         8,500.00        687,077.10        674,475.00
+MANPOWER INC                               0.627 MAN     56418H100     31.9000        15,600.00        547,913.76        497,640.00
+MARSH & MCLENNAN COS.                      2.423 MMC     571748102Q    46.2100        38,800.00      1,774,840.44      1,792,948.00
+MAXIM INTGRTD PRDCTS INC.                  0.242 MXIM    57772K101     33.0400        14,300.00        427,134.88        472,472.00
+MBNA CORP                                  1.472 KRB     55262L100Q    19.0200        97,600.00      1,620,108.60      1,856,352.00
+MCGRAW HILL INC                            1.687 MHP     580645109Q    60.4400        20,100.00      1,225,290.21      1,214,844.00
+MCKESSON CORP                              0.887 MCK     58155Q103Q    27.0300       126,000.00      4,154,043.63      3,405,780.00
+MEADWESTVACO                               3.723 MWV     583334107     24.7100        24,900.00        698,542.86        615,279.00
+MEDTRONIC INC                              0.548 MDT     585055106Q    45.6000        43,700.00      1,331,480.84      1,992,720.00
+MERCK & CO INC                             2.543 MRK     589331107Q    56.6100       149,600.00      7,042,238.54      8,468,856.00
+MERRILL LYNCH & CO. INC.                   1.686 MER     590188108Q    37.9500       103,700.00      4,082,344.13      3,935,415.00
+METLIFE INC                                0.776 MET     59156R108     27.0400       131,800.00      3,442,177.26      3,563,872.00
+MICROSOFT CORP.                            0.154 MSFT    594918104     51.7000       349,900.00     24,907,670.99     18,089,830.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     32.4000        15,600.00        536,521.44        505,440.00
+MOLEX INC                                  0.434 MOLX    608554101     23.0400        17,700.00        607,955.91        407,808.00
+MOODY'S CORPORATION                        0.435 MCO     615369105     41.2900        70,100.00      3,258,416.55      2,894,429.00
+MORGAN STANLEY DEAN WITTER & C             2.304 MWD     617446448Q    39.9200        55,200.00      3,375,769.50      2,203,584.00
+MOTOROLA INC                               1.849 MOT     620076109Q     8.6500       163,200.00      4,187,575.36      1,411,680.00
+NATIONAL CITY CORP                         4.465 NCC     635405103Q    27.3200        16,700.00        458,961.07        456,244.00
+NATIONAL COMMERCE FINANCIAL                2.851 NCF     63545P104     23.8500        20,000.00        501,162.00        477,000.00
+NATIONWIDE FINANCIAL SERVICE               1.815 NFS     638612101     28.6500        29,100.00        801,811.60        833,715.00
+NEWELL RUBBERMAID INC.                     2.769 NWL     651229106Q    30.3300        30,900.00      1,022,876.81        937,197.00

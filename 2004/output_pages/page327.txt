@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SAMSUNG ELECTRONICS-PFD                      0.003     6773812      00593        11,200.00        2,302,768.68
+SAMSUNG FIRE + MAR                           0.001     6155250      00081         8,330.00          407,958.16
+SAMSUNG HEAVY INDUSTRIES                     0.002     6772217      01014       350,000.00        1,117,420.83
+SANLAM LTD ORD ZAR                           0.546     6134022      SLM_S       960,000.00        1,365,988.45
+SAPPI ZARI(SICOVAM                           0.412     6777007      SAP_S       150,000.00        1,869,310.41
+SASOL NPV                                    0.660     6777450      SOL_S       257,000.00        2,877,913.89
+SHINHAN FINANCIAL GROUP LTD                  0.002     6397502      05555       140,000.00        1,535,570.24
+SHINSEGAE DEPT STR                           0.000     6805049      00417         6,400.00          752,454.88
+SIAM CEMENT CO THB                           0.102     6609906      SCC/F       480,000.00          479,700.66
+SIAM COMMERCIAL BK                           0.073     6889935      SCB/F     2,000,000.00          938,880.29
+SIME DARBY BERHAD                            1.140     6808769      SDY_M       880,000.00        1,259,607.24
+SINOPAC HOLDINGS                             0.080     6525875      2890_     6,478,354.08        2,877,881.58
+SINOTRANS LTD                                0.339     6579010      598_H     2,400,000.00          758,505.76
+SK TELECOM CO LTD                            0.002     6224871      01767        24,000.00        4,016,971.61
+SM PRIME HLDGS ORD                           0.150     6818843      SMPH_     4,000,000.00          503,950.78
+SPAR GROUP LTD                               0.000     B038WK4      SPP_S       150,000.00          493,891.18
+STANDARD BANK GROUP                          0.432     B030GJ7      SBK_S       600,692.00        1,755,858.30
+SURGUTNEFTEGAS PREFERRED                    29.357     5005884      SNGSP     3,000,000.00        1,214,330.00
+SURGUTNEFTEGAZ-$US                          18.666     4851732      SNGS_       100,000.00           62,070.00
+T IS BANKASI SER C                           0.000     4869939      ISCTR   202,400,000.00          350,738.28
+T.GARANTI BANASI T                           0.000     4361617      GARAN   583,914,000.00          536,613.04
+TAIWAN CELLULAR CORP                         0.211     6290496      3045_     3,300,000.00        2,520,792.50
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.036     6889106      27933     3,999,206.00        5,066,640.28
+TELEFONOS DE MEXIC                           0.284     2881689      TELME       800,000.00          763,681.74
+TELEKOMUNIKAYA POL                           0.202     5552551      TPS_P       500,000.00        2,191,357.41
+TELKOM SOUTH AFRICA LTD                      0.199     6588577      TKG_S       113,600.00          507,472.55
+TENAGA NASIONAL BERHAD                       0.313     6904612      TNB_M       700,000.00        2,194,755.09
+TENARIS SA                                   0.262     2172402      TS_AF       187,230.00          353,643.65
+TEVA PHARMA IND IL                           0.162     6882172      TEVA_       168,000.00        5,201,627.66
+THAI ENGINE MANFACTURING                     0.000     6885762      43247         4,687.00                0.00
+TIGER BRANDS LIMITED                         0.678     6891297      TBS_S        70,000.00          833,231.00
+TISCO FINANCE PCL - FOREIGN                  0.069     6892858      TISCO     2,000,000.00        1,513,142.44
+TRAVELSKY TECHNOLOGY                         0.208     6321954      696_H       700,000.00          497,999.81
+TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    40,000,000.00          330,840.86
+UNI-PRESIDENT ENTERPRISES                    0.114     6700393      1216_     5,980,960.00        2,496,987.27
+UNIBANCO-UNITS                              11.669     B02PG48      UBBR1        50,000.00          185,105.68
+UNIFIED ENERGY SYSTEMS                      16.456     4889335      EESR_     7,000,000.00          796,442.45
+UNIPETROL                                    0.000     5297294      UNIP_       348,000.00          802,512.84
+UNITED MICROELECTRONICS                      0.077     6916628      73850     3,820,776.95        3,098,270.12

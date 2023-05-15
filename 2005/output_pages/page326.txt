@@ -1,0 +1,30 @@
+ASOF11   Date 01/19/2006 Time 18:25:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 019
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-LAZAR   EAFE TRANSITION ACCO
+Instrument - CTRY      COUNTRY FUNDS - CLOSED END
+
+ISRAEL FUND                                  0.000     0457242      ISR_L       571,389.00                0.00
+
+Instrument Total               1                                                571,389.00                0.00
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+CIA VALE DO RIO DO                           0.000     B011X91      VALE_        83,300.00                0.00
+TELECOM ASIA RTS                             0.000     94F1516      94F15       535,516.00                0.00
+TI AUTOMOTIVE LTD                            0.000     3067529      6525Z       375,200.00                0.00
+
+Instrument Total               3                                                994,016.00                0.00
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+LAZARD FRERES - LQR                          0.000     IL-LAZ                       150.08           15,008.24
+
+Instrument Total               1                                                    150.08           15,008.24
+
+Portfolio Total                5                                              1,565,555.08           15,008.24             57,684.97

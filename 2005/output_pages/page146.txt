@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 113
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+MAGNA ENTERTAINMENT-CL A                   0.000 MECA    559211107      7.1400           100.00            505.73            714.00
+MAIDENFORM BRANDS INC                      0.000 MFB     560305104     12.6600         2,300.00         31,671.00         29,118.00
+MAINSOURCE FINANCIAL                       2.913 MSFG    56062Y102     17.8500         2,100.00         36,547.24         37,485.00
+MAIR HOLDINGS INC                          0.000 MAIR    560635104      4.7100           100.00            884.08            471.00
+MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     20.4800           400.00         12,267.72          8,192.00
+MANNKIND CORP                              0.000 MNKD    56400P201     11.2600         4,500.00         68,259.27         50,670.00
+MANTECH INTERNATIONAL CORP-A               0.000 MANT    564563104     27.8600           200.00          4,217.48          5,572.00
+MAPINFO CORP                               0.000 MAPS    565105103     12.6100           100.00          1,087.33          1,261.00
+MARCUS CORPORATION                         1.276 MCS     566330106     23.5000         3,000.00         56,255.46         70,500.00
+MARINEMAX INC                              0.000 HZO     567908108     31.5700           100.00          2,213.34          3,157.00
+MARITRANS INC                              1.691 TUG     570363101     26.0200         1,100.00         28,525.54         28,622.00
+MARKWEST HYDROCARBON INC                   2.271 MWP     570762104     22.0100         1,000.00         23,813.50         22,010.00
+MARLIN BUSINESS SERVICES INC               0.000 MRLN    571157106     23.8900         2,300.00         50,373.19         54,947.00
+MARTEK BIOSCIENCES CORP                    0.000 MATK    572901106     24.6100           100.00          3,477.64          2,461.00
+MARTEN TRANSPORT LTD                       0.000 MRTN    573075108     18.2200         8,240.50        114,408.38        150,141.91
+MARTHA STEWART LIVING OMNIMEDI             0.000 MSO     573083102     17.4300         1,000.00         18,886.43         17,430.00
+MASTEC INC                                 0.000 MTZ     576323109     10.4700           100.00            813.58          1,047.00
+MATRIA HEALTHCARE IN                       0.000 MATR    576817209     38.7600           100.00          2,339.17          3,876.00
+MATTHEWS INTL CORP                         0.549 MATW    577128101     36.4100           100.00          2,625.88          3,641.00
+MATTSON TECHNOLOGY INC                     0.000 MTSN    577223100     10.0600         3,000.00         22,916.36         30,180.00
+MAVERICK TUBE CORP                         0.000 MVK     577914104     39.8600           800.00         18,867.37         31,888.00
+MAXIMUS INC                                1.090 MMS     577933104     36.6900           300.00         10,305.81         11,007.00
+MAXTOR CORP                                0.000 MXO     577729205      6.9400           900.00          4,688.78          6,246.00
+MB FINL INC                                1.694 MBFI    55264U108     35.4000           100.00          2,917.94          3,540.00
+MBT FINANCIAL CORP                         4.197 MBTF    578877102     16.2000           100.00          2,016.14          1,620.00
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      3.8000        20,000.00        130,123.65         76,000.00
+MCGRATH RENTCORP                           2.014 MGRC    580589109     27.8000           100.00          2,176.11          2,780.00
+MEDIA GENERAL INC - CL A                   1.656 MEG     584404107     50.7000         1,100.00         69,051.67         55,770.00
+MEDIACOM COMMUNICATIONS CORP               0.000 MCCC    58446K105      5.4900        11,000.00         81,241.63         60,390.00
+MEDICINES COMPANY                          0.000 MDCO    584688105     17.4500           700.00         16,807.86         12,215.00
+MEDICIS PHARMACEUTICAL CORP                0.374 MRX     584690309     32.0500           200.00          5,882.62          6,410.00
+MENTOR CORP/MINN                           1.562 MNT     587188103     46.0800         1,100.00         24,167.53         50,688.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     20.6300         3,700.00        125,328.49         76,331.00
+MERGE TECHNOLOGIES INC.                    0.000 MRGE    589981109     25.0400           100.00          1,959.47          2,504.00
+MERIDIAN BIOSCIENCE INC                    1.588 VIVO    589584101     20.1400           100.00          1,281.23          2,014.00
+MERIT MED SYS INC                          0.000 MMSI    589889104     12.1400         3,200.00         47,267.73         38,848.00
+MESA AIR GROUP INC                         0.000 MESA    590479101     10.4600         2,200.00         17,418.12         23,012.00
+METAL MANAGEMENT INC                       1.289 MTLM    591097209     23.2600           200.00          4,005.44          4,652.00
+METROLOGIC INSTRUMENTS INC                 0.000 MTLG    591676101     19.2600         3,300.00         64,909.57         63,558.00

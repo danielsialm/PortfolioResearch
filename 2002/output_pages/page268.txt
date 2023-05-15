@@ -1,0 +1,37 @@
+ASOF11   Date 01/21/2003 Time 18:53:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 018
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-LAZAR   EAFE TRANSITION ACCO
+Instrument - CTRY      COUNTRY FUNDS - CLOSED END
+
+ISRAEL FUND                                  0.000     0457242      ISR_L       571,389.00                0.00
+
+Instrument Total               1                                                571,389.00                0.00
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+BETEILIGUNGSVERWAL                           0.000     94D0744      94D07           753.00                0.00
+BRASIL TELECOM SA                          550.752     2880374      BRT03       497,408.00                0.00
+CIA VALE DO RIO DO                           0.000     9993145      VALE_        83,300.00                0.00
+GARTMORE LATIN AME                           0.000     4882367      48823       178,000.00                0.00
+INTERNATIONAL THEATRES LTD                   0.000     2533827      25338        32,500.00                0.00
+ROYALE BELGE NPV V                           0.000     5047488      RBVBS           531.00                0.00
+SALOMON SMITH TPC WRT                        0.000     7154739      SSB21     2,099,000.00        1,855,669.00
+TELECOM ASIA RTS                             0.000     94F1516      94F15       535,516.00                0.00
+TI AUTOMOTIVE LTD                            0.000     3067529      6525Z       375,200.00                0.00
+YAGEO CORPORATION GDR                        3.333     6004374      YGEOF        16,208.99                0.00
+
+Instrument Total              10                                              3,818,416.99        1,855,669.00
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+LAZARD FRERES - LQR                          0.000     IL-LAZ                     1,483.12          148,312.44
+
+Instrument Total               1                                                  1,483.12          148,312.44
+
+Portfolio Total               12                                              4,391,289.12        2,003,981.44          1,314,463.39

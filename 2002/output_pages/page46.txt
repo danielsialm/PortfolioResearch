@@ -1,0 +1,19 @@
+ASOF02   Date 01/21/2003 Time 18:52:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 018
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - VAP       LARGE CAP VALUE PASS
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         8.006 EOP     294741103     24.9800        90,700.00      2,172,342.38      2,265,686.00
+EQUITY RESIDENTIAL PROP                    7.038 EQR     29476L107Q    24.5800        59,700.00      1,233,908.59      1,467,426.01
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700        41,300.00      1,485,670.72      1,407,091.00
+
+Instrument Total             3                                                       191,700.00      4,891,921.69      5,140,203.01
+
+Portfolio Total            352                                                    34,915,375.26  1,209,007,921.78    886,564,823.29
+

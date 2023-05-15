@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CERIDIAN CORP                                0.000     156779100   CEN            200,700        3,965,798.53        3,668,796.00
+CERNER CORP.                                 0.000     156782104   CERN            31,600          832,531.31        1,680,172.00
+CERTEGY INC                                  0.562     156880106   CEY            210,945        6,954,474.28        7,494,875.85
+CH ENERGY GROUP INC                          4.495     12541M102   CHG             21,900          919,471.07        1,052,295.00
+CHAMPION ENTERPRISES INC.                    0.000     158496109   CHB             56,500          456,361.82          667,830.00
+CHARLES RIVER ASSOCI                         0.000     159852102   CRAI            12,244          399,565.10          572,651.88
+CHARLES RIVER LABORATORIES                   0.000     159864107   CRL             80,304        2,869,804.48        3,694,787.05
+CHARLOTTE RUSSE HOLDING INC                  0.000     161048103   CHIC            30,100          435,146.88          304,010.00
+CHARMING SHOPPES                             0.000     161133103   CHRS           371,400        2,768,594.26        3,480,018.00
+CHARTER COMMUNICATIONS                       0.000     16117M107   CHTR         3,213,936       10,738,134.41        7,199,216.64
+CHARTERMAC                                   6.710     160908109   CHC             51,800        1,033,276.55        1,265,992.00
+CHATTEM INC                                  0.000     162456107   CHTT            18,567          530,961.66          614,567.70
+CHECKFREE CORP                               0.000     162813109   CKFR           148,200        4,009,925.34        5,643,456.00
+CHECKPOINT SYSTEMS INC.                      0.000     162825103   CKP             41,800          677,734.24          754,490.00
+CHEESECAKE FACTORY (THE)                     0.000     163072101   CAKE           223,559        5,324,915.80        7,258,960.73
+CHEMED CORP                                  0.715     16359R103   CHE             24,450        1,231,745.39        1,640,839.50
+CHEMICAL FINL CORP                           2.469     163731102   CHFC            26,600          864,700.07        1,141,672.00
+CHENIERE ENERGY INC                          0.000     16411R208   LNG             21,000          428,211.31        1,337,700.00
+CHEROKEE INC                                 5.668     16444H102   CHKE            15,800          374,327.20          557,424.00
+CHESAPEAKE CORP                              3.240     165159104   CSK             21,700          506,995.13          589,372.00
+CHESAPEAKE ENERGY CORP                       1.090     165167107   CHK            438,800        5,581,178.79        7,240,200.00
+CHESAPEAKE UTILITIES CORP                    4.194     165303108   CPK              2,700           57,781.27           72,090.00
+CHEVRONTEXACO CORP                           3.047     166764100 Q CVX          4,795,661      181,820,916.73      251,820,159.10
+CHICAGO BRIDGE & IRON COMPANY                0.300     167250109   CBI             41,372        1,191,684.11        1,654,880.00
+CHICAGO MERCANTILE EXCHANGE                  0.454     167760107   CME             42,500        5,968,295.96        9,719,750.00
+CHICO'S FAS INC                              0.000     168615102   CHS            148,800        4,569,543.31        6,774,864.00
+CHILDREN'S PLACE                             0.000     168905107   PLCE            56,229        1,154,126.42        2,082,159.87
+CHIQUITA BRANDS                              1.813     170032809 Q CQB             72,700        1,203,827.30        1,603,762.00
+CHIRON CORP                                  0.000     170040109   CHIR           124,700        4,086,340.01        4,156,251.00
+CHITTENDEN CORPORATION                       2.506     170228100   CHZ             86,624        2,012,542.54        2,488,707.52
+CHOICE HOTELS INTL INC                       1.551     169905106   CHH             73,385        3,692,424.06        4,256,330.00
+CHOICEPOINT INC.                             0.000     170388102   CPS            211,900        7,823,500.19        9,745,281.00
+CHORDIANT SOFTWARE I                         0.000     170404107   CHRD            79,600          278,373.02          181,488.00
+CHRISTOPHER & BANKS CORP                     0.867     171046105   CBK             41,750          880,498.34          770,287.50
+CHUBB CORP                                   2.028     171232101 Q CB             699,700       43,365,515.57       53,806,930.00
+CHURCH & DWIGHT INC                          0.713     171340102 Q CHD            302,650        8,599,193.47       10,175,093.00
+CHURCHILL DOWNS INC                          1.118     171484108   CHDN             8,500          332,186.24          379,950.00
+CIBER INC.                                   0.000     17163B102   CBR             71,049          798,493.45          684,912.36
+CIENA CORP.                                  0.000     171779101   CIEN            44,300          109,501.19          147,962.00
+CIGNA CORP.                                  0.122     125509109 Q CI             466,624       28,348,618.21       38,062,519.68

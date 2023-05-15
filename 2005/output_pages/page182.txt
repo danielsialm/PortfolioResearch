@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 149
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+STATE STREET CORP                          1.370 STT     857477103     55.4400         5,600.00        286,213.82        310,464.00
+STATION CASINOS INC                        1.474 STN     857689103     67.8000         2,200.00        116,190.49        149,160.00
+STERICYCLE INC                             0.000 SRCL    858912108     58.8800         6,700.00        397,552.36        394,496.00
+STRYKER CORP.                              0.247 SYK     863667101     44.4300        20,700.00        827,790.88        919,701.00
+SUNOCO, INC.                               1.020 SUN     86764P109Q    78.3800        17,900.00        870,288.10      1,403,002.00
+SUNTRUST BANKS INC.                        3.023 STI     867914103Q    72.7600        12,127.00        854,269.49        882,360.52
+SUPER VALU STORES INC.                     2.001 SVU     868536103Q    32.4800         6,400.00        171,850.92        207,872.00
+SYBASE INC.                                0.000 SY      871130100     21.8600        18,900.00        376,420.43        413,154.00
+SYMANTEC CORP                              0.000 SYMC    871503108     17.5000        20,763.00        398,360.07        363,352.50
+SYMBOL TECHNOLOGIES INC                    0.156 SBL     871508107     12.8200         4,900.00         63,964.84         62,818.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     20.0600        30,900.00        579,870.62        619,854.00
+SYNOVUS FINANCIAL CORP                     2.702 SNV     87161C105     27.0100         8,800.00        247,089.84        237,688.00
+SYSCO CORP.                                2.190 SYY     871829107Q    31.0500        36,400.00      1,204,241.01      1,130,220.00
+T ROWE PRICE GROUP INC.                    1.554 TROW    74144T108Q    72.0300         5,700.00        173,220.94        410,571.00
+TARGET CORP                                0.727 TGT     87612E106Q    54.9700         9,800.00        419,950.90        538,706.00
+TD BANKNORTH INC                           3.029 BNK     87235A101     29.0500         7,223.00        215,599.39        209,828.15
+TECHNE CORPORATION                         0.000 TECH    878377100     56.1500         4,700.00        261,896.77        263,905.00
+TECO ENERGY                                4.423 TE      872375100Q    17.1800        13,600.00        232,775.96        233,648.00
+TELEFLEX INC                               1.538 TFX     879369106Q    64.9800         3,400.00        212,721.49        220,932.00
+TELEWEST GLOBAL INC                        0.000 TLWT    87956T107     23.8200         3,600.00         81,465.12         85,752.00
+TEMPLE-INLAND INC.                         2.006 TIN     879868107Q    44.8500         7,900.00        270,390.46        354,315.00
+TENET HEALTHCARE CORP                      0.000 THC     88033G100      7.6600        24,400.00        268,516.02        186,904.00
+TERADYNE INC                               0.000 TER     880770102     14.5700         8,900.00        129,570.36        129,673.00
+TESORO CORP                                0.649 TSO     881609101     61.5500         1,500.00         86,682.60         92,325.00
+TEXAS INSTRS INC                           0.374 TXN     882508104Q    32.0700        17,300.00        542,791.79        554,811.00
+TEXTRON INC.                               1.818 TXT     883203101Q    76.9800         5,700.00        366,235.01        438,786.00
+THE HANOVER INSURANCE GROUP                0.598 THG     410867105     41.7700         2,100.00         84,217.98         87,717.00
+THE ST. JOE COMPANY                        0.952 JOE     790148100     67.2200        14,700.00      1,069,811.25        988,134.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     30.1300           600.00         13,438.71         18,078.00
+TIDEWATER INC                              1.349 TDW     886423102Q    44.4600         1,900.00         60,561.70         84,474.00
+TIMBERLAND CO CL-A                         0.000 TBL     887100105     32.5500        10,500.00        336,463.59        341,775.00
+TIME WARNER INC.                           1.146 TWX     887317105     17.4400        21,700.00        598,894.22        378,448.00
+TJX COS. INC.                              1.033 TJX     872540109Q    23.2300        11,500.00        225,515.41        267,145.00
+TOLL BROTHERS INC                          0.000 TOL     889478103     34.6400        18,500.00        808,168.37        640,840.00
+TORCHMARK CORP                             0.791 TMK     891027104Q    55.6000         8,100.00        365,949.10        450,360.00
+TRANSATLANTIC HOLDINGS INC                 0.714 TRH     893521104Q    67.2000         5,400.00        312,995.06        362,880.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     39.2300         8,800.00        431,603.58        345,224.00
+TRIBUNE CO                                 2.379 TRB     896047107Q    30.2600         5,800.00        227,918.89        175,508.00
+TRIMBLE NAVIGATION LTD                     0.000 TRMB    896239100     35.4900         5,100.00        154,292.51        180,999.00

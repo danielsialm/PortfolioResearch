@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 184
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+GREY WOLF INC                              0.000 GW      397888108      3.7400       324,500.00      1,183,020.78      1,213,630.00
+HAEMONETICS CORP/MASS                      0.000 HAE     405024100     23.8900        48,400.00        931,636.93      1,156,275.99
+HASBRO BRADLEY                             0.563 HAS     418056107Q    21.2800        75,300.00        884,984.89      1,602,384.00
+HELMERICH & PAYNE, INC                     1.145 HP      423452101Q    27.9300        41,500.00      1,111,753.66      1,159,095.00
+HEXCEL CORP                                0.000 HXL     428291108      7.4100        10,500.00         72,514.64         77,805.00
+HUGHES SUPPLY INC.                         0.806 HUG     444482103     49.6200        24,100.00        574,750.65      1,195,841.98
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     34.2800        32,100.00        892,305.45      1,100,388.01
+IDEX CORPORATION                           1.346 IEX     45167R104     41.5900        15,200.00        438,655.71        632,168.00
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     22.1600        75,100.00      1,389,887.60      1,664,216.08
+JLG INDUSTIRES, INC.                       0.131 JLG     466210101     15.2300        60,800.00        771,696.67        925,984.00
+JOURNAL REGISTER CO                        0.000 JRC     481138105     20.7000        67,200.00      1,175,724.91      1,391,040.00
+KBNT BANCORP INC                           0.000 KNBT    482921103     17.5800        33,160.00        546,448.94        582,952.80
+KEYSTONE AUTOMOTIVE                        0.000 KEYS    49338N109     25.3600        24,900.00        483,318.66        631,464.00
+KIRBY CORP.                                0.000 KEX     497266106     34.8800        49,300.00      1,337,329.13      1,719,584.00
+LIBBEY INC                                 1.404 LBY     529898108     28.4800         1,900.00         53,258.62         54,111.99
+MANOR CARE INC.                            1.446 HCR     564055101     34.5700        38,500.00        748,856.76      1,330,945.00
+MARCUS CORPORATION                         1.341 MCS     566330106     16.4000        25,000.00        396,011.66        410,000.00
+MARINEMAX INC                              0.000 HZO     567908108     19.4300        15,900.00        257,296.00        308,937.00
+MARKEL CORP                                0.000 MKL     570535104    253.5100         2,900.00        509,455.24        735,179.00
+MAVERICK TUBE CORP                         0.000 MVK     577914104     19.2500        26,100.00        453,677.62        502,425.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     24.9000        40,700.00        932,808.24      1,013,430.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     43.3600        49,400.00        919,404.84      2,141,984.00
+MINERALS TECHNOLOGIES INC                  0.168 MTX     603158106     59.2500        18,900.00        916,165.19      1,119,825.00
+MOLECULAR DEVICES CORP                     0.000 MDCC    60851C107     18.9900        40,300.00        668,175.29        765,297.00
+MOOG INC. CL A                             0.000 MOG.A   615394202     49.4000        25,750.00        705,154.54      1,272,050.00
+MUELLER INDUSTRIES INC.                    0.000 MLI     624756102     34.3600        45,800.00      1,475,959.11      1,573,688.00
+NAVIGATORS GROUP INC                       0.000 NAVG    638904102     30.8700        15,800.00        468,723.89        487,746.00
+NCI BUILDING SYS INC                       0.000 NCS     628852105     23.9000        23,700.00        577,767.00        566,430.00
+ODYSSEY HOLDINGS CORP                      0.554 ORH     67612W108     22.5500        94,100.00      1,640,775.90      2,121,954.99
+OFFSHORE LOGISTICS                         0.000 OLG     676255102     24.5200        14,900.00        289,526.05        365,348.00
+OM GROUP, INC.                             2.138 OMG     670872100Q    26.1900        65,300.00        923,774.55      1,710,207.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106     12.0200       128,000.00      1,297,013.91      1,538,560.00
+P A M TRANSN SVCS IN                       0.000 PTSI    693149106     21.3300        29,500.00        564,247.21        629,235.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     16.2600         5,900.00        101,982.44         95,934.00
+PATINA OIL & GAS CORP                      0.653 POG     703224105     48.9900        24,606.00        611,334.93      1,205,447.95
+PERRY ELLIS INTERNATIONAL                  0.000 PERY    288853104     25.7800        25,900.00        656,779.20        667,702.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     26.9700        27,900.00        803,752.68        752,462.98
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     48.8300        11,500.00        371,274.66        561,544.99
+PIER 1 IMPORTS INC/DEL                     1.463 PIR     720279108     21.8600       104,900.00      1,908,872.32      2,293,114.00

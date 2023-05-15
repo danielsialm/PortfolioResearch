@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 117
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+AMGEN INC                                  0.000 AMGN    031162100     64.1500         9,929.00        469,815.94        636,945.35
+AMSOUTH BANCORPORATION                     3.861 ASO     032165102     25.9000         8,700.00        207,971.00        225,330.00
+ANADARKO PETROLEUM CORP                    0.864 APC     032511107Q    64.8100         8,700.00        539,114.03        563,847.00
+ANALOG DEVICES                             0.650 ADI     032654105     36.9200         8,000.00        302,790.00        295,360.00
+ANHEUSER-BUSCH                             1.931 BUD     035229103Q    50.7300        17,500.00        688,807.87        887,775.00
+ANNALY MORTGAGE MANAGEMENT                10.193 NLY     035710409     19.6200        12,600.00        228,905.36        247,212.00
+AON CORP                                   2.514 AOC     037389103Q    23.8600        30,700.00        720,002.31        732,502.00
+APACHE CORP.                               0.632 APA     037411105     50.5700         7,510.00        201,468.82        379,780.70
+APOLLO GROUP INC                           0.000 APOL    037604105     80.7100         8,600.00        481,203.06        694,106.00
+APPLE COMPUTER INC.                        0.000 AAPL    037833100     64.4000         6,000.00        195,234.81        386,400.00
+APPLEBEES INT'L. INC.                      0.226 APPB    037899101     26.4500         1,900.00         41,403.56         50,255.00
+ARCHER DANIELS MIDLAND CO                  1.344 ADM     039483102Q    22.3100        33,000.00        546,996.69        736,230.00
+ARROW ELECTRONICS                          0.000 ARW     042735100     24.3000         8,800.00        203,394.08        213,840.00
+ASHLAND INC                                1.884 ASH     044204105Q    58.3800        15,500.00        776,111.82        904,890.00
+ASK JEEVES INC                             0.000 ASKJ    045174109     26.7500         2,700.00         72,157.50         72,225.00
+ASSOCIATED BANC-CORP.                      3.011 ASBC    045487105     33.2100         1,800.00         44,892.00         59,778.00
+ASTORIA FINANCIAL CORP.                    3.002 AF      046265104     39.9700         2,600.00         95,663.11        103,922.00
+AUTODESK INC.                              0.158 ADSK    052769106Q    37.9500        30,400.00        419,673.71      1,153,680.00
+AUTOLIV, INC                               2.070 ALV     052800109     48.3000        13,700.00        456,422.62        661,710.00
+AUTOMATIC DATA PROC.                       1.398 ADP     053015103Q    44.3500        17,000.00        699,711.68        753,950.00
+AVAYA INC                                  0.000 AV      053499109     17.2000        12,200.00        170,688.15        209,840.00
+AVERY DENNISON                             2.534 AVY     053611109Q    59.9700        12,800.00        779,961.48        767,616.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     61.7500         1,000.00         58,966.30         61,750.00
+AVON PRODUCTS                              1.447 AVP     054303102Q    38.7000        34,000.00      1,129,917.29      1,315,800.00
+BAKER HUGHES CORP                          1.078 BHI     057224107Q    42.6700        11,900.00        505,512.97        507,773.00
+BALL CORPORATION                           0.909 BLL     058498106Q    43.9800        17,600.00        609,586.98        774,048.00
+BANK OF AMERICA CORP.                      3.830 BAC     060505104Q    46.9900        61,330.00      1,859,026.73      2,881,896.70
+BANK OF HAWAII CORP                        2.601 BOH     062540109     50.7400         8,500.00        296,905.00        431,290.00
+BANK OF NEW YORK CO, INC                   2.393 BK      064057102Q    33.4200           600.00         18,847.58         20,052.00
+BANKNORTH GROUP INC.                       2.185 BNK     06646R107     36.6000         2,700.00         80,576.99         98,820.00
+BARD C. R. INC.                            0.750 BCR     067383109Q    63.9800        18,600.00        693,179.96      1,190,028.00
+BAUSCH & LOMB INC                          0.806 BOL     071707103Q    64.4600         8,100.00        488,262.50        522,126.00
+BAXTER INTL                                1.685 BAX     071813109Q    34.5400        12,200.00        381,507.92        421,388.00
+BB&T CORPORATION                           3.329 BBT     054937107     42.0500         5,400.00        181,940.63        227,070.00
+BEAR STEARNS COMPANIES INC                 0.977 BSC     073902108    102.3100         6,500.00        393,604.29        665,015.00
+BECKMAN COULTER INC.                       0.776 BEC     075811109     66.9900         3,200.00        175,478.19        214,368.00
+BECTON DICKINSON & COMPANY                 1.267 BDX     075887109Q    56.8000        17,200.00        870,145.84        976,960.00
+BELLSOUTH                                  3.886 BLS     079860102Q    27.7900        38,600.00      1,285,890.72      1,072,694.00
+BELO CORP                                  1.524 BLC     080555105Q    26.2400           300.00          7,186.33          7,872.00

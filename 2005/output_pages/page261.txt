@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 044
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MAYTAG COMPANY                               1.912     578592107 Q MYG             60,000          969,357.64        1,129,200.00
+MB FINL INC                                  1.694     55264U108   MBFI            23,250          678,420.30          823,050.00
+MBIA INC.                                    1.861     55262C100 Q MBI            636,500       33,879,933.00       38,291,840.00
+MBNA CORP                                    2.062     55262L100 Q KRB          1,563,666       27,382,242.56       42,453,531.90
+MBT FINANCIAL CORP                           4.197     578877102   MBTF            15,600          314,518.60          252,720.00
+McCORMICK & CO                               2.328     579780206 Q MKC             31,700        1,075,756.37          980,164.00
+MCAFEE INC                                   0.000     579064106   MFE          1,007,600       24,020,602.90       27,336,188.00
+MCCLATCHY CO                                 1.218     579489105   MNI              1,500          105,812.81           88,650.00
+MCCORMICK & SCHMICKS SEAFOOD RESTAURANT      0.000     579793100   MSSR            55,100          766,294.79        1,245,811.00
+MCDATA CORPORATION-A                         0.000     580031201   MCDTA          286,900        1,597,260.13        1,090,220.00
+MCDONALDS CORPORATION                        1.987     580135101 Q MCD          1,894,200       56,452,102.26       63,872,424.00
+MCF CORP                                     0.000     580395101   MEM            152,400          249,058.76          160,020.00
+MCG CAPITAL CORP                            11.514     58047P107   MCGC            52,800          877,558.41          770,352.00
+MCGRATH RENTCORP                             2.014     580589109   MGRC           221,800        5,759,124.32        6,166,040.00
+MCGRAW HILL INC                              1.278     580645109 Q MHP            596,700       21,417,403.85       30,807,621.00
+MCI INC                                      8.109     552691107   MCIP           395,800        8,897,235.84        7,809,134.00
+MCKESSON CORP                                0.465     58155Q103 Q MCK            125,800        5,160,380.54        6,490,022.00
+MDC HOLDINGS INC                             1.613     552676108   MDC             45,134        3,448,224.01        2,797,405.32
+MDU COMMUNICATIONS INC                       0.000     582828109   MDTV           224,500          556,760.00          330,015.00
+MDU RESOURCES GROUP                          2.321     552690109   MDU            248,200        7,960,149.13        8,126,068.00
+MEADWESTVACO                                 3.282     583334107   MWV            101,310        2,788,614.44        2,839,719.30
+MEASUREMENT SPECIALITIES INC                 0.000     583421102   MEAS           187,200        4,107,256.95        4,558,320.00
+MEDAREX INC                                  0.000     583916101   MEDX            85,000          650,786.28        1,177,250.00
+MEDCATH CORPORATION                          0.000     58404W109   MDTH             7,700          146,246.08          142,835.00
+MEDCO HEALTH SOLUTIONS INC                   0.000     58405U102   MHS            612,021       25,225,298.95       34,150,771.80
+MEDIA GENERAL INC - CL A                     1.656     584404107   MEG             29,829        1,870,617.46        1,512,330.30
+MEDIACOM COMMUNICATIONS CORP                 0.000     58446K105   MCCC           965,300        6,595,568.92        5,299,497.00
+MEDICAL ACTION INDUSTRIES INC                0.000     58449L100   MDCI            12,535          228,982.99          256,215.40
+MEDICINES COMPANY                            0.000     584688105   MDCO            30,500          732,342.41          532,225.00
+MEDICIS PHARMACEUTICAL CORP                  0.374     584690309   MRX             57,400        1,688,313.27        1,839,670.00
+MEDIMMUNE INC                                0.000     584699102   MEDI           821,000       26,452,759.84       28,751,420.00
+MEDTRONIC INC                                0.668     585055106 Q MDT          2,042,000       67,329,200.84      117,557,940.00
+MEMC ELECTR MATLS IN                         0.000     552715104   WFR             17,800          326,135.08          394,626.00
+MENTOR CORP/MINN                             1.562     587188103   MNT             40,200          883,213.54        1,852,416.00
+MENTOR GRAPHICS CORP.                        0.000     587200106   MENT            29,264          281,799.36          302,589.76
+MERCANTILE BANC.                             2.693     587405101 Q MRBK             6,600          315,312.49          372,504.00
+MERCANTILE BANK CORP                         1.246     587376104   MBWM            16,715          551,412.32          643,527.50
+MERCK & CO INC                               4.778     589331107 Q MRK          5,254,011      217,037,716.79      167,130,089.91
+MERCURY COMPUTER SYSTEMS INC                 0.000     589378108   MRCY            22,200          751,970.93          457,986.00
+MERCURY GENERAL CORP.                        2.954     589400100   MCY             15,945          879,609.35          928,317.90

@@ -1,0 +1,20 @@
+ASOF02   Date 01/21/2003 Time 18:53:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 130
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - 600 G
+Instrument - COM       COMMON STOCK
+
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     29.2000         6,900.00        186,032.49        201,480.00
+WINTRUST FINANCIAL CORP                    0.383 WTFC    97650W108     31.3200         5,050.00        161,210.24        158,166.00
+YELLOW CORP                                0.000 YELL    985509108     25.1910         8,939.00        193,574.36        225,182.35
+ZORAN CORP                                 0.000 ZRAN    98975F101     14.0700        11,600.00        230,003.39        163,212.00
+
+Instrument Total           121                                                     1,727,613.74     22,260,833.43     25,301,659.11
+
+Portfolio Total            121                                                     1,727,613.74     22,260,833.43     25,301,659.11
+

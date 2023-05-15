@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - COM       COMMON STOCK
+
+AU OPTRONICS CORP - ADR                      1.572     2877149      AUO               1.00                8.46
+BANCO SANTANDER ADR                          3.273     2136646      SAN           9,000.00          198,600.27
+BBVA BANCO FRANCES ADR                       0.000     2072029      BFR          15,000.00          107,524.91
+CHECK POINT SOFTWARE TECH                    0.000     M22465104    CHKP         70,000.00        2,681,076.74
+CIA SIDERURGICA NACIONAL ADR                14.079     2220936      SID          56,000.00          178,544.98
+CIA TELECOM CHILE-ADR                        7.397     2213635      CTC          78,000.00          892,529.04
+CIA VALE DO RIO DOCE - ADR                   0.201     2857334      RIO          36,000.00          296,483.21
+COMPANHIA BRASILEIRE ADR                     1.042     2228532      CBD          55,000.00          895,949.83
+COMPANHIA DE BEBIDAS ADR                     0.270     2634797      ABV          75,000.00        1,145,650.20
+COPEL ADR                                    1.328     2209656      ELP         180,000.00          846,615.65
+EMPRESAS NACIONAL ADR                        0.454     2311131      EOC          53,000.00          520,076.32
+LUKOIL HLDGS SPND-ADR                        1.369     2537432      LUKOY        60,000.00          859,045.98
+MOBILE TELESYSTEMS ADR                       2.468     2603225      MBT          50,000.00        1,553,455.46
+ORBOTECH LTD                                 0.000     2661784      ORBK          4,000.00           43,000.00
+PETROLEO BRASILEIRO ADR                      0.336     2616580      PBR          60,000.00        1,569,666.49
+PETROLEO BRASILEIRO S.A.-ADR                 0.372     2683410      PBR.A       120,000.00        2,787,615.47
+TELE NORTE LESTE PART ADR                    5.803     2297930      TNE          85,000.00          941,521.08
+TELECENTRO OESTE CELULAR ADR                 2.869     2298018      TRO          57,886.00          429,059.43
+TELECOM ARGENTINA SA-SP ADR                  8.378     2878829      TEO          30,000.00          236,532.90
+TELEMIG CELULAR - ADR                        2.438     2297996      TMB          32,000.00          629,354.14
+UNIBANCO - SPONSORED ADR                     1.444     2000815      UBB          80,000.00        1,307,265.59
+URALSVYAZINFORM ADR                         41.322     5779145      URSI_    24,700,000.00          848,294.23
+VALE R DOCE-ADR                              0.229     2933900      RIO-P       195,000.00        2,333,299.53
+VIMPEL COMMUNICATIONS ADR                    0.000     2943675      VIP          28,000.00          583,757.96
+VOTORANTIM CELULOSE - ADR                    3.718     2696560      VCP          87,500.00          551,556.90
+
+Instrument Total              25                                             26,216,387.00       22,436,484.77
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+ACER INCORPORATED                            0.080     6005850      73834     1,600,295.00        2,069,918.70
+ADVANCED INFO SERVICE                        0.126     6412591      64125       386,000.00          461,178.21
+AGORA SA                                     0.222     5618312      AGO_P        12,000.00          154,616.59
+AKBANK T.A.S. B                              1.404     B03MN70      AKBNK       280,000.00          451,263.07
+AKF SISTEMA REG S SPONS GDR                  0.053     B05N809      SSA_L        30,200.00          649,076.50
+AKSIGORTA                                    2.015     B03MND6      AKGRT       136,000.00          245,614.47
+ALFA SA DE CV SER'                           0.142     2043423      ALFAA        60,000.00          125,618.18
+AMERICA MOVIL SA                             0.042     2667470      AMXL_     3,600,000.00          668,399.37
+ANGLO AMERICAN ORD                           0.058     6152972      AGL_S        40,000.00          604,033.32

@@ -1,0 +1,47 @@
+ASOF09   Date 01/19/2006 Time 18:25:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+IBM CORP                       A1    3.515 45920QEU4        Q                35,000,000.00       35,003,277.88
+JOHN HANCOCK GLOB FDG II       AA3   1.523 41011WAP5        Q                30,000,000.00       30,033,096.43
+KEY BANK NA                    A1    3.080 49306BNX7        Q                40,000,000.00       40,000,000.00
+LEHMAN BROTHERS HOLDINGS       A1    3.167 52517PZQ7        M                 3,000,000.00        3,001,170.93
+MBIA GLOBAL FUNDING LLC        AAA   1.567 55266LBQ8        Q                40,000,000.00       40,000,000.00
+MBNA CREDIT CARD MASTER NOTE T AAA   1.113 55264TBR1        M                75,000,000.00       75,007,077.15
+MBNA MASTER CREDIT CARD TRUST  AAA   1.175 55262TFY4        M                12,000,000.00       12,020,668.24
+MERRILL LYNCH & CO             AA3   2.007 59018YRY9        Q                35,000,000.00       35,032,844.66
+MET LIFE GLOB FUNDING I        AA2   1.092 59217EAH7        Q                40,000,000.00       40,000,000.00
+MONUMENTAL GLOBAL FDG II       AA3   2.998 61532NAC2        Q                15,000,000.00       15,000,000.00
+MONUMENTAL GLOBAL FDG II             4.161 615322AZ7        Q                25,000,000.00       25,006,467.08
+MORGAN STANLEY                 AA3   2.305 61746SAZ2        Q                35,000,000.00       35,000,000.00
+NATL CITY BK CLEVELAND         AA3   3.387 63534XDU1        Q                40,000,000.00       40,000,000.00
+PACCAR FINANCIAL CORP          A1    3.911 69371RWT9        Q                40,000,000.00       39,980,439.28
+PNC BANK NA                    A1    1.837 69347KHN5        M                40,000,000.00       39,994,564.60
+ROYAL BK OF SCOTLAND PLC       AA1   2.352 78010JAA0        Q                40,000,000.00       40,001,368.28
+SLM CORP                       A2    3.782 78442FAW8        Q                27,995,000.00       28,076,392.00
+STATE STREET BANK & TR         AA2   2.425 8574P0RR1        Q                40,000,000.00       39,992,424.35
+SUNTRUST BANK                        4.409 86787AQD0        M                40,000,000.00       39,987,680.94
+TOYOTA MOTOR CREDIT            AAA   3.002 89233PTA4        Q                40,000,000.00       39,979,829.59
+US BANK NA                     AA1   3.410 90331HKH5        Q                38,000,000.00       38,028,400.93
+VODAFONE GROUP PLC                   4.594 92857WAJ9        Q                40,000,000.00       40,000,000.00
+WACHOVIA BANK NA               AA2   4.060 92976EFJ0        Q                40,000,000.00       40,000,000.00
+WAL-MART STORES                AA2   1.877 931142BW2        Q                40,000,000.00       39,990,812.42
+WELLS FARGO & COMPANY          AA1   1.539 949746FH9        Q                40,000,000.00       40,025,811.47
+WORLD SAVINGS BANK FSB         AA3   3.405 98153BAF1        Q                32,000,000.00       32,009,687.74
+
+Instrument Total              52                                          1,648,840,000.00    1,649,328,421.32
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP - LIQUIDITY RESERV       0.000 IL-EQS                                13,660.87        1,366,087.08
+
+Instrument Total               1                                                 13,660.87        1,366,087.08
+
+Portfolio Total               56                                          1,702,353,660.87    1,704,124,268.81      1,871,576,642.36

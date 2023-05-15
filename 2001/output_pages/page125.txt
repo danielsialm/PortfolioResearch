@@ -1,50 +1,50 @@
-ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 096
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 098
 
 Monthly Market Portfolio
 
 Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - COMMON STOCK
-Portfolio  - TEC       TECHNOLOGY
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - VA
 Instrument - COM       COMMON STOCK
 
-PROXIM INC                                 0.000 PROX    744284100      9.9200           800.00         19,040.88          7,936.00
-QLOGIC CORPORATION                         0.000 QLGC    747277101     44.5100         2,400.00        135,439.13        106,824.00
-QRS CORPORATION                            0.000 QRSI    74726X105     14.1000           300.00          3,774.75          4,230.00
-QUALCOMM INC                               0.000 QCOM    747525103     50.5000        19,900.00      1,267,938.73      1,004,950.00
-QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      9.8500         4,000.00         52,505.00         39,400.00
-RADIANT SYSTEMS INC                        0.000 RADS    75025N102     11.5000           800.00         13,280.75          9,200.00
-RADISYS CORPORATION                        0.000 RSYS    750459109     19.6600           500.00         11,347.50          9,830.00
-RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.4000           700.00          7,175.75          5,180.00
-RATIONAL SOFTWARE CORPORATION              0.000 RATL    75409P202     19.5000         5,300.00        188,138.00        103,350.00
-READ-RITE CORP                             0.000 RDRT    755246105      6.6100         3,100.00         19,516.30         20,491.00
-RETEK INC                                  0.000 RETK    76128Q109     29.8700         1,100.00         21,290.54         32,857.00
-REYNOLDS & REYNOLDS CL-A                   1.814 REY     761695105     24.2500         1,900.00         41,787.32         46,075.00
-RF MICRO-DEVICES                           0.000 RFMD    749941100     19.2300         4,400.00         99,048.33         84,611.99
-ROGERS CORP.                               0.000 ROG     775133101     30.3000           300.00         11,282.00          9,090.00
-ROPER INDUSTRIES INC                       0.666 ROP     776696106     49.5000           900.00         32,589.00         44,550.00
-ROXIO INC                                  0.000 ROXI    780008108     16.5500           329.00          5,455.44          5,444.95
-RSA SECURITY INC.                          0.000 RSAS    749719100     17.4600         1,500.00         47,157.25         26,190.00
-RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     34.3200           400.00         14,924.00         13,728.00
-SANDISK CORP                               0.000 SNDK    80004C101     14.4000         1,800.00         44,202.28         25,920.00
-SANMINA-SCI CORP                           0.000 SANM    800907107     19.9000        13,332.00        317,810.42        265,306.80
-SAPIENT CORP                               0.000 SAPE    803062108      7.7200         3,100.00         18,881.48         23,932.00
-SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.5700           300.00          5,970.00          4,371.00
-SCIENTIFIC ATLANTA INC.                    0.167 SFA     808655104Q    23.9400         4,300.00        176,846.94        102,942.00
-SCM MICROSYSTEMS INC                       0.000 SCMM    784018103     14.6400           300.00          8,131.00          4,392.00
-SEMTECH CORPORATION                        0.000 SMTC    816850101     35.6900         1,800.00         50,956.19         64,242.00
-SIEBEL SYSTEMS INC.                        0.000 SEBL    826170102     27.9800        11,900.00        627,251.16        332,962.00
-SOLECTRON CORP                             0.000 SLR     834182107     11.2800        21,100.00        543,194.50        238,008.00
-SPSS INC.                                  0.000 SPSS    78462K102     17.7500           400.00          7,896.83          7,100.00
-STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     15.5200           300.00          5,593.50          4,656.00
-STARTEK INC                                0.000 SRT     85569C107     18.9500           300.00          4,751.00          5,685.00
-STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700         2,800.00         34,975.00         57,876.00
-STRATOS LIGHTWAVE INC.                     0.000 STLW    863100103      6.1500         1,358.00          7,393.00          8,351.70
-SUN MICROSYSTEMS INC.                      0.000 SUNW    866810104     12.3000        85,300.00      2,730,135.70      1,049,190.00
-SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300         7,000.00        174,859.00        202,510.00
-SUPERTEX INC                               0.000 SUPX    868532102     17.5100           300.00          5,256.00          5,253.00
-SYBASE INC.                                0.000 SY      871130100     15.7600         2,650.00         48,549.50         41,764.00
-SYKES ENTERPRISES                          0.000 SYKE    871237103      9.3400         1,000.00          5,680.18          9,340.00
-SYMANTEC CORP                              0.000 SYMC    871503108     66.3300         2,000.00         83,457.50        132,660.00
-SYMBOL TECHNOLOGIES INC                    0.125 SBL     871508107     15.8800         6,700.00        118,302.60        106,396.00
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     26.5300        12,700.00        295,540.85        336,931.00
+ADVANCE PCS                                0.000 ADVP    00790K109     29.3500         5,500.00        142,158.11        161,425.00
+AGCO CORP.                                 0.000 AG      001084102     15.7800        72,800.00        757,196.60      1,148,784.00
+ALLEN TELECOM INC.                         0.000 ALN     018091108      8.5000       124,400.00      1,816,432.68      1,057,400.00
+ALPHARMA, INC.-CL A                        0.680 ALO     020813101Q    26.4500        32,500.00        769,011.17        859,625.00
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      9.7600        99,600.00        817,807.00        972,096.00
+ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P108      4.0500        55,700.00        208,240.27        225,585.00
+BAUSCH & LOMB INC                          2.761 BOL     071707103Q    37.6600        25,500.00        990,250.74        960,330.00
+BJ SERVICES CO                             0.000 BJS     055482103     32.4500        31,600.00        741,934.36      1,025,419.99
+CALGON CARBON CORP.                        2.395 CCC     129603106Q     8.3500        99,600.00        676,842.49        831,660.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     26.6900        15,800.00        363,099.24        421,702.00
+CNH GLOBAL N.V.                            9.031 CNH     N20935107      6.0900        85,500.00        548,682.60        520,695.00
+COMDISCO INC                               0.000 CDO     200336105      0.5200       163,000.00        670,598.54         84,760.00
+CONSTELLATION ENERGY GROUP INC             1.807 CEG     210371100Q    26.5500        37,800.00        901,282.04      1,003,590.00
+COORSTEK                                   0.000 CRTK    217020106     31.8400        39,800.00      1,144,822.33      1,267,232.00
+CYTEC INDUSTRIES                           0.000 CYT     232820100Q    27.0000        49,300.00      1,596,745.48      1,331,100.00
+DATASCOPE CORP                             0.589 DSCP    238113104     33.9200         6,900.00        225,657.69        234,048.00
+DIGEX INC                                  0.000 DIGX    253756100      2.9900       244,700.00        436,944.95        731,653.00
+E.PIPHANY INC                              0.000 EPNY    26881V100      8.7100        74,200.00        454,391.43        646,282.00
+EFUNDS CORP                                0.000 EFDS    28224R101     13.7500        29,400.00        429,021.93        404,250.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     28.2000        24,800.00        341,041.81        699,360.00
+FERRO CORP                                 2.248 FOE     315405100Q    25.8000         7,900.00        164,325.53        203,820.00
+FINOVA GROUP INC.                          0.000 FNV     317928109      0.6100       104,500.00        378,614.74         63,745.00
+FIRST AMERICAN CORP.                       1.494 FAF     318522307     18.7400        86,900.00      1,637,879.41      1,628,506.00
+FOOTSTAR INC                               0.000 FTS     344912100     31.3000        44,500.00      1,673,398.60      1,392,850.00
+GATX CORP                                  3.813 GMT     361448103     32.5200        40,000.00      1,757,825.82      1,300,800.00
+GENENCOR INTERNATIONAL INC                 0.000 GCOR    368709101     15.9600        61,000.00        694,914.40        973,560.00
+GENUITY INC                                0.000 GENU    37248E103      1.5800       726,500.00      2,339,201.95      1,147,870.00
+GSI LUMONICS INC                           0.000 GSLI    36229U102      8.4700        18,100.00        193,242.48        153,307.00
+HARRIS CORP.                               0.655 HRS     413875105Q    30.5100        85,400.00      2,234,360.16      2,605,554.00
+HEALTH NET                                 0.000 HNT     42222G108     21.7800        66,500.00      1,400,318.25      1,448,370.00
+HEALTHSOUTH CORP                           0.000 HRC     421924101     14.8200       185,500.00      2,622,313.29      2,749,110.00
+HEXCEL CORP                                0.000 HXL     428291108      3.0800         5,500.00         55,330.00         16,940.00
+HOLLINGER INTERNATIONAL INC                4.700 HLR     435569108     11.7000        58,900.00        689,421.55        689,130.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     19.8600        38,600.00        583,323.54        766,596.00
+ICN PHARMACEUTICALS                        0.895 ICN     448924100Q    33.5000        40,000.00      1,206,308.00      1,340,000.00
+IMC GLOBAL INC.                            0.615 IGL     449669100Q    13.0000        53,300.00        716,591.11        692,900.00
+INKTOMI CORP                               0.000 INKT    457277101      6.7100        64,200.00        473,838.25        430,782.00
+KADANT INC                                 0.000 KAI     48282T104     14.5000         2,900.00         39,350.68         42,050.00

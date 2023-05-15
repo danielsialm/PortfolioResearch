@@ -1,0 +1,53 @@
+ASOF02   Date 01/19/2006 Time 18:24:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 154
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+HARBOR FLA BANCSHARE                       2.969 HARB    411901101     37.0500        19,350.00        702,402.47        716,917.49
+HOT TOPIC INC                              0.000 HOTT    441339108     14.2500        66,650.00      1,024,993.92        949,762.50
+HUTCHINSON TECH.                           0.000 HTCH    448407106     28.4500        35,625.00      1,108,062.12      1,013,531.25
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103     19.6100        33,625.00        680,389.45        659,386.25
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     13.1800       105,250.00      1,239,499.61      1,387,195.00
+INTERNATIONAL COAL GROUP INC               0.000 ICO     45928H106      9.5000       113,550.00      1,201,357.54      1,078,725.00
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     20.9500        39,300.00        951,697.98        823,335.00
+JARDEN CORP                                0.000 JAH     471109108     30.1500        27,850.00        759,385.94        839,677.50
+JEFFRIES GROUP INC                         1.333 JEF     472319102     44.9800        25,100.00        922,865.29      1,128,998.00
+KADANT INC                                 0.000 KAI     48282T104     18.5000        37,175.00        724,234.32        687,737.50
+KEY ENERGY SERVICES INC                    0.000 KEGS    492914106     13.4700        55,475.00        776,782.73        747,248.25
+LINCOLN ELEC HLDGS I                       1.916 LECO    533900106     39.6600        13,950.00        438,581.08        553,257.00
+MATTSON TECHNOLOGY INC                     0.000 MTSN    577223100     10.0600       111,675.00        981,380.84      1,123,450.50
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2900        67,875.00        800,157.65        834,183.75
+NORTHWEST NATURAL GAS CO.                  4.037 NWN     667655104     34.1800        23,225.00        761,515.90        793,830.50
+NORTHWESTERN CORP                          3.991 NWEC    668074305     31.0700        25,875.00        717,769.14        803,936.25
+OLIN CORP                                  4.065 OLN     680665205Q    19.6800        36,250.00        760,310.70        713,400.00
+OXFORD INDUSTRIES INC.                     1.096 OXM     691497309     54.7000        16,400.00        604,089.89        897,080.00
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      6.1000       175,575.00      1,074,993.88      1,071,007.50
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     88.5700        12,800.00        842,557.89      1,133,696.00
+PEROT SYSTEMS COPR. CL. A                  0.000 PER     714265105     14.1400        62,175.00        868,713.82        879,154.50
+PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100     13.6700        66,650.00        748,898.80        911,105.50
+PNM RESOURCES INC                          3.266 PNM     69349H107     24.4900        29,750.00        617,475.28        728,577.50
+PRIME MONEY MARKET - 6CH                   0.000 IT-CIP  IT-CIP         1.0000     1,749,790.76      1,749,790.86      1,749,790.74
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     10.3500        46,175.00        507,909.31        477,911.25
+RBC BEARINGS INC                           0.000 ROLL    75524B104     16.2500        48,975.00        757,288.25        795,843.75
+RC2 CORP                                   0.000 RCRC    749388104     35.5200        23,600.00        784,129.91        838,272.00
+REGIS CORP                                 0.414 RGS     758932107     38.5700        20,725.00        832,821.57        799,363.25
+REMINGTON OIL & GAS CORP                   0.000 REM     759594302     36.5000        24,125.00        888,004.25        880,562.50
+RLI CORP                                   1.363 RLI     749607107     49.8700        21,250.00        764,105.47      1,059,737.50
+ROGERS CORP.                               0.000 ROG     775133101     39.1800        23,350.00        913,373.79        914,853.00
+RSA SECURITY INC.                          0.000 RSAS    749719100     11.2300        75,000.00        903,131.11        842,250.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     68.1000        15,875.00        813,408.69      1,081,087.50
+SIGNATURE BANK                             0.000 SBNY    82669G104     28.0700        39,000.00      1,006,771.64      1,094,730.00
+STEEL DYNAMICS INC                         1.126 STLD    858119100     35.5100        16,250.00        530,069.13        577,037.50
+STERLING FINL CORP W                       0.880 STSA    859319105     24.9800        36,637.00        927,538.00        915,192.26
+UNITED BANKSHARES INC.                     3.064 UBSI    909907107     35.2400        26,875.00        867,311.76        947,075.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     33.0800        37,800.00        693,815.17      1,250,424.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     26.7200        28,550.00        673,256.73        762,856.00
+
+Instrument Total            78                                                     5,003,646.76     63,626,982.93     71,022,414.78
+

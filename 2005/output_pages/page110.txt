@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 077
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+SOUTHWEST GAS CORP                         3.106 SWX     844895102Q    26.4000        39,750.00        895,522.98      1,049,400.00
+SPARTAN STORES INC                         0.000 SPTN    846822104     10.4200        50,300.00        708,107.80        524,126.00
+SPARTECH CORP                              2.277 SEH     847220209     21.9500        11,400.00        281,978.57        250,230.00
+SPECIALTY LABORATORIES                     0.000 SP      84749R100     13.0500        29,400.00        369,679.12        383,670.00
+SPECTRALINK CORP                           3.369 SLNK    847580107     11.8700        20,200.00        246,518.57        239,774.00
+SPEEDWAY MOTORSPORTS                       0.923 TRK     847788106     34.6700        16,200.00        441,470.90        561,654.00
+SPHERION CORPORATION                       0.000 SFN     848420105     10.0100       109,000.00      1,062,232.20      1,091,090.00
+SPORTS AUTHORITY INC                       0.000 TSA     84917U109     31.1300        27,425.00        793,489.03        853,740.25
+SPSS INC.                                  0.000 SPSS    78462K102     30.9300        32,500.00        636,050.11      1,005,225.00
+SSA GLOBAL TECHNOLOGIES INC                0.000 SSAG    78465P108     18.1900        26,100.00        408,782.12        474,759.00
+ST MARY LAND & EXPLORATION                 0.271 SM      792228108     36.8100        70,400.00        867,043.94      2,591,424.00
+STAGE STORES INC                           0.083 STGS    85254C305     29.7800        29,000.00        582,859.93        863,620.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     28.6900         7,236.00        146,367.32        207,600.84
+STANDARD REGISTER CO                       5.819 SR      853887107     15.8100        18,000.00        275,145.83        284,580.00
+STANDEX INTERNATIONAL CORP                 3.025 SXI     854231107     27.7600        26,800.00        647,707.49        743,968.00
+STANLEY FURNITURE CO INC                   1.035 STLY    854305208     23.1800        26,900.00        560,578.63        623,542.00
+STARTEK INC                                8.000 SRT     85569C107     18.0000        11,800.00        442,588.26        212,400.00
+STATE AUTO FINL CORP                       0.987 STFC    855707105     36.4600        24,500.00        687,121.71        893,270.00
+STATE BANCORP INC N.                       3.584 STBC    855716106     16.7400         8,618.00        156,177.73        144,265.32
+STATE NATIONAL BANCSHARES INC              0.000 SNBI    857124101     26.7000         5,100.00        140,760.00        136,170.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     16.9500        29,300.00        477,011.24        496,635.00
+STEEL DYNAMICS INC                         1.126 STLD    858119100     35.5100        52,600.00      1,082,711.27      1,867,826.00
+STEEL TECHNOLOGIES INC                     1.071 STTX    858147101     27.9900        24,800.00        578,038.01        694,152.00
+STEIN MART INC.                            1.377 SMRT    858375108     18.1500        41,400.00        671,467.96        751,410.00
+STEINWAY MUSICAL INS                       0.000 LVB     858495104     25.5100         7,500.00        207,678.26        191,325.00
+STELLENT INC                               0.000 STEL    85856W105      9.9300        63,356.00        454,511.60        629,125.08
+STEPAN CO                                  2.975 SCL     858586100Q    26.8900         5,600.00        135,758.25        150,584.00
+STERIS CORP                                0.639 STE     859152100Q    25.0200        86,600.00      1,985,960.04      2,166,732.00
+STERLING BANCORP                           3.852 STL     859158107     19.7300        20,280.00        384,114.22        400,124.40
+STERLING BANCSHARES INC                    1.554 SBIB    858907108     15.4400        17,226.00        236,742.24        265,969.44
+STERLING FINL CORP                         2.828 SLFI    859317109     19.8000        26,906.00        451,344.32        532,738.80
+STERLING FINL CORP W                       0.880 STSA    859319105     24.9800        36,564.00        760,914.14        913,368.72
+STEWART & STEVENSON SERVICES               1.609 SVC     860342104Q    21.1300        42,600.00        752,779.25        900,138.00
+STEWART ENTERPRISES INC. CL-A              1.848 STEIE   860370105      5.4100       112,100.00        574,985.66        606,461.00
+STEWART INFO SVCS                          1.541 STC     860372101     48.6700        24,200.00        755,360.14      1,177,814.00
+STIFEL FINANCIAL CORP                      0.000 SF      860630102     37.5900        17,566.00        349,534.33        660,305.94
+STILLWATER MINING COMPANY                  0.000 SWC     86074Q102     11.5700        43,129.00        380,428.36        499,002.53
+STONE ENERGY CORP                          0.000 SGY     861642106     45.5300        31,400.00      1,295,172.80      1,429,642.00
+STRATAGENE CORP                            0.000 STGN    86269H107     10.0400        43,200.00        382,442.27        433,728.00

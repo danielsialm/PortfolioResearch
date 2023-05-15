@@ -1,0 +1,80 @@
+
+ADAMS CAPITAL MANAGEMENT III                 0.000     AVADAMS3    99404        5,500,000        5,500,000.00        3,928,346.01
+ADVANCED TECHOLOGY VII                       0.000     AVATV7      99405        2,500,000        2,500,000.00        1,991,266.00
+AIG GLOBAL EMERGING MARKETS                  0.000     VEA02504    AIGG        48,732,249       48,732,249.05       36,869,460.64
+ALPHA CAPITAL FUND II                        0.000     020997011   ACFD         2,098,870        2,098,870.56        1,430,213.01
+APOLLO INVESTMENT FUND IV                    0.000     AAPOLLOIV   99404       59,977,111       59,977,110.46       64,646,844.98
+APOLLO INVESTMENT FUND V                     0.000     ABAPOLLO5   99405       16,577,761       16,577,761.00       16,022,982.00
+ATHENIAN VENTURE PARTNERS                    0.000     VEA01458    OVVF           274,624          274,624.30        2,938,143.99
+BAIN CAPITAL FUND VII                        0.000     ABBAIN7     99404       26,932,499       26,932,498.99       23,848,720.09
+BAIN CAPITAL VENTURE FUND                    0.000     AVBAIN      99405        2,875,000        2,875,000.00        2,550,538.00
+BAKER COMMUNICATIONS FUND                    0.000     AVBAKERCOM  BAKER       14,764,064       14,764,064.31        6,327,977.49
+BAKER COMMUNICATIONS FUND II                 0.000     ABAKERCOM2  AVBAK       28,449,491       28,449,491.06        9,099,912.92
+BEACON GROUP ENERGY FUND II                  0.000     ABEACONGRP  99404       18,458,537       18,458,537.69        8,708,269.97
+BLACKSTONE CAPITAL PTNRS III                 0.000     VEA02554    BCPMB       32,988,819       32,988,818.00       34,336,883.98
+BLACKSTONE COMMUNICATION I                   0.000     ABBCOM1     99404        9,825,951        9,825,950.89        5,083,580.99
+BLUE CHIP CAPITAL FUND                       0.000     095334991   BCCF             1,000            1,000.00          766,083.00
+BLUE CHIP CAPITAL FUND II                    0.000     VEA01432    BCCII        2,473,770        2,473,770.70        5,807,173.01
+BLUE CHIP CAPITAL FUND III                   0.000     A01433      A0143       21,325,000       21,325,000.02       11,239,825.04
+BLUE CHIP CAPITAL FUND IV                    0.000     AVBLUECHIP  AVBLU       12,000,000       12,000,000.00        9,227,395.01
+BLUE CHIP OPPORTUNITY FUND                   0.000     095335998   BCOF         1,025,000        1,025,000.00          346,847.00
+BRANTLEY VENTURE PARTNERS II                 0.000     VEA05387    BVII             1,000            1,000.00          714,369.00
+BRANTLEY VENTURE PARTNERS III                0.000     VEA06289    BIII         6,558,889        6,558,889.04        9,149,274.09
+CARDINAL HEALTH PARTNERS                     0.000     VEA02552    CHPL         5,022,343        5,022,343.81        2,631,455.02
+CB HEALTHCARE FUND                           0.000     VEA02614    CBHCF       10,013,703       10,013,703.14        9,365,971.01
+CB HEALTHCARE FUND II                        0.000     AVCBHF2     99405        3,598,057        3,598,057.00        2,958,557.00
+CHP II                                       0.000     AVCHP2      99404       11,633,117       11,633,117.00        7,886,035.00
+CID MEZZANINE CAPITAL                        0.000     VEA02624    CIDME        7,056,464        7,056,464.15        6,325,881.00
+CLAYTON, DUBLILIER & RICE VI                 0.000     ACLAYDURI   CLDUR       30,289,406       30,289,406.00       22,829,856.01
+COMMONWEALTH CAPITAL III                     0.000     AVCCV3      99404        6,890,000        6,889,999.76        4,574,155.99
+FOUNDATION MEDICAL PARTNERS                  0.000     AVFNDMED    99405        5,700,000        5,700,000.00        4,961,053.01
+FOX PAINE CAPITAL FUND                       0.000     AFOXPAINE   FOXPA       29,999,999       29,999,999.00       23,775,181.00
+FOX PAINE CAPITAL FUND II                    0.000     ABFOXPAINE  99404       12,150,143       12,150,143.00        9,150,859.01
+FRANCISCO PARTNERS                           0.000     ABFRISCO1   99404       25,620,239       25,620,239.00       20,160,988.98
+FS EQUITY PARTNERS IV                        0.000     VEA02586    FSEP4       44,844,680       44,844,679.17       65,559,683.99
+GENERAL CATALYST GROUP II                    0.000     AVGCG2      99405        2,000,000        2,000,000.00        1,671,510.00
+GILBERT GLOBAL EQUITY PARTNERS L.P.          0.000     AGILBERTG   GILBE       47,734,764       47,734,764.33       20,015,901.01
+HARBOURVEST INT'L III-DIRECT                 0.000     VEA02633    HVIPE       17,195,309       17,195,308.94       10,914,357.03
+HARBOURVEST INT'L III-PARTNERSHIP            0.000     AHARBPART   99404       39,798,635       39,798,634.55       32,991,417.98
+HARBOURVEST INT'L IV-DIRECT                  0.000     AGHIPEP4D   99405        4,800,000        4,800,000.00        4,055,038.01
+HARBOURVEST INT'L IV-PARTNERSHIP             0.000     AGHIPEP4P   99405       12,000,000       12,000,000.00        8,622,557.00
+HARBOURVEST PARTNERS VI DIRECT FUND L.P.     0.000     AHARBOURDI  99404       19,000,000       19,000,000.00       12,083,141.99
+
+
+HARBOURVEST PARTNERS VI PARTNERSHIP FUND     0.000     AHARBOURPA  99404       28,588,621       28,588,620.81       18,719,271.01
+HEARTLAND INDUSTRIAL PARTNERS                0.000     ABHEART     99404       23,404,548       23,404,547.94       23,268,449.99
+LEHMAN BROTHERS II                           0.000     VEA02551    LBBP        56,236,705       56,236,705.24       42,379,389.85
+LIME ROCK PARTNERS II                        0.000     AOLIMEROCK  99406          354,533          354,533.00          354,533.00
+LINSALATA CAPITAL PARTNERS III               0.000     ALINCAP     99404       19,238,808       19,238,808.61       19,489,306.99
+LINSALATA CAPITAL PARTNERS IV                0.000     ABLINCAP4   ABLIN       13,726,695       13,726,695.00       12,456,628.01
+MERITAGE PRIVATE EQUITY I                    0.000     AMERIT      AMERI       21,250,000       21,250,000.00        9,132,999.98
+MERITAGE PRIVATE EQUITY II                   0.000     AVMERIT2    AVMER        5,000,000        5,000,000.00        4,156,111.00
+MIAMI VALLEY VENTURE FUND                    0.000     VEA01492    MVVF         2,978,407        2,978,407.78        2,959,133.99
+MORGENTHALER PARTNERS IV                     0.000     VEA01176    MGVP               999              999.99          458,628.99
+MORGENTHALER PARTNERS V                      0.000     VEA01177    MGVPV        9,098,512        9,098,512.08        6,632,793.96
+MORGENTHALER PARTNERS VI                     0.000     AVMORG6     MGVPV       16,250,000       16,250,000.00       10,133,417.97
+MORGENTHALER PARTNERS VII                    0.000     AVMORG7     99405        8,000,000        8,000,000.00        7,082,536.00
+NEW ENTERPRISE ASSOCIATES 10                 0.000     AVNEA10     AVNEA        7,951,805        7,951,805.62        6,744,109.00
+NORTHCOAST FUND                              0.000     VEA06027    NCFD         2,500,000        2,500,000.00        1,322,830.00
+NORTHCOAST FUND II                           0.000     AVCNC       99404        6,000,000        6,000,000.00        5,618,554.00
+NW OHIO VENTURE FUND                         0.000     VEA05606    NOVF         1,994,950        1,994,950.00          278,530.00
+OAK HILL CAPITAL PARTNERS                    0.000     AOAKHILL    99404       31,690,249       31,690,249.62       28,068,825.28
+OHIO INNOVATION FUND I                       0.000     VEA02581    OIF1         1,600,000        1,600,000.00        2,014,545.04
+PRIMUS CAPITAL FUND II                       0.000     VEA04712    PCFX               800              800.00          241,754.22
+PRIMUS CAPITAL FUND III-A PFD                0.000     VEA06130    PCFZ             1,000              999.99          849,330.47
+PRIMUS CAPITAL FUND III-B                    0.000     VEA06129    PCFY             1,000            1,000.00          970,293.66
+PRIMUS CAPITAL FUND IV                       0.000     VEA02451    PCF4        13,273,560       13,273,560.48       10,815,116.05
+PRIMUS CAPITAL FUND V                        0.000     AVPRIMUS5   99404       14,310,000       14,310,000.00        9,195,237.59
+PRISM VENTURE PARTNERS IV                    0.000     AVPRISM4    99406        5,300,000        5,300,000.00        4,263,218.00
+PROVIDENCE EQUITY PARTNERS IV                0.000     ABPROV4     99404       17,858,269       17,858,268.86       14,737,746.99
+SILVER LAKE PARTNERS                         0.000     ASILLAKE    ASILL        7,606,605        7,606,605.51        5,134,479.55
+SKM EQUITY FUND III                          0.000     ABSKM3      99404       14,589,931       14,589,930.43       11,775,256.99
+SPACEVEST II                                 0.000     VEASPVE     VEASP        8,139,114        8,139,113.62        5,595,073.02
+SUNRISE CAPITAL PARTNERS                     0.000     ASUNRISE    ASUNR       26,093,582       26,093,582.00       20,055,702.00
+TAPE III                                     0.000     AVTAPE3     AVTAP        3,500,000        3,500,000.00        2,630,969.00
+TUCKER ANTHONY PRIVATE EQUITY FUND IV        0.000     AVTAPE4     99406        2,550,000        2,550,000.00        2,203,936.00
+WARBURG PINCUS EQUITY PARTNERS               0.000     AWARBURG    99404       54,980,370       54,980,368.51       50,826,606.01
+WARBURG PINCUS VIII                          0.000     AWARBURG8   AWARB       11,910,250       11,910,249.92       11,678,030.00
+
+Instrument Total                     74                                     1,084,665,820    1,084,665,809.93      877,811,049.87
+

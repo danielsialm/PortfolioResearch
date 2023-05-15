@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ARVINMERITOR INC.                            1.788     043353101   ARM            157,025        3,167,640.18        3,512,649.25
+ASBURY AUTOMOTIVE GROUP                      0.000     043436104   ABG             12,600          197,659.93          173,628.00
+ASCENTIAL SOFTWARE CORP                      0.000     04362P207   ASCL           208,392        3,334,420.07        3,398,873.52
+ASHLAND INC                                  1.884     044204105 Q ASH            255,900       12,073,237.92       14,939,442.00
+ASIAINFO HLDGS INC                           0.000     04518A104   ASIA           150,300          911,404.52          895,788.00
+ASK JEEVES INC                               0.000     045174109   ASKJ            68,780        2,129,872.12        1,839,865.00
+ASM LITHOGRAPHY HOLD - NY REG                0.000     N07059111   ASML           483,600        7,536,689.63        7,694,076.00
+ASPECT COMMUNICATIONS CORP                   0.000     04523Q102   ASPT           115,000        1,160,104.99        1,281,100.00
+ASPECT MEDICAL SYSTEMS INC                   0.000     045235108   ASPM            13,600          141,198.02          332,656.00
+ASPEN TECHNOLOGY INC                         0.000     045327103   AZPNE           14,300           67,363.39           88,803.00
+ASSOCIATED BANC-CORP.                        3.011     045487105   ASBC           211,869        5,020,094.14        7,036,169.49
+ASSURANT INC                                 0.916     04621X108   AIZ             47,900        1,229,601.42        1,463,345.00
+ASSURED GUARANTY LTD                         0.610     G0585R106   AGO             46,120          799,320.94          907,180.40
+ASTA FUNDING INC                             0.521     046220109   ASFI            22,700          371,016.71          609,268.00
+ASTEC INDUSTRIES INC                         0.000     046224101   ASTE            43,230          665,703.41          743,988.30
+ASTORIA FINANCIAL CORP.                      3.002     046265104   AF             148,627        4,979,177.89        5,940,621.19
+ASV INC                                      0.000     001963107   ASVI            35,492        1,121,192.85        1,700,066.80
+ASYST TECHNOLOGIES INC                       0.000     04648X107   ASYT             7,800           75,691.47           39,702.00
+AT&T CORPORATION                             4.984     001957505 Q T            2,095,247       48,767,800.41       39,935,407.82
+ATARI INC                                    0.000     04651M105   ATAR            28,100           50,089.21           82,333.00
+ATHEROGENICS INC                             0.000     047439104   AGIX            93,500        1,917,664.00        2,202,860.00
+ATHEROS COMMUNICATIONS                       0.000     04743P108   ATHR            10,300          104,461.17          105,575.00
+ATLANTIC COAST FEDERAL CORP                  0.000     048425102   ACFC             6,400           93,027.93           88,128.00
+ATLAS AMERICA INC                            0.000     049167109   ATLS             2,600           53,467.32           92,950.00
+ATMEL CORP                                   0.000     049513104   ATML           844,900        4,096,742.57        3,312,008.00
+ATMI INC                                     0.000     00207R101   ATMI            23,700          524,523.32          533,961.00
+ATMOS ENERGY CORP.                           4.533     049560105   ATO             92,800        2,327,617.97        2,538,080.00
+ATWOOD OCEANICS                              0.000     050095108   ATW             52,900        1,817,781.16        2,756,090.00
+AUDIOVOX CORP                                0.000     050757103   VOXX            31,300          450,532.75          493,914.00
+AUTOBYTEL INC                                0.000     05275N106   ABTLE           21,000          165,610.48          126,840.00
+AUTODESK INC.                                0.158     052769106 Q ADSK           960,800       15,031,392.89       36,462,360.01
+AUTOLIV, INC                                 2.070     052800109   ALV            500,393       19,371,952.92       24,168,981.90
+AUTOMATIC DATA PROC.                         1.398     053015103 Q ADP          1,027,300       38,455,917.99       45,560,755.00
+AUTONATION INC                               0.000     05329W102   AN             841,300       14,068,814.97       16,161,373.00
+AUTOZONE INC                                 0.000     053332102   AZO            117,500        8,890,053.77       10,728,925.00
+AVANT IMMUNOTHERAPEUTICS INC                 0.000     053491106   AVAN            82,600          152,668.58          166,026.00
+AVATAR HLDGS INC                             0.000     053494100   AVTR            10,071          400,414.92          484,415.10
+AVAYA INC                                    0.000     053499109   AV             989,400       11,191,361.85       17,017,680.00
+AVERY DENNISON                               2.534     053611109 Q AVY            191,700       10,844,666.61       11,496,249.00
+AVIALL INC.                                  0.174     05366B102 Q AVL             51,800          844,969.74        1,189,846.00

@@ -1,0 +1,20 @@
+ASOF02   Date 01/20/2004 Time 18:58:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCA       LARGE-CAP CORE ANALY
+Instrument - COM       COMMON STOCK
+
+WEYERHAEUSER CO.                           2.500 WY      962166104Q    64.0000       203,300.00     10,704,687.19     13,011,199.99
+WYETH                                      2.167 WYE     983024100Q    42.4500     1,124,800.00     42,672,773.53     47,747,760.01
+XILINX INC                                 0.000 XLNX    983919101     38.7400       141,400.00      4,545,004.25      5,477,836.00
+YAHOO INC                                  0.000 YHOO    984332106     45.1700        50,000.00      2,087,842.50      2,258,500.00
+
+Instrument Total           199                                                   150,239,542.70  4,455,412,106.35  5,679,828,458.19
+
+Portfolio Total            199                                                   150,239,542.70  4,455,412,106.35  5,679,828,458.19
+

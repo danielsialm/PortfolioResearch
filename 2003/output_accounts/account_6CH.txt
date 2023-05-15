@@ -1,0 +1,110 @@
+Instrument - COM       COMMON STOCK
+
+ALBANY INTL CL-A                           0.826 AIN     012348108Q    33.9000        26,600.00        750,778.40        901,740.00
+ALBEMARLE CORP                             1.935 ALB     012653101     29.9700        23,100.00        660,216.17        692,307.00
+ALLEGHENY TECHNOLOGIES INC                 1.815 ATI     01741R102     13.2200        53,200.00        480,456.55        703,304.00
+AMERICAN EAGLE OUTFITTERS                  0.000 AEOS    02553E106     16.4000        32,500.00        530,991.48        533,000.00
+AMERUS GROUP CO                            1.143 AMH     03072M108     34.9700        20,300.00        594,300.48        709,891.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     25.8800        22,900.00        523,291.73        592,652.00
+ARGONAUT GROUP INC                         0.000 AGII    040157109     15.5400        35,900.00        567,820.12        557,886.00
+ATWOOD OCEANICS                            0.000 ATW     050095108     31.9400        16,400.00        441,985.56        523,816.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     10.2200        62,600.00        517,990.21        639,772.00
+BANCORPSOUTH INC                           3.035 BXS     059692103     23.7200        28,300.00        609,050.52        671,276.00
+BANKATLANTIC BANCORP INC                   0.694 BBX     065908501     19.0000        31,300.00        404,983.26        594,699.98
+BROOKLINE BANCORP IN                       2.216 BRKL    11373M107     15.3400        41,600.00        603,660.67        638,144.00
+CASELLA WASTE SYS IN                       0.000 CWST    147448104     13.6900        54,500.00        504,945.08        746,105.00
+CHOICE HOTELS INTL INC                     2.269 CHH     169905106     35.2500        17,200.00        509,497.98        606,300.00
+CIBER INC.                                 0.000 CBR     17163B102      8.6600        67,200.00        596,788.44        581,952.00
+CLARK INC                                  7.484 CLK     181457102     19.2400        33,900.00        525,430.87        652,236.00
+COMMONWEALTH TELEPHONE ENTERPR             0.000 CTCO    203349105     37.7500        19,700.00        801,868.69        743,675.00
+CONSOL ENERGY INC.                         2.162 CNX     20854P109     25.9000        36,900.00        805,030.38        955,710.00
+COOPER TIRE & RUBBER                       1.964 CTB     216831107Q    21.3800        47,000.00        814,580.96      1,004,860.00
+COPART INC                                 0.000 CPRT    217204106     16.5000        51,400.00        551,640.47        848,099.99
+CORN PRODUCTS INT'L INC.                   1.393 CPO     219023108     34.4500        12,300.00        380,253.26        423,735.00
+COVENANT TRANSPORT INC CL-A                0.000 CVTI    22284P105     19.0100        34,400.00        678,167.60        653,944.00
+CSK AUTO CORP                              0.000 CAO     125965103     18.7700        26,900.00        389,751.37        504,913.00
+CULLEN/FROST BANKERS INC                   2.366 CFR     229899109     40.5700        20,300.00        668,719.90        823,571.00
+DIAGNOSTIC PRODUCTS CORP                   0.522 DP      252450101     45.9100         9,700.00        401,708.49        445,327.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     13.3500        32,400.00        402,762.11        432,540.01
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.0200        33,000.00        685,909.58        858,660.01
+ELKCORP                                    0.749 ELK     287456107     26.7000        24,400.00        555,697.98        651,480.00
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     13.9000        55,600.00        587,226.20        772,840.00
+FIRST MIDWEST BANCORP INC.                 2.715 FMBI    320867104     32.4100        26,200.00        768,321.74        849,142.00
+FOSSIL INC.                                0.000 FOSL    349882100     28.0100        25,550.00        656,052.92        715,655.50
+FRONTIER OIL CORP                          1.161 FTO     35914P105     17.2200        40,400.00        625,204.23        695,688.00
+FULLER H B CO                              1.513 FUL     359694106Q    29.7400        21,150.00        517,747.24        629,001.00
+FURNITURE BRANDS INTERNATIONAL             1.704 FBN     360921100     29.3300        31,550.00        802,583.24        925,361.50
+G & K SERV. CL-A                           0.190 GKSRA   361268105Q    36.7500        12,000.00        367,739.98        441,000.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    23.8700        36,500.00        771,651.29        871,255.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     31.7500        27,800.00        654,871.11        882,650.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102     13.5000        67,200.00        488,836.16        907,200.00
+GYMBOREE CORP                              0.000 GYMB    403777105     17.2300        42,600.00        692,252.98        733,998.00
+
+Instrument - COM       COMMON STOCK
+
+HELMERICH & PAYNE, INC                     1.145 HP      423452101Q    27.9300        18,600.00        530,234.60        519,498.01
+HERLEY INDS INC DEL                        0.000 HRLY    427398102     20.7000        35,500.00        639,316.11        734,849.99
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     30.1400        14,700.00        467,196.86        443,058.00
+INDEPENDENCE COMMUNITY BANK                2.224 ICBC    453414104     35.9700        17,400.00        506,937.35        625,878.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700        26,300.00        306,954.55        451,571.01
+IPC HOLDINGS LTD                           1.849 IPCR    G4933P101     38.9400        19,900.00        680,128.70        774,906.00
+KADANT INC                                 0.000 KAI     48282T104     21.6500        30,000.00        599,465.69        649,500.01
+KAYDON CORP                                1.857 KDN     486587108Q    25.8400        25,300.00        543,636.90        653,752.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106     10.3100        60,900.00        635,045.48        627,879.00
+LAWSON SOFTWARE                            0.000 LWSN    520780107      8.2300       107,500.00        786,648.36        884,725.00
+LENNOX INTERNATIONAL INC.                  2.275 LII     526107107     16.7000        39,900.00        558,425.16        666,330.00
+LINENS 'N THINGS INC.                      0.000 LIN     535679104     30.0800        25,900.00        648,662.54        779,072.01
+LOEWS CORP - CAROLINA GROUP                7.210 CG      540424207     25.2400        28,800.00        677,035.48        726,912.00
+MESA AIR GROUP INC                         0.000 MESA    590479101     12.5200        32,100.00        387,076.60        401,892.01
+METHODE ELECTRONICS CL-A                   1.635 METH    591520200     12.2300        41,300.00        486,910.42        505,099.00
+NN INC                                     2.541 NNBRE   629337106     12.5900        24,200.00        297,835.36        304,678.00
+NORDSON CORP                               1.795 NDSN    655663102     34.5300        11,500.00        340,934.33        397,095.00
+PACKAGING CORP OF AMERICA                  2.744 PKG     695156109     21.8600        39,900.00        733,603.32        872,214.00
+PARK ELECTROCHEMICAL CORP.                 0.906 PKE     700416209     26.4900        16,800.00        342,905.25        445,032.00
+PIEDMONT NATURAL GAS CO INC NO             3.819 PNY     720186105     43.4600        12,300.00        483,944.16        534,558.00
+PLATINUM UNDERWRITERS HOLDINGS             1.066 PTP     G7127P100     30.0000        25,600.00        716,832.83        768,000.00
+POLYONE CORPORATION                        3.912 POL     73179P106      6.3900       101,000.00        594,266.12        645,390.00
+PRIME MONEY MARKET - 6CH                   0.000 IT-CIP  IT-CIP         1.0000     1,835,525.50      1,835,525.46      1,835,525.49
+PUBLIC SERVICE CO OF N MEX                 3.274 PNM     69349H107     28.1000        25,500.00        689,570.23        716,550.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     17.7300        33,600.00        585,013.87        595,728.00
+REGAL BELOIT                               2.181 RBC     758750103     22.0000        26,300.00        516,056.85        578,600.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     41.2000        14,200.00        506,808.53        585,040.01
+RLI CORP                                   1.174 RLI     749607107     37.4600        21,100.00        737,584.39        790,406.00
+RUBY TUESDAY INC                           0.158 RI      781182100     28.4900        14,350.00        353,185.56        408,831.50
+SCOTTISH RE GROUP LTD                      0.962 SCT     G7885T104     20.7800        23,900.00        511,737.63        496,642.00
+SCS TRANSPORTATION INC                     0.000 SCST    81111T102     17.5800        26,300.00        353,048.20        462,354.00
+SELECTIVE INSURANCE GROUP                  2.101 SIGI    816300107     32.3600        22,200.00        569,609.61        718,392.02
+SMITH (A.O.) CORP                          1.711 AOS     831865209     35.0500         8,500.00        266,161.32        297,924.99
+SOUTHWEST BANCORP OF TEXAS                 0.514 SWBT    84476R109     38.8500        13,900.00        464,851.74        540,015.00
+STANCORP FINANCIAL GROUP                   1.113 SFG     852891100     62.8800        13,400.00        704,424.68        842,592.00
+STERIS CORP                                0.000 STE     859152100Q    22.6000        38,600.00        862,516.67        872,360.00
+STILLWATER MINING COMPANY                  0.000 SWC     86074Q102      9.5700        16,400.00        160,593.45        156,948.00
+TOLLGRADE COMMUNICATIONS INC               0.000 TLGD    889542106     17.5300        44,900.00        753,489.89        787,097.00
+TOM BROWN INC                              0.000 TBI     115660201     32.2500        25,200.00        682,174.56        812,700.00
+
+Instrument - COM       COMMON STOCK
+
+UNIFIRST CORP                              0.632 UNF     904708104Q    23.7100        19,400.00        442,108.02        459,974.00
+URS CORPORATION                            0.000 URS     903236107     25.0100        26,800.00        520,680.80        670,268.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     17.0000        17,700.00        295,638.14        300,900.00
+VECTREN CORPORATION                        4.624 VVC     92240G101     24.6500        24,300.00        599,545.14        598,995.00
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     20.6100        13,500.00        281,697.46        278,235.00
+WESTAMERICA BANCORPORATION                 2.092 WABC    957090103     49.7000        11,500.00        504,674.04        571,550.00
+WOLVERINE WORLD WIDE                       1.079 WWW     978097103     20.3800        19,400.00        380,800.52        395,372.00
+
+Instrument Total            85                                                     4,394,325.50     48,432,258.33     55,300,276.04
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ALEXANDRIA REAL ESTATE                     4.006 ARE     015271109     57.9000        10,100.00        462,227.49        584,790.00
+AMERICAN FINANCIAL REALTY TRUS             5.865 AFR     02607P305     17.0500        36,000.00        534,177.00        613,800.00
+CEDAR SHOPPING CENTERS INC                 0.000 CDR     150602209     12.4200        48,800.00        562,644.00        606,096.00
+HERSHA HOSPITALITY TRUST                   7.128 HT      427825104     10.1000        36,600.00        320,664.00        369,660.00
+HOME PROPERTIES OF NY INC.                 6.140 HME     437306103     40.3900        16,400.00        590,704.08        662,396.00
+PS BUSINESS PARKS INC/CA                   2.811 PSB     69360J107     41.2600        17,100.00        612,701.90        705,546.00
+SL GREEN RE CORP                           4.872 SLG     78440X101     41.0500        16,700.00        604,111.18        685,535.00
+
+Instrument Total             7                                                       181,700.00      3,687,229.65      4,227,823.00
+
+Portfolio Total             92                                                     4,576,025.50     52,119,487.98     59,528,099.04
+

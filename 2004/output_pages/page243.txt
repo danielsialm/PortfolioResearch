@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CORNELL COMPANIES IN                         0.000     219141108   CRN             14,800          181,317.57          224,664.00
+CORNING INC                                  0.000     219350105 Q GLW          2,253,000       32,883,031.11       26,517,810.00
+CORPORATE EXECUTIVE BOARD CO                 0.448     21988R102   EXBD           106,543        4,356,944.88        7,131,988.42
+CORRECTIONS CORP OF                          0.000     22025Y407   CXW             53,925        1,544,854.29        2,181,266.25
+CORUS BANKSHARES INC                         2.603     220873103   CORS            43,500        1,362,721.30        2,088,435.00
+CORVEL CORP                                  0.000     221006109   CRVL            33,139        1,085,975.78          887,462.42
+COST PLUS INC                                0.000     221485105   CPWM            42,700        1,487,839.47        1,371,951.00
+COSTAR GROUP INC                             0.000     22160N109   CSGP            36,270        1,499,781.78        1,674,948.60
+COSTCO WHOLESALE CORP.                       0.826     22160K105   COST           524,532       19,017,185.59       25,392,594.12
+COUNTRYWIDE FINANCIAL CORP                   1.296     222372104 Q CFC          1,178,779       20,124,925.42       43,626,610.83
+COURIER CORP                                 0.770     222660102   CRRC             7,150          256,212.27          371,228.00
+COVANCE INC                                  0.000     222816100   CVD            133,400        4,106,861.21        5,169,250.00
+COVANSYS CORP                                0.000     22281W103   CVNS            37,983          400,647.50          581,139.90
+COVENANT TRANSPORT INC CL-A                  0.000     22284P105   CVTI             9,700          163,814.13          201,954.00
+COVENTRY HEALTH CARE INC.                    0.000     222862104   CVH            347,352       14,819,323.46       18,437,444.16
+COX RADIO INC                                0.000     224051102   CXR             67,600        1,315,379.33        1,114,048.00
+CRANE CO                                     1.387     224399105 Q CR              83,900        2,297,230.81        2,419,676.00
+CRAY INC                                     0.000     225223106   CRAY            95,200          712,142.00          443,632.00
+CREDENCE SYSTEMS CORP                        0.000     225302108   CMOS           181,400        2,280,227.27        1,659,810.00
+CREDIT ACCEP CORP MI                         0.000     225310101   CACC            11,100          215,671.11          282,495.00
+CREE INC                                     0.000     225447101   CREE           150,665        3,300,522.39        6,038,653.20
+CROMPTON CORPORATION                         1.694     227116100 Q CK             127,300        1,029,787.09        1,502,140.00
+CROSS COUNTRY INC                            0.000     227483104   CCRN            38,400          587,346.24          694,272.00
+CROSSTEX ENERGY INC                          3.341     22765Y104   XTXI             2,600          111,574.57          108,940.00
+CROWN CASTLE INTL CO                         0.000     228227104   CCI            118,900        1,524,715.25        1,978,496.00
+CROWN CORK & SEAL INC.                       7.278     228368106   CCK            351,897        2,699,280.79        4,835,064.78
+CROWN MEDIA HLDGS IN                         0.000     228411104   CRWN           100,400          721,487.27          863,440.00
+CSG SYSTEMS INTL. INC.                       0.000     126349109   CSGS            68,400          999,676.90        1,279,080.00
+CSK AUTO CORP                                0.000     125965103   CAO             57,300          791,804.33          959,202.00
+CSS INDS INC                                 1.259     125906107   CSS             14,400          447,103.15          457,344.00
+CSX CORP.                                    0.998     126408103 Q CSX            348,200       12,254,527.38       13,955,856.00
+CT COMMUNICATIONS IN                         2.113     126426402   CTCI            42,885          559,781.09          527,485.50
+CTI MOLECULAR IMAGING INC                    0.000     22943D105   CTMI            84,600        1,146,212.23        1,200,474.00
+CTS CORP.                                    0.902     126501105   CTS             73,700          899,392.39          979,473.00
+CUBIC CORP                                   0.715     229669106   CUB             49,500        1,188,678.81        1,245,915.00
+CUBISTS PHARMACEUTICALS                      0.000     229678107   CBST            21,797          239,486.85          257,858.51
+CULLEN/FROST BANKERS INC                     2.181     229899109   CFR            150,250        5,945,760.58        7,302,150.00
+CUMMINS INC.                                 1.432     231021106 Q CMI             69,100        3,651,555.44        5,789,889.00
+CUMULUS MEDIA INC. CL. A                     0.000     231082108   CMLS            54,700          907,412.84          824,876.00
+CUNO INCORPORATED                            0.000     126583103   CUNO            18,800          607,927.66        1,116,720.00

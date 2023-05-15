@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 046
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+UNIVERSAL ELECTRONICS INC                    0.000     913483103   UEIC            30,000          276,348.51          292,200.00
+UNIVERSAL FOREST PRODUCTS                    0.422     913543104   UFPI            40,900          769,018.55          872,028.90
+UNIVERSAL HEALTH SERVICES CL B               0.000     913903100   UHS            140,200        5,831,024.34        6,323,020.00
+UNIVERSITY OF PHOENIX ONLINE                 0.000     037604204   UOPX            11,020          270,189.95          394,956.80
+UNIVISION COMMUNICATIONS                     0.000     914906102   UVN            704,492       21,129,959.81       17,260,054.00
+UNOCAL                                       2.616     915289102 Q UCL            461,469       13,445,625.87       14,111,722.02
+UNOVA INC.                                   0.000     91529B106   UNA            105,500          340,772.39          633,000.00
+UNUMPROVIDENT CORP.                          3.363     91529Y106 Q UNM            255,674        8,721,841.58        4,484,521.96
+URS CORPORATION                              0.000     903236107   URS             30,600          706,708.88          435,438.00
+US BANCORP                                   3.675     902973304   USB          4,301,219       90,738,495.27       91,271,867.18
+US CELLULAR CORP.                            0.000     911684108   USM             24,400          629,305.48          610,488.00
+US FREIGHTWAYS CORP                          1.287     916906100   USFC            59,200        1,714,036.53        1,702,000.00
+US ONCOLOGY INC.                             0.000     90338W103   USON           118,300        1,225,042.73        1,025,661.00
+USA INTERACTIVE                              0.000     902984103   USAI            37,400          762,122.24          857,208.00
+UST INC.                                     5.743     902911106 Q UST            279,810        8,565,182.63        9,354,048.30
+UTI WORLDWIDE INC                            0.304     G87210103   UTIW            42,190          979,672.22        1,107,487.50
+UTSTARCOM, INC                               0.000     2557139     UTSI            18,600          297,124.08          368,838.00
+V F CORP                                     2.773     918204108 Q VFC            137,758        4,542,433.17        4,966,175.90
+VALASSIS COMMUNICATIONS INC                  0.000     918866104   VCI             81,600        2,616,530.48        2,401,488.00
+VALERO ENERGY CORP.                          1.082     91913Y100 Q VLO            342,391        8,215,325.46       12,647,923.54
+VALMONT INDUSTRIES                           1.546     920253101   VMI             28,100          550,622.77          545,140.00
+VALSPAR CORP                                 1.358     920355104   VAL            112,900        4,394,230.02        4,987,922.00
+VARCO INTERNATIONAL INC.                     0.000     922122106   VRC            198,258        4,015,880.37        3,449,689.20
+VARIAN INC.                                  0.000     922206107   VARI            55,300        1,806,381.96        1,586,557.00
+VARIAN MEDICAL SYSTEMS                       0.000     92220P105   VAR            245,090        8,285,031.24       12,156,463.99
+VARIAN SEMICONDUCTOR EQUIPMENT ASSOC         0.000     922207105   VSEA            37,300          879,258.10          886,285.30
+VCA ANTECH INC                               0.000     918194101   WOOF            10,200          156,479.39          153,000.00
+VECTREN CORPORATION                          4.782     92240G101   VVC            102,966        2,027,013.77        2,368,218.00
+VEECO INSTRUMENTS INC                        0.000     922417100   VECO            28,600        1,005,426.65          330,616.00
+VERIDIAN CORP                                0.000     92342R203   VNX             20,960          445,724.44          447,286.40
+VERISIGN INC                                 0.000     92343E102   VRSN            72,800          605,656.00          583,856.00
+VERITAS DGC INC.                             0.000     92343P107   VTS            184,100        2,757,003.03        1,454,390.00
+VERITAS SOFTWARE CORPORATION                 0.000     923436109   VRTS         1,017,142       28,366,872.65       15,887,758.04
+VERITY INC.                                  0.000     92343C106   VRTY           110,500        2,746,286.39        1,479,705.50
+VERIZON COMMUNICATIONS                       3.974     92343V104 Q VZ           5,615,467      231,141,863.76      217,599,346.25
+VERTEX PHARMAREUTICALS INC                   0.000     92532F100   VRTX           286,000        8,628,791.88        4,533,100.00
+VIACOM INC-CLASS B                           0.000     925524308   VIA.B        3,870,095      149,867,444.83      157,745,072.20
+VIAD CORP                                    1.610     92552R109   VVI            128,800        3,214,854.29        2,878,680.00
+VIALTA INC CL A                              0.000     92554D306   VLTA               599                0.00              182.70
+VIASAT INC.                                  0.000     92552V100   VSAT            28,700          625,444.44          331,198.00

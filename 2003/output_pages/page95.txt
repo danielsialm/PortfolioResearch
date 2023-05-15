@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 065
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+WISCONSIN ENERGY CORP.                     2.391 WEC     976657106Q    33.4500        21,500.00        567,030.62        719,175.00
+WORTHINGTON INDS                           3.549 WOR     981811102Q    18.0300        12,500.00        202,777.50        225,375.00
+WPS RESOURCES CORP.                        4.715 WPS     92931B106     46.2300         6,000.00        243,930.80        277,379.99
+WRIGLEY WM JR CO                           1.565 WWY     982526105Q    56.2100        12,900.00        549,485.19        725,108.99
+WYETH                                      2.167 WYE     983024100Q    42.4500       247,100.00      9,469,703.72     10,489,395.00
+XCEL ENERGY INC                            4.417 XEL     98389B100Q    16.9800        17,600.00        376,639.20        298,847.99
+XEROX CORP                                 0.000 XRX     984121103Q    13.8000        60,200.00        988,961.58        830,760.00
+XILINX INC                                 0.000 XLNX    983919101     38.7400        62,800.00      2,019,063.30      2,432,872.01
+YAHOO INC                                  0.000 YHOO    984332106     45.1700       100,000.00      6,995,204.79      4,516,999.99
+YUM BRANDS, INC.                           0.000 YUM     988498101     34.4000        54,200.00      1,319,980.02      1,864,480.01
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     70.4000        30,300.00      1,468,112.46      2,133,119.99
+ZIONS BANCORPORATION                       1.956 ZION    989701107     61.3300        16,800.00        943,772.32      1,030,344.00
+
+Instrument Total           831                                                    57,410,613.75  1,591,261,900.55  1,977,516,238.41
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMB PROPERTY CORP.                         5.048 AMB     00163T109     32.8800        13,900.00        385,296.86        457,031.99
+APARTMENT INVT & MGMT                      6.956 AIV     03748R101     34.5000        17,500.00        609,236.10        603,750.00
+ARCHSTONE COMMUNITIES                      6.111 ASN     039583109Q    27.9800        33,800.00        832,509.64        945,724.00
+ARDEN REALTY GROUP INC                     6.657 ARI     039793104Q    30.3400        10,500.00        283,779.91        318,570.00
+AVALONBAY COMMUNITIES                      5.857 AVB     053484101Q    47.8000        11,500.00        503,328.33        549,700.00
+BOSTON PROPERTIES INC                      5.229 BXP     101121101     48.1900        12,900.00        567,083.48        621,650.99
+CARRAMERICA RE CORP                        6.715 CRE     144418100     29.7800         9,600.00        277,624.17        285,888.00
+CATELLUS DEVELOP CORP                      2.363 CDX     149113102     24.1200        18,539.00        384,638.29        447,160.68
+CBL & ASSOC PROP                           5.132 CBL     124830100     56.5000         3,900.00        177,524.48        220,350.01
+COUSINS PROPERTIES INC                     4.836 CUZ     222795106     30.6000         6,500.00        183,288.41        198,900.00
+CRESCENT RE EQT. CO.                       8.756 CEI     225756105     17.1300        14,500.00        244,170.12        248,385.00
+DUKE RE CORPORATION                        5.935 DRE     264411505     31.0000        25,100.00        706,378.08        778,100.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500        91,100.00      2,517,573.90      2,610,015.00
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100        50,500.00      1,223,836.01      1,490,255.00
+GENERAL GROWTH PROP                        4.324 GGP     370021107Q    27.7500         6,800.00        148,497.84        188,700.01
+HEALTHCARE RLTY TR                         6.993 HR      421946104     35.7500         7,700.00        243,051.61        275,275.01
+HOSPITALITY PROPERTIES                     6.976 HPT     44106M102     41.2800        10,900.00        335,925.39        449,952.00
+HRPT PROPERTIES TRUST                      7.928 HRP     40426W101     10.0900        26,400.00        247,573.16        266,376.01
+ISTAR FINANCIAL INC                        6.812 SFI     45031U101     38.9000        18,400.00        684,310.49        715,760.00
+KIMCO REALTY CORP                          5.095 KIM     49446R109Q    44.7500        18,000.00        714,007.68        805,500.00
+LIBERTY PROPERTY TRUST                     6.221 LRY     531172104Q    38.9000        14,500.00        494,314.14        564,050.01
+MACK-CALI RE CORP.                         6.054 CLI     554489104     41.6200        10,700.00        373,503.49        445,334.00

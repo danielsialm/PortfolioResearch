@@ -1,0 +1,56 @@
+ASOF02   Date 01/21/2005 Time 18:35:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 181
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+SELECTIVE INSURANCE GROUP                  1.717 SIGI    816300107     44.2400         4,700.00        163,669.86        207,928.00
+SHAW GROUP                                 0.000 SGR     820280105     17.8500        17,000.00        165,043.01        303,450.00
+SHOPKO STORES INC                          0.000 SKO     824911101     18.6800        10,700.00        161,120.84        199,876.00
+SIERRA PACIFIC RESOURCES                   7.619 SRP     826428104     10.5000        19,400.00         94,904.80        203,700.00
+SIX FLAGS INC.                             0.000 PKS     83001P109      5.3700        47,400.00        234,548.92        254,538.00
+SONICWALL INC                              0.000 SNWL    835470105      6.3200        28,400.00        208,001.64        179,488.00
+STAGE STORES INC                           0.000 STGS    85254C305     41.5200         4,800.00        150,812.64        199,296.00
+STELLENT INC                               0.000 STEL    85856W105      8.8200        25,800.00        162,440.19        227,556.00
+STEWART ENTERPRISES INC. CL-A              0.000 STEI    860370105      6.9900        23,200.00        161,272.01        162,168.00
+STEWART INFO SVCS                          1.104 STC     860372101     41.6500         4,300.00        168,233.39        179,095.00
+STIFEL FINANCIAL CORP                      0.000 SF      860630102     20.9500         9,067.00        162,111.88        189,953.65
+STONE ENERGY CORP                          0.000 SGY     861642106     45.0900         4,400.00        169,832.53        198,396.00
+SYCAMORE NETWORKS INC                      0.000 SCMR    871206108      4.0600        46,200.00        159,684.00        187,572.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      6.9500        33,100.00        165,433.33        230,045.00
+TALK AMERICA HOLDINGS INC                  0.000 TALK    87426R202      6.6200        26,600.00        160,684.86        176,092.00
+TECUMSEH PRODUCTS CO CL-A                  2.677 TECUA   878895200     47.8000         4,300.00        164,727.97        205,540.00
+TESORO CORP                                0.000 TSO     881609101     31.8600         7,100.00         93,881.88        226,206.00
+THQ INC                                    0.000 THQI    872443403     22.9400         9,000.00        162,514.59        206,460.00
+TIER TECHNOLOGIES INC-CL B                 0.000 TIER    88650Q100      9.2500        21,600.00        168,950.60        199,800.00
+TOWER AUTOMOTIVE INC                       0.000 TWR     891707101      2.3900        55,500.00        238,422.37        132,645.00
+TRANS WORLD ENTERTAINMENT CP               0.000 TWMC    89336Q100     12.4700        17,100.00        124,435.63        213,237.00
+UNITED FIRE & CAS CO                       1.423 UFCS    910331107     33.7100         5,400.00        107,744.42        182,034.00
+USA MOBILITY INC                           0.000 USMO    90341G103     35.3100         6,100.00        159,464.30        215,391.00
+USEC INC.                                  5.676 USU     90333E108      9.6900        19,500.00        164,824.42        188,955.00
+USG CORPORATION                            0.248 USG     903293405     40.2700         9,500.00        144,488.35        382,565.00
+VALHI INC                                  1.491 VHI     918905100     16.0900        13,600.00        177,853.33        218,824.00
+VERITAS DGC INC.                           0.000 VTS     92343P107     22.4100         7,200.00         66,113.54        161,352.00
+VESTA INS GROUP INC                        2.717 VTA     925391104      3.6800        33,900.00        158,234.10        124,752.00
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     19.0000        11,400.00        159,963.50        216,600.00
+VISTEON CORP                               2.456 VC      92839U107      9.7700        17,400.00        114,616.41        169,998.00
+WATCHGUARD TECHNOLOGIES INC                0.000 WGRD    941105108      4.4300        36,200.00        159,823.00        160,366.00
+ZALE CORP.                                 0.000 ZLC     988858106     29.8700         6,200.00        159,576.25        185,194.00
+
+Instrument Total           110                                                     2,041,467.00     18,124,970.20     22,669,725.15
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+FELCOR LODGING TRUST                       4.095 FCH     31430F101     14.6500        14,700.00        161,654.86        215,355.00
+
+Instrument Total             1                                                        14,700.00        161,654.86        215,355.00
+
+Portfolio Total            111                                                     2,056,167.00     18,286,625.06     22,885,080.15
+
+Group Total              2,786                                          0.00 /   180,138,310.54  3,363,277,873.60  4,006,464,320.91
+

@@ -1,0 +1,54 @@
+ASOF11   Date 01/21/2003 Time 18:53:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SUEZ CEMENT                                  0.000     6868622      SZCT_        63,627.00          703,214.55
+SUPER-SOL ORD ILS                            0.844     6860543      SAE_I        46,860.00          133,891.99
+SURGUTNEFTEGAZ ADR                           0.251     2810144      SGTZY       255,000.00        3,634,975.00
+T IS BANKASI SER'C                           0.000     4869939      ISCTR   183,040,000.00          783,030.06
+TAIWAN SEMICONDUCTOR ADR                     0.000     2113382      TSM         200,000.00        1,342,160.00
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.000     6889106      27933     2,411,084.80        3,907,519.36
+TATA ENGINEERING & LOCOMOT                   0.000     6101509      TELCO       250,000.00          369,970.93
+TATA IRON AND STEEL                          0.000     6101156      TISCO     1,500,000.00        3,797,626.01
+TELE CELULAR SUL PART-PREF                 146.021     2292582      TCSL4 1,046,000,000.00        1,064,471.83
+TELE NORTE LESTE PART ADR                    3.945     2297930      TNE         400,000.00        5,765,013.32
+TELE SUDESTE CELUL                          43.925     2292753      TSEP4    49,467,299.00          171,343.55
+TELECENTRO OESTE CELULAR ADR                 2.000     2298018      TRO         875,100.00        6,101,511.57
+TELEFONOS DE MEXIC                           0.321     2881689      TELME       933,000.00          890,643.83
+TELEKOMUNIKAYA POL                           0.000     5552551      TPS_P       900,000.00        3,944,443.33
+TENAGA NASIONAL BERHAD                       0.249     6904612      TNB_M       700,000.00        2,194,755.09
+TENARIS SA                                   0.000     2172402      TS_AF       187,230.00          353,643.65
+TENARIS SA - ADR                             0.000     2167367      TS          290,943.00        6,006,337.75
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.388     2883878      TEVA          5,056.00          140,884.18
+THAI ENGINE MANFACTURING                     0.000     6885762      43247         4,687.00                0.00
+THAI FARMERS BANK                            0.000     6888794      TFB/F     6,600,000.00        3,366,008.55
+TIGER BRANDS LIMITED                         0.000     6891297      TBS_S       208,394.00        1,864,059.61
+TV AZTECA S.A.                               0.626     2089074      TZA         200,000.00        1,197,319.52
+UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_     8,980,960.00        3,749,455.41
+UNIBANCO - SPONSORED GDR                     7.305     2000815      UBB         158,000.00        3,560,548.78
+UNIBANCO-UNIAO DE                        2,115.489     2909990      UBBR4     5,464,587.00           97,760.43
+UNIFIED ENERGY SYSTEMS                      23.273     4889335      EESR$    38,660,000.00        4,398,637.82
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,661,583.00        2,544,705.58
+VENFIN LTD                                   0.000     6731928      VNF_S     2,000,000.00        3,719,167.34
+VIA TECHNOLOGIES INC                         0.000     6146823      2388_       878,400.00        3,133,580.78
+VIMPEL COMMUNICATIONS ADR                    0.000     2943675      VIP          50,000.00        1,204,494.86
+VOTORANTIM CELULOSE - ADR                    2.676     2696560      VCP          96,200.00        1,308,526.69
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00                0.00
+YAGEO CORPORATION                            0.000     6984380      2327_     5,818,392.00        4,356,062.34
+YUKOS CORP ADR                               2.973     2740713      YUKOY        10,000.00        1,378,125.00
+
+Instrument Total             209                                          4,263,979,908.89      542,652,224.31
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                   291,022.11       29,102,211.15
+
+Instrument Total               1                                                291,022.11       29,102,211.15
+

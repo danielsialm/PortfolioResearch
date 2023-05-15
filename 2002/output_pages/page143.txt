@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 115
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+MOTOROLA INC                               1.849 MOT     620076109Q     8.6500        56,300.00      1,301,465.43        486,995.00
+NABORS INDUSTRIES LTD.                     0.000 NBR     G6359F103     35.2700         9,800.00        284,469.45        345,646.00
+NATIONAL CITY CORP                         4.465 NCC     635405103Q    27.3200        17,900.00        492,901.99        489,028.00
+NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     15.0100         9,600.00        226,173.93        144,096.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     24.3100         3,600.00         91,449.11         87,516.00
+NCR CORPORATION                            0.000 NCR     62886E108     23.7400         4,100.00        112,941.23         97,334.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     10.0000        21,500.00        229,323.74        215,000.00
+NEW YORK TIMES CO. CL A                    1.180 NYT     650111107Q    45.7300        18,900.00        711,382.58        864,297.00
+NEWELL RUBBERMAID INC.                     2.769 NWL     651229106Q    30.3300        22,700.00        699,931.49        688,491.00
+NEWMONT MNG. CORP. HLDG CO                 0.413 NEM     2636607  Q    29.0300        19,700.00        471,341.19        571,891.01
+NEXTEL COMMUNICATIONS CL-A                 0.000 NXTL    65332V103     11.5500        22,600.00        296,526.19        261,030.00
+NICOR INC.                                 5.407 GAS     654086107Q    34.0300         7,000.00        186,139.00        238,210.00
+NIKE INC. -CL B                            1.259 NKE     654106103Q    44.4700        16,400.00        747,499.00        729,308.00
+NISOURCE INCORPORATED                      5.800 NI      65473P105Q    20.0000         7,800.00        152,407.02        156,000.00
+NOBLE CORP                                 0.000 NE      G65422100     35.1500         7,700.00        220,722.07        270,655.00
+NORDSTROM INC                              2.108 JWN     655664100Q    18.9700        15,400.00        310,926.41        292,138.00
+NORFOLK SOUTHERN CORP.                     1.400 NSC     655844108Q    19.9900        23,600.00        482,626.52        471,764.00
+NORTH FORK BANK                            3.200 NFB     659424105     33.7400         6,500.00        248,784.92        219,310.00
+NORTHERN TRUST CORP                        1.940 NTRS    665859104     35.0500         7,400.00        322,540.83        259,370.00
+NORTHROP GRUMMAN CORP.                     1.649 NOC     666807102Q    97.0000         9,303.00        886,839.12        902,391.00
+NOVELLUS SYSTEMS INC.                      0.000 NVLS    670008101     28.0800         9,900.00        318,825.12        277,992.00
+NUCOR CORP                                 1.840 NUE     670346105Q    41.3000         7,000.00        327,932.32        289,100.00
+NVIDIA CORP                                0.000 NVDA    67066G104     11.5100         4,600.00         98,093.35         52,946.00
+OCCIDENTAL PETROLEUM CORP.                 3.655 OXY     674599105Q    28.4500        16,100.00        395,592.87        458,045.00
+OFFICE DEPOT INC                           0.000 ODP     676220106     14.7600        26,300.00        334,540.96        388,188.00
+OMNICOM GROUP                              1.238 OMC     681919106     64.6000         5,100.00        317,780.76        329,460.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     10.8000        69,700.00        909,563.74        752,760.00
+PACCAR INC                                 1.734 PCAR    693718108Q    46.1300        10,200.00        375,723.81        470,526.00
+PACIFIC GAS & ELEC. CO.                    0.000 PCG     69331C108Q    13.9000        12,200.00        123,783.64        169,580.00
+PACTIV CORPORATION                         0.000 PTV     695257105     21.8600        23,900.00        481,121.30        522,454.00
+PARKER-HANNIFIN CORP.                      1.560 PH      701094104Q    46.1300         2,100.00         89,338.30         96,873.00
+PAYCHEX INC                                1.577 PAYX    704326107     27.9000         8,700.00        245,387.17        242,730.00
+PEOPLES ENERGY CORP                        5.381 PGL     711030106Q    38.6500         2,600.00         85,239.74        100,490.00
+PEOPLESOFT INC                             0.000 PSFT    712713106     18.3000        13,200.00        274,680.92        241,560.00
+PEPSI BOTTLING GROUP INC                   0.155 PBG     713409100     25.7000        24,400.00        637,457.37        627,080.00
+PEPSICO INC.                               1.421 PEP     713448108Q    42.2200        33,500.00      1,112,911.95      1,414,370.00
+PFIZER INC.                                1.962 PFE     717081103Q    30.5700       106,200.00      2,280,956.43      3,246,534.00
+PHARMACIA CORPORATION                      1.291 PHA     71713U102     41.8000        26,300.00      1,010,580.93      1,099,340.00
+PHELPS DODGE CORP.                         0.000 PD      717265102Q    31.6500         5,000.00        160,805.95        158,250.00

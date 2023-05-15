@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HENKEL KGAA-VORZUG                           2.550     5076705      HEN3_        19,100.00        1,395,642.49
+HENNES & MAURITZ AB-B                        0.390     5687431      HMB_S        76,200.00        1,959,354.53
+HITACHI Y50                                  0.014     6429104      6501_       237,200.00        1,453,661.84
+HOLCIM LTD-B                                 1.476     7110753      HOL_V         5,610.00          256,996.21
+HONDA MOTOR CO COM                           0.010     6435145      7267_        45,620.00        1,890,411.89
+HONG KONG ELECTRIC HKD1                      0.619     6435327      6_HK         83,700.00          364,859.70
+HONG KONG EXCHANGES & CLEAR                  0.525     6267359      388_H        56,800.00          126,240.30
+HONGKONG+CHINA GAS                           0.280     6436557      3_HK        212,700.00          356,222.56
+HOPEWELL HLDGS HKD                           0.258     6140290      54_HK        36,800.00           80,105.97
+HOYA CORP Y50                                0.010     6441506      7741_         5,700.00          555,194.85
+HSBC HOLDINGS ORD                           13.759     0540528      HSBA_       673,395.00        7,040,894.60
+HUTCHISON WHAMPOA                            0.305     6448068      13_HK       108,600.00          800,192.09
+HYPO REAL ESTATE                             0.000     7681248      HRX_G        29,800.00          624,709.16
+IBERDROLA SA                                 4.403     4424640      IBE_S       122,600.00        2,946,248.58
+IMMOFINANZ IMMOBILIEN ANLAGE                 0.000     5679911      IIA_A       399,931.00        3,099,477.60
+IMPERIAL CHEM INDS                           5.496     0459497      ICI_L       113,000.00          504,100.36
+IMPERIAL OIL LTD                             1.032     2454241      IMO_C         3,200.00          147,972.82
+IMPERIAL TOBACCO GROUP                       6.726     0454492      IMT_L        57,543.00          909,117.19
+INBEV                                        1.285     4755317      INB_B        74,734.00        1,681,413.85
+INCO LTD                                     0.000     2460367      N_CN          4,400.00          140,455.55
+INDITEX                                      0.745     7111314      ITX_S        35,400.00        1,040,248.16
+INSURANCE AUSTRALIA GROUP                    2.681     6271026      IAG_A       270,200.00        1,234,558.96
+INTERCONTINENTAL HOTELS GROUP                4.455     B03NF66      IHG_L        63,346.41          460,145.65
+INVESTORS GROUP INC                          2.734     2469375      IGI_C         3,200.00           84,364.44
+IRISH LIFE & PERMANENT                       5.170     0467865      IPM_I       148,408.00        2,372,869.49
+ITO-YOKADO CO JPY5                           0.007     6467944      8264_        21,300.00          888,760.36
+ITOCHU CORP Y50                              0.012     6467803      8001_       125,200.00          420,313.39
+J S GROUP CORPORATION                        0.021     6900212      5938_        32,800.00          448,447.84
+JAPAN DIGITAL CONTENTS                       0.006     6470986      4185_        21,600.00          124,405.86
+JFE HOLDINGS INC                             0.010     6543792      5411_        46,000.00          656,801.83
+JOHNSON ELECTRIC HLDINGS                     0.029     6281939      179_H        87,800.00           90,640.19
+KANSAI ELEC POWER                            0.023     6483489      9503_        85,100.00        1,240,742.58
+KAO CORP Y50                                 0.014     6483809      4452_        62,668.00        1,382,058.38
+KBC BANKVERZEKERIN                           2.958     4497749      KBC_B        45,436.00        1,692,732.98
+KEPPEL CORP ORD SG                           1.424     6490263      KEP_S       155,800.00          667,383.11
+KERRY GROUP PLC-A                            1.008     0490656      KYG_I        93,065.00        1,984,681.86
+KESA ELECTRICALS                             6.965     3304011      KESA_        39,225.00          115,490.85
+KEYENCE CORPORATION                          0.000     6490995      6861_         3,100.00          588,580.56
+KINGFISHER PLC                               6.197     3319521      KGF_L       171,612.00          754,489.74

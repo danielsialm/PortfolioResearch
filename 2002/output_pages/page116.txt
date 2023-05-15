@@ -1,0 +1,29 @@
+ASOF02   Date 01/21/2003 Time 18:53:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 088
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+COLONIAL PROPERTIES                        7.778 CLP     195872106     33.9400        25,000.00        779,135.23        848,500.00
+ESSEX PROPERTY TRUST INC.                  6.057 ESS     297178105     50.8500        20,300.00      1,048,318.78      1,032,255.00
+GLENBOROUGH REALTY                         9.652 GLB     37803P105     17.8200        31,900.00        614,672.00        568,458.00
+KILROY RE CORP                             8.590 KRC     49427F108     23.0500        30,900.00        769,140.77        712,245.00
+SHURGARD STORAGE CTRS                      6.764 SHU     82567D104     31.3400        38,600.00      1,218,072.65      1,209,724.00
+
+Instrument Total             6                                                       177,700.00      5,186,688.75      5,105,882.00
+
+Instrument -WARRANT   WARRANT
+
+WASHINGTON GROUP INTL. INC WAR             0.000 WNGWQ   938862117      0.0000        11,972.00              0.00              0.00
+
+Instrument Total             1                                                        11,972.00              0.00              0.00
+
+Portfolio Total            587                                                    19,359,730.80    395,262,174.69    362,618,645.34
+
+Group Total              3,169                                          0.00 /   626,302,802.00 18,765,937,780.69 17,665,261,834.33
+

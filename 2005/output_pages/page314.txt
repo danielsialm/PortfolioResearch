@@ -1,0 +1,53 @@
+ASOF11   Date 01/19/2006 Time 18:25:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - COM       COMMON STOCK
+
+AMERICA MOVIL - ADR                          0.393     2722670      AMX         588,000.00        2,867,865.48
+ARACRUZ CELULOSE SA ADR                      1.539     2058579      ARA          12,000.00          205,132.20
+ASUR ADR                                     3.262     2639361      ASR           7,000.00          108,095.44
+AU OPTRONICS CORP - ADR                      1.572     2877149      AUO               1.09                7.31
+CEMEX ADR                                    2.020     151290889    CX          144,000.00        3,153,285.58
+CHECK POINT SOFTWARE TECH                    0.000     M22465104    CHKP        112,000.00        2,015,888.00
+CHINA MOBILE HK ADR                          2.433     2111375      CHL         686,000.00       10,993,754.37
+CIA TELECOM CHILE-ADR                        7.397     2213635      CTC         160,000.00        1,825,943.81
+CIA VALE DO RIO DOCE - ADR                   0.201     2857334      RIO         120,000.00          963,764.00
+COCA-COLA FEMSA-ADR                          2.036     2193317      KOF          12,000.00          286,170.00
+COMPANHIA BRASILEIRE ADR                     1.042     2228532      CBD          24,000.00          488,202.36
+COMPANIA DE MINAS ADR                        1.219     2210476      BVN          50,000.00          547,224.57
+CONTAX PARTICIPACOES ADR                     0.000     B0FWGP7      CTXNY        96,000.00           67,200.00
+COPEL ADR                                    1.328     2209656      ELP          81,000.00          471,669.04
+EMPRESAS NACIONAL ADR                        0.454     2311131      EOC         134,000.00        1,436,023.27
+FOMENTO ECONOMICO MEX SP ADR                 0.831     2246039      FMX          46,000.00        1,605,080.59
+KOOKMIN BANK ADR                             0.605     2811697      KB            1,000.00           25,547.57
+LUKOIL HLDGS SPND-ADR                        1.369     2537432      LUKOY       320,000.00        4,190,988.35
+PETROLEO BRASILEIRO ADR                      0.336     2616580      PBR         150,000.00        3,426,770.12
+POSCO-ADR                                    3.520     2692795      PKX          43,000.00          949,881.31
+SOUTHERN COPPER CORP                        10.152     84265V105    PCU           7,500.00          315,000.00
+TELE NORTE LESTE PART ADR                    5.803     2297930      TNE          96,000.00        1,383,603.19
+TELECENTRO OESTE CELULAR ADR                 2.869     2298018      TRO         117,553.00          819,621.76
+TELEFONOS DE MEXICO ADR                      2.751     2881612   S  TMX         480,000.00        7,549,742.43
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.506     881624209    TEVA         96,000.00        2,592,256.40
+UNIBANCO - SPONSORED ADR                     1.444     2000815      UBB          44,000.00          991,545.23
+VALE R DOCE-ADR                              0.229     2933900      RIO-P        90,000.00          889,873.22
+VOTORANTIM CELULOSE - ADR                    3.718     2696560      VCP         112,500.00          612,096.68
+
+Instrument Total              28                                              3,829,554.09       50,782,232.28
+
+Instrument -CTRY      COUNTRY FUNDS - CLOSED END
+
+BRAZIL FUND                                  1.638     2121954      91404       621,500.00       14,918,336.30
+FIRST ISRAEL FUND INC.                       0.255     2349789      93078       219,950.00        2,949,088.20
+FLEMING CZECH & SLOVAK                       0.000     4241838      FLECS       346,800.00        1,098,188.45
+INDOCAM ASIA MALACCA                         0.000     0556310      70601        40,000.00          522,500.00
+KOREA FUND                                   2.528     2496414      00094         2,700.00           82,544.40
+TAIWAN OPPROTUNITIES FUND                    0.000     0875361      33423       200,000.00        2,874,000.00
+
+Instrument Total               6                                              1,430,950.00       22,444,657.35
+

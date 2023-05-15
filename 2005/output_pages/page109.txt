@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 076
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+SEROLOGICALS CORP                          0.000 SERO    817523103     19.7400        36,700.00        775,894.23        724,458.00
+SFBC INTERNATIONAL INC                     0.000 SFCC    784121105     16.0100         7,800.00        200,339.79        124,878.00
+SHARPER IMAGE CORP                         0.000 SHRP    820013100      9.7400        12,300.00        212,832.81        119,802.00
+SHAW GROUP                                 0.000 SGR     820280105     29.0900        63,600.00        892,140.68      1,850,124.00
+SHENANDOAH TELECOMMU                       1.154 SHEN    82312B106     39.8400         7,270.00        196,532.26        289,636.80
+SHOE CARNIVAL INC                          0.000 SCVL    824889109     21.9200         7,900.00        109,994.55        173,168.00
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     25.1400        20,386.00        317,880.72        512,504.04
+SIERRA BANCORP                             2.106 BSRR    82620P102     22.7900         5,700.00        134,422.53        129,903.00
+SIERRA PACIFIC RESOURCES                   6.135 SRP     826428104     13.0400       202,900.00      2,308,699.66      2,645,816.00
+SIGMATEL INC                               0.000 SGTL    82661W107     13.1000        51,700.00      1,333,825.37        677,270.00
+SILGAN HOLDINGS INC                        1.107 SLGN    827048109     36.1200        10,200.00        162,601.95        368,424.00
+SILICON IMAGE INC                          0.000 SIMG    82705T102      9.0500        34,500.00        312,304.26        312,225.00
+SILICON LABORATORIES                       0.000 SLAB    826919102     36.6600        54,300.00      1,533,192.19      1,990,638.00
+SILICON STORAGE TECH                       0.000 SSTI    827057100      5.0500        92,600.00        568,186.34        467,630.00
+SIMMONS 1ST NATL COR                       2.310 SFNC    828730200     27.7000        15,100.00        350,040.98        418,270.00
+SIMPSON MANUFACTURING CO                   0.880 SSD     829073105     36.3500        38,300.00        948,750.77      1,392,205.00
+SIRF TECHNOLOGY HOLDINGS                   0.000 SIRF    82967H101     29.8000        37,100.00        559,276.69      1,105,580.00
+SIX FLAGS INC.                             0.000 PKS     83001P109      7.7100        98,500.00        720,265.97        759,435.00
+SJW CORP                                   2.351 SJW     784305104     45.5000         8,100.00        275,087.31        368,550.00
+SKECHERS U S A INC                         0.000 SKX     830566105     15.3200        40,800.00        556,809.74        625,056.00
+SKYLINE CORP.                              1.978 SKY     830830105Q    36.4000         7,200.00        221,183.05        262,080.00
+SKYWEST INC                                0.446 SKYW    830879102     26.8600        70,600.00      1,250,580.89      1,896,316.00
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      5.0900       151,700.00      5,391,637.68        772,153.00
+SMART & FINAL INC                          0.000 SMF     831683107     12.8800        33,000.00        403,271.64        425,040.00
+SMITH (A.O.) CORP                          1.823 AOS     831865209     35.1000        17,800.00        502,891.63        624,780.00
+SOHU.COM INC                               0.000 SOHU    83408W103     18.3400           300.00          6,275.75          5,502.00
+SOMANETICS CORP                            0.000 SMTS    834445405     32.0000        23,600.00        546,214.93        755,200.00
+SONIC AUTOMOTIVE INC.                      2.154 SAH     83545G102     22.2800        46,200.00      1,049,331.31      1,029,336.00
+SONIC SOLUTIONS                            0.000 SNIC    835460106     15.1100         4,000.00         80,264.80         60,440.00
+SONICWALL INC                              0.000 SNWL    835470105      7.9200       106,300.00        665,952.07        841,896.00
+SONOSIGHT INC.                             0.000 SONO    83568G104     35.0100        16,300.00        373,853.17        570,663.00
+SONUS NETWORKS INC                         0.000 SONS    835916107      3.7200       175,900.00        851,255.38        654,348.00
+SOTHEBY'S HOLDINGS CL-A                    0.000 BID     835898107     18.3600        38,500.00        603,657.82        706,860.00
+SOUND FEDERAL BANCORP INC                  1.570 SFFS    83607V104     19.1000         9,800.00        154,761.60        187,180.00
+SOURCE CORP                                0.000 SRCP    836167106     23.9800        32,400.00        793,927.98        776,952.00
+SOURCE INTERLINK COS INC                   0.000 SORC    836151209     11.1200        34,800.00        411,722.07        386,976.00
+SOUTH JERSEY INDS IN                       3.088 SJI     838518108     29.1400        29,600.00        675,232.52        862,544.00
+SOUTHSIDE BANCSHARES INC                   2.178 SBSI    84470P109     20.2000        10,380.00        209,493.72        209,676.00
+SOUTHWEST BANCORP IN                       1.500 OKSB    844767103     20.0000        14,300.00        293,977.46        286,000.00

@@ -1,0 +1,39 @@
+Instrument - A         APARTMENT
+
+BATTERY PARK CITY              NEW YORK, NY                    0.000         RBATTR                          0.01     22,800,000.00
+RELATED - E. 39TH ST - SONOMA  NEW YORK NY                     0.000         REAST2                          0.01     11,500,000.00
+RELATED - LYRIC - WEST 94TH ST NEW YORK NY                     0.000         RSYMPH                          0.01     20,700,000.00
+RELATED - STRATHMORE           NEW YORK NY                     0.000         REAST1                          0.01     17,100,000.00
+RELATED - UNION SQUARE APARTME NEW YORK NY                     0.000         RUNION                          0.01     20,900,000.00
+RELATED - WEST 89TH STREET     NEW YORK NY                     0.000         RWEST1                          0.01     17,400,000.00
+
+Instrument Total             6                                                                               0.06    110,400,000.00
+
+Instrument -I      INDUSTRIAL
+
+WIP02 FLEET                    ARLINGTON VA                    9.500         RFLEET                 14,618,275.66     24,200,000.00
+WIP02 RENAISSANCE              ARLINGTON VA                    9.500         RWIP02                  3,989,851.33     27,700,000.00
+
+Instrument Total             2                                                                      18,608,126.99     51,900,000.00
+
+Instrument -O      OFFICE
+
+101 HUDSON STREET              JERSEY CITY NJ                 14.500         RHUD01                100,624,608.65    129,000,000.00
+590 MADISON AVENUE             NEW YORK NY                    11.000         RMADAV                137,855,008.00    275,000,000.01
+BALLSTON STATION               BALLSTON VA                     9.550         RBALST                 18,382,289.99     30,200,000.00
+BAY COLONY                     BOSTON, MA                      6.747         RBAYCL                 33,769,153.43     30,500,000.00
+MORRIS CORPORATE CENTER I & II PARSIPPANY, NJ                  0.000         RMORCC                 60,310,346.25     44,200,000.00
+ONE LINCOLN                    BOSTON, MA                      0.000         ROLINC                 99,808,495.95    184,906,339.32
+WESTGATE CORPORATE CENTER      BERNARDSVILLE NJ                0.000         RWSTCC                 32,227,554.00     25,200,000.00
+
+Instrument Total             7                                                                     482,977,456.27    719,006,339.33
+
+Instrument -R      RETAIL
+
+NESHAMINY MALL                 PHILADELPHIA PA                15.500         RNESH1                 18,962,370.25     20,800,000.00
+UNION SQUARE RETAIL            NEW YORK, NY                    9.850         RUNSQ2                 63,510,694.99     91,700,000.00
+
+Instrument Total             2                                                                      82,473,065.24    112,500,000.00
+
+Portfolio Total             17                                                                     584,058,648.56    993,806,339.33
+

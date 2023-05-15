@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 163
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+ACETO CORP                                 0.442 ACET    004446100     25.5400        30,800.00        550,021.92        786,632.00
+ACTUANT CORP CL A                          0.165 ATU     00508X203     36.2000        17,660.00        419,524.78        639,292.00
+ALBANY INTL CL-A                           0.826 AIN     012348108Q    33.9000        17,290.00        500,196.75        586,130.99
+ALLIANCE DATA SYSTEM                       0.000 ADS     018581108     27.6800        19,750.00        555,328.29        546,680.00
+AMCOL INTERNATIONAL CORP.                  0.985 ACO     02341W103     20.3000        13,975.00        209,781.73        283,692.49
+AMETEK INC.                                0.497 AME     031100100Q    48.2600        18,035.00        718,143.60        870,369.10
+AMPHENOL CORP-CL A                         0.000 APH     032095101     63.9300        17,445.00        888,490.14      1,115,258.85
+ARBITRON INC                               0.000 ARB     03875Q108     41.7200        22,270.00        817,375.61        929,104.40
+ASE TEST LIMITED                           0.000 ASTSF   Y02516105     14.9700        21,530.00        122,086.76        322,304.10
+AVOCENT CORPORATION                        0.000 AVCT    053893103     36.5200        17,970.00        528,223.00        656,264.40
+BANK MUT CORP                              1.229 BKMU    063750103     11.3900        27,276.00        250,370.09        310,673.64
+BLACKROCK INC                              1.506 BLK     09247X101     53.1100        11,045.00        505,433.42        586,599.95
+BRIGGS & STRATTON                          1.958 BGG     109043109Q    67.4000        12,100.00        615,816.36        815,540.00
+CCC INFORMATION SVCS                       0.000 CCCG    12487Q109     16.9000        16,000.00        258,651.98        270,400.00
+CHICAGO MERCANTILE EXCHANGE                1.160 CME     167760107     72.3600         8,560.00        599,122.77        619,401.60
+CHURCH & DWIGHT INC                        0.808 CHD     171340102Q    39.6000         7,465.00        257,320.57        295,614.00
+CLARCOR INC.                               1.133 CLC     179895107Q    44.1000        15,235.00        595,675.05        671,863.50
+COGNEX CORP.                               0.849 CGNX    192422103     28.2400        11,075.00        285,502.25        312,758.01
+COLLAGENEX PHARMACEUTICALS INC             0.000 CGPI    19419B100     11.2100        44,950.00        528,302.54        503,889.50
+COMMSCOPE INC.                             0.000 CTV     203372107     16.3300        36,070.00        575,307.93        589,023.10
+CONCORDE CAREER COLLEGES INC               0.000 CCDC    20651H201     24.9700        24,395.00        537,293.93        609,143.15
+CUMULUS MEDIA INC. CL. A                   0.000 CMLS    231082108     22.0000        33,925.00        618,861.44        746,350.00
+DAKTRONICS INC                             0.000 DAKT    234264109     25.1600        14,600.00        276,681.37        367,336.00
+DIAGNOSTIC PRODUCTS CORP                   0.522 DP      252450101     45.9100        12,080.00        553,938.06        554,592.80
+DIGITAS INC                                0.000 DTAS    25388K104      9.3200        61,005.00        467,124.85        568,566.60
+DIODES INC                                 0.000 DIOD    254543101     19.0000        22,785.00        431,335.52        432,915.00
+DIONEX CORP.                               0.000 DNEX    254546104     46.0200         6,370.00        270,115.79        293,147.40
+DORAL FINANCIAL CORP.                      1.155 DRL     25811P100     32.2800        18,705.00        546,245.67        603,797.40
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     50.7100        15,700.00        649,627.49        796,147.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     30.0800        17,940.00        502,362.56        539,635.20
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     13.9000        21,010.00        289,188.91        292,039.00
+ENTEGRIS INC                               0.000 ENTG    29362U104     12.8500        20,555.00        274,458.58        264,131.75
+EPICOR SOFTWARE CORPORATION                0.000 EPIC    29426L108     12.7600        34,910.00        431,529.87        445,451.60
+ESCO TECHNOLOGIES INC                      0.000 ESE     296315104     43.6500        16,100.00        729,695.54        702,765.00
+ESPEED INC                                 0.000 ESPD    296643109     23.4100        32,940.00        748,128.70        771,125.40
+EXCEL TECHNOLOGY INC                       0.000 XLTC    30067T103     32.8600         9,015.00        275,180.09        296,232.90
+FACTSET RESEARCH SYSTEMS INC.              0.628 FDS     303075105     38.2100         7,215.00        290,224.29        275,685.15
+FAIR ISAAC INC.                            0.162 FIC     303250104     49.1600        15,330.00        816,679.92        753,622.80
+FINDWHAT.COM                               0.000 FWHT    317794105     18.7500        38,785.00        678,427.22        727,218.75

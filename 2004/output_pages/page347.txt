@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TOKYO ELEC POWER Y                           0.023     6895404      9501_        87,900.00        1,914,396.38
+TOKYO ELECTRON Y50                           0.004     6895675      8035_        11,800.00          818,707.62
+TOKYO GAS CO Y50                             0.016     6895448      9531_       289,800.00          829,430.64
+TOKYU CORP JPY50                             0.008     6896548      9005_        98,000.00          471,323.73
+TOMRA SYSTEMS ASA                            0.148     4730875      TOM_N       139,800.00          967,452.32
+TORAY INDUSTRIES I                           0.014     6897143      3402_       107,000.00          512,763.15
+TOSHIBA CORP                                 0.011     6897217      6502_       245,200.00        1,026,943.42
+TOTAL                                        3.974     4905413      FP_FP        27,393.00        3,666,864.03
+TOYOTA MOTOR CORP                            0.011     6900643      7203_       177,576.00        5,394,130.77
+TRANSCANADA CORP                             3.249     2665184      TRP_C         9,500.00          201,139.51
+TRANSURBAN GROUP                             2.982     6200882      TCL_A        94,600.00          469,880.10
+TREND MICRO                                  0.002     6125286      4704_         5,500.00          250,170.43
+UBS AG-REG                                   2.398     7126114      UBSN_        30,715.99        2,220,264.91
+UCB ORD BEF                                  2.234     5596991      UCB_B        35,384.00        1,197,217.13
+UFJ HOLDINGS INC                             0.003     6335223      8307_           192.00          914,071.62
+UNILEVER ORD 1.4P                            6.849     0574873      ULVR_       208,602.00        1,685,816.68
+UNION ELECRTRICA FENOSA SA                   3.407     4913223      UNF_S        38,500.00        1,003,472.81
+UNITED OVERSEAS BA                           2.663     6916781      UOB_S       373,200.00        2,933,793.00
+UTD UTILITIES ORD                           13.612     0646233      UU/_L        81,100.00          744,692.06
+VENTURE MFG SGD0.2                           0.722     6927374      VMS_S        67,500.00          773,876.45
+VIVENDI UNIVERSAL EUR                        2.892     4834777      EX_FP        39,886.00        1,122,995.17
+VODAFONE GROUP                               4.061     0719210      VOD_L     4,570,175.00       11,159,444.04
+VOEST-ALPINE                                 2.972     4943402      VOE_A        48,719.00        2,194,040.51
+VOLKSWAGEN AG                                4.278     5497102      VOW_G        39,500.00        1,910,264.08
+VOLVO AB                                     0.475     4937728      VOLVA        20,000.00          618,828.46
+VOLVO AB-B                                   0.457     4937739      VOLVB        41,000.00        1,172,680.31
+WESFARMERS LTD                               2.756     6948836      WES_A        56,200.00        1,671,410.49
+WEST JAPAN RAILWAY JPY50000                  0.011     6957995      9021_           100.00          411,283.39
+WESTFIELD GROUP                              0.000     B01BTX7      WDC_A       455,700.00        5,606,776.89
+WESTON (GEORGE) LTD                          1.095     2956662      WN_CN         1,200.00           82,780.00
+WESTPAC BANKING CO                           3.458     6076146      WBC_A       264,800.00        3,794,575.35
+WHARF(HLDGS) HKD1                            0.287     6435576      4_HK         65,400.00          198,889.89
+WIENERBERGER BAUST                           2.977     5699373      WIE_A        93,210.00        3,110,186.49
+WMC RESOURCES LTD                            2.496     6571469      WMR_A       169,500.00          934,314.99
+WOODSIDE PETROLEUM LIMITED                   2.027     6979728      WPL_A        77,200.00        1,194,809.88
+WOOLWORTHS LIMITED                           2.349     6981239      WOW_A       171,100.00        1,980,675.39
+WPP GROUP                                    2.311     0974042      WPP_L        73,933.00          719,395.73
+YAMANOUCHI PHARM J                           0.007     6985383      4503_        24,400.00          696,882.65
+YARA INTERNATIONAL ASA                       0.000     7751259      YAR_N       141,200.00          739,537.34

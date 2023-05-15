@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 141
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+AAR CORPORATION                            0.734 AIR     000361105Q    13.6200        59,850.00        766,239.12        815,157.00
+ABM INDUSTRIES INC.                        2.129 ABM     000957100     19.7200        33,125.00        608,804.13        653,225.00
+AGRIUM INC                                 0.652 AGU     008916108     16.8500        52,575.00        693,115.30        885,888.75
+ALASKA COMMUNICATION                       8.574 ALSK    01167P101      8.6300        68,125.00        508,698.75        587,918.75
+ALBANY INTL CL-A                           0.910 AIN     012348108Q    35.1600        27,050.00        786,147.46        951,078.00
+AMERUS GROUP CO                            0.883 AMH     03072M108     45.3000        14,900.00        464,333.49        674,970.00
+AMIS HOLDINGS INC                          0.000 AMIS    031538101     16.5200        53,325.00        850,782.05        880,929.00
+AMSURG CORP                                0.000 AMSG    03232P405     29.5400        29,700.00        655,559.78        877,338.00
+ANGIOTECH PHARMACEUTICALS INC              0.000 ANPI    034918102     18.4500        36,400.00        643,813.73        671,580.00
+ARGONAUT GROUP INC                         0.000 AGII    040157109     21.1300        41,050.00        661,279.03        867,386.50
+ARKANSAS BEST CORP                         1.069 ABFS    040790107     44.8900        12,175.00        388,580.13        546,535.75
+ARVINMERITOR INC.                          1.788 ARM     043353101     22.3700        26,825.00        508,710.19        600,075.25
+ASPECT COMMUNICATIONS CORP                 0.000 ASPT    04523Q102     11.1400        69,800.00        749,919.99        777,572.00
+BANCORPSOUTH INC                           3.118 BXS     059692103     24.3700        28,300.00        609,050.52        689,671.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101     11.6400        69,975.00        691,078.75        814,509.00
+BELDEN CDT INC                             0.862 BDC     077454106     23.2000        22,362.00        441,187.31        518,798.40
+BIG 5 SPORTING GOODS CORP                  0.960 BGFV    08915P101     29.1400        21,025.00        488,986.02        612,668.50
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     11.6800        63,150.00        527,838.10        737,592.00
+BROOKLINE BANCORP IN                       2.083 BRKL    11373M107     16.3200        41,600.00        603,660.67        678,912.00
+BUCYRUS INTERNATIONAL INC-A                0.565 BUCY    118759109     40.6400        19,100.00        362,098.93        776,224.00
+CARMIKE CINEMAS INC                        1.917 CKEC    143436400     36.5000        18,550.00        712,528.99        677,075.00
+CASELLA WASTE SYS IN                       0.000 CWST    147448104     14.6400        58,500.00        693,305.07        856,440.00
+CHEMED CORP                                0.715 CHE     16359R103     67.1100        10,950.00        630,173.73        734,854.50
+CITIZENS BKG CORP MI                       3.318 CBCF    174420109     34.3500        20,800.00        724,744.99        714,480.00
+CMS ENERGY CORP                            6.890 CMS     125896100Q    10.4500       135,850.00      1,298,874.71      1,419,632.50
+COEUR D'ALENE MINES CORP.                  0.000 CDE     192108108      3.9300        87,975.00        368,472.53        345,741.75
+COMSTOCK RESOURCES INC                     0.000 CRK     205768203     22.0500        33,975.00        712,475.82        749,148.75
+CONSOL ENERGY INC.                         1.364 CNX     20854P109     41.0500        15,750.00        399,753.49        646,537.50
+CROWN CORK & SEAL INC.                     7.278 CCK     228368106     13.7400        76,297.00        706,154.91      1,048,320.78
+CULLEN/FROST BANKERS INC                   2.181 CFR     229899109     48.6000        16,950.00        558,364.65        823,770.00
+DIME COMMUNITY BANCSHARES                  3.126 DCOM    253922108     17.9100        46,225.00        793,990.90        827,889.75
+DOLLAR THRIFTY AUTOM                       0.000 DTG     256743105     30.2000        15,975.00        409,118.51        482,445.00
+EAGLE MATERIALS INC                        1.389 EXP     26969P108     86.3500         6,975.00        399,972.15        602,291.25
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     18.9400        32,400.00        402,762.11        613,656.00
+ELECTRONICS BOUTIQUE HLDGS                 0.000 ELBO    286045109     42.9400        13,375.00        347,558.92        574,322.50
+ELIZABETH ARDEN INC                        0.000 RDEN    28660G106     23.7400        36,375.00        751,286.91        863,542.50
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     16.2600        42,950.00        596,969.37        698,367.00
+FIRST MIDWEST BANCORP INC.                 2.645 FMBI    320867104     36.2900        22,700.00        665,683.34        823,783.00
+FOSSIL INC.                                0.000 FOSL    349882100     25.6400        21,175.00        449,386.45        542,927.00

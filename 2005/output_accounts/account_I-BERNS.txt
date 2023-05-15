@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BERNSTEIN - EQUITIES                         0.000     IE-BER                13,227,872.68    1,322,787,268.10
+BERNSTEIN - LIQUIDITY                        0.000     IL-BER                   542,344.76       54,234,476.75
+
+Instrument Total               2                                             13,770,217.44    1,377,021,744.85
+
+Portfolio Total                2                                             13,770,217.44    1,377,021,744.85      1,889,290,367.88

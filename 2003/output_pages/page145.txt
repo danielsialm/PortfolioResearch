@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 115
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+LEXINGTON CORP PPTYS                       6.934 LXP     529043101     20.1900        35,900.00        667,524.04        724,821.00
+MANUFACTURED HOME COMM                     5.259 MHC     564682102     37.6500        13,000.00        476,899.32        489,450.00
+MERISTAR HOSPITALITY CORP.                 0.614 MHX     58984Y103      6.5100        69,000.00        443,668.24        449,190.00
+MID-AMERICAN APARTMENT                     6.968 MAA     59522J103     33.5800        14,800.00        422,788.32        496,984.00
+MISSION WEST PPTYS I                       7.413 MSW     605203108     12.9500        18,400.00        216,648.87        238,280.00
+NATIONAL HEALTH REAL                       6.751 NHR     635905102     19.7000         7,500.00        119,415.46        147,750.00
+NATIONWIDE HEALTH PP                       7.570 NHP     638620104     19.5500        62,400.00      1,069,823.91      1,219,920.00
+NEWCASTLE INVESTMENT CORP                  7.380 NCT     65105M108     27.1000        26,600.00        558,746.14        720,860.01
+NOVASTAR FINL INC                         11.638 NFI     669947400     42.9600        26,000.00        953,098.20      1,116,960.00
+OMEGA HEALTHCARE INV                       6.430 OHI     681936100      9.3300        37,400.00        214,465.09        348,942.00
+PARKWAY PROPERTYS INC                      6.250 PKY     70159Q104     41.6000        12,000.00        524,010.26        499,200.00
+PENNSYLVANIA RI                            5.950 PEI     709102107     36.3000        30,528.00        936,558.36      1,108,166.39
+POST PROPERTIES,INC.                       6.447 PPS     737464107Q    27.9200        38,100.00      1,015,802.66      1,063,752.00
+PRENTISS PROPERTIES TRUST                  6.789 PP      740706106     32.9900        35,100.00      1,074,144.87      1,157,949.00
+PRICE LEGACY CORP.                         0.000 XLG     74144P106      3.8100        67,300.00        243,996.15        256,413.00
+PS BUSINESS PARKS INC/CA                   2.811 PSB     69360J107     41.2600        15,500.00        563,250.09        639,530.00
+RAIT INVT TR                               9.375 RAS     749227104     25.6000        20,300.00        526,492.65        519,680.01
+RAMCO-GERSHENSON PPT                       2.325 RPT     751452202     28.3000         7,100.00        170,742.48        200,930.00
+RECKSON ASSOCIATES RE                      4.255 RA      75621K106Q    24.3000        54,100.00      1,157,798.15      1,314,630.00
+REDWOOD TR INC                             5.113 RWT     758075402     50.8500        13,600.00        569,485.99        691,560.00
+SAUL CENTERS INC                           5.441 BFS     804395101     28.6700         7,900.00        213,347.00        226,493.00
+SL GREEN RE CORP                           4.872 SLG     78440X101     41.0500        34,100.00      1,256,085.95      1,399,805.00
+SOVRAN SELF STORAGE                        6.487 SSS     84610H108     37.1500        16,600.00        531,900.59        616,690.00
+SUMMIT PROPERTIES INC                      5.620 SMT     866239106     24.0200        24,000.00        504,745.15        576,480.00
+SUN COMMUNITIES INC                        6.304 SUI     866674104     38.7000        12,500.00        497,469.48        483,750.00
+TANGER FACTORY OUTLET                      6.044 SKT     875465106     40.7000         7,000.00        258,295.57        284,900.00
+TAUBMAN CENTERS INC                        5.242 TCO     876664103Q    20.6000        53,100.00      1,030,438.23      1,093,860.00
+TOWN & COUNTRY TRUST                       6.785 TCT     892081100     25.3500        11,100.00        266,004.11        281,385.00
+TRANSCONTINENTAL RLT                       0.000 TCI     893617209     16.7300        12,300.00        185,653.35        205,779.00
+U S RESTAURANT PPTYS                       7.746 USV     902971100     17.0400        18,000.00        282,301.50        306,720.00
+UNIVERSAL HEALTH RLT                       6.578 UHT     91359E105     30.1000        13,200.00        367,281.55        397,320.00
+URSTADT BIDDLE PPTYS                       6.077 UBA     917286205     14.1500        25,300.00        343,855.41        357,994.99
+WASHINGTON RE INV                          5.102 WRE     939653101     29.2000        41,300.00      1,158,253.48      1,205,960.00
+WINSTON HOTELS INC                         5.882 WXH     97563A102     10.2000        11,000.00         99,112.15        112,200.00
+
+Instrument Total            74                                                     1,951,628.00     41,538,212.28     46,543,823.38
+
+Portfolio Total          1,901                                                    65,256,116.55    948,880,569.12  1,065,820,264.75
+

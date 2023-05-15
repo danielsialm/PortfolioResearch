@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 047
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+NACCO INDUSTRIES -CL A                       1.587     629579103 Q NC               8,700          637,523.56        1,019,205.00
+NANOGEN INC                                  0.000     630075109   NGEN            50,800          194,188.08          133,096.00
+NAPSTER INC                                  0.000     630797108   NAPS           179,900          666,299.84          633,248.00
+NARA BANCORP INC                             0.618     63080P105   NARA           569,600       10,873,252.11       10,127,488.00
+NASB FINL INC                                2.286     628968109   NASB            12,399          492,666.84          488,024.64
+NASDAQ STOCK MARKET INC                      0.000     631103108   NDAQ            29,600          545,367.81        1,041,328.00
+NASH FINCH CO.                               2.825     631158102   NAFC            20,300          560,862.81          517,244.00
+NATIONAL BEVERAGE CO                         0.000     635017106   FIZ              8,000           72,221.51           78,160.00
+NATIONAL CITY CORP                           4.408     635405103 Q NCC            816,330       26,511,427.55       27,404,198.11
+NATIONAL FINANCIAL PARTNERS CORP             1.141     63607P208   NFP             27,400          972,836.29        1,439,870.00
+NATIONAL FUEL & GAS                          3.719     636180101 Q NFG             13,300          355,030.95          414,827.00
+NATIONAL HEALTH INVESTORS INC                6.933     63633D104   NHI             37,000          903,086.24          960,520.00
+NATIONAL HEALTHCARE                          1.605     635906100   NHC              6,700          161,413.61          250,446.00
+NATIONAL INSTRUMENTS CORP.                   0.624     636518102   NATI            89,531        2,057,364.38        2,869,468.55
+NATIONAL INTERSTATE CORP                     0.839     63654U100   NATL            23,000          446,617.96          438,610.00
+NATIONAL OILWELL VARCO INC                   0.000     637071101   NOV             24,300          828,277.31        1,523,610.00
+NATIONAL PENN BANCSH                         3.464     637138108   NPBC            45,821          865,931.58          872,894.81
+NATIONAL PRESTO INDS INC                     2.074     637215104   NPK              5,000          185,193.92          221,750.00
+NATIONAL SEMICONDUCTOR CORP.                 0.461     637640103   NSM            233,700        3,942,594.66        6,071,526.00
+NATIONAL WESTN LIFE                          0.000     638522102   NWLIA            3,806          527,653.27          787,499.46
+NATIONWIDE FINANCIAL SERVICE                 1.727     638612101   NFS            198,800        8,244,900.80        8,747,200.01
+NATURES SUNSHINE PRODS INC.                  1.106     639027101   NATRE           24,300          455,027.09          439,344.00
+NATUS MEDICAL INC                            0.000     639050103   BABY            55,800          316,299.24          900,612.00
+NAUTILUS INC                                 2.143     63910B102   NLS             62,700        1,136,092.96        1,169,982.00
+NAVARRE CORP                                 0.000     639208107   NAVR           752,395        6,195,803.38        4,160,744.35
+NAVIGANT CONSULTING                          0.000     63935N107   NCI             51,800          848,857.86        1,138,564.00
+NAVIGATORS GROUP INC                         0.000     638904102   NAVG            69,400        2,201,529.53        3,026,534.00
+NAVISTAR INTL. CORP.                         0.000     63934E108   NAV             83,698        2,495,971.12        2,395,436.76
+NBC CAP CORP                                 4.203     628729105   NBY              7,300          192,518.16          173,667.00
+NBT BANCORP INC                              3.520     628778102   NBTB            34,300          693,259.31          740,537.00
+NBTY INC.                                    0.000     628782104   NTY             37,100          961,030.42          602,875.00
+NCI BUILDING SYS INC                         0.000     628852105   NCS            110,400        3,274,582.74        4,689,792.00
+NCO GROUP INC.                               0.000     628858102   NCOG           999,061       19,805,406.88       16,904,112.12
+NCR CORPORATION                              0.000     62886E108   NCR            261,701        7,273,198.65        8,882,131.94
+NDC HEALTH CORP                              0.832     639480102   NDC             14,900          347,696.57          286,527.00
+NEENAH PAPER INC                             1.428     640079109   NP                 300            8,933.60            8,400.01
+NEKTAR THERAPEUTICS                          0.000     640268108   NKTR           114,900        2,025,658.57        1,891,254.00
+NEOPHARM INC                                 0.000     640919106   NEOL            18,200          143,213.98          196,378.00
+NEOSE TECHNOLOGIES I                         0.000     640522108   NTEC           125,900          807,019.00          242,987.00
+NEOWARE SYSTEMS INC                          0.000     64065P102   NWRE            58,300          780,403.23        1,358,390.00

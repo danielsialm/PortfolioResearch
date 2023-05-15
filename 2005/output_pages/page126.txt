@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 093
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 1TR       INTERNAL 1000 TRANSI
+Instrument - COM       COMMON STOCK
+
+MERITAGE HOMES CORP                        0.000 MTH     59001A102     62.9200         4,500.00        326,132.10        283,140.00
+MERRILL LYNCH & CO. INC.                   1.181 MER     590188108Q    67.7300       104,250.00      5,564,965.32      7,060,852.51
+METLIFE INC                                1.061 MET     59156R108     49.0000       111,114.00      4,598,458.87      5,444,586.00
+MICHAELS STORES                            1.130 MIK     594087108     35.3700         1,751.00         42,250.60         61,932.87
+MICROSOFT CORP.                            1.376 MSFT    594918104     26.1500       498,125.00     14,130,227.78     13,025,968.76
+MILLER (HERMAN) INC                        1.028 MLHR    600544100     28.1900        11,600.00        361,049.47        327,004.00
+MONEYGRAM INTERNATIONAL INC.               0.613 MGI     60935Y109     26.0800         1,800.00         45,982.26         46,944.00
+MOODY'S CORPORATION                        0.455 MCO     615369105     61.4200        12,600.00        516,281.50        773,892.00
+MORGAN STANLEY DEAN WITTER & C             1.903 MS      617446448Q    56.7400        98,801.00      5,110,499.73      5,605,968.74
+MOTOROLA INC                               0.708 MOT     620076109Q    22.5900       368,149.00      5,830,196.67      8,316,485.91
+NATIONAL CITY CORP                         4.408 NCC     635405103Q    33.5700         3,730.00        120,178.66        125,216.11
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     28.6200        25,398.00        815,758.36        726,890.76
+NCR CORPORATION                            0.000 NCR     62886E108     33.9400        35,601.00      1,095,204.27      1,208,297.94
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     50.0700        28,700.00      1,158,328.83      1,437,009.00
+NORDSTROM INC                              0.909 JWN     655664100Q    37.4000        42,508.00      1,253,691.28      1,589,799.20
+NORTHROP GRUMMAN CORP.                     1.730 NOC     666807102Q    60.1100        57,146.00      2,735,466.79      3,435,046.06
+NSTAR CO.                                  4.041 NST     67019E107     28.7000         2,780.00         68,470.66         79,786.00
+NVR INC                                    0.000 NVR     62944T105    702.0000         3,686.00      1,407,763.52      2,587,572.00
+O'REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     32.0100        18,800.00        583,786.89        601,788.00
+OCCIDENTAL PETROLEUM CORP.                 1.802 OXY     674599105Q    79.8800        47,769.00      2,229,070.18      3,815,787.71
+OLD REPUBLIC INT'L CORP.                   2.071 ORI     680223104     26.2600        49,000.00      1,199,554.35      1,286,740.00
+OMNICOM GROUP                              1.174 OMC     681919106     85.1300        19,300.00      1,599,294.54      1,643,009.00
+ONEOK INC.                                 4.205 OKE     682680103Q    26.6300         9,655.00        271,757.78        257,112.64
+OSHKOSH TRUCK CORPORATION                  0.605 OSK     688239201     44.5900        14,370.00        586,936.90        640,758.30
+PACTIV CORPORATION                         0.000 PTV     695257105     22.0000        15,170.00        300,138.74        333,740.00
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      6.1000        24,393.00        151,867.13        148,797.30
+PARKER-HANNIFIN CORP.                      1.394 PH      701094104Q    65.9600         1,356.00         83,659.12         89,441.76
+PARTNERRE LTD                              2.314 PRE     G6852T105     65.6700         4,813.00        305,568.59        316,069.71
+PATTERSON-UTI ENERGY INC                   0.485 PTEN    703481101     32.9500        28,492.00        768,658.43        938,811.40
+PAYCHEX INC                                1.678 PAYX    704326107     38.1200        63,800.00      2,089,986.14      2,432,056.00
+PENN VA CORP                               0.784 PVA     707882106     57.4000           700.00         41,387.01         40,180.00
+PEOPLES BK BRIDGEPOR                       2.833 PBCT    710198102     31.0600         9,800.00        281,750.84        304,388.00
+PEPCO HOLDINGS INC.                        4.470 POM     713291102     22.3700        23,068.00        442,764.36        516,031.16
+PEPSI BOTTLING GROUP INC                   1.118 PBG     713409100     28.6100        86,048.00      1,992,444.36      2,461,833.28
+PEPSICO INC.                               1.760 PEP     713448108Q    59.0800       126,938.00      7,099,480.97      7,499,497.04
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     21.9500         8,687.00        307,467.57        190,679.65
+PHARMACEUTICAL PRODUCT DEVELOP             0.322 PPDI    717124101     61.9500           400.00         23,792.00         24,780.00
+PHELPS DODGE CORP.                         1.042 PD      717265102Q   143.8700         5,232.00        439,485.88        752,727.84
+PHH CORP                                   0.000 PHH     693320202     28.0200         3,500.00        101,465.56         98,070.00

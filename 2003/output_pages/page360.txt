@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 032
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - COM       COMMON STOCK
+
+ASUR ADR                                     2.715     2639361      ASR          65,000.00          965,789.00
+AU OPTRONICS CORP - ADR                      0.973     2877149      AUO         146,649.99        1,357,758.56
+BANCO SANTANDER ADR                          3.894     2136646      SAN          15,000.00          316,296.03
+CHECK POINT SOFTWARE TECH                    0.000     2181334      CHKP         85,755.00        3,284,510.51
+CIA SIDERURGICA NACIONAL ADR                 4.572     2220936      SID          30,000.00          382,596.42
+CIA TELECOM CHILE-ADR                        0.675     2213635      CTC          70,000.00          795,421.59
+CIA VALE DO RIO DOCE - ADR                   0.000     2857334      RIO          20,000.00          494,138.67
+COMPANHIA BRASILEIRE ADR                     0.683     2228532      CBD          65,000.00        1,058,849.81
+COMPANHIA DE BEBIDAS ADR                     3.708     2634797      ABV         115,000.00        2,107,996.33
+COPEL ADR                                    2.096     2209656      ELP         390,000.00        1,834,333.86
+DOCTOR REDDY'S LAB - ADR                     0.344     2748881      RDY          15,000.00          254,766.01
+EMPRESAS NACIONAL ADR                        0.256     2311131      EOC          85,000.00          826,873.99
+JSC MMC NORILSK ADR                          2.706     2768243      NILSY        10,800.00          216,925.71
+LUKOIL HLDGS SPND-ADR                        2.391     2537432      LUKOY        33,698.00        1,929,875.41
+MOBILE TELESYSTEMS ADR                       1.136     2603225      MBT           4,000.00          114,738.03
+ORBOTECH LTD                                 0.000     M75253100    ORBK          4,000.00           43,000.00
+PETROLEO BRASILEIRO ADR                      0.595     2616580      PBR         140,000.00        3,662,555.15
+PETROLEO BRASILEIRO S.A.-ADR                 0.652     2683410      PBR.A       210,000.00        4,878,327.03
+POSCO-ADR                                    2.063     2692795      PKX          19,660.00          403,423.20
+SK TELECOM CO LTD-ADR                        0.900     2495648      SKM          58,290.00        1,130,243.10
+SOCIEDAD QUIMICA ADR                         1.200     2771122      SQM          13,000.00          256,207.95
+SURGUTNEFTEGAZ ADR                           0.134     2810144      SGTZY        24,000.00          314,976.91
+TELE NORTE LESTE PART ADR                    1.879     2297930      TNE          85,000.00          941,521.08
+TELECENTRO OESTE CELULAR ADR                 0.852     2298018      TRO         145,000.00        1,074,761.03
+TELEMIG CELULAR - ADR                        1.286     2297996      TMB          45,000.00          885,029.25
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.407     2883878      TEVA         27,000.00          926,959.85
+UNIBANCO - SPONSORED ADR                     2.953     2000815      UBB          85,000.00        1,388,969.68
+URALSVYAZINFORM ADR                         10.341     5779145      URSI$     7,000,000.00          155,750.00
+VALE R DOCE-ADR                              0.000     2933900      RIO-P        65,000.00        2,130,867.87
+VIMPEL COMMUNICATIONS ADR                    0.000     2943675      VIP          14,000.00          327,028.67
+VOTORANTIM CELULOSE - ADR                    1.719     2696560      VCP          35,000.00          551,556.90
+
+Instrument Total              31                                              9,120,852.99       35,012,047.60
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+ADVANCED INFO SERVICE                        0.000     6412591      ADVAN       586,000.00          700,130.65
+AFRICAN BANK INVESTMENTS LTD                 0.003     6040776      ABL_S     1,684,600.00        1,338,830.12
+AGORA SA                                     0.000     5618312      AGO_P        12,000.00          154,616.59

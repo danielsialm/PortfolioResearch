@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+EAFE INDEX - LQR                             0.000     IL-EAFE                  398,925.71       39,892,571.08
+INTERNAL EAFE - EQUITIES                     0.000     IE-EAFE               11,576,523.31    1,157,652,331.64
+
+Instrument Total               2                                             11,975,449.02    1,197,544,902.72
+
+Portfolio Total                2                                             11,975,449.02    1,197,544,902.72      1,644,814,201.61

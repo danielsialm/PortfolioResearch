@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 122
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+FISHER SCIENTIFIC INT'L.                   0.000 FSH     338032204     62.3800        13,636.00        689,077.88        850,613.68
+FLIR SYSTEMS INC                           0.000 FLIR    302445101     63.7900         4,000.00        234,484.25        255,160.00
+FLUOR CORP                                 1.174 FLR     343412102     54.5100         4,300.00        213,475.27        234,393.00
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     32.2000        11,300.00        353,342.73        363,860.00
+FOOT LOCKER INC                            1.114 FL      344849104     26.9300        10,000.00        225,219.66        269,300.00
+FORD MOTOR COMPANY                         2.732 F       345370860     14.6400        13,200.00        195,483.01        193,248.00
+FOREST CITY ENTERPRI                       0.695 FCE.A   345550107     57.5500         6,300.00        314,315.95        362,565.00
+FOREST LABORATORIES INC.                   0.000 FRX     345838106     44.8600        16,000.00        737,675.91        717,760.00
+FORTUNE BRANDS INC.                        1.710 FO      349631101Q    77.1800         8,100.00        505,076.14        625,158.00
+FPL GROUP INC.                             3.638 FPL     302571104Q    74.7500         3,400.00        190,893.78        254,150.00
+FRANKLIN RESOURCES INC                     0.574 BEN     354613101Q    69.6500        12,200.00        516,185.11        849,730.00
+FREDDIE MAC                                1.628 FRE     313400301Q    73.7000         7,500.00        426,188.44        552,750.00
+FREEPORT MCMORAN CLASS B                   2.615 FCX     35671D857     38.2300         1,100.00         29,526.97         42,053.00
+FREESCALE SEMICONDUCTOR INC -              0.000 FSL.B   35687M206     18.3600         3,400.00         41,798.75         62,424.00
+FULTON FINANCIAL CORP                      2.831 FULT    360271100     23.3100         5,215.00        113,405.67        121,561.65
+GALLAGHER (ARTHUR) J & CO.                 3.446 AJG     363576109Q    32.5000         8,400.00        245,313.77        273,000.00
+GANNETT INC                                1.321 GCI     364730101Q    81.7000        12,700.00        897,857.76      1,037,590.00
+GAP INC                                    0.421 GPS     364760108Q    21.1200        13,100.00        270,360.97        276,672.00
+GENENTECH INC.                             0.000 DNA     368710406     54.4400         5,000.00        200,915.31        272,200.00
+GENERAL DYNAMICS CORP.                     1.376 GD      369550108Q   104.6000         6,200.00        561,266.55        648,520.00
+GENERAL ELECTRIC CO                        2.411 GE      369604103Q    36.5000       193,600.00      5,532,144.00      7,066,400.00
+GENERAL MILLS INC                          2.494 GIS     370334104Q    49.7100         5,600.00        239,535.13        278,376.00
+GENERAL MOTORS CORP                        4.992 GM      370442105Q    40.0600        12,000.00        536,844.62        480,720.00
+GENUINE PARTS CO                           2.723 GPC     372460105Q    44.0600        22,200.00        908,257.39        978,132.00
+GENZYME CORP. GEN. DIV.                    0.000 GENZ    372917104     58.0700           600.00         21,490.25         34,842.00
+GEORGIA PACIFIC                            1.334 GP      373298108Q    37.4800        10,600.00        298,413.01        397,288.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     68.8500         6,700.00        309,920.66        461,295.00
+GILEAD SCIENCES INC.                       0.000 GILD    375558103     34.9900         2,900.00         79,251.80        101,471.00
+GILLETTE CO                                1.451 G       375766102Q    44.7800        27,400.00      1,100,800.60      1,226,972.00
+GLOBAL PAYMENTS INC                        0.273 GPN     37940X102     58.5400         1,200.00         40,812.00         70,248.00
+GOLDEN WEST FINANCIAL CORP                 0.390 GDW     381317106Q    61.4200        10,000.00        319,091.79        614,200.00
+GOLDMAN SACHS GROUP INC                    0.961 GS      38141G104    104.0400         1,200.00         88,966.83        124,848.00
+GOODRICH CORP.                             2.451 GR      382388106Q    32.6400        10,000.00        275,408.20        326,400.00
+GOOGLE INC - CL A                          0.000 GOOG    38259P508    193.1000           500.00         67,629.50         96,550.00
+GRACO INC.                                 1.392 GGG     384109104     37.3500         7,200.00        187,108.12        268,920.00
+GRAINGER W W INC                           1.200 GWW     384802104Q    66.6200        10,800.00        632,009.47        719,496.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     20.0500         6,200.00        128,271.12        124,310.00
+GREAT PLAINS ENERGY INC                    5.482 GXP     391164100     30.2800           800.00         22,975.32         24,224.00
+GTECH HOLDINGS CORP                        1.310 GTK     400518106     25.9500         8,500.00        173,973.60        220,575.00

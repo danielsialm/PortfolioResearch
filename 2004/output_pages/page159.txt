@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 127
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+NORTHROP GRUMMAN CORP.                     1.692 NOC     666807102Q    54.3600         7,506.00        389,001.92        408,026.16
+NOVELLUS SYSTEMS INC.                      0.537 NVLS    670008101     27.8900         2,500.00         70,550.00         69,725.00
+NSTAR CO.                                  4.274 NST     67019E107     54.2800         2,000.00         93,280.00        108,560.00
+NTL INC                                    0.000 NTLI    62940M104     72.9600         2,000.00        108,850.91        145,920.00
+NUCOR CORP                                 0.993 NUE     670346105Q    52.3400         7,300.00        303,344.61        382,082.00
+NVIDIA CORP                                0.000 NVDA    67066G104     23.5600         4,600.00         67,261.20        108,376.00
+OCCIDENTAL PETROLEUM CORP.                 1.884 OXY     674599105Q    58.3600        19,900.00        634,066.69      1,161,364.00
+OFFICEMAX INC                              1.912 OMX     67622P101Q    31.3800         9,600.00        302,514.13        301,248.00
+OGE ENERGY CORP                            5.017 OGE     670837103     26.5100         8,800.00        216,679.24        233,288.00
+OLD REPUBLIC INT'L CORP.                   2.055 ORI     680223104     25.3000         1,750.00         41,355.42         44,275.00
+OMNICOM GROUP                              1.067 OMC     681919106     84.3200           700.00         46,774.35         59,024.00
+ONMICARE INC.                              0.260 OCR     681904108     34.6200           600.00         21,081.63         20,772.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     13.7200        32,100.00        404,234.61        440,412.00
+OSI PHARMACEUTICALS INC                    0.000 OSIP    671040103     74.8500         1,000.00         69,435.50         74,850.00
+OUTBACK STEAKHOUSE INC                     1.135 OSI     689899102     45.7800         2,100.00         86,875.32         96,138.00
+OWENS-ILLINOIS INC                         0.000 OI      690768403     22.6500         7,400.00        112,945.90        167,610.00
+PACCAR INC                                 0.994 PCAR    693718108Q    80.4800        11,800.00        416,393.23        949,664.00
+PACIFIC GAS & ELEC. CO.                    0.000 PCG     69331C108Q    33.2800        29,800.00        752,383.91        991,744.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     22.2600         6,400.00        147,638.03        142,464.00
+PACKAGING CORP OF AMERICA                  4.246 PKG     695156109     23.5500         7,900.00        181,353.03        186,045.00
+PACTIV CORPORATION                         0.000 PTV     695257105     25.2900         9,100.00        208,215.20        230,139.00
+PARKER-HANNIFIN CORP.                      1.003 PH      701094104Q    75.7400         2,300.00        130,121.96        174,202.00
+PATTERSON COS INC                          0.000 PDCO    703395103     43.3900         3,300.00        118,789.99        143,187.00
+PATTERSON-UTI ENERGY INC                   0.411 PTEN    703481101     19.4500        10,400.00        201,990.13        202,280.00
+PAYCHEX INC                                1.525 PAYX    704326107     34.0800         2,200.00         71,738.33         74,976.00
+PEABODY ENERGY CORP                        0.741 BTU     704549104     80.9100         3,500.00        156,671.61        283,185.00
+PENTAIR INC.                               1.193 PNR     709631105Q    43.5600        14,800.00        529,670.84        644,688.00
+PEOPLES BK BRIDGEPOR                       2.982 PBCT    710198102     38.8900         7,400.00        281,735.51        287,786.00
+PEOPLESOFT INC                             0.000 PSFT    712713106     26.4800         4,749.55         71,997.81        125,768.08
+PEPSI BOTTLING GROUP INC                   0.739 PBG     713409100     27.0400        23,000.00        640,902.66        621,920.00
+PEPSIAMERICAS INC                          1.412 PAS     71343P200Q    21.2400         6,700.00        136,881.84        142,308.00
+PEPSICO INC.                               1.762 PEP     713448108Q    52.2000        32,000.00      1,194,463.95      1,670,400.00
+PERKIN ELMER INC                           1.245 PKI     714046109Q    22.4900         8,700.00        160,440.19        195,663.00
+PETSMART INC                               0.337 PETM    716768106     35.5300           500.00         11,995.88         17,765.00
+PFIZER INC.                                2.826 PFE     717081103Q    26.8900       198,680.00      5,257,266.13      5,342,505.20
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     41.2900         3,700.00        132,302.48        152,773.00
+PHELPS DODGE CORP.                         1.010 PD      717265102Q    98.9200         3,700.00        179,477.66        366,004.00
+PINNACLE WEST CAPITAL CORP                 4.278 PNW     723484101Q    44.4100        12,700.00        546,032.15        564,007.00
+PIONEER NATURAL RESOURCES CO.              0.569 PXD     723787107     35.1000         5,357.00        179,284.01        188,030.70

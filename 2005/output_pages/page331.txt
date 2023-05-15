@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CARREFOUR EUR 2.5                            2.801     5641567      CA_FP        35,854.00        1,794,535.83
+CASINO GUICH-PERR                            4.361     4178419      CO_FP         4,641.00          335,749.64
+CATHAY PACIFIC AIR                           0.618     6179755      293_H        33,000.00           60,637.37
+CENTRAL JAPAN RWY                            0.004     6183552      9022_           181.00        1,568,859.81
+CENTRICA 5.55P                               6.198     B033F22      CNA_L       113,821.00          391,570.39
+CGU ORD 25P(SICOVA                           6.289     0216238      AV/_L       197,997.00        2,185,523.32
+CHEUNG KONG INFRASTRUCTURE                   0.428     6212553      1038_        25,500.00           78,603.76
+CHEUNG KONG(HLDGS)                           0.298     6190273      1_HK         34,700.00          302,877.09
+CHUBU ELECTRIC POWER CO INC                  0.018     6195609      9502_        73,600.00        1,478,737.97
+CIE DE ST. GOBAIN                            3.004     7380482      SGO_F        34,219.00        1,755,749.99
+CIRCLE K SUNKUS CO LTD                       0.010     B02FK91      3337_        65,800.00        1,530,832.64
+CITY DEVELOPMENTS                            0.518     6197928      CIT_S       234,100.00          896,731.19
+CLARIANT AG-REG                              0.980     7113990      CLN_V         5,826.00           85,501.70
+CLP HLDGS HKD5                               0.622     6097017      2_HK         42,200.00          235,705.54
+CNP ASSURANCES                               2.939     5543986      CNP_F        11,467.00          800,441.96
+COFINIMMO                                    5.511     4177988      COFIT         3,991.00          647,222.50
+COGNOS INC                                   0.000     2208307      CSN_C         3,300.00          110,636.14
+COLES MYER LTD                               2.388     6209908      CML_A        16,490.00          127,082.70
+COLOPLAST-B                                  0.141     B04TZX0      COLOB        21,900.00        1,255,778.56
+COMFORTDELGRO CO                             3.762     6603737      CD_SP       771,300.00          843,044.87
+COMMENWEALTH BK OF AUSTRALIS AUD 2.0         3.379     6215035      CBA_A        22,745.00          580,699.14
+COMMERZBANK AG ORD NPV                       2.249     4325538      CBK_G        90,893.00        2,111,767.54
+COMPAGNIE FIN RICHEMONT                      0.663     7151116      CFR_V        23,632.00          776,033.82
+COMPASS GROUP                                7.628     0533153      CPG_L       134,608.00          815,415.38
+COMPUTERSHARE LIMITED                        1.211     6180412      CPU_A        11,959.00           54,054.99
+COMSYS HOLDINGS CORP                         0.007     6687247      1721_        76,000.00          953,992.40
+CONTINENTAL AG NPV                           1.259     4598589      CON_G        30,132.00        2,209,508.91
+CREDIT AGRICOLE                              2.925     7262610      ACA_F        41,139.00        1,206,128.13
+CREDIT SAISON CO Y                           0.003     6591809      8253_        31,000.00        1,110,445.89
+CREDIT SUISSE GROUP                          1.699     7171589      CSGN_        41,612.00        1,763,910.21
+CRH                                          1.644     4182249      CRH_I        28,748.00          687,342.65
+DAI NIPPON PRINTNG                           0.009     6250906      7912_        81,400.00        1,073,935.11
+DAIMLERCHRYSLER AG                           4.106     5529027      DCX_G       146,081.00        5,666,256.22
+DAIWA HOUSE INDS J                           0.009     6251363      1925_       139,000.00        1,618,151.68
+DAIWA SECURITIES G                           0.012     6251448      8601_       100,800.00          622,798.42
+DANISCO A/S                                  0.221     4155586      DCO_D        26,900.00        1,986,240.04
+DANSKE BANK                                  0.559     4588825      DANSK       206,300.00        6,881,930.93
+DBS GROUP HOLDINGS                           2.296     6175203      DBS_S       580,600.00        5,043,294.86
+DCC PLC                                      2.560     4189477      DCC_I         7,792.00          142,399.64

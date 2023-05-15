@@ -1,0 +1,24 @@
+ASOF02   Date 01/21/2005 Time 18:35:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 166
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+MAGUIRE PROPERTIES INC                     5.826 MPG     559775101     27.4600        41,800.00      1,045,558.68      1,147,828.00
+MERISTAR HOSPITALITY CORP.                 0.479 MHX     58984Y103      8.3500        73,400.00        466,115.29        612,890.00
+MID-AMERICAN APARTMENT                     5.676 MAA     59522J103     41.2200        11,400.00        280,152.42        469,908.00
+MISSION WEST PPTYS I                       6.015 MSW     605203108     10.6400         8,000.00         85,408.80         85,120.00
+NATIONWIDE HEALTH PP                       6.231 NHP     638620104     23.7500        52,700.00      1,190,386.10      1,251,625.00
+REDWOOD TR INC                             4.316 RWT     758075402     62.0900        18,500.00      1,125,432.52      1,148,665.00
+SUMMIT PROPERTIES INC                      4.146 SMT     866239106     32.5600        23,900.00        502,281.50        778,184.00
+WINSTON HOTELS INC                         5.080 WXH     97563A102     11.8100         5,400.00         47,262.19         63,774.00
+
+Instrument Total            26                                                       634,000.00     12,119,798.15     14,807,140.50
+
+Portfolio Total            315                                                     8,739,470.86    101,361,789.79    121,941,412.10
+

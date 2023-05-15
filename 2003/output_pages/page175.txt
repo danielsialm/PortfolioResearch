@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 145
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+VALERO ENERGY CORP.                        1.035 VLO     91913Y100Q    46.3400         2,600.00         97,526.00        120,484.00
+VALLEY NATL BANCORP                        3.082 VLY     919794107     29.2000         8,500.00        229,585.00        248,200.00
+VALSPAR CORP                               1.456 VAL     920355104     49.4200         5,000.00        218,000.00        247,100.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     69.1000         6,000.00        334,560.00        414,600.00
+VECTREN CORPORATION                        4.624 VVC     92240G101     24.6500        10,200.00        252,246.00        251,430.00
+VERISIGN INC                               0.000 VRSN    92343E102     16.3000        16,900.00        240,861.44        275,470.01
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     37.1600         8,800.00        225,465.32        327,008.00
+VERIZON COMMUNICATIONS                     4.390 VZ      92343V104Q    35.0800        40,600.00      1,703,018.33      1,424,247.99
+VIACOM INC-CLASS B                         0.540 VIA.B   925524308     44.3800        17,600.00        733,486.94        781,088.01
+WACHOVIA CORP.- NEW                        3.434 WB      929903102Q    46.5900        27,100.00      1,109,548.39      1,262,589.00
+WADDELL & REED FINANCIAL-CL A              2.557 WDR     930059100     23.4600         3,600.00         91,362.45         84,456.00
+WAL MART STORES INC                        0.678 WMT     931142103Q    53.0500        37,800.00      1,585,463.41      2,005,290.01
+WALGREEN CO.                               0.472 WAG     931422109Q    36.3800        16,900.00        390,232.85        614,822.00
+WASHINGTON FEDERAL INC.                    3.098 WFSL    938824109     28.4000         2,200.00         51,700.00         62,480.00
+WASHINGTON MUTUAL INC.                     4.087 WM      939322103     40.1200         9,800.00        302,252.16        393,176.00
+WASHINGTON POST CL. B                      0.884 WPO     939640108Q   791.4000           500.00        362,255.00        395,700.00
+WATERS CORPORATION                         0.000 WAT     941848103     33.1600         4,500.00        118,013.49        149,220.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     46.0000         9,600.00        327,685.20        441,600.01
+WEBSTER FINANCIAL CORPORATION              1.831 WBS     947890109     45.8600         2,400.00         90,864.00        110,064.00
+WEIGHT WATCHERS INTL                       0.000 WTW     948626106     38.3700         1,700.00         72,403.00         65,229.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     96.9900           900.00         41,295.40         87,291.00
+WELLS FARGO COMPANY                        3.056 WFC     949746101     58.8900        23,500.00        868,997.47      1,383,915.00
+WENDY'S INTL                               0.611 WEN     950590109Q    39.2400         1,300.00         51,417.99         51,012.00
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     11.7900         6,200.00         75,632.56         73,098.00
+WESTWOOD ONE                               0.000 WON     961815107     34.2100         1,800.00         60,966.00         61,578.00
+WEYERHAEUSER CO.                           2.500 WY      962166104Q    64.0000         4,700.00        257,040.61        300,800.00
+WHIRLPOOL CORP                             2.367 WHR     963320106Q    72.6500         2,500.00        167,289.30        181,625.00
+WHOLE FOODS MARKET INC                     0.893 WFMI    966837106     67.1300         7,000.00        377,004.27        469,910.00
+WILEY JOHN & SONS IN                       0.998 JW.A    968223206     26.0300         3,800.00        100,544.56         98,914.00
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     34.7700         6,700.00        190,548.00        232,959.00
+WISCONSIN ENERGY CORP.                     2.391 WEC     976657106Q    33.4500        11,800.00        335,524.00        394,710.00
+WRIGLEY WM JR CO                           1.565 WWY     982526105Q    56.2100        11,800.00        462,148.10        663,278.00
+WYETH                                      2.167 WYE     983024100Q    42.4500        20,100.00        845,645.88        853,245.00
+XCEL ENERGY INC                            4.417 XEL     98389B100Q    16.9800        17,400.00        273,129.36        295,452.00
+XEROX CORP                                 0.000 XRX     984121103Q    13.8000         6,900.00         72,619.58         95,220.00
+XILINX INC                                 0.000 XLNX    983919101     38.7400         7,500.00        233,132.70        290,550.00
+XM SATELLITE RADIO HOLD-CL A               0.000 XMSR    983759101     26.3600        19,400.00        300,162.72        511,384.00
+XTO ENERGY INC.                            0.141 XTO     98385X106     28.3000        18,200.00        386,103.95        515,060.02
+YAHOO INC                                  0.000 YHOO    984332106     45.1700        26,400.00      1,348,126.29      1,192,487.99

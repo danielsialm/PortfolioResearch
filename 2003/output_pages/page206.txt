@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 176
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+LAWSON SOFTWARE                            0.000 LWSN    520780107      8.2300        64,800.00        515,594.88        533,304.00
+LENNOX INTERNATIONAL INC.                  2.275 LII     526107107     16.7000        34,100.00        479,874.49        569,470.01
+LINCOLN ELEC HLDGS I                       2.586 LECO    533900106     24.7400         6,900.00        171,327.00        170,706.00
+LITHIA MOTORS INC - CL A                   1.110 LAD     536797103     25.2100        22,300.00        474,709.71        562,183.00
+LITTELFUSE INC                             0.000 LFUS    537008104     28.8200        11,000.00        328,938.42        317,020.00
+LONE STAR STEAKHOUSE & SALOON              3.019 STAR    542307103     23.1800        14,067.00        274,171.33        326,073.06
+LONGS DRUG STORES INC                      2.263 LDG     543162101Q    24.7400        37,300.00        783,866.22        922,802.00
+LONGVIEW FIBRE CO                          0.647 LFB     543213102     12.3500        19,100.00        234,324.75        235,885.00
+LSI LOGIC CORP                             0.000 LSI     502161102      8.8700         7,700.00         64,694.63         68,299.00
+LTC PROPERTIES INC                         6.784 LTC     502175102     14.7400        12,300.00        163,058.76        181,302.00
+LUBYS INC.                                 0.000 LUB     549282101Q     3.6900        10,800.00         39,385.80         39,852.00
+LUFKIN INDUSTRIES INC                      2.500 LUFK    549764108     28.7900         2,200.00         58,274.92         63,338.00
+MAF BANCORP INC                            1.718 MAFB    55261R108     41.9000         2,414.00         57,758.93        101,146.60
+MAIR HOLDINGS INC                          0.000 MAIR    560635104      7.2800         2,000.00         18,304.90         14,560.00
+MARCUS CORPORATION                         1.341 MCS     566330106     16.4000         8,300.00        123,875.01        136,120.00
+MARINEMAX INC                              0.000 HZO     567908108     19.4300         7,300.00        125,683.36        141,839.00
+MAXYGEN INC                                0.000 MAXY    577776107     10.6300        16,200.00        164,756.58        172,206.00
+MEDALLION FINANCIAL CORP                   2.107 TAXI    583928106      9.4900         8,163.00         52,198.39         77,466.87
+MERCHANTS BANCSHARES                       3.535 MBVT    588448100     30.5500         2,200.00         58,853.74         67,210.00
+METHODE ELECTRONICS CL-A                   1.635 METH    591520200     12.2300        16,400.00        134,152.00        200,572.00
+MID-STATE BANCSHARES                       2.044 MDST    595440108     25.4400         3,700.00         64,971.63         94,128.00
+MIDLAND CO                                 0.804 MLAN    597486109     23.6200         2,000.00         42,200.00         47,240.00
+MOOG INC. CL A                             0.000 MOG.A   615394202     49.4000         6,100.00        228,140.00        301,340.00
+MRO SOFTWARE INC                           0.000 MROI    55347W105     13.4600         4,700.00         55,084.00         63,262.00
+MYERS INDUSTRIES INC.                      1.650 MYE     628464109Q    12.1200        16,125.00        189,467.79        195,435.00
+NATIONAL HEALTH INVESTORS INC              6.430 NHI     63633D104     24.8800        20,300.00        418,204.36        505,064.00
+NATIONAL PROCESSING                        0.000 NAP     637229105     23.5500         2,200.00         41,197.20         51,810.00
+NJ RESOURCES CORP. COMMON                  3.375 NJR     646025106     38.5100        12,400.00        387,346.13        477,524.00
+NORTHWEST AIRLINES CORP                    0.000 NWAC    667280101     12.6200        72,100.00        824,687.03        909,902.00
+NORTHWEST NATURAL GAS CO.                  4.227 NWN     667655104     30.7500         5,200.00        134,056.00        159,900.00
+NUI CORP                                   6.079 NUI     629431107     16.1200        35,800.00        604,550.25        577,096.00
+OCWEN FINANCIAL CORP                       0.000 OCN     675746101      8.8600        10,000.00         26,590.00         88,600.00
+OFFSHORE LOGISTICS                         0.000 OLG     676255102     24.5200        21,000.00        427,513.03        514,920.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108      5.2100        15,000.00         76,440.96         78,150.00
+OSHKOSH TRUCK CORPORATION                  0.450 OSK     688239201     51.0300         8,300.00        335,327.00        423,549.00
+OVERSEAS SHIPHOLDING GROUP                 2.055 OSG     690368105     34.0500        12,900.00        284,620.51        439,245.00
+OWENS-ILLINOIS INC                         0.000 OI      690768403     11.8900         4,700.00         56,741.22         55,883.00
+PACIFIC UN BK CALIF                        0.783 PUBB    695025106     25.5300         1,700.00         25,366.72         43,401.00
+PANTRY INC/THE                             0.000 PTRY    698657103     22.7000         9,300.00        197,217.18        211,110.00

@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 099
+ASOF02   Date 01/24/2002 Time 21:29:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 101
 
 Monthly Market Portfolio
 
@@ -6,51 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK - EXTERNALLY MANAGED
-Portfolio  - 6DG       DAVID J. GREENE - VA
+Portfolio  - 6DH       DUNCAN-HURST - GROWT
 Instrument - COM       COMMON STOCK
 
-KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100      9.3500        57,300.00        481,409.84        535,755.00
-LONGS DRUG STORES INC                      2.395 LDG     543162101Q    23.3800        29,200.00        698,147.93        682,695.99
-LORAL SPACE COMM. (WI)                     0.000 LOR     G56462107      2.9900       220,900.00        698,435.57        660,491.00
-LYDALL INC.                                0.000 LDL     550819106     10.0000        24,200.00        219,679.30        242,000.00
-MANDALAY RESORT GROUP                      0.000 MBG     562567107     21.4000        13,700.00        292,029.20        293,180.00
-MAXTOR CORP                                0.000 MXO     577729205      6.3400       236,400.00      1,428,843.29      1,498,776.00
-MAXWELL TECHNOLOGIES INC                   0.000 MXWL    577767106      9.8000        41,200.00        306,458.80        403,760.00
-MEREDITH CORPORATION                       0.953 MDP     589433101Q    35.6500        21,700.00        732,763.66        773,605.00
-MILLIPORE CORPORATION                      0.724 MIL     601073109Q    60.7000         9,700.00        503,729.30        588,790.00
-MPS GROUP INC                              0.000 MPS     553409103      7.1400       142,500.00        706,920.61      1,017,450.00
-NATIONAL-OILWELL INC.                      0.000 NOI     637071101     20.6100        21,500.00        378,485.34        443,115.00
-NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     39.5000        58,500.00      1,534,403.76      2,310,750.00
-ORBITAL SCIENCES CORP.                     0.000 ORB     685564106      4.1300       205,100.00        792,400.15        847,063.00
-PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500        45,900.00        617,119.37        658,665.00
-PATHMARK STORES INC                        0.000 PTMK    70322A101     24.6600        31,300.00        542,580.52        771,858.00
-PEPSIAMERICAS INC                          0.289 PAS     71343P200Q    13.8000        74,900.00      1,044,316.09      1,033,620.00
-PHARMACOPEIA INC                           0.000 PCOP    71713B104     13.8900        45,200.00        716,968.15        627,828.00
-PITTSTON BRINK’S GROUP                     0.452 PZB     725701106Q    22.1000        89,000.00      1,828,270.88      1,966,900.00
-PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100      9.7500       104,300.00        998,455.38      1,016,925.00
-PRIME MONEY MARKET ACCOUNT                 0.000 IT-DAV  IT-DAV         1.0000     5,573,293.14      5,573,293.07      5,573,293.15
-QUANTA SERVICES INC.                       0.000 PWR     74762E102     15.4300        20,500.00        321,098.74        316,315.00
-QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      9.8500       225,700.00      2,711,808.67      2,223,145.00
-RYDER SYS. INC.                            2.708 R       783549108Q    22.1500        56,100.00      1,062,718.34      1,242,615.00
-SPACELABS MEDICAL INC                      0.000 SLMD    846247104     12.1500        54,000.00        661,725.66        656,100.00
-SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     21.5800        14,400.00        269,332.00        310,752.00
-SYMBOL TECHNOLOGIES INC                    0.125 SBL     871508107     15.8800        17,000.00        220,320.00        269,960.00
-TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     16.2900       123,000.00      1,894,218.91      2,003,670.00
-TYSON FOODS INC. CL-A                      1.385 TSN     902494103     11.5500        55,200.00        588,764.52        637,560.00
-U.S. INDUSTRIES INC.                       0.000 USI     912080108      2.5600       160,000.00        740,543.65        409,600.00
-UNISYS CORP.                               0.000 UIS     909214108     12.5400       120,800.00      1,629,425.40      1,514,832.00
-UNOVA INC.                                 0.000 UNA     91529B106      5.8000       132,500.00        427,984.28        768,500.00
-VISX INC                                   0.000 EYE     92844S105     13.2500        59,900.00        954,083.64        793,675.00
-VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     17.1000         8,900.00        115,696.40        152,190.00
-WABTEC                                     0.325 WAB     929740108     12.3000        80,400.00        970,763.09        988,920.00
-
-Instrument Total            73                                                    11,195,493.14     65,851,453.58     66,804,172.13
-
-Instrument -WARRANT   WARRANT
-
-DIME BANCORP-WT                            0.000 DIMEZ   25429Q110      0.1500       380,200.00        107,275.42         57,030.00
-
-Instrument Total             1                                                       380,200.00        107,275.42         57,030.00
-
-Portfolio Total             74                                                    11,575,693.14     65,958,729.00     66,861,202.13
-
+FAIR ISAAC & COMPANY INC.                  0.126 FIC     303250104     63.0200         9,150.00        419,573.28        576,633.00
+FILENET CORP                               0.000 FILE    316869106     20.2900        21,800.00        373,860.37        442,322.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     29.3900        10,200.00        246,787.91        299,778.00
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     33.9200        10,900.00        346,807.07        369,728.00
+FRED’S INC                                 0.390 FRED    356108100     40.9600        10,000.00        296,326.81        409,600.00
+FREEMARKETS INC                            0.000 FMKT    356602102     23.9700        20,500.00        466,171.92        491,385.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     17.0000        17,800.00        284,930.40        302,600.00
+FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     32.0200        10,520.00        254,702.08        336,850.40
+GENTA INC                                  0.000 GNTA    37245M207     14.2300        16,400.00        256,939.78        233,372.00
+GREY WOLF INC                              0.000 GW      397888108      2.9700        40,700.00        122,509.72        120,879.00
+HARMONIC INC.                              0.000 HLIT    413160102     12.0200        37,600.00        467,710.71        451,952.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     37.0300         8,569.00        298,505.83        317,310.07
+HILB ROGAL & HAMIL.                        1.248 HRH     431294107Q    56.0500         3,600.00        196,140.08        201,780.00
+HNC SOFTWARE                               0.000 HNCS    40425P107     20.6000         9,500.00        249,854.09        195,700.00
+HOLLYWOOD ENTERTAINMENT CORP               0.000 HLYW    436141105     14.2900        14,400.00        207,156.30        205,776.00
+HOT TOPIC INC                              0.000 HOTT    441339108     31.3900        16,932.00        463,470.33        531,495.48
+IMMUNOMEDICS INC                           0.000 IMMU    452907108     20.2600         9,900.00        218,064.56        200,574.00
+INDEPENDENCE COMMUNITY BANK                1.757 ICBC    453414104     22.7600        10,000.00        186,894.36        227,600.00
+INFORMATICA CORP.                          0.000 INFA    45666Q102     14.5100        25,700.00        363,393.76        372,907.00
+INTEGRATED SILICON SOLUTION                0.000 ISSI    45812P107     12.2400        23,600.00        319,687.02        288,864.00
+INTERCEPT GROUP INC                        0.000 ICPT    45845L107     40.9000        12,887.00        411,736.31        527,078.30
+INTERMUNE INC                              0.000 ITMN    45884X103     49.2600        11,579.00        471,110.65        570,381.54
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     32.0600        12,600.00        329,115.25        403,956.00
+INTRADO INC                                0.000 TRDO    46117A100     26.8000        10,400.00        287,152.46        278,720.00
+INVESTORS FINANCIAL SERVICES C             0.120 IFIN    461915100     66.2100           800.00         50,725.33         52,968.00
+ISIS PHARMACEUTICALS INC                   0.000 ISIP    464330109     22.1900        14,100.00        306,329.30        312,879.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106      9.2000        27,400.00        241,295.40        252,080.00
+KOPIN CORP                                 0.000 KOPN    500600101     14.0000        36,500.00        496,462.52        511,000.00
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     44.2000        15,705.00        348,526.98        694,161.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        15,400.00        262,489.72        264,110.00
+LOGICVISION INC                            0.000 LGVN    54140W107     12.7500        10,700.00         98,307.45        136,425.00
+MAGMA DESIGN AUTOMATION                    0.000 LAVA    559181102     30.2800         8,700.00        163,197.44        263,436.00
+MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     29.1500        16,200.00        472,696.84        472,230.00
+MANUGISTICS GROUP INC.                     0.000 MANU    565011103     21.0800        21,500.00        364,685.42        453,220.00
+MAXIMUS INC                                0.000 MMS     577933104     42.0600         6,039.00        245,066.66        254,000.35
+MCAFEE.COM CORPORATION                     0.000 MCAF    579062100     33.9100        16,300.00        267,679.57        552,733.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     39.1100        10,200.00        425,132.30        398,922.00
+MICROMUSE INC.                             0.000 MUSE    595094103     15.0000        33,200.00        394,277.70        498,000.00
+MICROSEMI CORP                             0.000 MSCC    595137100     29.7000        13,100.00        314,287.02        389,070.00

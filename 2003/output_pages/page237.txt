@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:18   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+NATIONAL HEALTH REAL                         6.751     635905102   NHR              7,500          119,415.46          147,750.00
+NATIONWIDE HEALTH PP                         7.570     638620104   NHP            127,900        2,199,550.94        2,500,445.00
+NEW PLAN EXCEL RE TRUST                      6.688     648053106 Q NXL            199,800        4,346,662.38        4,929,065.98
+NEWCASTLE INVESTMENT CORP                    7.380     65105M108   NCT             26,600          558,746.14          720,860.01
+NOVASTAR FINL INC                           11.638     669947400   NFI             26,000          953,098.20        1,116,960.00
+OMEGA HEALTHCARE INV                         6.430     681936100   OHI             70,230          477,512.00          655,245.90
+PAN PACIFIC RETAIL                           4.281     69806L104   PNP             12,100          512,676.20          576,565.01
+PARKWAY PROPERTYS INC                        6.250     70159Q104   PKY             12,000          524,010.26          499,200.00
+PENNSYLVANIA RI                              5.950     709102107   PEI             30,528          936,558.36        1,108,166.39
+POST PROPERTIES,INC.                         6.447     737464107 Q PPS             38,100        1,015,802.66        1,063,752.00
+PRENTISS PROPERTIES TRUST                    6.789     740706106   PP              59,600        1,745,178.09        1,966,204.00
+PRICE LEGACY CORP.                           0.000     74144P106   XLG             67,300          243,996.15          256,413.00
+PROLOGIS TRUST                               4.487     743410102 Q PLD            315,200        8,656,747.33       10,114,768.01
+PS BUSINESS PARKS INC/CA                     2.811     69360J107   PSB             32,600        1,175,951.99        1,345,076.00
+PUBLIC STORAGE INC                           4.148     74460D109   PSA            169,400        5,988,438.65        7,350,265.99
+RAIT INVT TR                                 9.375     749227104   RAS             20,300          526,492.65          519,680.01
+RAMCO-GERSHENSON PPT                         2.325     751452202   RPT              7,100          170,742.48          200,930.00
+REALTY INCOME CORP                           6.000     756109104   O               63,100        2,530,864.53        2,524,000.00
+RECKSON ASSOCIATES RE                        4.255     75621K106 Q RA              63,100        1,369,722.88        1,533,330.00
+REDWOOD TR INC                               5.113     758075402   RWT             25,000        1,110,886.18        1,271,250.00
+REGENCY CENTERS CORP                         5.219     758849103   REG             47,800        1,702,537.63        1,904,830.01
+ROUSE CO                                     4.000     779273101   RSE            139,100        5,509,087.13        6,537,699.99
+SAUL CENTERS INC                             5.441     804395101   BFS             10,600          277,734.17          303,902.00
+SHURGARD STORAGE CTRS                        5.737     82567D104   SHU              2,200           74,322.34           82,829.99
+SIMON PROP GROUP INC.                        5.179     828806109 Q SPG            236,800        8,939,169.17       10,973,311.98
+SL GREEN RE CORP                             4.872     78440X101   SLG             50,800        1,860,197.13        2,085,340.00
+SOVRAN SELF STORAGE                          6.487     84610H108   SSS             16,600          531,900.59          616,690.00
+SUMMIT PROPERTIES INC                        5.620     866239106   SMT             47,900        1,007,026.65        1,150,558.00
+SUN COMMUNITIES INC                          6.304     866674104   SUI             12,500          497,469.48          483,750.00
+TANGER FACTORY OUTLET                        6.044     875465106   SKT              7,000          258,295.57          284,900.00
+TAUBMAN CENTERS INC                          5.242     876664103 Q TCO             53,100        1,030,438.23        1,093,860.00
+THE MACERICH CO                              5.483     554382101   MAC             49,875        1,893,866.90        2,219,437.50
+THORNBURG MTG INC                            9.411     885218107   TMA             41,266        1,082,742.49        1,122,462.36
+TOWN & COUNTRY TRUST                         6.785     892081100   TCT             11,100          266,004.11          281,385.00
+TRANSCONTINENTAL RLT                         0.000     893617209   TCI             17,400          254,780.22          291,102.00
+TRIZEC PROPERTIES INC                        5.194     89687P107   TRZ            152,200        1,990,771.82        2,343,880.01
+U S RESTAURANT PPTYS                         7.746     902971100   USV             18,000          282,301.50          306,720.00
+UNITED DOMINION RE TRUST                     5.937     910197102   UDR             65,100        1,161,062.78        1,249,919.99
+UNIVERSAL HEALTH RLT                         6.578     91359E105   UHT             13,200          367,281.55          397,320.00
+URSTADT BIDDLE PPTYS                         6.077     917286205   UBA             25,300          343,855.41          357,994.99

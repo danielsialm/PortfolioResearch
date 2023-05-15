@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 059
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+PRG-SCHULTZ INTL INC                         0.000     69357C107   PRGX            45,600          248,622.33          229,368.00
+PRICE COMMUNICATIONS CORP                    0.000     741437305   PR              57,905          802,285.42        1,076,453.95
+PRICELINE.COM INC                            0.000     741503403   PCLN            16,487          432,781.50          388,928.33
+PRIDE INTERNATIONAL INC.                     0.000     74153Q102   PDE            349,600        6,205,804.87        7,180,784.00
+PRIME MONEY MARKET - 5BA                     0.000     IT-BAR      IT-BA        3,025,350        3,025,350.59        3,025,350.64
+PRIME MONEY MARKET - 5GS                     0.000     IT-GOL      IT-GO        2,017,387        2,017,387.66        2,017,387.66
+PRIME MONEY MARKET - 5IN                     0.000     IT-INT      IT-IN        1,843,623        1,843,624.03        1,843,623.92
+PRIME MONEY MARKET - 5JL                     0.000     IT-JAC5     IT-JA        3,054,320        3,054,320.15        3,054,320.15
+PRIME MONEY MARKET - 6BB                     0.000     IT-DLB      IT-DL        2,622,582        2,622,582.31        2,622,582.37
+PRIME MONEY MARKET - 6CH                     0.000     IT-CIP      IT-CI        2,959,774        2,959,774.17        2,959,773.96
+PRIME MONEY MARKET - 6DG                     0.000     IT-DAV      IT-DA        3,631,050        3,631,051.67        3,631,050.67
+PRIME MONEY MARKET - 6EA                     0.000     IT-EAG      IT-EA        1,607,446        1,607,447.15        1,607,446.96
+PRIME MONEY MARKET - 6FC                     0.000     IT-FUL6     IT-FU        3,392,270        3,392,270.23        3,392,270.27
+PRIME MONEY MARKET - 6FT                     0.000     IT-FUL      IT-FU        1,276,644        1,276,644.75        1,276,644.78
+PRIME MONEY MARKET - 6JL                     0.000     IT-JAC      IT-JA        2,298,858        2,298,858.88        2,298,858.87
+PRIME MONEY MARKET - 6LA                     0.000     IT-LOR      IT-LO        7,738,713        7,738,715.11        7,738,713.62
+PRIME MONEY MARKET - 6LC                     0.000     IT-LOR6     IT-LO        6,417,929        6,417,930.03        6,417,929.87
+PRIME MONEY MARKET - 6MA                     0.000     IT-MAW      IT-MA        2,950,540        2,950,540.38        2,950,540.02
+PRIME MONEY MARKET - 6NC                     0.000     IT-NEX      IT-NE          274,855          274,855.68          274,855.71
+PRIME MONEY MARKET - 6WE                     0.000     IT-WST      IT-WS          160,072          160,072.71          160,072.46
+PRIMEDIA INC                                 0.000     74157K101   PRM            246,200          737,190.62          935,560.00
+PRIMUS GUARANTY LTD                          0.000     G72457107   PRS             43,605          606,707.50          714,685.95
+PRINCETON REVIEW INC                         0.000     742352107   REVU            18,300          131,247.11          112,545.00
+PRINCIPAL FINANCIAL GROUP                    1.343     74251V102   PFG            650,400       20,870,892.65       26,627,376.00
+PRIORITY HEALTHCARE CORPORATION              0.000     74264T102   PHCC            31,800          602,764.53          692,286.00
+PRIVATEBANCORP INC                           0.372     742962103   PVTB            18,200          371,920.98          586,586.00
+PROASSURANCE CORP                            0.000     74267C106   PRA             46,610        1,378,529.60        1,822,917.10
+PROCTER & GAMBLE CO                          1.815     742718109 Q PG           5,453,764      180,574,642.18      300,393,321.12
+PROGRESS ENERGY, INC                         5.216     743263105 Q PGN            461,000       18,752,393.19       20,855,640.00
+PROGRESS SOFTWARE                            0.000     743312100   PRGS            80,477        1,439,810.96        1,879,137.95
+PROGRESSIVE CORP                             0.141     743315103   PGR            175,500       15,398,135.37       14,889,420.01
+PROQUEST COMPANY                             0.000     74346P102   PQE             26,600          697,005.13          790,020.00
+PROSPERITY BANCSHARE                         1.129     743606105   PRSP            18,340          460,780.84          535,711.40
+PROTECTIVE LIFE CORP                         1.639     743674103   PL             250,800        8,425,141.39       10,706,652.00
+PROTEIN DESIGN LABS INC                      0.000     74369L103   PDLI            78,000        1,274,375.55        1,611,480.00
+PROVIDE COMMERCE INC                         0.000     74373W103   PRVD            14,800          307,694.16          549,820.00
+PROVIDENT BANCORP INC                        1.213     74383A109   PBCP            67,248          803,744.69          887,001.12
+PROVIDENT BANKSHARES CORPORATION             2.914     743859100   PBKS            79,302        2,164,747.07        2,884,213.74
+PROVIDENT FINANCIAL HLDGS                    1.941     743868101   PROV            12,500          281,068.13          360,625.00
+PROVIDENT FINANCIAL SERVICES                 1.239     74386T105   PFS            104,309        1,831,965.53        2,020,465.33

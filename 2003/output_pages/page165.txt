@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 135
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     31.0400         9,400.00        269,116.32        291,776.00
+EDWARDS (A.G.) INC                         1.766 AGE     281760108     36.2300         9,500.00        312,645.00        344,185.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     30.0800           400.00         12,132.00         12,032.00
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     47.7800         9,600.00        297,857.12        458,688.00
+ELECTRONIC DATA SYSTEMS                    2.445 EDS     285661104Q    24.5400         2,300.00         51,221.00         56,442.00
+ELI LILLY & COMPANY                        2.019 LLY     532457108Q    70.3300        13,200.00        678,768.38        928,356.00
+EMC CORP                                   0.000 EMC     268648102     12.9200        18,500.00        247,718.68        239,020.00
+EMERSON ELECTRIC CO                        2.471 EMR     291011104Q    64.7500         6,300.00        316,159.75        407,925.00
+EMULEX CORP                                0.000 ELX     292475209     26.6800           900.00         22,239.00         24,012.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     37.5600         4,500.00        143,055.00        169,020.00
+ENERGY EAST CORP.                          4.642 EAS     29266M109     22.4000        12,500.00        266,125.00        280,000.00
+ENTERGY CORP.                              3.150 ETR     29364G103Q    57.1300         8,400.00        309,289.31        479,892.01
+EQUITABLE RESOURCES INC                    2.795 EQT     294549100     42.9200         8,400.00        338,268.00        360,528.00
+ESTEE LAUDER CO.                           0.764 EL      518439104     39.2600         1,500.00         56,996.70         58,890.00
+EXELEON CORP                               3.013 EXC     30161N101Q    66.3600         4,200.00        205,907.39        278,712.00
+EXPEDITORS INT'L. WASH INC.                0.424 EXPD    302130109     37.6600         5,600.00        195,720.00        210,896.00
+EXPRESS SCRIPTS                            0.000 ESRX    302182100     66.4300         4,300.00        281,540.77        285,649.00
+EXXON MOBIL CORPORATION                    2.439 XOM     30231G102Q    41.0000       125,200.00      3,605,966.45      5,133,200.01
+FAIR ISAAC INC.                            0.162 FIC     303250104     49.1600         5,000.00        278,064.84        245,800.00
+FAMILY DOLLAR STORES                       0.947 FDO     307000109Q    35.8800        11,100.00        345,471.59        398,268.00
+FED. NATL. MTG. ASSN.                      2.398 FNM     313586109Q    75.0600        13,000.00        759,797.25        975,780.01
+FEDERATED DEPARTMENT STORES                1.060 FD      31410H101     47.1300         5,800.00        243,516.62        273,354.00
+FEDERATED INVESTORS INC.-CL B              1.158 FII     314211103     29.3600         1,100.00         30,657.00         32,296.00
+FEDEX CORPORATION                          0.355 FDX     31428X106     67.5000        13,500.00        643,805.41        911,250.00
+FIDELITY NATIONAL FINL INC                 1.856 FNF     316326107     38.7800        12,300.00        381,836.53        476,994.00
+FIFTH THIRD BANCORP                        1.962 FITB    316773100Q    59.1000         7,700.00        434,414.07        455,070.00
+FIRST AMERICAN CORP.                       2.015 FAF     318522307     29.7700         9,700.00        257,760.17        288,769.00
+FIRST BANCORP PR                           1.112 FBP     318672102     39.5500         1,500.00         55,330.65         59,325.00
+FIRST DATA CORP                            0.194 FDC     319963104Q    41.0900        21,300.00        553,010.08        875,216.99
+FIRST ENERGY CORP.                         4.261 FE      337932107Q    35.2000         7,900.00        216,191.97        278,080.00
+FIRST TENNESSEE NATL CORP                  3.628 FTN     337162101     44.1000         7,800.00        296,644.83        343,980.01
+FISERV INC. WISCONSIN                      0.000 FISV    337738108     39.5100         3,500.00        105,361.02        138,285.00
+FISHER SCIENTIFIC INT'L.                   0.000 FSH     338032204     41.3700         4,600.00        145,820.00        190,302.00
+FLEETBOSTON FINANCIAL CORP                 3.207 FBF     339030108Q    43.6500        25,600.00        706,487.73      1,117,440.00
+FLUOR CORP (NEW)                           1.614 FLR     343412102     39.6400         4,400.00        156,886.10        174,416.00
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     23.3000         2,500.00         55,850.00         58,250.00
+FNB CORP                                   2.708 FNB     302520101     35.4500         2,200.00         66,330.00         77,990.00
+FOOT LOCKER INC                            1.023 FL      344849104     23.4500         8,400.00        169,626.18        196,980.00
+FOREST CITY ENTERPRI                       0.757 FCE.A   345550107     47.5100         1,400.00         63,917.00         66,514.00

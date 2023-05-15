@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+NAMPAK ORD ZAR0.05                           0.000     6621397      NPK_S     2,245,744.00        4,742,542.90
+NAN YA PLASTICS CORP                         0.001     6621580      73841     2,113,393.01        2,150,955.74
+NATIONAL BANK OF GREECE                      9.413     4625959      ETE_G        80,000.00        2,938,983.76
+NEDCOR R1                                    0.541     6628008      NED_S       801,309.00       16,631,593.21
+NIEN HSING TEXTILE CO LTD                    0.000     6591928      1451_     3,900,000.00        3,003,503.54
+OLD MUTUAL                                   0.000     6155131      OML_S     2,800,000.00        5,000,492.07
+ORBIS PLN2                                   0.000     5349173      ORB_P       750,000.00        4,299,071.28
+ORGANIZACION SORIANA                         0.000     2620172      SORIA     1,500,000.00        3,444,530.01
+OTP BANK                                     0.000     7320154      OTP_H       200,000.00        1,008,122.92
+OTP BANK-GDR 144A                            0.712     2662969      OTPIY       150,000.00        1,229,400.00
+PEREZ COMPANC SA - ADR                       5.095     2540872      PC          213,000.00        2,391,836.28
+PETROL BRASILEIROS                           0.164     2684532      PETR4       185,066.98        3,427,897.86
+PETROLEO BRASILEIRO ADR                      3.079     2616580      PBR         380,000.00        8,681,151.00
+PHILIPPINE LNG DIS                           0.033     6685661      TEL_P        15,900.00          395,535.73
+PICK'N PAY STORES                            0.000     6688068      PIK_S     1,000,000.00        1,236,041.08
+PLIVA D.D. GDR REG S                         2.773     5174706      PLVD_       250,000.00        2,809,993.85
+POHANG IRON+STEEL                            0.000     6693233      0549_        30,358.00        2,777,433.96
+POSCO                                        1.738     2692795      PKX         132,200.00        2,920,332.82
+PRESIDENT CHAIN STORE CORP                   0.001     6704986      2912_       607,435.00          943,560.72
+PT BANK CENTRAL ASIA                         0.000     6352772      BBCA_    10,000,000.00        2,648,303.31
+PT TELEKOMUNIKASI                            0.000     6291745      TLKM_     5,807,340.00        2,236,024.35
+PUBLIC BANK BHD                              0.003     6707093      PBKF_     1,950,000.00          793,211.80
+QUILMES INDUSTRIAL ADR                       9.470     2770055      LQU         175,000.00        2,568,074.40
+RELIANCE INDUSTRIES                          0.000     6099626      RIL_I       800,000.00        5,665,103.91
+SAMSUNG CO KSWN500                           0.000     6771601      0083_        22,013.00          378,414.16
+SAMSUNG ELECTRONIC                           0.000     6771720      0593_        10,752.00        2,499,799.46
+SAMSUNG HEAVY INDUSTRIES                     0.000     6772217      1014_     1,799,996.00        5,746,722.94
+SAN MIGUEL CORP                              0.034     6775777      SMCB_       103,436.30          154,835.71
+SHINHAN FINANCIAL GROUP LTD                  0.004     6397502      5555_       150,000.00        2,034,988.60
+SHOPRITE HOLDING LTD                         0.000     6801575      SHP_S     1,000,000.00          787,050.04
+SIAM CEMENT CO THB                           0.000     6806796      SCC/F       242,600.00        2,318,141.81
+SIAM COMMERCIAL BK                           0.000     6889935      SCB/F     6,000,000.00        2,816,640.94
+SINOPAC HOLDINGS                             0.000     6525875      2890_     4,193,691.84        1,814,980.25
+SK CORPORATION ORD                           0.000     6988371      0360_        26,377.00          656,228.42
+SK TELECOM CO LTD                            0.000     6224871      1767_         4,500.00          899,030.66
+SK TELECOM CO LTD-ADR                        0.281     2495648      SKM         124,354.00        1,348,734.52
+SM PRIME HLDGS ORD                           0.000     6818843      SMPH_     6,377,600.00          803,499.14
+SOUTH AFRICAN BREWERIES                      0.000     6145240      SAB_S       550,000.00        4,049,822.07
+STANDARD BANK                                0.048     6108005      SBK_S     1,000,000.00        2,733,704.22

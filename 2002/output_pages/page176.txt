@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 148
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6MA       M.A. WEATHEBIE
+Instrument - COM       COMMON STOCK
+
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     26.8600        42,550.00      1,024,787.44      1,142,893.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     13.6300         5,760.00         94,702.98         78,508.80
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     50.3000         6,490.00        319,389.29        326,447.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     22.9500        25,282.00        445,758.26        580,221.90
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109      5.6090        37,800.00        249,020.10        212,020.20
+BLACK BOX CORPORATION                      0.446 BBOX    091826107     44.8000        10,560.00        377,781.17        473,088.00
+BROWN & BROWN INC                          0.711 BRO     115236101     32.3200         5,000.00        162,223.17        161,600.00
+CATALINA MARKETING CORP                    0.000 POS     148867104     18.5000        15,760.00        487,441.09        291,560.00
+CHARLES RIVER LABORATORIES                 0.000 CRL     159864107     38.4800        20,270.00        795,938.59        779,989.60
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     36.1500        13,800.00        452,269.81        498,870.00
+CHILDREN'S PLACE                           0.000 PLCE    168905107     10.6400        11,930.00        223,456.80        126,935.20
+CINTAS CORP                                0.546 CTAS    172908105     45.7500        17,020.00        728,437.49        778,665.00
+COGNEX CORP.                               0.000 CGNX    192422103     18.4300        27,400.00        431,901.70        504,982.00
+CTS CORP.                                  1.548 CTS     126501105      7.7500        12,540.00         78,429.48         97,185.00
+CYTYC CORPORATION                          0.000 CYTC    232946103     10.2000        65,510.00        662,944.55        668,202.00
+DOLLAR TREE STORES INC                     0.000 DLTR    256747106     24.5700        46,640.00      1,138,995.74      1,145,944.80
+E.PIPHANY INC                              0.000 EPNY    26881V100      4.1700        45,110.00        154,329.45        188,108.70
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     37.6000         8,480.00        340,089.10        318,848.00
+FAMILY DOLLAR STORES                       0.833 FDO     307000109Q    31.2100        47,440.00      1,327,715.69      1,480,602.40
+FASTENAL CO                                0.133 FAST    311900104     37.3900        47,690.00      1,634,074.93      1,783,129.10
+FINANCIAL FEDERAL CORP.                    0.000 FIF     317492106     25.1300        37,503.00      1,173,886.20        942,450.39
+FREEMARKETS INC                            0.000 FMKT    356602102      6.4390        28,170.00        154,939.75        181,386.63
+GETTY IMAGES INC.                          0.000 GYI     374276103     30.5500        40,860.00        700,634.31      1,248,273.00
+INTERMUNE INC                              0.000 ITMN    45884X103     25.5100         5,190.00        146,314.18        132,396.90
+INTERNATIONAL SPEEDWAY CORPORA             0.160 ISCA    460335201     37.2900        17,500.00        690,701.54        652,575.00
+INTERWOVEN INC                             0.000 IWOV    46114T102      2.6000        63,050.00        168,017.49        163,930.00
+INVERESK RESEARCH GROUP INC.               0.000 IRGI    461238107     21.5800        16,130.00        264,437.44        348,085.40
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     22.3600        28,260.00        925,394.21        631,893.60
+INVESTORS FINANCIAL SERVICES C             0.182 IFIN    461915100     27.3900        29,370.00        844,093.17        804,444.30
+LINCARE HOLDINGS INC.                      0.000 LNCR    532791100     31.6200        19,770.00        628,652.21        625,127.40
+MARTEK BIOSCIENCES CORP                    0.000 MATK    572901106     25.1600        14,000.00        268,022.59        352,240.00
+MICREL INCORPORATED                        0.000 MCRL    594793101      8.9800        17,359.00        128,022.88        155,883.82
+MICROCHIP TECHNOLOGY INC.                  0.327 MCHP    595017104     24.4500        69,620.00      1,381,704.18      1,702,209.00
+MICROMUSE INC.                             0.000 MUSE    595094103      3.8200        41,300.00        135,792.04        157,766.00
+NATIONAL INSTRUMENTS CORP.                 0.000 NATI    636518102     32.4900        40,380.00      1,078,668.96      1,311,946.20
+OUTBACK STEAKHOUSE INC                     1.393 OSI     689899102     34.4400        23,900.00        690,661.43        823,116.00
+PACKETEER INC                              0.000 PKTR    695210104      6.8600        42,158.00        230,389.03        289,203.88
+PANERA BREAD CO                            0.000 PNRA    69840W108     34.8100        13,110.00        355,723.53        456,359.10
+PATTERSON DENTAL COMPANY                   0.000 PDCO    703412106     43.7400        17,990.00        842,832.04        786,882.60

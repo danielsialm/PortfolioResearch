@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 044
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+AMERICAN PHYSICIANS                        0.000 ACAP    028884104     45.7900        14,100.00        418,451.35        645,639.00
+AMERICAN REPROGRAPHICS CO                  0.000 ARP     029263100     25.4100        14,100.00        248,271.96        358,281.00
+AMERICAN RETIREMENT CORP                   0.000 ACR     028913101     25.1300        45,600.00        726,103.57      1,145,928.00
+AMERICAN SCIENCE & ENGINEERING             0.000 ASEI    029429107     62.3700        12,900.00        654,781.97        804,573.00
+AMERICAN STATES WATER CO.                  2.922 AWR     029899101     30.8000        17,600.00        562,988.09        542,080.00
+AMERICAN VANGUARD CORP                     0.255 AVD     030371108     23.5000        11,200.00        228,633.54        263,200.00
+AMERICAN WOODMARK CORP.                    0.484 AMWD    030506109     24.7900        11,900.00        386,355.54        295,001.00
+AMERICANWEST BANCORP                       0.000 AWBC    03058P109     23.6300        11,010.00        181,101.55        260,166.30
+AMERICAS CAR-MART INC                      0.000 CRMT    03062T105     16.5200         9,500.00        204,098.87        156,940.00
+AMERIS BANCORP                             2.822 ABCB    03076K108     19.8400        12,460.00        173,525.67        247,206.40
+AMERISTAR CASINOS IN                       1.378 ASCA    03070Q101     22.7000        25,800.00        305,496.56        585,660.00
+AMERON INTERNATIONAL CORP                  1.755 AMN     030710107     45.5800        16,200.00        570,666.07        738,396.00
+AMES NATIONAL CORP                         3.889 ATLO    031001100     25.7100         7,400.00        272,091.59        190,254.00
+AMICAS INC                                 0.000 AMCS    001712108      4.9600        47,500.00        217,117.75        235,600.00
+AMIS HOLDINGS INC                          0.000 AMIS    031538101     10.6500         8,800.00        131,039.95         93,720.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100      5.6000         1,200.00          5,855.76          6,720.00
+AMN HEALTHCARE SERVICES INC                0.000 AHS     001744101     19.7800        12,200.00        182,022.21        241,316.00
+AMSURG CORP                                0.000 AMSG    03232P405     22.8600        31,075.00        691,883.90        710,374.50
+AMYLIN PHARMACEUTICALS INC                 0.000 AMLN    032346108     39.9200       114,000.00      2,869,724.20      4,550,880.00
+ANALOGIC CORP.                             0.835 ALOG    032657207     47.8500        14,500.00        653,522.93        693,825.00
+ANAREN INC.                                0.000 ANEN    032744104     15.6300        41,700.00        540,242.84        651,771.00
+ANCHOR BANCORP WISCONSIN INC.              2.109 ABCW    032839102     30.3400        34,400.00        894,389.39      1,043,696.00
+ANDERSONS INC/THE                          0.789 ANDE    034164103     43.0800         7,000.00        241,227.25        301,560.00
+ANDRX GROUP                                0.000 ADRX    034553107     16.4700        97,900.00      1,914,561.23      1,612,413.00
+ANGIODYNAMICS INC                          0.000 ANGO    03475V101     25.5300         2,500.00         52,928.25         63,825.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     39.1200        33,700.00        888,983.26      1,318,344.00
+ANSOFT CORP                                0.000 ANST    036384105     34.0500        16,300.00        303,632.10        555,015.00
+ANSYS INC                                  0.000 ANSS    03662Q105     42.6900        33,400.00        560,486.31      1,425,846.00
+ANTEON INTERNATIONAL CORP                  0.000 ANT     03674E108     54.3500        29,200.00        932,578.94      1,587,020.00
+ANTHRACITE CAPITAL INC                    10.636 AHR     037023108     10.5300        85,200.00      1,011,176.32        897,156.00
+ANWORTH MORTGAGE ASS                       1.095 ANH     037347101      7.3000        89,900.00        870,738.02        656,270.00
+APOGEE ENTERPRISES INC.                    1.603 APOG    037598109     16.2200        29,300.00        389,976.43        475,246.00
+APOLLO INVESTMENT CORP                     9.816 AINV    03761U106     17.9300        44,000.00        615,962.48        788,920.00
+APPLIED FILMS CORP                         0.000 AFCO    038197109     20.7700        31,964.00        761,768.99        663,892.28
+APPLIED INDUSTRIAL TECH INC.               1.780 AIT     03820C105     33.6900        40,000.00        804,776.77      1,347,600.00
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109      2.5700       324,900.00        910,537.82        834,993.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     24.1100        51,700.00      1,286,438.34      1,246,487.00
+AQUANTIVE INC                              0.000 AQNT    03839G105     25.2400        59,700.00        692,658.72      1,506,828.00
+AQUILA INC                                19.444 ILA     03840P102      3.6000       373,200.00      2,093,570.16      1,343,520.00

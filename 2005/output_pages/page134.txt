@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 101
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+BRIGHT HORIZON FAMIL                       0.000 BFAM    109195107     37.0500           100.00          1,779.07          3,705.00
+BRISTOL WEST HOLDINGS INC                  1.471 BRW     11037M105     19.0300           300.00          5,526.54          5,709.00
+BROOKFIELD HOMES CORP                      0.643 BHS     112723101     49.7300         1,100.00         32,115.34         54,703.00
+BROOKLINE BANCORP IN                       2.399 BRKL    11373M107     14.1700           700.00         10,189.69          9,919.00
+BRUKER BIOSCIENCES CORP                    0.000 BRKR    116794108      4.8600         1,900.00          8,149.01          9,234.00
+BRUSH ENGINEERED MATERIALS                 3.018 BW      117421107     15.9000           100.00          1,394.07          1,590.00
+BUCKEYE TECHNOLOGIES INC.                  0.000 BKI     118255108      8.0500           100.00          1,203.12            805.00
+BUCKLE INC                                 2.109 BKE     118440106     32.2400           100.00          2,803.90          3,224.00
+BUILDERS FIRSTSOURCE INC                   0.000 BLDR    12008R107     21.3700         2,200.00         49,170.00         47,014.00
+BURLINGTON COAT FACTORY WAREHO             0.099 BCF     121579106     40.2100           300.00          5,576.64         12,063.00
+C-COR INC                                  0.000 CCBL    125010108      4.8600         8,500.00         56,793.22         41,310.00
+CABELAS INC                                0.000 CAB     126804301     16.6000           100.00          1,955.62          1,660.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     29.3300           100.00          3,849.05          2,933.00
+CABOT OIL & GAS CORP.                      0.354 COG     127097103Q    45.1000           200.00          4,598.83          9,020.00
+CAL DIVE INTERNATIONAL INC                 0.000 CDIS    127914109     35.8900           300.00          3,819.39         10,767.00
+CALAMOS ASSET MANAGEMENT-A                 0.890 CLMS    12811R104     31.4500         2,200.00         55,461.73         69,190.00
+CALIFORNIA PIZZA KITCHEN INC               0.000 CPKI    13054D109     31.9700           100.00          2,058.79          3,197.00
+CALIFORNIA WTR SVC G                       2.982 CWT     130788102     38.2300           100.00          3,183.99          3,823.00
+CALLAWAY GOLF COMPANY                      2.023 ELY     131193104     13.8400         4,200.00         60,536.14         58,128.00
+CANDELA CORP                               0.000 CLZR    136907102     14.4400         2,200.00         22,427.55         31,768.00
+CAPITAL CITY BK GROU                       1.895 CCBG    139674105     34.2900           200.00          7,439.67          6,858.00
+CAPITAL CROSSING BANK                      0.000 CAPX    140071101     33.4000           100.00          3,107.92          3,340.00
+CARBO CERAMICS, INC.                       0.707 CRR     140781105     56.5200           100.00          3,737.29          5,652.00
+CARDINAL FINANCIAL CORP                    0.090 CFNL    14149F109     11.0000         4,300.00         40,142.73         47,300.00
+CARPENTER TECHNOLOGY                       0.851 CRS     144285103     70.4700           300.00          9,376.32         21,141.00
+CARRIZO OIL & GAS INC                      0.000 CRZO    144577103     24.7100         3,100.00         52,780.95         76,601.00
+CARTERS INC                                0.000 CRI     146229109     58.8500         1,300.00         66,522.42         76,505.00
+CASCADE BANCORP                            1.564 CACB    147154108     23.0100           100.00          1,918.78          2,301.00
+CASCADE CORP.                              1.279 CAE     147195101Q    46.9100           200.00          6,453.99          9,382.00
+CASEY'S GENERAL STORES INC.                0.725 CASY    147528103     24.8000           200.00          2,942.72          4,960.00
+CASH AMERICAN INT'L. INC.                  0.431 CSH     14754D100     23.1900           100.00          2,049.76          2,319.00
+CASTLE (A.M.) & CO.                        1.098 CAS     148411101     21.8400         1,000.00         14,702.26         21,840.00
+CASUAL MALE RETAIL GROUP INC               0.000 CMRG    148711104      6.1300        12,900.00         88,576.90         79,077.00
+CATHAY GENERAL BANCORP                     1.001 CATY    149150104     35.9400           200.00          5,464.10          7,188.00
+CATO CORP CL A                             2.424 CTR     149205106     21.4500           700.00          9,843.55         15,015.00
+CBEYOND COMMUNICATIONS INC                 0.000 CBEY    149847105     10.3000         1,100.00         13,090.00         11,330.00
+CBIZ INC.                                  0.000 CBIZ    124805102      6.0200         3,200.00         13,125.65         19,264.00
+CCC INFORMATION SVCS                       0.000 CCCG    12487Q109     26.2200         2,000.00         41,735.00         52,440.00
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     34.0400           100.00          2,323.70          3,404.00

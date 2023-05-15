@@ -1,0 +1,49 @@
+ASOF02   Date 01/21/2003 Time 18:53:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 125
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 60
+Instrument - COM       COMMON STOCK
+
+MPS GROUP INC                              0.000 MPS     553409103      5.5400       112,500.00        558,095.22        623,250.00
+MYKROLIS CORP                              0.000 MYK     62852P103      7.3000        10,000.00        107,596.91         73,000.01
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     21.8400        17,000.00        299,267.47        371,280.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     24.3100        28,000.00        734,415.49        680,680.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108      8.5200        14,600.00        177,653.49        124,392.00
+OPTIMAL ROBOTICS CORP.                     0.000 OPMR    68388R208      6.0000        17,000.00        196,447.97        102,000.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106      4.2200       172,100.00        664,121.74        726,262.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     10.9900        40,000.00        538,088.97        439,600.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101      5.0700        99,100.00      1,253,908.93        502,437.00
+PEPSIAMERICAS INC                          0.297 PAS     71343P200Q    13.4300        50,000.00        697,140.26        671,500.00
+PHARMACOPEIA INC                           0.000 PCOP    71713B104      8.9200        87,800.00      1,133,405.70        783,176.00
+PITTSTON BRINK'S GROUP                     0.541 PZB     725701106Q    18.4800        54,400.00      1,117,504.92      1,005,312.00
+PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100      9.8800        95,000.00        909,427.22        938,600.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-DAV  IT-DAV         1.0000       587,890.87        587,890.84        587,890.88
+QUANTA SERVICES INC.                       0.000 PWR     74762E102      3.5000        37,600.00        369,423.74        131,600.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      2.6700       262,900.00      2,486,212.25        701,943.00
+QUINTILES TRANSNATIONAL CORP.              0.000 QTRN    748767100     12.1000        17,200.00        239,186.04        208,120.00
+RYDER SYS. INC.                            2.673 R       783549108Q    22.4400        45,000.00        852,447.86      1,009,800.00
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     14.8500        19,100.00        323,690.98        283,635.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     15.6800        58,100.00        894,748.93        911,008.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103      6.1800       150,400.00        802,817.65        929,472.00
+TYSON FOODS INC. CL-A                      1.426 TSN     902494103     11.2200        50,000.00        550,822.53        561,000.00
+U.S. INDUSTRIES INC.                       0.000 USI     912080108      2.6300       157,600.00        678,979.94        414,488.00
+UNIFI INC                                  0.000 UFI     904677101      5.2500        33,000.00        289,076.91        173,250.00
+UNISYS CORP.                               0.000 UIS     909214108      9.9000       100,000.00      1,348,862.08        990,000.00
+UNOVA INC.                                 0.000 UNA     91529B106      6.0000       105,500.00        340,772.39        633,000.00
+VISX INC                                   0.000 EYE     92844S105      9.5800        64,600.00        921,813.66        618,868.00
+WABTEC                                     0.284 WAB     929740108     14.0400        67,000.00        808,969.24        940,680.00
+WAVECOM SA-ADR                             0.000 WVCM    943531103     14.1500        10,300.00        126,084.56        145,745.00
+
+Instrument Total            68                                                     5,530,790.87     52,629,918.73     40,517,031.87
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+RECKSON ASSOCIATES RE                      8.076 RA      75621K106Q    21.0500         9,000.00        211,924.73        189,450.00
+
+Instrument Total             1                                                         9,000.00        211,924.73        189,450.00
+

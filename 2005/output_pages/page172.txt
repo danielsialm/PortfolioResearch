@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 139
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+COLGATE PALMOLIVE                          2.114 CL      194162103Q    54.8500        15,500.00        826,958.12        850,175.00
+COMCAST CORP - CL A                        0.000 CMCSA   20030N101     25.9600        53,765.00      1,616,501.08      1,395,739.40
+COMMERCE BANCORP INC                       1.394 CBH     200519106     34.4100        21,100.00        681,132.05        726,051.00
+COMMERCE BANCSHARES                        1.841 CBSH    200525103     52.1200        10,461.00        460,451.20        545,227.32
+COMMERCE GROUP INC M                       2.653 CGI     200641108     57.2800         2,700.00        162,952.68        154,656.00
+COMMUNITY HEALTH SYS                       0.000 CYH     203668108     38.3400        10,700.00        390,008.68        410,238.00
+COMPASS BANCSHARES INC                     2.899 CBSS    20449H109     48.2900           400.00         18,092.17         19,316.00
+COMPUTER ASSOCIATE INTL. INC.              0.567 CA      204912109S    28.1900         3,000.00         66,628.08         84,570.00
+CONAGRA FOODS, INC.                        5.374 CAG     205887102Q    20.2800        31,300.00        793,194.87        634,764.00
+CONOCOPHILLIPS                             2.131 COP     20825C104Q    58.1800        36,202.00      1,486,651.28      2,106,232.36
+CONSECO INC                                0.000 CNO     208464883     23.1700        18,600.00        397,538.61        430,962.00
+CONSOL ENERGY INC.                         0.859 CNX     20854P109     65.1800         2,700.00        165,488.88        175,986.00
+CONSOLIDATED EDISON INC.                   4.921 ED      209115104Q    46.3300         8,800.00        407,913.73        407,704.00
+CONSTELLATION BRANDS INC-A                 0.000 STZ     21036P108     26.2300         4,300.00        101,598.17        112,789.00
+CONSTELLATION ENERGY GROUP INC             2.326 CEG     210371100Q    57.6000         5,500.00        232,448.93        316,800.00
+COOPER CAMERON CORP.                       0.000 CAM     216640102     41.4000         7,100.00        260,003.65        293,940.00
+CORNING INC                                0.000 GLW     219350105Q    19.6600        23,400.00        449,971.56        460,044.00
+CORPORATE EXECUTIVE BOARD CO               0.445 EXBD    21988R102     89.7000         1,200.00         77,574.92        107,640.00
+COSTCO WHOLESALE CORP.                     0.929 COST    22160K105     49.4700         5,500.00        248,558.30        272,085.00
+COUNTRYWIDE FINANCIAL CORP                 1.754 CFC     222372104Q    34.1900         3,900.00         74,001.50        133,341.00
+COVANCE INC                                0.000 CVD     222816100     48.5500        10,200.00        493,292.84        495,210.00
+COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     56.9600         4,875.00        138,324.17        277,680.00
+CREE INC                                   0.000 CREE    225447101     25.2400         5,400.00        131,183.62        136,296.00
+CROWN CASTLE INTL CO                       0.000 CCI     228227104     26.9100         6,000.00        152,784.56        161,460.00
+CSX CORP.                                  1.024 CSX     126408103Q    50.7700         7,800.00        316,677.74        396,006.00
+CVS CORP.                                  0.586 CVS     126650100Q    26.4200        24,300.00        502,329.10        642,006.00
+DADE BEHRING HOLDINGS INC                  0.293 DADE    23342J206     40.8900         4,200.00        126,576.45        171,738.00
+DANAHER CORP                               0.143 DHR     235851102     55.7800         6,600.00        277,532.15        368,148.00
+DARDEN RESTAURANTS INC                     1.028 DRI     237194105     38.8800        18,500.00        597,586.34        719,280.00
+DAVITA INC.                                0.000 DVA     23918K108     50.6400        17,250.00        761,317.35        873,540.00
+DEAN FOODS CO                              0.000 DF      242370104     37.6600        21,100.00        767,161.34        794,626.00
+DEERE & CO.                                2.290 DE      244199105Q    68.1100         1,000.00         54,623.31         68,110.00
+DEL MONTE FOODS CO                         1.534 DLM     24522P103     10.4300        18,800.00        198,194.64        196,084.00
+DELL INC                                   0.000 DELL    24702R101     29.9900        37,700.00      1,282,025.46      1,130,623.00
+DELUXE CORP.                               5.308 DLX     248019101Q    30.1400         9,100.00        298,321.04        274,274.00
+DENTSPLY INTERNATIONAL INC.                0.521 XRAY    249030107Q    53.6900         1,000.00         55,171.13         53,690.00
+DEVON ENERGY CORPORATION                   0.479 DVN     25179M103     62.5400         8,600.00        223,094.85        537,844.00
+DEX MEDIA INC                              1.328 DEX     25212E100     27.0900         5,100.00        134,193.46        138,159.00
+DIAMOND OFFSHORE DRILLING                  0.718 DO      25271C102     69.5600         9,000.00        352,243.01        626,040.00

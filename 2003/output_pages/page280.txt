@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 048
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MEDIACOM COMMUNICATIONS CORP                 0.000     58446K105   MCCC            40,300          403,308.49          349,401.00
+MEDICAL ACTION INDUSTRIES INC                0.000     58449L100   MDCI             9,400          150,369.89          175,874.00
+MEDICINES COMPANY                            0.000     584688105   MDCO            50,400        1,140,564.90        1,484,784.00
+MEDICIS PHARMACEUTICAL CORP                  0.280     584690309   MRX             73,790        3,868,205.45        5,261,227.00
+MEDIMMUNE INC                                0.000     584699102   MEDI           507,300       15,077,987.07       12,885,420.00
+MEDIS TECHNOLOGIES L                         0.000     58500P107   MDTL            14,200          120,211.08          151,940.00
+MEDIWARE INFORMATION SYSTEMS                 0.000     584946107   MEDW            10,375          148,290.92          165,585.00
+MEDQUIST INC.                                0.000     584949101   MEDQ            21,700          399,310.55          348,502.00
+MEDTRONIC INC                                0.596     585055106 Q MDT          2,414,200       72,859,285.83      117,354,261.97
+MELLON FINANCIAL CORP.                       1.993     58551A108 Q MEL            917,400       25,566,832.52       29,457,714.02
+MEMBERWORKS INC                              0.000     586002107   MBRS             8,100          225,091.16          220,077.00
+MEMC ELECTR MATLS IN                         0.000     552715104   WFR            107,100        1,109,012.56        1,030,302.00
+MENTOR CORP/MINN                             2.493     587188103   MNT             49,100          784,096.02        1,181,346.00
+MENTOR GRAPHICS CORP.                        0.000     587200106   MENT           113,825        1,228,545.29        1,655,015.50
+MERCANTILE BANC.                             2.896     587405101 Q MRBK            79,600        1,640,196.21        3,628,167.98
+MERCANTILE BANK CORP                         0.904     587376104   MBWM             7,100          214,600.01          259,150.00
+MERCHANTS BANCSHARES                         3.535     588448100   MBVT             7,000          188,632.74          213,850.00
+MERCK & CO INC                               3.203     589331107 Q MRK          4,748,244      210,974,877.22      219,368,872.81
+MERCURY COMPUTER SYSTEMS INC                 0.000     589378108   MRCY            66,200        1,806,574.64        1,648,380.00
+MERCURY GENERAL CORP.                        2.835     589400100   MCY             48,600        2,252,464.77        2,262,330.01
+MERCURY INTERACTIVE CORP.                    0.000     589405109   MERQ           207,300        8,349,362.28       10,083,071.99
+MEREDITH CORPORATION                         0.778     589433101 Q MDP             75,350        3,241,781.85        3,677,833.46
+MERIDIAN BIOSCIENCE INC                      3.451     589584101   VIVO            53,435          543,595.64          557,327.05
+MERIDIAN RESOURCE CO                         0.000     58977Q109   TMR             49,800          236,559.13          295,812.00
+MERIT MED SYS INC                            0.000     589889104   MMSI            51,597          673,108.41        1,148,556.65
+MERITAGE CORP                                0.000     59001A102   MTH              9,606          507,502.02          636,973.86
+MERIX CORP                                   0.000     590049102   MERX            31,600          788,327.24          775,148.00
+MERRILL LYNCH & CO. INC.                     1.091     590188108 Q MER          2,110,870       83,007,870.76      123,802,525.55
+MESA AIR GROUP INC                           0.000     590479101   MESA            77,300          792,517.40          967,796.01
+MESTEK INC                                   0.000     590829107   MCC             19,000          339,015.14          365,940.00
+METHODE ELECTRONICS CL-A                     1.635     591520200   METH           109,500        1,192,075.39        1,339,185.00
+METLIFE INC                                  0.683     59156R108   MET            771,843       23,120,981.03       25,987,953.81
+METRIS COMPANIES INC.                        0.900     591598107   MXT             34,300          186,170.86          152,292.00
+METRO GOLDWYN MAYER                          0.000     591610100   MGM            202,115        2,894,365.20        3,454,145.34
+METRO ONE TELECOMMUNICATIONS                 0.000     59163F105   MTON           164,400          799,857.24          427,440.00
+METROLOGIC INSTRUMENTS INC                   0.000     591676101   MTLG            14,800          367,475.39          399,600.00
+METTLER-TOLEDO INTERNATIONAL                 0.000     592688105   MTD             86,800        3,486,727.35        3,663,828.01
+MFA MORTGAGE INVESTMENTS INC                10.256     55272X102   MFA             71,400          741,184.59          696,150.00
+MGE ENERGY INC                               4.293     55277P104   MGEE            16,800          552,179.34          529,368.00
+MGI PHARMA INC                               0.000     552880106   MOGN            41,800          951,065.54        1,720,070.00

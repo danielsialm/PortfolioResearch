@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 155
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+ALBANY INTL CL-A                           0.826 AIN     012348108Q    33.9000        26,600.00        750,778.40        901,740.00
+ALBEMARLE CORP                             1.935 ALB     012653101     29.9700        23,100.00        660,216.17        692,307.00
+ALLEGHENY TECHNOLOGIES INC                 1.815 ATI     01741R102     13.2200        53,200.00        480,456.55        703,304.00
+AMERICAN EAGLE OUTFITTERS                  0.000 AEOS    02553E106     16.4000        32,500.00        530,991.48        533,000.00
+AMERUS GROUP CO                            1.143 AMH     03072M108     34.9700        20,300.00        594,300.48        709,891.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     25.8800        22,900.00        523,291.73        592,652.00
+ARGONAUT GROUP INC                         0.000 AGII    040157109     15.5400        35,900.00        567,820.12        557,886.00
+ATWOOD OCEANICS                            0.000 ATW     050095108     31.9400        16,400.00        441,985.56        523,816.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     10.2200        62,600.00        517,990.21        639,772.00
+BANCORPSOUTH INC                           3.035 BXS     059692103     23.7200        28,300.00        609,050.52        671,276.00
+BANKATLANTIC BANCORP INC                   0.694 BBX     065908501     19.0000        31,300.00        404,983.26        594,699.98
+BROOKLINE BANCORP IN                       2.216 BRKL    11373M107     15.3400        41,600.00        603,660.67        638,144.00
+CASELLA WASTE SYS IN                       0.000 CWST    147448104     13.6900        54,500.00        504,945.08        746,105.00
+CHOICE HOTELS INTL INC                     2.269 CHH     169905106     35.2500        17,200.00        509,497.98        606,300.00
+CIBER INC.                                 0.000 CBR     17163B102      8.6600        67,200.00        596,788.44        581,952.00
+CLARK INC                                  7.484 CLK     181457102     19.2400        33,900.00        525,430.87        652,236.00
+COMMONWEALTH TELEPHONE ENTERPR             0.000 CTCO    203349105     37.7500        19,700.00        801,868.69        743,675.00
+CONSOL ENERGY INC.                         2.162 CNX     20854P109     25.9000        36,900.00        805,030.38        955,710.00
+COOPER TIRE & RUBBER                       1.964 CTB     216831107Q    21.3800        47,000.00        814,580.96      1,004,860.00
+COPART INC                                 0.000 CPRT    217204106     16.5000        51,400.00        551,640.47        848,099.99
+CORN PRODUCTS INT'L INC.                   1.393 CPO     219023108     34.4500        12,300.00        380,253.26        423,735.00
+COVENANT TRANSPORT INC CL-A                0.000 CVTI    22284P105     19.0100        34,400.00        678,167.60        653,944.00
+CSK AUTO CORP                              0.000 CAO     125965103     18.7700        26,900.00        389,751.37        504,913.00
+CULLEN/FROST BANKERS INC                   2.366 CFR     229899109     40.5700        20,300.00        668,719.90        823,571.00
+DIAGNOSTIC PRODUCTS CORP                   0.522 DP      252450101     45.9100         9,700.00        401,708.49        445,327.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     13.3500        32,400.00        402,762.11        432,540.01
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.0200        33,000.00        685,909.58        858,660.01
+ELKCORP                                    0.749 ELK     287456107     26.7000        24,400.00        555,697.98        651,480.00
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     13.9000        55,600.00        587,226.20        772,840.00
+FIRST MIDWEST BANCORP INC.                 2.715 FMBI    320867104     32.4100        26,200.00        768,321.74        849,142.00
+FOSSIL INC.                                0.000 FOSL    349882100     28.0100        25,550.00        656,052.92        715,655.50
+FRONTIER OIL CORP                          1.161 FTO     35914P105     17.2200        40,400.00        625,204.23        695,688.00
+FULLER H B CO                              1.513 FUL     359694106Q    29.7400        21,150.00        517,747.24        629,001.00
+FURNITURE BRANDS INTERNATIONAL             1.704 FBN     360921100     29.3300        31,550.00        802,583.24        925,361.50
+G & K SERV. CL-A                           0.190 GKSRA   361268105Q    36.7500        12,000.00        367,739.98        441,000.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    23.8700        36,500.00        771,651.29        871,255.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     31.7500        27,800.00        654,871.11        882,650.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102     13.5000        67,200.00        488,836.16        907,200.00
+GYMBOREE CORP                              0.000 GYMB    403777105     17.2300        42,600.00        692,252.98        733,998.00

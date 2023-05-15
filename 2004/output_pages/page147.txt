@@ -1,0 +1,41 @@
+ASOF02   Date 01/21/2005 Time 18:34:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 115
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+UNION PACIFIC CORP.                        1.784 UNP     907818108Q    67.2500        25,800.00      1,335,585.92      1,735,050.00
+UNIONBANCAL CORPORATION                    2.233 UB      908906100     64.4800        32,400.00      1,660,345.90      2,089,152.00
+UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     29.2700        52,000.00      1,564,394.00      1,522,040.00
+US BANCORP                                 3.831 USB     902973304     31.3200       252,100.00      5,389,224.60      7,895,772.00
+US CELLULAR CORP.                          0.000 USM     911684108     44.7600        34,900.00      1,055,505.84      1,562,124.00
+UST INC.                                   4.323 UST     902911106Q    48.1100        32,300.00      1,313,196.97      1,553,953.00
+VALERO ENERGY CORP.                        0.704 VLO     91913Y100Q    45.4000        32,400.00        712,551.20      1,470,960.00
+VERIZON COMMUNICATIONS                     3.801 VZ      92343V104Q    40.5100       284,800.00     12,224,948.23     11,537,248.00
+VIACOM INC-CLASS B                         0.769 VIA.B   925524308     36.3900       216,376.00      8,685,661.56      7,873,922.65
+WACHOVIA CORP.                             3.498 WB      929903102Q    52.6000       164,600.00      5,923,165.46      8,657,960.00
+WAL MART STORES INC                        0.984 WMT     931142103Q    52.8200        85,400.00      3,320,783.89      4,510,828.00
+WASHINGTON MUTUAL INC.                     4.351 WM      939322103     42.2800        58,800.00      1,925,512.22      2,486,064.00
+WASTE MANAGEMENT INC.                      2.505 WMI     94106L109     29.9400        24,700.00        597,177.41        739,518.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     32.8100        27,500.00        882,169.75        902,275.00
+WELLS FARGO COMPANY                        3.089 WFC     949746101     62.1500        72,300.00      2,620,547.71      4,493,445.00
+YAHOO INC                                  0.000 YHOO    984332106     37.6800        34,000.00      1,181,693.80      1,281,120.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     80.1200        28,400.00      1,127,765.57      2,275,408.00
+
+Instrument Total           212                                                    21,823,493.66    621,912,276.38    746,003,991.54
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+BOSTON PROPERTIES INC                      4.020 BXP     101121101     64.6700        11,900.00        548,513.37        769,573.00
+EQUITY OFFICE PROP                         5.340 EOP     294741103     29.1200       179,300.00      4,828,587.14      5,221,216.00
+PROLOGIS TRUST                             3.369 PLD     743410102Q    43.3300        40,900.00      1,611,908.56      1,772,197.00
+
+Instrument Total             3                                                       232,100.00      6,989,009.07      7,762,986.00
+
+Portfolio Total            215                                                    22,055,593.66    628,901,285.45    753,766,977.54
+

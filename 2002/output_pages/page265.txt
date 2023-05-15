@@ -1,0 +1,18 @@
+ASOF11   Date 01/21/2003 Time 18:53:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 015
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-FORCO   FOREIGN & COLONIAL
+Instrument - INTF      INTERNATIONAL FUNDS
+
+FOREIGN & COLONIAL - EQUITIES                0.000     IE-FOR                 1,191,142.74      119,114,274.40
+FOREIGN & COLONIAL - FIXED INCOME            0.000     IF-FOR                   120,162.16       12,016,216.65
+FOREIGN & COLONIAL - LQR                     0.000     IL-FOR                   963,198.48       96,319,848.56
+
+Instrument Total               3                                              2,274,503.39      227,450,339.61
+
+Portfolio Total                3                                              2,274,503.39      227,450,339.61        212,686,915.61

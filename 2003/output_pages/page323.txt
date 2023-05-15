@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - G         APARTMENTS
+
+APARTMENT INVT & MGMT                      6.956 AIV     03748R101     34.5000       244,304.00      9,314,033.42      8,428,488.00
+ARCHSTONE COMMUNITIES                      6.111 ASN     039583109Q    27.9800       390,480.00      8,444,928.71     10,925,630.40
+AVALONBAY COMMUNITIES                      5.857 AVB     053484101Q    47.8000       218,898.00      8,262,826.89     10,463,324.40
+BRE PROPERTIES  -CL A                      5.838 BRE     05564E106     33.4000       101,635.00      2,987,706.71      3,394,609.01
+CAMDEN PROPERTY TRUST                      5.733 CPT     133131102     44.3000        84,176.00      2,663,123.31      3,728,996.80
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100       558,426.00     12,627,773.65     16,479,151.26
+ESSEX PROPERTY TRUST INC.                  4.858 ESS     297178105     64.2200        47,500.00      2,358,140.98      3,050,450.00
+GABLES RESIDENTIAL TRUST                   6.937 GBP     362418105     34.7400        95,100.00      2,744,887.84      3,303,774.00
+HOME PROPERTIES OF NY INC.                 6.140 HME     437306103     40.3900        63,100.00      2,091,051.14      2,548,609.00
+POST PROPERTIES,INC.                       6.447 PPS     737464107Q    27.9200        77,725.00      2,279,253.24      2,170,082.01
+SUMMIT PROPERTIES INC                      5.620 SMT     866239106     24.0200        59,000.00      1,386,530.54      1,417,180.00
+UNITED DOMINION RE TRUST                   5.937 UDR     910197102     19.2000       246,700.00      3,671,076.38      4,736,640.00
+
+Instrument Total            12                                                    2,187,044.00      58,831,332.81     70,646,934.88
+
+Instrument -H      MANUFACTURED HOMES
+
+MANUFACTURED HOME COMM                     5.259 MHC     564682102     37.6500       134,500.00      4,810,145.99      5,063,925.00
+SUN COMMUNITIES INC                        6.304 SUI     866674104     38.7000        48,600.00      1,871,761.18      1,880,820.00
+
+Instrument Total             2                                                      183,100.00       6,681,907.17      6,944,745.00
+
+Instrument -J      REGIONAL MALLS
+
+CBL & ASSOC PROP                           5.132 CBL     124830100     56.5000        76,000.00      2,884,385.14      4,294,000.00
+GENERAL GROWTH PROP                        4.324 GGP     370021107Q    27.7500       450,684.00      5,821,286.57     12,506,481.00
+MILLS CORP.                                5.136 MLS     601148109     44.0000       103,600.00      2,949,976.36      4,558,400.00
+ROUSE CO                                   4.000 RSE     779273101     47.0000       213,100.00      6,181,768.66     10,015,700.00
+SIMON PROP GROUP INC.                      5.179 SPG     828806109Q    46.3400       462,570.00     12,650,683.13     21,435,493.80
+TAUBMAN CENTERS INC                        5.242 TCO     876664103Q    20.6000       122,300.00      2,025,399.67      2,519,380.00
+THE MACERICH CO                            5.483 MAC     554382101     44.5000       176,200.00      5,693,777.33      7,840,900.00
+
+Instrument Total             7                                                    1,604,454.00      38,207,276.86     63,170,354.80
+
+Instrument -K      STRIP CENTERS
+
+CHELSEA PROP GROUP INC                     3.904 CPG     163421100     54.8100        90,600.00      2,585,884.48      4,965,786.00
+DEVELOPERS DIVERSIFIED RE                  5.481 DDR     251591103Q    33.5700       168,700.00      3,532,666.69      5,663,259.00
+FEDERAL REALTY INV.                        5.105 FRT     313747206Q    38.3900       114,900.00      3,159,705.49      4,411,011.00

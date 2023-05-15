@@ -1,0 +1,26 @@
+ASOF02   Date 01/19/2006 Time 18:24:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCP       LARGE-CAP PASSIVE (Q
+Instrument - COM       COMMON STOCK
+
+WYETH                                      2.170 WYE     983024100Q    46.0700     1,474,800.00     56,040,755.26     67,944,036.00
+YAHOO INC                                  0.000 YHOO    984332106     39.1800     1,334,000.00     44,344,262.49     52,266,120.00
+YUM BRANDS, INC.                           0.981 YUM     988498101     46.8800       319,300.00      8,750,903.02     14,968,784.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     67.4400       272,100.00     11,690,746.66     18,350,424.00
+
+Instrument Total           199                                                   246,685,513.00  7,456,799,497.63  9,861,560,346.35
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+SIMON PROP GROUP INC.                      3.134 SPG     828806109Q    76.6300       189,700.00     13,614,769.00     14,536,711.00
+
+Instrument Total             1                                                       189,700.00     13,614,769.00     14,536,711.00
+
+Portfolio Total            200                                                   246,875,213.00  7,470,414,266.63  9,876,097,057.35
+

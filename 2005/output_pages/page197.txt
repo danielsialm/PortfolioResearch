@@ -1,0 +1,21 @@
+ASOF02   Date 01/19/2006 Time 18:24:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 164
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+Instrument Total            79                                                     7,641,516.92     50,369,711.57     62,281,648.21
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ECC CAPITAL CORP                          31.858 ECR     26826M108      2.2600       239,000.00        729,727.80        540,140.00
+
+Instrument Total             1                                                       239,000.00        729,727.80        540,140.00
+
+Portfolio Total             80                                                     7,880,516.92     51,099,439.37     62,821,788.21
+

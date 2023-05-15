@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 060
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+PULTE HOMES, INC.                          0.213 PHM     745867101Q    93.6200        15,500.00        880,954.98      1,451,110.00
+QLOGIC CORPORATION                         0.000 QLGC    747277101     51.6000        17,500.00        680,890.47        903,000.01
+QUALCOMM INC                               0.519 QCOM    747525103     53.9300       146,900.00      6,785,402.77      7,922,317.00
+QUEST DIAGNOSTICS INC                      0.820 DGX     74834L100     73.1100        13,500.00        957,912.96        986,985.00
+R.J. REYNOLDS TOBACCO HOLDINGS             6.534 RJR     76182K105     58.1500        26,300.00        887,032.42      1,529,344.99
+RADIAN GROUP INC.                          0.164 RDN     750236101     48.7500        29,300.00      1,130,414.83      1,428,375.00
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     19.3000        14,800.00        255,455.51        285,640.00
+RADIOSHACK CORP                            0.814 RSH     750438103Q    30.6800        52,100.00      1,416,657.71      1,598,427.99
+RAMBUS INC DEL                             0.000 RMBS    750917106     30.7000        15,400.00        266,020.45        472,780.00
+RAYMOND JAMES FINANCIAL INC                0.954 RJF     754730109     37.7000        23,100.00        785,192.20        870,870.00
+RAYONIER INC.                              2.601 RYN     754907103Q    41.5100         9,139.90        212,898.74        379,397.25
+RAYTHEON COMPANY                           2.663 RTN     755111507Q    30.0400        76,300.00      2,647,326.81      2,292,052.00
+READERS DIGEST ASSOCIATION                 1.364 RDA     755267101     14.6600        14,700.00        229,513.08        215,501.99
+REALNETWORKS INC                           0.000 RNWK    75605L104      5.7100        14,700.00        106,501.17         83,937.01
+RED HAT INC                                0.000 RHAT    756577102     18.7700        71,000.00        585,921.61      1,332,670.01
+REEBOK INTERNATIONAL LTD.                  0.763 RBK     758110100Q    39.3200         9,300.00        254,682.15        365,676.00
+REGIONS FINANCIAL CORP.                    3.440 RF      758940100Q    37.2000        41,200.00      1,256,158.91      1,532,640.00
+REGIS CORP                                 0.303 RGS     758932107     39.5200         8,000.00        187,138.51        316,160.00
+REINSURANCE GROUP AM                       0.621 RGA     759351109     38.6500        20,400.00        755,066.20        788,460.00
+RELIANT RESOURCES INC                      0.000 RRI     75952B105      7.3600        49,900.00        290,061.71        367,264.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     41.2000         9,000.00        258,282.74        370,800.00
+RENT-A-CENTER INC                          0.000 RCII    76009N100     29.8800        28,800.00        904,968.04        860,544.00
+REPUBLIC SERVICES INC                      0.936 RSG     760759100     25.6300        28,200.00        538,365.07        722,766.01
+RESMED INC                                 0.000 RMD     761152107     41.5400         6,200.00        256,529.96        257,548.00
+RESPIRONICS INC                            0.000 RESP    761230101     45.0900         6,300.00        281,610.00        284,067.00
+REYNOLDS & REYNOLDS CL-A                   1.514 REY     761695105     29.0500        12,300.00        338,391.32        357,314.99
+RITE AID CORP.                             0.000 RAD     767754104Q     6.0400        80,800.00        480,128.27        488,031.99
+ROBERT HALF INTL INC                       0.000 RHI     770323103     23.3400        27,300.00        609,151.09        637,182.00
+ROCKWELL AUTOMATION INC                    1.853 ROK     773903109Q    35.6000        30,800.00        727,547.65      1,096,480.01
+ROCKWELL COLLINS                           1.198 COL     774341101     30.0300        33,100.00        677,693.83        993,993.00
+ROHM & HAAS CO                             2.060 ROH     775371107Q    42.7100         6,000.00        197,757.58        256,260.00
+ROSS STORES INC                            0.435 ROST    778296103     26.4300        28,600.00        437,821.10        755,898.01
+RPM INTERNATIONAL INC.                     3.402 RPM     749685103Q    16.4600        60,400.00        841,227.85        994,184.00
+RUBY TUESDAY INC                           0.158 RI      781182100     28.4900        11,200.00        148,330.84        319,088.01
+RYDER SYS. INC.                            1.757 R       783549108Q    34.1500        10,700.00        248,338.14        365,405.00
+RYLAND GROUP INC                           0.451 RYL     783764103     88.6400        11,700.00        668,149.85      1,037,088.00
+SABRE HOLDINGS CORP.                       1.296 TSG     785905100     21.5900        24,600.00        752,692.42        531,114.00
+SAFECO CORP.                               1.900 SAFC    786429100Q    38.9300        24,000.00        750,391.59        934,320.00
+SAFEWAY INC                                0.000 SWY     786514208     21.9100        81,900.00      3,128,192.43      1,794,428.99

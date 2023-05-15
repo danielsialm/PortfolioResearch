@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 042
+ASOF10   Date 01/24/2002 Time 21:29:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 044
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-SYBRON DENTAL SPECIALTIES                    0.000     871142105   SYD             50,901          881,062.99        1,098,443.58
-SYKES ENTERPRISES                            0.000     871237103   SYKE            67,000          552,936.50          625,780.00
-SYLVAN LEARNING SYSTEMS INC                  0.000     871399101   SLVN            79,700        1,398,919.20        1,758,979.00
-SYMANTEC CORP                                0.000     871503108   SYMC           150,500        6,721,448.72        9,982,665.00
-SYMBOL TECHNOLOGIES INC                      0.125     871508107   SBL            873,310       15,013,130.27       13,868,162.82
-SYMMETRICOM INC                              0.000     871543104   SYMM            25,100          214,934.54          191,011.00
-SYNCOR INTL CORP-DEL                         0.000     87157J106   SCOR            23,100          503,602.60          661,584.00
-SYNOPSYS INC.                                0.000     871607107   SNPS           125,200        6,161,995.54        7,395,564.00
-SYNOVUS FINANCIAL CORP                       2.035     87161C105   SNV            615,068       14,080,571.40       15,407,453.40
-SYSCO CORP.                                  1.373     871829107 Q SYY            984,455       15,144,129.29       25,812,410.08
-SYSTEMS & COMPUTER TECH.                     0.000     871873105   SCTC            71,220        1,076,031.98          736,414.80
-T ROWE PRICE GROUP INC.                      1.727     74144T108 Q TROW           176,321        6,316,080.58        6,123,628.33
-TAKE-TWO INTERACTIVE SOFTWARE                0.000     874054109   TTWO           172,600        2,519,366.43        2,790,942.02
-TARGET CORP                                  0.535     87612E106 Q TGT          1,796,393       38,816,651.20       73,741,932.63
-TARO PHARMACEUTICAL INDUS                    0.000     M8737E108   TARO            13,500          274,116.12          539,325.00
-TBC CORP                                     0.000     872180104   TBCC            56,000          482,350.10          749,840.00
-TCF FINANCIAL CORP                           2.084     872275102   TCB            127,800        3,361,186.56        6,131,844.00
-TECH DATA CORP                               0.000     878237106   TECD           103,600        3,855,678.05        4,483,808.00
-TECHNE CORPORATION                           0.000     878377100   TECH            40,700        1,380,376.05        1,499,795.00
-TECHNITROL INC.                              0.506     878555101   TNL             48,100        1,249,490.02        1,328,522.00
-TECO ENERGY                                  5.259     872375100 Q TE             282,200        6,258,007.03        7,404,928.00
-TECUMSEH PRODUCTS CO CL-A                    2.528     878895200   TECUA           30,700        1,530,888.49        1,554,341.00
-TEKTRONIX, INC.                              0.000     879131100 Q TEK             66,156        1,048,767.17        1,705,501.68
-TELEDYNE TECHNOLOGIES INC                    0.000     879360105   TDY            154,300        2,362,026.99        2,513,547.00
-TELEFLEX INC                                 1.437     879369106 Q TFX             90,500        2,190,075.12        4,281,555.00
-TELEPHONE & DATA                             0.601     879433100   TDS            120,700        7,522,648.55       10,832,825.00
-TELETECH HOLDINGS INC                        0.000     879939106   TTEC            32,200          413,398.88          461,426.00
-TELLABS INC.                                 0.000     879664100   TLAB           549,267       20,201,169.23        8,217,034.31
-TEMPLE-INLAND INC.                           2.256     879868107 Q TIN             90,182        4,525,756.89        5,116,024.86
-TENET HEALTHCARE CORP                        0.000     88033G100   THC            518,553       15,161,653.07       30,449,432.16
-TENNANT COMPANY                              2.156     880345103   TNC             33,000        1,410,955.90        1,224,300.00
-TERADYNE INC                                 0.000     880770102   TER            496,372       21,177,859.25       14,960,652.08
-TESORO PETROLEUM CORP                        0.000     881609101   TSO             15,100          199,612.67          197,961.00
-TETRA TECH INC.                              0.000     88162G103   TTEK            50,000          727,636.47          995,500.00
-TETRA TECHNOLOGIES INC.                      0.000     88162F105   TTI             15,200          352,420.21          318,440.00
-TEXAS INDUSTRIES INC                         0.813     882491103   TXI             20,500          726,848.26          756,450.00
-TEXAS INSTRS INC                             0.321     882508104 Q TXN          3,791,155      109,022,452.97      106,152,340.01
-TEXTRON INC.                                 3.135     883203101 Q TXT            352,184       21,601,388.74       14,601,548.64
-THE FINISH LINE-CL A                         0.000     317923100   FINL            33,500          371,463.42          512,215.00
-THE MEN’S WEARHOUSE INC.                     0.000     587118100   MW              39,500        1,043,104.47          815,675.00
+TRINITY INDUSTRIES                           2.650     896522109   TRN             89,500        2,253,760.88        2,431,715.00
+TRIQUENT SEMICONDUCTOR                       0.000     89674K103   TQNT           763,540       16,256,028.55        9,361,000.35
+TRIUMPH GROUP INC                            0.000     896818101   TGI             25,600        1,193,278.94          832,000.00
+TRIZETTO GROUP INC                           0.000     896882107   TZIX            81,200          864,339.48        1,065,344.00
+TRUSTCO BANK CORP. NY                        4.136     898349105   TRST            69,345          620,566.97          871,666.65
+TRW INC.                                     1.889     872649108 Q TRW            292,867       12,824,143.36       10,847,793.68
+TUPPERWARE CORPORATION                       4.571     899896104   TUP             22,635          630,818.96          435,723.75
+TWEETER HOME ENTERTAINMENT GROUP             0.000     901167106   TWTR            12,298          317,415.72          356,642.01
+TXU CORPORATION                              5.090     873168108 Q TXU            521,063       19,609,441.98       24,568,120.45
+TYCO INT’L. LTD NEW                          0.084     902124106 Q TYC          4,043,292      137,350,747.34      238,149,898.80
+TYSON FOODS INC. CL-A                        1.385     902494103   TSN            786,867       11,319,150.58        9,088,313.84
+U.S. INDUSTRIES INC.                         0.000     912080108   USI            160,000          740,543.65          409,600.00
+UCAR INTERNATIONAL INC                       0.000     90262K109   UCR            110,100        1,354,100.97        1,178,070.00
+UCBH HOLDINGS INC                            0.562     90262T308   UCBH            19,900          496,878.12          565,956.00
+UGI CORP                                     5.298     902681105   UGI             26,700          545,347.47          806,340.00
+UIL HOLDINGS CORPORATION                     5.614     902748102   UIL             14,600          542,368.56          748,980.00
+ULTIMATE ELECTRONICS INC                     0.000     903849107   ULTE             5,600          155,671.60          168,000.00
+ULTRATECH STEPPER INC                        0.000     904034105   UTEK            50,800        1,222,003.36          839,216.00
+UNIFI INC                                    0.000     904677101   UFI             57,300          639,486.30          415,425.00
+UNILEVER UN                                  1.909     904784709 S UN           1,052,062       57,908,599.80       60,609,291.83
+UNION PACIFIC CORP.                          1.403     907818108 Q UNP            535,125       26,152,264.94       30,502,125.00
+UNION PLANTERS CORP.                         4.431     908068109   UPC             95,034        4,038,216.36        4,288,884.42
+UNISOURCE ENERGY CORP                        2.199     909205106   UNS             32,900          513,805.91          598,451.00
+UNISYS CORP.                                 0.000     909214108   UIS            762,902       14,149,433.52        9,566,791.08
+UNIT CORP                                    0.000     909218109   UNT             35,600          456,692.82          459,240.00
+UNITED AUTO GROUP INC                        0.000     909440109   UAG              1,500           40,140.00           38,715.00
+UNITED BANKSHARES INC.                       3.187     909907107   UBSI            47,300        1,259,984.44        1,365,078.00
+UNITED NATURAL FOODS INC.                    0.000     911163103   UNFI            17,500          257,697.19          437,500.00
+UNITED RENTALS INCORPORATED                  0.000     911363109   URI            132,800        2,930,508.73        3,014,560.00
+UNITED STATES STEEL CORP.                    2.208     912909108 Q X              193,538        4,292,382.45        3,504,973.19
+UNITED STATIONERS INC                        0.000     913004107   USTR            77,500        2,212,012.04        2,607,875.00
+UNITED TECHNOLOGIES                          1.392     913017109 Q UTX            923,097       43,604,235.77       59,659,759.13
+UNITEDHEALTH GROUP INC                       0.042     91324P102 A UNH            617,707       18,235,793.45       43,715,124.40
+UNITRIN INC.                                 4.048     913275103   UTR            132,000        4,463,107.62        5,216,640.00
+UNIVERSAL COMPRESSION HLDGS                  0.000     913431102   UCO             30,400          999,260.65          896,496.00
+UNIVERSAL CORP-VA                            3.515     913456109 Q UVV             53,700        1,347,445.25        1,955,217.00
+UNIVERSAL FOREST PRODUCTS                    0.430     913543104   UFPI            26,700          411,100.95          558,831.00
+UNIVERSAL HEALTH SERVICES CL B               0.000     913903100   UHS            134,100        5,356,190.23        5,736,797.99
+UNIVERSITY OF PHOENIX ONLINE                 0.000     037604204   UOPX            48,475        1,571,422.15        1,579,800.25
+UNIVISION COMMUNICATIONS                     0.000     914906102   UVN            495,138       16,458,064.39       20,033,283.48

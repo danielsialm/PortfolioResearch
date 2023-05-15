@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 107
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+REYNOLDS AMERICAN INC                      4.834 RAI     761713106     78.6000        35,402.00      2,645,368.70      2,782,597.20
+ROCKWELL AUTOMATION INC                    1.332 ROK     773903109Q    49.5500         7,676.00        261,717.52        380,345.80
+ROCKWELL COLLINS                           1.217 COL     774341101     39.4400        69,097.00      1,667,498.70      2,725,185.68
+RYDER SYS. INC.                            1.256 R       783549108Q    47.7700        65,607.00      2,160,851.95      3,134,046.39
+SABRE HOLDINGS CORP.                       1.353 TSG     785905100     22.1600        63,042.00      1,479,804.01      1,397,010.72
+SANMINA-SCI CORP                           0.000 SANM    800907107      8.4700       119,716.00        955,602.23      1,013,994.52
+SCIENTIFIC ATLANTA INC.                    0.121 SFA     808655104Q    33.0100        82,544.00      2,032,735.44      2,724,777.44
+SEMPRA ENERGY                              2.726 SRE     816851109     36.6800        14,904.00        536,693.03        546,678.72
+SHERWIN-WILLIAMS CO                        1.523 SHW     824348106Q    44.6300         7,021.00        207,042.86        313,347.23
+SIEBEL SYSTEMS INC.                        0.000 SEBL    826170102     10.5000        51,371.00        715,460.23        539,395.50
+SIGMA-ALDRICH                              1.124 SIAL    826552101Q    60.4600        26,363.00      1,440,014.01      1,593,906.98
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     29.5900        36,397.00      1,009,253.24      1,076,987.23
+SOUTHERN PERU COPPER CORP                  6.985 PCU     843611104     47.2100         2,492.00        110,755.32        117,647.32
+SOUTHWEST AIRLINES                         0.110 LUV     844741108Q    16.2800       141,483.00      2,381,747.17      2,303,343.24
+SPRINT CORP.                               2.012 FON     852061100Q    24.8500       191,318.00      4,304,498.69      4,754,252.30
+SUN MICROSYSTEMS INC.                      0.000 SUNW    866810104      5.3800       717,441.00      3,868,496.11      3,859,832.58
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.3300       134,790.00      3,180,348.42      3,818,600.70
+SUPER VALU STORES INC.                     1.767 SVU     868536103Q    34.5200        92,742.00      2,032,538.76      3,201,453.84
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.4800        26,709.00        539,877.17        573,709.32
+SYBASE INC.                                0.000 SY      871130100     19.9500         3,602.00         49,207.60         71,859.90
+SYMBOL TECHNOLOGIES INC                    0.115 SBL     871508107     17.3000         8,830.00        159,057.41        152,759.00
+SYNOPSYS INC.                              0.000 SNPS    871607107     19.6200        67,263.00      2,014,390.79      1,319,700.06
+TEKTRONIX, INC.                            0.794 TEK     879131100Q    30.2100        21,897.00        464,458.28        661,508.37
+TEXAS INSTRS INC                           0.406 TXN     882508104Q    24.6200       331,453.00      9,185,591.32      8,160,372.86
+TIME WARNER INC.                           2.777 TWX     887317105     19.4400       223,990.00      3,984,527.30      4,354,365.60
+TXU CORPORATION                            3.485 TXU     873168108Q    64.5600         5,442.00        349,466.32        351,335.52
+TYSON FOODS INC. CL-A                      0.869 TSN     902494103     18.4000       170,828.00      2,839,397.43      3,143,235.20
+UGI CORP                                   3.055 UGI     902681105     40.9100         1,420.00         45,026.11         58,092.20
+UNIONBANCAL CORPORATION                    2.233 UB      908906100     64.4800        33,945.00      1,473,298.92      2,188,773.60
+UNISYS CORP.                               0.000 UIS     909214108     10.1800        14,647.00        153,103.34        149,106.46
+UNITED DEFENSE INDUSTRIES INC              0.000 UDI     91018B104     47.2500        28,791.00        881,346.62      1,360,374.75
+UNITEDHEALTH GROUP INC                     0.034 UNH     91324P102A    88.0300       110,649.00      5,034,978.94      9,740,431.47
+UNIVERSAL HEALTH SERVICES CL B             0.719 UHS     913903100     44.5000         7,711.00        382,456.81        343,139.50
+US BANCORP                                 3.831 USB     902973304     31.3200       157,252.00      3,395,366.02      4,925,132.64
+US CELLULAR CORP.                          0.000 USM     911684108     44.7600         1,309.00         55,329.82         58,590.84
+UST INC.                                   4.323 UST     902911106Q    48.1100        86,743.00      3,235,151.81      4,173,205.73
+VALERO ENERGY CORP.                        0.704 VLO     91913Y100Q    45.4000       160,482.00      4,247,440.53      7,285,882.80
+VALSPAR CORP                               1.599 VAL     920355104     50.0100        17,345.00        815,634.35        867,423.45
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     29.1500        11,462.00        276,845.12        334,117.30

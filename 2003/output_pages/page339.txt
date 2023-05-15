@@ -1,0 +1,18 @@
+ASOF11   Date 01/20/2004 Time 18:59:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ARROW   ARROWSTREET CAPITAL
+Instrument - INTF      INTERNATIONAL FUNDS
+
+ARROWSTREET CAPITAL - EQUITIES               0.000     IE-ARROW               6,294,670.02      629,467,002.05
+ARROWSTREET CAPITAL - FIXED INCOME           0.000     IF-ARROW                  29,577.12        2,957,712.29
+ARROWSTREET CAPITAL - LQR                    0.000     IL-ARROW                 241,892.40       24,189,240.89
+
+Instrument Total               3                                              6,566,139.55      656,613,955.23
+
+Portfolio Total                3                                              6,566,139.55      656,613,955.23        758,727,649.03

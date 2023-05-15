@@ -1,0 +1,14 @@
+ASOF10   Date 01/21/2005 Time 18:35:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - FUTURES5  FUTURES EXPOSURE
+
+S&P FUTURES INDEX 03/05                      0.000     CD:SP05H0                       10        2,980,707.28        3,034,250.01
+
+Instrument Total                      1                                                10        2,980,707.28        3,034,250.01
+

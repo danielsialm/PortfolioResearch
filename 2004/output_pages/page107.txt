@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 075
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+NAUTILUS GROUP INC                         1.654 NLS     63910B102     24.1700        31,800.00        511,464.41        768,606.00
+NAVARRE CORP                               0.000 NAVR    639208107     17.6000         8,900.00        125,412.02        156,640.00
+NAVIGANT CONSULTING                        0.000 NCI     63935N107     26.6000        40,700.00        548,045.07      1,082,620.00
+NAVIGANT INTERNATIONAL INC.                0.000 FLYR    63935R108     12.1700        15,600.00        205,022.49        189,852.00
+NAVIGATORS GROUP INC                       0.000 NAVG    638904102     30.1100         1,800.00         53,757.21         54,198.00
+NBC CAP CORP                               3.613 NBY     628729105     26.5700         7,700.00        203,067.12        204,589.00
+NBT BANCORP INC                            2.954 NBTB    628778102     25.7200        36,600.00        739,746.08        941,352.00
+NCI BUILDING SYS INC                       0.000 NCS     628852105     37.5000        21,600.00        495,967.27        810,000.00
+NCO GROUP INC.                             0.000 NCOG    628858102     25.8500        21,761.00        491,741.49        562,521.85
+NDC HEALTH CORP                            0.860 NDC     639480102     18.5900        26,200.00        611,385.90        487,058.00
+NEIGHBORCARE INC                           0.000 NCRX    64015Y104     30.7200        49,500.00        926,177.35      1,520,640.00
+NELNET INC  CL A                           0.000 NNI     64031N108     26.9300        18,300.00        333,622.68        492,819.00
+NEOSE TECHNOLOGIES I                       0.000 NTEC    640522108      6.7200        23,002.00        181,691.22        154,573.44
+NESS TECHNOLOGIES INC                      0.000 NSTC    64104X108     14.9000        14,900.00        215,551.40        222,010.00
+NETBANK INC                                0.768 NTBK    640933107     10.4100        51,500.00        735,233.74        536,115.00
+NETGEAR INC                                0.000 NTGR    64111Q104     18.1900        24,000.00        291,001.43        436,560.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2100        80,500.00      1,199,946.86        982,905.00
+NETRATINGS INC                             0.000 NTRT    64116M108     19.1700        24,910.00        345,462.53        477,524.70
+NETSCOUT SYS INC                           0.000 NTCT    64115T104      6.9800        26,355.00        176,905.42        183,957.90
+NETWORK EQUIPMENT TECH. INC.               0.000 NWK     641208103      9.8200        26,600.00        221,864.83        261,212.00
+NEUROGEN CORP                              0.000 NRGN    64124E106      9.3600        27,800.00        208,429.76        260,208.00
+NEW YORK & CO                              0.000 NWY     649295102     16.5200        11,100.00        219,461.13        183,372.00
+NEWMARKET CORP                             0.000 NEU     651587107     19.9000        25,400.00        438,406.18        505,460.00
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      5.1500        93,100.00        531,093.55        479,465.00
+NEWPORT CORP                               0.141 NEWP    651824104     14.1000        63,600.00      1,003,117.32        896,760.00
+NGP CAPITAL RESOURCES CO                   0.000 NGPC    62912R107     15.3700        17,700.00        260,879.93        272,049.00
+NICOR INC.                                 5.035 GAS     654086107Q    36.9400        49,000.00      1,636,637.06      1,810,060.00
+NITROMED INC                               0.000 NTMD    654798503     26.6500        10,900.00        196,923.76        290,485.00
+NJ RESOURCES CORP. COMMON                  3.138 NJR     646025106     43.3400        30,600.00        899,260.00      1,326,204.00
+NL INDS INC                                3.619 NL      629156407     22.1000        19,500.00        257,557.09        430,950.00
+NMS COMMUNICATIONS CORP                    0.000 NMSS    629248105      6.3100         5,800.00         34,803.50         36,598.00
+NN INC                                     2.422 NNBR    629337106     13.2100        18,600.00        229,474.82        245,706.00
+NOBLE INTERNATIONAL LTD                    1.961 NOBL    655053106     20.3900         7,100.00        187,130.80        144,769.00
+NORDSON CORP                               1.597 NDSN    655663102     40.0700        29,500.00        935,554.72      1,182,065.00
+NORTH PITTSBURGH SYS                       2.911 NPSI    661562108     24.7300        16,700.00        288,655.95        412,991.00
+NORTHFIELD LABORATORIES INC                0.000 NFLD    666135108     22.5500        21,100.00        278,088.70        475,805.00
+NORTHWEST AIRLINES CORP                    0.000 NWAC    667280101     10.9300        56,500.00        605,221.69        617,545.00
+NORTHWEST BANCORP IN                       1.913 NWSB    667328108     25.0900        20,900.00        476,497.16        524,381.00
+NORTHWEST NATURAL GAS CO.                  3.853 NWN     667655104     33.7400        30,300.00        829,515.38      1,022,322.00

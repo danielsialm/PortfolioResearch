@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+NIPPON STEEL CORP                            0.000     6642569      5401_       558,000.00          933,407.99
+NIPPON TEL+TEL CP                            0.000     6641373      9432_           430.00        1,630,946.61
+NISSAN MOTOR CO Y5                           0.000     6642860      7201_       187,400.00        1,651,861.29
+NOMURA HOLDINGS, INC.                        0.000     6643108      8604_       129,839.00        1,928,567.08
+NORDEA AB                                    0.059     5380031      NDA_S       132,200.00          693,001.31
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N       118,000.00        5,374,838.51
+NORSKE SKOGINDUSTRIER ASA                    0.000     7070396      NSG_N        91,550.00        1,661,547.39
+NORTEL NETWORKS CORP                         0.000     2583877      NT_CN       510,900.00        1,544,204.32
+NOVARTIS AG CHF 20                           0.056     7103065      NOVN_        55,998.00        2,104,495.14
+NOVO NORDISK A/S-B                           0.007     7077524      NOVOB       159,800.00        6,155,571.92
+NOVOZYMES A/S-B                              0.005     4658535      NZYMB        25,450.00          919,952.96
+NTT DOCOMO INC                               0.000     6129277      9437_         1,292.00        3,164,671.97
+OEST ELEKTRIZITATS                           2.706     4661607      OEEW_        10,900.00        1,131,189.89
+OMV AG AUSH100                               4.713     4651459      OMV_A        27,600.00        4,009,539.18
+ORIX CORP Y50                                0.000     6661144      8591_         9,500.00          727,096.92
+ORKLA ASA NWKR 6.2                           0.000     5459715      ORK_N       172,200.00        3,190,826.37
+OVERSEAS CHINESE BANKING CORP                0.438     6663689      OCBC_        98,000.00          557,534.92
+PANAFON HELLENIC TELECOM SA                  2.244     5560349      PANF_        59,400.00          438,146.30
+PEARSON ORD 25P                             21.860     0677608      PSON_        70,263.00        1,073,212.13
+PERNOD-RICARD FF20                           2.575     4682329      RI_FP         2,800.00          297,781.29
+PETRO-CANADA                                 0.290     2684316      PCA_C        41,400.00        1,654,140.27
+PEUGEOT SA FF35                             26.946     7103526      UG_FP        10,998.00          497,531.80
+PIN-PRINTEMPS-REDO                          15.216     5505072      PP_FP         3,845.00          415,042.66
+PLACER DOME INC                              0.071     2691714      PDG_C        52,300.00          657,046.22
+POWER CORP OF CANADA                         1.559     2697701      POW_C        20,300.00          625,561.80
+POWER FINANCIAL CORP                         2.031     2697864      PWF_C        17,200.00          553,559.56
+PREUSSAG AG NPV                             18.652     5666292      TUI_G         9,000.00          185,336.99
+PRUDENTIAL CORP GB                          27.212     0709954      PRU_L       128,920.00        1,448,076.72
+PUBLIC POWER CORP                            3.216     7268298      PPC_G        39,100.00          890,487.14
+RECKITT BENCKISER PLC                        3.795     0727871      RB/_L        46,254.00          856,429.71
+REED INTERNATIONAL                           7.750     0730835      REL_L        97,860.00          823,228.99
+RENAULT SA                                   3.343     4712798      RNO_F         9,497.00          522,851.67
+REPSOL - YPF, SA                            89.928     5669354      REP_S       186,600.00        2,562,226.97
+REUTERS GROUP ORD                           13.637     0236913      RTR_L        85,787.00          927,879.47
+RHONE POULENC ORD                           17.130     4736817      AVE_F        34,437.00        2,056,021.07
+RICOH CO Y50                                 0.000     6738220      7752_        65,000.00        1,150,297.92
+RIO TINTO PLC                              253.288     0718875      RIO_L        79,193.00        1,293,361.69
+ROCHE HLDGS AG CHF                           0.292     7108918      RO_SW         1,114.00          130,826.09
+ROCHE HLDGS AG GEN                           0.059     7110388      ROG_V        16,587.00        1,261,983.94

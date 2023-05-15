@@ -1,0 +1,55 @@
+Instrument - COM       COMMON STOCK
+
+ADVISORY BOARD CO/THE                      0.000 ABCO    00762W107     34.9100        10,700.00        432,953.90        373,537.00
+ANSOFT CORP                                0.000 ANST    036384105     12.8300        55,000.00        592,422.72        705,650.00
+BANK OF BERMUDA LTD                        2.580 BBDA    G07644100     44.9500         8,100.00        295,073.58        364,095.02
+BOSTON PRIVATE FINL HOLDING                0.805 BPFH    101119105     24.8400         8,600.00        194,660.24        213,624.00
+C.H.ROBINSON WORLDWIDE INC                 1.266 CHRW    12541W100     37.9100         4,500.00        163,636.29        170,595.01
+CHOICEPOINT INC.                           0.000 CPS     170388102     38.0900         8,200.00        300,952.34        312,338.00
+CITADEL BROADCASTING CORP                  0.000 CDL     17285T106     22.3700        19,700.00        381,025.07        440,689.00
+COGNEX CORP.                               0.849 CGNX    192422103     28.2400        23,100.00        561,962.64        652,344.00
+COHERENT INC.                              0.000 COHR    192479103     23.8000        27,100.00        664,369.00        644,980.00
+CONCORD COMMUNICATIONS INC                 0.000 CCRD    206186108     19.9700        10,900.00        222,747.98        217,673.00
+CORVEL CORP                                0.000 CRVL    221006109     37.6000         7,800.00        282,983.80        293,280.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     27.0500        24,800.00        543,454.98        670,839.98
+ESPEED INC                                 0.000 ESPD    296643109     23.4100        12,900.00        295,823.69        301,989.00
+EXPEDITORS INT'L. WASH INC.                0.424 EXPD    302130109     37.6600        16,400.00        586,428.91        617,624.00
+FIRST CMNTY BANCORP                        2.075 FCBP    31983B101     36.1400        11,900.00        380,544.82        430,066.00
+FOSSIL INC.                                0.000 FOSL    349882100     28.0100         3,100.00         87,096.31         86,831.00
+FRANKLIN BANK CORP                         0.000 FBTX    352451108     19.0000         1,100.00         15,950.00         20,900.00
+HELIX TECHNOLOGY                           0.777 HELX    423319102     20.5800        27,100.00        396,200.28        557,718.00
+II VI INC                                  0.000 IIVI    902104108     25.8000        19,600.00        466,602.61        505,680.00
+INET TECHNOLOGIES INC                      0.000 INTI    45662V105     12.0000         6,900.00         77,495.26         82,800.00
+IPAYMENT INC                               0.000 IPMT    46262E105     34.0000         9,000.00        225,183.46        306,000.00
+JETBLUE AIRWAYS CORP                       0.000 JBLU    477143101     26.5200        10,100.00        289,917.49        267,852.01
+KAYDON CORP                                1.857 KDN     486587108Q    25.8400        12,300.00        277,341.61        317,832.00
+KEITHLEY INSTRUMENTS INC                   0.819 KEI     487584104     18.3000        27,500.00        426,014.07        503,249.99
+KNIGHT TRANSPORTATION INC                  0.000 KNGT    499064103     25.6500        13,600.00        352,127.69        348,840.00
+MB FINL INC                                1.978 MBFI    55264U108     36.4000        10,000.00        295,855.08        364,000.00
+MICHAELS STORES                            0.905 MIK     594087108     44.2000         5,900.00        224,867.35        260,780.00
+MICREL INCORPORATED                        0.000 MCRL    594793101     15.5800        26,600.00        305,187.64        414,428.00
+MYKROLIS CORP                              0.000 MYK     62852P103     16.0800        30,900.00        374,902.05        496,872.00
+PHARMACEUTICAL RESOURCES INC               0.000 PRX     717125108     65.1500         2,500.00        139,039.67        162,875.00
+PINNACLE FINANCIAL PARTNERS IN             0.000 PNFP    72346Q104     23.5000        27,600.00        505,630.93        648,599.99
+PRIME MONEY MARKET - 6BB                   0.000 IT-DLB  IT-DLB         1.0000       740,935.00        740,935.00        740,935.03
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     24.4400        12,050.00        283,612.29        294,502.00
+RESPIRONICS INC                            0.000 RESP    761230101     45.0900        14,500.00        575,454.38        653,805.00
+ROPER INDUSTRIES INC                       0.781 ROP     776696106     49.2600        15,500.00        604,312.48        763,530.00
+SKYWEST INC                                0.441 SKYW    830879102     18.1200        12,200.00        221,249.59        221,064.00
+SOUTHCOAST FINANCIAL CORP                  0.000 SOCB    84129R100     21.0000         8,700.00        176,158.89        182,700.00
+TARO PHARMACEUTICAL INDUS                  0.000 TARO    M8737E108     64.5000         5,300.00        307,134.49        341,850.00
+TECHNE CORPORATION                         0.000 TECH    878377100     37.7800         4,500.00        171,210.32        170,010.00
+
+Instrument - COM       COMMON STOCK
+
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     22.6300        10,200.00        207,510.88        230,826.00
+ULTRALIFE BATTERIES INC                    0.000 ULBI    903899102     12.3800        20,100.00        287,445.15        248,838.00
+UNIT CORP                                  0.000 UNT     909218109     23.5500        19,200.00        400,093.60        452,160.00
+VALEANT PHARMACEUTICALS                    1.232 VRX     91911X104Q    25.1500        15,400.00        271,444.43        387,310.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     16.2000        18,800.00        348,313.60        304,560.00
+WINTRUST FINANCIAL CORP                    0.354 WTFC    97650W108     45.1000        12,700.00        411,845.05        572,770.00
+
+Instrument Total            45                                                     1,393,585.00     15,365,171.61     17,319,442.03
+
+Portfolio Total             45                                                     1,393,585.00     15,365,171.61     17,319,442.03
+

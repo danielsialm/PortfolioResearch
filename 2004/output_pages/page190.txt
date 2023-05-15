@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 158
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+21ST CENTY INS GROUP                       0.588 TW      90130N103     13.6000        11,500.00        147,792.87        156,400.00
+ABGENIX INC                                0.000 ABGX    00339B107     10.3400        58,500.00        589,265.83        604,890.00
+ABM INDUSTRIES INC.                        2.129 ABM     000957100     19.7200        28,600.00        522,863.00        563,992.00
+ACCELRYS INC                               0.000 ACCL    00430U103      7.8000         3,400.00         25,038.62         26,520.00
+ADAPTEC INC                                0.000 ADPT    00651F108      7.5900       119,800.00        946,659.50        909,282.00
+AFTERMARKET TECHNOLOGY                     0.000 ATAC    008318107     16.1000         9,100.00        126,492.73        146,510.00
+AGL RESOURCES INC                          3.489 ATG     001204106     33.2400        23,100.00        610,883.03        767,844.00
+AK STEEL HOLDING CORP                      1.727 AKS     001547108     14.4700        22,900.00        166,015.84        331,363.00
+ALABAMA NATL BANCORP                       1.938 ALAB    010317105     64.5000         5,600.00        350,357.84        361,200.00
+ALASKA AIRGROUP INC                        0.000 ALK     011659109     33.4900        26,600.00        709,230.04        890,834.00
+ALBANY INTL CL-A                           0.910 AIN     012348108Q    35.1600        10,800.00        294,082.15        379,728.00
+ALDERWOODS GROUP INC                       0.000 AWGI    014383103     11.3800        15,000.00        101,385.79        170,700.00
+ALLIANCE IMAGING INC                       0.000 AIQ     018606202     11.2500        24,500.00        119,124.50        275,625.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100      3.7000        27,600.00         94,918.92        102,120.00
+ALLOS THERAPEUTICS I                       0.000 ALTH    019777101      2.4000        33,900.00         73,505.37         81,360.00
+ALLOY INC                                  0.000 ALOY    019855105      8.0700        33,067.00        214,662.44        266,850.69
+AMERICAN AXLE & MFG HOLDINGS               1.956 AXL     024061103     30.6600         7,200.00        248,996.88        220,752.00
+AMERICAN EAGLE OUTFITTERS                  0.509 AEOS    02553E106     47.1000         6,500.00        243,995.05        306,150.00
+AMERICAN HOME MTG HL                       7.708 AHM     02660R107     34.2500        24,700.00        776,913.90        845,975.00
+AMERICAN PHYSICIANS                        0.000 ACAP    028884104     36.0200         5,400.00        147,717.00        194,508.00
+AMERICAN WOODMARK CORP.                    0.274 AMWD    030506109     43.6800         6,100.00        235,527.10        266,448.00
+ANTHRACITE CAPITAL INC                     9.061 AHR     037023108     12.3600        20,200.00        208,672.47        249,672.00
+APPLICA                                    0.000 APN     03815A106      6.0500        32,600.00        186,361.16        197,230.00
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109      4.2100        30,000.00        110,502.48        126,300.00
+APTAR GROUP INC.                           1.136 ATR     038336103Q    52.7800         7,900.00        302,705.05        416,962.00
+ARENA PHARMACEUTICALS INC                  0.000 ARNA    040047102      6.6900        18,500.00        100,582.65        123,765.00
+ARIBA INC                                  0.000 ARBA    04033V203     16.6000         4,500.00         36,290.14         74,700.00
+ARQULE INC                                 0.000 ARQL    04269E107      5.7900        11,600.00         63,964.72         67,164.00
+ASBURY AUTOMOTIVE GROUP                    0.000 ABG     043436104     13.7800           100.00          1,741.60          1,378.00
+ASHLAND INC                                1.884 ASH     044204105Q    58.3800        11,800.00        693,551.60        688,884.00
+ASIAINFO HLDGS INC                         0.000 ASIA    04518A104      5.9600        33,200.00        181,082.76        197,872.00
+ASSOCIATED BANC-CORP.                      3.011 ASBC    045487105     33.2100         3,800.00        110,304.35        126,198.00
+ATARI INC                                  0.000 ATAR    04651M105      2.9300        17,900.00         33,952.72         52,447.00
+AVIALL INC.                                0.174 AVL     05366B102Q    22.9700        13,300.00        146,910.88        305,501.00
+BANKATLANTIC BANCORP INC                   0.703 BBX     065908501     19.9000        50,600.00        923,461.98      1,006,940.00
+BANKUNITED FINANCIAL CORP-A                0.000 BKUNA   06652B103     31.9500        24,600.00        665,833.74        785,970.00
+BANNER CORP                                2.180 BANR    06652V109     31.1900         2,598.00         53,698.37         81,031.62
+BASSETT FURNITURE INDS.                    4.076 BSET    070203104Q    19.6250         3,900.00         52,318.50         76,537.50
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     34.1000         5,100.00        170,722.50        173,910.00

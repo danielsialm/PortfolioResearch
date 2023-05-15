@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 001
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+ADAMS CAPITAL MANAGEMENT III                 0.000     AVADAMS3    99404       11,700,000       11,700,000.00        8,340,330.00
+ADVANCED TECHOLOGY VII                       0.000     AVATV7      99405        6,270,535        6,270,535.01        4,769,436.99
+AIG GLOBAL EMERGING MARKETS                  0.000     VEA02504    AIGG        39,666,643       39,666,643.63       50,064,944.82
+AIG GLOBAL EMERGING MARKETS FUND II          0.000     AGAIG2      99408        1,759,935        1,759,935.08        1,759,935.08
+ALPHA CAPITAL FUND II                        0.000     020997011   ACFD         2,098,870        2,098,870.56          342,453.99
+APOLLO INVESTMENT FUND IV                    0.000     AAPOLLOIV   99404       32,217,148       32,217,148.34       60,693,615.00
+APOLLO INVESTMENT FUND V                     0.000     ABAPOLLO5   99405       10,938,111       10,938,110.76       26,137,817.00
+ARES CORPORATE OPPORTUNITES FUND             0.000     AOARES      99407       24,942,016       24,942,015.83       24,864,423.84
+ATHENIAN VENTURE PARTNERS                    0.000     VEA01458    OVVF           123,787          123,786.93        1,140,234.01
+BAIN CAPITAL FUND VII                        0.000     ABBAIN7     99404       45,689,145       45,689,144.22       49,376,210.99
+BAIN CAPITAL FUND VIII                       0.000     ABBAIN8     99408       21,600,000       21,600,000.00       21,465,221.01
+BAIN CAPITAL VENTURE FUND                    0.000     AVBAIN      99405        6,900,000        6,900,000.00        4,958,368.99
+BAKER COMMUNICATIONS FUND                    0.000     AVBAKERCOM  BAKER       14,052,689       14,052,689.36       10,916,990.43
+BAKER COMMUNICATIONS FUND II                 0.000     ABAKERCOM2  AVBAK       37,390,305       37,390,305.20       16,325,566.05
+BEACON GROUP ENERGY FUND II                  0.000     ABEACONGRP  99404       17,301,927       17,301,927.34       14,538,664.00
+BLACKSTONE CAPITAL PTNRS III                 0.000     VEA02554    BCPMB       18,242,987       18,242,987.02       35,976,933.00
+BLACKSTONE COMMUNICATION I                   0.000     ABBCOM1     99404        9,422,284        9,422,284.62       11,056,227.01
+BLACKSTONE MANAGEMENT PARTNERS IV            0.000     ABBCP4      99407       18,445,385       18,445,384.60       22,740,593.02
+BLUE CHIP CAPITAL FUND                       0.000     095334991   BCCF             1,000            1,000.00          304,454.00
+BLUE CHIP CAPITAL FUND II                    0.000     VEA01432    BCCII        2,473,770        2,473,770.70        3,355,219.01
+BLUE CHIP CAPITAL FUND III                   0.000     A01433      A0143       20,000,000       19,999,999.83        6,274,150.95
+BLUE CHIP CAPITAL FUND IV                    0.000     AVBLUECHIP  AVBLU       21,589,474       21,589,473.89       16,983,248.98
+BLUE CHIP OPPORTUNITY FUND                   0.000     095335998   BCOF         1,025,000        1,025,000.00            1,820.00
+BRANTLEY VENTURE PARTNERS II                 0.000     VEA05387    BVII             1,000            1,000.00          154,362.00
+BRANTLEY VENTURE PARTNERS III                0.000     VEA06289    BIII         3,451,511        3,451,511.13        7,842,841.50
+BROOKSIDE CAPITAL PARTNERS FUND              0.000     AOBROOKSID  99407       20,000,000       20,000,000.00       24,091,590.00
+CARDINAL HEALTH PARTNERS                     0.000     VEA02552    CHPL         3,774,591        3,774,591.09        2,051,103.01
+CB HEALTHCARE FUND                           0.000     VEA02614    CBHCF       11,439,423       11,439,423.91       11,779,145.00
+CB HEALTHCARE FUND II                        0.000     AVCBHF2     99405       11,458,083       11,458,083.38        8,861,408.50
+CHP II                                       0.000     AVCHP2      99404       19,085,585       19,085,585.00       14,164,692.00
+CID MEZZANINE CAPITAL                        0.000     VEA02624    CIDME       10,205,456       10,205,455.89        8,278,950.00
+CLAYTON, DUBLILIER & RICE VI                 0.000     ACLAYDURI   CLDUR       22,741,198       22,741,197.32       17,587,442.01
+COMMONWEALTH CAPITAL III                     0.000     AVCCV3      99404       12,180,000       12,179,999.38        7,549,608.00
+ESSEX WOODLAND HEALTH VENTURES VI            0.000     AVEWHV6     99407        3,945,000        3,945,000.00        3,845,711.00
+FOUNDATION MEDICAL PARTNERS                  0.000     AVFNDMED    99405       10,350,000       10,350,000.00        8,668,961.98
+FOX PAINE CAPITAL FUND                       0.000     AFOXPAINE   FOXPA       15,370,516       15,370,516.84       23,891,871.00
+FOX PAINE CAPITAL FUND II                    0.000     ABFOXPAINE  99404       36,045,023       36,045,023.59       36,961,686.99
+FRANCISCO PARTNERS                           0.000     ABFRISCO1   99404       22,510,291       22,510,290.94       19,913,516.32
+FRIEDMAN FLEISCHER & LOWE CAPITAL PARTNE     0.000     ABFFL2      99407          960,637          960,637.63          960,637.64
+FS EQUITY PARTNERS IV                        0.000     VEA02586    FSEP4              999              999.36       14,958,715.99

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 028
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+EAGLE MATERIALS INC                          1.389     26969P108   EXP             27,912        1,426,745.29        2,410,201.20
+EARTHLINK INC                                0.000     270321102   ELNK           234,560        1,990,939.65        2,702,131.20
+EAST WEST BANCORP INC.                       0.476     27579R104   EWBC            81,200        1,853,259.61        3,407,152.00
+EASTMAN CHEMICAL CO.                         3.048     277432100 Q EMN            118,300        5,226,653.09        6,829,459.00
+EASTMAN KODAK                                1.550     277461109 Q EK             829,700       32,336,949.30       26,757,825.00
+EATON CORP.                                  1.492     278058102 Q ETN            257,700       12,101,948.88       18,647,172.00
+EATON VANCE CORP.                            0.613     278265103   EV              73,656        2,571,824.71        3,841,160.40
+EBAY INC                                     0.000     278642103   EBAY           922,300       54,643,156.23      107,245,044.00
+ECHELON CORP                                 0.000     27874N105   ELON            31,100          407,249.50          262,484.00
+ECHOSTAR COMMUNICATIONS - A                  0.000     278762109   DISH           204,900        7,315,515.99        6,810,876.00
+ECLIPSYS CORP                                0.000     278856109   ECLP            40,523          527,849.02          827,884.89
+ECOLAB INC                                   0.996     278865100 Q ECL            745,400       17,765,047.31       26,185,902.00
+ECOST.COM INC                                0.000     27922W107   ECST            51,300          682,368.60          819,261.00
+EDGE PETROLEUM CORP                          0.000     279862106   EPEX            14,400          236,168.81          209,952.00
+EDGEWATER TECHNOLOGIN INC.                   0.000     280358102   EDGW            60,000          303,650.19          294,000.00
+EDISON INTERNATIONAL                         3.122     281020107 Q EIX          1,039,735       22,777,567.49       33,302,712.05
+EDO CORP                                     0.378     281347104   EDO             17,400          433,845.75          552,450.00
+EDUCATE INC                                  0.000     28138P100   EEEE            19,800          252,594.57          262,152.00
+EDUCATION MANAGEMENT COPR                    0.000     28139T101   EDMC           214,345        4,997,667.20        7,075,528.45
+EDWARDS (A.G.) INC                           1.481     281760108   AGE            214,300        7,353,761.65        9,259,903.00
+EDWARDS LIFESCIENCES                         0.000     28176E108   EW             111,873        2,686,987.24        4,615,879.98
+EFUNDS CORP                                  0.000     28224R101   EFD            107,600        1,659,435.53        2,583,476.00
+EGL, INC.                                    0.000     268484102   EAGL            32,400          727,579.40          968,436.00
+EL PASO CORP                                 1.538     28336L109   EP           1,758,400       37,796,477.95       18,287,360.00
+EL PASO ELECTRIC COMPANY                     0.000     283677854   EE              92,400        1,214,249.44        1,750,056.00
+ELECTRO RENT CORP                            0.000     285218103   ELRC            20,000          235,084.45          284,600.00
+ELECTRO SCIENTIFIC INDS INC.                 0.000     285229100   ESIO            43,026          873,272.22          850,193.76
+ELECTRONIC ARTS, INC                         0.000     285512109   ERTS           489,500       17,507,915.17       30,192,360.00
+ELECTRONIC DATA SYSTEMS                      0.865     285661104 Q EDS            828,500       22,972,482.55       19,138,350.00
+ELECTRONICS BOUTIQUE HLDGS                   0.000     286045109   ELBO            45,752        1,292,259.68        1,964,590.88
+ELECTRONICS FOR IMAGING                      0.000     286082102   EFII            59,500        1,312,470.84        1,035,895.00
+ELI LILLY & COMPANY                          2.678     532457108 Q LLY          1,961,800       97,671,780.53      111,332,150.00
+ELIZABETH ARDEN INC                          0.000     28660G106   RDEN            64,210        1,358,327.20        1,524,345.40
+ELKCORP                                      0.584     287456107   ELK            129,200        3,109,934.83        4,421,224.00
+EMBARCADERO TECHNOLOGIES INC                 0.000     290787100   EMBTE           23,600          211,706.17          222,076.00
+EMC CORP                                     0.000     268648102   EMC          7,188,366       98,254,630.23      106,891,002.42
+EMC INS GROUP INC                            2.772     268664109   EMCI             6,600          133,057.51          142,824.00
+EMCOR GROUP INC                              0.000     29084Q100   EME             22,300          958,108.18        1,007,514.00
+EMERSON ELECTRIC CO                          2.368     291011104 Q EMR            968,500       46,073,437.17       67,891,850.00
+EMERSON RADIO CORP                           0.000     291087203   MSN            179,800          539,400.00          674,250.00

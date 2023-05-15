@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+ARBINET-THEXCHANGE INC                     0.000 ARBX    03875P100      7.0100         7,000.00        139,027.00         49,070.00
+ARBITRON INC                               1.053 ARB     03875Q108     37.9800        33,100.00      1,148,262.62      1,257,138.00
+ARCH CHEMICALS INC.                        2.675 ARJ     03937R102     29.9000        24,900.00        554,027.13        744,510.00
+ARCHIPELAGO HOLDINGS INC                   0.000 AX      03957A104     49.7700        20,200.00        527,558.43      1,005,354.00
+ARCTIC CAT INC.                            1.395 ACAT    039670104     20.0600        14,420.00        309,749.19        289,265.20
+ARDEN GROUP INC                            1.099 ARDNA   039762109     90.9900         1,400.00        113,682.54        127,386.00
+ARENA PHARMACEUTICALS INC                  0.000 ARNA    040047102     14.2200        37,200.00        255,664.44        528,984.00
+ARES CAPITAL CORP                          8.463 ARCC    04010L103     16.0700        39,900.00        637,758.94        641,193.00
+ARGON ST INC                               0.000 STST    040149106     30.9800         7,700.00        270,602.64        238,546.00
+ARGONAUT GROUP INC                         0.000 AGII    040157109     32.7700        43,000.00        765,583.82      1,409,110.00
+ARIAD PHARMACEUTICAL                       0.000 ARIA    04033A100      5.8500        53,300.00        352,781.65        311,805.00
+ARKANSAS BEST CORP                         1.373 ABFS    040790107     43.6800        35,500.00        972,350.38      1,550,640.00
+ARMOR HOLDINGS INC                         0.000 AH      042260109     42.6500        36,400.00      1,025,718.58      1,552,460.00
+ARQULE INC                                 0.000 ARQL    04269E107      6.1200        33,300.00        216,193.59        203,796.00
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      9.4700        68,771.00        513,336.23        651,261.37
+ARROW FINL CORP                            3.671 AROW    042744102     26.1500        11,184.00        295,319.50        292,461.60
+ARROW INTL INC                             2.069 ARRO    042764100     28.9900        22,303.00        608,594.48        646,563.97
+ARTHROCARE CORP                            0.000 ARTC    043136100     42.1400        14,700.00        437,780.46        619,458.00
+ARVINMERITOR INC.                          2.779 ARM     043353101     14.3900        68,800.00      1,282,157.10        990,032.00
+ASBURY AUTOMOTIVE GROUP                    0.000 ABG     043436104     16.4600        33,400.00        515,842.94        549,764.00
+ASHFORD HOSPITALITY TRUST INC              7.626 AHT     044103109     10.4900        36,700.00        380,580.51        384,983.00
+ASIAINFO HLDGS INC                         0.000 ASIA    04518A104      3.9800        91,200.00        574,716.27        362,976.00
+ASPECT MEDICAL SYSTEMS INC                 0.000 ASPM    045235108     34.3500        17,100.00        240,560.87        587,385.00
+ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103      7.8500        45,400.00        256,455.13        356,390.00
+ASSET ACCEPTANCE CAPITAL CORP              0.000 AACC    04543P100     22.4600        18,500.00        462,155.83        415,510.00
+ASTA FUNDING INC                           0.585 ASFI    046220109     27.3400        21,200.00        409,702.74        579,608.00
+ASTEC INDUSTRIES INC                       0.000 ASTE    046224101     32.6600        16,530.00        266,445.65        539,869.80
+ATARI INC                                  0.000 ATAR    04651M105      1.0800        56,800.00        155,375.88         61,344.00
+ATHEROGENICS INC                           0.000 AGIX    047439104     20.0100        39,800.00        611,328.40        796,398.00
+ATLAS AMERICA INC                          0.000 ATLS    049167109     60.2200        20,037.00        560,750.36      1,206,628.14
+ATMEL CORP                                 0.000 ATML    049513104      3.0900       443,400.00      1,228,262.34      1,370,106.00
+ATMI INC                                   0.000 ATMI    00207R101     27.9700        36,500.00        814,900.48      1,020,905.00
+ATP OIL & GAS CORPORATION                  0.000 ATPG    00208J108     37.0100         5,800.00        190,075.66        214,658.00
+ATWOOD OCEANICS                            0.000 ATW     050095108     78.0300        13,900.00        641,032.19      1,084,617.00
+AUDIOVOX CORP                              0.000 VOXX    050757103     13.8600        44,000.00        603,338.60        609,840.00
+AUGUST TECHNOLOGY INC                      0.000 AUGT    05106U105     10.9900        15,800.00        172,021.59        173,642.00
+AUTOBYTEL INC                              0.000 ABTL    05275N106      4.9400        44,000.00        220,209.13        217,360.00
+AVATAR HLDGS INC                           0.000 AVTR    053494100     54.9200         6,171.00        254,091.43        338,911.32
+AVIALL INC.                                0.138 AVL     05366B102Q    28.8000        32,700.00        693,460.44        941,760.00

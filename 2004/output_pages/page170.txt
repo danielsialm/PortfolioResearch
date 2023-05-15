@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 138
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5JL       JACOBS LEVY - 1000
+Instrument - COM       COMMON STOCK
+
+MEDICINES COMPANY                          0.000 MDCO    584688105     28.8000        45,700.00      1,291,717.67      1,316,160.00
+MEMC ELECTR MATLS IN                       0.000 WFR     552715104     13.2500        97,900.00        927,860.56      1,297,175.00
+MERRILL LYNCH & CO. INC.                   1.070 MER     590188108Q    59.7700        69,300.00      2,768,368.68      4,142,061.00
+MGI PHARMA INC                             0.000 MOGN    552880106     28.0100        39,200.00      1,120,750.81      1,097,992.00
+MICROSOFT CORP.                            1.198 MSFT    594918104     26.7100       609,100.00     19,362,816.20     16,269,061.00
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     12.1200       126,900.00      1,426,357.05      1,538,028.00
+MORGAN STANLEY DEAN WITTER & C             1.945 MWD     617446448Q    55.5200       272,000.00     13,962,858.48     15,101,440.00
+MOTOROLA INC                               0.930 MOT     620076109Q    17.2000       607,400.00     10,942,808.71     10,447,280.00
+NATIONAL FUEL & GAS                        3.952 NFG     636180101Q    28.3400        39,800.00        801,835.13      1,127,932.00
+NATIONAL SEMICONDUCTOR CORP.               0.445 NSM     637640103     17.9500        50,700.00      1,040,352.39        910,065.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     43.9800        23,200.00      1,007,807.41      1,020,336.00
+NEKTAR THERAPEUTICS                        0.000 NKTR    640268108     20.2400        32,700.00        629,820.50        661,848.00
+NORDSTROM INC                              1.112 JWN     655664100Q    46.7300        19,800.00        883,549.00        925,254.00
+NORTH FORK BANK                            3.050 NFB     659424105     28.8500        18,500.00        533,948.85        533,725.00
+NORTHROP GRUMMAN CORP.                     1.692 NOC     666807102Q    54.3600       177,200.00      8,482,216.02      9,632,592.00
+NVIDIA CORP                                0.000 NVDA    67066G104     23.5600        73,400.00      1,447,184.95      1,729,304.00
+OFFICE DEPOT INC                           0.000 ODP     676220106     17.3600       128,600.00      1,896,618.14      2,232,496.00
+OIL STS INTL INC                           0.000 OIS     678026105     19.2900        37,300.00        707,282.50        719,517.00
+OLD REPUBLIC INT'L CORP.                   2.055 ORI     680223104     25.3000       105,700.00      2,587,610.10      2,674,210.00
+ONYX PHARMACEUTICALS                       0.000 ONXX    683399109     32.3900         7,800.00        251,213.04        252,642.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     13.7200       810,100.00     11,296,476.76     11,114,572.00
+OSI PHARMACEUTICALS INC                    0.000 OSIP    671040103     74.8500        17,900.00      1,286,094.90      1,339,815.00
+OVERSEAS SHIPHOLDING GROUP                 1.268 OSG     690368105     55.2000        36,600.00      2,275,239.55      2,020,320.00
+OVERSTOCK COM INC DE                       0.000 OSTK    690370101     69.0000        10,900.00        794,177.27        752,100.00
+PACIFIC GAS & ELEC. CO.                    0.000 PCG     69331C108Q    33.2800         7,500.00        250,063.50        249,600.00
+PATTERSON-UTI ENERGY INC                   0.411 PTEN    703481101     19.4500        35,000.00        660,417.95        680,750.00
+PEPCO HOLDINGS INC.                        4.690 POM     713291102     21.3200        41,400.00        771,344.85        882,648.00
+PEPSICO INC.                               1.762 PEP     713448108Q    52.2000        54,600.00      2,732,457.92      2,850,120.00
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     39.4800        47,400.00      1,576,303.73      1,871,352.00
+PFIZER INC.                                2.826 PFE     717081103Q    26.8900       955,100.00     30,939,912.04     25,682,639.00
+PHARMION CORP                              0.000 PHRM    71715B409     42.2100        16,100.00        752,311.16        679,581.00
+PINNACLE WEST CAPITAL CORP                 4.278 PNW     723484101Q    44.4100        48,000.00      1,874,369.17      2,131,680.00
+PLANTRONICS INC.                           0.482 PLT     727493108     41.4700        50,000.00      2,148,920.38      2,073,500.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109      8.4800        85,300.00        742,406.21        723,344.00
+PRIME MONEY MARKET - 5JL                   0.000 IT-JAC5 IT-JAC5        1.0000     3,054,320.15      3,054,320.15      3,054,320.15
+PROCTER & GAMBLE CO                        1.815 PG      742718109Q    55.0800       403,200.00     21,419,203.53     22,208,256.00
+PROTECTIVE LIFE CORP                       1.639 PL      743674103     42.6900        27,900.00        757,875.99      1,191,051.00
+PULTE HOMES, INC.                          0.313 PHM     745867101Q    63.8000        98,500.00      3,692,086.91      6,284,300.00
+QUALCOMM INC                               0.660 QCOM    747525103     42.4000       356,800.00     12,339,950.82     15,128,320.00

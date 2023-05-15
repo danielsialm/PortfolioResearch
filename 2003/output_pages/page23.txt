@@ -1,0 +1,52 @@
+ASOF01   Date 01/20/2004 Time 18:58:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME
+Portfolio  - FI        FIXED INCOME
+Instrument - SEQ       SEQUENTIAL
+
+FHR 2413 A                     AAA+6.5000  6.146 31339NFW1        M 11/15/2029       239,367.20        241,948.18        241,142.50
+FHR 2430 K                     AAA+6.0000  5.879 31339NWF9        M 07/15/2030     6,644,838.30      6,691,980.03      6,860,795.54
+FNR 2001-81 AB                 AAA+6.0000  5.706 31392BQU3        M 02/25/2028     2,680,760.03      2,702,264.26      2,783,808.45
+FNR 2002-15 D                  AAA+6.0000  5.918 31392CME1        M 10/25/2029     5,726,597.40      5,745,793.47      5,798,179.87
+
+Instrument Total               4                                                  15,291,562.93     15,381,985.94     15,683,926.36
+
+Instrument -SUP       SUPRANATIONALS
+
+ASIAN DEVELOPMENT BANK         AAA 7.5000  7.342 045167BE2        S 05/31/2005    25,000,000.00     25,051,611.58     27,195,458.33
+DEUTSCHE AUSGLEICHSBANK        AAA 7.0000  7.113 251516AF7        S 06/23/2005    25,000,000.00     24,960,734.99     26,963,388.89
+INTL FINANCE CORPORATION       AAA 7.1250  7.149 45950VAG1        S 04/06/2005     8,000,000.00      7,997,368.68      8,724,183.34
+
+Instrument Total               3                                                  58,000,000.00     58,009,715.25     62,883,030.56
+
+Instrument -TBD       TREASURY BONDS
+
+US TREASURY N/B                AAA+6.0000  5.153 9128275N8        S 08/15/2009    15,750,000.00     16,392,816.88     18,197,597.94
+
+Instrument Total               1                                                  15,750,000.00     16,392,816.88     18,197,597.94
+
+Instrument -TIPS      TREASURY INFLATION PROTECTED SECURITIES
+
+TSY INFL IX N/B                AAA+3.6250  3.541 912810FD5        M 04/15/2028    21,732,598.63     21,760,929.65     27,126,929.70
+TSY INFL IX N/B                AAA+3.6250  1.440 9128273T7        M 01/15/2008    30,483,344.89     31,684,447.20     34,220,486.76
+TSY INFL IX N/B                AAA+4.2500 -1.037 9128275W8        M 01/15/2010    39,586,320.00     45,878,057.20     46,793,228.92
+TSY INFL IX N/B                AAA+3.0000  1.814 912828AF7        M 07/15/2012    19,550,240.00     20,538,007.26     21,587,897.53
+TSY INFL IX N/B                AAA+3.8750 -1.419 9128274Y5        M 01/15/2009    21,772,137.00     24,629,806.25     24,973,420.92
+
+Instrument Total               5                                                 133,124,640.52    144,491,247.56    154,701,963.83
+
+Instrument -TS0       TREASURY ZERO STRIPS
+
+U S TREASURY PRINCIPAL         AAA+0.0000  6.389 912803AG8          08/15/2005    25,000,000.00     22,576,295.49     24,358,250.00
+U S TREASURY PRINCIPAL         AAA+0.0000  6.388 912803AD5          05/15/2005    89,400,000.00     82,015,620.54     87,740,736.00
+
+Instrument Total               2                                                 114,400,000.00    104,591,916.03    112,098,986.00
+
+Instrument -TSY       U S TREASURIES
+
+US TREASURY N/B                AAA+8.7500  6.373 912810EG9        S 08/15/2020    92,110,000.00    114,100,496.35    134,808,536.61

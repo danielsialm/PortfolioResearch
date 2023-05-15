@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 062
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+RESMED INC                                   0.000     761152107   RMD            112,919        4,216,576.10        5,770,160.90
+RESOURCE AMERICA INC                         0.615     761195205   REXI            25,508          402,121.99          829,010.00
+RESOURCES CONNECTION INC                     0.000     76122Q105   RECN            42,300        1,548,832.34        2,297,313.00
+RESPIRONICS INC                              0.000     761230101   RESP           122,415        5,370,814.76        6,654,479.40
+RESTORATION HARDWARE INC                     0.000     760981100   RSTO           141,900          711,327.97          814,506.00
+RETAIL VENTURES INC                          0.000     76128Y102   RVI             43,000          331,256.56          305,300.00
+RETEK INC                                    0.000     76128Q109   RETK            14,600           62,926.14           89,790.00
+REVLON INC - CL A                            0.000     761525500   REV             75,600          209,204.37          173,880.00
+REYNOLDS & REYNOLDS CL-A                     1.659     761695105   REY            189,900        4,718,493.14        5,034,249.00
+REYNOLDS AMERICAN INC                        4.834     761713106   RAI            381,402       22,126,328.81       29,978,197.20
+RF MICRO-DEVICES                             0.000     749941100   RFMD           169,400        1,138,863.52        1,158,696.00
+RIGEL PHARMACEUTICALS INC                    0.000     766559603   RIGL             2,800           58,676.94           68,376.00
+RIGGS NATL CORP WASH DC                      0.940     766570105   RIGS            28,300          617,540.32          601,658.00
+RIGHTNOW TECHNOLOGIES INC                    0.000     76657R106   RNOW             7,000           87,820.60          113,050.00
+RIMAGE CORP                                  0.000     766721104   RIMG            24,520          338,002.51          393,791.20
+RITE AID CORP.                               0.000     767754104 Q RAD            982,900        3,967,638.20        3,597,414.00
+RLI CORP                                     1.347     749607107   RLI             68,645        2,232,485.11        2,853,572.65
+ROBBINS & MYERS INC.                         0.923     770196103   RBN             30,800          642,816.35          733,964.00
+ROBERT HALF INTL INC                         0.815     770323103   RHI            275,200        6,270,572.61        8,099,136.00
+ROCK-TENN COMPANY CL A                       2.374     772739207   RKT             32,500          527,235.05          492,700.00
+ROCKWELL AUTOMATION INC                      1.332     773903109 Q ROK            473,376       14,709,539.43       23,455,780.80
+ROCKWELL COLLINS                             1.217     774341101   COL            658,497       18,093,166.67       25,971,121.68
+ROFIN-SINAR TECHNOLOGIES INC                 0.000     775043102   RSTI            41,379        1,072,563.59        1,756,538.55
+ROGERS CORP.                                 0.000     775133101   ROG             68,704        2,715,735.15        2,961,142.40
+ROHM & HAAS CO                               2.260     775371107 Q ROH            280,800       10,190,958.18       12,419,784.00
+ROLLINS INC                                  0.911     775711104   ROL             21,700          519,291.91          571,144.00
+ROPER INDUSTRIES INC                         0.699     776696106   ROP             41,500        2,143,631.27        2,521,955.00
+ROSS STORES INC                              0.588     778296103   ROST           319,900        7,524,511.99        9,235,513.00
+ROWAN COS.                                   0.000     779382100   RDC            247,200        5,910,088.52        6,402,480.00
+ROYAL BANCSHARES PA                          3.701     780081105   RBPAA            4,896          115,396.00          132,289.92
+ROYAL CARIBBEAN CRUISES LTD                  0.955     V7780T103   RCL             41,000        1,354,052.36        2,232,040.00
+ROYAL GOLD INC                               1.096     780287108   RGLD             4,700           67,608.55           85,728.00
+RPC INC                                      0.477     749660106   RES             15,000          181,475.49          376,800.00
+RPM INTERNATIONAL INC.                       3.051     749685103 Q RPM            578,700        9,534,107.01       11,377,242.00
+RSA SECURITY INC.                            0.000     749719100   RSAS            76,900        1,249,436.89        1,542,614.00
+RTI INTERNATIONAL METALS                     0.000     74973W107   RTI             54,400          798,793.59        1,117,376.00
+RUBY TUESDAY INC                             0.172     781182100   RI              79,500        1,969,264.78        2,073,360.00
+RUDDICK CORP.                                2.028     781258108 Q RDK             55,200          845,982.95        1,197,288.00
+RUDOLPH TECHNOLOGIES INC                     0.000     781270103   RTEC             1,000           30,991.66           17,170.00
+RUSH ENTERPRISES INC - CL A                  0.000     781846209   RUSHA           74,100        1,029,503.96        1,202,643.00

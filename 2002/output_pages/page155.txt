@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 127
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - 600 G
+Instrument - COM       COMMON STOCK
+
+02MICRO INTERNATIONAL LTD                  0.000 OIIM    G6797E106      9.7490         9,300.00        118,222.75         90,665.70
+ACCREDO HEALTH INC                         0.000 ACDO    00437V104     35.2500        14,128.00        286,338.99        498,012.00
+ACTEL CORPORATION                          0.000 ACTL    004934105     16.2200         6,100.00        111,809.26         98,942.00
+AGCO CORP.                                 0.000 AG      001084102     22.1000         5,840.00        117,736.33        129,064.00
+AIRGAS INC                                 0.000 ARG     009363102     17.2500        18,883.00        248,961.12        325,731.75
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     17.8000        10,000.00        164,142.12        178,000.00
+AMERICAN WOODMARK CORP.                    0.421 AMWD    030506109     47.5000         2,800.00        140,770.80        133,000.00
+AMERIGROUP CORPORATION                     0.000 AGP     03073T102     30.3100         8,890.00        241,395.75        269,455.90
+AMSURG CORP                                0.000 AMSG    03232P405     20.4300         5,700.00        166,929.73        116,451.00
+AMYLIN PHARMACEUTICALS INC                 0.000 AMLN    032346108     16.1400        15,700.00        196,691.88        253,398.00
+ANTEON INTERNATIONAL CORP                  0.000 ANT     03674E108     24.0000         6,800.00        154,012.69        163,200.00
+APPLEBEES INT'L. INC.                      0.258 APPB    037899101     23.1910        12,536.00        214,834.96        290,722.38
+ARKANSAS BEST CORP                         0.000 ABFS    040790107     25.9810         9,631.00        240,053.64        250,223.01
+ATMI INC                                   0.000 ATMI    00207R101     18.5200         6,860.00        143,448.19        127,047.20
+AVOCENT CORPORATION                        0.000 AVCT    053893103     22.2200         4,000.00         95,043.30         88,880.00
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     28.6600         7,000.00        193,496.57        200,620.00
+BIOSITE INC.                               0.000 BSTE    090945106     34.0200         6,700.00        176,748.52        227,934.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     12.3000         7,100.00         95,686.19         87,330.00
+BOYD GAMING COPR                           0.000 BYD     103304101     14.0500        11,470.00        178,718.17        161,153.50
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     35.6400        11,322.00        242,958.44        403,516.08
+CALIFORNIA PIZZA KITCHEN INC               0.000 CPKI    13054D109     25.2000         5,600.00        141,500.20        141,120.00
+CAREER EDUCATION CORP                      0.000 CECO    141665109     40.0000        15,080.00        350,514.79        603,200.00
+CHATTEM INC                                0.000 CHTT    162456107     20.5500         6,400.00        132,089.87        131,520.00
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     36.1500         5,555.00        142,479.35        200,813.25
+COGNEX CORP.                               0.000 CGNX    192422103     18.4300         5,400.00        110,256.45         99,522.00
+COGNIZANT TECH SOLUTIONS CORP              0.000 CTSH    192446102     72.2300         2,500.00        127,652.16        180,575.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     37.8600        22,442.00        395,230.37        849,654.12
+COST PLUS INC                              0.000 CPWM    221485105     28.6700         4,000.00        126,095.91        114,680.00
+COVANCE INC                                0.000 CVD     222816100     24.5900        16,650.00        305,379.39        409,423.50
+CRAY INC                                   0.000 CRAY    225223106      7.6700        15,500.00        113,277.73        118,885.00
+CUMULUS MEDIA INC. CL. A                   0.000 CMLS    231082108     14.8700        15,740.00        297,214.01        234,053.80
+CYMER INC                                  0.000 CYMI    232572107     32.2500         4,330.00        101,992.00        139,642.50
+DIME COMMUNITY BANCSHARES                  2.506 DCOM    253922108     19.1500         3,340.00         82,686.99         63,961.00
+DOCUMENT INC                               0.000 DCTM    256159104     15.6600        11,060.00        228,320.38        173,199.60
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     23.2500         4,630.00        217,156.07        107,647.50
+EAST WEST BANCORP INC.                     1.108 EWBC    27579R104     36.0800         7,540.00        255,859.42        272,043.20
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     37.6000        11,531.00        371,973.50        433,565.60
+EMCOR GROUP INC                            0.000 EME     29084Q100     53.0100         6,393.00        242,411.90        338,892.93
+ENGINEERED SUPPORT SYSTEMS                 0.109 EASI    292866100     36.6600         3,600.00        129,505.35        131,976.00

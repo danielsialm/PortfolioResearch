@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+LATTICE SEMICON. CORP.                       0.000     518415104   LSCC           199,000        1,228,673.50          859,680.00
+LAUREATE EDUCATION INC                       0.000     518613104   LAUR            28,175        1,242,348.18        1,479,469.25
+LAWSON PRODUCTS                              2.119     520776105 Q LAWS             4,800          165,141.95          181,152.00
+LAWSON SOFTWARE                              0.000     520780107   LWSN            65,700          395,791.46          482,895.00
+LAYNE CHRISTENSEN COMPANY                    0.000     521050104   LAYN            25,450          534,159.27          647,193.50
+LAZARD LTD CL. A                             0.890     G54050102   LAZ            190,000        4,389,266.00        6,061,000.00
+LCA-VISION INC.                              1.010     501803308   LCAV           169,956        4,814,277.72        8,074,609.56
+LEAP WIRELESS INTERNATIONAL INC              0.000     521863308   LEAP            21,300          772,771.29          806,844.00
+LEAPFROG ENTERPRISES INC                     0.000     52186N106   LF             150,000        2,409,498.33        1,747,500.00
+LECG CORP                                    0.000     523234102   XPRT            15,600          302,063.36          271,128.00
+LEGG MASON INC.                              0.601     524901105   LM             276,350       18,331,544.29       33,076,331.50
+LEGGETT & PLATT INC                          2.787     524660107   LEG            100,000        1,914,050.00        2,296,000.00
+LEHMAN BROTHERS HOLDING                      0.624     524908100 Q LEH            538,768       37,141,909.29       69,053,894.56
+LENNAR CORPORATION                           1.048     526057104   LEN             26,300        1,635,937.67        1,604,826.00
+LENNOX INTERNATIONAL INC.                    1.560     526107107   LII             82,000        1,751,545.11        2,312,400.02
+LEVEL 3 COMMUNICATIO                         0.000     52729N100   LVLT           544,600        1,195,451.46        1,563,002.00
+LEVITT CORP-CL A                             0.351     52742P108   LEV             33,000          850,871.24          750,420.00
+LEXAR MEDIA INC                              0.000     52886P104   LEXR            13,100          103,061.31          107,551.00
+LEXMARK INTERNATIONAL INC.                   0.000     529771107   LXK              1,900          147,132.18           85,177.00
+LHC GROUP INC                                0.000     50187A107   LHCG             5,100           78,897.00           88,893.00
+LIBBEY INC                                   3.913     529898108   LBY             14,700          222,345.34          150,234.00
+LIBERTY CORP S C                             2.136     530370105   LC              23,600        1,051,218.07        1,104,716.00
+LIBERTY GLOBAL INC                           0.000     530555101   LBTYA          120,400        2,426,764.32        2,709,000.00
+LIBERTY GOLBAL INC-SERIES C                  0.000     530555309   LBTYK        2,000,000       43,920,330.57       42,400,000.00
+LIBERTY MEDIA CORP-A                         0.000     530718105   L            6,333,800       51,147,181.81       49,847,006.00
+LIFE TIME FITNESS INC                        0.000     53217R207   LTM             92,922        2,751,176.91        3,539,398.98
+LIFECELL CORPORATION                         0.000     531927101   LIFC            69,355          870,820.54        1,322,599.85
+LIFECORE BIOMEDICAL                          0.000     532187101   LCBM            51,700          758,400.91          839,091.00
+LIFELINE SYS INC                             0.000     532192101   LIFE            13,000          215,814.69          475,280.00
+LIFEPOINT HOSPITALS INC.                     0.000     53219L109   LPNT             8,300          371,654.29          311,250.00
+LIFETIME BRANDS INC.                         1.209     53222Q103   LCUT            21,400          533,523.25          442,338.00
+LIGAND PHARMACEUTICA                         0.000     53220K207   LGND             8,065           89,912.29           89,924.75
+LIN TV CORP                                  0.000     532774106   TVL             52,800        1,033,441.86          588,192.00
+LINCARE HOLDINGS INC.                        0.000     532791100   LNCR           518,301       19,603,147.11       21,721,994.91
+LINCOLN EDUCATIONAL SERVICES                 0.000     533535100   LINC             4,500           53,145.00           64,170.00
+LINCOLN ELEC HLDGS I                         1.916     533900106   LECO            52,750        1,378,882.75        2,092,065.00
+LINCOLN NATIONAL CORP                        2.866     534187109 Q LNC            346,691       15,514,501.64       18,385,023.74
+LINDSAY MANUFACTURING CO.                    1.248     535555106   LNN             12,300          269,084.32          236,529.00
+LINEAR TECHNOLOGY CORP                       1.663     535678106   LLTC            14,700          517,080.66          530,229.00
+LINENS 'N THINGS INC.                        0.000     535679104   LIN             60,600        1,655,026.66        1,611,960.00

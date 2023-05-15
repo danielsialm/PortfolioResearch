@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 029
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SUMITOMO CORP Y50                            0.011     6858946      8053_        68,000.00          491,583.00
+SUMITOMO ELECTRIC                            0.008     6858708      5802_        42,000.00          388,627.54
+SUMITOMO METAL IND                           0.010     6858827      5405_       235,000.00          274,410.41
+SUMITOMO METAL MNG                           0.010     6858849      5713_        53,000.00          346,288.73
+SUMITOMO MITSUI FINANCIAL                    0.005     6563024      8316_           294.60        1,558,502.14
+SUMITOMO REALTY & DEVELOPMENT                0.006     6858902      8830_        37,000.00          411,710.74
+SUMITOMO TRUST+BKG JPY 50.0                  0.013     6859002      8403_        81,000.00          478,449.23
+SUN HUNG KAI PROPE                           0.273     6859927      16_HK        66,200.00          525,370.38
+SUN LIFE FINANCIAL SVSC CAN                  1.829     2566124      SLF_C        10,700.00          289,516.71
+SUNCOR ENERGY INC                            0.472     2861142      SU_CN         8,500.00          211,383.95
+SUNCORP-METWAY LIMITED                       3.156     6585084      SME_A        86,100.00        1,157,005.37
+SVENSKA CELLULOSA AB-B                       0.557     4865379      SCAB_        37,800.00        1,489,223.16
+SVENSKA HANDELSBANKEN                        0.456     5703661      SHBA_       104,300.00        1,919,975.82
+SWIRE PACIFIC 'A'H                           0.316     6867748      19_HK        47,100.00          319,168.12
+SWISS REINSURANCE                            1.193     7189816      RUKN_         8,871.00          641,026.00
+SWISSCOM AG CHF25(                           2.552     5533976      SCMN_           802.00          242,050.90
+SYNGENTA CHF                                 0.619     4356646      SYNN_         3,246.00          204,029.08
+T&D HOLDINGS                                 0.009     6744294      8795_         9,900.00          448,405.23
+TABCORP HLDGS NPV                            3.218     6873262      TAH_A        96,100.00        1,278,663.87
+TAIYO NIPPON SANSO CORPORATION               0.014     6640541      4091_           499.99            1,368.65
+TAKEDA PHARMACEUTICAL COMPANY                0.016     6870445      4502_        58,147.00        2,341,613.46
+TAKEFUJI CORP                                0.014     6876067      8564_         5,700.00          447,913.43
+TALISMAN ENERGY INC                          0.774     2068299      TLM_C         8,399.99          185,981.09
+TANDBERG ASA                                 0.087     7283440      TAA_N        97,500.00          802,454.71
+TDK CORP JPY50 (6762)                        0.007     6869302      6762_         9,600.00          582,588.05
+TECK COMINCO LTD-CL B                        0.904     2879327      TEK/B         4,100.00           80,592.45
+TELE2 AB-B                                   0.173     5065060      TEL2B        17,500.00          856,495.68
+TELEFONICA SA                                3.922     5732524      TEF_S       676,500.00       12,438,441.11
+TELEKOM AUSTRIA                              1.266     4635088      TKA_A       339,796.00        4,666,808.03
+TELENOR ASA                                  0.300     4732495      TEL_N       566,000.00        2,840,655.04
+TELIASONERA                                  0.302     5978384      TLSN_       301,991.00        1,277,085.10
+TELSTRA CORP NPV                             4.149     6087289      TLS_A       329,300.00        1,260,617.08
+TESCO PLC                                    4.212     0884709      TSCO_       576,721.00        1,654,169.73
+THE SWATCH GROUP AG-B                        0.764     7184725      UHR_V         1,100.00          119,463.17
+THOMSON CORP                                 1.500     2889371      TOC_C         5,100.00          167,976.60
+THOMSON MULTIMEDIA                           1.816     5988930      TMS_F         7,700.00          128,064.01
+THUS GROUP PLC                               0.000     3125944      THUS_        59,016.00           27,545.82
+THYSSENKRUPP AG                              5.033     5636927      TKA_G        59,600.00        1,014,213.78
+TOHOKU ELECTRIC PO                           0.026     6895266      9506_        83,700.00        1,290,738.26

@@ -1,40 +1,18 @@
-ASOF01   Date 01/24/2002 Time 21:29:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 019
+ASOF01   Date 01/24/2002 Time 21:29:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 021
 
 Monthly Market Portfolio
 
 Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - FIXED INCOME
-Portfolio  - FI        FIXED INCOME
-Instrument - TSY       U S TREASURIES
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - PIMCO     PACIFIC INVESTMENT C
+Instrument - EXFI      EXTERNAL MANAGED FI
 
-U S TREASURY                   AAA+6.1250  5.926 912810FB9        S 11/15/2027    27,385,000.00     28,091,045.87     29,000,779.30
-U S TREASURY                   AAA+8.0000  6.857 912810EL8        S 11/15/2021    36,700,000.00     41,206,827.19     46,830,915.37
-U S TREASURY                   AAA+6.8750  6.357 912827X80        S 05/15/2006    31,120,000.00     31,721,303.79     34,562,684.40
-U S TREASURY                   AAA+0.3750  7.767 912810CK2        S 11/15/2009   111,230,000.00    118,668,150.47    132,367,070.70
-U S TREASURY                   AAA+8.7500  6.368 912810EG9        S 08/15/2020   121,960,000.00    153,013,350.53    167,710,887.92
-U S TREASURY                   AAA+8.7500  6.327 912810DY1        S 05/15/2017    56,774,000.00     70,015,465.29     75,218,197.58
-U S TREASURY                   AAA+2.0000  6.556 912810DF2        S 08/15/2013    70,000,000.00     90,277,436.90    100,456,026.08
-U S TREASURY                   AAA+8.8750  6.476 912810EC8        S 02/15/2019    88,200,000.00    109,710,196.81    121,309,611.31
-U S TREASURY                   AAA+7.2500  5.962 912810EM6        S 08/15/2022    92,555,000.00    106,519,923.93    111,508,830.39
-US TREASURY                    AAA+6.7500  3.897 9128276D9        S 05/15/2005    37,200,000.00     40,519,338.24     40,783,245.81
-US TREASURY                    AAA+6.2500  2.137 9128272Y7        S 06/30/2002    65,400,000.00     66,722,733.82     66,877,559.42
-US TREASURY                    AAA+5.0000  4.884 9128277B2        S 08/15/2011    40,115,000.00     40,448,543.35     40,747,046.71
-US TREASURY N/B                AAA+5.7500  5.127 9128276J6        S 08/15/2010    24,550,000.00     25,601,602.82     26,289,582.31
-US TREASURY N/B                AAA+6.2500  2.016 9128276H0        S 07/31/2002    25,600,000.00     26,222,866.46     26,928,253.22
-US TREASURY N/B                AAA+4.7500  4.580 9128274V1        S 11/15/2008    60,000,000.00     60,592,181.84     60,092,827.63
-US TREASURY N/B                AAA+6.5000  2.318 9128276B3        S 03/31/2002    14,600,000.00     14,747,557.42     15,010,364.29
+PIMCO - FIXED INCOME               0.0000  0.000 IF-PIMCO           00/00/0000     2,543,234.34    254,323,434.64
+PIMCO - LIQUIDITY                  0.0000  0.000 IL-PIMCO           00/00/0000       217,537.58     21,753,758.78
 
-Instrument Total              16                                                 903,389,000.00  1,024,078,524.73  1,095,693,882.44
+Instrument Total             2                                                     2,760,771.93    276,077,193.42
 
-Instrument -VADM      VERY ACCURATELY DEFINED MATURITY
-
-FNR 2001-20 VB                 AAA+6.0000  6.692 31359SXA3        M 09/25/2017    37,000,000.00     35,037,053.19     36,260,000.00
-
-Instrument Total             1                                                    37,000,000.00     35,037,053.19     36,260,000.00
-
-Portfolio Total            636                                                 7,509,178,754.50  7,571,444,259.21  7,934,669,568.81
-
-Group Total                636                              7,509,178,754.50 /             0.00  7,571,444,259.21  7,934,669,568.81
+Portfolio Total              2                                                     2,760,771.93    276,077,193.42    275,020,023.84
 

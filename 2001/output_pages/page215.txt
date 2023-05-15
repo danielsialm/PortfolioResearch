@@ -1,54 +1,33 @@
-ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 009
+ASOF02   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 011
 
 Monthly Market Portfolio
 
-Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - REW       RE WEST REGION
-Instrument - A         APARTMENT
+Portfolio  - RER       RE REIT
+Instrument - J         REGIONAL MALLS
 
-CHARTER APARTMENTS             ORANGE COUNTY CA                7.880         RCHART                 31,433,300.00     50,200,000.00
-ELLIOTT BAY PLAZA              SEATTLE WA                      5.960         RELBAY                 19,587,164.88     29,500,000.00
-HEIGHTS AT BEAR CREEK          SEATTLE, WA                     0.077         RHBCRK                 29,581,086.92     25,200,000.00
-OVERLOOK APARTMENTS            SAN DIEGO CA                    7.720         ROVRLK                 23,534,580.00     34,700,000.00
+GENERAL GROWTH PROPERTIES                  6.701 GGP     370021107Q    38.8000       208,228.00      7,084,709.64      8,079,246.40
+SIMON PROPERTY GROUP INC.                  7.159 SPG     828806109Q    29.3300       598,670.00     14,227,547.29     17,558,991.13
 
-Instrument Total             4                                                                     104,136,131.80    139,600,000.00
+Instrument Total             2                                                      806,898.00      21,312,256.93     25,638,237.53
 
-Instrument -I      INDUSTRIAL
+Instrument -K      STRIP CENTERS
 
-FLEMING BUSINESS PARK          SAN JOSE CA                     6.900         RFLMNG                 72,377,344.80    113,999,999.74
-NORTH COUNTY CORP.CENTER       VISTA,CA                        0.000         RNCCCT                 30,550,843.65     26,099,999.66
-THOROUGHBRED PHASE 1           RIVERSIDE CA                    9.200         RTHORO                 18,000,000.00     22,500,000.00
-THOROUGHBRED PHASE 2           RIVERSIDE CA                    0.000         RTHOR2                 19,070,686.00     22,000,000.00
-THOROUGHBRED PHASE III         RIVERSIDE, CA                   0.000         RTHOR3                 19,414,595.69     22,200,000.00
+KIMCO REALTY CORP                          9.544 KIM     49446R109Q    32.6900       412,539.00      8,362,078.03     13,485,899.90
+REGENCY CENTERS CORP                       7.207 REG     758849103     27.7500       120,300.00      3,032,727.90      3,338,325.00
+WEINGARTEN REALTY INVST                    6.583 WRI     948741103     48.0000        92,889.00      3,824,248.68      4,458,671.96
 
-Instrument Total             5                                                                     159,413,470.14    206,799,999.40
+Instrument Total             3                                                      625,728.00      15,219,054.61     21,282,896.86
 
-Instrument -O      OFFICE
+Instrument -N      LODGING/RESORTS
 
-2030 MAIN STREET               IRVINE, CA                      0.000         RMAINS                 89,848,635.63     69,500,000.00
-44 MONTGOMERY                  SAN FRANCISCO CA                7.080         RMON44                111,738,268.27    217,000,000.00
-900 E. HAMILTON AVE.           CAMPBELL CA                     0.000         RHMLTN                 87,179,192.00    104,000,000.00
-CALIFORNIA CASUALTY CENTER     SAN FRANSISCO, CA               0.000         RCACAS                 66,422,311.55     75,200,000.00
-DOUGLAS EMMETT REALTY FUND     LOS ANGELES CA                  7.000         RDERF1                 23,070,919.00     40,333,000.00
-GLENDALE CITY CENTER           GLENDALE, CA                    0.096         RGLNDC                 57,150,986.25     50,400,000.01
-MARINA VILLAGE                 SAN FRANCISCO CA               10.000         RMNAVL                 39,231,466.11     86,500,000.00
-OAKLAND CITY CENTER            OAKLAND, CA                     7.900         ROAKCC                 68,890,089.50     87,340,169.00
-ONE CALIFORNIA                 SAN FRANCISCO CA               11.030         RONECA                 42,794,517.64     71,600,000.00
-THE SUMMIT                     ALISO VIEJO, CA                 0.000         RSUMIT                107,218,125.00    101,000,000.00
+FELCOR LODGING TRUST, INC.                13.165 FCH     31430F101     16.7100       125,000.00      2,042,677.50      2,088,750.00
+HOST MARRIOTT CORP                        11.555 HMT     44107P104      9.0000       569,100.00      4,719,287.39      5,121,900.00
 
-Instrument Total            10                                                                     693,544,510.95    902,873,169.01
+Instrument Total             2                                                      694,100.00       6,761,964.89      7,210,650.00
 
-Instrument -R      RETAIL
-
-ANAHEIM HILLS                  ANAHEIM                         9.000         RANAHL                 52,321,063.85     50,600,000.00
-CLAIREMONT SQ. SHOP. CTR.      SAN DIEGO                       9.800         RCMSQ1                 52,686,112.66     54,800,000.02
-GALLERIA AT TYLER              RIVERSIDE                       8.000         RTYMAL                126,326,085.78    135,000,000.00
-WHITNEY RANCH                  LAS VEGAS                      10.000         RWHTR1                 11,304,660.26     14,700,000.00
-
-Instrument Total             4                                                                     242,637,922.55    255,100,000.02
-
-Portfolio Total             23                                                                   1,199,732,035.44  1,504,373,168.43
+Portfolio Total             24                                                   14,490,584.00     359,932,760.94    435,333,683.44
 

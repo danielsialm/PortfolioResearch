@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 003
+ASOF10   Date 01/24/2002 Time 21:29:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 005
 
 Monthly Market Portfolio
 
@@ -6,18 +6,45 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+Instrument - COM       COMMON STOCK
 
-COLONIAL PROPERTIES TRUST                    8.089     195872106   CLP             20,600          631,881.00          641,690.00
-EQUITY OFFICE PROPERTIES TRUST               6.648     294741103   EOP            562,900       15,967,227.96       16,932,031.94
-EQUITY RESIDENTIAL PROPERTIES                6.025     29476L107 Q EQR            536,900       11,793,489.03       15,414,399.05
-HOSPITALITY PROPERTIES TRUST                 9.627     44106M102   HPT             87,300        2,275,047.38        2,575,350.00
-JDN REALTY CORP                              0.000     465917102   JDN              7,000           84,700.00           86,310.00
-KILROY REALTY CORP                           7.308     49427F108   KRC             26,600          658,077.00          698,782.00
-MACK-CALI REALTY CORP.                       7.994     554489104   CLI             29,300          888,451.70          908,886.00
-NEW PLAN EXCEL REALTY TRUST, INC.            8.661     648053106 Q NXL             92,900        1,719,922.04        1,769,745.00
-PINNACLE HOLDINGS INC                        0.000     72346N101   BIGT           131,291           41,140.42           44,638.94
-SHURGARD STORAGE CENTERS-A                   6.500     82567D104   SHU             32,200          996,684.00        1,030,400.00
-
-Instrument Total                     10                                         1,526,991       35,056,620.53       40,102,232.93
-
+AGILENT TECHNOLOGIES INC                     0.000     00846U101   A            1,019,015       35,219,618.69       29,052,117.65
+AGL RESOURCES INC                            4.691     001204106   ATG             91,100        1,903,587.38        2,097,122.00
+AIR PROD. & CHEM.                            1.705     009158106 Q APD            458,213       14,002,802.76       21,494,771.83
+AIRBORNE INC.                                1.078     009269101 Q ABF            114,680        1,407,061.99        1,700,704.40
+AIRGAS INC                                   0.000     009363102   ARG            138,373        1,272,791.97        2,092,199.76
+AIRGATE PCS INC                              0.000     009367103   PCSA             8,054          454,582.71          366,859.70
+AK STEEL HOLDING CORP                        2.196     001547108   AKS            246,900        2,473,613.25        2,809,722.00
+ALASKA AIRGROUP INC                          0.000     011659109   ALK             64,900        2,050,418.95        1,888,590.00
+ALBANY INTL CL-A                             0.230     012348108 Q AIN             36,613          562,934.89          794,502.10
+ALBEMARLE CORP                               2.166     012653101   ALB             98,700        2,281,202.78        2,368,800.00
+ALBERTO CULVER CL-B                          0.737     013068101 Q ACV             39,282          988,322.32        1,757,476.67
+ALBERTSON’S, INC.                            2.413     013104104 Q ABS            779,729       27,515,109.52       24,553,666.21
+ALCAN INC                                    1.669     013716105 Q AL             584,139       18,964,106.54       20,988,114.26
+ALCOA INC.                                   1.687     013817101 Q AA           1,880,988       46,929,876.97       66,869,123.40
+ALDILA INC                                   0.000     014384101   ALDA            23,000           39,670.00           24,150.00
+ALEXANDER & BALDWIN INC                      3.370     014482103   ALEX           116,000        3,012,781.77        3,097,200.00
+ALLEGHENY ENERGY INC.                        4.748     017361106 Q AYE            253,930        9,870,402.90        9,197,344.60
+ALLEGHENY TECHNOLOGIES INC                   4.776     01741R102   ATI            138,726        2,846,794.74        2,323,660.50
+ALLEGIANCE TELECOM INC                       0.000     01747T102   ALGX           182,640        1,336,624.82        1,514,085.60
+ALLEN TELECOM INC.                           0.000     018091108   ALN            155,700        2,394,713.89        1,323,450.00
+ALLERGAN PHARMACEUTICALS INC.                0.479     018490102 Q AGN            319,881       18,995,348.24       24,007,069.05
+ALLETE, INC.                                 4.246     018522102   ALE            167,300        3,908,024.18        4,215,960.00
+ALLIANCE GAMING CORP                         0.000     01859P609   ALLY            42,400          247,053.49        1,246,136.00
+ALLIANCE SEMICONDUCTOR CORP                  0.000     01877H100   ALSC            36,500          882,266.88          440,920.00
+ALLIANT ENERGY CORPORATION                   6.587     018802108   LNT            174,954        4,990,060.63        5,311,603.44
+ALLIANT TECHSYSTEMS INC.                     0.000     018804104   ATK             24,150          755,530.40        1,864,380.00
+ALLIED WASTE INDUSTRIES                      0.000     019589308   AW             303,365        4,447,832.34        4,265,311.90
+ALLMERICA FINANCIAL CORP.                    0.561     019754100   AFC            112,800        3,674,675.20        5,025,240.00
+ALLSCRIPTS INC                               0.000     01988P108   MDRX            31,700          159,785.52          102,708.00
+ALLSTATE CORP                                2.255     020002101 Q ALL          1,442,265       46,063,356.32       48,604,330.51
+ALLTEL CORP                                  2.203     020039103 Q AT             542,644       31,948,273.95       33,497,414.10
+ALMOSA HOLDINGS INC                          0.000     011589108   APS             19,000          281,810.98          226,670.00
+ALPHA INDUSTRIES INC                         0.000     020753109   AHAA            90,895        2,685,253.86        1,981,510.99
+ALPHARMA, INC.-CL A                          0.680     020813101 Q ALO             79,500        2,080,474.76        2,102,775.00
+ALTERA CORP                                  0.000     021441100   ALTR           890,238       20,955,275.98       18,890,850.35
+AMBAC FINANCIAL GROUP INC.                   0.622     023139108 Q ABK            263,386       11,724,752.96       15,239,513.95
+AMCOL INTERNATIONAL CORP.                    0.833     02341W103   ACO             12,100           73,083.70           87,120.00
+AMERADA HESS CORP.                           1.920     023551104 Q AHC            104,135        6,730,109.28        6,508,437.50
+AMEREN CORP.                                 6.004     023608102 Q AEE            180,182        6,699,716.96        7,621,698.60
+AMERICAN AXLE & MFG HOLDINGS                 0.000     024061103   AXL             40,000          539,478.40          855,200.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 105
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+SOLA INTERNATIONAL INC                     0.000 SOL     834092108     18.8000        26,700.00        599,622.31        501,960.00
+SONIC AUTOMOTIVE INC.                      1.745 SAH     83545G102     22.9200        39,700.00        919,737.58        909,924.00
+SONIC CORP                                 0.000 SONC    835451105     30.6200        46,800.00        740,411.69      1,433,016.00
+SONIC SOLUTIONS                            0.000 SNIC    835460106     15.3000        18,200.00        170,094.79        278,460.01
+SONICWALL INC                              0.000 SNWL    835470105      7.8000        82,500.00        449,760.10        643,500.00
+SONOSIGHT INC.                             0.000 SONO    83568G104     21.4400        17,200.00        368,752.43        368,768.00
+SONUS NETWORKS INC                         0.000 SONS    835916107      7.5600       241,000.00      1,625,979.05      1,821,960.00
+SOTHEBY'S HOLDINGS CL-A                    0.000 BID     835898107     13.6600        53,900.00        439,976.08        736,274.00
+SOUND FEDERAL BANCORP INC                  1.539 SFFS    83607V104     15.5900        16,000.00        222,733.16        249,440.01
+SOUNDVIEW TECHNOLOGY                       0.000 SNDV    83611Q406     15.4900        19,806.00        212,604.88        306,794.94
+SOURCE CORP                                0.000 SRCP    836167106     25.6300        24,300.00        638,769.71        622,809.00
+SOURCE INTERLINK COS INC                   0.000 SORC    836151209     10.6200        30,300.00        267,279.51        321,786.00
+SOUTH FINANCIAL GROUP, INC                 2.153 TSFG    837841105     27.8600        69,800.00      1,544,410.12      1,944,627.99
+SOUTH JERSEY INDS IN                       4.000 SJI     838518108     40.5000        11,100.00        426,965.36        449,550.00
+SOUTHERN FINANCIAL BANCORP INC             1.578 SFFB    842870107     43.0700         7,280.00        210,796.84        313,549.60
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     18.4000        58,400.00        848,932.48      1,074,560.00
+SOUTHSIDE BANCSHARES INC                   2.162 SBSI    84470P109     18.5000        10,720.00        182,151.53        198,320.00
+SOUTHWEST BANCORP IN                       1.398 OKSB    844767103     17.8800        12,800.00        181,476.03        228,864.00
+SOUTHWEST BANCORP OF TEXAS                 0.514 SWBT    84476R109     38.8500        34,100.00        983,025.93      1,324,785.00
+SOUTHWEST GAS CORP                         3.652 SWX     844895102Q    22.4500        30,000.00        665,878.49        673,500.00
+SOUTHWEST WTR CO                           1.576 SWWC    845331107     16.0500         3,300.00         46,598.49         52,965.00
+SOUTHWESTERN ENERGY COMPANY                0.000 SWN     845467109     23.9000        35,200.00        466,380.72        841,280.00
+SPANISH BROADCASTING SYSTEM                0.000 SBSA    846425882     10.5000        22,400.00        190,246.23        235,200.00
+SPARTECH CORP                              1.785 SEH     847220209     24.6400        21,000.00        461,074.84        517,440.00
+SPECIALTY LABORATORIES                     0.000 SP      84749R100     16.7900        17,700.00        238,245.50        297,183.00
+SPECTRALINK CORP                           2.086 SLNK    847580107     19.1700        27,600.00        405,067.60        529,092.00
+SPEEDWAY MOTORSPORTS                       1.054 TRK     847788106     28.9200        17,000.00        458,722.09        491,640.00
+SPHERION CORPORATION                       0.000 SFN     848420105      9.7900        71,600.00      1,066,987.19        700,963.99
+SPINNAKER EXPLORATION CO                   0.000 SKE     84855W109     32.2700        29,900.00        626,789.22        964,873.00
+SPORTS AUTHORITY INC                       0.000 TSA     84917U109     38.4000        24,375.00        717,790.54        936,000.00
+SPSS INC.                                  0.000 SPSS    78462K102     17.8800        14,800.00        245,928.66        264,624.00
+SRA INTERNATIONAL INC - CLASS              0.000 SRX     78464R105     43.1000         6,700.00        209,177.21        288,770.00
+SS&C TECHNOLOGIES IN                       0.715 SSNC    85227Q100     27.9500        13,900.00        368,743.80        388,505.00
+ST MARY LAND & EXPLORATION                 0.350 SM      792228108     28.5000        34,000.00        715,943.04        969,000.00
+STAAR SURGICAL CO                          0.000 STAA    852312305     11.2600        35,900.00        426,180.90        404,234.00
+STAGE STORES INC                           0.000 STGS    85254C305     27.9000        17,700.00        447,994.67        493,830.00
+STAMPS COM INC                             0.000 STMP    852857101      6.2000        44,100.00        220,842.15        273,420.00
+STANDARD COMMERCIAL CORP                   1.743 STW     853258101     20.0700        19,400.00        377,170.22        389,358.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     25.3000        14,500.00        251,154.78        366,850.00

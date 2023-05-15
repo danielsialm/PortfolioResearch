@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HUNT (JB) TRANSPRT SVCS INC                  1.070     445658107   JBHT            85,172        2,238,053.71        3,819,964.20
+HUNTINGTON BANCSHARES                        3.228     446150104   HBAN           379,900        8,115,877.79        9,413,922.00
+HURON CONSULTING GROUP INC                   0.000     447462102   HURN             6,400          139,256.96          142,080.00
+HUTCHINSON TECH.                             0.000     448407106   HTCH            35,800          967,973.50        1,237,606.00
+HYDRIL                                       0.000     448774109   HYDL            32,107        1,050,926.05        1,461,189.57
+HYPERCOM CORP                                0.000     44913M105   HYC             85,000          614,109.57          503,200.00
+HYPERION SOLUTIONS CORP.                     0.000     44914M104   HYSL            83,583        2,882,107.29        3,896,639.46
+I-FLOW CORP                                  0.000     449520303   IFLO            46,321          774,984.55          844,431.83
+IAC/INTERACTIVE CORP                         0.000     44919P102   IACI           679,809       24,005,405.81       18,776,324.58
+IBERIABANK CORP                              1.687     450828108   IBKC             9,745          547,956.20          646,678.20
+ICON PLC - ADR                               0.000     45103T107   ICLR            54,800        1,926,751.03        2,118,020.00
+ICOS CORPORATION                             0.000     449295104   ICOS            52,400        1,756,945.76        1,481,872.00
+ICT GROUP INC                                0.000     44929Y101   ICTG             8,504           89,215.11           82,582.34
+ICU MEDICAL INC.                             0.000     44930G107   ICUI           104,100        2,989,014.41        2,846,094.00
+IDACORP, INC.                                3.925     451107106   IDA             49,500        1,938,174.14        1,513,215.00
+IDENIX PHARMACEUTICALS INC                   0.000     45166R204   IDIX             6,400          103,325.44          109,760.00
+IDENTIX INC                                  0.000     451906101   IDNX            98,000          644,823.55          723,240.00
+IDEX CORPORATION                             1.185     45167R104   IEX             88,542        2,045,445.99        3,585,951.01
+IDEXX LABS INC.                              0.000     45168D104   IDXX            59,900        2,150,769.15        3,269,941.00
+IDT CORP-CL B                                0.000     448947309   IDT             94,000        1,571,900.81        1,455,120.00
+IDX SYSTEMS CORP                             0.000     449491109   IDXC            47,885        1,098,129.57        1,650,117.10
+IHOP CORP.                                   2.387     449623107   IHP             22,500          679,698.52          942,525.00
+II VI INC                                    0.000     902104108   IIVI            34,300          990,958.87        1,457,407.00
+IKON OFFICE SOLUTIONS INC.                   1.384     451713101 Q IKN            758,100        7,838,047.51        8,763,636.00
+ILLINOIS TOOL WORKS                          1.208     452308109 Q ITW            601,400       37,693,634.79       55,737,752.00
+IMAGISTICS INTERNATIONAL INC                 0.000     45247T104   IGI             18,500          398,420.24          622,710.00
+IMATION CORP                                 1.256     45245A107   IMN             44,600        1,530,894.19        1,419,618.00
+IMCLONE SYSTEMS                              0.000     45245W109   IMCL           144,100        7,495,124.77        6,640,128.00
+IMMUCOR INC                                  0.000     452526106   BLUD            49,650          340,708.19        1,167,271.50
+IMMUNICON CORP                               0.000     45260A107   IMMC             6,700           54,872.35           46,766.00
+IMMUNOGEN INC                                0.000     45253H101   IMGN            40,705          202,265.43          359,832.20
+IMPAX LABORATORIES INC                       0.000     45256B101   IPXL            40,100          590,036.99          636,788.00
+IMPERIAL SUGAR COMPANY                       1.049     453096208   IPSU            65,300          605,702.85        1,243,965.00
+IMS HEALTH INC.                              0.344     449934108   RX             971,966       20,104,560.27       22,559,330.86
+INAMED CORP                                  0.000     453235103   IMDC            84,453        3,999,852.23        5,341,652.25
+INCYTE CORP                                  0.000     45337C102   INCY            74,000          589,747.02          739,260.00
+INDEPENDENCE COMMUNITY BANK                  2.348     453414104   ICBC            99,120        3,324,878.22        4,220,529.60
+INDEPENDENCE HLDG CO                         0.271     453440307   IHC             16,641          255,645.75          307,026.45
+INDEPENDENT BANK CORP/MA                     1.659     453836108   INDB            16,350          411,520.01          551,812.50
+INDEPENDENT BANK CORP/MI                     2.279     453838104   IBCP            12,430          303,692.53          370,786.90

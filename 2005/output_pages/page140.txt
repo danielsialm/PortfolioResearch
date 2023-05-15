@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 107
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+FLUSHING FINL CORP                         2.569 FFIC    343873105     15.5700           100.00          1,610.73          1,557.00
+FORMFACTOR INC                             0.000 FORM    346375108     24.4300           100.00          2,381.44          2,443.00
+FORRESTER RESEARCH INC                     0.000 FORR    346563109     18.7500         2,900.00         53,727.18         54,375.00
+FORWARD AIR CORPORATION                    0.654 FWRD    349853101     36.6500           100.00          3,035.52          3,665.00
+FOSSIL INC.                                0.000 FOSL    349882100     21.5100           200.00          4,336.57          4,302.00
+FOUNDATION COAL HOLDINGS INC               0.526 FCL     35039W100     38.0000         2,000.00         48,303.00         76,000.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     13.8100           400.00          3,701.11          5,524.00
+FOXHOLLOW TECHNOLOGIES INC                 0.000 FOXH    35166A103     29.7900         2,500.00         71,116.79         74,475.00
+FRANKLIN BANK CORP                         0.000 FBTX    352451108     17.9900           100.00          1,804.91          1,799.00
+FRANKLIN ELEC INC                          1.011 FELE    353514102     39.5400           100.00          3,511.55          3,954.00
+FRED'S INC                                 0.491 FRED    356108100     16.2700           100.00          1,893.14          1,627.00
+FREIGHTCAR AMERICA INC                     0.249 RAIL    357023100     48.0800         1,500.00         60,678.37         72,120.00
+FREMONT GENERAL CORP.                      1.721 FMT     357288109     23.2300           500.00         10,442.41         11,615.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109      9.2400           100.00            935.70            924.00
+FRONTIER FINL CORP W                       2.125 FTBK    35907K105     32.0000           100.00          2,059.82          3,200.00
+FRONTIER OIL CORP                          0.426 FTO     35914P105     37.5300           100.00          1,088.29          3,753.00
+FTI CONSULTING INC                         0.000 FCN     302941109     27.4400           100.00          2,393.92          2,744.00
+FUELCELL ENERGY INC                        0.000 FCEL    35952H106      8.4700           200.00          1,965.11          1,694.00
+FULLER H B CO                              1.527 FUL     359694106Q    32.0700           100.00          2,611.33          3,207.00
+FURNITURE BRANDS INTERNATIONAL             2.687 FBN     360921100     22.3300         1,100.00         28,310.64         24,563.00
+G & K SERV. CL-A                           0.178 GKSRA   361268105Q    39.2500           100.00          3,594.57          3,925.00
+GAMESTOP CORP.                             0.000 GME     36467W109     31.8200         4,200.00        117,773.34        133,644.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    49.3000         1,600.00         41,320.27         78,880.00
+GATEWAY INC.                               0.000 GTW     367626108      2.5100         1,600.00         22,283.18          4,016.00
+GAYLORD ENTMT CO                           0.000 GET     367905106     43.5900           100.00          3,062.69          4,359.00
+GEHL COMPANY                               0.000 GEHL    368483103     26.2500         2,100.00         58,164.29         55,125.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMST    36866W106      2.6100         3,700.00         16,040.92          9,657.00
+GENCORP INC                                0.676 GY      368682100Q    17.7500           400.00          5,228.54          7,100.00
+GENERAL CABLE CORP                         1.015 BGC     369300108     19.7000         1,000.00         13,081.63         19,700.00
+GENERAL COMMUNICATION                      0.000 GNCMA   369385109     10.3300         7,300.00         68,322.51         75,409.00
+GENESEE & WYO INC                          0.000 GWR     371559105     37.5500           100.00          2,713.30          3,755.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     18.0900         2,300.00         33,884.14         41,607.00
+GENLYTE GROUP INC                          0.000 GLYT    372302109     53.5700           300.00          7,940.55         16,071.00
+GEORGIA GULF CORP                          1.051 GGC     373200203     30.4200           100.00          2,886.08          3,042.00
+GERON CORP                                 0.000 GERN    374163103      8.6100           200.00          1,576.11          1,722.00
+GEVITY HR INC                              1.088 GVHR    374393106     25.7200           100.00          2,086.20          2,572.00
+GIANT INDUSTRIES INC                       0.000 GI      374508109     51.9600           100.00          2,535.62          5,196.00
+GIBRALTAR INDUSTRIES INC                   0.871 ROCK    374689107     22.9400           400.00          7,429.19          9,176.00
+GLACIER BANCORP INC                        2.129 GBCI    37637Q105     30.0500           100.00          2,079.92          3,005.00

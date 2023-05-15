@@ -1,0 +1,68 @@
+FI        FIXED INCOME                                                         7,509,178,754.50  7,571,444,259.21  7,934,669,568.81
+
+Group Total                                                             0.00 / 7,509,178,754.50  7,571,444,259.21  7,934,669,568.81
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+
+HUFF      W.R. HUFF ASSET MANA                                                     2,462,705.49    246,270,549.89    243,892,354.55
+PIMCO     PACIFIC INVESTMENT C                                                     2,760,771.93    276,077,193.42    275,020,023.84
+SALOMON   SALOMON BROS. ASSET                                                      2,134,677.13    213,467,713.57    226,051,889.00
+FIDELITY  FIDELITY INVESTMENTS                                                     2,123,841.15    212,384,115.21    221,415,577.00
+
+Group Total                                                             0.00 /     9,481,995.72    948,199,572.09    966,379,844.39
+
+
+Group Total - FIXED INCOME                                              0.00 / 7,518,660,750.22  8,519,643,831.30  8,901,049,413.20
+
+VAL       LARGE CAP VALUE ACTI                                                   109,392,523.38  3,662,124,262.24  3,376,902,565.81
+VAP       LARGE CAP VALUE PASS                                                    48,923,357.54  1,709,575,872.18  1,591,939,833.05
+IND       LARGE CAP SELECT                                                       193,300,998.47  5,161,967,623.94  6,978,762,098.13
+MV4       MID-CAP VALUE                                                           35,822,392.77    815,689,705.39    823,847,867.83
+MG4       MID-CAP GROWTH                                                          22,459,063.12    635,004,831.09    756,168,660.59
+GP5       LARGE CAP GROWTH                                                       116,214,483.37  4,076,481,842.94  4,830,790,446.68
+SNP       S&P 500 PASSIVE                                                        111,571,405.52  3,313,618,586.18  4,228,697,115.85
+SP4       S&P 400 PASSIVE                                                          4,564,357.96    114,920,477.74    125,157,903.55
+SP6       S&P 600 PASSIVE                                                         16,969,574.80    346,224,325.19    377,261,295.44
+HCP       HEALTHCARE                                                               1,088,870.00     47,754,710.08     49,603,384.08
+TEC       TECHNOLOGY                                                               2,124,005.17     69,257,268.45     53,857,182.95
+
+Group Total                                                             0.00 /   662,431,032.12 19,952,619,505.42 23,192,988,353.96
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+
+6DG       DAVID J. GREENE - VA                                                    11,575,693.14     65,958,729.00     66,861,202.13
+6DH       DUNCAN-HURST - GROWT                                                     2,302,413.47     44,572,626.24     52,559,659.73
+6FT       FULLER & THALER - BL                                                     3,102,087.82     14,556,827.50     20,262,268.79
+6JL       JACOBS LEVY - VALUE                                                      2,540,562.39     34,925,345.51     38,737,701.35
+6LA       LORD, ABBETT & CO -                                                      8,434,875.72     83,271,145.64     92,570,345.29
+6PI       PIMCO - GROWTH                                                           5,161,441.90     51,362,290.91     56,811,497.07
+6NC       NEXT CENTURY GROWTH                                                      2,889,290.65     52,867,573.96     62,953,067.50
+
+Group Total                                                             0.00 /    36,006,365.10    347,514,538.76    390,755,741.86
+
+
+Group Total - COMMON STOCK                                              0.00 /   698,437,397.22 20,300,134,044.18 23,583,744,095.82
+
+EQS       EQUITY SWAPS                                                                           1,711,487,708.42    1,644,578,442.14
+I-ACT     INTERNAL EMERGING                                                                        635,550,673.50      570,912,375.94
+I-ARROW   ARROWSTREET CAPITAL                                                                      850,023,172.29      794,086,949.59
+I-BABS    COLONIAL FIRST STATE                                                                     365,303,873.25      343,608,738.88
+I-BERNS   SANFORD BERNSTEIN EA                                                                   1,215,040,446.74    1,109,718,934.20
+I-SANF    BERSTEIN EMERGING MA                                                                     408,405,971.56      336,077,261.34
+I-CASTLE  BLACKROCK INTERNATIO                                                                          20,455.23           20,487.45
+I-EAFE    INTERNAL EAFE INDEX                                                                      796,042,090.66      683,354,004.88
+I-EAFEVAL EAFE VALUE                                                                               860,672,245.03      797,379,219.56
+I-EAP     EMERGING ANALYST POR                                                                     256,559,826.97      248,216,380.28
+I-PROVEAFESTATE STREET PROVISI                                                                     766,476,747.55      713,341,075.00
+I-FORCO   FOREIGN & COLONIAL                                                                       455,741,254.66      421,473,010.47
+I-JPMOR   JP MORGAN                                                                                    117,273.11          451,899.88
+I-GEN     GENESIS                                                                                  540,300,831.65      480,369,033.74
+I-LAZAR   EAFE TRANSITION ACCO                                                                       9,244,146.13        3,707,268.81
+I-MARVIN  MARVIN & PALMER_EAFE                                                                   1,306,485,499.80    1,310,294,592.58
+I-MARVEM  MARVIN & PALMER EMER                                                                     236,762,136.17      264,379,927.53
+I-PAN     INTERNAL EAFE TOPDOW                                                                     281,839,529.23      259,998,137.14
+I-QUAN    EAFE QUANTITATIVE PO                                                                     328,571,694.30      327,099,528.73
+I-SCHR    SCHRODER CAPITAL                                                                         433,087,021.32      423,788,756.41
+
+Group Total                                                 1,700,113,730.91 / 7,918,663,469.66 11,457,732,597.57   10,732,856,024.55
+

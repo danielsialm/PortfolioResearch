@@ -1,0 +1,41 @@
+ASOF02   Date 01/21/2003 Time 18:52:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - VAL       LARGE CAP VALUE ACTI
+Instrument - COM       COMMON STOCK
+
+UNION PACIFIC CORP.                        1.536 UNP     907818108Q    59.8700       126,700.00      6,095,403.13      7,585,529.00
+UNION PLANTERS CORP.                       4.726 UPC     908068109     28.1400        60,400.00      1,777,942.38      1,699,656.00
+UNISYS CORP.                               0.000 UIS     909214108      9.9000       148,900.00      3,404,453.93      1,474,110.00
+UNITED STATES STEEL CORP.                  1.524 X       912909108Q    13.1200        22,400.00        453,803.84        293,888.00
+UNITED TECHNOLOGIES                        1.582 UTX     913017109Q    61.9400       219,000.00     12,165,924.20     13,564,860.00
+UNOCAL                                     2.616 UCL     915289102Q    30.5800       111,500.00      2,912,340.32      3,409,670.00
+UNUMPROVIDENT CORP.                        3.363 UNM     91529Y106Q    17.5400        32,300.00      1,017,048.78        566,542.00
+US BANCORP                                 3.675 USB     902973304     21.2200       980,900.00     19,593,883.59     20,814,698.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     15.6200       277,200.00      7,581,481.22      4,329,864.00
+VIACOM INC-CLASS B                         0.000 VIA.B   925524308     40.7600       847,200.00     35,024,303.81     34,531,872.00
+VISTEON CORP                               3.448 VC      92839U107      6.9600        55,900.00        955,481.93        389,064.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106      2.1850       413,000.00      7,014,120.97        902,405.00
+WACHOVIA CORP.- NEW                        2.854 WB      929903102Q    36.4400       634,300.00     25,626,875.62     23,113,892.00
+WASHINGTON MUTUAL INC.                     3.243 WM      939322103     34.5300       443,000.00     12,480,759.13     15,296,790.00
+WASTE MANAGEMENT INC.                      0.043 WMI     94106L109     22.9200       280,500.00      8,682,296.39      6,429,060.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     28.2700       255,300.00      6,435,760.69      7,217,331.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     71.1600        73,700.00      3,018,259.02      5,244,492.00
+WELLS FARGO COMPANY                        2.389 WFC     949746101     46.8700       850,300.00     31,049,573.80     39,853,561.00
+WENDY'S INTL                               0.886 WEN     950590109Q    27.0700       163,200.00      4,513,954.04      4,417,824.00
+WEYERHAEUSER CO.                           3.251 WY      962166104Q    49.2100       106,200.00      6,117,244.56      5,226,102.00
+WILLIAMS COS. INC.                         1.481 WMB     969457100Q     2.7000       443,300.00     12,568,779.85      1,196,910.00
+XCEL ENERGY INC                            6.818 XEL     98389B100Q    11.0000       156,500.00      3,757,688.96      1,721,500.00
+XEROX CORP                                 0.000 XRX     984121103Q     8.0500       186,700.00      6,060,272.02      1,502,935.00
+XL CAPITAL LTD - CLASS A                   2.433 XL      G98255105     77.2500        76,300.00      6,875,518.65      5,894,175.00
+ZIONS BANCORPORATION                       2.033 ZION    989701107     39.3490        38,400.00      2,277,222.73      1,511,001.60
+
+Instrument Total           298                                                   101,416,098.67  2,887,461,791.11  2,038,683,677.03
+
+Portfolio Total            298                                                   101,416,098.67  2,887,461,791.11  2,038,683,677.03
+

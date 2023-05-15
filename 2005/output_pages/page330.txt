@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+BANK OF IRELAND                              4.182     3070732      BKIR_        49,134.00          701,709.99
+BANK OF MONTREAL                             2.581     2076009      BMO_C        14,000.00          579,838.45
+BANK OF NOVA SCOTIA                          2.672     2076281      BNS_C        32,200.00          958,489.68
+BARCLAYS PLC ORD G                           7.009     3134865      BARC_       449,067.00        2,851,957.82
+BARRICK GOLD CORP                            0.581     2024644      ABX_C        12,600.00          262,805.57
+BASF AG DEM ORD SH                           3.097     5086577      BAS_G       101,825.00        5,183,857.00
+BAYER AG COM NPV                             1.841     5069211      BAY_G       114,516.00        3,019,975.09
+BCE INC                                      4.055     2089933      BCE_C        11,000.00          238,660.41
+BEKAERT SA NPV                               2.100     5827431      BEKB_         7,724.00          645,298.68
+BG GROUP ORD                                 1.192     0876289      BG/_L       244,245.00          931,118.32
+BHP LIMITED                                  1.171     6144690      BHP_A        65,722.00          836,260.96
+BHP STEEL LTD                                6.522     6533232      BSL_A        10,716.00           70,800.73
+BIC FRF 25.0                                 2.112     5298781      BB_FP         9,578.00          561,201.37
+BILLITON PLC                                 5.061     0056650      BLT_L       180,584.00          875,245.02
+BK OF EAST ASIA HK                           0.621     6075648      23_HK        39,800.00          115,287.55
+BNP PARIBAS                                  3.451     7309681      BNP_F        86,749.00        5,421,373.23
+BOC GROUP GBP0.25                            5.960     0108120      BOC_L        28,598.00          414,451.86
+BOC HONG KONG HOLDINGS LTD                   0.625     6536112      2388_        88,400.00          162,197.47
+BOEHLER-UDDEHOLM A                           3.631     4121305      BUD_A        15,532.00        2,485,126.20
+BORAL LIMITED                                3.078     6218670      BLD_A        10,310.00           55,564.32
+BOUYGUES                                     2.141     4002121      EN_FP        26,483.00          984,663.24
+BP AMOCO                                     5.310     0798059      BP/_L     1,552,722.00       11,257,777.45
+BRAMBLES INDS LTD                            1.557     6120009      BIL_A        24,987.00          144,632.33
+BRIDGESTONE CORP J                           0.006     6132101      5108_        61,000.00          938,461.50
+BRIT AMER TOBACCO                            5.704     0287580      BATS_       120,879.00        1,037,081.99
+BRITISH AEROSPACE                            4.406     0263494      BA/_L       246,594.00          934,322.67
+BRITISH SKY BROADC                           3.111     0141192      BSY_L        85,854.00          800,159.90
+BROOKFIELD ASSET MANAGEMENT                  0.876     2092599      BAM/L         7,200.00          222,149.77
+BT GROUP                                     8.322     3091357      BT/A_       662,354.00        3,570,320.78
+BUSINESS OBJECTS                             0.000     5876507      BOB_F         3,699.00          133,170.05
+CAMECO CORP                                  0.278     2166160      CCO_C         4,500.00          132,685.80
+CAN IMPERIAL BK OF COMMERCE                  3.048     2170525      CM_CN        10,900.00          564,229.19
+CANADIAN NATL RAILWAY CO                     0.919     2180632      CNR_C         7,950.00          384,627.10
+CANADIAN NATURAL RESOURCES                   0.356     2171573      CNQ_C        16,100.00          336,761.43
+CANADIAN PACIFIC RAILWAY LTD                 1.054     2793115      CP_CN         7,200.00          207,001.97
+CANON INC JPY50                              0.012     6172323      7751_        75,700.00        3,645,817.10
+CAP GEMINI FRF 40.                           1.391     4163437      CAP_F         1,441.00           50,572.61
+CAPITALAND LIMITED                           0.874     6309303      CAPL_       585,000.00          884,832.72
+CAPITAMALL TRUST                             1.337     6420129      CT_SP       628,120.00          625,063.48

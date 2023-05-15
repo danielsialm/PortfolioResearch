@@ -1,0 +1,19 @@
+ASOF02   Date 01/21/2005 Time 18:34:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCP       LARGE-CAP PASSIVE (Q
+Instrument - COM       COMMON STOCK
+
+XILINX INC                                 0.674 XLNX    983919101     29.6500       265,500.00      8,533,936.53      7,872,075.00
+YAHOO INC                                  0.000 YHOO    984332106     37.6800       881,500.00     32,945,193.63     33,214,920.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     80.1200       187,900.00      8,358,476.89     15,054,548.00
+
+Instrument Total           198                                                   172,034,357.00  4,892,088,420.92  6,614,196,566.18
+
+Portfolio Total            198                                                   172,034,357.00  4,892,088,420.92  6,614,196,566.18
+

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 074
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+UNIVERSAL HEALTH SERVICES CL B               0.719     913903100   UHS            121,711        5,453,170.26        5,416,139.50
+UNIVERSAL TECHNICAL INSTITUTE INC            0.000     913915104   UTI             69,364        2,404,917.75        2,644,155.68
+UNIVEST CORP OF PENNSYLVANIA                 2.173     915271100   UVSP            13,400          633,948.54          616,668.00
+UNIVISION COMMUNICATIONS                     0.000     914906102   UVN            706,000       21,599,056.72       20,664,620.00
+UNIZAN FINANCIAL CORP                        2.049     91528W101   UNIZ            24,200          466,891.30          637,670.00
+UNOCAL                                       1.850     915289102 Q UCL            435,600       14,469,610.90       18,835,344.00
+UNOVA INC.                                   0.000     91529B106   UNA            196,663        3,016,709.91        4,973,607.27
+UNUMPROVIDENT CORP.                          1.672     91529Y106 Q UNM            289,600        4,992,577.22        5,195,424.00
+URBAN OUTFITTERS INC                         0.000     917047102   URBN            45,700          916,235.09        2,029,080.00
+UROLOGIX INC                                 0.000     917273104   ULGX            15,600          232,075.22          100,932.00
+URS CORPORATION                              0.000     903236107   URS             97,900        2,465,591.51        3,142,590.00
+US BANCORP                                   3.831     902973304   USB          3,681,052       81,008,104.53      115,290,548.64
+US CELLULAR CORP.                            0.000     911684108   USM             61,409        2,092,629.36        2,748,666.84
+USA MOBILITY INC                             0.000     90341G103   USMO            32,394          934,729.08        1,143,832.14
+USANA HEALTH SCIENCES INC                    0.000     90328M107   USNA             5,300          147,952.70          181,260.00
+USEC INC.                                    5.676     90333E108   USU            112,700          879,515.28        1,092,063.00
+USF CORP                                     0.982     91729Q101   USFC            39,900        1,220,236.26        1,514,205.00
+USG CORPORATION                              0.248     903293405   USG             56,800          976,406.44        2,287,336.00
+USI HOLDINGS CORP                            0.000     90333H101   USIH           387,100        5,216,238.35        4,478,747.00
+UST INC.                                     4.323     902911106 Q UST            396,743       14,225,094.50       19,087,305.73
+UTI WORLDWIDE INC                            0.169     G87210103   UTIW            88,784        2,581,192.29        6,039,087.68
+UTSTARCOM, INC                               0.000     918076100   UTSI           372,100        9,832,225.61        8,242,015.00
+V F CORP                                     1.950     918204108 Q VFC            183,700        7,237,939.36       10,173,306.00
+VAIL RESORTS INC                             0.000     91879Q109   MTN             55,100          842,978.41        1,235,342.00
+VALASSIS COMMUNICATIONS INC                  0.000     918866104   VCI             79,700        2,120,958.08        2,790,297.00
+VALEANT PHARMACEUTICALS                      1.176     91911X104 Q VRX            126,700        2,879,371.39        3,338,545.00
+VALENCE TECHNOLOGY INC                       0.000     918914102   VLNC               100              383.57              311.00
+VALERO ENERGY CORP.                          0.704     91913Y100 Q VLO            662,182       15,598,169.34       30,063,062.80
+VALHI INC                                    1.491     918905100   VHI             39,300          551,809.23          632,337.00
+VALLEY NATL BANCORP                          3.255     919794107   VLY             38,660          996,524.46        1,068,949.00
+VALMONT INDUSTRIES                           1.274     920253101   VMI             29,300          650,770.41          735,723.00
+VALSPAR CORP                                 1.599     920355104   VAL            103,145        4,868,798.64        5,158,281.45
+VALUE LINE INC                               2.548     920437100   VALU             1,500           55,865.34           58,857.00
+VALUECLICK, INC                              0.000     92046N102   VCLK            98,430          759,683.22        1,312,071.90
+VALUEVISION MEDIA INC                        0.000     92047K107   VVTV            57,185          820,436.50          795,443.35
+VARCO INTERNATIONAL INC.                     0.000     922122106   VRC            214,962        4,874,932.11        6,266,142.30
+VARIAN INC.                                  0.000     922206107   VARI            80,431        2,832,666.14        3,298,475.31
+VARIAN MEDICAL SYSTEMS                       0.000     92220P105   VAR            517,558       15,934,920.03       22,379,207.92
+VARIAN SEMICONDUCTOR EQUIPMENT ASSOC         0.000     922207105   VSEA            40,300        1,143,274.66        1,485,055.00
+VASTERA INC                                  0.000     92239N109   VAST            28,300           69,926.47           74,429.00

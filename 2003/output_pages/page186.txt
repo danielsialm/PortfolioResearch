@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 156
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+HELMERICH & PAYNE, INC                     1.145 HP      423452101Q    27.9300        18,600.00        530,234.60        519,498.01
+HERLEY INDS INC DEL                        0.000 HRLY    427398102     20.7000        35,500.00        639,316.11        734,849.99
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     30.1400        14,700.00        467,196.86        443,058.00
+INDEPENDENCE COMMUNITY BANK                2.224 ICBC    453414104     35.9700        17,400.00        506,937.35        625,878.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700        26,300.00        306,954.55        451,571.01
+IPC HOLDINGS LTD                           1.849 IPCR    G4933P101     38.9400        19,900.00        680,128.70        774,906.00
+KADANT INC                                 0.000 KAI     48282T104     21.6500        30,000.00        599,465.69        649,500.01
+KAYDON CORP                                1.857 KDN     486587108Q    25.8400        25,300.00        543,636.90        653,752.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106     10.3100        60,900.00        635,045.48        627,879.00
+LAWSON SOFTWARE                            0.000 LWSN    520780107      8.2300       107,500.00        786,648.36        884,725.00
+LENNOX INTERNATIONAL INC.                  2.275 LII     526107107     16.7000        39,900.00        558,425.16        666,330.00
+LINENS 'N THINGS INC.                      0.000 LIN     535679104     30.0800        25,900.00        648,662.54        779,072.01
+LOEWS CORP - CAROLINA GROUP                7.210 CG      540424207     25.2400        28,800.00        677,035.48        726,912.00
+MESA AIR GROUP INC                         0.000 MESA    590479101     12.5200        32,100.00        387,076.60        401,892.01
+METHODE ELECTRONICS CL-A                   1.635 METH    591520200     12.2300        41,300.00        486,910.42        505,099.00
+NN INC                                     2.541 NNBRE   629337106     12.5900        24,200.00        297,835.36        304,678.00
+NORDSON CORP                               1.795 NDSN    655663102     34.5300        11,500.00        340,934.33        397,095.00
+PACKAGING CORP OF AMERICA                  2.744 PKG     695156109     21.8600        39,900.00        733,603.32        872,214.00
+PARK ELECTROCHEMICAL CORP.                 0.906 PKE     700416209     26.4900        16,800.00        342,905.25        445,032.00
+PIEDMONT NATURAL GAS CO INC NO             3.819 PNY     720186105     43.4600        12,300.00        483,944.16        534,558.00
+PLATINUM UNDERWRITERS HOLDINGS             1.066 PTP     G7127P100     30.0000        25,600.00        716,832.83        768,000.00
+POLYONE CORPORATION                        3.912 POL     73179P106      6.3900       101,000.00        594,266.12        645,390.00
+PRIME MONEY MARKET - 6CH                   0.000 IT-CIP  IT-CIP         1.0000     1,835,525.50      1,835,525.46      1,835,525.49
+PUBLIC SERVICE CO OF N MEX                 3.274 PNM     69349H107     28.1000        25,500.00        689,570.23        716,550.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     17.7300        33,600.00        585,013.87        595,728.00
+REGAL BELOIT                               2.181 RBC     758750103     22.0000        26,300.00        516,056.85        578,600.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     41.2000        14,200.00        506,808.53        585,040.01
+RLI CORP                                   1.174 RLI     749607107     37.4600        21,100.00        737,584.39        790,406.00
+RUBY TUESDAY INC                           0.158 RI      781182100     28.4900        14,350.00        353,185.56        408,831.50
+SCOTTISH RE GROUP LTD                      0.962 SCT     G7885T104     20.7800        23,900.00        511,737.63        496,642.00
+SCS TRANSPORTATION INC                     0.000 SCST    81111T102     17.5800        26,300.00        353,048.20        462,354.00
+SELECTIVE INSURANCE GROUP                  2.101 SIGI    816300107     32.3600        22,200.00        569,609.61        718,392.02
+SMITH (A.O.) CORP                          1.711 AOS     831865209     35.0500         8,500.00        266,161.32        297,924.99
+SOUTHWEST BANCORP OF TEXAS                 0.514 SWBT    84476R109     38.8500        13,900.00        464,851.74        540,015.00
+STANCORP FINANCIAL GROUP                   1.113 SFG     852891100     62.8800        13,400.00        704,424.68        842,592.00
+STERIS CORP                                0.000 STE     859152100Q    22.6000        38,600.00        862,516.67        872,360.00
+STILLWATER MINING COMPANY                  0.000 SWC     86074Q102      9.5700        16,400.00        160,593.45        156,948.00
+TOLLGRADE COMMUNICATIONS INC               0.000 TLGD    889542106     17.5300        44,900.00        753,489.89        787,097.00
+TOM BROWN INC                              0.000 TBI     115660201     32.2500        25,200.00        682,174.56        812,700.00

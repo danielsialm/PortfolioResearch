@@ -1,0 +1,41 @@
+ASOF02   Date 01/21/2005 Time 18:34:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 032
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+GENERAL GROWTH PROP                        3.982 GGP     370021107Q    36.1600       309,120.00      7,982,560.27     11,177,779.20
+HEALTH CARE PPTY INV                       6.031 HCP     421915109     27.6900       214,100.00      5,648,198.93      5,928,429.00
+HEALTH CARE REIT INC                       6.291 HCN     42217K106     38.1500           900.00         30,017.56         34,335.00
+HOSPITALITY PROPERTIES                     6.260 HPT     44106M102     46.0000       174,600.00      6,505,459.26      8,031,600.00
+HOST MARRIOTT CORP                         1.156 HMT     44107P104     17.3000       563,200.00      6,735,822.92      9,743,360.00
+HRPT PROPERTIES TRUST                      6.547 HRP     40426W101     12.8300       539,600.00      5,578,787.96      6,923,068.00
+ISTAR FINANCIAL INC                        6.164 SFI     45031U101     45.2600       110,000.00      4,328,212.74      4,978,600.00
+KIMCO REALTY CORP                          4.207 KIM     49446R109Q    57.9900       157,600.00      6,996,909.53      9,139,224.00
+LIBERTY PROPERTY TRUST                     5.648 LRY     531172104Q    43.2000        64,100.00      2,439,446.01      2,769,120.00
+MACERICH CO                                4.140 MAC     554382101     62.8000        95,100.00      4,640,179.39      5,972,280.00
+MACK-CALI RE CORP.                         5.474 CLI     554489104     46.0300        98,200.00      3,618,008.03      4,520,146.00
+MILLS CORP.                                3.732 MLS     601148109     63.7600        51,500.00      2,641,626.12      3,283,640.00
+NEW PLAN EXCEL RE TRUST                    6.093 NXL     648053106Q    27.0800       162,500.00      3,939,071.55      4,400,500.00
+PAN PACIFIC RETAIL                         3.460 PNP     69806L104     62.7000        65,400.00      3,351,080.74      4,100,580.00
+PROLOGIS TRUST                             3.369 PLD     743410102Q    43.3300       294,200.00      9,056,565.03     12,747,686.00
+PUBLIC STORAGE INC                         3.228 PSA     74460D109     55.7500       132,800.00      5,201,397.88      7,403,600.00
+RECKSON ASSOCIATES RE                      5.175 RA      75621K106Q    32.8100       122,800.00      3,267,404.72      4,029,068.00
+REGENCY CENTERS CORP                       3.137 REG     758849103     55.4000        41,200.00      1,855,445.44      2,282,480.00
+SIMON PROP GROUP INC.                      1.308 SPG     828806109Q    64.6700       277,780.00     12,502,328.81     17,964,032.60
+SL GREEN RE CORP                           3.567 SLG     78440X101     60.5500       119,600.00      5,418,264.06      7,241,780.00
+THORNBURG MTG INC                          9.392 TMA     885218107     28.9600       143,700.00      4,247,012.42      4,161,552.00
+TRIZEC PROPERTIES INC                      4.228 TRZ     89687P107     18.9200       143,700.00      2,189,489.30      2,718,804.00
+UNITED DOMINION RE TRUST                   4.717 UDR     910197102     24.8000        59,900.00      1,170,576.89      1,485,520.00
+VORNADO REALTY TRUST                       3.993 VNO     929042109     76.1300       199,900.00     10,257,044.39     15,218,387.00
+WEINGARTEN RE INVST                        3.476 WRI     948741103     40.1000        12,100.00        403,190.83        485,210.00
+
+Instrument Total            39                                                     6,562,600.00    201,046,861.42    255,411,287.80
+
+Portfolio Total            488                                                    97,315,218.16  2,572,772,204.84  3,199,345,288.24
+

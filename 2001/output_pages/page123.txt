@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 094
+ASOF02   Date 01/24/2002 Time 21:29:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 096
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - TEC       TECHNOLOGY
 Instrument - COM       COMMON STOCK
 
-INFOCUS CORPORATION                        0.000 INFS    45665B106     22.0200         1,000.00         18,431.25         22,020.00
-INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     26.5900         2,900.00        107,039.24         77,111.00
-INTEL CORP.                                0.254 INTC    458140100Q    31.4500       176,300.00      6,181,871.59      5,544,635.00
-INTER-TEL INC.                             0.208 INTL    458372109     19.2200           700.00          7,433.52         13,454.00
-INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     25.9000           306.00          7,106.00          7,925.40
-INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     34.8800         1,500.00         48,144.00         52,320.00
-INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     32.0600         1,200.00         39,144.00         38,472.00
-INTERVOICE-BRITE INC.                      0.000 INTV    461142101     12.8000           900.00          8,387.00         11,520.00
-INTL BUS MACH CORP                         0.463 IBM     459200101Q   120.9600        45,500.00      4,326,621.16      5,503,680.00
-INTUIT INC.                                0.000 INTU    461202103     42.7800         5,400.00        202,763.93        231,012.00
-INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     39.0700         1,350.00         42,135.00         52,744.50
-ITRON INC.                                 0.000 ITRI    465741106     30.3000           300.00          2,131.00          9,090.00
-JABIL CIRCUIT INC                          0.000 JBL     466313103     22.7200         4,900.00        124,587.29        111,328.00
-JDS UNIPHASE CORP                          0.000 JDSU    46612J101      8.6800        34,500.00      1,322,612.09        299,460.00
-KEANE INC.                                 0.000 KEA     486665102     18.0300         2,000.00         28,524.00         36,060.00
-KEITHLEY INSTRUMENTS INC                   0.887 KEI     487584104     16.9000           300.00         10,886.00          5,070.00
-KEMET CORP.                                0.000 KEM     488360108     17.7500         2,300.00         42,671.50         40,825.00
-KLA-TENCOR CORP.                           0.000 KLAC    482480100     49.5600         4,400.00        164,625.05        218,064.00
-KOPIN CORP                                 0.000 KOPN    500600101     14.0000         1,600.00         17,927.25         22,400.00
-KRONOS INC.                                0.000 KRON    501052104     48.3800           450.00          9,981.00         21,771.00
-KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500         1,200.00         17,805.00         20,580.00
-LAM RESEARCH CORP                          0.000 LRCX    512807108     23.2200         3,200.00         69,499.87         74,304.00
-LATTICE SEMICON. CORP.                     0.000 LSCC    518415104     20.5700         2,800.00         61,373.00         57,596.00
-LEGATO SYSTEMS INC.                        0.000 LGTO    524651106     12.9700         2,300.00         28,997.00         29,831.00
-LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     59.0000         3,400.00        165,881.00        200,600.00
-LINEAR TECHNOLOGY CORP                     0.409 LLTC    535678106     39.0400         8,300.00        403,076.00        324,032.00
-LSI LOGIC CORP                             0.000 LSI     502161102     15.7800         9,810.17        170,803.60        154,804.48
-LTX CORP                                   0.000 LTXX    502392103     20.9400         1,200.00         32,169.00         25,128.00
-LUCENT TECHNOLOGIES                        0.000 LU      549463107      6.2900        89,500.00      1,283,593.03        562,955.00
-MACROMEDIA INC                             0.000 MACR    556100105     17.8000         1,600.00         23,919.25         28,480.00
-MAPINFO CORP                               0.000 MAPS    565105103     15.6900           300.00          7,878.00          4,707.00
-MAXIM INTGRTD PRDCTS INC.                  0.000 MXIM    57772K101     52.5100         8,600.00        393,601.34        451,586.00
-MCDATA CORPORATION-A WI                    0.000 MCDTA   580031201     24.5000         2,900.00         72,587.00         71,050.00
-MENTOR GRAPHICS CORP.                      0.000 MENT    587200106     23.5700         1,700.00         41,381.50         40,069.00
-MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     33.9800         2,200.00         83,431.70         74,756.00
-METHODE ELECTRONICS CL-A                   2.500 METHA   591520200      8.0000           900.00         10,177.50          7,200.00
-MICREL INCORPORATED                        0.000 MCRL    594793101     26.2300         2,300.00         58,595.95         60,329.00
-MICROCHIP TECHNOLOGY INC.                  0.000 MCHP    595017104     38.7400         3,400.00         90,461.63        131,716.00
-MICRON TECHNOLOGY INC                      0.000 MU      595112103Q    31.0000        15,600.00        539,809.18        483,600.00
+PROXIM INC                                 0.000 PROX    744284100      9.9200           800.00         19,040.88          7,936.00
+QLOGIC CORPORATION                         0.000 QLGC    747277101     44.5100         2,400.00        135,439.13        106,824.00
+QRS CORPORATION                            0.000 QRSI    74726X105     14.1000           300.00          3,774.75          4,230.00
+QUALCOMM INC                               0.000 QCOM    747525103     50.5000        19,900.00      1,267,938.73      1,004,950.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      9.8500         4,000.00         52,505.00         39,400.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102     11.5000           800.00         13,280.75          9,200.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     19.6600           500.00         11,347.50          9,830.00
+RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.4000           700.00          7,175.75          5,180.00
+RATIONAL SOFTWARE CORPORATION              0.000 RATL    75409P202     19.5000         5,300.00        188,138.00        103,350.00
+READ-RITE CORP                             0.000 RDRT    755246105      6.6100         3,100.00         19,516.30         20,491.00
+RETEK INC                                  0.000 RETK    76128Q109     29.8700         1,100.00         21,290.54         32,857.00
+REYNOLDS & REYNOLDS CL-A                   1.814 REY     761695105     24.2500         1,900.00         41,787.32         46,075.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100     19.2300         4,400.00         99,048.33         84,611.99
+ROGERS CORP.                               0.000 ROG     775133101     30.3000           300.00         11,282.00          9,090.00
+ROPER INDUSTRIES INC                       0.666 ROP     776696106     49.5000           900.00         32,589.00         44,550.00
+ROXIO INC                                  0.000 ROXI    780008108     16.5500           329.00          5,455.44          5,444.95
+RSA SECURITY INC.                          0.000 RSAS    749719100     17.4600         1,500.00         47,157.25         26,190.00
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     34.3200           400.00         14,924.00         13,728.00
+SANDISK CORP                               0.000 SNDK    80004C101     14.4000         1,800.00         44,202.28         25,920.00
+SANMINA-SCI CORP                           0.000 SANM    800907107     19.9000        13,332.00        317,810.42        265,306.80
+SAPIENT CORP                               0.000 SAPE    803062108      7.7200         3,100.00         18,881.48         23,932.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.5700           300.00          5,970.00          4,371.00
+SCIENTIFIC ATLANTA INC.                    0.167 SFA     808655104Q    23.9400         4,300.00        176,846.94        102,942.00
+SCM MICROSYSTEMS INC                       0.000 SCMM    784018103     14.6400           300.00          8,131.00          4,392.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     35.6900         1,800.00         50,956.19         64,242.00
+SIEBEL SYSTEMS INC.                        0.000 SEBL    826170102     27.9800        11,900.00        627,251.16        332,962.00
+SOLECTRON CORP                             0.000 SLR     834182107     11.2800        21,100.00        543,194.50        238,008.00
+SPSS INC.                                  0.000 SPSS    78462K102     17.7500           400.00          7,896.83          7,100.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     15.5200           300.00          5,593.50          4,656.00
+STARTEK INC                                0.000 SRT     85569C107     18.9500           300.00          4,751.00          5,685.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     20.6700         2,800.00         34,975.00         57,876.00
+STRATOS LIGHTWAVE INC.                     0.000 STLW    863100103      6.1500         1,358.00          7,393.00          8,351.70
+SUN MICROSYSTEMS INC.                      0.000 SUNW    866810104     12.3000        85,300.00      2,730,135.70      1,049,190.00
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     28.9300         7,000.00        174,859.00        202,510.00
+SUPERTEX INC                               0.000 SUPX    868532102     17.5100           300.00          5,256.00          5,253.00
+SYBASE INC.                                0.000 SY      871130100     15.7600         2,650.00         48,549.50         41,764.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103      9.3400         1,000.00          5,680.18          9,340.00
+SYMANTEC CORP                              0.000 SYMC    871503108     66.3300         2,000.00         83,457.50        132,660.00
+SYMBOL TECHNOLOGIES INC                    0.125 SBL     871508107     15.8800         6,700.00        118,302.60        106,396.00

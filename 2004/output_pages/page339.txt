@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CAMECO CORP                                  0.398     2166160      CCO_C         1,000.00           69,029.31
+CAN IMPERIAL BK OF COMMERCE                  3.004     2170525      CM_CN         7,300.00          354,947.95
+CANADIAN NATL RAILWAY CO                     0.891     2180632      CNR_C         5,350.00          226,435.15
+CANADIAN NATURAL RESOURCES                   0.651     2171573      CNQ_C         5,400.00          176,955.11
+CANADIAN PACIFIC RAILWAY LTD                 1.076     2793115      CP_CN         4,800.00          118,685.48
+CANON INC JPY50                              0.011     6172323      7751_        50,600.00        2,258,152.01
+CAP GEMINI FRF 40.                           2.307     4163437      CAP_F         4,724.00          174,961.33
+CAPITAMALL TRUST                             3.418     6420129      CT_SP     1,025,200.00          980,804.52
+CARREFOUR EUR 2.5                            2.870     5641567      CA_FP        26,933.00        1,313,226.82
+CATHAY PACIFIC AIR                           0.323     6179755      293_H        60,500.00          110,463.39
+CENTRICA 5.55P                               5.372     B033F22      CNA_L       295,394.00        1,016,223.24
+CGU ORD 25P(SICOVA                           7.492     0216238      AV/_L       193,237.00        2,129,657.84
+CHEUNG KONG(HLDGS)                           0.278     6190273      1_HK         76,700.00          620,101.91
+CHUBU ELECTRIC POWER CO INC                  0.023     6195609      9502_        68,500.00        1,336,404.65
+CIBA SPEC CHEM ORD                           3.050     5196744      CIBN_         2,500.00          177,631.52
+CIE DE ST. GOBAIN                            3.526     7380482      SGO_F        12,105.00          425,277.85
+CITY DEVELOPMENTS                            0.647     6197928      CIT_S       150,100.00          467,739.18
+CLP HLDGS HKD5                               0.518     6097017      2_HK        105,700.00          581,747.71
+COGNOS INC                                   0.000     2208307      CSN_C         2,200.00           71,616.37
+COLES MYER LTD                               2.305     6209908      CML_A       174,500.00        1,344,810.89
+COMMENWEALTH BK OF AUSTRALIS AUD 2.0         4.467     6215035      CBA_A       182,500.00        4,455,002.64
+COMPAGNIE FIN RICHEMONT                      0.929     7151116      CFR_V        15,500.00          363,590.51
+COMPASS GROUP                                7.250     0533153      CPG_L       269,514.00        1,632,635.94
+CREATIVE TECHNLGY                            0.627     6207582      CREAF         8,600.00          121,731.99
+CREDIT SUISSE GROUP                          0.184     7171589      CSGN_        31,055.00        1,055,713.72
+CRH                                          2.035     0182704      CRH_I       280,436.00        6,705,009.99
+DAI NIPPON PRINTNG                           0.012     6250906      7912_        69,400.00          870,082.24
+DAIMLERCHRYSLER AG                           5.783     5529027      DCX_G       134,900.00        5,095,927.69
+DAIWA HOUSE INDS J                           0.012     6251363      1925_        46,000.00          478,882.22
+DAIWA SECURITIES G                           0.013     6251448      8601_       108,200.00          660,001.22
+DBS GROUP HOLDINGS                           1.293     6175203      DBS_S       348,600.00        2,855,342.15
+DCC PLC                                      2.813     0242493      DCC_I        52,365.00          956,975.99
+DELHAIZE-LE LION N                           1.821     4262118      DELB_        26,890.00          878,976.08
+DEN NORSKE BANK NO                           0.608     4263304      DNB_N       556,660.00        2,907,198.17
+DENSO CORP Y50                               0.009     6640381      6902_        52,900.00          850,434.53
+DEUTSCHE BANK AG O                           3.121     5750355      DBK_G        77,500.00        5,111,548.76
+DEUTSCHE POST AG                             4.030     4617859      DPW_G        79,300.00        1,401,630.45
+DEUTSCHE TELEKOM D                           3.022     5842359      DTE_G       300,800.00        4,787,333.90
+DEXIA                                        3.192     7147610      DEXB_       238,012.00        2,983,056.32

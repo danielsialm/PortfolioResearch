@@ -1,0 +1,50 @@
+ASOF01   Date 01/20/2004 Time 18:58:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME
+Portfolio  - FI        FIXED INCOME
+Instrument - ASB       ASSET BACKED NOTES AND BONDS
+
+VALET 2003-1 A2                AAA 1.1100  1.122 92866XAB3        M 00/00/0000    20,000,000.00     19,999,067.06     19,944,383.33
+VALET 2003-1 A4                AAA 1.9300  1.938 92866XAD9        M 00/00/0000    20,000,000.00     19,999,893.66     19,411,794.44
+
+Instrument Total               3                                                  55,000,000.00     54,996,781.94     54,421,127.77
+
+Instrument -CAN       CANADIAN BONDS
+
+ONTARIO PROVINCE GLOBAL        AA2 5.5000  6.351 683234MF2        S 10/01/2008    23,500,000.00     22,689,813.85     25,854,700.00
+QUEBEC PROVINCE GLOBAL         A1  5.7500  6.566 748148QQ9        S 02/15/2009    15,000,000.00     14,473,876.19     16,750,233.33
+
+Instrument Total               2                                                  38,500,000.00     37,163,690.04     42,604,933.33
+
+Instrument -CDS       CREDIT DEFAULT SWAP
+
+TRAC-X NA 03/09 SERIES II IG       0.0000  0.000 TRACX0309          03/20/2009   205,000,000.00      3,837,591.57      4,285,129.31
+
+Instrument Total               1                                                 205,000,000.00      3,837,591.57      4,285,129.31
+
+Instrument -CMBB      COMMERCIAL MORTGAGE BACKED - AMORTIZING
+
+FULBA 1998-C2 A1               AAA 6.2800  6.153 337367AA4        M 11/15/2035     9,097,620.18      9,115,854.30      9,736,576.37
+LBCMT 1999-C1 A2               AAA 6.7800 99.999 501773CS2        M 10/15/2030    30,000,000.00     31,472,541.90     33,994,500.00
+LBUBS 2003-C5 A2               AAA 3.4780 99.999 52108HSY1        M 07/15/2027    20,000,000.00     20,098,211.94     19,988,644.44
+
+Instrument Total               3                                                  59,097,620.18     60,686,608.14     63,719,720.81
+
+Instrument -COR       CORPORATE NOTES/BONDS
+
+ABBEY NATIONAL PLC             A1  7.9500  8.029 002920AC0        S 10/26/2029    10,000,000.00      9,912,593.54     12,590,241.67
+ABBEY NATIONAL PLC             A1  6.6900  7.740 00279RAA2        S 10/17/2005    25,000,000.00     24,566,914.34     27,365,791.67
+ABBOTT LABORATORIES            AA3 5.6250  2.346 002824AM2        S 07/01/2006     3,780,000.00      4,079,194.30      4,170,417.30
+ABN AMRO BK NV (CHICAGO)       A1  7.5500  7.112 00077QAD2        S 06/28/2006    15,000,000.00     15,146,527.93     16,780,037.50
+ABN AMRO BK NV (CHICAGO)       A1  7.1250  6.213 00077QAG5        S 06/18/2007    10,000,000.00     10,279,660.39     11,293,429.17
+AEGON (TRANSAMERICA CORP)      A3  6.7500  6.831 893485AM4        S 11/15/2006    15,650,000.00     15,617,280.68     17,408,355.75
+AEGON/MONUMENTAL GLOBAL FDG II AA3 6.0500  3.652 615322AC8        S 01/19/2006     7,090,000.00      7,422,604.50      7,806,054.55
+AEGON/MONUMENTAL GLOBAL FUNDNG AA3 5.2000  5.033 61532QAA9        S 01/30/2007    18,000,000.00     18,082,996.09     19,556,840.00
+AIG (AMERICAN GENERAL FINANCE) A1  4.5000  4.564 02635PSA2        S 11/15/2007     5,000,000.00      4,988,829.09      5,221,600.00
+AIG (ASIF GLOBAL FINAN XXIII)  AAA 3.9000  3.943 00209LAA0        S 10/22/2008    10,000,000.00      9,981,376.55     10,163,050.00
+AIG (INTL LEASE FINANCE CORP)  A1  5.8750  5.917 459745FG5        S 05/01/2013     3,000,000.00      2,991,056.47      3,194,855.00

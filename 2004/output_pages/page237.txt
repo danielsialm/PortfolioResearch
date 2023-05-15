@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 018
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CALIFORNIA PIZZA KITCHEN INC                 0.000     13054D109   CPKI            21,200          408,491.50          487,600.00
+CALIFORNIA WTR SVC G                         3.001     130788102   CWT             18,900          521,187.32          711,585.00
+CALLAWAY GOLF COMPANY                        2.074     131193104   ELY             74,700        1,067,350.03        1,008,450.00
+CALLON PETROLEUM CORP                        0.000     13123X102   CPE             26,900          350,696.95          388,974.00
+CALLWAVE INC                                 0.000     13126N101   CALL             4,400           57,720.50           67,936.00
+CALPINE CORPORATION                          0.000     131347106   CPN            544,100        3,852,315.53        2,143,754.00
+CAMBREX CORP.                                0.442     132011107   CBM             54,585        1,296,471.96        1,479,253.50
+CAMCO FINANCIAL CORP                         3.766     132618109   CAFI                 1               16.51               15.40
+CAMDEN NATL CORP                             2.029     133034108   CAC             14,400          452,580.04          567,504.00
+CAMPBELL SOUP CO.                            2.275     134429109 Q CPB             81,000        2,113,366.74        2,421,090.00
+CANCERVAX CORP                               0.000     13738Y107   CNVX            18,400          158,305.83          199,640.00
+CANDELA CORP                                 0.000     136907102   CLZR            21,400          247,345.83          243,104.00
+CAPITAL CITY BK GROU                         1.818     139674105   CCBG             6,857          265,121.86          286,622.60
+CAPITAL CORP OF THE WEST                     0.425     140065103   CCOW             9,300          309,470.25          437,109.30
+CAPITAL CROSSING BANK                        0.000     140071101   CAPX            12,600          359,573.18          386,694.00
+CAPITAL ONE FINANCIAL CORP.                  0.127     14040H105   COF            378,900       17,855,259.59       31,907,169.00
+CAPITAL SENIOR LIVING CORP                   0.000     140475104   CSU             88,000          535,486.70          498,080.00
+CAPITAL SOUTHWEST CORP                       1.018     140501107   CSWC             3,000          235,193.47          235,560.00
+CAPITALSOURCE INC                            0.000     14055X102   CSE             34,000          825,155.07          872,780.00
+CAPITOL BANCORP LTD                          1.930     14056D105   CBC             11,300          308,080.86          397,986.00
+CAPSTONE TURBINE CORP                        0.000     14067D102   CPST           228,100          455,225.51          417,423.00
+CAPTARIS INC.                                0.000     14071N104   CAPA           194,200        1,081,296.68        1,002,072.00
+CARACO PHARM LABS INC                        0.000     14075T107   CPD             10,100           79,052.98           96,455.00
+CARAUSTAR INDUSTRIES INC.                    0.713     140909102   CSAR            31,600          345,130.19          531,512.00
+CARBO CERAMICS, INC.                         0.695     140781105   CRR             39,953        2,422,867.07        2,756,757.00
+CARDIAC SCIENCE INC                          0.000     141410209   DFIB           101,600          205,229.85          217,424.00
+CARDINAL FINANCIAL CORP                      0.000     14149F109   CFNL            64,000          552,720.00          713,600.00
+CARDINAL HEALTH INC.                         0.206     14149Y108 Q CAH            933,469       43,039,132.05       54,281,222.35
+CARDIODYNAMICS INTL                          0.000     141597104   CDIC           151,219          857,126.33          781,802.23
+CAREER EDUCATION CORP                        0.000     141665109   CECO            12,932          511,351.04          517,280.00
+CAREMARK RX INC                              0.000     141705103   CMX            985,476       25,231,418.55       38,857,318.68
+CARLISLE COS INC                             1.417     142339100   CSL             42,200        2,599,911.17        2,739,624.00
+CARMAX INC.                                  0.000     143130102   KMX            123,700        3,046,236.45        3,840,885.00
+CARMIKE CINEMAS INC                          1.917     143436400   CKEC            82,218        2,941,477.32        3,000,957.00
+CARPENTER TECHNOLOGY                         0.684     144285103   CRS             44,700        1,236,491.89        2,613,162.00
+CARTERS INC                                  0.000     146229109   CRI             22,800          619,514.10          774,972.00
+CASCADE BANCORP                              1.384     147154108   CACB             7,000          130,476.42          141,540.00
+CASCADE CORP.                                1.201     147195101 Q CAE             19,200          441,818.90          767,040.00
+CASCADE NATURAL GAS CORP.                    4.528     147339105   CGC             12,500          273,359.50          265,000.00
+CASELLA WASTE SYS IN                         0.000     147448104   CWST            61,411          730,902.23          899,057.04

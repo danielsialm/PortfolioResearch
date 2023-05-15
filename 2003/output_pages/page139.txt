@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 109
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+TRANSMONTAIGNE INC                         0.000 TMG     893934109      6.4500        20,900.00        125,800.53        134,805.00
+TRC COS INC                                0.000 TRR     872625108     21.0600        14,200.00        228,178.53        299,052.00
+TREDEGAR CORPORATION                       1.030 TG      894650100     15.5300        26,900.00        506,681.22        417,756.99
+TREX COMPANY INC                           0.000 TWP     89531P105     37.9800         4,800.00        186,965.70        182,304.00
+TRIAD GTY INC                              0.000 TGIC    895925105     50.3500         9,200.00        393,279.28        463,220.00
+TRIARC COMPANIES, INC.-B                   2.782 TRY.B   895927309     10.7800        27,100.00        277,464.06        292,137.99
+TRICO BANCSHARES                           2.534 TCBK    896095106     31.5600         6,300.00        161,786.81        198,828.00
+TRIMBLE NAVIGATION LTD                     0.000 TRMB    896239100     37.2400        38,200.00        832,307.80      1,422,568.00
+TRIMERIS INC                               0.000 TRMS    896263100     20.9800         9,800.00        473,663.28        205,604.00
+TRINITY INDUSTRIES                         0.778 TRN     896522109     30.8400        42,500.00        986,259.31      1,310,700.00
+TRIPATH IMAGING INC                        0.000 TPTH    896942109      7.8000        43,100.00        368,797.07        336,180.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103      7.0700       160,900.00      1,514,831.35      1,137,563.00
+TRITON PCS HOLDINGS INC CL A               0.000 TPC     89677M106      5.5800        59,400.00        312,841.70        331,452.00
+TRIUMPH GROUP INC                          0.000 TGI     896818101     36.4000        17,300.00        698,055.90        629,720.00
+TRIZETTO GROUP INC                         0.000 TZIX    896882107      6.4500        37,400.00        258,286.12        241,230.00
+TROY FINL CORP                             1.828 TRYF    897329108     35.0000         7,900.00        226,374.29        276,500.00
+TRUST CO NJ JERSEY C                       1.814 TCNJ    898304100     39.6800        22,400.00        712,713.66        888,832.00
+TRUSTCO BANK CORP. NY                      4.562 TRST    898349105     13.1500        90,000.00        943,740.49      1,183,500.00
+TTM TECHNOLOGIES                           0.000 TTMI    87305R109     16.8800        32,400.00        270,466.20        546,912.00
+TUESDAY MORNING CORP                       0.000 TUES    899035505     30.2500        16,500.00        460,769.53        499,125.00
+TULARIK INC                                0.000 TLRK    899165104     16.1500        58,500.00        692,229.12        944,775.00
+TUPPERWARE CORPORATION                     5.075 TUP     899896104     17.3400        62,800.00      1,025,859.98      1,088,952.00
+TWEETER HOME ENTERTAINMENT GRO             0.000 TWTR    901167106      9.4500        24,100.00        195,572.39        227,744.99
+TYLER TECHNOLOGIES I                       0.000 TYL     902252105      9.6300        66,900.00        438,868.39        644,247.00
+U S B HLDG INC                             2.062 UBH     902910108     19.3900        15,035.00        266,895.26        291,528.65
+U S PHYSICAL THERAPY                       0.000 USPH    90337L108     15.7300        14,400.00        198,426.22        226,512.00
+U S XPRESS ENTERPRIS                       0.000 XPRSA   90338N103     12.2500         6,800.00         80,762.52         83,300.00
+UCBH HOLDINGS INC                          0.307 UCBH    90262T308     38.9700        46,600.00        957,535.71      1,816,002.01
+UICI                                       0.000 UCI     902737105     13.2800        45,100.00        798,405.37        598,928.00
+UIL HOLDINGS CORPORATION                   6.385 UIL     902748102     45.1000        14,200.00        555,444.16        640,420.00
+ULTICOM INC.                               0.000 ULCM    903844108      9.6500        13,100.00        137,711.60        126,415.00
+ULTIMATE ELECTRONICS INC                   0.000 ULTE    903849107      7.6300        30,800.00        379,382.75        235,004.00
+ULTRATECH INC                              0.000 UTEK    904034105     29.3700        29,300.00        631,515.40        860,541.00
+UMB FINL CORP                              1.766 UMBF    902788108     47.5400        19,800.00        876,009.31        941,292.00
+UMPQUA HLDGS CORP                          0.769 UMPQ    904214103     20.7900        27,000.00        510,368.40        561,330.00
+UNIFI INC                                  0.000 UFI     904677101      6.4500        78,800.00        514,952.33        508,260.00
+UNIFIRST CORP                              0.632 UNF     904708104Q    23.7100        10,900.00        272,813.17        258,439.00
+UNION BANKSHARES COR                       2.032 UBSH    905399101     30.5000         9,200.00        261,115.56        280,600.00
+UNISOURCE ENERGY CORP                      2.433 UNS     909205106     24.6600        26,600.00        450,090.03        655,956.00

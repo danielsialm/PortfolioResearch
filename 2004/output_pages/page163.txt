@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 131
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+UGI CORP                                   3.055 UGI     902681105     40.9100         1,600.00         54,752.00         65,456.00
+UNION PACIFIC CORP.                        1.784 UNP     907818108Q    67.2500           600.00         34,252.29         40,350.00
+UNIONBANCAL CORPORATION                    2.233 UB      908906100     64.4800         1,700.00         85,351.69        109,616.00
+UNITED DEFENSE INDUSTRIES INC              0.000 UDI     91018B104     47.2500         1,600.00         63,464.96         75,600.00
+UNITED PARCEL SERVICES INC                 1.310 UPS     911312106     85.4600         4,700.00        316,849.78        401,662.00
+UNITED STATES STEEL CORP.                  0.390 X       912909108Q    51.2500         3,700.00        100,988.41        189,625.00
+UNITED TECHNOLOGIES                        1.354 UTX     913017109Q   103.3500         8,300.00        587,170.41        857,805.00
+UNITEDHEALTH GROUP INC                     0.034 UNH     91324P102A    88.0300        14,581.00        586,125.54      1,283,565.43
+UNITRIN INC.                               3.652 UTR     913275103     45.4500         4,000.00        171,344.53        181,800.00
+UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     29.2700         5,800.00        183,161.72        169,766.00
+UNOCAL                                     1.850 UCL     915289102Q    43.2400         8,100.00        300,550.37        350,244.00
+URBAN OUTFITTERS INC                       0.000 URBN    917047102     44.4000         9,300.00        345,752.07        412,920.00
+US BANCORP                                 3.831 USB     902973304     31.3200        25,900.00        527,866.03        811,188.00
+UST INC.                                   4.323 UST     902911106Q    48.1100         9,200.00        275,478.25        442,612.00
+V F CORP                                   1.950 VFC     918204108Q    55.3800         6,400.00        325,300.48        354,432.00
+VALERO ENERGY CORP.                        0.704 VLO     91913Y100Q    45.4000        33,000.00      1,188,057.45      1,498,200.00
+VALSPAR CORP                               1.599 VAL     920355104     50.0100         2,700.00        117,720.00        135,027.00
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     29.1500         2,200.00         58,171.30         64,130.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     43.2400        11,400.00        369,433.95        492,936.00
+VECTREN CORPORATION                        4.403 VVC     92240G101     26.8000           800.00         19,784.00         21,440.00
+VENTAS INC.                                4.742 VTR     92276F100     27.4100         3,900.00        104,337.64        106,899.00
+VERISIGN INC                               0.000 VRSN    92343E102     33.5200         4,600.00         78,581.00        154,192.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     28.5500         4,700.00        115,203.82        134,185.00
+VERIZON COMMUNICATIONS                     3.801 VZ      92343V104Q    40.5100        48,100.00      1,990,313.21      1,948,531.00
+VIACOM INC-CLASS B                         0.769 VIA.B   925524308     36.3900         4,400.00        159,357.98        160,116.00
+WACHOVIA CORP.                             3.498 WB      929903102Q    52.6000        24,796.00        928,820.34      1,304,269.60
+WADDELL & REED FINANCIAL-CL A              2.511 WDR     930059100     23.8900         3,100.00         70,498.03         74,059.00
+WAL MART STORES INC                        0.984 WMT     931142103Q    52.8200        37,400.00      1,642,382.34      1,975,468.00
+WALGREEN CO.                               0.547 WAG     931422109Q    38.3700        13,500.00        311,724.46        517,995.00
+WASHINGTON FEDERAL INC.                    3.165 WFSL    938824109     26.5400         2,420.00         51,700.00         64,226.80
+WASHINGTON POST CL. B                      0.752 WPO     939640108Q   983.0200         1,000.00        855,772.70        983,020.00
+WASTE MANAGEMENT INC.                      2.505 WMI     94106L109     29.9400         1,800.00         53,154.08         53,892.00
+WATERS CORPORATION                         0.000 WAT     941848103     46.7900         6,000.00        200,754.90        280,740.00
+WEBSTER FINANCIAL CORPORATION              1.816 WBS     947890109     50.6400         1,400.00         59,863.47         70,896.00
+WEIGHT WATCHERS INTL                       0.000 WTW     948626106     41.0700         3,500.00        147,736.40        143,745.00
+WELLPOINT INC.                             0.000 WLP     94973V107    115.0000         5,300.00        402,326.34        609,500.00
+WELLS FARGO COMPANY                        3.089 WFC     949746101     62.1500        21,500.00        822,968.49      1,336,225.00
+WENDY'S INTL                               1.222 WEN     950590109Q    39.2600         1,000.00         39,034.10         39,260.00
+WESTERN GAS RESOURCES INC                  0.683 WGR     958259103     29.2500         9,300.00        287,774.36        272,025.00

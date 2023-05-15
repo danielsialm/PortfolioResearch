@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+DELPHI FINANCIAL GROUP CL-A                  0.782     247131105   DFG             36,100        1,134,352.08        1,660,961.00
+DELTA & PINE LAND CO.                        2.607     247357106   DLP             37,700          985,811.72          867,477.00
+DELTA FINANCIAL CORP                         2.386     247918105   DFC             11,500          110,842.42           96,370.00
+DELTA PETROLEUM CORP                         0.000     247907207   DPTR            37,200          513,774.04          809,844.00
+DELTIC TIMBER CORP                           0.578     247850100   DEL             19,995          847,442.04        1,036,940.70
+DELUXE CORP.                                 5.308     248019101 Q DLX             26,958        1,063,803.94          812,514.12
+DENDREON CORP                                0.000     24823Q107   DNDN           154,900        1,087,878.55          839,558.00
+DENDRITE INTERNATIONAL INC.                  0.000     248239105   DRTE           143,300        2,524,868.12        2,064,953.00
+DENTSPLY INTERNATIONAL INC.                  0.521     249030107 Q XRAY            37,300        1,517,110.68        2,002,637.00
+DESIGN WITHIN REACH INC                      0.000     250557105   DWRI           114,700          689,867.08          607,910.00
+DEVON ENERGY CORPORATION                     0.479     25179M103   DVN          1,117,183       36,646,125.36       69,868,624.82
+DEVRY INC.                                   0.000     251893103   DV              38,400          724,147.23          768,000.00
+DEX MEDIA INC                                1.328     25212E100   DEX              5,100          134,193.46          138,159.00
+DEXCOM INC                                   0.000     252131107   DXCM             5,000           60,789.00           74,600.00
+DIAGNOSTIC PRODUCTS CORP                     0.576     252450101   DP              51,825        1,931,642.51        2,516,103.75
+DIAMOND FOODS INC                            0.607     252603105   DMND             6,300          107,856.00          124,551.00
+DIAMOND OFFSHORE DRILLING                    0.718     25271C102   DO             395,700       20,609,227.42       27,524,892.00
+DIAMONDCLUSTER INTERNATIONAL INC             0.000     25278P106   DTPI           162,733          993,637.81        1,292,100.02
+DIEBOLD INC                                  2.157     253651103   DBD              2,100           94,886.68           79,800.00
+DIGENE CORP                                  0.000     253752109   DIGE            63,965        1,775,248.60        1,865,859.05
+DIGI INTERNATIONAL INC                       0.000     253798102   DGII            23,900          266,489.31          250,711.00
+DIGITAL INSIGHT                              0.000     25385P106   DGIN            19,400          442,450.38          621,188.00
+DIGITAL RIVER INC                            0.000     25388B104   DRIV            36,200        1,070,095.42        1,076,588.00
+DIGITAS INC                                  0.000     25388K104   DTAS            94,372          836,531.98        1,181,537.44
+DILLARDS INC. CL-A                           0.644     254067101 Q DDS            442,800       10,800,276.59       10,990,296.00
+DIME COMMUNITY BANCSHARES                    3.833     253922108   DCOM            28,174          453,651.82          411,622.14
+DIODES INC                                   0.000     254543101   DIOD            47,542          914,118.32        1,476,179.10
+DIONEX CORP.                                 0.000     254546104   DNEX            27,580          994,140.38        1,353,626.40
+DIRECT GENERAL CORP                          0.946     25456W204   DRCT            32,500          639,097.24          549,250.00
+DISCOVERY HOLDING CO-A                       0.000     25468Y107   DISCA          679,250        9,680,535.72       10,290,637.50
+DISNEY (WALT) CO.                            1.126     254687106 Q DIS          4,508,500      120,602,571.26      108,068,745.00
+DISTRIBUTED ENERGY SYSTEMS CORP              0.000     25475V104   DESC           112,600          625,768.58          851,256.00
+DITECH COMMUNICATIONS CORP                   0.000     25500M103   DITC            33,800          295,372.25          282,230.00
+DIVERSA CORP                                 0.000     255064107   DVSA            24,700          248,577.03          118,560.00
+DIXIE GROUP INC.                             0.000     255519100   DXYN            11,300          198,663.94          155,714.00
+DJ ORTHOPEDICS INC                           0.000     23325G104   DJO             34,100          860,507.84          940,478.00
+DOBSON COMMUNICATIONS CORP                   0.000     256069105   DCEL           132,480          908,408.99          993,600.00
+DOLBY LABORATORIES INC-CL A                  0.000     25659T107   DLB             40,425          706,388.75          689,246.25
+DOLLAR GENERAL                               0.943     256669102   DG             844,000       15,526,237.67       16,095,080.00
+DOLLAR THRIFTY AUTOM                         0.000     256743105   DTG             26,600          697,384.27          959,462.00

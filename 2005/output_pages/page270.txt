@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 053
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+PHARMACOPEIA DRUG DISCOVERY INC              0.000     7171EP101   PCOP            66,000          393,746.78          234,960.00
+PHARMION CORP                                0.000     71715B409   PHRM            57,270        1,503,730.13        1,017,687.90
+PHASE FORWARD INC                            0.000     71721R406   PFWD            23,400          181,732.52          228,150.00
+PHELPS DODGE CORP.                           1.042     717265102 Q PD             262,532       26,086,315.00       37,770,478.84
+PHH CORP                                     0.000     693320202   PHH             43,200          861,642.96        1,210,464.00
+PHILADELPHIA CONS HLDG CO                    0.000     717528103   PHLY             8,285          552,867.91          801,076.65
+PHILLIPS-VAN HEUSEN                          0.463     718592108   PVH             41,500          962,929.78        1,344,600.00
+PHOENIX COMPANIES INC.                       1.173     71902E109   PNX            126,400        1,413,893.07        1,724,096.00
+PHOENIX TECHNOLOGIES LTD                     0.000     719153108   PTEC            26,300          222,108.76          164,638.00
+PHOTON DYNAMICS INC                          0.000     719364101   PHTN            17,900          341,462.26          327,212.00
+PHOTRONICS INC.                              0.000     719405102   PLAB            42,300          813,490.08          637,038.00
+PICO HOLDINGS INC                            0.000     693366205   PICO            38,400          563,323.58        1,238,784.00
+PIEDMONT NATURAL GAS CO INC NORTH CAROL      3.807     720186105   PNY             76,400        1,831,328.07        1,845,824.00
+PIER 1 IMPORTS INC/DEL                       4.581     720279108   PIR            190,800        2,629,269.86        1,665,684.00
+PIKE ELECTRIC CORP                           0.000     721283109   PEC             60,500          929,061.88          981,310.00
+PILGRIMS PRIDE CORP                          0.271     721467108   PPC            236,500        7,823,528.79        7,842,340.00
+PINNACLE ENTERTAINMENT, INC.                 0.000     723456109   PNK             50,000          961,922.98        1,235,500.00
+PINNACLE WEST CAPITAL CORP                   4.836     723484101 Q PNW            310,900       12,406,163.01       12,855,715.00
+PIONEER COMPANIES INC                        0.000     723643300   PONR            11,900          258,742.89          356,643.00
+PIONEER NATURAL RESOURCES CO.                0.468     723787107   PXD              4,800          245,013.74          246,096.00
+PIPER JAFFRAY COMPANIES INC                  0.000     724078100   PJC              6,700          205,533.21          270,680.00
+PITNEY-BOWES, INC.                           2.934     724479100 Q PBI            576,200       23,852,258.32       24,344,450.00
+PIXAR                                        0.000     725811103   PIXR             5,900          272,198.86          311,048.00
+PLACER SIERRA BANCSHARES                     1.732     726079106   PLSB            31,200          658,842.92          864,552.00
+PLAINS EXPLORATION & PR                      0.000     726505100   PXP            238,800        6,595,214.59        9,487,524.00
+PLANTRONICS INC.                             0.706     727493108   PLT             51,900        1,933,928.78        1,468,770.00
+PLAYTEX PRODUCTS INC                         0.000     72813P100   PYX            140,150        1,415,556.61        1,915,850.50
+PLEXUS CORP                                  0.000     729132100   PLXS            65,300        1,025,020.37        1,484,922.00
+PLUG POWER INC                               0.000     72919P103   PLUG            53,400          369,430.06          273,942.00
+PLUM CREEK TIMBER CO INC                     4.216     729251108   PCL             99,300        3,434,326.90        3,579,765.00
+PLX TECHNOLOGY INC                           0.000     693417107   PLXT            24,700          208,531.67          212,420.00
+PMA CAP CORP                                 4.600     693419202   PMACA           33,700          169,821.03          307,681.00
+PMC-SIERRA INC                               0.000     69344F106   PMCS           169,198        1,555,168.74        1,304,516.58
+PMI GROUP INC.                               0.511     69344M101   PMI            181,200        7,333,651.07        7,441,884.00
+PNC FINANCIAL SERVICES GROUP                 3.234     693475105 Q PNC            389,483       21,040,770.92       24,081,733.90
+PNM RESOURCES INC                            3.266     69349H107   PNM            110,950        2,754,181.83        2,717,165.50
+POGO PRODUCING CO                            0.501     730448107   PPP            143,100        7,110,917.40        7,127,811.00
+POLARIS INDUSTRIES INC.                      2.231     731068102   PII             58,586        3,174,823.10        2,941,017.20
+POLO RALPH LAUREN CORP                       0.356     731572103   RL              23,100          891,322.32        1,296,834.00
+POLYCOM INC.                                 0.000     73172K104   PLCM           397,769        6,778,394.47        6,085,865.70

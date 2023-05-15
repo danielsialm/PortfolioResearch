@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 039
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 041
 
 Monthly Market Portfolio
 
@@ -6,48 +6,12 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-EAP     EMERGING ANALYST POR
-Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+Portfolio  - I-PROVEAFESTATE STREET PROVISI
+Instrument - INTF      INTERNATIONAL FUNDS
 
-T IS BANKASI SER’C                           0.000     4869939      ISCTR    77,450,638.00          516,608.12
-T.GARANTI BANASI T                           0.000     4361617      GARAN    80,360,848.00          158,215.50
-TAIWAN CELLULAR CORP                         0.000     6290496      4901_     1,737,000.00        2,264,089.26
-TAIWAN SEMICONDUCTOR MANUFACTURING           0.000     6889106      27933     1,692,200.00        3,469,246.94
-TANJONG PLC                                  0.000     6872526      TJN_M       490,377.00          845,273.95
-TATA ENGINEERING & LOCOMOT                   0.000     6101509      TELCO       687,742.00        1,017,778.19
-TELE CENTRO OESTE CEL-PREF                   0.574     2292601      TCOC4   592,660,815.00        1,507,531.99
-TELE NORTE LESTE P                          67.030     2292731      TNLP4    21,640,902.00          279,148.19
-TELE NORTE LESTE PART                        1.190     2292719      TNLP3   178,577,858.00        2,187,523.22
-TELECOM ARGENTINA S.A.-B                    12.154     2880040      TECO2       149,191.00          533,917.18
-TELECOMASIA THBH10                           0.000     6877071      TA/F_       752,300.00          658,282.89
-TELEFONOS DE MEXIC                           0.000     2881689      TELME     2,020,754.00        3,246,770.17
-TELEFONOS DE MEXICO SA-SER A                 0.334     2881731      TELME     1,121,970.00        1,301,413.10
-TELEKOMUNIKAYA POL                           0.000     5552551      TPS_P       214,186.00          979,940.33
-TEMPO SCAN PACIFIC TBK/PT                    0.000     6881953      TSPC_        90,000.00           78,752.44
-TENAGA NASIONAL BERHAD                       0.003     6904612      TNB_M       371,639.00          894,285.17
-TEVA PHARMA IND IL                           0.004     6882172      TEVA_        37,590.00        1,471,042.60
-TEVA PHARMACEUTICAL INDUSTRIES ADR           0.324     2883878      TEVA         19,389.00        1,155,095.29
-THAI FARMERS BANK                            0.000     6888794      TFB/F       467,800.00          566,602.38
-THAI UNION FROZEN PROD-FOREI                 0.135     6422716      TUF/F       269,130.00           77,746.71
-TRANSPORTADORA DE                            9.230     2886651      TGSU2       142,027.00          265,582.73
-TUBOS DE ACERO DE                            0.000     2871851      TAMSA       763,385.00        1,868,816.71
-TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    31,704,430.20          390,751.59
-TURKCELL ILETISIM HIZMET AS                  0.000     4006275      TCELL    10,988,841.05          218,915.49
-TV AZTECA S.A. CPO                           0.000     2096911      TVAZT     2,657,084.00        1,121,682.65
-UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_     4,429,160.00        1,892,865.75
-UNIBANCO-UNITS                               2.563     2000837      UBBR1    27,433,341.00        1,350,094.10
-UNIFIED ENERGY SYSTEMS                      12.714     4889335      EESR$     2,675,000.00          302,034.25
-UNIPETROL                                    0.000     5297294      UNIP_       224,928.00          335,726.15
-UNITED MICROELECTRONICS                      0.000     6916628      73850     2,420,350.00        3,427,354.31
-VIDESH SANCHAR INGAM                         0.000     6114745      YVSNL       143,307.00        1,035,127.72
-VINA CONCHA Y TORO SA-SP ADR                 1.333     2939469      VCO           1,940.00           85,213.34
-VOTORANTIM CELULOSE PAPEL-PR                22.564     2682257      VCPA4    33,593,942.00        1,000,829.15
-WINBOND ELECTRONICS CORP                     0.000     6966515      2344_     2,201,000.00        2,081,979.12
-WIPRO                                        0.000     6206051      WPRO_        13,801.00          280,601.14
-YAGEO CORPORATION                            0.000     6984380      2327_     2,252,900.00        2,089,641.03
-YAPI KREDI BANKASI                           0.000     4986742      YKBNK    99,026,101.00          350,913.03
-YIZHENG CHEM FIBRE                           1.215     6984669      1033_     5,376,000.00        1,299,908.78
-YUKOS - $US                                 99.877     5110863      YUKO$        63,060.00          223,227.65
+STATE ST PROVISIONAL EAFE-EQUITY             0.000     IE-PROVEAF             7,563,534.07      756,353,407.11
+STATE ST PROVISIONAL EAFE-LIQUIDITY RES      0.000     IL-PROVEAF               101,233.40       10,123,340.44
 
-Instrument Total             234                                          2,808,498,907.17      251,613,630.02
+Instrument Total               2                                              7,664,767.47      766,476,747.55
 
+Portfolio Total                2                                              7,664,767.47      766,476,747.55        713,341,075.00

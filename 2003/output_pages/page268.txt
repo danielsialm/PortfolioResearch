@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+H & R BLOCK INC.                             1.444     093671105 Q HRB            246,200        9,651,775.94       13,632,094.00
+HAEMONETICS CORP/MASS                        0.000     405024100   HAE             67,700        1,458,464.74        1,617,352.99
+HAIN CELESTIAL GROUP                         0.000     405217100   HAIN            26,900          687,190.06          624,349.00
+HALLIBURTON COMPANY                          1.923     406216101 Q HAL          1,182,000       24,781,572.31       30,732,000.02
+HAMPSHIRE GROUP LTD                          0.000     408859106   HAMP            15,200          492,728.28          476,824.00
+HANCOCK FABRICS INC                          2.762     409900107   HKF             17,500          216,259.12          253,400.00
+HANCOCK HLDG CO                              1.685     410120109   HBHC            16,200          780,543.77          884,034.00
+HANDLEMAN CO.                                1.363     410252100   HDL             51,836          886,910.31        1,064,193.08
+HANGER ORTHOPEDIC GROUP INC.                 0.000     41043F208   HGR             46,800          621,772.49          728,676.00
+HANMI FINL CORP                              2.023     410495105   HAFC            53,000          944,745.22        1,047,810.00
+HANOVER COMPRESSOR COMPANY                   0.000     410768105   HC              62,600        1,158,665.81          697,989.99
+HARBOR FLA BANCSHARE                         2.154     411901101   HARB            25,300          662,423.95          751,663.00
+HARLAND JOHN H CO                            1.465     412693103 Q JH              33,600          774,403.17          917,280.00
+HARLEY-DAVIDSON INC                          0.673     412822108 Q HDI            677,800       27,107,340.18       32,215,833.99
+HARLEYSVILLE GROUP INC                       3.418     412824104   HGIC            36,400          869,203.25          723,996.00
+HARLEYSVILLE NATL CO                         2.126     412850109   HNBC            28,700          664,201.13          863,870.00
+HARMAN INTERNATIONAL                         0.067     413086109   HAR            127,556        3,714,123.24        9,436,592.90
+HARMONIC INC.                                0.000     413160102   HLIT           101,800          819,044.98          738,050.00
+HARRAH'S ENTERTAINMENT INC.                  2.411     413619107   HET            173,198        6,500,229.00        8,620,064.46
+HARRIS CORP.                                 1.054     413875105 Q HRS            275,110        8,366,488.37       10,440,424.51
+HARRIS INTERACTIVE INC                       0.000     414549105   HPOL           151,020          891,780.38        1,253,466.00
+HARSCO CORP                                  2.510     415864107 Q HSC             83,558        2,203,185.51        3,661,511.56
+HARTE-HANKS INC.                             0.551     416196103   HHS            162,300        2,847,447.04        3,530,025.02
+HARTFORD FINL SERVICES                       1.897     416515104   HIG            510,300       24,101,530.45       30,123,008.98
+HARVEST NATURAL RESO                         0.000     41754V103   HNR             77,501          565,047.33          771,134.95
+HASBRO BRADLEY                               0.563     418056107 Q HAS            515,200        9,473,134.80       10,963,455.99
+HAVERTY FURNITURE                            1.258     419596101   HVT             49,900          911,614.90          991,014.00
+HAWAIIAN ELECTRIC INDS                       5.235     419870100   HE              62,500        2,747,369.47        2,960,624.99
+HAWTHORNE FINL CORP                          0.000     420542102   HTHR            29,352          759,078.01          821,268.96
+HCA INC                                      0.186     404119109   HCA            919,100       28,753,761.33       39,484,535.96
+HCC INSURANCE HOLDINGS INC.                  0.943     404132102   HCC            177,500        4,719,681.15        5,644,500.04
+HEADWATERS INC                               0.000     42210P102   HDWR            37,200          589,158.90          729,864.00
+HEALTH MGMT ASSOCIATES CL A                  0.333     421933102   HMA            447,300        8,362,174.23       10,735,200.01
+HEALTH NET                                   0.000     42222G108   HNT            311,964        8,685,316.70       10,201,222.79
+HEALTHCARE SVCS GRP                          1.451     421906108   HCSG            57,521          922,318.47        1,109,580.09
+HEALTHEON/WEB CORP                           0.000     94769M105   HLTH           435,900        4,847,246.35        3,918,741.00
+HEALTHEXTRAS INC                             0.000     422211102   HLEX            42,100          401,920.75          564,139.99
+HEALTHSOUTH CORP                             0.000     421924101   HLSH           182,600        1,935,582.75          838,134.02
+HEALTHTRONICS SURGIC                         0.000     42222L107   HTRN             5,800           33,880.80           36,250.00
+HEARST-ARGYLE TELEVI                         0.870     422317107   HTV             67,452        1,651,266.52        1,858,977.12

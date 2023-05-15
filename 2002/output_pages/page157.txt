@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 129
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DH       DUNCAN-HURST - 600 G
+Instrument - COM       COMMON STOCK
+
+OMI CORPORATION                            0.000 OMM     Y6476W104      4.1100        34,290.00        149,805.07        140,931.90
+OMNIVISION TECHNOLOGIES INC                0.000 OVTI    682128103     13.5700         5,400.00         84,057.55         73,278.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     36.3000        10,308.00        177,706.76        374,180.40
+PANERA BREAD CO                            0.000 PNRA    69840W108     34.8100        12,576.00        229,841.55        437,770.56
+PEC SOLUTIONS INC                          0.000 PECS    705107100     29.9000        12,800.00        293,218.01        382,720.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     15.8600        11,790.00        205,225.19        186,989.40
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     33.9590        20,512.00        510,815.47        696,567.01
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     23.4390        10,980.00        228,508.17        257,360.22
+PETSMART INC                               0.000 PETM    716768106     17.1300        25,480.00        230,738.20        436,472.40
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     29.2700         5,795.00        128,920.46        169,619.65
+PINNACLE SYSTEMS                           0.000 PCLE    723481107     13.6100        13,700.00        160,364.02        186,457.00
+POLARIS INDUSTRIES INC.                    1.911 PII     731068102     58.6000         4,409.00        202,748.37        258,367.40
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-DUN  IT-DUN         1.0000       623,365.74        623,365.83        623,365.73
+QUANEX CORP                                1.910 NX      747620102     33.5000         3,350.00        139,595.03        112,225.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     26.6600         7,400.00        161,380.74        197,284.00
+REGIS CORP                                 0.461 RGIS    758932107     25.9900         6,310.00        174,775.66        163,996.90
+REMINGTON OIL & GAS CORP                   0.000 REM     759594302     16.4100        10,130.00        188,437.81        166,233.30
+RESMED INC                                 0.000 RMD     761152107     30.5700         7,400.00        236,380.41        226,218.00
+ROADWAY CORPORATION                        0.543 ROAD    769742107     36.8100         3,300.00        122,974.20        121,473.00
+RYLAND GROUP INC                           0.239 RYL     783764103     33.3500         7,926.00        198,830.03        264,332.10
+SCIOS INC                                  0.000 SCIO    808905103     32.5800        12,818.00        301,884.14        417,610.44
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     19.1100         9,510.00        190,532.74        181,736.10
+SOUTH FINANCIAL GROUP, INC                 2.710 TSFG    837841105     20.6600         9,030.00        186,857.36        186,559.80
+SOUTHWEST BANCORP OF TEXAS                 0.000 SWBT    84476R109     28.8100         4,750.00        164,128.09        136,847.50
+SRA INTERNATIONAL INC - CLASS              0.000 SRX     78464R105     27.0900         4,500.00        117,616.44        121,905.00
+STANCORP FINANCIAL GROUP                   0.818 SFG     852891100     48.8500         4,960.00        207,510.22        242,296.00
+STERICYCLE INC                             0.000 SRCL    858912108     32.3790        21,898.00        421,891.99        709,035.34
+STERIS CORP                                0.000 STE     859152100Q    24.2500         5,824.00        101,556.21        141,232.00
+STRAYER EDUCATION INC                      0.452 STRA    863236105     57.5000         2,600.00        139,695.94        149,500.00
+SURMODICS INC                              0.000 SRDX    868873100     28.6800         8,700.00        256,383.16        249,516.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     21.3700         8,200.00        221,472.51        175,234.00
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     37.6000         3,960.00        114,261.07        148,896.00
+TREX COMPANY INC                           0.000 TWP     89531P105     35.3000         3,900.00        136,394.94        137,670.00
+TRIMERIS INC                               0.000 TRMS    896263100     43.0900         3,600.00        174,628.35        155,124.00
+TUESDAY MORNING CORP                       0.000 TUES    899035505     17.1000         7,930.00        194,178.30        135,603.00
+UCBH HOLDINGS INC                          0.471 UCBH    90262T308     42.4500         3,000.00        127,817.39        127,350.00
+ULTRA PETROLEUM CORP                       0.000 UPL     903914109      9.9000        17,300.00        145,662.99        171,270.00
+VCA ANTECH INC                             0.000 WOOF    918194101     15.0000        10,200.00        156,479.39        153,000.00
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     15.0000        10,900.00        188,992.79        163,500.00

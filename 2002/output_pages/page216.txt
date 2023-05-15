@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+O'REILLY AUTOMOTIVE INC.                     0.000     686091109   ORLY            57,400          958,064.76        1,451,646.00
+OCCIDENTAL PETROLEUM CORP.                   3.655     674599105 Q OXY          1,074,953       27,364,512.55       30,582,412.84
+OCEAN ENERGY INC                             0.801     67481E106   OEI            443,900        6,806,859.70        8,864,683.00
+OCEANEERING INT'L. INC.                      0.000     675232102   OII             35,270          742,980.14          872,579.80
+OCTEL CORP                                   0.316     675727101   OTL              2,100           36,152.05           33,180.00
+OCWEN FINANCIAL CORP                         0.000     675746101   OCN             21,300           56,636.70           59,640.00
+ODYSSEY HEALTHCARE INC                       0.000     67611V101   ODSY            37,930        1,121,841.41        1,316,171.00
+ODYSSEY HOLDINGS CORP                        0.565     67612W108   ORH             95,000        1,642,142.69        1,681,500.00
+OFFICE DEPOT INC                             0.000     676220106   ODP            993,118       14,459,254.96       14,658,421.68
+OFFSHORE LOGISTICS                           0.000     676255102   OLOG            62,700        1,210,885.99        1,374,384.00
+OGE ENERGY CORP                              7.556     670837103   OGE            120,900        2,393,686.06        2,127,840.00
+OHIO CASUALTY CORP.                          0.000     677240103 Q OCAS           135,900        1,798,992.04        1,759,905.00
+OLD REPUBLIC INT'L CORP.                     2.285     680223104   ORI            269,400        6,689,169.83        7,543,200.00
+OLIN CORP                                    5.144     680665205 Q OLN            110,000        2,123,844.31        1,710,500.00
+OM GROUP, INC.                               8.139     670872100 Q OMG             75,400        1,153,446.56          518,752.00
+OMI CORPORATION                              0.000     Y6476W104   OMM            142,090          814,834.43          583,989.90
+OMNICOM GROUP                                1.238     681919106   OMC            379,018       23,622,861.96       24,484,562.80
+OMNIVISION TECHNOLOGIES INC                  0.000     682128103   OVTI             5,400           84,057.55           73,278.00
+OMNOVA SOLUTIONS INC                         0.000     682129101   OMN             44,100          324,637.02          177,723.00
+ON ASSIGNMENT INC                            0.000     682159108   ASGN            45,000          843,921.59          383,399.99
+ONEOK INC.                                   3.229     682680103 Q OKE            113,400        1,819,108.65        2,177,280.00
+ONMICARE INC.                                0.377     681904108   OCR            223,900        4,884,042.28        5,335,537.00
+OPTIMAL ROBOTICS CORP.                       0.000     68388R208   OPMR            17,000          196,447.97          102,000.00
+ORACLE SYS. CORP.                            0.000     68389X105   ORCL        10,752,935      106,760,022.66      116,131,698.00
+ORBITAL SCIENCES CORP.                       0.000     685564106   ORB            172,100          664,121.74          726,262.00
+OREGON STEEL MILLS INC                       0.000     686079104 Q OS              12,500           87,500.00           50,250.00
+ORIENT EXPRESS HOTELS LTD -A                 0.000     G67743107   OEH             20,300          259,959.43          274,050.00
+ORTHODONTIC CENTERS OF AMER                  0.000     68750P103   OCA             56,200        1,093,477.32          613,142.00
+OSHKOSH B'GOSH CL-A                          0.998     688222207 Q GOSHA           20,200          614,539.56          566,610.00
+OSHKOSH TRUCK CORPORATION                    0.569     688239201   OSK             18,900          655,168.93        1,162,350.00
+OSTEOTECH INC                                0.000     688582105   OSTE            27,500          206,834.98          177,100.00
+OUTBACK STEAKHOUSE INC                       1.393     689899102   OSI            176,450        5,217,475.96        6,076,938.00
+OVERLAND STORAGE INC                         0.000     690310107   OVRL            27,400          402,237.48          399,519.40
+OVERSEAS SHIPHOLDING GROUP                   3.352     690368105   OSG            185,100        4,261,358.70        3,313,290.00
+OVERTURE SERVICES INC                        0.000     69039R100   OVER           163,375        4,440,766.59        4,461,771.25
+OWENS & MINOR INC.                           1.948     690732102 Q OMI             35,000          482,243.06          574,700.00
+OXFORD HEALTH PLANS                          0.000     691471106   OHP            225,780        7,527,114.66        8,229,681.00
+OXFORD INDUSTRIES INC.                       3.274     691497309   OXM              9,300          235,540.78          238,545.00
+P.F.CHANGS CHINA BISTRO INC                  0.000     69333Y108   PFCB            71,188        1,299,672.25        2,584,124.40
+PACCAR INC                                   1.734     693718108 Q PCAR           127,764        4,033,051.23        5,893,753.32

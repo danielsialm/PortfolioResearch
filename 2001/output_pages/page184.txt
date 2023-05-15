@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 029
+ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 031
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-MEDICIS PHARMACEUTICAL CORP                  0.000     584690309   MRX             29,400        1,033,424.70        1,898,946.00
-MEDIMMUNE INC                                0.000     584699102   MEDI           350,474       10,420,994.49       16,244,469.90
-MEDTRONIC INC                                0.449     585055106 Q MDT          2,490,485       70,185,798.26      127,537,736.84
-MELLON NATIONAL CORP.                        1.275     58551A108 Q MEL            800,677       20,900,663.82       30,121,468.76
-MEMBERWORKS INC                              0.000     586002107   MBRS            15,000          503,869.56          210,150.00
-MENTOR CORP/MINN                             0.420     587188103   MNTR            25,400          704,146.70          725,424.00
-MENTOR GRAPHICS CORP.                        0.000     587200106   MENT           114,100        1,675,117.14        2,689,337.00
-MERCANTILE BANC.                             2.602     587405101 Q MRBK           139,300        1,666,496.27        5,995,472.00
-MERCK & CO INC                               2.381     589331107 Q MRK          4,523,863      206,923,849.33      266,003,144.39
-MERCURY AIR GROUP INC                        0.000     589354109   MAX             32,200          192,816.15          161,000.00
-MERCURY COMPUTER SYSTEMS INC                 0.000     589378108   MRCY            32,400        1,420,968.61        1,267,164.00
-MERCURY INTERACTIVE CORP.                    0.000     589405109   MERQ           254,781        7,488,848.07        8,657,458.41
-MEREDITH CORPORATION                         0.953     589433101 Q MDP             95,087        2,892,011.43        3,389,851.54
-MERRILL LYNCH & CO. INC.                     1.227     590188108 Q MER          1,922,344       74,544,405.74      100,192,569.29
-MESA AIR GROUP INC                           0.000     590479101   MESA            38,200          332,737.19          287,264.01
-MESABA HOLDINGS INC                          0.000     59066B102   MAIR             5,000           45,762.28           35,599.99
-METHODE ELECTRONICS CL-A                     2.500     591520200   METHA           39,100          391,847.68          312,800.00
-METLIFE INC                                  0.631     59156R108   MET          1,140,639       37,388,172.46       36,135,443.53
-METRIS COMPANIES INC.                        0.155     591598107   MXT            165,500        4,197,221.31        4,255,005.00
-METRO ONE TELECOMMUNICATIONS                 0.000     59163F105   MTON            24,600          547,918.50          744,150.00
-MGI PHARMA INC                               0.000     552880106   MOGN             2,200           38,704.71           33,616.01
-MGIC INVESTMENT CORP                         0.162     552848103 Q MTG            208,330       10,656,552.64       12,858,127.60
-MICHAELS STORES                              0.000     594087108   MIK             65,600          966,666.07        2,161,520.00
-MICREL INCORPORATED                          0.000     594793101   MCRL           144,750        3,259,475.82        3,796,792.50
-MICROCHIP TECHNOLOGY INC.                    0.000     595017104   MCHP           251,201        6,581,003.79        9,731,526.73
-MICROMUSE INC.                               0.000     595094103   MUSE            33,200          394,277.70          498,000.00
-MICRON TECHNOLOGY INC                        0.000     595112103 Q MU           1,152,165       35,133,958.55       35,717,115.01
-MICROS SYSTEMS INC.                          0.000     594901100   MCRS            74,500        1,537,036.84        1,869,950.00
-MICROSEMI CORP                               0.000     595137100   MSCC            78,300        2,344,384.20        2,325,510.00
-MICROSOFT CORP.                              0.000     594918104   MSFT        10,842,028      557,458,306.93      718,284,355.02
-MICROTUNE INC                                0.000     59514P109   TUNE            78,800        1,367,342.83        1,848,648.00
-MID ATLANTIC MEDICAL SERVICES                0.000     59523C107   MME             60,900          980,703.49        1,382,430.00
-MIDAS INC.                                   2.782     595626102   MDS             23,900          406,318.66          274,850.00
-MIDWAY GAMES INC.                            0.000     598148104   MWY             73,100          982,464.05        1,097,231.00
-MIDWEST EXPRESS HOLDINGS INC                 0.000     597911106   MEH             37,000          772,760.19          540,200.03
-MILACRON, INC.                               0.253     598709103 Q MZ              36,400          584,589.11          575,484.00
-MILLENNIUM PHARMACEUTICALS                   0.000     599902103   MLNM           470,900       14,225,441.20       11,541,758.97
-MILLER (HERMAN) INC                          0.634     600544100   MLHR           117,200        2,449,290.06        2,772,952.00
-MILLICOM INTL CELLULAR S.A.                  0.000     L6388F102   MICC            39,600          957,312.60          481,140.00
-MILLIPORE CORPORATION                        0.724     601073109 Q MIL             60,040        3,315,220.90        3,644,428.00
+NCO GROUP INC.                               0.000     628858102   NCOG            76,800        1,645,349.86        1,758,720.00
+NCR CORPORATION                              0.000     62886E108   NCR            141,712        4,564,348.72        5,223,504.32
+NDC HEALTH CORP                              0.463     639480102   NDC             33,000          821,526.11        1,140,150.00
+NEIMAN MARCUS GROUP INC-CLASS A              0.000     640204202   NMG.A          103,100        3,409,390.85        3,203,317.00
+NEOFORMA INC                                 0.000     640475505   NEOF            19,620          170,952.36          571,923.01
+NETEGRITY INC                                0.000     64110P107   NETE            79,000        1,475,332.81        1,529,440.01
+NETIQ CORP                                   0.000     64115P102   NTIQ            31,780          978,289.39        1,120,562.80
+NETWORK APPLIANCE INC.                       0.000     64120L104   NTAP           615,927       14,254,324.41       13,470,323.50
+NETWORK EQUIPMENT TECH. INC.                 0.000     641208103   NWK              1,300           13,348.88            7,085.00
+NETWORKS ASSOCIATES INC.                     0.000     640938106   NETA           304,550        3,249,411.41        7,872,617.50
+NEUBERGER BERMAN INC                         0.683     641234109   NEU            147,400        6,483,996.94        6,470,860.00
+NEW ENGLAND BUSINESS SERVICE                 4.177     643872104   NEB             13,300          388,924.85          254,695.00
+NEW YORK COMMUNITY BANCORP                   2.798     649445103   NYCB           205,100        4,654,727.79        4,690,637.00
+NEW YORK TIMES CO. CL A                      1.156     650111107 Q NYT            399,431       13,279,814.79       17,275,390.76
+NEWELL RUBBERMAID INC.                       3.046     651229106 Q NWL            705,941       20,874,715.59       19,462,793.37
+NEWFIELD EXPLORATION COMPANY                 0.000     651290108   NFX             43,100          929,691.08        1,530,481.00
+NEWMONT MNG. CORP.                           0.627     651639106 Q NEM            272,713        6,364,249.26        5,211,545.43
+NEWPORT CORP                                 0.103     651824104   NEWP            76,300        1,817,176.75        1,471,064.00
+NEXTEL COMMUNICATIONS CL-A                   0.000     65332V103   NXTL         1,497,098       42,269,450.11       16,408,194.07
+NIAGARA MOHAWK HOLDINGS INC                  0.000     653520106   NMK            110,949        1,599,840.27        1,967,125.77
+NICOR INC.                                   4.226     654086107 Q GAS             30,998          953,541.11        1,290,756.71
+NIKE INC. -CL B                              0.853     654106103 Q NKE            516,694       24,992,156.88       29,058,870.58
+NISOURCE INCORPORATED                        5.030     65473P105 Q NI             268,060        5,014,918.29        6,181,463.59
+NJ RESOURCES CORP. COMMON                    3.846     646025106   NJR             18,100          602,988.19          847,080.00
+NOBLE AFFILIATES INC                         0.453     654894104   NBL            122,400        3,013,374.96        4,319,496.00
+NOBLE DRILLING CORP.                         0.000     655042109   NE             576,431       15,283,962.12       19,621,711.24
+NORDSON CORP                                 2.120     655663102   NDSN            94,500        2,512,895.15        2,495,744.99
+NORDSTROM INC                                1.779     655664100 Q JWN             93,044        2,342,943.14        1,882,280.12
+NORFOLK SOUTHERN CORP.                       1.309     655844108 Q NSC            518,451       10,902,121.94        9,503,206.84
+NORTEL NETWORKS CORP. HOLDING CO.            0.000     656568102 Q NT           9,556,613      191,165,336.86       71,674,597.50
+NORTH FORK BANK                              2.625     659424105   NFB            284,450        6,562,908.77        9,099,555.49
+NORTHEAST UTILITIES                          2.836     664397106   NU             286,700        5,665,590.24        5,054,521.00
+NORTHERN TRUST CORP                          1.129     665859104   NTRS           445,103       21,578,591.48       26,804,102.67
+NORTHROP GRUMMAN CORP.                       1.587     666807102 Q NOC            190,442       12,964,977.02       19,198,458.01
+NORTHWEST NATURAL GAS CO.                    4.941     667655104   NWN             25,600          677,431.81          652,800.00
+NORTHWESTERN CORPORATION                     6.033     668074107   NOR             27,400          597,494.24          576,770.00
+NOVELL INC                                   0.000     670006105   NOVL           431,168        4,043,383.59        1,979,061.12
+NOVELLUS SYSTEMS INC.                        0.000     670008101   NVLS           236,784        8,179,712.16        9,341,128.80
+NOVEN PHARMACEUTICALS INC                    0.000     670009109   NOVN            23,000          421,841.23          408,250.00
+NRG ENERGY INC.                              0.000     629377102   NRG             29,400          451,801.60          455,700.00

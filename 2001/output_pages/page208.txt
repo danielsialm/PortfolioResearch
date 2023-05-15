@@ -1,4 +1,4 @@
-ASOF03   Date 01/24/2002 Time 21:29:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+ASOF03   Date 01/24/2002 Time 21:29:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 004
 
 Monthly Market Portfolio
 
@@ -6,12 +6,20 @@ Investment Desc                                               Yield         Iden
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - REE       RE EAST REGION
-Instrument - X         OTHER
+Portfolio  - REM       RE MIDWEST REGION
+Instrument - R         RETAIL
 
-TERRAMICS LAKE CENTER          PHILADELPHIA PA                 5.600         RLKCTR                  2,408,937.65      1,900,000.00
+OLENTANGY PLAZA                COLUMBUS                       10.000         ROPL01                 15,818,833.15     23,100,000.00
+STRATFORD SQUARE MALL          CHICAGO                         9.000         RSFSQ1                 34,219,150.29     31,250,000.00
+VILLAGE CROSSING               SKOKIE/NILES                    9.600         RVLCR1                 37,893,105.51     23,500,000.00
 
-Instrument Total             1                                                                       2,408,937.65      1,900,000.00
+Instrument Total             6                                                                     289,644,867.69    306,950,000.01
 
-Portfolio Total             23                                                                     917,032,559.32  1,252,179,999.15
+Instrument -X      OTHER
+
+WESTBELT WEST PK               COLUMBUS                       10.000         RWSBT1                    787,645.14        424,999.99
+
+Instrument Total             1                                                                         787,645.14        424,999.99
+
+Portfolio Total             28                                                                     833,094,643.46    890,910,714.00
 

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 063
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+RUSH ENTERPRISES INC - CL B                  0.000     781846308   RUSHB           27,200          366,882.45          470,832.00
+RUSS BERRIE & CO INC                         5.253     782233100   RUS             11,300          263,152.23          258,092.00
+RUSSELL CORP                                 0.821     782352108 Q RML             75,400        1,324,237.94        1,468,792.00
+RYANS RESTAURANT GROUP INC                   0.000     783520109   RYAN            81,800        1,068,216.51        1,261,356.00
+RYDER SYS. INC.                              1.256     783549108 Q R              444,497       18,017,842.30       21,233,621.69
+RYERSON TULL, INC.                           1.269     78375P107 Q RT              88,600        1,069,283.40        1,395,450.00
+RYLAND GROUP INC                             0.417     783764103   RYL            301,200       11,989,613.61       17,331,048.00
+S & T BANCORP INC                            2.865     783859101   STBA            31,942          986,525.74        1,203,893.98
+S Y BANCORP INC                              1.825     785060104   SYI             13,100          301,216.91          315,710.00
+S1 CORPORATION                               0.000     78463B101   SONE            78,400          431,617.25          710,304.00
+SABA SOFTWARE INC                            0.000     784932600   SABA           214,124          854,377.13          856,496.00
+SABRE HOLDINGS CORP.                         1.353     785905100   TSG            299,942        7,453,338.87        6,646,714.72
+SAFECO CORP.                                 1.684     786429100 Q SAFC           387,000       14,982,728.11       20,216,880.00
+SAFEGUARD SCIENTIFIC                         0.000     786449108   SFE            233,100          493,162.73          494,172.00
+SAFENET INC                                  0.000     78645R107   SFNT            33,065          950,772.00        1,214,808.10
+SAFETY INSURANCE GROUP INC                   1.540     78648T100   SAFT            34,726          707,838.88        1,081,714.90
+SAFEWAY INC                                  0.000     786514208   SWY            808,500       21,554,785.56       15,959,790.00
+SAGA COMMUNICATIONS                          0.000     786598102   SGA             18,150          325,983.95          305,827.50
+SAKS INCORPORATED                            0.000     79377W108   SKS            222,400        3,274,596.97        3,227,024.00
+SALEM COMMUNICATIONS -CL A                   0.000     794093104   SALM             1,900           48,743.93           47,405.00
+SALESFORCE.COM INC                           0.000     79466L302   CRM             12,800          202,597.92          216,832.00
+SALIX PHARMACEUTICAL                         0.000     795435106   SLXP           101,399        1,442,917.52        1,783,608.41
+SANDERS MORRIS HARRIS GROUP INC              0.842     80000Q104   SMHG            13,300          188,077.38          236,873.00
+SANDERSON FARMS INC                          0.924     800013104   SAFM            17,877          527,100.77          773,716.56
+SANDY SPRING BANCORP INC                     2.087     800363103   SASR             9,461          325,446.50          362,640.13
+SANMINA-SCI CORP                             0.000     800907107   SANM         1,132,703       10,779,622.24        9,593,994.41
+SANTANDER BANCORP                            2.122     802809103   SBP             44,210          680,793.90        1,333,373.60
+SANTARUS INC                                 0.000     802817304   SNTS             9,300          107,554.65           84,258.00
+SAPIENT CORP                                 0.000     803062108   SAPE            87,500          476,965.98          692,125.00
+SARA LEE CORP.                               3.272     803111103 Q SLE          1,323,700       25,535,095.56       31,954,118.00
+SAUER-DANFOSS INC                            1.834     804137107   SHS             11,200          122,924.03          244,272.00
+SBA COMMUNICATIONS CORP                      0.000     78388J106   SBAC            51,100          282,519.98          474,208.00
+SBC COMMUNICATIONS INC.                      5.005     78387G103 Q SBC          6,827,200      216,395,888.09      175,936,944.00
+SBS BROADCASTING SA                          0.000     L8137F102   SBTV             3,036           54,785.52          122,138.28
+SBS TECHNOLOGIES INC                         0.000     78387P103   SBSE            16,919          244,088.46          236,189.24
+SCANA CORP                                   3.705     80589M102 Q SCG            188,900        5,528,474.87        7,442,660.00
+SCANSOFT INC                                 0.000     80603P107   SSFT            89,716          451,490.72          375,910.04
+SCANSOURCE INC                               0.000     806037107   SCSC            13,900          505,038.83          864,024.00
+SCBT FINANCIAL CORP                          2.025     78401V102   SCBT             9,030          234,452.50          303,137.10
+SCHAWK INC                                   0.715     806373106   SGK             10,100          115,044.48          183,618.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 152
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5JL       JACOBS LEVY - 1000
+Instrument - COM       COMMON STOCK
+
+MEDIA GENERAL INC - CL A                   1.167 MEG     584404107     65.1000         5,700.00        288,001.84        371,070.00
+MEDTRONIC INC                              0.596 MDT     585055106Q    48.6100        21,600.00        988,052.41      1,049,976.00
+MERRILL LYNCH & CO. INC.                   1.091 MER     590188108Q    58.6500       173,900.00      6,946,887.64     10,199,235.00
+METTLER-TOLEDO INTERNATIONAL               0.000 MTD     592688105     42.2100        19,100.00        731,215.30        806,211.00
+MICROSOFT CORP.                            0.581 MSFT    594918104     27.5400     1,128,100.00     35,861,423.35     31,067,874.00
+MKS INSTRUMENTS INC                        0.000 MKSI    55306N104     29.0000         3,196.00         89,443.26         92,684.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     70.5400        40,800.00      2,824,142.35      2,878,032.00
+MONSANTO COMPANY                           1.806 MON     61166W101     28.7800        12,300.00        202,248.92        353,994.00
+MORGAN STANLEY DEAN WITTER & C             1.728 MWD     617446448Q    57.8700       124,700.00      5,677,705.70      7,216,389.00
+MYLAN LABS                                 0.475 MYL     628530107Q    25.2600       197,400.00      3,558,173.86      4,986,324.01
+NATIONAL CITY CORP                         3.771 NCC     635405103Q    33.9400       272,300.00      8,835,100.48      9,241,862.00
+NATIONAL FUEL & GAS                        4.419 NFG     636180101Q    24.4400        39,800.00        801,835.13        972,712.00
+NATIONAL SEMICONDUCTOR CORP.               0.000 NSM     637640103     39.4100        59,200.00      1,972,535.83      2,333,072.00
+NEKTAR THERAPEUTICS                        0.000 NKTR    640268108     13.6100        58,611.00        774,135.02        797,695.71
+NEWMONT MNG. CORP. HLDG CO                 0.411 NEM     2636607  Q    48.6100       102,500.00      4,576,037.52      4,982,525.00
+NEXTEL COMMUNICATIONS CL-A                 0.000 NXTL    65332V103     28.0600       263,500.00      6,222,761.17      7,393,810.00
+NII HOLDINGS INC                           0.000 NIHD    62913F201     74.6300        27,000.00      2,094,476.70      2,015,010.00
+NORTHROP GRUMMAN CORP.                     1.673 NOC     666807102Q    95.6000        67,800.00      6,308,350.34      6,481,680.00
+NORTHWEST AIRLINES CORP                    0.000 NWAC    667280101     12.6200       181,151.00      2,274,706.92      2,286,125.62
+NUVEEN INVESTMENTS INC-CL A                2.250 JNC     67090F106     26.6600        27,300.00        612,439.81        727,818.00
+OGE ENERGY CORP                            5.498 OGE     670837103     24.1900        34,400.00        895,921.16        832,136.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    17.3600        13,700.00        232,078.00        237,832.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     13.2000       558,300.00      7,535,666.11      7,369,560.00
+OSHKOSH TRUCK CORPORATION                  0.450 OSK     688239201     51.0300         4,800.00        162,748.76        244,943.99
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     21.1200        39,700.00        949,913.81        838,464.00
+PEPCO HOLDINGS INC.                        5.117 POM     713291102     19.5400        41,400.00        771,344.85        808,956.00
+PERKIN ELMER INC                           1.640 PKI     714046109Q    17.0700        27,000.00        452,287.22        460,890.01
+PERRIGO CO.                                0.890 PRGO    714290103     15.7200        16,800.00        248,841.89        264,096.00
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     30.4500        37,150.00      1,149,226.30      1,131,217.50
+PETSMART INC                               0.336 PETM    716768106     23.8000        63,200.00      1,132,305.06      1,504,160.00
+PFIZER INC.                                1.924 PFE     717081103Q    35.3300       953,300.00     30,624,434.08     33,680,089.00
+PHARMACEUTICAL RESOURCES INC               0.000 PRX     717125108     65.1500         6,100.00        249,273.75        397,415.00
+PINNACLE WEST CAPITAL CORP                 4.497 PNW     723484101Q    40.0200        48,000.00      1,874,369.17      1,920,960.00
+PLEXUS CORP                                0.000 PLXS    729132100     17.1700        25,900.00        432,879.06        444,703.00
+POLO RALPH LAUREN CORP                     0.694 RL      731572103     28.8000        28,300.00        741,319.57        815,040.00
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200        51,700.00        834,480.77      1,009,184.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC5 IT-JAC5        1.0000     9,615,635.07      9,615,635.07      9,615,635.09
+PROCTER & GAMBLE CO                        1.822 PG      742718109Q    99.8800        59,500.00      5,839,252.65      5,942,860.00
+PROTECTIVE LIFE CORP                       1.891 PL      743674103     33.8400        27,900.00        757,875.99        944,136.00

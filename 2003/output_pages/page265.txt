@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+FOUNDRY NETWORKS INC                         0.000     35063R100   FDRY           336,400        6,909,920.52        9,203,904.01
+FOX ENTERTAINMENT GRP INC. - CL A            0.000     35138T107   FOX            877,383       24,564,524.29       25,575,714.44
+FPL GROUP INC.                               3.668     302571104 Q FPL            378,900       19,696,489.10       24,787,638.00
+FRANKLIN BANK CORP                           0.000     352451108   FBTX             2,400           34,800.00           45,600.00
+FRANKLIN ELEC INC                            0.925     353514102   FELE             8,000          488,863.56          483,920.00
+FRANKLIN FINL CORP T                         0.813     353523202   FNFN             4,000          122,134.80          122,880.00
+FRANKLIN RESOURCES INC                       0.653     354613101 Q BEN            320,700       11,634,566.82       16,695,642.00
+FRED'S INC                                   0.258     356108100   FRED           101,860        2,491,703.24        3,155,622.80
+FREDDIE MAC                                  1.783     313400301 Q FRE          1,576,563       75,202,982.65       91,945,154.18
+FREEMARKETS INC                              0.000     356602102   FMKT            44,700          332,521.92          299,043.00
+FREEPORT MCMORAN CLASS B                     1.898     35671D857   FCX            341,900        7,256,703.98       14,404,247.01
+FREMONT GENERAL CORP.                        1.182     357288109   FMT             82,400          808,626.88        1,393,384.00
+FRIEDMAN BILLINGS RAMSEY -A                  5.892     358434108   FBR            200,618        3,568,690.47        4,630,263.44
+FRIEDMANS INC                                1.341     358438109   FRM             69,900          746,749.16          469,029.00
+FRONTIER AIRLINES INC                        0.000     359065109   FRNT           142,300        2,133,307.25        2,029,198.00
+FRONTIER FINL CORP W                         2.231     35907K105   FTBK            18,600          572,317.69          616,776.00
+FRONTIER OIL CORP                            1.161     35914P105   FTO             63,100        1,073,093.60        1,086,582.00
+FTD INC                                      0.000     30265Q109   FTDI             3,700           87,514.37           91,168.00
+FTI CONSULTING INC                           0.000     302941109   FCN             49,800        1,207,360.39        1,163,826.00
+FUELCELL ENERGY INC                          0.000     35952H106   FCEL            52,100          459,039.77          677,300.00
+FULLER H B CO                                1.513     359694106 Q FUL             49,550        1,215,459.02        1,473,617.00
+FULTON FINANCIAL CORP                        2.921     360271100   FULT           210,600        4,305,731.23        4,614,246.00
+FURNITURE BRANDS INTERNATIONAL INC.          1.704     360921100   FBN            117,850        2,620,557.16        3,456,540.51
+G & K SERV. CL-A                             0.190     361268105 Q GKSRA           32,500        1,098,119.16        1,194,375.00
+GA FINANCIAL INC                             2.303     361437106   GAF              5,100          131,081.15          177,123.00
+GABELLI ASSET MGMT I                         0.050     36239Y102   GBL             24,889          915,186.18          990,582.20
+GADZOOKS INC                                 0.000     362553109   GADZ           139,200          624,739.18          215,760.00
+GALLAGHER (ARTHUR) J & CO.                   2.216     363576109 Q AJG            163,300        3,874,663.39        5,305,617.01
+GALYAN'S TRADING COMPANY                     0.000     36458R101   GLYN            35,000          401,134.56          421,400.00
+GAMESTOP CORP.                               0.000     36466R101   GME             41,559          614,800.43          640,424.19
+GANNETT INC                                  1.121     364730101 Q GCI            482,200       26,414,436.43       42,992,952.00
+GAP INC                                      0.383     364760108 Q GPS          1,267,600       25,306,639.47       29,420,996.00
+GARDNER DENVER MACHINERY                     0.000     365558105 Q GDI             60,600        1,231,333.88        1,446,522.00
+GARTNER INC-CL A                             0.000     366651107   IT              94,300          800,141.19        1,066,532.99
+GATEWAY INC.                                 0.000     367626108   GTW            484,144        7,876,007.43        2,227,062.40
+GATX CORP                                    4.574     361448103   GMT             65,000        2,508,966.96        1,818,700.00
+GAYLORD ENTMT CO NEW                         0.000     367905106   GET             43,630        1,090,953.28        1,302,355.50
+GB&T BANCSHARES INC                          1.523     361462104   GBTB             6,800          167,625.48          160,684.00
+GEMSTAR-TV GUIDE INTL INC                    0.000     36866W106   GMST           468,200        2,646,623.02        2,364,410.02
+GEN-PROBE INC                                0.000     36866T103   GPRO           103,600        2,428,666.38        3,778,292.00

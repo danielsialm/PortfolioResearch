@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 180
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+INFOCUS CORPORATION                        0.000 INFS    45665B106      9.1600        19,600.00         97,696.31        179,536.00
+INFONET SERVICES                           0.000 IN      45666T106      2.0200       102,700.00        201,303.06        207,454.00
+INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     22.4200        10,300.00        168,578.96        230,926.00
+INTERWOVEN INC                             0.000 IWOV    46114T508     10.8800        24,700.00        165,529.64        268,736.00
+IRWIN FINANCIAL CORP                       1.127 IFC     464119106     28.3900         6,500.00        166,111.38        184,535.00
+KBNT BANCORP INC                           1.183 KNBT    482921103     16.9000        10,400.00        166,656.88        175,760.00
+KEMET CORP.                                0.000 KEM     488360108      8.9500        18,400.00        216,081.77        164,680.00
+KINDRED HEALTHCARE I                       0.000 KND     494580103     29.9500         6,200.00        164,631.70        185,690.00
+KOMAG INC                                  0.000 KOMG    500453204     18.7800        15,900.00        162,508.24        298,602.00
+LAIDLAW INTERNATIONAL INC                  0.000 LI      50730R102     21.4000        11,500.00        165,800.16        246,100.00
+LAKES ENTERTAINMENT INC                    0.000 LACO    51206P109     16.2900        17,700.00        159,126.25        288,333.00
+LANDAMERICA FINANCIAL GROUP                1.112 LFG     514936103     53.9300         4,000.00        198,585.80        215,720.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      5.7000        36,800.00        155,014.48        209,760.00
+M&F WORLDWIDE CORP                         0.000 MFW     552541104     13.6200        12,700.00        180,833.99        172,974.00
+MEDCATH CORPORATION                        0.000 MDTH    58404W109     24.6400        10,400.00        163,383.33        256,256.00
+METALS USA INC                             0.000 MUSA    591324207     18.5500        10,800.00        163,568.98        200,340.00
+METRIS COMPANIES INC.                      0.313 MXT     591598107     12.7500        25,600.00        174,693.76        326,400.00
+MGP INGREDIENTS INC                        1.736 MGPI    55302G103      8.6400        15,600.00        160,301.17        134,784.00
+MOVADO GROUP INC                           0.857 MOV     624580106     18.6500        12,100.00        160,688.00        225,665.00
+NACCO INDUSTRIES -CL A                     1.717 NC      629579103Q   105.4000         2,100.00        171,826.33        221,340.00
+NATIONAL WESTN LIFE                        0.000 NWLIA   638522102    166.6100         1,000.00        146,208.97        166,610.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2100        18,900.00        158,642.20        230,769.00
+NYMAGIC INC                                0.948 NYM     629484106Q    25.3000         7,400.00        183,400.04        187,220.00
+OCA INC                                    0.000 OCA     67083Q101      6.3500        31,200.00        200,807.70        198,120.00
+OCTEL CORP                                 0.576 OTL     675727101     20.8100         7,200.00        167,621.82        149,832.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    23.2100         8,300.00        162,931.93        192,643.00
+PARTNERS TRUST FINL                        2.060 PRTR    70213F102     11.6500        16,700.00        163,776.90        194,555.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101      5.8100        23,900.00        170,645.70        138,859.00
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     12.3000        15,200.00        175,251.06        186,960.00
+PHOENIX COMPANIES INC.                     1.280 PNX     71902E109     12.5000        16,700.00        187,744.00        208,750.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     20.7700         9,200.00        166,469.43        191,084.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      6.1000        47,100.00        158,976.63        287,310.00
+PMA CAP CORP                               4.058 PMACA   693419202     10.3500        27,700.00        115,788.99        286,695.00
+PRESIDENTIAL LIFE                          2.358 PLFE    740884101     16.9600         9,400.00        163,359.97        159,424.00
+QUIDEL CORP                                0.000 QDEL    74838J101      5.0800        50,300.00        164,395.50        255,524.00
+ROBBINS & MYERS INC.                       0.923 RBN     770196103     23.8300         9,300.00        167,679.00        221,619.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     20.5400        11,700.00        161,043.13        240,318.00
+RYERSON TULL, INC.                         1.269 RT      78375P107Q    15.7500        11,100.00        166,228.76        174,825.00
+SAFETY INSURANCE GROUP INC                 1.540 SAFT    78648T100     31.1500         7,800.00        169,623.00        242,970.00

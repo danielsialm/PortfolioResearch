@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - H         MANUFACTURED HOMES
+
+EQUITY LIFESTYLE PROPERTIES IN             0.224 ELS     29472R108     44.5000        60,500.00      2,375,633.89      2,692,250.00
+SUN COMMUNITIES INC                        8.025 SUI     866674104     31.4000        13,000.00        452,594.43        408,200.00
+
+Instrument Total             3                                                      158,500.00       3,659,550.54      3,910,500.00
+
+Instrument -I      OUTLET CENTERS
+
+TANGER FACTORY OUTLET                      4.488 SKT     875465106     28.7400        25,000.00        695,572.97        718,500.00
+
+Instrument Total             1                                                       25,000.00         695,572.97        718,500.00
+
+Instrument -J      REGIONAL MALLS
+
+CBL & ASSOC PROP                           4.112 CBL     124830100     39.5100       158,000.00      5,227,420.80      6,242,580.00
+GENERAL GROWTH PROP                        3.490 GGP     370021107Q    46.9900       526,354.00     10,598,801.67     24,733,374.46
+MACERICH CO                                4.051 MAC     554382101     67.1400       116,600.00      5,162,897.84      7,828,524.00
+MILLS CORP.                                5.984 MLS     601148109     41.9400        96,000.00      4,023,418.11      4,026,240.00
+SIMON PROP GROUP INC.                      3.134 SPG     828806109Q    76.6300       491,821.00     15,413,775.77     37,688,243.23
+TAUBMAN CENTERS INC                        2.204 TCO     876664103Q    34.7500       116,800.00      2,808,411.79      4,058,800.00
+
+Instrument Total             6                                                    1,505,575.00      43,234,725.98     84,577,761.69
+
+Instrument -K      STRIP CENTERS
+
+CEDAR SHOPPING CENTERS INC                 6.396 CDR     150602209     14.0700       141,700.00      2,023,782.11      1,993,719.00
+DEVELOPERS DIVERSIFIED RE                  4.593 DDR     251591103Q    47.0200       213,000.00      7,336,351.93     10,015,260.00
+EQUITY ONE INC                             5.190 EQY     294752100     23.1200       177,000.00      3,842,391.83      4,092,240.00
+FEDERAL REALTY INV.                        3.660 FRT     313747206Q    60.6500       155,400.00      7,529,048.13      9,425,010.00
+HERITAGE PROPERTY INV TRUST                6.287 HTG     42725M107     33.4000        15,000.00        470,955.38        501,000.00
+KIMCO REALTY CORP                          4.114 KIM     49446R109Q    32.0800       365,078.00      5,356,122.00     11,711,702.24
+KITE REALTY GROUP TRUST                    4.848 KRG     49803T102     15.4700       127,000.00      1,880,818.23      1,964,690.00
+NEW PLAN EXCEL RE TRUST                    5.392 NXL     648053106Q    23.1800        53,800.00      1,202,576.86      1,247,084.00
+PAN PACIFIC RETAIL                         3.528 PNP     69806L104     66.8900       109,500.00      4,318,867.46      7,324,455.00
+RAMCO-GERSHENSON PPT                       3.591 RPT     751452202     26.6500        17,000.00        500,663.65        453,050.00
+REGENCY CENTERS CORP                       2.948 REG     758849103     58.9500       153,800.00      5,211,561.97      9,066,510.00
+WEINGARTEN RE INVST                        3.779 WRI     948741103     37.8100       175,075.00      5,252,169.57      6,619,585.76
+
+Instrument Total            12                                                    1,703,353.00      44,925,309.12     64,414,306.00
+

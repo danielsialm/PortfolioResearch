@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 108
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+GLADSTONE CAPITAL CO                       7.577 GLAD    376535100     21.3800           100.00          2,254.42          2,138.00
+GLADSTONE INVESTMENT CORP                  6.181 GAIN    376546107     13.5900           100.00          1,470.00          1,359.00
+GLATFELTER                                 2.537 GLT     377316104     14.1900           200.00          2,947.70          2,838.00
+GLENAYRE TECHNOLOGIES INC.                 0.000 GEMS    377899109      3.2500        11,900.00         46,066.09         38,675.00
+GLOBAL CASH ACCESS INC                     0.000 GCA     378967103     14.5900         2,900.00         43,326.00         42,311.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     34.6300           100.00          2,700.48          3,463.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100     11.3500           300.00          1,516.91          3,405.00
+GLOBAL POWER EQUIPMENT GROUP               0.000 GEG     37941P108      4.5200         6,400.00         58,483.69         28,928.00
+GOLD BANC CORP INC                         1.097 GLDB    379907108     18.2200           800.00         11,758.18         14,576.00
+GOLF GALAXY INC                            0.000 GGXY    381639103     19.1500           800.00         12,768.00         15,320.00
+GRAMERCY CAPITAL CORP                      8.340 GKK     384871109     22.7800           100.00          2,461.76          2,278.00
+GRANITE CONSTRUCTION INC                   1.113 GVA     387328107     35.9100         1,700.00         41,352.42         61,047.00
+GRAY TELEVISION INC                        1.222 GTN     389375106      9.8200         7,700.00         97,783.02         75,614.00
+GREAT WOLF RESORTS INC                     0.000 WOLF    391523107     10.3100           100.00          2,480.20          1,031.00
+GREATBATCH INC.                            0.000 GB      39153L106     26.0100           100.00          3,126.78          2,601.00
+GREENE COUNTY BANCSHARES INC               1.754 GCBS    394361208     27.3600         1,200.00         33,131.88         32,832.00
+GREIF INC                                  1.448 GEF     397624107     66.2800         1,000.00         45,356.45         66,280.00
+GREY WOLF INC                              0.000 GW      397888108      7.7300           700.00          3,832.91          5,411.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     23.8100           100.00          2,059.76          2,381.00
+GROUP 1 AUTOMOTIVE                         0.000 GPI     398905109     31.4300           500.00         13,879.34         15,715.00
+GSI COMMERCE INC                           0.000 GSIC    36238G102     15.0900         1,200.00         14,065.74         18,108.00
+GUESS INC                                  0.000 GES     401617105     35.6000         1,400.00         23,773.80         49,840.00
+GUITAR CENTER INC                          0.000 GTRC    402040109     50.0100         1,600.00         58,856.19         80,016.00
+GULF ISLAND FABRICAT                       1.234 GIFI    402307102     24.3100         2,200.00         45,489.88         53,482.00
+GULFMARK OFFSHORE INC                      0.000 GMRK    402629109     29.6200           100.00          1,585.35          2,962.00
+GYMBOREE CORP                              0.000 GYMB    403777105     23.4000           100.00          1,340.57          2,340.00
+HAEMONETICS CORP/MASS                      0.000 HAE     405024100     48.8600           200.00          6,516.92          9,772.00
+HAIN CELESTIAL GROUP                       0.000 HAIN    405217100     21.1600           100.00          2,148.72          2,116.00
+HANCOCK HLDG CO                            2.062 HBHC    410120109     37.8100           100.00          2,593.90          3,781.00
+HANMI FINL CORP                            1.119 HAFC    410495105     17.8600           100.00          1,536.61          1,786.00
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105     14.1100           300.00          4,745.13          4,233.00
+HANSEN NATURAL CORP                        0.000 HANS    411310105     78.8100           100.00          2,219.59          7,881.00
+HARBOR FLA BANCSHARE                       2.969 HARB    411901101     37.0500           100.00          2,701.56          3,705.00
+HARLAND JOHN H CO                          1.595 JH      412693103Q    37.6000         1,300.00         34,144.88         48,880.00
+HARLEYSVILLE GROUP INC                     2.641 HGIC    412824104     26.5000           400.00          8,725.90         10,600.00
+HARLEYSVILLE NATL CO                       3.979 HNBC    412850109     19.1000           100.00          2,220.68          1,910.00
+HARMONIC INC.                              0.000 HLIT    413160102      4.8500           200.00          1,553.69            970.00
+HARTMARX CORP.                             0.000 HMX     417119104      7.8100         8,400.00         59,488.16         65,604.00
+HEADWATERS INC                             0.000 HW      42210P102     35.4400           200.00          4,550.71          7,088.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 145
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6PI       PIMCO - 600 GROWTH
+Instrument - COM       COMMON STOCK
+
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     20.4600        25,400.00        527,860.91        519,684.00
+ADVISORY BOARD CO/THE                      0.000 ABCO    00762W107     29.9000        12,500.00        369,146.06        373,750.00
+AEROFLEX INC                               0.000 ARXX    007768104      6.9000        69,700.00        728,321.22        480,930.00
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     50.3000         7,000.00        404,612.33        352,100.00
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     17.0300        23,000.00        360,904.00        391,690.00
+AMN HEALTHCARE SERVICES INC                0.000 AHS     001744101     16.9100        11,400.00        202,293.19        192,774.00
+ANSWERTHINK INC                            0.000 ANSR    036916104      2.5000        51,400.00        144,511.00        128,500.00
+ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105     12.0300        59,000.00        957,490.05        709,770.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     12.3000        31,800.00        280,602.57        391,140.01
+BROWN & BROWN INC                          0.711 BRO     115236101     32.3200        14,900.00        446,815.96        481,568.00
+CABLEVISION SYSTEMS NEW YORK G             0.000 CVC     12686C109     16.7400        28,600.00        405,379.89        478,764.00
+CENTENE CORP                               0.000 CNTE    15135B101     33.5900         9,200.00        226,092.40        309,028.00
+CHESAPEAKE ENERGEY CORP                    0.775 CHK     165167107      7.7400        63,600.00        356,562.90        492,264.00
+CHICAGO MERCANTILE EXCHANGE                0.000 CME     167760107     43.6600         2,600.00        109,305.82        113,516.00
+COMMERCE BANCORP INC                       1.528 CBH     200519106     43.1900        10,100.00        433,304.88        436,219.00
+CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     31.9200        13,400.00        429,007.31        427,728.00
+COVANCE INC                                0.000 CVD     222816100     24.5900        12,600.00        239,553.85        309,834.00
+COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     29.0300        12,600.00        346,746.97        365,778.00
+CSK AUTO CORP                              0.000 CAO     125965103     11.0000        42,200.00        511,811.12        464,200.00
+CUMULUS MEDIA INC. CL. A                   0.000 CMLS    231082108     14.8700        32,000.00        487,138.76        475,840.00
+CYTYC CORPORATION                          0.000 CYTC    232946103     10.2000        26,530.00        260,497.15        270,606.00
+DIGITAL INSIGHT                            0.000 DGIN    25385P106      8.6900        46,900.00        579,983.47        407,560.99
+DOCUMENT INC                               0.000 DCTM    256159104     15.6600        35,000.00        542,744.83        548,100.00
+DRS TECHNOLOGIES INC                       0.000 DRS     23330X100     31.3300        14,200.00        404,862.97        444,886.00
+EAST WEST BANCORP INC.                     1.108 EWBC    27579R104     36.0800        13,400.00        436,218.29        483,472.00
+EMULEX CORP                                0.000 ELX     292475209     18.5500        13,500.00        232,502.39        250,425.00
+ENZON PHARMACEUTICALS INC                  0.000 ENZN    293904108     16.7200        11,600.00        384,698.81        193,952.00
+EON LABS INC                               0.000 ELAB    29412E100     18.9100        11,400.00        205,292.29        215,574.00
+F5 NETWORKS INC                            0.000 FFIV    315616102     10.7400        26,100.00        287,375.85        280,314.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     10.7100        34,700.00        578,178.58        371,637.00
+FORRESTER RESEARCH INC                     0.000 FORR    346563109     15.5700        36,400.00        746,688.28        566,748.00
+GENESCO INC.                               0.000 GCO     371532102     18.6300        48,378.00      1,021,922.54        901,282.15
+GETTY IMAGES INC.                          0.000 GYI     374276103     30.5500        12,202.00        227,594.10        372,771.10
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     11.6400        57,200.00        612,772.48        665,808.00
+HEALTH NET                                 0.000 HNT     42222G108     26.4000         8,694.00        180,249.82        229,521.60
+HILB ROGAL & HAMIL.                        0.880 HRH     431294107Q    40.9000        12,200.00        467,029.41        498,980.00
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     29.3000        11,200.00        296,493.45        328,160.00
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103      8.3100        53,100.00        489,189.67        441,261.00
+INTEGRATED DEFENSE TECHNOLOGIE             0.000 IDE     45819B101     14.5000           800.00         10,086.85         11,600.01

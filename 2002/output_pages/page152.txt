@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 124
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 60
+Instrument - COM       COMMON STOCK
+
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     20.4600        24,400.00        551,736.97        499,224.00
+ALLEN TELECOM INC.                         0.000 ALN     018091108      9.4700       104,500.00      1,516,107.15        989,615.00
+ALPHARMA, INC.-CL A                        1.511 ALO     020813101Q    11.9100        45,900.00        881,351.69        546,669.00
+AMERICAN EAGLE OUTFITTERS                  0.000 AEOS    02553E106     13.7800        25,000.00        573,569.34        344,500.00
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      3.5700        98,500.00        685,818.58        351,645.00
+ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P108      2.4000       117,400.00        321,453.35        281,760.00
+AVAYA INC                                  0.000 AV      053499109      2.4500       182,500.00        626,230.89        447,125.00
+BAUSCH & LOMB INC                          1.444 BOL     071707103Q    36.0000        21,000.00        815,500.60        756,000.00
+BJ SERVICES CO                             0.000 BJS     055482103     32.3100         8,000.00        187,831.46        258,480.00
+CALGON CARBON CORP.                        2.429 CCC     129603106Q     4.9400       132,600.00        997,400.36        655,044.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202      9.5500        43,400.00        712,336.00        414,470.00
+CNH GLOBAL N.V.                            2.105 CNH     N20935107      3.8000        70,000.00        449,213.85        266,000.00
+CONSTELLATION ENERGY GROUP INC             3.450 CEG     210371100Q    27.8200        26,000.00        619,929.45        723,320.00
+COORSTEK                                   0.000 CRTK    217020106     25.5500        36,200.00      1,041,270.56        924,910.00
+CSG SYSTEMS INTL. INC.                     0.000 CSGS    126349109     13.6500        24,800.00        294,533.85        338,520.00
+CYTEC INDUSTRIES                           0.000 CYT     232820100Q    27.2800        44,600.00      1,410,420.37      1,216,688.00
+DIGEX INC                                  0.000 DIGX    253756100      0.4300       353,900.00        588,976.76        152,177.00
+E.PIPHANY INC                              0.000 EPNY    26881V100      4.1700        75,000.00        431,742.06        312,750.00
+EARTHLINK INC                              0.000 ELNK    270321102      5.4500       107,000.00        916,500.10        583,150.00
+EFUNDS CORP                                0.000 EFDS    28224R101      9.1100        56,900.00        636,566.47        518,359.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     10.7100        72,800.00        752,976.56        779,687.98
+FIRST AMERICAN CORP.                       1.801 FAF     318522307     22.2000        62,500.00      1,177,991.48      1,387,500.00
+FOOTSTAR INC                               0.000 FTS     344912100      6.9600        78,500.00      1,785,846.43        546,360.00
+GATX CORP                                  5.609 GMT     361448103     22.8200        34,000.00      1,494,151.95        775,880.00
+GENENCOR INTERNATIONAL INC                 0.000 GCOR    368709101      9.7800        51,000.00        580,994.01        498,780.00
+HARRIS CORP.                               1.216 HRS     413875105Q    26.3000        44,200.00      1,148,687.95      1,162,460.00
+HEALTH NET                                 0.000 HNT     42222G108     26.4000        49,100.00      1,033,919.17      1,296,240.00
+HEALTHSOUTH CORP                           0.000 HRC     421924101      4.2000       268,000.00      2,840,833.47      1,125,600.00
+HOLLINGER INTERNATIONAL INC                1.968 HLR     435569108     10.1600        50,000.00        585,247.50        508,000.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     25.6700        34,500.00        535,051.04        885,615.00
+ICN PHARMACEUTICALS                        2.841 ICN     448924100Q    10.9100        35,000.00      1,055,519.50        381,850.00
+IMC GLOBAL INC.                            0.749 IGL     449669100Q    10.6700        45,000.00        605,001.88        480,150.00
+KADANT INC                                 0.000 KAI     48282T104     15.0000        20,700.00        290,909.15        310,500.00
+KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100      7.7200        49,000.00        411,676.84        378,280.00
+LORAL SPACE COMM.                          0.000 LOR     G56462107      0.4300       184,200.00        582,398.51         79,206.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     30.6100        10,000.00        213,160.00        306,100.00
+MAXTOR CORP                                0.000 MXO     577729205      5.0600       201,800.00      1,202,815.44      1,021,108.00
+MAXWELL TECHNOLOGIES INC                   0.000 MXWL    577767106      6.0500        34,400.00        255,878.22        208,120.00
+MILLIPORE CORPORATION                      1.294 MIL     601073109Q    34.0000        44,800.00      1,809,495.88      1,523,200.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:19   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+AMC ENTMT INC                                0.000     001669100   AEN             64,700          657,282.01          984,087.00
+AMCOL INTERNATIONAL CORP.                    0.985     02341W103   ACO             47,175          576,103.28          957,652.49
+AMCORE FINL INC                              2.516     023912108   AMFI            30,000          723,928.08          810,600.00
+AMDOCS LIMITED                               0.000     G02602103   DOX             80,637        1,697,300.77        1,812,719.76
+AMERADA HESS CORP.                           2.256     023551104 Q AHC            237,898       13,760,274.30       12,649,036.67
+AMEREN CORP.                                 5.521     023608102 Q AEE            225,900        9,082,394.86       10,391,400.01
+AMERICAN AXLE & MFG HOLDINGS                 0.000     024061103   AXL            112,138        3,089,783.56        4,532,617.99
+AMERICAN CAPITAL STRATEGIES                  9.283     024937104   ACAS            32,400          881,444.15          963,251.99
+AMERICAN EAGLE OUTFITTERS                    0.000     02553E106   AEOS            95,600        1,696,916.89        1,567,840.00
+AMERICAN ELECTRIC POWER                      4.588     025537101 Q AEP            849,400       26,278,126.06       25,915,194.01
+AMERICAN EXPRESS CO.                         0.829     025816109 Q AXP          2,296,200       73,497,306.59      110,745,726.00
+AMERICAN FINANCIAL GROUP INC.                1.889     025932104 Q AFG            149,270        3,566,117.67        3,949,684.20
+AMERICAN GREETING CL A                       1.829     026375105 Q AM              74,500        1,392,593.61        1,629,315.00
+AMERICAN HEALTHWAYS                          0.000     02649V104   AMHC            89,790        1,888,795.01        2,143,287.30
+AMERICAN HOME MTG HL                         9.773     02660R107   AHH             54,377        1,211,459.40        1,224,038.19
+AMERICAN INTL GROUP                          0.392     026874107 Q AIG          4,522,156      194,545,274.14      299,728,499.67
+AMERICAN ITALIAN PASTA COMPANY               1.790     027070101   PLB             18,000          561,870.14          754,200.00
+AMERICAN MANAGEMENT SYSTEMS                  0.000     027352103   AMSY            75,500        1,460,473.16        1,137,785.00
+AMERICAN MED SEC GRO                         0.000     02744P101   AMZ             41,432          882,215.72          928,905.44
+AMERICAN MEDICAL SYS HLDINGS                 0.000     02744M108   AMMD            37,954          679,595.01          827,397.20
+AMERICAN MORTGAGE ACCEPTANCE                 9.816     027568104   AMC              9,700          161,694.77          158,110.00
+AMERICAN NATL BANKSH                         2.870     027745108   AMNB             5,500          151,616.38          145,640.00
+AMERICAN NATL INS CO                         3.508     028591105   ANAT            28,457        2,388,035.05        2,400,917.09
+AMERICAN PHARMACEUTICAL PART                 0.000     02886P109   APPX            94,139        2,282,197.44        3,163,104.00
+AMERICAN PHYSICIANS                          0.000     028884104   ACAP            34,819          694,650.88          640,669.60
+AMERICAN POWER CONVERSION                    1.308     029066107   APCC           204,100        3,430,457.23        4,990,245.01
+AMERICAN REALTY INVESTORS INC                0.000     029174109   ARL              2,500           26,727.37           22,825.00
+AMERICAN STANDARD COMPANIES                  0.000     029712106   ASD            106,300        6,916,130.92       10,704,410.00
+AMERICAN STATES WATER CO.                    3.536     029899101   AWR             12,200          315,670.96          305,000.00
+AMERICAN TOWER CORP                          0.000     029912201   AMT            369,300        3,626,283.46        3,995,826.01
+AMERICAN WEST HOLDINGS CORP.                 0.000     023657208   AWA            104,800          992,734.88        1,299,520.00
+AMERICAN WOODMARK CORP.                      0.363     030506109   AMWD             6,600          332,761.12          363,330.00
+AMERICANWEST BANCORP                         0.000     03058P109   AWBC            11,100          193,316.55          253,080.00
+AMERICAS CAR-MART INC                        0.000     03062T105   CRMT             5,200          153,602.47          139,984.00
+AMERICREDIT CORP.                            0.000     03060R101   ACF            109,700        1,342,312.44        1,747,521.01
+AMERIGROUP CORPORATION                       0.000     03073T102   AGP             32,200        1,222,287.62        1,373,330.00
+AMERISOURCEBERGEN CORP                       0.178     03073E105   ABC            233,800       14,573,597.82       13,127,870.01
+AMERISTAR CASINOS IN                         0.000     03070Q101   ASCA            12,900          284,946.41          315,663.00
+AMERITRADE HLDG CORP                         0.000     03074K100   AMTD           560,900        5,198,009.64        7,891,862.99
+AMERON INTERNATIONAL CORP                    2.306     030710107   AMN             16,000          540,552.81          555,039.99

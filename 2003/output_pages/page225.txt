@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 195
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+MARITRANS INC                              2.633 TUG     570363101     16.7100         2,214.00         35,710.24         36,995.94
+MATRIX SERVICE CO                          0.000 MTRX    576853105     18.1500        16,261.00        286,466.78        295,137.15
+MCLEODUSA INC                              0.000 MCLD    582266706      1.4800       178,100.00        253,596.09        263,588.00
+MESTEK INC                                 0.000 MCC     590829107     19.2600        15,400.00        271,076.00        296,604.00
+METRO ONE TELECOMMUNICATIONS               0.000 MTON    59163F105      2.6000        70,300.00        257,306.53        182,780.00
+MPS GROUP INC                              0.000 MPS     553409103      9.3500        28,191.00        270,003.86        263,585.85
+NACCO INDUSTRIES -CL A                     1.698 NC      629579103Q    89.4800         3,325.00        272,058.34        297,521.00
+NASH FINCH CO.                             1.611 NAFC    631158102     22.3400        12,897.00        264,379.45        288,118.98
+NATIONAL WESTN LIFE                        0.000 NWLIA   638522102    154.8500         1,723.00        251,918.06        266,806.55
+NETRATINGS INC                             0.000 NTRT    64116M108     11.4300        26,400.00        247,418.16        301,752.00
+NEW FOCUS INC                              0.000 NUFO    644383101      5.0200        57,700.00        260,117.55        289,654.00
+NYMAGIC INC                                0.875 NYM     629484106Q    27.4200         9,667.00        252,252.75        265,069.14
+OCTEL CORP                                 0.507 OTL     675727101     19.6900         1,700.00         31,918.99         33,473.00
+OM GROUP, INC.                             2.138 OMG     670872100Q    26.1900        10,713.00        273,171.86        280,573.47
+ONEIDA LTD                                 0.000 OCQ     682505102      5.8900        63,100.00        210,104.07        371,659.00
+ORTHODONTIC CENTERS OF AMER                0.000 OCA     68750P103      8.0500        36,581.00        258,637.00        294,477.05
+PHOENIX COMPANIES INC.                     1.328 PNX     71902E109     12.0400        22,700.00        262,359.81        273,308.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     15.6700        19,200.00        269,667.20        300,864.00
+PMA CAP CORP                               8.203 PMACA   693419202      5.1200        65,330.00        273,086.44        334,489.60
+POMEROY COMPUTER RESOURCES                 0.000 PMRY    731822102     14.7400        17,752.00        251,538.71        261,664.48
+POWELL INDS INC                            0.000 POWL    739128106     19.1500        15,176.00        255,372.79        290,620.40
+PROVIDENT FINANCIAL HLDGS                  1.654 PROV    743868101     36.2700            25.00            838.60            906.75
+ROXIO INC                                  0.000 ROXI    780008108      4.7900        48,030.00        257,676.15        230,063.70
+SAVIENT PHARMACEUTICALS INC                0.000 SVNT    80517Q100      4.6100        52,502.00        262,018.86        242,034.22
+SIERRA PACIFIC RESOURCES                  10.899 SRP     826428104      7.3400        54,800.00        268,081.60        402,232.00
+SIX FLAGS INC.                             0.000 PKS     83001P109      7.5200        50,700.00        268,184.33        381,264.00
+SMART & FINAL INC                          0.000 SMF     831683107     10.0800        28,407.00        264,422.01        286,342.56
+SONICWALL INC                              0.000 SNWL    835470105      7.8000        32,461.00        266,468.05        253,195.80
+SOUNDVIEW TECHNOLOGY                       0.000 SNDV    83611Q406     15.4900        16,798.00        259,535.82        260,201.02
+STAGE STORES INC                           0.000 STGS    85254C305     27.9000         8,399.00        263,890.70        234,332.10
+STAMPS COM INC                             0.000 STMP    852857101      6.2000        46,000.00        263,554.70        285,200.00
+STANDARD COMMERCIAL CORP                   1.743 STW     853258101     20.0700        12,439.00        259,770.30        249,650.73
+STEWART INFO SVCS                          1.134 STC     860372101     40.5500         6,714.00        262,678.82        272,252.70
+STONE ENERGY CORP                          0.000 SGY     861642106     42.4500         6,942.00        267,949.41        294,687.90
+SUNRISE SENIOR LIVING INC                  0.000 SRZ     86768K106     38.7400         7,513.00        260,961.05        291,053.62
+TEREX CORP                                 0.000 TEX     880779103     28.4800        10,057.00        267,447.81        286,423.36
+TESORO PETROLEUM CORP                      0.000 TSO     881609101     14.5700        20,454.00        270,459.15        298,014.78
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108      5.2400        41,800.00        239,158.70        219,032.00
+TIER TECHNOLOGIES INC-CL B                 0.000 TIER    88650Q100      8.1700        33,209.00        259,753.72        271,317.53

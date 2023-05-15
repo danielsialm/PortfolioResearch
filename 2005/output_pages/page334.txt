@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ISHARES MSCI CANADA                          0.680     2373681      EWC          95,000.00        1,761,215.00
+ISHARES MSCI EAFE INDEX FUND                 1.866     2801290      EFA         133,700.00        7,023,084.45
+ITOCHU CORP Y50                              0.006     6467803      8001_       213,600.00        1,067,420.60
+J S GROUP CORPORATION                        0.014     6900212      5938_        59,100.00        1,079,036.09
+JAMES HARDIE INDUSTRIES NV                   0.814     6412977      JHX_A         6,074.00           29,785.05
+JAPAN AIRLINES SYSTEM CORP                   0.010     6544933      9205_       191,000.00          535,050.09
+JAPAN TOBACCO INC                            0.006     6474535      2914_            98.00        1,157,134.76
+JFE HOLDINGS INC                             0.021     6543792      5411_        59,300.00        1,031,588.91
+JOHNSON ELECTRIC HLDINGS                     0.034     6281939      179_H       139,800.00          138,151.04
+JOYO BANK Y50                                0.007     6479767      8333_       195,000.00        1,082,568.74
+KAMIGUMI CO Y50                              0.006     6482668      9364_        70,000.00          537,027.35
+KANSAI ELEC POWER                            0.016     6483489      9503_        96,000.00        1,471,484.53
+KBC GROUP                                    2.069     4497749      KBC_B        71,395.00        4,168,945.38
+KEIO ELECTRIC RAILWAY CO LTD                 0.007     6487362      9008_       149,000.00          841,692.01
+KEPPEL CORP ORD SG                           1.148     6490263      KEP_S       301,800.00        1,742,840.69
+KEPPEL LAND LIMITED                          0.821     6853468      KPLD_       226,000.00          489,120.88
+KERRY GROUP PLC-A                            0.914     4519579      KYG_I        15,008.00          320,057.03
+KEYENCE CORPORATION                          0.000     6490995      6861_           400.00           80,056.07
+KINGFISHER PLC                               7.705     3319521      KGF_L       171,612.00          754,489.74
+KINGSPAN GROUP                               1.179     4491235      KSP_I         8,610.00           59,214.30
+KIRIN BREWERY CO C                           0.008     6493745      2503_        99,500.00          866,424.77
+KLEPIERRE                                    3.420     7582556      LI_FP         7,581.00          737,961.31
+KOBE STEEL                                   0.008     6496023      5406_       432,600.00        1,067,546.77
+KOMATSU Y50                                  0.006     6496584      6301_        95,100.00          527,191.92
+KONINKLIJKE AHOLD NV                         4.099     5252602      AH_NA       318,314.00        2,407,775.52
+KONINKLIJKE DSM NV                           3.418     B0HZL93      DSM_N        58,600.00        2,164,568.94
+KONINKLIJKE KRN                              5.569     5956078      KPN_N       389,234.00        3,596,141.83
+KONINKLIJKE NUMICO                           0.944     B01YC48      NUM_N        30,247.00        1,236,448.17
+KUBOTA CORP Y50                              0.007     6497509      6326_       139,000.00          718,484.45
+KYOCERA CORP JPY50                           0.009     6499260      6971_        18,100.00        1,260,534.78
+KYOWA HAKKO KOGYO                            0.010     6499550      4151_        92,000.00          674,904.71
+KYUSHU ELECTRIC POWER                        0.019     6499806      9508_       108,700.00        2,002,531.21
+L''OREAL FRF10                               1.540     4057808      OR_FP        29,663.00        2,199,036.64
+LAFARGE FF25(REGD)                           3.724     4502706      LG_FP        18,215.00        1,693,141.54
+LAGARDERE SCA FF40                           1.814     4547213      MMB_F        10,293.00          789,019.50
+LAND SECURITIES GP                           5.264     3180943      LAND_        39,714.00          574,626.48
+LEGAL + GENERAL OR                           7.175     0560399      LGEN_       443,499.00          983,867.12
+LI & FUNG LTD                                0.383     6286257      494_H        35,500.00           59,255.71
+LINDE AG                                     2.241     5740817      LIN_G        25,835.00        1,658,599.77

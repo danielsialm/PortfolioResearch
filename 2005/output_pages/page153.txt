@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 120
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+SCS TRANSPORTATION INC                     0.000 SCST    81111T102     21.2500         1,300.00         22,696.10         27,625.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     68.1000           900.00         46,127.47         61,290.00
+SEATTLE GENETICS INC                       0.000 SGEN    812578102      4.7200           100.00            511.13            472.00
+SECURITY BANK CORP                         1.116 SBKC    814047106     23.2900         1,900.00         42,204.85         44,251.00
+SELECTIVE INSURANCE GROUP                  1.657 SIGI    816300107     53.1000           200.00          5,460.04         10,620.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     18.2600           300.00          5,405.20          5,478.00
+SENIOR HOUSING PROP TRUST                  7.569 SNH     81721M109     16.9100           200.00          2,889.35          3,382.00
+SENOMYX INC                                0.000 SNMX    81724Q107     12.1200         3,700.00         60,700.35         44,844.00
+SENSIENT TECHNOLOGIES                      3.352 SXT     81725T100Q    17.9000           200.00          4,037.53          3,580.00
+SEROLOGICALS CORP                          0.000 SERO    817523103     19.7400           100.00          2,114.15          1,974.00
+SFBC INTERNATIONAL INC                     0.000 SFCC    784121105     16.0100         1,600.00         41,095.34         25,616.00
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     25.1400           200.00          3,118.62          5,028.00
+SIERRA PACIFIC RESOURCES                   6.135 SRP     826428104     13.0400         9,300.00        105,820.14        121,272.00
+SIGMATEL INC                               0.000 SGTL    82661W107     13.1000         3,000.00         77,397.99         39,300.00
+SILICON LABORATORIES                       0.000 SLAB    826919102     36.6600         2,000.00         56,471.17         73,320.00
+SILICON STORAGE TECH                       0.000 SSTI    827057100      5.0500           300.00          1,840.78          1,515.00
+SIMMONS 1ST NATL COR                       2.310 SFNC    828730200     27.7000           100.00          2,318.15          2,770.00
+SIMPSON MANUFACTURING CO                   0.880 SSD     829073105     36.3500           100.00          2,477.16          3,635.00
+SIRF TECHNOLOGY HOLDINGS                   0.000 SIRF    82967H101     29.8000           100.00          1,507.48          2,980.00
+SKECHERS U S A INC                         0.000 SKX     830566105     15.3200         3,500.00         47,765.54         53,620.00
+SKYWEST INC                                0.446 SKYW    830879102     26.8600         2,200.00         38,969.94         59,092.00
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      5.0900        15,000.00        533,121.72         76,350.00
+SMART & FINAL INC                          0.000 SMF     831683107     12.8800         3,900.00         47,659.38         50,232.00
+SOMANETICS CORP                            0.000 SMTS    834445405     32.0000           700.00         16,201.29         22,400.00
+SONIC AUTOMOTIVE INC.                      2.154 SAH     83545G102     22.2800           400.00          9,085.12          8,912.00
+SONIC SOLUTIONS                            0.000 SNIC    835460106     15.1100           800.00         16,052.96         12,088.00
+SONICWALL INC                              0.000 SNWL    835470105      7.9200         2,000.00         12,529.67         15,840.00
+SONUS NETWORKS INC                         0.000 SONS    835916107      3.7200         7,300.00         35,327.82         27,156.00
+SOTHEBY'S HOLDINGS CL-A                    0.000 BID     835898107     18.3600           100.00          1,567.94          1,836.00
+SOUND FEDERAL BANCORP INC                  1.570 SFFS    83607V104     19.1000         2,000.00         31,584.00         38,200.00
+SOURCE CORP                                0.000 SRCP    836167106     23.9800           700.00         17,152.77         16,786.00
+SOURCE INTERLINK COS INC                   0.000 SORC    836151209     11.1200           100.00          1,183.11          1,112.00
+SOUTHWEST BANCORP IN                       1.500 OKSB    844767103     20.0000           100.00          2,055.79          2,000.00
+SOUTHWEST GAS CORP                         3.106 SWX     844895102Q    26.4000           100.00          2,252.89          2,640.00
+SPECIALTY LABORATORIES                     0.000 SP      84749R100     13.0500         4,300.00         54,068.71         56,115.00
+SPECTRALINK CORP                           3.369 SLNK    847580107     11.8700           100.00          1,220.39          1,187.00
+SPEEDWAY MOTORSPORTS                       0.923 TRK     847788106     34.6700           100.00          2,725.13          3,467.00
+SPHERION CORPORATION                       0.000 SFN     848420105     10.0100         3,000.00         29,235.75         30,030.00
+SPSS INC.                                  0.000 SPSS    78462K102     30.9300           700.00         13,699.54         21,651.00

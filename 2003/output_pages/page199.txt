@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 169
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+EMERSON RADIO CORP                         0.000 MSN     291087203      3.7600        57,900.00        269,299.51        217,704.00
+ENTRUST INC                                0.000 ENTU    293848107      4.0800        50,000.00        252,984.34        204,000.00
+EPICOR SOFTWARE CORPORATION                0.000 EPIC    29426L108     12.7600        35,300.00        217,085.17        450,428.00
+ESS TECHNOLOGY                             0.000 ESST    269151106     17.0100        26,400.00        417,943.87        449,064.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     11.2000        30,800.00        218,365.58        344,960.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     27.3600        34,000.00        537,800.87        930,239.99
+GALYAN'S TRADING COMPANY                   0.000 GLYN    36458R101     12.0400        26,900.00        289,448.83        323,876.00
+GEN-PROBE INC                              0.000 GPRO    36866T103     36.4700        41,600.00        884,006.70      1,517,152.00
+GENERAL CABLE CORP                         2.454 BGC     369300108      8.1500        64,600.00        366,467.93        526,490.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     50.1300        13,200.00        546,443.15        661,716.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      5.1500        51,700.00        254,891.60        266,255.00
+GOLD BANC CORP INC                         0.853 GLDB    379907108     14.0600        51,300.00        544,842.62        721,278.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     20.2600        16,400.00        264,710.09        332,264.00
+GSI COMMERCE INC                           0.000 GSIC    36238G102      9.7610        26,200.00        173,461.39        255,738.20
+GUESS INC                                  0.000 GES     401617105     12.0700        32,100.00        425,683.40        387,447.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q    12.2000        18,400.00        188,569.97        224,480.00
+HUDSON HIGHLAND GROUP INC                  0.000 HHGP    443792106     23.8500         3,900.00         93,699.79         93,015.00
+HUDSON UNITED BANCORP                      3.247 HU      444165104     36.9500         7,900.00        270,624.50        291,905.00
+INAMED CORP                                0.000 IMDC    453235103     48.0600        11,550.00        500,109.47        555,093.00
+INCYTE CORP                                0.000 INCY    45337C102      6.8400        19,400.00        104,310.41        132,696.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106      9.6800        28,500.00        225,924.60        275,880.00
+INFOSPACE INC                              0.000 INSP    45678T201     23.0500        22,100.00        578,742.86        509,405.00
+INPUT/OUTPUT INC.                          0.000 IO      457652105      4.5100        45,500.00        256,038.50        205,205.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700        26,600.00        419,241.99        456,722.00
+INTERFACE INC                              1.085 IFSIA   458665106      5.5300        46,100.00        217,260.84        254,933.00
+INTL GAME TECHNOLOGY                       1.120 IGT     459902102     35.7000        24,700.00        633,773.65        881,790.00
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     46.9700        14,200.00        429,001.58        666,974.00
+IVAX CORP                                  0.000 IVX     465823102     23.8800        16,500.00        302,457.40        394,020.00
+JACUZZI BRANDS INC                         0.000 JJZ     469865109      7.0900        60,900.00        350,303.60        431,781.00
+JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108     16.5100        21,000.00        448,881.29        346,710.00
+JM SMUCKER CO                              2.031 SJM     832696405     45.2900        16,200.00        658,805.76        733,698.00
+JOY GLOBAL INC                             0.764 JOYG    481165108     26.1500        17,700.00        445,243.60        462,855.00
+K-SWISS INC CL-A                           0.166 KSWS    482686102     24.0600        20,000.00        352,853.80        481,200.00
+KYPHON INC                                 0.000 KYPH    501577100     24.8300        19,100.00        552,109.58        474,253.00
+LONGVIEW FIBRE CO                          0.647 LFB     543213102     12.3500        47,200.00        393,712.05        582,920.00
+MAPICS INC                                 0.000 MAPX    564910107     13.0900        11,500.00        144,325.00        150,535.00
+MARVEL ENTERPRISES I                       0.000 MVL     57383M108     29.1100        21,200.00        405,836.60        617,132.00
+MCDERMOTT INTERNATIONAL                    0.000 MDR     580037109Q    11.9500        36,900.00        235,493.44        440,955.00
+MCG CAPITAL CORP                           8.615 MCGC    58047P107     19.5000        34,700.00        532,717.77        676,650.00

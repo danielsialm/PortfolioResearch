@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 059
+ASOF02   Date 01/24/2002 Time 21:29:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 061
 
 Monthly Market Portfolio
 
@@ -7,44 +7,18 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 
 Group - COMMON STOCK
 Portfolio  - SNP       S&P 500 PASSIVE
-Instrument - COM       COMMON STOCK
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
 
-TECO ENERGY                                5.259 TE      872375100Q    26.2400        54,400.00      1,262,767.80      1,427,455.99
-TEKTRONIX, INC.                            0.000 TEK     879131100Q    25.7800        35,856.00        586,889.37        924,367.68
-TELLABS INC.                               0.000 TLAB    879664100     14.9600       159,967.00      5,133,903.56      2,393,106.31
-TEMPLE-INLAND INC.                         2.256 TIN     879868107Q    56.7300        19,254.00        974,220.02      1,092,279.41
-TENET HEALTHCARE CORP                      0.000 THC     88033G100     58.7200       127,039.00      3,317,716.74      7,459,730.08
-TERADYNE INC                               0.000 TER     880770102     30.1400        70,572.00      2,075,455.81      2,127,040.09
-TEXAS INSTRS INC                           0.321 TXN     882508104Q    28.0000       676,055.00     16,682,772.27     18,929,540.00
-TEXTRON INC.                               3.135 TXT     883203101Q    41.4600        55,154.00      2,358,213.41      2,286,684.84
-THERMO ELECTRON CORP.                      0.000 TMO     883556102     23.8600        69,345.00      1,857,601.85      1,654,571.70
-THOMAS & BETTS CORP.                       0.000 TNB     884315102Q    21.1500        22,697.00        720,559.47        480,041.55
-TIFFANY & CO                               0.508 TIF     886547108     31.4700        57,028.00      1,169,121.90      1,794,671.16
-TJX COS. INC.                              0.451 TJX     872540109Q    39.8600       106,512.00      1,589,159.55      4,245,568.32
-TMP WORLDWIDE INC                          0.000 TMPW    872941109     42.9000        43,100.00      2,551,776.95      1,848,990.00
-TORCHMARK CORP                             0.915 TMK     891027104Q    39.3300        48,489.00      1,300,212.66      1,907,072.38
-TOYS R US INC.                             0.000 TOY     892335100     20.7400        77,465.00      2,152,145.90      1,606,624.11
-TRANSOCEAN SEDCO FOREX INC.                0.354 RIG     G90078109     33.8200       124,447.00      5,014,350.56      4,208,797.55
-TRIBUNE CO                                 1.175 TRB     896047107Q    37.4300       116,280.00      2,799,737.03      4,352,360.39
-TRICON GLOBAL RESTAURANTS-WI               0.000 YUM     895953107     49.2000        56,838.00      1,309,815.96      2,796,429.59
-TRW INC.                                   1.889 TRW     872649108Q    37.0400        49,302.00      1,907,394.57      1,826,146.08
-TUPPERWARE CORPORATION                     4.571 TUP     899896104     19.2500        22,635.00        630,818.96        435,723.75
-TXU CORPORATION                            5.090 TXU     873168108Q    47.1500       103,396.00      4,011,511.69      4,875,121.40
-TYCO INT’L. LTD NEW                        0.084 TYC     902124106Q    58.9000       778,692.00     24,101,483.27     45,864,958.80
-UNILEVER UN                                1.909 UN      904784709S    57.6100       223,041.00     10,094,502.84     12,849,392.02
-UNION PACIFIC CORP.                        1.403 UNP     907818108Q    57.0000        96,867.00      4,683,975.36      5,521,419.00
-UNION PLANTERS CORP.                       4.431 UPC     908068109     45.1300        53,577.00      2,420,313.91      2,417,930.01
-UNISYS CORP.                               0.000 UIS     909214108     12.5400       124,623.00      2,864,828.28      1,562,772.42
-UNITED STATES STEEL CORP.                  2.208 X       912909108Q    18.1100        34,812.00        849,383.57        630,445.32
-UNITED TECHNOLOGIES                        1.392 UTX     913017109Q    64.6300       182,807.00      6,823,839.69     11,814,816.42
-UNITEDHEALTH GROUP INC                     0.042 UNH     91324P102A    70.7700       121,667.00      4,195,278.94      8,610,373.59
-UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     40.4600        82,038.00      2,781,598.15      3,319,257.48
-UNOCAL                                     2.217 UCL     915289102Q    36.0700        95,227.00      2,933,573.51      3,434,837.87
-UNUMPROVIDENT CORP.                        2.225 UNM     91529Y106Q    26.5100        94,434.00      3,093,349.85      2,503,445.33
-US BANCORP                                 3.583 USB     902973304     20.9300       761,480.00     14,529,330.91     15,937,776.40
-USA EDUCATION INC                          0.952 SLM     90390U102     84.0200        61,216.00      3,228,038.28      5,143,368.32
-USAIR GROUP INC.                           0.000 U       911905107      6.3400        26,582.00        813,395.37        168,529.87
-UST INC.                                   5.257 UST     902911106Q    35.0000        64,538.00      1,826,147.01      2,258,829.99
-V F CORP                                   2.460 VFC     918204108Q    39.0100        43,279.00      1,286,057.67      1,688,313.80
-VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     44.8300       156,535.00      6,232,152.70      7,017,464.07
-VERIZON COMMUNICATIONS                     3.244 VZ      92343V104Q    47.4600     1,059,442.00     45,727,083.39     50,281,117.32
+EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       161,700.00      4,531,262.07      4,863,935.97
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       105,700.00      2,280,089.93      3,034,647.00
+
+Instrument Total             2                                                       267,400.00      6,811,352.00      7,898,582.97
+
+Instrument -WARRANT   WARRANT
+
+PROGRESS ENERGY - CVO                      0.000 CPLVZ   743263AA3      0.3600        36,572.00              0.00         13,165.92
+
+Instrument Total             1                                                        36,572.00              0.00         13,165.92
+
+Portfolio Total            502                                                   111,571,405.52  3,313,618,586.18  4,228,697,115.85
+

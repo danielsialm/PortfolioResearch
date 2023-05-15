@@ -1,0 +1,26 @@
+ASOF02   Date 01/21/2005 Time 18:34:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCA       LARGE-CAP CORE ANALY
+Instrument - COM       COMMON STOCK
+
+WALGREEN CO.                               0.547 WAG     931422109Q    38.3700       538,300.00     13,093,811.44     20,654,571.00
+WASHINGTON MUTUAL INC.                     4.351 WM      939322103     42.2800       782,900.00     26,663,337.65     33,101,012.00
+WASTE MANAGEMENT INC.                      2.505 WMI     94106L109     29.9400       418,700.00     13,193,507.51     12,535,878.00
+WELLS FARGO COMPANY                        3.089 WFC     949746101     62.1500       847,826.00     25,898,972.14     52,692,385.90
+WEYERHAEUSER CO.                           2.380 WY      962166104Q    67.2200       564,300.00     33,841,555.10     37,932,246.00
+WRIGLEY WM JR CO                           1.358 WWY     982526105Q    69.1900       110,000.00      6,768,251.50      7,610,900.00
+WYETH                                      2.160 WYE     983024100Q    42.5900       989,800.00     37,686,557.49     42,155,582.00
+XILINX INC                                 0.674 XLNX    983919101     29.6500       142,400.00      4,577,147.13      4,222,160.00
+YAHOO INC                                  0.000 YHOO    984332106     37.6800       761,000.00     21,536,097.36     28,674,480.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     80.1200       177,000.00      7,362,207.31     14,181,240.00
+
+Instrument Total           166                                                   171,954,555.32  5,049,193,688.75  6,312,262,504.65
+
+Portfolio Total            166                                                   171,954,555.32  5,049,193,688.75  6,312,262,504.65
+

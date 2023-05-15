@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 164
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+FLIR SYSTEMS INC                           0.000 FLIR    302445101     36.5000        17,110.00        504,744.98        624,515.00
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     23.3000        12,625.00        290,805.06        294,162.50
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     27.5000        21,540.00        588,557.98        592,350.00
+GABELLI ASSET MGMT I                       0.050 GBL     36239Y102     39.8000        14,455.00        533,334.03        575,309.00
+GAYLORD ENTMT CO NEW                       0.000 GET     367905106     29.8500        28,730.00        775,985.40        857,590.50
+GETTY IMAGES INC.                          0.000 GYI     374276103     50.1300        17,785.00        729,151.04        891,562.05
+GLOBAL PAYMENTS INC-W/I                    0.339 GPN     37940X102     47.1200        21,990.00        794,256.92      1,036,168.80
+GRAY TELEVISION INC                        0.529 GTN     389375106     15.1200        74,425.00        918,199.29      1,125,306.00
+GROUP 1 SOFTWARE INC                       0.000 GSOF    39943Y103     17.6200        20,455.00        370,378.45        360,417.10
+GTECH HOLDINGS CORP                        1.374 GTK     400518106     49.4900        26,800.00      1,040,282.49      1,326,332.00
+GULF ISLAND FABRICAT                       0.000 GIFI    402307102     17.0300        44,100.00        756,327.14        751,023.00
+IDEX CORPORATION                           1.346 IEX     45167R104     41.5900        17,200.00        705,086.55        715,348.00
+INAMED CORP                                0.000 IMDC    453235103     48.0600         7,697.00        350,506.84        369,917.83
+INFORMATION HOLDINGS INC.                  0.000 IHI     456727106     22.1000        13,400.00        241,405.33        296,140.00
+INGRAM MICRO INC CL A                      0.000 IM      457153104     15.9000        37,070.00        590,481.65        589,413.00
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     16.5600        51,700.00        878,552.99        856,152.00
+INTERGRAPH CORP.                           0.000 INGR    458683109     23.9200        33,730.00        755,745.70        806,821.60
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     22.1600        12,340.00        276,769.43        273,454.40
+INVERESK RESEARCH GROUP INC.               0.000 IRGI    461238107     24.7300        12,300.00        257,785.86        304,179.00
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    14.3200        41,900.00        534,516.35        600,008.00
+KERZNER INTERNATIONAL LTD                  0.000 KZL     P6065Y107     38.9600        15,300.00        491,912.45        596,088.00
+LANDSTAR SYSTEM INC.                       0.000 LSTR    515098101     38.0400        15,765.00        550,063.05        599,700.60
+LEUCADIA NATIONAL CORP                     0.542 LUK     527288104     46.1000        13,520.00        522,009.96        623,272.00
+LIBERTY CORP S C                           2.124 LC      530370105     45.1900        12,220.00        525,898.16        552,221.80
+LIONS GATE ENTERTAINMENT CORP              0.000 LGF     535919203      4.4800       154,485.00        356,285.14        692,092.80
+MARTEK BIOSCIENCES CORP                    0.000 MATK    572901106     64.9700         4,695.00        271,447.16        305,034.15
+MEDIWARE INFORMATION SYSTEMS               0.000 MEDW    584946107     15.9600        10,375.00        148,290.92        165,585.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106     14.5400        32,425.00        500,834.13        471,459.50
+MERIDIAN BIOSCIENCE INC                    3.451 VIVO    589584101     10.4300        41,535.00        420,755.64        433,210.05
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     43.3600        20,470.00        720,560.02        887,579.20
+MINE SAFETY APPLIANCES CO                  1.006 MSA     602720104     79.5100         3,665.00        170,693.49        291,404.16
+MOOG INC. CL A                             0.000 MOG.A   615394202     49.4000         9,345.00        331,313.04        461,643.00
+MYKROLIS CORP                              0.000 MYK     62852P103     16.0800        22,500.00        339,949.36        361,800.00
+NDC HEALTH CORP                            0.624 NDC     639480102     25.6200        21,925.00        517,772.32        561,718.50
+NETRATINGS INC                             0.000 NTRT    64116M108     11.4300        27,675.00        281,798.69        316,325.25
+NEXTEL PARTNERS INC                        0.000 NXTP    65333F107     13.4500        44,750.00        361,482.63        601,887.50
+NII HOLDINGS INC                           0.000 NIHD    62913F201     74.6300         7,085.00        488,049.21        528,753.55
+NORDSON CORP                               1.795 NDSN    655663102     34.5300        16,790.00        490,502.39        579,758.70
+ORTHOFIX INTERNATIONAL N.V.                0.000 OFIX    N6748L102     48.9800        12,995.00        472,691.54        636,495.10

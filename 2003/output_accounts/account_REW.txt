@@ -1,0 +1,44 @@
+Instrument - A         APARTMENT
+
+CHARTER APARTMENTS             ORANGE COUNTY CA                7.880         RCHART                 31,433,300.00     64,000,000.00
+ELLIOTT BAY PLAZA              SEATTLE WA                      5.960         RELBAY                 19,587,164.88     26,400,000.00
+HEIGHTS AT BEAR CREEK          SEATTLE, WA                     0.077         RHBCRK                 29,581,086.92     23,000,000.00
+OVERLOOK APARTMENTS            SAN DIEGO CA                    7.720         ROVRLK                 23,534,580.00     46,200,000.00
+RELATED - THE PARAMOUNT        SAN FRANCISCO  CA               0.000         RMISSN                          0.01     15,300,000.00
+
+Instrument Total             5                                                                     104,136,131.81    174,900,000.00
+
+Instrument -I      INDUSTRIAL
+
+FLEMING BUSINESS PARK          SAN JOSE CA                     6.900         RFLMNG                 45,943,997.27     35,244,185.54
+NORTH COUNTY CORP.CENTER       VISTA,CA                        0.000         RNCCCT                 31,259,824.07     29,699,999.90
+THOROUGHBRED PHASE 1           RIVERSIDE CA                    9.200         RTHORO                 18,000,000.00     21,500,000.00
+THOROUGHBRED PHASE 2           RIVERSIDE CA                    0.000         RTHOR2                 19,070,686.00     21,500,000.01
+THOROUGHBRED PHASE III         RIVERSIDE, CA                   0.000         RTHOR3                 19,414,595.69     21,800,000.00
+
+Instrument Total             5                                                                     133,689,103.03    129,744,185.45
+
+Instrument -O      OFFICE
+
+2030 MAIN STREET               IRVINE, CA                      0.000         RMAINS                 89,848,635.63     72,400,000.00
+44 MONTGOMERY                  SAN FRANCISCO CA                7.080         RMON44                 27,638,268.23     60,900,000.00
+900 E. HAMILTON AVE.           CAMPBELL CA                     0.000         RHMLTN                 87,179,191.99     67,900,000.01
+CALIFORNIA CASUALTY CENTER     SAN FRANSISCO, CA               0.000         RCACAS                 66,422,311.54     48,500,000.01
+DOUGLAS EMMETT REALTY FUND     LOS ANGELES CA                  7.000         RDERF1                  8,066,426.66     23,701,000.01
+GLENDALE CITY CENTER           GLENDALE, CA                    2.215         RGLNDC                 94,012,412.00     77,200,000.00
+MARINA VILLAGE                 SAN FRANCISCO CA               10.000         RMNAVL                 39,231,466.11     58,800,000.00
+OAKLAND CITY CENTER            OAKLAND, CA                     7.900         ROAKCC                 68,413,724.83     80,769,397.04
+ONE CALIFORNIA                 SAN FRANCISCO CA               11.030         RONECA                 42,794,517.64     62,700,000.01
+THE SUMMIT                     ALISO VIEJO, CA                 0.000         RSUMIT                107,218,125.00     78,400,000.00
+
+Instrument Total            10                                                                     630,825,079.63    631,270,397.08
+
+Instrument -R      RETAIL
+
+ANAHEIM HILLS                  ANAHEIM                         9.000         RANAHL                 52,321,063.81     58,000,000.01
+CLAIREMONT SQ. SHOP. CTR.      SAN DIEGO                       9.800         RCMSQ1                 52,686,112.41     64,800,000.01
+
+Instrument Total             2                                                                     105,007,176.22    122,800,000.02
+
+Portfolio Total             22                                                                     973,657,490.69  1,058,714,582.55
+

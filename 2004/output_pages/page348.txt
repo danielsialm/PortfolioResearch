@@ -1,0 +1,28 @@
+ASOF11   Date 01/21/2005 Time 18:35:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ZURICH FINANCIAL SERVICES CHF10              1.159     5983816      ZURN_         3,865.00          614,026.31
+
+Instrument Total             424                                             56,738,924.02      567,357,874.61
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   27,704.04        2,770,404.29
+
+Instrument Total               1                                                 27,704.04        2,770,404.29
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP              964.940     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              427                                             57,007,724.06      574,346,713.90        718,875,648.20

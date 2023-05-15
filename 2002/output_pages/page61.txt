@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+FEI COMPANY                                0.000 FEIC    30241L109     15.2900        61,000.00      1,697,864.63        932,689.99
+FERRO CORP                                 2.374 FOE     315405100Q    24.4300        78,000.00      2,094,456.84      1,905,540.00
+FIDELITY NATIONAL FINL INC                 1.462 FNF     316326107     32.8300       154,000.00      3,145,514.89      5,055,820.00
+FIRST VIRGINIA BANKS INC                   3.008 FVB     337477103     37.2300       106,500.00      3,163,187.56      3,964,995.00
+FIRSTMERIT CORPORATION                     4.616 FMER    337915102     21.6600       175,000.00      3,254,363.38      3,790,500.00
+FLOWSERVE CORP.                            0.000 FLS     34354P105Q    14.7900        56,000.00      1,079,184.09        828,240.00
+FMC CORP.                                  0.000 FMC     302491303     27.3200        66,000.00      1,955,699.74      1,803,120.00
+FOREST OIL CORP.                           0.000 FST     346091705     27.6500        87,000.00      2,300,675.16      2,405,550.00
+FULLER H B CO                              1.700 FUL     359694106Q    25.8800        27,000.00        678,775.10        698,760.00
+FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     23.8500       130,000.00      2,495,932.39      3,100,500.00
+GATX CORP                                  5.609 GMT     361448103     22.8200       160,000.00      6,036,423.53      3,651,200.00
+GEMSTAR-TV GUIDE INTL INC                  0.000 GMSTE   36866W106      3.2500       325,000.00      3,295,651.20      1,056,250.00
+GLATFELTER                                 5.319 GLT     377316104     13.1600        80,000.00      1,098,241.88      1,052,800.00
+GOODYEAR T & R                             7.048 GT      382550101Q     6.8100       100,000.00        896,670.25        681,000.00
+GRANITE CONSTRUCTION INC                   2.064 GVA     387328107     15.5000        77,000.00      1,480,533.76      1,193,500.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     11.6400       287,000.00      3,147,782.56      3,340,680.00
+GREAT PLAINS ENERGY INC                    7.255 GXP     391164100     22.8800       137,500.00      3,311,395.09      3,146,000.00
+GREATER BAY BANCORP                        2.891 GBBK    391648102     17.2900       118,000.00      2,720,874.80      2,040,220.00
+GREENPOINT FINANCIAL                       2.213 GPT     395384100     45.1800       168,000.00      5,686,333.73      7,590,240.00
+GREIF BROS. CORP. CL A                     2.352 GEF     397624107     23.8000        40,000.00      1,202,770.61        952,000.00
+GULFMARK OFFSHORE INC                      0.000 GMRK    402629109     14.7500        42,000.00        612,307.37        619,500.00
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105      9.1800       300,000.00      7,248,884.62      2,754,000.00
+HARRIS CORP.                               1.216 HRS     413875105Q    26.3000       141,000.00      4,399,043.11      3,708,300.00
+HARSCO CORP                                3.292 HSC     415864107Q    31.8900        95,000.00      2,218,707.53      3,029,550.00
+HAWAIIAN ELECTRIC INDS                     5.638 HE      419870100     43.9800        15,000.00        549,056.03        659,700.00
+HCC INSURANCE HOLDINGS INC.                1.056 HCC     404132102     24.6000       102,000.00      2,476,337.69      2,509,200.00
+HELMERICH & PAYNE, INC                     1.146 HP      423452101Q    27.9100        87,000.00      2,014,268.41      2,428,170.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     45.0000        83,000.00      3,505,875.97      3,735,000.00
+HIBERNIA CORP CL-A                         3.115 HIB     428656102     19.2600       258,000.00      3,147,262.20      4,969,080.00
+HISPANIC BROADCASTING A                    0.000 HSP     43357B104     20.5500       109,000.00      3,191,046.45      2,239,950.00
+HORACE MANN EDUCATORS                      2.739 HMN     440327104Q    15.3300       150,000.00      2,171,005.84      2,299,500.00
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     29.3000        55,000.00      1,165,569.58      1,611,500.00
+ICN PHARMACEUTICALS                        2.841 ICN     448924100Q    10.9100       219,000.00      4,727,514.58      2,389,290.00
+IDACORP, INC.                              7.490 IDA     451107106     24.8300        60,000.00      2,819,125.42      1,489,800.00
+IMATION CORP                               0.000 IMN     45245A107     35.0800        44,000.00        963,503.71      1,543,520.00
+INCYTE GENOMICS, INC.                      0.000 INCY    45337C102      4.5600       122,000.00      1,945,636.68        556,320.00
+INDEPENDENCE COMMUNITY BANK                2.206 ICBC    453414104     25.3800        87,000.00      1,986,563.99      2,208,060.00
+INDYMAC BANCORP INC                        0.000 NDE     456607100     18.4900        88,000.00      2,371,357.78      1,627,120.00
+INFOCUS CORPORATION                        0.000 INFS    45665B106      6.1600       128,000.00      1,958,725.77        788,480.00

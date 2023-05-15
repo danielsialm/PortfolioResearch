@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 097
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 4TR       MID-CAP GROWTH TRANS
+Instrument - COM       COMMON STOCK
+
+CINTAS CORP                                0.661 CTAS    172908105     43.8600       147,000.00      5,837,936.54      6,447,420.00
+CITADEL BROADCASTING CORP                  0.000 CDL     17285T106     16.1800        42,200.00        612,955.00        682,796.00
+CLAIRE'S STORES INC                        1.694 CLE     179584107     21.2500       136,400.00      2,529,821.87      2,898,500.00
+COGNIZANT TECH SOLUTIONS CORP              0.000 CTSH    192446102     42.3300       181,700.00      2,961,077.47      7,691,361.00
+COMVERSE TECHNOLOGY INC.                   0.000 CMVT    205862402     24.4500       148,900.00      3,080,856.79      3,640,605.00
+CONEXANT SYSTEMS INC.                      0.000 CNXT    207142100      1.9900       796,600.00      2,940,341.63      1,585,234.00
+COPART INC                                 0.000 CPRT    217204106     26.3200        26,000.00        592,043.16        684,320.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     18.8450        41,800.00        936,232.54        787,721.00
+COVANCE INC                                0.000 CVD     222816100     38.7500        46,700.00      1,514,135.84      1,809,625.00
+COX RADIO INC                              0.000 CXR     224051102     16.4800        32,300.00        646,631.71        532,304.00
+CREE INC                                   0.000 CREE    225447101     40.0800       106,500.00      2,359,669.16      4,268,520.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     11.7300       257,500.00      3,166,374.77      3,020,475.00
+D.R. HORTON INC.                           0.893 DHI     23331A109     40.3100        81,300.00      1,959,024.00      3,277,203.00
+DADE BEHRING HOLDINGS INC                  0.000 DADE    23342J206     56.0000        24,200.00        984,659.89      1,355,200.00
+DENTSPLY INTERNATIONAL INC.                0.427 XRAY    249030107Q    56.2000        84,700.00      3,411,192.27      4,760,140.00
+DOLLAR TREE STORES INC                     0.000 DLTR    256747106     28.6800       148,900.00      4,223,739.55      4,270,452.00
+DONALDSON CO INC                           0.736 DCI     257651109     32.5800        40,000.00        697,455.00      1,303,200.00
+DOVER CORP.                                1.526 DOV     260003108Q    41.9400       119,300.00      4,187,116.65      5,003,442.00
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     59.6500        53,300.00      2,215,384.60      3,179,345.00
+ENDO PHARMACEUTICALS                       0.000 ENDP    29264F205     21.0200       134,000.00      2,626,894.78      2,816,680.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     49.6900        57,700.00      2,305,356.20      2,867,113.00
+EON LABS INC                               0.000 ELAB    29412E100     27.0000        26,900.00        640,805.92        726,300.00
+ESTEE LAUDER CO.                           0.873 EL      518439104     45.7700       179,100.00      7,194,032.47      8,197,407.00
+EXPEDITORS INT'L. WASH INC.                0.393 EXPD    302130109     55.8800        60,100.00      1,364,933.79      3,358,388.00
+FAIR ISAAC INC.                            0.218 FIC     303250104     36.6800        56,200.00      1,530,205.59      2,061,416.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     16.2600       153,400.00      2,599,003.77      2,494,284.00
+FAMILY DOLLAR STORES                       1.088 FDO     307000109Q    31.2300        60,700.00      1,707,161.20      1,895,661.00
+FLIR SYSTEMS INC                           0.000 FLIR    302445101     63.7900        10,700.00        483,977.48        682,553.00
+FLUOR CORP                                 1.174 FLR     343412102     54.5100        49,200.00      1,847,595.64      2,681,892.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     13.1600        99,500.00      1,624,786.24      1,309,420.00
+FREEPORT MCMORAN CLASS B                   2.615 FCX     35671D857     38.2300        61,400.00      1,727,091.92      2,347,322.00
+FRIEDMAN BILLINGS RAMSEY -A                7.013 FBR     358434108     19.3900       187,200.00      3,476,994.71      3,629,808.00
+GEN-PROBE INC                              0.000 GPRO    36866T103     45.2100        40,700.00      1,344,198.90      1,840,047.00
+GLOBAL PAYMENTS INC                        0.273 GPN     37940X102     58.5400        31,600.00        904,021.40      1,849,864.00
+GTECH HOLDINGS CORP                        1.310 GTK     400518106     25.9500       202,000.00      4,168,049.61      5,241,900.00
+HARSCO CORP                                2.152 HSC     415864107Q    55.7400        13,000.00        328,026.58        724,620.00
+HARTE-HANKS INC.                           0.615 HHS     416196103     25.9800        83,000.00      1,498,493.89      2,156,340.00
+HEALTH MGMT ASSOCIATES CL A                0.704 HMA     421933102     22.7200       176,000.00      3,383,209.75      3,998,720.00
+HENRY (JACK) & ASSOCIATES                  0.803 JKHY    426281101     19.9100        70,900.00      1,074,544.88      1,411,619.00

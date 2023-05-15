@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 044
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SAMSUNG ELEC MECH                            0.001     6771689      00915        55,000.00        1,695,178.85
+SAMSUNG ELECTRONIC                           0.000     6771720      00593        32,000.00        6,691,835.26
+SAMSUNG FIRE + MAR                           0.001     6155250      00081        15,000.00          465,814.89
+SAMSUNG HEAVY INDUSTRIES                     0.001     6772217      01014       180,000.00          549,160.23
+SANLAM LTD ORD ZAR                           0.519     B0L6750      SLM_S     1,200,000.00        1,786,025.55
+SAPPI ZARI(SICOVAM                           0.065     6777007      SAP_S       120,000.00        1,553,772.41
+SASOL NPV                                    0.376     6777450      SOL_S       160,000.00        1,688,993.42
+SATYAM COMPUTER SERVICES                     0.015     6241858      SCS_I        80,000.00          212,219.92
+SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       141,500.00          157,456.59
+SHINHAN FINANCIAL GROUP LTD                  0.001     6397502      05555        90,000.00        1,454,172.40
+SIAM COMMERCIAL BK                           0.093     6889935      68899       532,700.00          484,098.27
+SIME DARBY BERHAD                            1.118     6808769      SDY_M       510,000.00          741,122.35
+SINOPAC HOLDINGS                             0.169     6525875      2890_     3,089,068.00        1,280,332.26
+SINOTRANS LTD                                0.246     6579010      598_H     2,500,000.00          801,509.24
+SK TELECOM CO LTD                            0.005     6224871      01767        14,000.00        2,298,980.00
+SPAR GROUP LTD                               0.481     B038WK4      SPP_S       245,000.00          794,877.33
+STANDARD BANK GROUP                          0.630     B030GJ7      SBK_S       480,000.00        1,699,290.01
+STATE BK OF INDIA GDR                        1.097     5131091      SBID_        16,000.00          221,929.50
+SUN PHARMACEUTICAL INDUSTRIES                0.012     6582483      SUNP_        28,000.00           87,109.84
+SUN PHARMACEUTICAL NPV - PREFERRED           5.822     6581145      SUNPI        28,000.00                0.00
+SUNPLUS TECHNOLOGY CO                        0.138     6084503      2401_       839,718.00        1,001,810.32
+SURGUTNEFTEGAS PREFERRED                    68.279     5005884      SNGSP     1,250,000.00          501,746.25
+SURGUTNEFTEGAZ-$US                          36.697     4851732      SNGS_       972,587.00          388,992.03
+T IS BANKASI SER C                           0.667     B03MYS8      ISCTR       140,000.00          254,774.43
+T.GARANTI BANASI T                           0.000     B03MYP5      GARAN       306,554.50          184,603.62
+TAIWAN MOBILE CO. LTD                        0.262     6290496      3045_     2,478,431.00        2,414,987.84
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.092     6889106      27933     3,500,864.00        4,813,452.39
+TANJONG PLC                                  1.350     B0B8SB9      TJN_M       167,377.00          288,511.52
+TATA MOTORS LTD                              0.034     6101509      TTMT_        64,000.00           94,712.56
+TCL INTL HLDGS                               0.460     6193788      1070_     4,000,000.00          744,092.51
+TELE NORTE LESTE PART                        0.930     B02PDQ9      TNLP3        60,000.00          720,853.70
+TELEFONOS DE MEXIC                           0.271     2881689      TELME     2,400,000.00        1,951,763.60
+TELEFONOS DE MEXICO SA-SER A                 0.272     2881731      TELME     1,270,000.00          736,559.19
+TELEKOM MALAYSIA                             0.831     6868398      T_MK        425,000.00        1,301,365.79
+TELEKOMUNIKAYA POL                           0.433     5552551      TPS_P       325,000.00        1,329,479.27
+TELKOM SOUTH AFRICA LTD                      0.468     6588577      TKG_S       192,000.00        1,841,783.96
+TENARIS SA                                   0.156     2172402      TS_AF       150,000.00          297,640.32
+TEVA PHARMA IND IL                           0.129     6882172      TEVA_       120,000.00        1,340,788.65
+THAI UNION FROZEN PROD-FOREI                 0.115     6422716      64227       189,130.00           54,636.18

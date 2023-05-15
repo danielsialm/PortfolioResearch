@@ -1,0 +1,35 @@
+ASOF03   Date 01/19/2006 Time 18:25:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REI       RE INTERNATIONAL
+Instrument - F         FORWARD CONTRACTS
+
+FORWARD EUR EXP 3/29/06                                        0.000         FWDEUR3_2                       0.00      8,484,569.80
+
+Instrument Total             1                                                                               0.00      8,484,569.80
+
+Instrument -I      INTERNATIONAL
+
+BLACKSTONE EUROPEAN FUND       MISC W EUROPE                   0.000         RBKSTN                 33,169,915.26     32,100,033.01
+CARLYLE ASIA REAL ESTATE PARTN ASIA                            0.000         RCAREP                  1,746,990.00      1,746,990.00
+DOUGHTY HANSON & CO EUROPEAN   MISC EUROPE                     0.000         RDGHTY                 31,459,063.69     25,632,586.00
+EUROPA-INTERNATIONAL           MISC EUROPE                     0.000         REUROP                 24,532,186.94     26,193,814.83
+LASALLE ASIA OPPORTUNITY FUND  ASIA                            0.000         RLSAR2                  2,194,718.00      4,736,317.00
+LASALLE ASIA RECOVERY FUND     ASIA                            0.000         RLSARF                 37,543,849.87     41,612,649.00
+ORION EUROPEAN REAL ESTATE FUN MISC EUROPE                     0.000         RORION                 18,126,843.95     45,548,099.99
+PRUDENTIAL PROP. PRTNRS.-INT'L EUROPE                          0.000         RPRUDE                  9,414,931.03     11,396,322.04
+Real Estate - LIQUIDITY RESERV                                 0.000         IL-REI                          0.25              0.25
+SOROS RE INVST-INT'L           MISC EUROPE                     0.000         RSOROS                 29,352,827.61     32,103,915.00
+WESTBROOK FRENCH PORTFOLIO     MISC US                         0.000         RWSTBF                 16,346,629.91     32,444,422.00
+WESTBROOK V                                                    0.000         RWBPTR                 38,836,178.98     42,173,755.00
+
+Instrument Total            12                                                                     242,724,135.49    295,688,904.12
+
+Portfolio Total             13                                                                     242,724,135.49    304,173,473.92
+
+Group Total                214                              2,959,635,274.70 /    12,824,354.00  3,181,148,518.92  5,069,041,208.85

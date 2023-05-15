@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 177
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     16.2600        14,400.00        165,648.50        234,144.00
+PARK ELECTROCHEMICAL CORP.                 0.906 PKE     700416209     26.4900        11,500.00        266,491.93        304,635.00
+PARK NATL CORP                             3.110 PRK     700658107    113.1500         1,400.00        149,447.34        158,410.00
+PARKER DRILLING CO                         0.000 PKD     701081101      2.5500        85,600.00        233,592.28        218,280.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101      7.6000        13,050.00         91,833.55         99,180.00
+PEMSTAR INC                                0.000 PMTR    706552106      3.2900         2,600.00          9,195.68          8,554.00
+PENN-AMERICA GROUP INC                     1.620 PNG     707247102     13.2700         8,800.00        131,916.00        116,776.00
+PEOPLES BANCORP INC                        2.439 PEBO    709789101     29.5100         2,730.00         66,183.00         80,562.30
+PETROLEUM DEVELOPMENT CORP                 0.000 PETD    716578109     23.7000        14,000.00        131,684.00        331,800.00
+PETROQUEST ENERGY INC                      0.000 PQUE    716748108      3.1200        21,600.00         58,248.72         67,392.00
+PFF BANCORP INC                            1.764 PFB     69331W104     36.2800         1,400.00         39,806.00         50,792.00
+PHILLIPS-VAN HEUSEN                        0.845 PVH     718592108     17.7400        24,400.00        326,056.12        432,856.00
+PLEXUS CORP                                0.000 PLXS    729132100     17.1700        15,700.00        258,748.38        269,569.00
+POLO RALPH LAUREN CORP                     0.694 RL      731572103     28.8000         6,300.00        162,744.12        181,440.00
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200        12,000.00        188,510.91        234,240.00
+POMEROY COMPUTER RESOURCES                 0.000 PMRY    731822102     14.7400         9,700.00        102,706.52        142,978.00
+POWELL INDS INC                            0.000 POWL    739128106     19.1500         3,400.00         55,241.50         65,110.00
+PRAECIS PHARMACEUTICALS INC                0.000 PRCS    739421105      6.4400        35,500.00        162,521.73        228,620.00
+PRESIDENTIAL LIFE                          3.039 PLFE    740884101     13.1600         2,100.00         28,808.27         27,636.00
+PRG-SCHULTZ INTL INC                       0.000 PRGX    69357C107      4.9000        32,717.00        160,506.30        160,313.30
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC  IT-JAC         1.0000       249,631.92        249,631.92        249,631.92
+PROVIDENT BANKSHARES CORPORATI             3.260 PBKS    743859100     29.4400        15,750.00        328,166.88        463,680.00
+PROVINCE HEALTHCARE COMPANY                0.000 PRV     743977100     16.0000        44,500.00        476,290.51        712,000.00
+R & G FINANCIAL CORP CL-B                  1.231 RGF     749136107     39.8000        13,000.00        284,450.52        517,400.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     16.8600        39,500.00        715,071.50        665,970.00
+RAILAMERICA INC                            0.000 RRA     750753105     11.8000        26,300.00        293,178.91        310,340.00
+REGAL BELOIT                               2.181 RBC     758750103     22.0000         6,800.00        108,909.48        149,600.00
+RELIANCE STEEL & ALUMINUM                  0.722 RS      759509102     33.2100        10,500.00        280,852.56        348,705.00
+REX STORES CORP                            0.000 RSC     761624105     14.1600         6,400.00         80,282.48         90,624.00
+ROBERT MONDAVI CORP-CL A                   0.000 MOND    609200100     38.8400         1,534.00         48,938.66         59,580.56
+RUSSELL CORP                               0.911 RML     782352108Q    17.5600        31,600.00        557,780.86        554,896.00
+S Y BANCORP INC                            1.556 SYI     785060104     20.5600         3,600.00         71,183.70         74,016.00
+S1 CORPORATION                             0.000 SONE    78463B101      8.0500       106,122.00        901,767.40        854,282.10
+SAFETY INSURANCE GROUP INC                 2.337 SAFT    78648T100     17.1100         4,100.00         66,087.08         70,151.00
+SANDERSON FARMS INC                        1.191 SAFM    800013104     40.3000         7,600.00        273,425.20        306,280.00
+SANMINA-SCI CORP                           0.000 SANM    800907107     12.6100         6,800.00         84,751.80         85,748.00
+SANTANDER BANCORP                          1.807 SBP     802809103     24.3500         4,300.00        101,516.83        104,705.00
+SAUER-DANFOSS INC                          1.728 SHS     804137107     16.2000         3,800.00         40,983.00         61,560.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.7100         9,000.00         77,645.00        132,390.00

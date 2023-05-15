@@ -1,0 +1,17 @@
+ASOF03   Date 01/19/2006 Time 18:25:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REO       RE OTHER
+Instrument - I         INDUSTRIAL
+
+PROLOGIS PORTFOLIO             MISC  US                        0.000         RPRLOG                 75,137,388.40    115,000,000.00
+
+Instrument Total             1                                                                      75,137,388.40    115,000,000.00
+
+Portfolio Total              1                                                                      75,137,388.40    115,000,000.00
+

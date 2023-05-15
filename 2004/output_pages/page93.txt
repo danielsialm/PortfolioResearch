@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 061
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      1.8000       233,400.00        600,518.94        420,120.00
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      8.3500        79,900.00        712,262.90        667,165.00
+ENZO BIOCHEM INC.                          0.000 ENZ     294100102     19.4700        28,140.00        411,408.79        547,885.80
+ENZON PHARMACEUTICALS INC                  0.000 ENZN    293904108     13.7200        48,700.00        614,985.54        668,164.00
+EPICOR SOFTWARE CORPORATION                0.000 EPIC    29426L108     14.0900        46,164.00        459,636.75        650,450.76
+EPIQ SYSTEMS INC                           0.000 EPIQ    26882D109     14.6400        15,200.00        247,287.64        222,528.00
+EPIX PHARMACEUTICALS INC                   0.000 EPIX    26881Q101     17.9100        25,300.00        501,255.82        453,123.00
+EQUINIX INC                                0.000 EQIX    29444U502     42.7400         3,500.00        111,610.60        149,590.00
+ERESEARCH TECHNOLOGY                       0.000 ERES    29481V108     15.8500        49,400.00        737,835.43        782,990.00
+ESCALADE INC                               0.898 ESCA    296056104     13.3600         8,700.00        135,142.96        116,232.00
+ESCO TECHNOLOGIES INC                      0.000 ESE     296315104     76.6500        17,400.00        860,555.96      1,333,710.00
+ESPEED INC                                 0.000 ESPD    296643109     12.3700         3,600.00         58,525.71         44,532.00
+ESS TECHNOLOGY                             0.000 ESST    269151106      7.1100        64,500.00        710,374.97        458,595.00
+ESTERLINE TECHNOLOGIES CORP                0.000 ESL     297425100     32.6500        33,800.00        790,900.60      1,103,570.00
+ETHAN ALLEN INTERIORS INC.                 1.499 ETH     297602104     40.0200        36,600.00      1,062,901.94      1,464,732.00
+EUROBANCSHARES INC                         0.000 EUBK    298716101     21.0000         9,000.00        168,157.80        189,000.00
+EURONET WORLDWIDE IN                       0.000 EEFT    298736109     26.0200        13,200.00        304,236.10        343,464.00
+EXACTECH INC                               0.000 EXAC    30064E109     18.2900         6,800.00        152,625.13        124,372.00
+EXAR CORP                                  0.000 EXAR    300645108     14.1900        45,400.00        883,640.51        644,226.00
+EXCEL TECHNOLOGY INC                       0.000 XLTC    30067T103     26.0000        13,300.00        355,792.74        345,800.00
+EXELIXIS INC                               0.000 EXEL    30161Q104      9.5000        69,981.00        615,733.85        664,819.50
+EXIDE TECHNOLOGIES                         0.000 XIDE    302051206     13.7800        35,400.00        681,548.54        487,812.00
+EXPONENT INC                               0.000 EXPO    30214U102     27.4900         7,100.00        189,097.02        195,179.00
+EXPRESSJET HOLDINGS INC                    0.000 XJT     30218U108     12.8800        41,600.00        583,163.66        535,808.00
+EXTREME NETWORKS INC                       0.000 EXTR    30226D106      6.5500        69,900.00        380,523.98        457,845.00
+F N B CORP VA                              2.679 FNBP    302930102     28.3600         8,079.00        209,128.99        229,120.44
+F5 NETWORKS INC                            0.000 FFIV    315616102     48.7200        38,300.00        872,956.48      1,865,976.00
+FACTSET RESEARCH SYSTEMS INC.              0.513 FDS     303075105     58.4400        22,600.00        798,676.89      1,320,744.00
+FALCONSTOR SOFTWARE                        0.000 FALC    306137100      9.5700         1,000.00          6,655.00          9,570.00
+FARMER BROS CO                             1.650 FARM    307675108     24.2400         7,500.00        260,839.91        181,800.00
+FARMERS CAP BK CORP                        3.203 FFKT    309562106     41.2000         6,700.00        229,258.43        276,040.00
+FARO TECHNOLOGIES INC                      0.000 FARO    311642102     31.1800           900.00         22,964.18         28,062.00
+FBL FINANCIAL GROUP INC.-CL A              1.401 FFG     30239F106     28.5500        13,800.00        343,315.55        393,990.00
+FEDERAL SIGNAL CORP                        2.265 FSS     313855108     17.6600        53,500.00      1,005,430.12        944,810.00
+FEI COMPANY                                0.000 FEIC    30241L109     21.0000        15,100.00        363,297.63        317,100.00
+FERRO CORP                                 2.501 FOE     315405100Q    23.1900        36,400.00        864,537.27        844,116.00
+FIDELITY BANKSHARES                        0.748 FFFL    31604Q107     42.7600        14,600.00        341,063.61        624,296.00
+FILENET CORP                               0.000 FILE    316869106     25.7600        45,700.00        959,156.35      1,177,232.00
+FINANCIAL FEDERAL CORP.                    1.020 FIF     317492106     39.2000        19,200.00        593,685.91        752,640.00

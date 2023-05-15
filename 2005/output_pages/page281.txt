@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 064
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SYNAPTICS INC                                0.000     87157D109   SYNA            53,900          917,179.89        1,332,408.00
+SYNIVERSE HOLDINGS INC                       0.000     87163F106   SVR            111,000        1,548,850.57        2,319,900.00
+SYNNEX CORP                                  0.000     87162W100   SNX             28,900          511,830.25          436,679.00
+SYNOPSYS INC.                                0.000     871607107   SNPS         1,028,200       20,217,135.21       20,625,692.00
+SYNOVUS FINANCIAL CORP                       2.702     87161C105   SNV            388,800       10,335,033.54       10,501,488.00
+SYNTEL INC                                   1.152     87162H103   SYNT            25,900          458,386.90          539,497.00
+SYNTROLEUM CORP.                             0.000     871630109   SYNM            11,400          167,098.44          102,942.00
+SYSCO CORP.                                  2.190     871829107 Q SYY            733,900       18,449,912.10       22,787,595.00
+SYSTEMAX INC                                 0.000     871851101   SYX             10,300           65,058.09           64,272.00
+T ROWE PRICE GROUP INC.                      1.554     74144T108 Q TROW           274,100       12,073,792.65       19,743,423.00
+T.G.C. INDUSTRIES INC.                       0.000     872417308   TGE            740,000        5,395,313.97        5,032,000.00
+TAIWAN SEMICONDUCTOR ADR                     2.351     874039100   TSM          1,750,000       14,614,910.98       17,342,503.64
+TAL INTERNATIONAL GROUP                      0.000     874083108   TAL             12,100          251,317.00          249,865.00
+TALBOTS INC                                  1.725     874161102 Q TLB            129,300        3,672,278.28        3,597,126.00
+TALEO CORP CL A                              0.000     87424N104   TLEO             7,700          107,184.00          102,256.00
+TALK AMERICA HOLDINGS INC                    0.000     87426R202   TALK           148,300        1,178,490.81        1,279,829.00
+TALX CORP                                    0.291     874918105   TALX            20,100          313,351.21          918,771.00
+TANOX INC                                    0.000     87588Q109   TNOX            35,340          588,696.64          578,515.80
+TARGET CORP                                  0.727     87612E106 Q TGT          1,347,600       40,049,850.33       74,077,572.00
+TARO PHARMACEUTICAL INDUS                    0.000     M8737E108   TARO           300,000        5,596,070.00        4,191,000.00
+TAYLOR CAPITAL GROUP INC                     0.594     876851106   TAYC           139,724        5,259,054.62        5,644,849.60
+TCF FINANCIAL CORP                           3.389     872275102   TCB            381,907       10,896,694.83       10,364,955.98
+TD BANKNORTH INC                             3.029     87235A101   BNK            247,523        7,341,260.15        7,190,543.15
+TECH DATA CORP                               0.000     878237106   TECD             1,777           64,455.73           70,511.36
+TECHNE CORPORATION                           0.000     878377100   TECH           279,700       13,448,491.56       15,705,155.00
+TECHNICAL OLYMPIC US                         0.284     878483106   TOA             37,150          835,307.75          783,493.50
+TECHNITROL INC.                              2.046     878555101   TNL             42,800          741,648.95          731,880.00
+TECHNOLOGY INVSTMT CAP CORP                  7.947     878717305   TICC            14,100          210,521.46          212,910.00
+TECO ENERGY                                  4.423     872375100 Q TE              47,000          696,248.53          807,460.00
+TECUMSEH PRODUCTS CO CL-A                    5.587     878895200   TECUA           80,654        2,662,818.86        1,847,783.14
+TEEKAY SHIPPING CORP                         1.729     Y8564W103   TK               8,282          368,057.28          330,451.80
+TEJON RANCH CO DEL                           0.000     879080109   TRC              9,200          448,110.84          367,264.00
+TEKELEC                                      0.000     879101103   TKLC           104,118        1,582,299.27        1,447,240.20
+TEKTRONIX, INC.                              0.850     879131100 Q TEK             27,900          686,585.52          787,059.00
+TELEDYNE TECHNOLOGIES INC                    0.000     879360105   TDY            157,005        3,030,347.52        4,568,845.50
+TELEFLEX INC                                 1.538     879369106 Q TFX            111,700        6,827,318.47        7,258,266.00
+TELEPHONE & DATA                             0.971     879433100   TDS             26,800          898,395.41          965,604.00
+TELEPHONE & DATA SYSTEMS-SPECIAL             1.011     879433860   TDS.S           40,800        1,302,877.73        1,412,088.00
+TELETECH HOLDINGS INC                        0.000     879939106   TTEC            37,700          295,200.26          454,285.00
+TELEWEST GLOBAL INC                          0.000     87956T107   TLWT           377,400        8,647,857.09        8,989,668.00

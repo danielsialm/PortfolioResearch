@@ -1,0 +1,55 @@
+ASOF02   Date 01/19/2006 Time 18:24:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 161
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+REGAL ENTERTAINMENT GROUP                  6.309 RGC     758766109     19.0200        61,885.00      1,193,152.08      1,177,052.70
+REGIS CORP                                 0.414 RGS     758932107     38.5700        18,275.00        696,052.82        704,866.75
+RENOVIS INC                                0.000 RNVS    759885106     15.3000         4,975.00         81,144.25         76,117.50
+RESPIRONICS INC                            0.000 RESP    761230101     37.0700        34,590.00      1,205,961.66      1,282,251.30
+RLI CORP                                   1.363 RLI     749607107     49.8700        13,275.00        466,972.10        662,024.25
+ROFIN-SINAR TECHNOLOGIES INC               0.000 RSTI    775043102     43.4700        15,335.00        521,187.21        666,612.45
+SCHAWK INC                                 0.626 SGK     806373106     20.7500        31,610.00        710,851.00        655,907.50
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     36.4400        15,270.00        528,632.65        556,438.80
+SCOTTS COMPANY                             1.105 SMG     810186106     45.2400        13,160.00        455,514.46        595,358.40
+SCP POOL CORPORATION                       0.967 POOL    784028102     37.2200         7,095.00        235,799.62        264,075.90
+SELECTIVE INSURANCE GROUP                  1.657 SIGI    816300107     53.1000         9,005.00        439,780.98        478,165.50
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     25.1400        13,970.00        368,000.01        351,205.80
+STANCORP FINANCIAL GROUP                   1.251 SFG     852891100     49.9500        24,060.00      1,026,587.85      1,201,797.00
+STANDARD REGISTER CO                       5.819 SR      853887107     15.8100        35,520.00        581,071.86        561,571.20
+TANOX INC                                  0.000 TNOX    87588Q109     16.3700         9,440.00        157,393.12        154,532.80
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.1000        39,395.00        900,624.24      1,146,394.50
+THOMAS NELSON INC                          0.811 TNM     640376109Q    24.6500        13,060.00        306,327.90        321,929.00
+THORATEC CORP                              0.000 THOR    885175307     20.6900        22,495.00        364,337.39        465,421.55
+TIMKEN CO.                                 1.873 TKR     887389104Q    32.0200        11,995.00        375,950.26        384,079.90
+TRIARC COM                                 1.911 TRY     895927101     16.7400        52,995.00        670,617.83        887,136.30
+TUESDAY MORNING CORP                       3.107 TUES    899035505     20.9200        31,115.00        768,819.38        650,925.80
+UNITED FIRE & CAS CO                       1.187 UFCS    910331107     40.4300         9,430.00        432,960.09        381,254.90
+UNIVERSAL TECHNICAL INSTITUTE              0.000 UTI     913915104     30.9400         2,470.00         76,370.81         76,421.80
+VAIL RESORTS INC                           0.000 MTN     91879Q109     33.0300        33,690.00        832,643.06      1,112,780.70
+VARIAN INC.                                0.000 VARI    922206107     39.7900         8,665.00        349,028.20        344,780.35
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     43.9300        14,015.00        561,232.38        615,678.96
+WARWICK VALLEY TELEPHONE CO                4.190 WWVY    936750108     19.0900         7,765.00        194,822.61        148,233.85
+WASTE CONNECTIONS INC                      0.000 WCN     941053100     34.4600        34,207.00      1,021,208.30      1,178,773.22
+WESTWOOD ONE                               2.454 WON     961815107     16.3000        53,190.00        933,971.02        866,997.00
+WHITING PETROLEUM CORP                     0.000 WLL     966387102     40.0000         8,860.00        371,740.12        354,400.00
+WILEY JOHN & SONS IN                       0.922 JW.A    968223206     39.0400        23,860.00        798,839.69        931,494.40
+WILLBROS GROUP INC                         0.000 WG      969199108     14.4400        26,750.00        388,623.88        386,270.00
+WOODWARD GOVERNOR CO.                      1.395 WGOV    980745103     86.0100         1,720.00        145,884.30        147,937.20
+
+Instrument Total           111                                                     3,362,564.09     66,154,265.78     76,751,161.98
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+DEERFIELD TRIARC CAPITAL CORP             10.219 DFR     244572301     13.7000        22,850.00        318,307.54        313,045.00
+
+Instrument Total             1                                                        22,850.00        318,307.54        313,045.00
+
+Portfolio Total            112                                                     3,385,414.09     66,472,573.32     77,064,206.98
+

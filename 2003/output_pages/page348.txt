@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+BILLITON PLC                                58.399     0056650      BLT_L       180,584.00          875,245.02
+BIOVAIL CORPORATION                          0.000     2098199      BVF_C        20,600.00          908,299.58
+BNP PARIBAS                                 30.824     7309681      BNP_F        56,368.00        2,838,479.49
+BOC GROUP GBP0.25                            8.180     0108120      BOC_L        28,598.00          414,451.86
+BOOTS GROUP PLC                              7.513     3231078      BOOT_        60,549.00          574,313.01
+BOUYGUES                                     6.585     4002121      EN_FP         8,614.00          275,371.15
+BP AMOCO                                    62.619     0798059      BP/_L     1,531,245.00       11,045,104.42
+BRASCAN CORPORATION                          2.026     2092599      BNN/A        22,500.00          548,631.92
+BRIDGESTONE CORP J                           0.000     6132101      5108_        73,700.00          979,281.44
+BRIT AMER TOBACCO                           86.678     0287580      BATS_       120,879.00        1,037,081.99
+BRITISH AEROSPACE                        5,924.077     0263494      BA/_L       246,594.00          934,322.67
+BRITISH SKY BROADC                           0.000     0141192      BSY_L        85,854.00          800,159.90
+BT GROUP                                    40.646     3091357      BT/A_       662,354.00        3,570,320.78
+CABLE + WIRELESS O                           6.704     0162557      CW/_L        97,270.00          470,219.90
+CADBURY SCHWEPPES                            9.100     0610700      CBRY_       169,022.00        1,027,850.01
+CAN IMPERIAL BK OF COMMERCE                  1.872     2170525      CM_CN        62,800.00        2,547,280.00
+CANADIAN NATL RAILWAY CO                     0.565     2180632      CNR_C        34,700.00        1,753,552.26
+CANADIAN PACIFIC RAILWAY LTD                 1.079     2793115      CP_CN        60,400.00        1,364,770.59
+CANON INC JPY50                              0.000     6172323      7751_        67,800.00        2,808,918.73
+CAP GEMINI FRF 40.                           2.278     4163437      CAP_F         4,724.00          174,961.33
+CARREFOUR EUR 2.5                           14.954     5641567      CA_FP        29,533.00        1,440,000.30
+CARTER HOLT HARVEY LIMITED                   2.094     6178406      CAH_N       970,200.00          855,758.38
+CENTRICA 5.55P                              11.691     0573438      CNA_L       328,216.00        1,016,224.60
+CGU ORD 25P(SICOVA                          27.208     0216238      AV/_L       193,237.00        2,129,657.84
+CHUBU ELECTRIC POWER CO INC                  0.000     6195609      9502_        68,500.00        1,336,404.65
+CIBA SPEC CHEM ORD                           1.659     5196744      CIBN_         3,600.00          253,176.76
+CIE DE ST. GOBAIN                           74.870     7380482      SGO_F        12,105.00          425,277.85
+COCA-COLA HELLENIC BOTTLING SA               1.450     4420723      EEEK_        24,700.00          491,449.44
+COLOPLAST-B                                  0.167     5867653      COLOB        12,900.00        1,097,977.97
+COMMERCIAL BANK OF GREECE                    2.532     4212823      TEMP_        18,400.00          388,092.78
+COMPAGNIE FIN RICHEMONT                      0.301     7151116      CFR_V        15,500.00          304,999.50
+COMPASS GROUP                                7.084     0533153      CPG_L       269,514.00        1,632,635.94
+CONTACT ENERGY LTD                           1.841     6152529      CEN_N       344,100.00        1,236,457.70
+CREDIT SUISSE GROUP                          0.040     7171589      CSGN_        29,455.00          905,065.82
+DAI NIPPON PRINTNG                           0.000     6250906      7912_       109,000.00        1,366,555.67
+DAIMLERCHRYSLER AG                         103.966     5529027      DCX_G       134,900.00        5,095,927.69
+DAIWA SECURITIES G                           0.000     6251448      8601_       136,300.00          831,406.34
+DANISCO A/S                                  0.011     4155586      DCO_D        41,600.00        1,759,767.69
+DANSKE BANK                                  0.098     4588825      DANSK       324,000.00        6,958,391.27

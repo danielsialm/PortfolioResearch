@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 077
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+DIGI INTERNATIONAL INC                     0.000 DGII    253798102      2.9100        42,400.00        134,883.07        123,384.00
+DIME COMMUNITY BANCSHARES                  2.506 DCOM    253922108     19.1500        29,550.00        538,376.74        565,882.49
+DIMON INC.                                 5.000 DMN     254394109      6.0000        55,500.00        385,762.74        333,000.00
+DIONEX CORP.                               0.000 DNEX    254546104     29.7100        25,400.00        687,052.00        754,634.00
+DOWNEY FINANCIAL CORP.                     0.923 DSL     261018105     39.0000        31,900.00        887,768.10      1,244,100.01
+DRESS BARN INC.                            0.000 DBRN    261570105     13.3000        34,100.00        389,646.68        453,530.00
+DRIL-QUIP INC                              0.000 DRQ     262037104     16.9000        18,900.00        640,723.39        319,410.00
+DRS TECHNOLOGIES INC                       0.000 DRS     23330X100     31.3300        23,400.00        781,767.72        733,122.02
+DSP GROUP INC.                             0.000 DSPG    23332B106     15.8200        29,800.00        623,240.50        471,436.01
+DUANE READE INC                            0.000 DRD     263578106     17.0000        23,500.00        829,315.00        399,500.00
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     23.2500        20,800.00      1,078,804.40        483,600.00
+EAST WEST BANCORP INC.                     1.108 EWBC    27579R104     36.0800        27,100.00        585,026.84        977,768.00
+EDO CORP                                   0.577 EDO     281347104     20.7800        19,700.00        559,704.76        409,366.00
+EFUNDS CORP                                0.000 EFDS    28224R101      9.1100        54,000.00        937,193.76        491,940.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     11.0000        55,500.00        811,554.78        610,500.00
+ELECTRO SCIENTIFIC INDS INC.               0.000 ESIO    285229100     20.0000        28,800.00        683,898.64        576,000.00
+ELKCORP                                    1.156 ELK     287456107     17.3000        22,900.00        720,183.79        396,170.00
+EMCOR GROUP INC                            0.000 EME     29084Q100     53.0100        16,900.00        704,051.42        895,869.00
+ENERGEN CORP.                              2.474 EGN     29265N108     29.1000        37,300.00        734,323.55      1,085,430.00
+ENESCO GROUP INC.                          0.000 ENC     292973104Q     7.0800        24,100.00        161,156.13        170,628.00
+ENGINEERED SUPPORT SYSTEMS                 0.109 EASI    292866100     36.6600        18,150.00        593,241.00        665,379.00
+ENZO BIOCHEM INC.                          0.000 ENZ     294100102     14.0000        32,910.00        502,810.24        460,740.00
+ESS TECHNOLOGY                             0.000 ESST    269151106      6.2900        47,100.00        690,036.20        296,259.00
+ESTERLINE TECHNOLOGIES CORP                0.000 ESL     297425100     17.6700        22,700.00        460,782.85        401,109.00
+ETHAN ALLEN INTERIORS INC.                 0.698 ETH     297602104     34.3700        43,000.00      1,147,617.38      1,477,910.00
+EVERGREEN RESOURCES INC                    0.000 EVG     299900308     44.8500        21,500.00        796,959.33        964,275.00
+EXAR CORP                                  0.000 EXAR    300645108     12.4000        42,300.00        886,822.52        524,520.00
+FACTSET RESEARCH SYSTEMS INC.              0.707 FDS     303075105     28.2700        37,500.00        972,396.05      1,060,125.00
+FAIR ISAAC & COMPANY INC.                  0.187 FIC     303250104     42.7000        56,354.00      1,632,073.47      2,406,315.80
+FEDDERS CORP                               4.240 FJC     313135501      2.8300        18,700.00         47,844.61         52,921.01
+FILENET CORP                               0.000 FILE    316869106     12.2000        39,700.00        847,503.10        484,340.00
+FINANCIAL FEDERAL CORP.                    0.000 FIF     317492106     25.1300        19,900.00        585,667.09        500,087.00
+FIRST AMERICAN CORP.                       1.801 FAF     318522307     22.2000        82,800.00      1,168,671.27      1,838,160.00
+FIRST BANCORP PR                           1.769 FBP     318672102     22.6000        45,800.00        845,298.58      1,035,080.01
+FIRST MIDWEST BANCORP INC.                 2.845 FMBI    320867104     26.7100        50,550.00      1,116,453.80      1,350,190.51
+FIRST REPUBLIC BANK                        0.000 FRC     336158100     19.9900        16,000.00        389,181.65        319,839.99
+FIRSTFED FINANCIAL CORP                    0.000 FED     337907109     28.9500        19,900.00        580,108.96        576,104.99
+FLAGSTAR BANCORP INC                       1.851 FBC     337930101     21.6000        33,000.00        724,680.00        712,800.00
+FLEETWOOD ENT.                             2.038 FLE     339099103Q     7.8500        38,100.00        548,553.44        299,085.00

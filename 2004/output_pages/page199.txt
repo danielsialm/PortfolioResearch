@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 167
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LC       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+AAON INC                                   0.000 AAON    000360206     16.0700        25,361.00        474,389.25        407,551.27
+ACTUANT CORP CL A                          0.115 ATU     00508X203     52.1500        89,200.00      3,333,100.02      4,651,780.00
+AFTERMARKET TECHNOLOGY                     0.000 ATAC    008318107     16.1000        22,949.00        340,454.39        369,478.90
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     13.8100       222,000.00      2,953,430.57      3,065,820.00
+ANALOGIC CORP.                             0.714 ALOGE   032657207     44.7900        55,900.00      2,288,995.11      2,503,761.00
+ASTEC INDUSTRIES INC                       0.000 ASTE    046224101     17.2100        17,500.00        283,351.88        301,175.00
+BEACON ROOFING SUPPLY INC                  0.000 BECN    073685109     19.8600        60,100.00      1,154,937.63      1,193,586.00
+BIO RAD LABS INC                           0.000 BIO     090572207     57.3700        36,700.00      2,063,154.64      2,105,479.00
+BROOKLINE BANCORP IN                       2.083 BRKL    11373M107     16.3200       169,227.00      2,522,351.13      2,761,784.64
+CENTEX CORP                                0.268 CTX     152312104Q    59.5800        53,000.00      2,209,212.43      3,157,740.00
+CLOSURE MEDICAL CORP                       0.000 CLSR    189093107     19.5000        30,100.00        582,058.64        586,950.00
+DAVE & BUSTERS INC                         0.000 DAB     23833N104     20.2000       119,800.00      2,033,115.84      2,419,960.00
+DOLLAR THRIFTY AUTOM                       0.000 DTG     256743105     30.2000        68,400.00      1,757,545.61      2,065,680.00
+DREW INDS INC                              0.000 DW      26168L205     36.1700        65,200.00      2,118,381.41      2,358,284.00
+ELKCORP                                    0.584 ELK     287456107     34.2200       107,300.00      2,493,361.40      3,671,806.00
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      8.3500       127,400.00      1,092,628.93      1,063,790.00
+ENZON PHARMACEUTICALS INC                  0.000 ENZN    293904108     13.7200       188,300.00      2,413,297.70      2,583,476.00
+FIRST CONSULTING GRO                       0.000 FCGI    31986R103      6.1100       221,100.00      1,163,663.87      1,350,921.00
+GENLYTE GROUP INC                          0.000 GLYT    372302109     85.6800         9,600.00        735,215.76        822,528.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     39.5000        53,800.00      1,805,929.23      2,125,100.00
+GOODY'S FAMILY CLOTHING INC.               1.312 GDYS    382588101      9.1400       128,495.00      1,134,332.00      1,174,444.30
+GREY WOLF INC                              0.000 GW      397888108      5.2700       557,400.00      2,240,324.69      2,937,498.00
+HAIN CELESTIAL GROUP                       0.000 HAIN    405217100     20.6700        87,000.00      1,526,989.27      1,798,290.00
+HANMI FINL CORP                            1.113 HAFC    410495105     35.9400        23,400.00        513,296.33        840,996.00
+HCC INSURANCE HOLDINGS INC.                1.026 HCC     404132102     33.1200       131,300.00      4,167,528.93      4,348,656.00
+HEXCEL CORP                                0.000 HXL     428291108     14.5000       126,800.00      1,775,200.00      1,838,600.00
+HILB ROGAL & HOBBS CO                      1.158 HRH     431294107Q    36.2400       124,100.00      4,192,302.11      4,497,384.00
+HUMMINGBIRD LTD                            0.000 HUMC    44544R101     26.7100         9,100.00        201,614.70        243,061.00
+ICON PLC - ADR                             0.000 ICLR    45103T107     38.6500        54,800.00      1,926,751.03      2,118,020.00
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     27.3400        92,400.00      2,609,591.17      2,526,216.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     49.0300        52,509.00      1,955,244.09      2,574,516.27
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106     11.8000        67,300.00        659,946.29        794,140.00
+KOS PHARMACEUTICALS                        0.000 KOSP    500648100     37.6400        20,300.00        763,589.09        764,092.00
+LCA-VISION INC.                            1.368 LCAV    501803308     23.3900       113,614.00      1,859,124.52      2,657,431.47
+LIONBRIDGE TECHNOLOGIES                    0.000 LIOX    536252109      6.7200        89,200.00        444,314.03        599,424.00
+LOJACK CORP                                0.000 LOJN    539451104     12.1300        78,734.00        637,199.01        955,043.42
+MASSEY ENERGY CO                           0.457 MEE     576206106Q    34.9500       122,800.00      3,875,581.56      4,291,860.00
+MATRIA HEALTHCARE IN                       0.000 MATR    576817209     39.0700         9,800.00        223,181.12        382,886.00
+MEASUREMENT SPECIALITIES INC               0.000 MSS     583421102     25.4600       127,300.00      2,746,434.43      3,241,058.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 136
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+FOREST LABORATORIES INC.                   0.000 FRX     345838106     61.8000        11,600.00        451,826.32        716,880.00
+FORTUNE BRANDS INC.                        1.678 FO      349631101Q    71.4900         5,600.00        264,332.53        400,344.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     27.3600        19,300.00        408,713.84        528,048.00
+FOX ENTERTAINMENT GRP INC. - C             0.000 FOX     35138T107     29.1500        15,100.00        424,612.00        440,165.00
+FPL GROUP INC.                             3.668 FPL     302571104Q    65.4200         6,600.00        370,558.49        431,772.01
+FRANKLIN RESOURCES INC                     0.653 BEN     354613101Q    52.0600        13,800.00        514,754.86        718,427.99
+FREDDIE MAC                                1.783 FRE     313400301Q    58.3200         4,800.00        223,680.84        279,936.00
+FREEPORT MCMORAN CLASS B                   1.898 FCX     35671D857     42.1300        21,200.00        491,147.81        893,156.01
+FRIEDMAN BILLINGS RAMSEY -A                5.892 FBR     358434108     23.0800         7,800.00        169,584.99        180,024.00
+FULTON FINANCIAL CORP                      2.921 FULT    360271100     21.9100        13,300.00        272,385.92        291,403.00
+GALLAGHER (ARTHUR) J & CO.                 2.216 AJG     363576109Q    32.4900         4,900.00        133,574.00        159,201.00
+GANNETT INC                                1.121 GCI     364730101Q    89.1600        10,600.00        721,734.21        945,096.00
+GAP INC                                    0.383 GPS     364760108Q    23.2100        22,700.00        470,130.51        526,867.00
+GENENTECH INC.                             0.000 DNA     368710406     93.5700         6,600.00        462,707.20        617,562.00
+GENERAL DYNAMICS CORP.                     1.416 GD      369550108Q    90.3900           200.00         11,987.54         18,078.00
+GENERAL ELECTRIC CO                        2.582 GE      369604103Q    30.9800       187,900.00      5,230,086.94      5,821,141.99
+GENERAL MILLS INC                          2.428 GIS     370334104Q    45.3000         8,500.00        359,313.50        385,050.00
+GENERAL MOTORS CORP                        3.745 GM      370442105Q    53.4000         4,900.00        206,716.23        261,660.00
+GENZYME CORP. GEN. DIV.                    0.000 GENZ    372917104     49.3400        13,500.00        483,530.62        666,090.01
+GEORGIA PACIFIC                            1.630 GP      373298108Q    30.6700         8,900.00        224,190.24        272,963.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     50.1300         5,600.00        219,926.07        280,728.00
+GILEAD SCIENCES INC.                       0.000 GILD    375558103     58.1400        13,900.00        759,724.07        808,146.00
+GILLETTE CO                                1.769 G       375766102Q    36.7300         5,400.00        186,768.27        198,342.00
+GLOBAL PAYMENTS INC-W/I                    0.339 GPN     37940X102     47.1200         3,400.00        115,634.00        160,208.00
+GOLDEN WEST FINANCIAL CORP                 0.387 GDW     381317106Q   103.1900         4,500.00        244,251.39        464,355.00
+GOLDMAN SACHS GROUP INC                    1.012 GS      38141G104     98.7300         8,400.00        622,767.78        829,332.00
+GOODRICH CORP.                             2.694 GR      382388106Q    29.6900         6,300.00        160,468.60        187,047.00
+GRACO INC.                                 1.396 GGG     384109104     40.1000         7,200.00        230,821.06        288,720.00
+GRAINGER W W INC                           1.561 GWW     384802104Q    47.3900         6,900.00        322,010.96        326,991.00
+GREAT PLAINS ENERGY INC                    5.216 GXP     391164100     31.8200        14,200.00        407,811.94        451,844.00
+GREENPOINT FINANCIAL                       2.718 GPT     395384100     35.3200         6,350.00        214,630.00        224,282.00
+GTECH HOLDINGS CORP                        1.374 GTK     400518106     49.4900         9,200.00        372,313.66        455,308.00
+GUIDANT CORP.                              0.531 GDT     401698105Q    60.2000         7,600.00        365,782.41        457,520.00
+H & R BLOCK INC.                           1.444 HRB     093671105Q    55.3700         2,500.00        101,143.99        138,425.01
+HALLIBURTON COMPANY                        1.923 HAL     406216101Q    26.0000        38,100.00        805,963.49        990,600.01
+HARLEY-DAVIDSON INC                        0.673 HDI     412822108Q    47.5300         8,300.00        339,249.79        394,499.00
+HARMAN INTERNATIONAL                       0.067 HAR     413086109     73.9800         8,600.00        339,550.32        636,228.00
+HARRAH'S ENTERTAINMENT INC.                2.411 HET     413619107     49.7700         1,300.00         43,881.34         64,701.01
+HARSCO CORP                                2.510 HSC     415864107Q    43.8200         5,900.00        222,906.33        258,538.00

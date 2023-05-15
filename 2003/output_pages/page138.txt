@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 108
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+TEREX CORP                                 0.000 TEX     880779103     28.4800        58,700.00      1,115,208.42      1,671,776.00
+TESORO PETROLEUM CORP                      0.000 TSO     881609101     14.5700        81,400.00        662,734.98      1,185,998.00
+TETRA TECH INC.                            0.000 TTEK    88162G103     24.8600        60,600.00        974,374.59      1,506,516.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     24.2400        24,150.00        415,934.37        585,396.00
+TEXAS INDUSTRIES INC                       0.810 TXI     882491103     37.0000        25,400.00        807,169.49        939,800.00
+TEXAS REGIONAL BANCSHARES INC              1.297 TRBS    882673106     37.0000        28,300.00        971,424.46      1,047,100.00
+THE FINISH LINE-CL A                       0.000 FINL    317923100     29.9700        26,300.00        675,820.39        788,211.00
+THE MEN'S WEARHOUSE INC.                   0.000 MW      587118100     25.0100        39,200.00        992,373.39        980,392.00
+THERAGENICS CORPORATION                    0.000 TGX     883375107      5.4700        68,400.00        419,344.32        374,148.00
+THERASENSE INC                             0.000 THER    883381105     20.3000        29,100.00        328,019.49        590,730.00
+THESTREET.COM INC                          0.000 TSCM    88368Q103      4.1200        15,300.00         83,110.97         63,036.00
+THIRD WAVE TECHNOLOGIES INC                0.000 TWTI    88428W108      4.5500        29,000.00        119,310.27        131,950.00
+THOMAS & BETTS CORP.                       0.000 TNB     884315102Q    22.8900        51,600.00      1,096,914.64      1,181,124.00
+THOMAS INDUSTRIES INC                      1.096 TII     884425109     34.6600        11,500.00        275,903.20        398,590.00
+THOMAS NELSON INC                          0.827 TNM     640376109Q    19.3300        17,900.00        261,132.73        346,007.00
+THOR INDUSTRIES INC                        0.213 THO     885160101     56.2200        21,600.00        495,241.05      1,214,352.00
+THORATEC CORP                              0.000 THOR    885175307     13.0100        68,000.00      1,136,802.16        884,680.00
+THQ INC                                    0.000 THQI    872443403     16.9100        45,900.00        910,058.57        776,169.00
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108      5.2400        53,300.00        533,820.34        279,292.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103      6.7700       101,400.00        572,764.01        686,478.00
+TIER TECHNOLOGIES INC-CL B                 0.000 TIER    88650Q100      8.1700        34,900.00        284,625.25        285,133.00
+TIERONE CORP                               0.000 TONE    88650R108     22.9600        27,300.00        562,919.61        626,808.00
+TIME WARNER TELECOM CL A                   0.000 TWTC    887319101     10.1300        63,100.00        443,710.78        639,203.00
+TITAN CORP                                 0.000 TTN     888266103     21.8100        88,900.00      1,093,455.42      1,938,909.00
+TIVO INC                                   0.000 TIVO    888706108      7.4000        57,900.00        590,591.67        428,460.00
+TOLLGRADE COMMUNICATIONS INC               0.000 TLGD    889542106     17.5300        16,400.00        413,961.17        287,492.00
+TOM BROWN INC                              0.000 TBI     115660201     32.2500        38,600.00      1,044,021.95      1,244,850.00
+TOMPKINSTRUSTCO INC                        2.605 TMP     890110109     46.0500         9,840.00        418,710.87        453,132.00
+TOO INC                                    0.000 TOO     890333107     16.8800        32,900.00        814,091.74        555,352.00
+TOPPS INC                                  1.559 TOPP    890786106     10.2600        37,700.00        334,667.93        386,802.00
+TORO CO                                    0.517 TTC     891092108     46.4000        29,600.00        824,561.56      1,373,440.00
+TOWER AUTOMOTIVE INC                       0.000 TWR     891707101      6.8300       100,500.00        752,817.85        686,415.00
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     38.8900        35,200.00        663,675.53      1,368,928.00
+TRADESTATION GROUP INC                     0.000 TRAD    89267P105      8.8600        21,000.00        229,772.85        186,060.00
+TRAMMELL CROW CO                           0.000 TCC     89288R106     13.2500        37,300.00        425,768.27        494,225.00
+TRANS WORLD ENTERTAINMENT CP               0.000 TWMC    89336Q100      7.1200        37,100.00        242,200.48        264,152.00
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     22.6300        48,500.00        704,175.80      1,097,555.00
+TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     15.6100        35,600.00        438,582.77        555,716.00
+TRANSMETA CORP                             0.000 TMTA    89376R109      3.4000       137,700.00        220,310.39        468,180.00

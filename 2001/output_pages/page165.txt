@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 010
+ASOF10   Date 01/24/2002 Time 21:29:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 012
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-BOSTON COMMUNICATIONS GROUP                  0.000     100582105   BCGI            13,800          335,718.12          156,630.00
-BOSTON PRIVATE FINL HOLDING                  0.634     101119105   BPFH            21,700          465,240.00          478,919.00
-BOSTON SCIENTIFIC CORP.                      0.000     101137107   BSX            762,743       17,124,892.39       18,397,361.15
-BOWATER INC.                                 1.677     102183100 Q BOW            119,100        5,706,554.61        5,681,070.00
-BOWNE & CO INC.                              1.718     103043105   BNE             32,300          574,889.18          413,440.00
-BRADY CORPORATION                            2.076     104674106   BRC             22,100          543,775.14          808,860.00
-BRIGGS & STRATTON                            2.904     109043109 Q BGG             19,492          809,838.79          832,308.39
-BRIGHTPOINT INC.                             0.000     109473108   CELL            40,000          133,400.00          125,600.00
-BRINKER INTERNATIONAL INC                    0.000     109641100   EAT            206,650        4,620,255.07        6,149,904.00
-BRISTOL-MYERS SQUIBB                         2.156     110122108 Q BMY          4,021,609      150,400,628.17      205,102,059.00
-BROADCOM CORP CL A                           0.000     111320107   BRCM           722,280       93,807,672.94       29,519,583.61
-BROADWING INC.                               0.000     111620100   BRW            462,400       10,489,447.70        4,392,800.00
-BROOKS AUTOMATION INC                        0.000     11434A100   BRKS            17,000          641,914.65          691,390.00
-BROOKTROUT INC                               0.000     114580103   BRKT            45,000          352,995.82          292,500.00
-BROWN SHOE COMPANY INC                       2.463     115736100 Q BWS             36,200          517,274.43          587,888.00
-BROWN-FORMAN -CL B                           2.236     115637209 Q BF.B            97,371        5,094,980.91        6,095,424.60
-BRUNSWICK CORP                               2.297     117043109 Q BC             179,804        3,438,470.69        3,912,535.04
-BRUSH ENGINEERED MATERIALS                   3.370     117421107   BW              16,000          233,734.03          227,840.00
-BUCA INC.                                    0.000     117769109   BUCA           135,120        2,105,140.32        2,190,295.20
-BUCKEYE TECHNOLOGIES INC.                    0.000     118255108   BKI             35,200          667,899.63          404,800.00
-BUILDING MATERIALS HLDG. CORP.               0.000     120113105   BMHC            16,700          178,760.48          181,195.00
-BURLINGTON COAT FACTORY WAREHOUSE            0.119     121579106   BCF             67,200        1,108,396.65        1,128,960.00
-BURLINGTON NORTHERN SANTA FE                 1.682     12189T104 Q BNI            816,283       22,546,534.16       23,288,553.99
-BURLINGTON RESOURCES                         1.465     122014103 Q BR             262,683       10,117,680.38        9,861,119.81
-BUTLER MANUFACTURING CO.                     2.599     123655102   BBR              8,800          285,277.30          243,760.00
-C-COR ELECTRONICS                            0.000     125010108   CCBL            64,200        1,405,605.42          935,394.00
-C.H.ROBINSON WORLDWIDE INC                   0.691     12541W100   CHRW           186,500        4,967,144.29        5,392,647.51
-C&D TECHNOLOGIES INC.                        0.262     124661109   CHP             27,000          760,539.39          616,950.00
-CABLE DESIGN TECHNOLOGIES                    0.000     126924109   CDT             51,700          830,483.46          707,256.00
-CABOT CORP                                   1.456     127055101   CBT            136,300        2,838,846.73        4,865,910.00
-CABOT MICROELECTRONICS CORPORATION           0.000     12709P103   CCMP            82,259        5,019,605.37        6,519,025.74
-CABOT OIL & GAS CORP.                        0.665     127097103 Q COG             31,100          598,248.69          747,955.00
-CACI INTERNATIONAL INC._CL A                 0.000     127190304   CACI            62,632        1,351,083.97        2,473,024.52
-CADENCE DESIGN SYS INC                       0.000     127387108   CDN            489,000        9,858,493.20       10,718,880.01
-CAL DIVE INTERNATIONAL INC                   0.000     127914109   CDIS            30,600          571,564.70          755,208.00
-CALGON CARBON CORP.                          2.395     129603106 Q CCC             99,600          676,842.49          831,660.00
-CALIFORNIA PIZZA KITCHEN INC                 0.000     13054D109   CPKI            13,000          264,688.66          321,749.99
-CALLAWAY GOLF COMPANY                        1.462     131193104   ELY            159,500        2,566,963.03        3,054,424.99
-CALPINE CORPORATION                          0.000     131347106   CPN          1,533,673       37,960,622.68       25,750,369.64
-CAMBREX CORP.                                0.275     132011107   CBM             25,200          549,315.31        1,098,720.00
+CERTEGY INC                                  0.000     156880106   CEY            124,300        3,538,211.86        4,253,546.00
+CHAMPION ENTERPRISES INC.                    0.000     158496109   CHB             46,200          246,906.66          568,722.00
+CHARTER COMMUNICATIONS                       0.000     16117M107   CHTR           134,900        2,624,448.95        2,216,407.00
+CHARTER MUNICIPAL MTG ACCEPTANCE COMPANY     7.138     160908109   CHC              3,900           50,746.80           63,375.00
+CHARTER ONE FNCL INC.                        2.946     160903100 Q CF             349,810        7,356,096.90        9,497,341.50
+CHECKFREE CORP                               0.000     162813109   CKFR           173,400        7,802,566.60        3,121,200.00
+CHECKPOINT SYSTEMS INC.                      0.000     162825103   CKP             29,700          439,994.86          397,980.00
+CHEESECAKE FACTORY (THE)                     0.000     163072101   CAKE           102,805        1,829,979.80        3,574,529.85
+CHEMED CORP.                                 1.297     163596109   CHE              9,600          351,851.23          325,440.00
+CHEMFIRST INC                                1.668     16361A106   CEM             14,000          328,179.04          335,580.00
+CHESAPEAKE CORP                              3.164     165159104   CSK             19,500          449,997.37          542,295.00
+CHESAPEAKE ENERGEY CORP                      0.000     165167107   CHK            113,300          631,243.54          748,913.01
+CHEVRONTEXACO CORP                           3.124     166764100 Q CVX          1,990,993      144,792,158.51      178,412,882.73
+CHICO’S FAS INC                              0.000     168615102   CHS             51,750        1,459,187.76        2,054,475.00
+CHIRON CORP                                  0.000     170040109   CHIR           378,412       10,229,274.26       16,589,582.08
+CHITTENDEN CORPORATION                       2.753     170228100   CHZ             51,575        1,313,348.20        1,423,470.00
+CHOICEPOINT INC.                             0.000     170388102   CPS            134,600        4,824,687.22        6,822,874.01
+CHRISTOPHER & BANKS CORP                     0.000     171046105   CHBS            55,143        1,295,081.98        1,888,647.75
+CHUBB CORP                                   1.971     171232101 Q CB             512,287       28,438,971.13       35,347,802.99
+CHURCH & DWIGHT INC                          1.126     171340102 Q CHD             76,300        1,776,717.03        2,031,869.00
+CIBER INC.                                   0.000     17163B102   CBR             68,600        1,106,393.09          648,270.00
+CIENA CORP.                                  0.000     171779101   CIEN           424,400        7,555,046.80        6,073,163.99
+CIGNA CORP.                                  1.381     125509109 Q CI             268,794       18,616,233.16       24,903,764.11
+CIMA LABS INC                                0.000     171796105   CIMA            10,903          606,119.90          394,143.44
+CINCINNATI FINANCIAL CORP.                   2.201     172062101 Q CINF           363,354       12,640,265.56       13,861,955.09
+CINERGY CORP                                 5.384     172474108 Q CIN            339,300       10,460,505.50       11,342,799.00
+CINTAS CORP                                  0.458     172908105   CTAS           269,400       10,419,373.87       12,931,199.98
+CIRCUIT CITY STORES                          0.269     172737108 Q CC             742,010       15,714,246.88       19,255,159.50
+CIRCUIT CITY STORES-CARMAX                   0.000     172737306   KMX             12,100          177,931.50          275,154.00
+CIRRUS LOGIC INC                             0.000     172755100   CRUS           412,300        5,608,917.05        5,450,605.98
+CISCO SYSTEMS                                0.000     17275R102   CSCO        15,151,573      342,278,702.50      274,394,987.03
+CITIGROUP INC.                               1.267     172967101 Q C           10,306,189      262,389,519.33      520,256,420.73
+CITIZENS COMMUNICATIONS CO                   0.000     17453B101   CZN            214,300        3,156,275.13        2,284,438.01
+CITRIX SYSTEMS INC                           0.000     177376100   CTXS           422,558       15,663,635.69        9,575,164.28
+CITY NATIONAL CORP                           1.579     178566105   CYN             97,100        3,499,598.17        4,549,135.00
+CKE RESTARUANTS INC.                         0.000     12561E105   CKR             19,300          166,922.02          174,665.00
+CLAIRE’S STORES INC                          1.059     179584107   CLE            102,200        2,409,622.76        1,543,220.00
+CLARCOR INC.                                 1.768     179895107 Q CLC             65,600        1,349,492.86        1,781,040.00
+CLAYTON HOMES INC.                           0.350     184190106 Q CMH            310,275        3,354,544.01        5,305,702.50
+CLEAR CHANNEL COMMUNICATIONS                 0.000     184502102   CCU          1,240,924       83,429,806.91       63,175,440.87

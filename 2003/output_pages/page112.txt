@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 082
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+FINISAR CORPORATION                        0.000 FNSR    31787A101      3.1300       182,300.00        334,414.16        570,599.00
+FINLAY ENTERPRISES I                       0.000 FNLY    317884203     14.1300        16,000.00        269,594.53        226,080.00
+FIRST ALBANY COS INC                       1.424 FACT    318465101     14.0400        18,800.00        264,012.65        263,952.00
+FIRST BANCORP N C                          3.056 FBNC    318910106     31.4100         9,000.00        240,918.25        282,690.00
+FIRST BUSEY CORP                           2.814 BUSE    319383105     27.0000        10,700.00        275,209.85        288,900.00
+FIRST CHARTER CORP                         3.785 FCTR    319439105     19.5500        36,000.00        661,433.66        703,800.00
+FIRST CITIZENS BANC CORP                   3.802 FCZA    319459202     28.4000         5,000.00        131,937.82        142,000.00
+FIRST CMNTY BANCORP                        2.075 FCBP    31983B101     36.1400        14,900.00        464,872.30        538,486.00
+FIRST CMNTY BANCSHAR                       3.015 FCBC    31983A103     33.1600        11,576.00        406,405.37        383,860.16
+FIRST COMWLTH FINL C                       4.488 FCF     319829107     14.2600        71,300.00        948,119.23      1,016,738.00
+FIRST CONSULTING GRO                       0.000 FCGI    31986R103      5.6300        51,300.00        251,845.28        288,819.00
+FIRST CTZNS BANCSHS                        0.905 FCNCA   31946M103    121.5300         7,400.00        789,340.73        899,322.00
+FIRST DEFIANCE FINL                        3.001 FDEF    32006W106     26.6500         6,000.00        123,919.70        159,900.00
+FIRST ESSEX BANCORP                        1.651 FESX    320103104     58.1400         8,100.00        389,259.40        470,934.00
+FIRST FED CAP CORP                         2.486 FTFC    319960100     22.5200        23,200.00        482,409.82        522,464.00
+FIRST FEDERAL FINANCIAL OF KEN             2.862 FFKY    319961108     25.1500         3,800.00        122,899.47         95,570.00
+FIRST FINANCIAL HOLDINGS INC               2.815 FFCH    320239106     31.2600        15,300.00        461,714.38        478,278.00
+FIRST FINL BANCORP O                       3.761 FFBC    320209109     15.9500        39,100.00        614,941.49        623,645.00
+FIRST FINL BANKSHARE                       2.973 FFIN    32020R109     41.7000        16,400.00        551,268.50        683,880.00
+FIRST FINL CORP IND                        2.399 THFF    320218100     30.0100        21,200.00        621,269.18        636,212.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     11.2000        37,900.00        178,429.02        424,480.00
+FIRST IND CORP                             3.520 FINB    32054R108     18.7500         5,700.00        107,207.19        106,875.00
+FIRST LONG IS CORP                         1.674 FLIC    320734106     43.0000         4,100.00        174,988.89        176,300.00
+FIRST M & F CORP                           2.638 FMFC    320744105     37.9000         4,100.00        137,259.80        155,390.00
+FIRST MERCHANTS CORP                       3.605 FRME    320817109     25.5200        22,210.00        540,434.70        566,799.20
+FIRST NATL CP ORANGE                       2.265 FNC     320942105     30.0100         9,300.00        252,471.28        279,093.00
+FIRST NIAGARA FINL G                       1.609 FNFG    33582V108     14.9100        85,500.00      1,254,356.49      1,274,805.00
+FIRST OAK BROOK BANC                       1.866 FOBB    335847208     30.0100         7,800.00        179,782.46        234,078.00
+FIRST PL FINL CORP                         2.867 FPFC    33610T109     19.5300        14,300.00        268,108.05        279,279.00
+FIRST REPUBLIC BANK                        1.396 FRC     336158100     35.8000        12,600.00        350,635.88        451,080.00
+FIRST SENTINEL BANCO                       1.994 FSLA    33640T103     21.0600        26,700.00        429,130.88        562,302.00
+FIRST SOUTH BANCORP                        2.191 FSBK    33646W100     36.5000         3,700.00        134,940.34        135,050.00
+FIRST ST BANCORPORAT                       1.266 FSNM    336453105     34.7500         9,000.00        247,487.43        312,750.00
+FIRST UNITED CORP                          2.954 FUNC    33741H107     24.3700         7,400.00        158,595.24        180,338.00
+FIRSTBANK CORP/MI                          2.567 FBMI    33761G104     31.1600         6,825.00        211,212.55        212,667.00
+FIRSTFED AMERICA BANCORP INC               1.997 FAB     337929103     26.0300        19,000.00        357,802.04        494,569.99
+FIRSTFED FINANCIAL CORP                    0.000 FED     337907109     43.5000        20,500.00        681,761.42        891,750.00
+FISHER COMMUNICATION                       0.000 FSCI    337756209     51.0000         2,800.00        138,466.54        142,800.00
+FLAG FINANCIAL CORP                        1.860 FLAG    33832H107     12.9000         7,900.00        109,885.48        101,910.00

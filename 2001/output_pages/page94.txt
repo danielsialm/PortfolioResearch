@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 065
+ASOF02   Date 01/24/2002 Time 21:29:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 067
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP4       S&P 400 PASSIVE
 Instrument - COM       COMMON STOCK
 
-ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     19.0500        13,600.00        154,573.79        259,080.00
-ENERGY EAST CORP.                          4.844 EAS     29266M109     18.9900        17,265.00        268,032.78        327,862.35
-ENSCO INTL INC                             0.402 ESV     26874Q100     24.8500        19,900.00        638,888.53        494,515.00
-ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      8.8500        28,700.00        518,147.54        253,995.00
-ENTERCOM COMMUNICATIONS CORP               0.000 ETM     293639100     50.0000         6,700.00        307,731.00        335,000.00
-EQUITABLE RESOURCES INC                    1.878 EQT     294549100     34.0700         9,500.00        327,892.50        323,665.00
-EVEREST RE GROUP LTD.                      0.396 RE      G3223R108     70.7000         6,800.00        245,041.27        480,760.00
-EXPEDITORS INT’L. WASH INC.                0.351 EXPD    302130109     56.9500         7,600.00        141,048.31        432,820.00
-EXPRESS SCRIPTS                            0.000 ESRX    302182100     46.7600        11,700.00        177,968.27        547,092.00
-EXTENDED STAY AMERICA INC                  0.000 ESA     30224P101     16.4000        13,800.00        239,057.50        226,320.00
-FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     28.2000        14,800.00        417,138.00        417,360.00
-FASTENAL CO                                0.135 FAST    311900104     66.4300         5,600.00        269,718.95        372,008.00
-FEDERAL SIGNAL CORP                        3.502 FSS     313855108     22.2700         6,700.00        154,478.87        149,209.00
-FEI COMPANY                                0.000 FEIC    30241L109     31.5100         4,700.00        187,436.00        148,097.00
-FERRO CORP                                 2.248 FOE     315405100Q    25.8000         5,050.00        122,521.33        130,290.00
-FIDELITY NATIONAL FINL INC                 1.612 FNF     316326107     24.8000        12,700.00        250,593.59        314,960.00
-FIRST HEALTH GROUP CORP.                   0.000 FHCC    320960107     24.7400        14,700.00        199,833.78        363,678.00
-FIRST TENNESSEE NATL CORP                  2.757 FTN     337162101     36.2600        18,700.00        538,595.46        678,062.00
-FIRST VIRGINIA BANKS INC                   3.073 FVB     337477103     50.7600         7,050.00        335,027.01        357,858.00
-FIRSTMERIT CORPORATION                     3.543 FMER    337915102     27.0900        12,600.00        326,130.64        341,334.00
-FLOWSERVE CORP.                            0.000 FLS     34354P105Q    26.6100         6,600.00        183,696.80        175,626.00
-FMC CORP.                                  0.000 FMC     302491303     30.7100         4,600.00        138,955.73        141,265.99
-FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     16.4500         9,600.00        155,334.43        157,920.01
-FOREST OIL CORP.                           0.000 FST     346091705     28.2100         6,900.00        182,298.00        194,649.00
-FULLER H B CO                              1.494 FULL    359694106Q    28.7700         4,200.00        104,471.59        120,834.00
-FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     32.0200         7,500.00        201,856.00        240,150.00
-GALLAGHER (ARTHUR) J & CO.                 1.507 AJG     363576109Q    34.4900        12,500.00        138,076.48        431,125.00
-GARTNER INC-CL B                           0.000 IT.B    366651206     11.2000        12,739.00        186,197.34        142,676.80
-GATX CORP                                  3.813 GMT     361448103     32.5200         7,200.00        236,110.56        234,144.00
-GENTEX CORP.                               0.000 GNTX    371901109     26.7300        11,100.00        135,776.26        296,703.00
-GILEAD SCIENCES INC.                       0.000 GILD    375558103     65.7200        14,200.00        394,583.28        933,224.00
-GLATFELTER                                 4.492 GLT     377316104     15.5800         6,300.00        113,128.53         98,154.00
-GOLDEN STATE BANCORP                       1.529 GSB     381197102     26.1500        20,100.00        594,644.91        525,615.00
-GRANITE CONSTRUCTION INC                   1.328 GVA     387328107     24.0800         6,050.00         67,079.60        145,684.00
-GRANT PRIDECO INC.                         0.000 GRP     38821G101     11.5000        16,215.00        222,096.96        186,472.50
-GREAT PLAINS ENERGY INC                    6.587 GXP     391164100     25.2000         9,200.00        266,677.45        231,840.00
-GREATER BAY BANCORP                        1.609 GBBK    391648102     28.5800         7,400.00        242,357.37        211,492.00
-GREENPOINT FINANCIAL                       2.797 GPT     395384100     35.7500        14,800.00        394,515.49        529,100.00
-GTECH HOLDINGS CORP                        0.000 GTK     400518106     45.2900         4,300.00        135,838.11        194,747.00
+KEMET CORP.                                0.000 KEM     488360108     17.7500        12,700.00        163,291.71        225,425.00
+KENNAMETAL INC                             1.688 KMT     489170100     40.2700         4,600.00        214,391.60        185,242.00
+KORN/FERRY INTERNATIONAL                   0.000 KFY     500643200     10.6500         5,600.00        220,484.00         59,640.00
+L-3 COMMUNICATIONS HOLDINGS IN             0.000 LLL     502424104     90.0000         5,800.00        266,190.56        522,000.00
+LABRANCHE & CO., INC.                      0.000 LAB     505447102     34.4600         8,700.00        393,475.00        299,802.00
+LAM RESEARCH CORP                          0.000 LRCX    512807108     23.2200        18,600.00        414,810.25        431,892.00
+LANCASTER COLONY CORP                      2.027 LANC    513847103     35.5100         5,450.00        190,792.95        193,529.50
+LAND’S END INC                             0.000 LE      515086106     50.1600         4,400.00        138,386.15        220,704.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104     20.5700        16,200.00        264,582.78        333,234.00
+LEAR CORP.                                 0.000 LEA     521865105     38.1400         9,500.00        433,531.44        362,330.00
+LEE ENTERPRISES                            1.869 LEE     523768109     36.3700         6,500.00        174,927.47        236,405.00
+LEGATO SYSTEMS INC.                        0.000 LGTO    524651106     12.9700        13,200.00        418,999.73        171,204.00
+LEGG MASON INC.                            0.800 LM      524901105     49.9800         9,900.00        261,865.39        494,802.00
+LENNAR CORPORATION                         0.106 LEN     526057104     46.8200         9,500.00        263,394.68        444,790.00
+LEUCADIA NATIONAL CORP                     0.866 LUK     527288104     28.8700         8,200.00        271,092.00        236,734.00
+LIFEPOINT HOSPITALS INC.                   0.000 LPNT    53219L109     34.0400         5,800.00        229,397.00        197,432.00
+LINCARE HOLDINGS INC.                      0.000 LNCR    532791100     28.6500        15,900.00        223,277.16        455,535.00
+LONGS DRUG STORES INC                      2.395 LDG     543162101Q    23.3800         5,600.00        119,643.20        130,928.00
+LONGVIEW FIBRE CO                          4.064 LFB     543213102     11.8100         7,600.00        122,661.31         89,756.00
+LTX CORP                                   0.000 LTXX    502392103     20.9400         7,200.00        202,534.00        150,768.00
+LUBRIZOL CORP                              2.963 LZ      549271104     35.0900         7,600.00        288,383.59        266,684.00
+LYONDELL CHEMICAL COMPANY                  6.280 LYO     552078107Q    14.3300        17,400.00        415,643.11        249,342.00
+M&T BANK CORPORATION                       1.372 MTB     55261F104     72.8500        14,000.00        769,294.32      1,019,900.00
+MACROMEDIA INC                             0.000 MACR    556100105     17.8000         8,600.00        229,731.93        153,080.00
+MACROVISION CORP                           0.000 MVSN    555904101     35.2200         7,500.00        522,775.00        264,150.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     21.4000        10,500.00        221,006.34        224,700.00
+MANPOWER INC                               0.593 MAN     56418H100     33.7100        11,300.00        418,248.58        380,923.00
+MARSHALL & ILSLEY CORP                     1.833 MI      571834100     63.2800        15,600.00        801,643.50        987,168.00
+MARTIN MARIETTA MATERIALS                  1.201 MLM     573284106     46.6000         7,200.00        268,061.48        335,520.00
+McCORMICK & CO                             2.001 MKC     579780206Q    41.9700        10,200.00        271,571.46        428,094.00
+MCDATA CORPORATION-A WI                    0.000 MCDTA   580031201     24.5000        16,600.00        415,374.00        406,700.00
+MDU RESOURCES GROUP                        3.268 MDU     552690109     28.1500        10,200.00        346,780.74        287,130.00
+MEDIA GENERAL INC - CL A                   1.364 MEG     584404107     49.8300         3,400.00        138,293.32        169,422.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106     23.5700         9,500.00         94,576.38        223,915.00
+MERCANTILE BANC.                           2.602 MRBK    587405101Q    43.0400        10,300.00        346,512.09        443,312.00
+METRIS COMPANIES INC.                      0.155 MXT     591598107     25.7100         9,400.00        262,109.50        241,674.00
+MICREL INCORPORATED                        0.000 MCRL    594793101     26.2300        13,750.00        214,710.73        360,662.50
+MICROCHIP TECHNOLOGY INC.                  0.000 MCHP    595017104     38.7400        19,701.00        329,816.21        763,216.75
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     24.5100        32,800.00        868,422.45        803,928.00

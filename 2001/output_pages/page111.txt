@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 082
+ASOF02   Date 01/24/2002 Time 21:29:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 084
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-OM GROUP, INC.                             0.785 OMG     670872100Q    66.1900        23,600.00        521,450.13      1,562,084.00
-OMNOVA SOLUTIONS INC                       0.000 OMN     682129101      6.8000        39,000.00        277,520.30        265,200.00
-ON ASSIGNMENT INC                          0.000 ASGN    682159108     22.9700         2,500.00         66,217.09         57,425.00
-ORGANOGENESIS INC.                         0.000 ORG     685906109      4.8000        24,100.00        285,697.73        115,680.00
-ORTHODONTIC CENTERS OF AMER                0.000 OCA     68750P103     30.5000        47,800.00        835,033.24      1,457,900.00
-OSHKOSH B’GOSH CL-A                        0.572 GOSHA   688222207Q    41.9400        30,200.00        904,453.83      1,266,588.00
-OSHKOSH TRUCK CORPORATION                  0.717 OTRKB   688239201     48.7500        17,300.00        546,819.20        843,375.00
-OSTEOTECH INC                              0.000 OSTE    688582105      5.5500           100.00          1,996.88            555.00
-OWENS & MINOR INC.                         1.513 OMI     690732102Q    18.5000        34,800.00        467,941.29        643,800.00
-OXFORD INDUSTRIES INC.                     3.559 OXM     691497309     23.6000        10,500.00        278,137.87        247,800.00
-P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     47.3000        12,700.00        460,343.02        600,710.00
-PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     20.4200        32,800.00        805,106.25        669,776.00
-PANERA BREAD CO                            0.000 PNRA    69840W108     52.0400        13,500.00        268,371.91        702,540.00
-PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500        45,600.00      1,177,610.87        654,360.00
-PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000        21,600.00        396,636.90        570,240.00
-PATINA OIL & GAS CORP                      0.581 POG     703224105     27.5000        21,100.00        417,010.51        580,250.00
-PAXAR CORP.                                0.000 PXR     704227107     14.2000        40,500.00        567,124.27        575,100.00
-PC-TEL INC                                 0.000 PCTI    69325Q105      9.7100        42,100.00        438,550.00        408,791.00
-PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     33.9200        23,300.00        844,586.44        790,336.00
-PEGASUS SOLUTIONS                          0.000 PEGS    705906105     14.2000        45,400.00        598,090.73        644,680.00
-PENFORD CORP.                              1.927 PENX    707051108     12.4500         3,800.00         36,366.66         47,310.00
-PENTON MEDIA INC                           1.916 PME     709668107      6.2600        27,600.00        881,843.94        172,776.00
-PEP BOYS MM & J                            1.574 PBY     713278109Q    17.1500        52,600.00        574,006.75        902,090.00
-PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     35.1700        44,500.00        930,723.39      1,565,065.00
-PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000        23,000.00        925,889.93        333,500.00
-PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     32.3100        54,000.00        729,912.03      1,744,740.00
-PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     37.7100        20,600.00        644,183.82        776,826.00
-PHILADELPHIA SUBURBAN CORP.                3.680 PSC     718009608     22.5500        47,748.00        568,255.72      1,076,717.40
-PHILLIPS-VAN HEUSEN                        1.376 PVH     718592108     10.9000        29,700.00        408,068.63        323,730.00
-PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108     11.6400        23,800.00        430,140.51        277,032.00
-PHOTON DYNAMICS INC                        0.000 PHTN    719364101     45.6500        14,500.00        504,444.86        661,925.00
-PHOTRONICS INC.                            0.000 PLAB    719405102     31.3500        25,400.00        591,556.51        796,290.00
-PIEDMONT NATURAL GAS CO INC NO             4.301 PNY     720186105     35.8000        31,700.00        875,771.79      1,134,860.00
-PIER 1 IMPORTS INC/DEL                     0.922 PIR     720279108     17.3400        95,000.00      1,186,143.10      1,647,300.00
-PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109      6.0300        21,100.00        310,937.43        127,233.00
-PINNACLE SYSTEMS                           0.000 PCLE    723481107      7.9400        44,700.00      1,029,101.89        354,918.00
-PIONEER STANDARD ELECTRONICS               0.944 PIOS    723877106     12.7000        25,800.00        419,368.36        327,660.00
-PLAINS RESOURCES INC.                      0.000 PLX     726540503     24.6100        23,400.00        438,828.87        575,873.99
-POGO PRODUCING CO                          0.456 PPP     730448107     26.2700        50,000.00      1,616,547.22      1,313,500.00
+ROBBINS & MYERS INC.                       0.939 RBN     770196103     23.4100        10,200.00        346,076.12        238,782.00
+ROGERS CORP.                               0.000 ROG     775133101     30.3000        16,800.00        664,080.13        509,040.00
+ROPER INDUSTRIES INC                       0.666 ROP     776696106     49.5000        30,000.00        777,657.24      1,485,000.00
+ROXIO INC                                  0.000 ROXI    780008108     16.5500        14,952.80        712,699.38        247,468.84
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107      9.9500        22,900.00        314,487.95        227,855.00
+RUBY TUESDAY INC                           0.242 RI      781182100     20.6300        62,600.00        431,009.30      1,291,438.00
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     34.3200        15,900.00        593,229.00        545,688.00
+RUSS BERRIE & CO INC                       3.200 RUS     782233100     30.0000        38,900.00      1,028,738.93      1,167,000.00
+RUSSELL CORP                               1.066 RML     782352108Q    15.0100        11,000.00        191,523.21        165,110.00
+RYANS FAMILY STEAK HOUSES                  0.000 RYAN    783519101     21.6500        35,400.00        351,959.65        766,410.00
+RYERSON TULL, INC.                         1.818 RT      78375P107Q    11.0000        24,773.00        298,133.99        272,502.99
+RYLAND GROUP INC                           0.218 RYL     783764103     73.2000        14,400.00        355,880.60      1,054,080.00
+SALTON INC                                 0.000 SFP     795757103     18.8800         7,300.00        407,925.76        137,824.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     14.5700        14,100.00        311,494.38        205,437.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     22.8800        17,300.00        314,966.35        395,824.00
+SCHWEITZER-MAIDUIT INTL INC                2.526 SWM     808541106     23.7500        17,900.00        304,433.00        425,125.00
+SCOTTS COMPANY                             0.000 SMG     810186106     47.6000        28,200.00        667,252.34      1,342,320.00
+SCP POOL CORPORATION                       0.000 POOL    784028102     27.4500        23,800.00        339,613.50        653,310.00
+SCPIE HOLDINGS INC.                        1.367 SKP     78402P104     29.2500         8,900.00        267,014.97        260,325.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     46.4000         2,100.00         74,714.59         97,440.00
+SEITEL INC                                 0.000 SEI     816074306     13.6000        23,300.00        353,412.82        316,880.00
+SELECTIVE INSURANCE GROUP                  2.761 SIGI    816300107     21.7300        27,500.00        669,534.13        597,575.00
+SHAW GROUP                                 0.000 SGR     820280105     23.5000        41,500.00        929,996.47        975,250.00
+SHOPKO STORES INC                          0.000 SKO     824911101      9.5000         4,800.00        128,207.05         45,600.00
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109      8.1000        35,600.00        185,533.66        288,360.00
+SIMPSON MANUFACTURING CO                   0.000 SSD     829073105     57.3000        28,900.00      1,481,003.73      1,655,970.00
+SKYLINE CORP.                              2.232 SKY     830830105Q    32.2500        25,900.00        773,195.79        835,275.00
+SKYWEST INC                                0.314 SKYW    830879102     25.4500        54,000.00        852,296.07      1,374,300.00
+SLI INC                                    7.662 SLI     78442T108      2.6100         4,000.00         10,480.00         10,440.00
+SMITH (A.O.) CORP                          2.666 AOS     831865209     19.5000        22,400.00        592,252.19        436,800.00
+SOLA INTERNATIONAL INC                     0.000 SOL     834092108     19.4000        22,500.00        675,310.74        436,500.00
+SONIC CORP                                 0.000 SONC    835451105     36.0000        25,900.00        273,649.42        932,400.00
+SOUTH FINANCIAL GROUP, INC                 2.478 TSFG    837841105     17.7500        60,200.00      1,106,072.21      1,068,550.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     18.8600        48,720.00        695,666.55        918,859.20
+SOUTHWEST BANCORP OF TEXAS                 0.000 SWBT    84476R109     30.2700        32,100.00        798,780.42        971,667.00
+SOUTHWEST GAS CORP                         3.668 SWX     844895102Q    22.3500        13,500.00        267,550.32        301,725.00
+SOUTHWESTERN ENERGY COMPANY                0.000 SWN     845467109     10.4000        24,800.00        299,936.22        257,920.00
+SPACELABS MEDICAL INC                      0.000 SLMD    846247104     12.1500        40,900.00        491,930.31        496,935.00
+SPHERION CORPORATION                       0.000 SFN     848420105      9.7600        52,600.00      1,323,025.44        513,376.00

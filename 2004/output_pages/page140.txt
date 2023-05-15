@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 108
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+VARIAN INC.                                0.000 VARI    922206107     41.0100         4,456.00        149,174.31        182,740.56
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     43.2400        26,758.00        757,374.68      1,157,015.92
+VENTAS INC.                                4.742 VTR     92276F100     27.4100        37,726.00      1,010,799.08      1,034,069.66
+VERISIGN INC                               0.000 VRSN    92343E102     33.5200        68,800.00      1,211,697.52      2,306,176.00
+VERIZON COMMUNICATIONS                     3.801 VZ      92343V104Q    40.5100       274,838.00     10,346,856.34     11,133,687.38
+VIACOM INC-CLASS B                         0.769 VIA.B   925524308     36.3900           776.00         31,107.83         28,238.64
+W HLDG CO INC                              0.828 WHI     929251106     22.9400         5,667.12        106,305.60        130,003.73
+WACHOVIA CORP.                             3.498 WB      929903102Q    52.6000       152,667.00      6,598,189.89      8,030,284.20
+WAL MART STORES INC                        0.984 WMT     931142103Q    52.8200       130,772.00      6,838,831.91      6,907,377.04
+WASHINGTON MUTUAL INC.                     4.351 WM      939322103     42.2800         3,300.00        132,122.10        139,524.00
+WELLS FARGO COMPANY                        3.089 WFC     949746101     62.1500        71,912.00      3,047,796.07      4,469,330.80
+WHIRLPOOL CORP                             2.485 WHR     963320106Q    69.2100        53,216.00      3,487,163.64      3,683,079.36
+WPS RESOURCES CORP.                        4.443 WPS     92931B106     49.9600         2,894.00        134,971.13        144,584.24
+WRIGLEY WM JR CO                           1.358 WWY     982526105Q    69.1900        31,940.00      2,040,978.38      2,209,928.60
+WYETH                                      2.160 WYE     983024100Q    42.5900       242,097.00      9,308,317.70     10,310,911.23
+XL CAPITAL LTD - CLASS A                   2.537 XL      G98255105     77.6500         3,570.00        279,474.48        277,210.50
+
+Instrument Total           250                                                    21,738,755.68    577,655,117.17    679,435,838.62
+
+Instrument -CP        COMMERCIAL PAPER (DISCOUNT)
+
+TREASURY BILL                              0.000         912795SF9      0.9945       200,000.00        198,908.00        198,908.00
+
+Instrument Total             1                                                       200,000.00        198,908.00        198,908.00
+
+Instrument -FUTURES5  FUTURES EXPOSURE
+
+S&P FUTURES INDEX 03/05                    0.000         CD:SP05H0  1,213.7000            10.00      2,980,707.28      3,034,250.01
+
+Instrument Total             1                                                            10.00      2,980,707.28      3,034,250.01
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ARDEN REALTY GROUP INC                     5.355 ARI     039793104Q    37.7200        20,070.00        629,567.91        757,040.40
+CATELLUS DEVELOP CORP                      3.529 CDX     149113102     30.6000         1,916.00         49,458.67         58,629.60
+CBL & ASSOC PROP                           3.721 CBL     124830100     76.3500           127.00          6,489.87          9,696.45
+HEALTH CARE REIT INC                       6.291 HCN     42217K106     38.1500        30,378.00      1,069,149.77      1,158,920.70
+HOSPITALITY PROPERTIES                     6.260 HPT     44106M102     46.0000        13,651.00        576,416.07        627,946.00
+HOST MARRIOTT CORP                         1.156 HMT     44107P104     17.3000         5,734.00         73,643.80         99,198.20

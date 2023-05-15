@@ -1,0 +1,23 @@
+ASOF02   Date 01/21/2005 Time 18:35:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 183
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-GIP    GLOBAL/INT'L PRIVATE
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+AIG GLOBAL EMERGING MARKETS                0.000 AIGG    VEA02504       0.0000    39,666,643.63     39,666,643.63     50,064,944.82
+AIG GLOBAL EMERGING MARKETS FU             0.000 9940808AAGAIG2         0.0000     1,759,935.08      1,759,935.08      1,759,935.08
+GILBERT GLOBAL EQUITY PARTNERS             0.000 GILBERTGAGILBERTG      0.0000    61,850,413.73     61,850,413.72     37,470,937.00
+HARBOURVEST INT'L III-DIRECT               0.000 HVIPE   VEA02633       0.0000    11,388,438.00     11,388,437.47      5,798,777.98
+HARBOURVEST INT'L III-PARTNERS             0.000 9940482FAHARBPART      0.0000    47,158,634.16     47,158,634.14     50,506,845.00
+HARBOURVEST INT'L IV-DIRECT                0.000 9940550GAGHIPEP4D      0.0000    20,727,958.00     20,727,957.93     19,237,549.00
+HARBOURVEST INT'L IV-PARTNERSH             0.000 9940510DAGHIPEP4P      0.0000    37,341,565.00     37,341,564.76     36,865,537.99
+
+Instrument Total             7                                                   219,893,587.60    219,893,586.73    201,704,526.87
+
+Portfolio Total              7                                                   219,893,587.60    219,893,586.73    201,704,526.87
+

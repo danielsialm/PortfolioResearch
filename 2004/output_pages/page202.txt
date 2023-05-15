@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 170
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+GENLYTE GROUP INC                          0.000 GLYT    372302109     85.6800         4,100.00        313,570.38        351,288.00
+GEORGIA GULF CORP                          0.642 GGC     373200203     49.8000        15,600.00        509,685.74        776,880.00
+GIBRALTAR INDUSTRIES INC                   0.846 ROCK    374689107     23.6200        14,200.00        316,631.56        335,404.00
+GLATFELTER                                 2.356 GLT     377316104     15.2800        87,100.00      1,036,402.66      1,330,888.00
+GLOBAL POWER EQUIPMENT GROUP               0.000 GEG     37941P108      9.8400       132,800.00      1,060,328.26      1,306,752.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102      9.4600       128,800.00      1,189,650.94      1,218,448.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     20.0500        72,800.00        816,012.75      1,459,640.00
+GRAPHIC PACKAGING CORP                     0.000 GPK     388688103      7.2000       121,600.00        799,272.46        875,520.00
+GREY WOLF INC                              0.000 GW      397888108      5.2700       443,900.00      1,713,721.30      2,339,353.00
+HAEMONETICS CORP/MASS                      0.000 HAE     405024100     36.2100        17,200.00        350,482.95        622,812.00
+HEALTHTRONICS INC                          0.000 HTRN    42222L107     10.6300        44,500.00        309,470.31        473,035.01
+HELMERICH & PAYNE, INC                     0.969 HP      423452101Q    34.0400        82,900.00      2,415,277.46      2,821,916.00
+HEXCEL CORP                                0.000 HXL     428291108     14.5000       121,300.00      1,338,785.39      1,758,850.00
+HUDSON HIGHLAND GROUP INC                  0.000 HHGP    443792106     28.8000        27,400.00        742,087.88        789,120.00
+HUGHES SUPPLY INC.                         0.803 HUG     444482103     32.3500        31,100.00        434,305.65      1,006,085.00
+IDEX CORPORATION                           1.185 IEX     45167R104     40.5000        23,300.00        550,720.37        943,650.01
+INTERLINE BRANDS INC                       0.000 IBI     458743101     17.5900        42,200.00        633,434.40        742,298.00
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     25.4100        12,138.99        149,772.25        308,451.97
+INVACARE CORP.                             0.108 IVC     461203101     46.2600        14,200.00        661,611.79        656,892.00
+ITRON INC.                                 0.000 ITRI    465741106     23.9100         6,300.00        151,044.85        150,633.00
+JLG INDUSTIRES, INC.                       0.101 JLG     466210101     19.6300        54,100.00        690,241.28      1,061,983.00
+JOHN B. SANFILIPPO & SON INC               0.000 JBSS    800422107     25.7800        19,800.00        466,130.76        510,444.00
+JONES LANG LASALLE I                       0.000 JLL     48020Q107     37.4100        58,100.00      1,617,622.57      2,173,521.00
+JOURNAL REGISTER CO                        0.000 JRC     481138105     19.3300        36,100.00        631,602.20        697,813.00
+K.C.S. ENERGY INC.                         0.541 KCS     482434206     14.7800       101,000.00      1,295,303.64      1,492,780.00
+KBNT BANCORP INC                           1.183 KNBT    482921103     16.9000        61,360.00      1,019,102.87      1,036,984.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106     11.8000       208,300.00      2,206,521.33      2,457,940.00
+KEYSTONE AUTOMOTIVE                        0.000 KEYS    49338N109     23.2500        41,000.00        908,815.42        953,250.00
+KIRBY CORP.                                0.000 KEX     497266106     44.3800        50,400.00      1,435,133.85      2,236,752.00
+LADISH INC                                 0.000 LDSH    505754200     11.4900        10,600.00        116,765.80        121,794.00
+MACDERMID INC.                             0.443 MRD     554273102     36.1000        40,000.00      1,253,010.76      1,444,000.00
+MARCUS CORPORATION                         0.875 MCS     566330106     25.1400        41,300.00        678,129.57      1,038,282.00
+MATERIAL SCIENCES CORP.                    0.000 MSC     576674105     17.9900        38,400.00        608,107.83        690,816.00
+MCCORMICK & SCHMICKS SEAFOOD R             0.000 MSSR    579793100     16.8500        60,000.00        730,563.14      1,011,000.00
+METROLOGIC INSTRUMENTS INC                 0.000 MTLG    591676101     21.2500        16,300.00        309,803.95        346,375.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     78.0600        19,900.00        467,817.45      1,553,394.00
+MINERALS TECHNOLOGIES INC                  0.299 MTX     603158106     66.7000        25,600.00      1,306,317.92      1,707,520.00
+MODINE MANUFACTURING CO                    1.924 MOD     607828100     33.7700        82,600.00      2,479,948.36      2,789,402.00
+MOOG INC. CL A                             0.000 MOG.A   615394202     45.3500        53,875.00      1,322,585.46      2,443,231.26

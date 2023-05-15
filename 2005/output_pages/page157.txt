@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 124
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+USEC INC.                                  4.602 USU     90333E108     11.9500           300.00          2,561.53          3,585.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     33.0300         2,300.00         44,024.20         75,969.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     29.0700         2,700.00         71,373.97         78,489.00
+VALMONT INDUSTRIES                         1.016 VMI     920253101     33.4600           100.00          2,895.29          3,346.00
+VALUECLICK, INC                            0.000 VCLK    92046N102     18.1100         3,600.00         32,773.84         65,196.00
+VALUEVISION MEDIA INC                      0.000 VVTV    92047K107     12.6000           100.00          1,145.22          1,260.00
+VARIAN INC.                                0.000 VARI    922206107     39.7900           400.00         13,790.21         15,916.00
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     43.9300         1,600.00         48,066.78         70,288.00
+VASCO DATA SECURITY INTL                   0.000 VDSI    92230Y104      9.8600         4,300.00         38,651.86         42,398.00
+VEECO INSTRUMENTS INC                      0.000 VECO    922417100     17.3300           100.00          1,699.40          1,733.00
+VENTANA MED SYS INC                        0.000 VMSI    92276H106     42.3500           100.00          1,876.69          4,235.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104     23.6200           100.00          1,787.63          2,362.00
+VERITAS DGC INC.                           0.000 VTS     92343P107     35.4900           300.00          4,359.91         10,647.00
+VIAD CORP                                  0.545 VVI     92552R406     29.3300           100.00          2,802.79          2,933.00
+VIASAT INC.                                0.000 VSAT    92552V100     26.7300           100.00          2,489.84          2,673.00
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     25.7000           300.00          5,896.90          7,710.00
+VICOR CORP                                 0.759 VICR    925815102     15.8100           600.00          8,547.49          9,486.00
+VIGNETTE CORPORATION                       0.000 VIGN    926734401     16.3100         3,700.00         66,607.20         60,347.00
+VISTACARE INC-CL A                         0.000 VSTA    92839Y109     12.5000           100.00          2,419.22          1,250.00
+VITAL IMAGES INC                           0.000 VTAL    92846N104     26.1500           100.00          1,762.96          2,615.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106      1.9200           200.00            798.67            384.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     33.0800           100.00          1,741.70          3,308.00
+W&T OFFSHORE INC                           0.408 WTI     92922P106     29.4000           200.00          4,456.81          5,880.00
+WABTEC                                     0.148 WAB     929740108     26.9000           200.00          3,815.55          5,380.00
+WALTER INDS INC                            0.321 WLT     93317Q105     49.7200         1,600.00         54,254.22         79,552.00
+WASHINGTON GROUP INTERNATIONAL             0.000 WGII    938862208     52.9700           100.00          3,095.27          5,297.00
+WASTE CONNECTIONS INC                      0.000 WCN     941053100     34.4600           200.00          4,841.78          6,892.00
+WASTE SERVICES INC                         0.000 WSII    941075103      3.3300           200.00            805.24            666.00
+WATER PIK TECHNOLOGIES INC                 0.000 PIK     94113U100     21.4700           800.00         13,800.15         17,176.00
+WATSCO INC.                                1.337 WSO     942622200     59.8100           100.00          1,921.10          5,981.00
+WATSON WYATT WORLDWIDE                     1.075 WW      942712100     27.9000         2,800.00         66,540.12         78,120.00
+WATTS WATER TECHNOLOGIES INC.              1.056 WTS     942749102Q    30.2900           100.00          2,141.16          3,029.00
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     26.8500           300.00          7,050.81          8,055.00
+WD-40 CO                                   3.351 WDFC    929236107     26.2600           100.00          2,854.80          2,626.00
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     21.6300           100.00          2,040.58          2,163.00
+WEBMETHODS                                 0.000 WEBM    94768C108      7.7100         1,400.00          9,314.66         10,794.00
+WEBSENSE INC                               0.000 WBSN    947684106     65.6400           100.00          2,495.85          6,564.00
+WEBSIDESTORY INC                           0.000 WSSI    947685103     18.1300         1,600.00         19,320.39         29,008.00
+WERNER ENTERPRISES INC                     0.812 WERN    950755108     19.7000           200.00          2,865.25          3,940.00

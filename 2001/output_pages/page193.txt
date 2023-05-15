@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 038
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 040
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-ROPER INDUSTRIES INC                         0.666     776696106   ROP             30,900          810,246.24        1,529,550.00
-ROSLYN BANCORP INC                           2.685     778162107   RSLN           128,450        2,046,347.18        2,247,875.01
-ROSS STORES INC                              0.529     778296103   ROST           145,300        3,659,790.96        4,661,224.00
-ROWAN COS.                                   0.000     779382100   RDC            144,868        2,850,035.48        2,806,093.17
-ROXIO INC                                    0.000     780008108   ROXI            15,281          718,154.82          252,913.79
-ROYAL DUTCH PETE                             2.448     780257804 S RD           4,549,085      204,848,379.90      222,996,146.72
-RPM INC. OHIO                                3.457     749685103 Q RPM            179,175        1,032,610.46        2,590,870.50
-RSA SECURITY INC.                            0.000     749719100   RSAS           139,800        3,521,129.19        2,440,908.00
-RTI INTERNATIONAL METALS                     0.000     74973W107   RTI             57,900          878,691.45          576,105.00
-RUBY TUESDAY INC                             0.242     781182100   RI              62,600          431,009.30        1,291,438.00
-RUDDICK CORP.                                2.251     781258108 Q RDK             94,900          681,272.74        1,517,451.00
-RUDOLPH TECHNOLOGIES INC                     0.000     781270103   RTEC            16,300          608,153.00          559,416.00
-RUSS BERRIE & CO INC                         3.200     782233100   RUS             64,000        1,664,358.56        1,920,000.00
-RUSSELL CORP                                 1.066     782352108 Q RML             11,000          191,523.21          165,110.00
-RYANS FAMILY STEAK HOUSES                    0.000     783519101   RYAN            66,000          744,262.64        1,428,900.00
-RYDER SYS. INC.                              2.708     783549108 Q R              140,621        3,001,606.02        3,114,755.15
-RYERSON TULL, INC.                           1.818     78375P107 Q RT              24,773          298,133.99          272,502.99
-RYLAND GROUP INC                             0.218     783764103   RYL             26,473          803,955.01        1,937,823.59
-SABRE HOLDINGS CORP.                         0.000     785905100   TSG            127,099        4,112,476.04        5,382,642.66
-SAFECO CORP.                                 2.375     786429100 Q SAFC           266,942        7,714,101.12        8,315,243.30
-SAFEWAY INC                                  0.000     786514208   SWY          1,077,420       41,796,602.26       44,982,284.98
-SAKS INCORPORATED                            0.000     79377W108   SKS            311,044        9,563,015.99        2,905,150.96
-SALEM COMMUNICATIONS -CL A                   0.000     794093104   SALM             7,200          113,300.64          165,600.00
-SALTON INC                                   0.000     795757103   SFP             24,500          707,567.30          462,560.00
-SANDISK CORP                                 0.000     80004C101   SNDK           148,900        5,026,101.14        2,144,160.00
-SANGSTAT MEDICAL CORP                        0.000     801003104   SANG            28,769          503,195.19          565,023.15
-SANMINA-SCI CORP                             0.000     800907107   SANM         1,349,214       23,807,445.26       26,849,358.58
-SAPIENT CORP                                 0.000     803062108   SAPE           238,121        4,414,093.92        1,838,294.12
-SARA LEE CORP.                               2.699     803111103 Q SLE          1,999,637       35,438,591.72       44,451,930.53
-SBC COMMUNICATIONS INC.                      2.629     78387G103 Q SBC          6,794,617      234,464,940.26      266,145,147.89
-SBS TECHNOLOGIES INC                         0.000     78387P103   SBSE            25,000          462,196.00          364,250.00
-SCANA CORP                                   4.311     80589M102 Q SCG            207,498        5,560,766.21        5,774,669.34
-SCANSOURCE INC                               0.000     806037107   SCSC             4,300          199,987.89          204,680.00
-SCHERING-PLOUGH                              1.787     806605101 Q SGP          2,640,772       61,815,359.17       94,566,045.34
-SCHLUMBERGER                                 1.364     806857108 Q SLB          1,082,713       57,940,719.25       59,495,079.35
-SCHOLASTIC CORP                              0.000     807066105   SCHL            61,500        2,342,520.49        3,095,295.00
-SCHOOL SPECIALTY INC.                        0.000     807863105   SCHS            29,800          697,718.40          681,824.00
-SCHULMAN (A.) INC.                           3.956     808194104 Q SHLM            59,300          802,569.08          809,445.00
-SCHWAB (CHARLES) CORP                        0.258     808513105   SCH          2,527,184       47,888,340.40       39,095,536.47
-SCHWEITZER-MAIDUIT INTL INC                  2.526     808541106   SWM             24,300          429,825.00          577,125.00
+SMUCKER J M                                  1.808     832696306 Q SJM             27,400          699,142.54          969,412.00
+SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC           160,600        2,568,343.92        2,564,782.00
+SNAP-ON TOOLS CORP.                          2.852     833034101 Q SNA             40,077        1,122,861.02        1,348,991.82
+SOLA INTERNATIONAL INC                       0.000     834092108   SOL             22,500          675,310.74          436,500.00
+SOLECTRON CORP                               0.000     834182107   SLR          1,700,394       39,758,237.15       19,180,444.32
+SOLUTIA INC.                                 0.285     834376105   SOI            286,691        4,124,465.70        4,019,407.82
+SONIC AUTOMOTIVE INC.                        0.000     83545G102   SAH              3,800           61,526.94           89,072.00
+SONIC CORP                                   0.000     835451105   SONC            25,900          273,649.42          932,400.00
+SONICWALL INC                                0.000     835470105   SNWL            25,900          441,257.29          503,496.00
+SONOCO PRODUCTS CO                           3.009     835495102   SON            188,620        5,179,578.04        5,013,519.60
+SONOSIGHT INC.                               0.000     83568G104   SONO             9,600          212,174.28          246,624.00
+SOTHEBY’S HOLDINGS CL-A                      0.000     835898107   BID            143,300        2,506,881.06        2,380,213.00
+SOUTH FINANCIAL GROUP, INC                   2.478     837841105   TSFG            66,600        1,196,559.25        1,182,150.00
+SOUTHERN CO                                  5.286     842587107 Q SO           1,004,064       18,216,233.54       25,453,022.39
+SOUTHERN ENERGY HOMES INC                    0.000     842814105   SEHI           154,800          142,190.88          348,300.00
+SOUTHERN UNION COMPANY                       0.000     844030106   SUG             48,720          695,666.55          918,859.20
+SOUTHTRUST CORP                              2.270     844730101   SOTR           725,232       13,095,836.76       17,891,473.44
+SOUTHWEST AIRLINES                           0.108     844741108 Q LUV          1,334,695       16,851,665.36       24,665,163.60
+SOUTHWEST BANCORP OF TEXAS                   0.000     84476R109   SWBT            48,043        1,300,245.73        1,454,261.62
+SOUTHWEST GAS CORP                           3.668     844895102 Q SWX             16,500          329,753.52          368,775.00
+SOUTHWESTERN ENERGY COMPANY                  0.000     845467109   SWN             24,800          299,936.22          257,920.00
+SOVEREIGN BANCORP INC                        0.817     845905108   SOV            496,600        7,540,463.82        6,078,384.00
+SPACELABS MEDICAL INC                        0.000     846247104   SLMD            96,000        1,166,729.98        1,166,400.00
+SPHERION CORPORATION                         0.000     848420105   SFN             52,600        1,323,025.44          513,376.00
+SPINNAKER EXPLORATION CO                     0.000     84855W109   SKE              5,600          240,513.95          230,496.00
+SPRINT CORP.                                 2.490     852061100 Q FON          1,965,445       70,863,482.70       39,466,135.59
+SPRINT PCS GROUP                             0.000     852061506   PCS          2,105,091       63,286,179.82       51,385,271.31
+SPS TECHNOLOGIES INC                         0.000     784626103   ST              24,600        1,130,418.91          859,032.00
+SPSS INC.                                    0.000     78462K102   SPSS               400            7,896.83            7,100.00
+SPX CORP.                                    0.000     784635104 Q SPW             82,500        8,527,306.64       11,294,250.00
+ST JUDE MED. INC.                            0.000     790849103   STJ            115,250        5,592,626.24        8,949,162.51
+ST MARY LAND & EXPLORATION                   0.471     792228108   MARY            27,600          458,959.26          584,844.00
+ST. PAUL COMPANIES                           2.547     792860108 Q SPC            627,080       22,551,469.24       27,572,707.61
+STANCORP FINANCIAL GROUP                     0.677     852891100   SFG             66,200        3,126,869.19        3,127,950.00
+STANDARD MICROSYSTEMS CORP                   0.000     853626109   SMSC            14,400          222,161.29          223,488.00
+STANDARD MOTOR PRODS                         2.589     853666105   SMP             12,600          199,580.81          175,140.00
+STANDARD REGISTER CO                         4.964     853887107   SR              27,000          377,467.64          500,310.00
+STANDARD-PACIFIC CORP                        1.315     85375C101   SPF             48,800          884,957.51        1,186,816.00
+STANDEX INTERNATIONAL CORP                   3.862     854231107   SXI             11,000          244,205.50          239,250.00
+STANLEY WORKS                                2.061     854616109 Q SWK            131,486        4,087,696.77        6,123,303.01

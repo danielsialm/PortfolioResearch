@@ -1,0 +1,48 @@
+ASOF11   Date 01/20/2004 Time 18:59:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SM PRIME HLDGS ORD                           0.000     6818843      SMPH_     4,000,000.00          503,950.78
+STANDARD BANK                                0.011     6108005      SBK_S       650,000.00        1,899,988.50
+T IS BANKASI SER C                           0.000     4869939      ISCTR   176,000,000.00          350,738.28
+T.GARANTI BANASI T                           0.000     4361617      GARAN   400,000,000.00          536,613.78
+TAIWAN CELLULAR CORP                         0.005     6290496      3045_     3,300,000.00        2,520,792.50
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.000     6889106      27933     2,475,491.80        3,512,350.00
+TELEFONOS DE MEXIC                           0.296     2881689      TELME       933,000.00          890,643.83
+TELEKOMUNIKAYA POL                           0.003     5552551      TPS_P       500,000.00        2,191,357.41
+TELKOM SOUTH AFRICA LTD                      0.194     6588577      TKG_S       100,000.00          350,881.59
+TENAGA NASIONAL BERHAD                       0.297     6904612      TNB_M       700,000.00        2,194,755.09
+TENARIS SA                                   0.345     2172402      TS_AF       187,230.00          353,643.65
+TEVA PHARMA IND IL                           0.001     6882172      TEVA_        40,000.00        2,330,770.87
+THAI ENGINE MANFACTURING                     0.000     6885762      43247         4,687.00                0.00
+TISCO FINANCE PCL - FOREIGN                  0.000     6892858      TISCO     2,000,000.00        1,513,142.44
+UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_     5,980,960.00        2,496,987.27
+UNIBANCO-UNITS                           1,313.116     2000837      UBBR1     5,000,000.00          185,105.68
+UNIFIED ENERGY SYSTEMS                      12.078     4889335      EESR$     7,000,000.00          796,442.45
+UNIPETROL                                    0.000     5297294      UNIP_       440,000.00        1,014,671.41
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,768,312.00        2,549,038.31
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00                0.00
+YUKOS - $US                                290.798     5110863      YUKO$        20,000.00          316,444.00
+
+Instrument Total             132                                          2,492,780,509.61      210,394,814.34
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                   160,142.14       16,014,214.01
+
+Instrument Total               1                                                160,142.14       16,014,214.01
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+DAESENG FEED CO RT                           0.000     9418264      94182           260.00               80.70
+
+Instrument Total               1                                                    260.00               80.70
+
+Portfolio Total              169                                          2,499,298,852.75      333,936,882.22        423,383,779.21

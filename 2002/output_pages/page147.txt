@@ -1,0 +1,23 @@
+ASOF02   Date 01/21/2003 Time 18:53:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 119
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+Instrument Total           430                                                     7,844,324.53    218,455,312.03    205,971,390.78
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         8.006 EOP     294741103     24.9800         6,000.00        149,723.03        149,879.99
+EQUITY RESIDENTIAL PROP                    7.038 EQR     29476L107Q    24.5800         4,900.00        112,905.09        120,441.96
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700         6,000.00        206,169.41        204,420.00
+
+Instrument Total             3                                                        16,900.00        468,797.53        474,741.95
+
+Portfolio Total            433                                                     7,861,224.53    218,924,109.56    206,446,132.73
+

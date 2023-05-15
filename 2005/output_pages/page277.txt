@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 060
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SEROLOGICALS CORP                            0.000     817523103   SERO            36,800          778,008.38          726,432.00
+SERVICE CORP INTERNATIONAL                   1.222     817565104 Q SCI             74,900          367,531.45          612,682.00
+SERVICEMASTER COMPANY                        3.682     81760N109   SVM          1,020,200       12,305,397.93       12,191,390.00
+SFBC INTERNATIONAL INC                       0.000     784121105   SFCC             9,400          241,435.13          150,494.00
+SHARPER IMAGE CORP                           0.000     820013100   SHRP            70,700        1,025,560.04          688,618.00
+SHAW GROUP                                   0.000     820280105   SGR            142,400        2,212,803.75        4,142,416.00
+SHENANDOAH TELECOMMU                         1.154     82312B106   SHEN             7,270          196,532.26          289,636.80
+SHERWIN-WILLIAMS CO                          1.805     824348106 Q SHW             64,200        2,019,054.71        2,915,964.00
+SHOE CARNIVAL INC                            0.000     824889109   SCVL             7,900          109,994.55          173,168.00
+SHUFFLE MASTER INC                           0.000     825549108   SHFL            34,556          688,999.35          868,737.84
+SIEBEL SYSTEMS INC.                          0.945     826170102   SEBL           766,800        6,950,965.24        8,112,744.00
+SIERRA BANCORP                               2.106     82620P102   BSRR             5,700          134,422.53          129,903.00
+SIERRA HEALTH SERVICES                       0.000     826322109   SIE             24,482        1,672,901.00        1,957,580.72
+SIERRA PACIFIC RESOURCES                     6.135     826428104   SRP            273,700        3,166,043.65        3,569,048.00
+SIGMA-ALDRICH                                1.200     826552101 Q SIAL           185,500        9,415,858.35       11,740,295.00
+SIGMATEL INC                                 0.000     82661W107   SGTL            54,700        1,411,223.36          716,570.00
+SIGNATURE BANK                               0.000     82669G104   SBNY           108,500        2,711,534.04        3,045,595.00
+SILGAN HOLDINGS INC                          1.107     827048109   SLGN            10,200          162,601.95          368,424.00
+SILICON IMAGE INC                            0.000     82705T102   SIMG            34,500          312,304.26          312,225.00
+SILICON LABORATORIES                         0.000     826919102   SLAB            56,300        1,589,663.36        2,063,958.00
+SILICON STORAGE TECH                         0.000     827057100   SSTI            92,900          570,027.12          469,145.00
+SIMMONS 1ST NATL COR                         2.310     828730200   SFNC            15,200          352,359.13          421,040.00
+SIMPSON MANUFACTURING CO                     0.880     829073105   SSD            128,700        3,319,013.05        4,678,245.01
+SIRF TECHNOLOGY HOLDINGS                     0.000     82967H101   SIRF            97,705        1,997,856.22        2,911,609.00
+SIRIUS SATELLITE RADIO INC.                  0.000     82966U103   SIRI         1,154,300        7,613,719.03        7,733,810.00
+SIX FLAGS INC.                               0.000     83001P109   PKS             98,500          720,265.97          759,435.00
+SJW CORP                                     2.351     784305104   SJW              8,100          275,087.31          368,550.00
+SKECHERS U S A INC                           0.000     830566105   SKX             44,300          604,575.28          678,676.00
+SKY FINL GROUP INC                           3.307     83080P103   SKYF            15,400          435,667.53          428,428.00
+SKYLINE CORP.                                1.978     830830105 Q SKY              7,200          221,183.05          262,080.00
+SKYWEST INC                                  0.446     830879102   SKYW            72,800        1,289,550.83        1,955,408.00
+SKYWORKS SOLUTIONS INC                       0.000     83088M102   SWKS           166,700        5,924,759.40          848,503.00
+SLM CORP                                     1.597     78442P106   SLM            548,600       18,389,399.94       30,222,374.00
+SM&A                                         0.000     78465D105   WINS           237,202        2,154,061.50        1,952,172.46
+SMART & FINAL INC                            0.000     831683107   SMF             36,900          450,931.02          475,272.00
+SMITH (A.O.) CORP                            1.823     831865209   AOS             17,800          502,891.63          624,780.00
+SMITH INTERNATIONAL INC                      0.646     832110100   SII             38,200        1,259,506.80        1,417,602.00
+SMITHFIELD FOODS INC                         0.000     832248108   SFD            416,358       11,922,482.76       12,740,554.80
+SMURFIT-STONE CONTAINER CORPORATION          0.000     832727101   SSCC         2,100,000       29,383,276.02       29,757,000.00
+SNAP-ON TOOLS CORP.                          2.662     833034101 Q SNA            200,400        7,588,244.92        7,527,024.00

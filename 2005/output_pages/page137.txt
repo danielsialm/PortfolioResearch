@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 104
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+CROWN MEDIA HLDGS IN                       0.000 CRWN    228411104      9.1700         2,600.00         27,800.02         23,842.00
+CSG SYSTEMS INTL. INC.                     0.000 CSGS    126349109     22.3200           200.00          2,785.69          4,464.00
+CSK AUTO CORP                              0.000 CAO     125965103     15.0800           200.00          3,090.36          3,016.00
+CSS INDS INC                               1.562 CSS     125906107     30.7300           100.00          3,338.71          3,073.00
+CTS CORP.                                  1.085 CTS     126501105     11.0600           100.00          1,523.31          1,106.00
+CUMULUS MEDIA INC. CL. A                   0.000 CMLS    231082108     12.4100           900.00         14,484.18         11,169.00
+CURTISS-WRIGHT CORP.                       0.879 CW      231561101     54.6000           100.00          3,219.99          5,460.00
+CV THERAPEUTICS INC                        0.000 CVTX    126667104     24.7300           400.00          8,892.75          9,892.00
+CVB FINL CORP                              1.772 CVBF    126600105     20.3100           200.00          3,406.08          4,062.00
+CYBERGUARD CORP                            0.000 CGFW    231910100      8.8300         3,800.00         31,273.36         33,554.00
+CYBERONICS INC                             0.000 CYBX    23251P102     32.3000         2,400.00         63,787.06         77,520.00
+CYMER INC                                  0.000 CYMI    232572107     35.5100           600.00         18,544.22         21,306.00
+CYPRESS BIOSCIENCE INC                     0.000 CYPB    232674507      5.7800           100.00          1,357.60            578.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     14.2500           300.00          4,199.35          4,275.00
+DAKTRONICS INC                             0.338 DAKT    234264109     29.5700           100.00          1,793.20          2,957.00
+DARLING INTERNATIONAL INC                  0.000 DAR     237266101      3.9700        11,400.00         38,536.07         45,258.00
+DECODE GENETICS INC                        0.000 DCGN    243586104      8.2600           200.00          1,635.40          1,652.00
+DELPHI FINANCIAL GROUP CL-A                0.782 DFG     247131105     46.0100           100.00          3,142.25          4,601.00
+DELTA & PINE LAND CO.                      2.607 DLP     247357106     23.0100           100.00          2,614.89          2,301.00
+DELTA PETROLEUM CORP                       0.000 DPTR    247907207     21.7700           100.00          1,381.12          2,177.00
+DENDRITE INTERNATIONAL INC.                0.000 DRTE    248239105     14.4100         3,000.00         50,102.78         43,230.00
+DEXCOM INC                                 0.000 DXCM    252131107     14.9200           800.00          9,726.24         11,936.00
+DIAGNOSTIC PRODUCTS CORP                   0.576 DP      252450101     48.5500           100.00          3,024.59          4,855.00
+DIAMONDCLUSTER INTERNATIONAL I             0.000 DTPI    25278P106      7.9400         8,200.00         75,046.28         65,108.00
+DIGITAL RIVER INC                          0.000 DRIV    25388B104     29.7400         2,600.00         76,857.68         77,324.00
+DIME COMMUNITY BANCSHARES                  3.833 DCOM    253922108     14.6100           100.00          1,610.18          1,461.00
+DIODES INC                                 0.000 DIOD    254543101     31.0500         2,400.00         44,849.61         74,520.00
+DIONEX CORP.                               0.000 DNEX    254546104     49.0800           100.00          3,258.35          4,908.00
+DIVERSA CORP                               0.000 DVSA    255064107      4.8000           100.00          1,006.38            480.00
+DJ ORTHOPEDICS INC                         0.000 DJO     23325G104     27.5800         1,900.00         47,946.18         52,402.00
+DOBSON COMMUNICATIONS CORP                 0.000 DCEL    256069105      7.5000           600.00          4,012.14          4,500.00
+DOLLAR THRIFTY AUTOM                       0.000 DTG     256743105     36.0700           100.00          2,621.75          3,607.00
+DOMINO'S PIZZA INC                         1.652 DPZ     25754A201     24.2000           100.00          1,879.22          2,420.00
+DONEGAL GROUP INC                          1.721 DGICA   257701201     23.2400           200.00          3,935.13          4,648.00
+DOT HILL SYSTEMS CORP                      0.000 HILL    25848T109      6.9300         8,900.00         61,915.24         61,677.00
+DOVER MOTORSPORTS IN                       0.982 DVD     260174107      6.1100           400.00          1,822.31          2,444.00
+DRS TECHNOLOGIES INC                       0.233 DRS     23330X100     51.4200           100.00          3,354.95          5,142.00
+DSP GROUP INC.                             0.000 DSPG    23332B106     25.0600         2,300.00         49,586.65         57,638.00
+DTS INC                                    0.000 DTSI    23335C101     14.8000         3,100.00         54,001.15         45,880.00

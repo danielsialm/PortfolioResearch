@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 043
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+KOHLS CORP                                   0.000     500255104   KSS          1,466,500       70,216,033.81       72,107,805.00
+KOMAG INC                                    0.000     500453204   KOMG           108,800        1,511,722.80        2,043,264.00
+KOPIN CORP                                   0.000     500600101   KOPN            77,900          581,587.78          301,473.00
+KORN/FERRY INTERNATIONAL                     0.000     500643200   KFY             34,700          337,693.73          720,025.00
+KOS PHARMACEUTICALS                          0.000     500648100   KOSP            66,375        2,541,208.28        2,498,355.00
+KOSAN BIOSCIENCES IN                         0.000     50064W107   KOSN            23,423          206,344.26          162,321.39
+KRAFT FOODS INC - A                          2.302     50075N104   KFT            785,900       24,291,060.17       27,985,899.00
+KRISPY KREME DOUGHNUTS INC                   0.000     501014104   KKD             43,000        1,160,572.50          541,800.00
+KROGER CO.                                   0.000     501044101   KR           1,006,500       17,266,575.18       17,654,010.00
+KRONOS INC.                                  0.000     501052104   KRON            49,280        1,634,473.57        2,519,686.40
+KRONOS WORLDWIDE INC                         2.454     50105F105   KRO                 99            2,502.80            4,060.74
+KULICKE & SOFFA INDUSTRIES                   0.000     501242101   KLIC            17,200          132,163.67          148,264.00
+KYPHON INC                                   0.000     501577100   KYPH           109,205        2,014,934.17        2,813,120.80
+L-3 COMMUNICATIONS HOLDINGS INC              0.546     502424104   LLL             75,000        4,291,089.74        5,493,000.00
+LA QUINTA INNS INC                           0.770     50419U202   LQI            729,509        5,343,471.25        6,631,236.81
+LA-Z-BOY INC.                                2.862     505336107   LZB            134,100        2,593,810.30        2,061,117.00
+LABONE INC                                   0.000     50540L105   LABS            11,400          345,183.42          365,256.00
+LABOR READY INC                              0.000     505401208   LRW             46,000          321,861.59          778,320.00
+LABORATORY CRP OF AMER HLDGS                 0.000     50540R409   LH             330,400       12,087,111.47       16,460,528.00
+LABRANCHE & CO., INC.                        3.571     505447102   LAB             58,800          502,130.05          526,848.00
+LACLEDE GROUP HLDG. CO.                      4.366     505597104   LG              46,400        1,251,727.60        1,445,360.00
+LADISH INC                                   0.000     505754200   LDSH            10,600          116,765.80          121,794.00
+LAFARGE NORTH AMERICA INC.                   1.714     505862102   LAF            200,200        8,308,617.91       10,274,264.00
+LAIDLAW INTERNATIONAL INC                    0.000     50730R102   LI             184,000        2,598,709.56        3,937,600.00
+LAKELAND BANCORP INC                         2.279     511637100   LBAI            58,942          987,094.45        1,034,432.10
+LAKELAND FINL CORP                           2.115     511656100   LKFN             6,500          211,097.51          258,050.00
+LAKES ENTERTAINMENT INC                      0.000     51206P109   LACO            53,800          506,569.04          876,402.00
+LAM RESEARCH CORP                            0.000     512807108   LRCX           270,100        6,115,686.09        7,808,591.00
+LAMAR ADVERTISING CO                         0.000     512815101   LAMR            16,000          665,137.46          684,480.00
+LANCASTER COLONY CORP                        2.332     513847103   LANC            40,700        1,524,926.35        1,744,809.00
+LANCE INC                                    3.363     514606102 Q LNCE            56,100          669,440.79        1,067,583.00
+LANDAMERICA FINANCIAL GROUP                  1.112     514936103   LFG             64,800        2,875,295.87        3,494,664.00
+LANDAUER INC                                 3.719     51476K103   LDR             14,100          605,607.76          644,370.00
+LANDRY'S RESTAURANTS INC.                    0.688     51508L103   LNY             55,800        1,519,209.81        1,621,548.00
+LANDSTAR SYSTEM INC.                         0.000     515098101   LSTR            56,810        2,065,379.68        4,183,488.40
+LANNETT COMPANY                              0.000     516012101   LCI              7,700           79,647.92           75,845.00
+LASERSCOPE                                   0.000     518081104   LSCP             8,800          136,927.68          316,008.00
+LATTICE SEMICON. CORP.                       0.000     518415104   LSCC           162,500        1,061,807.63          926,250.00
+LAUREATE EDUCATION INC                       0.000     518613104   LAUR           157,595        5,454,535.28        6,948,363.55
+LAWSON PRODUCTS                              1.427     520776105 Q LAWS            10,300          338,057.29          519,429.00

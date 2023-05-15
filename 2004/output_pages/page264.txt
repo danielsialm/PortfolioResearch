@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+LIONS GATE ENTERTAINMENT CORP                0.000     535919203   LGF            113,955          850,520.49        1,210,202.10
+LITHIA MOTORS INC - CL A                     1.193     536797103   LAD             47,600        1,054,072.96        1,276,632.00
+LITTELFUSE INC                               0.000     537008104   LFUS            39,750        1,119,578.05        1,357,860.00
+LIZ CLAIBORNE                                0.533     539320101 Q LIZ            182,200        5,857,963.15        7,690,662.00
+LKQ CORP                                     0.000     501889208   LKQX            49,950          845,432.78        1,002,496.50
+LNR PROPERTY CORP                            0.079     501940100   LNR             22,400        1,004,539.25        1,409,184.00
+LOCKHEED MARTIN CORPORATION                  1.800     539830109 Q LMT          1,371,739       62,605,519.99       76,200,101.45
+LOEWS CORP                                   0.853     540424108 Q LTR            379,900       17,188,253.63       26,706,970.00
+LOEWS CORP - CAROLINA GROUP                  6.286     540424207   CG              99,300        2,518,872.68        2,874,735.00
+LOJACK CORP                                  0.000     539451104   LOJN            78,734          637,199.01          955,043.42
+LONE STAR STEAKHOUSE & SALOON                2.500     542307103   STAR            39,267          807,749.55        1,099,476.00
+LONE STAR TECHNOLOGIES INC                   0.000     542312103   LSS             32,000          883,222.85        1,070,720.00
+LONGS DRUG STORES INC                        2.031     543162101 Q LDG             33,600          569,132.28          926,352.00
+LONGVIEW FIBRE CO                            0.441     543213102   LFB            106,900        1,048,529.76        1,939,166.00
+LOOKSMART LTD                                0.000     543442107   LOOK           106,081          245,103.68          232,317.39
+LOUISIANNA PACIFIC                           1.495     546347105 Q LPX            535,011       11,664,464.82       14,306,194.14
+LOWE'S COS                                   0.277     548661107 Q LOW          1,171,220       29,801,621.47       67,450,559.80
+LSI LIGHTING SYS                             2.515     50216C108 Q LYTS            29,025          343,610.71          332,336.25
+LSI LOGIC CORP                               0.000     502161102   LSI            770,900        7,194,621.17        4,224,532.00
+LTC PROPERTIES INC                           6.027     502175102   LTC             38,200          505,644.50          760,562.00
+LTX CORP                                     0.000     502392103   LTXX            25,000          262,911.73          192,250.00
+LUBRIZOL CORP                                2.821     549271104   LZ             163,200        5,440,052.23        6,015,552.00
+LUBYS INC.                                   0.000     549282101 Q LUB             10,800           39,385.80           81,000.00
+LUCENT TECHNOLOGIES                          0.000     549463107   LU           6,979,200       52,724,475.21       26,241,792.00
+LUFKIN INDUSTRIES INC                        1.804     549764108   LUFK            15,600          472,479.76          622,564.80
+LUMINENT MORTGAGE CAPITAL INC               14.453     550278303   LUM             82,300          980,691.75          979,370.00
+LYON WILLIAM HOMES                           0.000     552074106   WLS              4,700          296,022.84          330,128.00
+LYONDELL CHEMICAL COMPANY                    3.112     552078107 Q LYO            192,200        3,624,504.85        5,558,424.00
+M/I HOMES INC                                0.181     55305B101   MHO             18,400          756,257.73        1,014,024.00
+M&F WORLDWIDE CORP                           0.000     552541104   MFW             40,200          542,515.17          547,524.00
+M&T BANK CORPORATION                         1.483     55261F104   MTB            122,500       10,623,002.35       13,210,400.00
+MACATAWA BK CORP                             1.858     554225102   MCBC             9,750          264,640.14          314,827.50
+MACDERMID INC.                               0.443     554273102   MRD             81,265        2,642,663.11        2,933,666.50
+MACROMEDIA INC                               0.000     556100105   MACR           117,000        2,169,443.81        3,641,040.00
+MACROVISION CORP                             0.000     555904101   MVSN            62,600        1,185,461.09        1,610,072.00
+MADDEN STEVEN LTD                            0.000     556269108   SHOO            12,900          274,161.97          243,294.00
+MAF BANCORP INC                              1.874     55261R108   MAFB            25,802          856,969.80        1,156,445.64
+MAGELLAN HEALTH SERVICES INC                 0.000     559079207   MGLN           100,000        3,413,109.86        3,416,000.00
+MAGMA DESIGN AUTOMATION                      0.000     559181102   LAVA            12,800          235,702.81          160,768.00
+MAGNA ENTERTAINMENT-CL A                     0.000     559211107   MECA            78,300          389,890.20          471,366.00

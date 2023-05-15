@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 129
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+TRAVELERS PROPERTY CASUALTY -              1.885 TAP.B   89420G406     16.9700        54,417.00        824,387.38        923,456.51
+TRIBUNE CO                                 0.852 TRB     896047107Q    51.6000        39,200.00      1,549,261.61      2,022,720.00
+TYCO INT'L. LTD NEW                        0.188 TYC     902124106Q    26.5000        70,600.00      1,202,106.20      1,870,900.00
+TYSON FOODS INC. CL-A                      1.208 TSN     902494103     13.2400       290,400.00      3,331,951.44      3,844,896.00
+UNION PACIFIC CORP.                        1.727 UNP     907818108Q    69.4800        22,300.00      1,117,703.57      1,549,404.00
+UNION PLANTERS CORP.                       4.236 UPC     908068109     31.4900        35,500.00      1,040,726.05      1,117,895.00
+UNIONBANCAL CORPORATION                    2.155 UB      908906100     57.5400        21,300.00      1,010,416.66      1,225,602.00
+UNITED PARCEL SERVICES INC                 1.341 UPS     911312106     74.5500        60,800.00      4,049,417.32      4,532,640.00
+UNITED STATES STEEL CORP.                  0.571 X       912909108Q    35.0200        44,400.00        671,844.32      1,554,888.01
+UNITEDHEALTH GROUP INC                     0.025 UNH     91324P102A    58.1800        67,700.00      2,151,423.95      3,938,786.00
+US BANCORP                                 3.223 USB     902973304     29.7800       252,100.00      5,465,517.94      7,507,538.01
+US CELLULAR CORP.                          0.000 USM     911684108     35.5000        24,900.00        657,500.48        883,950.00
+VALERO ENERGY CORP.                        1.035 VLO     91913Y100Q    46.3400        50,700.00      1,868,227.03      2,349,438.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     37.1600       104,900.00      2,626,538.65      3,898,084.00
+VERIZON COMMUNICATIONS                     4.390 VZ      92343V104Q    35.0800       147,500.00      6,595,096.13      5,174,300.00
+VIACOM INC-CLASS B                         0.540 VIA.B   925524308     44.3800       185,900.00      7,780,827.61      8,250,242.00
+VISTEON CORP                               2.305 VC      92839U107     10.4100        85,800.00        790,876.65        893,177.99
+VULCAN MATERIALS CO                        2.060 VMC     929160109     47.5700        14,100.00        679,600.26        670,737.00
+WACHOVIA CORP.- NEW                        3.434 WB      929903102Q    46.5900       156,200.00      5,517,624.87      7,277,358.01
+WAL MART STORES INC                        0.678 WMT     931142103Q    53.0500       153,400.00      5,680,669.12      8,137,870.00
+WALGREEN CO.                               0.472 WAG     931422109Q    36.3800        18,600.00        377,658.20        676,668.00
+WASHINGTON MUTUAL INC.                     4.087 WM      939322103     40.1200        43,100.00      1,280,477.72      1,729,172.00
+WASTE MANAGEMENT INC.                      0.033 WMI     94106L109     29.6000        28,800.00        695,749.95        852,480.00
+WELLS FARGO COMPANY                        3.056 WFC     949746101     58.8900       121,400.00      4,362,786.94      7,149,246.00
+WYETH                                      2.167 WYE     983024100Q    42.4500        12,700.00        544,240.44        539,115.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     70.4000        71,100.00      2,757,497.46      5,005,439.99
+
+Instrument Total           221                                                    19,975,726.53    553,581,977.36    654,198,440.75
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ARCHSTONE COMMUNITIES                      6.111 ASN     039583109Q    27.9800        26,900.00        658,708.37        752,662.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500       156,400.00      4,169,888.66      4,480,859.98
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100        73,300.00      2,036,259.41      2,163,083.00
+
+Instrument Total             3                                                       256,600.00      6,864,856.44      7,396,604.98
+
+Portfolio Total            224                                                    20,232,326.53    560,446,833.80    661,595,045.73
+

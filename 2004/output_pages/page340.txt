@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+DIAGEO ORD GBP 28.                           7.131     0237400      DGE_L       251,383.00        2,564,255.02
+E.ON AG                                      4.046     4942904      EOA_G        95,634.00        5,238,197.26
+EAST JAPAN RAILWAY                           0.010     6298542      9020_           307.00        1,489,829.37
+EISAI CO JPY50                               0.012     6307200      4523_        21,600.00          479,857.50
+ELAN CORPORATION PLC                         0.000     0307295      ELN_I        26,306.00          495,176.24
+ELECTRABEL ORD NPV                           4.661     4294791      ELEB_        14,769.00        3,603,912.35
+ELECTROLUX AB - SER B                        0.643     5466782      ELUXB        49,600.00        1,111,554.01
+ENBRIDGE INC                                 2.558     2466149      ENB_C         3,700.00          145,062.62
+ENCANA CORP                                  0.488     2793193      ECA_C         8,300.00          335,080.83
+ENDESA SA                                    4.750     5271782      ELE_S       152,900.00        3,373,662.46
+ERICSSON LM-B                                0.355     5959378      ERICB     2,124,200.00        5,394,583.61
+ERSTE BANK DER OESTER SPARK                  1.296     5289837      EBS_A       158,879.00        5,591,122.27
+ESPRIT HOLDINGS                              0.320     6321642      330_H        44,900.00          200,968.20
+FANUC JPY50                                  0.004     6356934      6954_        10,900.00          708,094.61
+FAST RETAILING CO.                           0.016     6332439      9983_         3,600.00          260,736.40
+FORTIS                                       4.608     7266139      FORB_       430,561.00        7,597,798.12
+FOSTERS BREWING GR                           2.605     6349268      FGL_A       364,900.00        1,528,830.56
+FRANCE TELECOM FRF                           1.394     5176177      FTE_F        43,312.00        1,078,792.26
+FRASER + NEAVE LTD                           2.067     6689458      FNN_S        65,400.00          328,954.51
+FRONTLINE LTD                                0.613     5561052      FRO_N        31,600.00          537,853.50
+FUJI PHOTO FILM CO                           0.006     6356525      4901_        35,424.00        1,143,125.67
+FUJISAWA PHARMACEUTICAL                      0.007     6356804      4511_        20,600.00          491,199.06
+FUJITSU NEW JPY50                            0.008     6356945      6702_       140,997.00          922,495.60
+GAMESA CORP TECNOLOGICA                      3.128     B01CP21      GAM_S        58,600.00          781,619.49
+GAS NATURAL SDG-E                            3.337     5650422      GAS_S        29,500.00          857,869.09
+GEN PROPERTY TST A                           3.143     6365866      GPT_A       453,200.00        1,287,658.35
+GIVAUDAN                                     1.045     5980613      GIVN_           215.00           87,133.71
+GKN ORSH 0.5GBP                              9.497     3064650      GKN_L        79,423.00          359,468.45
+GLAXOSMITHKLINE                              6.598     0925288      GSK_L       421,636.00        9,304,158.43
+GOLDEN OCEAN GROUP LTD                       0.000     B0500H1      8825Z        94,800.00           50,079.81
+GPE BRUX LAMBERT                             2.541     7097328      GBL_B        30,745.00        1,390,307.19
+GREAT UNIV STORES                            5.727     0384704      GUS_L        66,504.00          606,117.94
+GREAT-WEST LIFECO                            2.266     2384951      GWO_C         6,200.00          122,399.98
+GROUP 4 SECURICOR                            0.000     B01FLG6      GFS_L       117,260.00          204,814.60
+GROUP DANONE ORD                             2.450     B018SX1      BN_FP        13,700.00          873,902.06
+HANG LUNG PROPERTIES LTD                     0.471     6030506      101_H        76,400.00          111,287.14
+HANG SENG BANK HK                            0.607     6408374      11_HK        40,400.00          526,380.22
+HBOS PLC                                     7.108     3058750      HBOS_       260,131.00        3,221,827.04
+HENDERSON LAND DEVELOPMENT                   0.286     6420538      12_HK        38,400.00          176,643.85

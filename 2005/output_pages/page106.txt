@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 073
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+PROASSURANCE CORP                          0.000 PRA     74267C106     48.6400        35,100.00      1,199,583.02      1,707,264.00
+PROGENICS PHARMACEUT                       0.000 PGNX    743187106     25.0100         2,100.00         37,532.70         52,521.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     28.3800        41,752.00        895,815.60      1,184,921.76
+PROGRESSIVE GAMING CORP                    0.000 PGIC    59862K108      9.8700        11,700.00        117,292.50        115,479.00
+PROQUEST COMPANY                           0.000 PQE     74346P102     27.9100        24,100.00        635,521.51        672,631.00
+PROSPERITY BANCSHARE                       1.391 PRSP    743606105     28.7400         7,840.00        203,943.91        225,321.60
+PROVIDENCE SERVICE CORP                    0.000 PRSC    743815102     28.7900         8,300.00        196,413.69        238,957.00
+PROVIDENT BANKSHARES CORPORATI             3.316 PBKS    743859100     33.7700        34,752.00        905,839.77      1,173,575.04
+PROVIDENT FINANCIAL HLDGS                  2.129 PROV    743868101     26.3000        16,600.00        407,084.06        436,580.00
+PROVIDENT FINANCIAL SERVICES               1.944 PFS     74386T105     18.5100        76,509.00      1,351,506.87      1,416,181.59
+PROVIDENT NEW YORK BANCORP                 1.816 PBNY    744028101     11.0100         3,548.00         40,324.39         39,063.48
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100     14.8400        68,400.00        464,308.63      1,015,056.00
+PSYCHIATRIC SOLUTIONS INC                  0.000 PSYS    74439H108     58.7400        25,600.00      1,113,011.02      1,503,744.00
+QAD INC                                    1.308 QADI    74727D108      7.6400        51,583.00        480,048.06        394,094.12
+QUALITY SYSTEMS INC                        0.000 QSII    747582104     76.7600        12,520.00        449,092.21        961,035.20
+QUANEX CORP                                1.240 NX      747620102     49.9700        32,100.00        956,729.22      1,604,037.00
+QUANTA SERVICES INC.                       0.000 PWR     74762E102     13.1700       123,100.00        978,239.69      1,621,227.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      3.0500        47,600.00        206,573.05        145,180.00
+QUEST SOFTWARE INC                         0.000 QSFT    74834T103     14.5900        67,650.00        863,724.34        987,013.50
+R & G FINANCIAL CORP CL-B                  2.840 RGF     749136107     13.2000        29,350.00        729,099.91        387,420.00
+R&B INC                                    0.000 RBIN    749124103      9.4800        10,500.00        149,213.40         99,540.00
+RACKABLE SYSTEMS INC                       0.000 RACK    750077109     28.4800         6,600.00         86,988.00        187,968.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102     12.1600        20,200.00        227,381.30        245,632.00
+RADIATION THERAPY SERVICES INC             0.000 RTSX    750323206     35.3100        22,000.00        593,289.39        776,820.00
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     10.3500        88,200.00      1,173,632.66        912,870.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     17.3400        21,000.00        440,573.36        364,140.00
+RAILAMERICA INC                            0.000 RRA     750753105     10.9900        39,900.00        434,617.02        438,501.00
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    39.9100        29,500.00        904,607.53      1,177,345.00
+RAMBUS INC DEL                             0.000 RMBS    750917106     16.1900        67,600.00        960,961.40      1,094,444.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     30.3900        36,300.00        712,800.61      1,103,157.00
+RAVEN INDUSTRIES INC                       0.970 RAVN    754212108     28.8500        16,400.00        233,450.93        473,140.00
+RBC BEARINGS INC                           0.000 ROLL    75524B104     16.2500         7,500.00        119,775.00        121,875.00
+RC2 CORP                                   0.000 RCRC    749388104     35.5200        18,900.00        562,050.38        671,328.00
+RCN CORPORATION                            0.000 RCNI    749361200     23.4500        37,100.00        882,099.04        869,995.00
+READERS DIGEST ASSOCIATION                 2.628 RDA     755267101     15.2200       105,100.00      1,707,242.59      1,599,622.00
+REALNETWORKS INC                           0.000 RNWK    75605L104      7.7600       121,500.00        785,290.83        942,840.00
+RED ROBIN GOURMET BURGERS                  0.000 RRGB    75689M101     50.9600         5,200.00        167,786.45        264,992.00
+REDBACK NETWORKS                           0.000 RBAK    757209507     14.0600        71,600.00        553,635.00      1,006,696.00
+REDDY ICE HOLDINGS INC                     7.015 FRZ     75734R105     21.8100         9,000.00        184,770.00        196,290.00

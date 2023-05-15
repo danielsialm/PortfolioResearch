@@ -1,0 +1,32 @@
+ASOF02   Date 01/21/2005 Time 18:34:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 146
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 20
+Instrument - COM       COMMON STOCK
+
+VISTEON CORP                               2.456 VC      92839U107      9.7700        95,200.00        830,655.68        930,104.00
+WABTEC                                     0.187 WAB     929740108     21.3200        42,200.00        516,176.82        899,704.00
+WATCHGUARD TECHNOLOGIES INC                0.000 WGRD    941105108      4.4300        16,600.00         64,784.94         73,538.00
+WAVECOM SA-ADR                             0.000 WVCM    943531103      7.2300        76,000.00        856,200.73        549,480.00
+
+Instrument Total            82                                                     9,205,081.70     66,564,963.34     79,067,893.70
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+RECKSON ASSOCIATES RE                      5.175 RA      75621K106Q    32.8100         9,000.00        211,924.73        295,290.00
+
+Instrument Total             1                                                         9,000.00        211,924.73        295,290.00
+
+Instrument -WARRANT   WARRANT
+
+DIME BANCORP-WT                            0.000 DIMEZ   25429Q110      0.1900       431,800.00        115,334.87         82,042.00
+
+Instrument Total             1                                                       431,800.00        115,334.87         82,042.00
+
+Portfolio Total             84                                                     9,645,881.70     66,892,222.94     79,445,225.70
+

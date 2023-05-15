@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 014
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+AVX CORP.                                    0.902     002444107   AVX             98,500        1,132,624.68        1,637,070.01
+AXCELIS TECHNOLOGIES INC                     0.000     054540109   ACLS           218,900        1,849,282.76        2,237,158.01
+AZTAR CORP.                                  0.000     054802103   AZR             53,700          882,015.72        1,208,250.00
+BAKER HUGHES CORP                            1.430     057224107 Q BHI            425,011       12,214,841.79       13,668,353.76
+BALDOR ELECTRIC                              2.450     057741100   BEZ             35,400          781,806.98          808,890.00
+BALDWIN & LYONS INC                          1.425     057755209   BWINB            9,100          226,405.57          255,346.00
+BALL CORPORATION                             1.007     058498106 Q BLL            111,500        4,865,739.32        6,642,054.98
+BALLY TOTAL FITNESS HLDGS                    0.000     05873K108   BFT             96,751        1,224,263.48          677,257.00
+BANCFIRST CORP                               1.703     05945F103   BANF             9,808          552,486.05          575,749.22
+BANCORPSOUTH INC                             3.035     059692103   BXS            175,400        3,795,447.56        4,160,487.98
+BANCTRUST FINANCIAL GROUP INC                3.245     05978R107   BTFG             8,100          129,276.42          129,762.00
+BANDAG INC                                   3.155     059815100 Q BDG             10,000          359,228.72          412,000.00
+BANK MUT CORP                                1.229     063750103   BKMU           141,485        1,465,481.76        1,611,514.14
+BANK OF AMERICA CORP.                        3.978     060505104 Q BAC          3,173,470      178,687,835.89      255,242,192.09
+BANK OF BERMUDA LTD                          2.580     G07644100   BBDA             8,100          295,073.58          364,095.02
+BANK OF GRANITE CORP                         2.203     062401104   GRAN            16,000          299,086.15          348,480.00
+BANK OF HAWAII CORP                          2.843     062540109   BOH            115,000        3,087,071.46        4,853,000.00
+BANK OF NEW YORK CO, INC                     2.294     064057102 Q BK           1,493,200       45,700,183.21       49,454,784.01
+BANK OF THE OZARKS I                         1.155     063904106   OZRK            11,800          234,217.65          265,618.00
+BANK ONE CORPORATION                         2.193     06423A103 Q ONE          2,291,300       91,878,694.55      104,460,366.97
+BANKATLANTIC BANCORP INC                     0.694     065908501   BBX             82,100        1,076,387.02        1,559,899.98
+BANKNORTH GROUP INC.                         2.336     06646R107   BNK            309,800        5,752,170.40       10,077,794.01
+BANKRATE INC                                 0.000     06646V108   RATE            17,400          240,087.94          215,412.00
+BANKUNITED FINANCIAL CORP-A                  0.000     06652B103   BKUNA           28,400          510,835.80          732,436.00
+BANNER CORP                                  2.544     06652V109   BANR            28,798          609,167.87          724,269.70
+BANTA CORP                                   1.679     066821109   BN              31,775        1,055,402.09        1,286,887.50
+BARD C. R. INC.                              1.132     067383109 Q BCR             90,700        5,030,925.18        7,369,375.03
+BARNES & NOBLE INC.                          0.000     067774109   BKS            201,784        5,886,026.00        6,628,604.41
+BARNES GROUP INC.                            2.476     067806109   B                9,600          194,707.26          310,176.00
+BARR PHARMACEUTICALS INC.                    0.000     068306109   BRL            112,500        5,764,557.86        8,656,875.00
+BARRA INC                                    0.000     068313105   BARZ            18,000          582,897.56          638,820.00
+BASSETT FURNITURE INDS.                      4.848     070203104 Q BSET            25,400          435,984.67          419,100.00
+BAUSCH & LOMB INC                            1.001     071707103 Q BOL            125,400        5,581,734.63        6,508,260.01
+BAXTER INTL                                  1.906     071813109 Q BAX          1,199,300       31,514,833.10       36,602,635.99
+BAY VIEW CAPITAL COPR                       28.504     07262L101   BVC             76,900          449,508.36          164,566.00
+BB&T CORPORATION                             3.312     054937107   BBT            992,000       32,377,923.14       38,330,879.98
+BE AEROSPACE INC.                            0.000     073302101   BEAV            27,500          104,964.61          148,500.00
+BEA SYSTEMS INC                              0.000     073325102   BEAS           981,300       12,222,565.22       12,069,990.00
+BEAR STEARNS COMPANIES INC                   1.000     073902108   BSC            266,700       15,466,857.99       21,322,665.00
+BEARINGPOINT INC                             0.000     074002106   BE             249,900        2,375,728.03        2,521,491.00

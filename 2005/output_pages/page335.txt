@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 028
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+LLOYDS TSB GROUP O                          12.017     0870612      LLOY_       392,394.00        3,436,244.38
+LOBLAW COMPANIES LTD                         1.275     2521800      L_CN          3,900.00          199,104.21
+LVMH MOET-HENNESSY                           1.492     4061412      MC_FP        18,317.00        1,148,729.28
+MACQUARIE BANK LIMITED                       2.833     6551353      MBL_A         3,090.00          109,626.18
+MACQUARIE INFRASTRUCTURE GRP                 5.056     6456942      MIG_A        53,386.00          166,498.87
+MAGNA INTERNATIONAL INC-CL A                 1.549     2554475      MG/SV         3,400.00          247,123.37
+MANULIFE FINANCIAL CORP                      1.505     2492519      MFC_C        21,300.00          931,652.13
+MARKS+ SPENCER ORD                           4.180     3127489      MKS_L       285,681.00        1,579,742.70
+MARUBENI CORP JPY5                           0.008     6569464      8002_       214,600.00          883,871.18
+MATSUSHITA ELC IND                           0.007     6572707      6752_       219,400.00        2,939,037.52
+MATSUSHITA ELECTRIC WORKS                    0.013     6572729      6991_        92,000.00          872,497.98
+METRO AG NPV                                 2.949     5041413      MEO_G        23,218.00          965,733.32
+MI DEVELOPMENTS                              1.281     2014140      MIM/S         2,950.00           62,214.80
+MICHELIN (CGDE)                              3.105     4588364      ML_FP        17,749.00        1,232,780.98
+MILLEA HOLDINGS INC                          0.006     6513126      8766_           153.00        2,007,101.20
+MITSUBISHI CORP Y5                           0.009     6596785      8058_       123,600.00        1,564,886.72
+MITSUBISHI ELEC CP                           0.006     6597045      6503_       201,200.00          841,297.13
+MITSUBISHI ESTATE                            0.003     6596729      8802_       101,817.00          881,926.86
+MITSUBISHI UFJ FINANCIAL CORP                0.003     6335171      8306_           676.10        5,573,021.51
+MITSUI + CO JPY50                            0.012     6597302      8031_       225,500.00        2,007,749.67
+MITSUI CHEMICALS I                           0.008     6597368      4183_       166,000.00          939,790.96
+MITSUI FUDOSAN CO                            0.003     6597603      8801_        88,000.00          990,591.75
+MITSUI MARINE AND                            0.005     6870122      8752_       139,000.00          954,748.10
+MITSUI O.S.K. LINE                           0.014     6597584      9104_       112,000.00          668,049.33
+MITSUI TRUST HOLDINGS INC                    0.002     6431897      8309_        54,000.00          445,091.25
+MIZUHO FINANCIAL GROUP                       0.003     6591014      8411_           848.00        3,471,662.02
+MTR CORPORATION                              0.355     6290054      66_HK        60,600.00           91,348.82
+MUNCHENER RUCKVS                             3.196     5294121      MUV2_        29,300.00        3,431,269.27
+MURATA MFG CO JPY5                           0.006     6610403      6981_        21,801.00        1,196,625.41
+NAMCO BANDAI HOLDINGS                        0.005     B0JDQD4      7832_        91,200.00        1,345,277.43
+NATIONAL BANK OF CANADA                      2.725     2077303      NA_CN         6,100.00          217,646.30
+NATIONAL GRID GROU                           7.669     B08SNH3      NG/_L       411,606.00        3,701,570.66
+NATL AUSTRALIA BK                            5.045     6624608      NAB_A        24,784.00          549,565.49
+NEC CORP ORD JPY50                           0.006     6640400      6701_       204,356.00        1,619,496.71
+NEOPOST SA                                   2.088     5617096      NEO_F         3,181.00          312,959.14
+NEPTUNE ORIENT LNS                           4.061     6628859      NOL_S       597,000.00        1,223,620.72
+NESTLE SA CHF                                1.544     7123870      NESN_        13,561.00        3,725,210.61
+NEW WORLD DEVEL CO                           0.363     6633767      17_HK        52,000.00           51,966.62
+NEWCREST MINING LIMITED                      0.182     6637101      NCM_A         8,721.00          108,637.60

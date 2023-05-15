@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 061
+ASOF02   Date 01/24/2002 Time 21:29:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 063
 
 Monthly Market Portfolio
 
@@ -6,19 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Portfolio  - SNP       S&P 500 PASSIVE
-Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
 
-EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800       161,700.00      4,531,262.07      4,863,935.97
-EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       105,700.00      2,280,089.93      3,034,647.00
-
-Instrument Total             2                                                       267,400.00      6,811,352.00      7,898,582.97
-
-Instrument -WARRANT   WARRANT
-
-PROGRESS ENERGY - CVO                      0.000 CPLVZ   743263AA3      0.3600        36,572.00              0.00         13,165.92
-
-Instrument Total             1                                                        36,572.00              0.00         13,165.92
-
-Portfolio Total            502                                                   111,571,405.52  3,313,618,586.18  4,228,697,115.85
-
+BANKNORTH GROUP INC.                       2.397 BKNG    06646R107     22.5200        22,500.00        379,031.62        506,700.00
+BANTA CORP                                 2.168 BN      066821109     29.5200         3,700.00        101,357.42        109,224.00
+BARNES & NOBLE INC.                        0.000 BKS     067774109     29.6000         9,900.00        285,971.91        293,040.00
+BARR LABORATORIES INC.                     0.000 BRL     068306109     79.3600         6,250.00        243,136.08        496,000.00
+BECKMAN COULTER INC.                       0.767 BEC     075811109     44.3000         9,000.00        216,604.08        398,700.00
+BELO CORP                                  1.600 BLC     080555105Q    18.7500        16,300.00        383,296.78        305,625.00
+BISYS GROUP INC.                           0.000 BSYS    055472104     63.9900         8,700.00        192,630.91        556,713.00
+BJ SERVICES CO                             0.000 BJS     055482103     32.4500        24,300.00        487,510.85        788,535.00
+BJ’S WHOLESALE CLUB INC.                   0.000 BJ      05548J106     44.1000        10,800.00        171,572.60        476,280.00
+BLACK HILLS CORP                           3.309 BKH     092113109     33.8400         3,900.00         99,200.77        131,976.00
+BLYTH INC.                                 0.860 BTH     09643P108     23.2500         7,000.00        226,858.37        162,750.00
+BOB EVANS FARMS                            1.628 BOBE    096761101Q    24.5700         5,100.00         99,216.26        125,307.00
+BORDERS GROUP INC                          0.000 BGP     099709107     19.8400        12,000.00        396,117.20        238,080.00
+BORG WARNER INC.                           1.148 BWA     099724106     52.2500         3,900.00        200,268.77        203,775.00
+BOWATER INC.                               1.677 BOW     102183100Q    47.7000         8,100.00        358,371.11        386,370.00
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     29.7600        14,550.00        159,801.82        433,008.00
+BROADWING INC.                             0.000 BRW     111620100      9.5000        32,400.00        610,160.46        307,800.00
+C.H.ROBINSON WORLDWIDE INC                 0.691 CHRW    12541W100     28.9150        12,500.00        272,371.78        361,437.50
+CABOT CORP                                 1.456 CBT     127055101     35.7000         9,300.00        173,475.98        332,010.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     79.2500         3,604.00        125,835.56        285,617.00
+CADENCE DESIGN SYS INC                     0.000 CDN     127387108     21.9200        36,200.00        845,381.78        793,504.00
+CALLAWAY GOLF COMPANY                      1.462 ELY     131193104     19.1500        11,500.00        335,225.45        220,225.00
+CARLISLE COS INC                           2.271 CSL     142339100     36.9800         4,500.00        186,859.16        166,410.00
+CARPENTER TECHNOLOGY                       4.958 CRS     144285103     26.6200         3,300.00        151,367.19         87,846.00
+CATALINA MARKETING CORP                    0.000 POS     148867104     34.7000         8,200.00        119,783.00        284,540.00
+CBRL GROUP INC.                            0.067 CBRL    12489V106Q    29.4400         8,100.00        238,083.10        238,464.00
+CDW COMPUTER CENTERS                       0.000 CDWC    125129106     53.7100        13,100.00        442,339.32        703,601.00
+CERIDIAN CORP - NEW                        0.000 CEN     156779100     18.7500        21,600.00        298,356.09        405,000.00
+CERTEGY INC                                0.000 CEY     156880106     34.2200        10,200.00        253,646.38        349,044.00
+CHECKFREE CORP                             0.000 CKFR    162813109     18.0000        11,400.00        567,639.28        205,200.00
+CHOICEPOINT INC.                           0.000 CPS     170388102     50.6900         9,300.00        265,932.49        471,417.00
+CHURCH & DWIGHT INC                        1.126 CHD     171340102Q    26.6300         5,800.00         84,911.31        154,454.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100     13.2200        11,800.00        191,232.40        155,996.00
+CITY NATIONAL CORP                         1.579 CYN     178566105     46.8500         7,100.00        221,791.23        332,635.00
+CLAIRE’S STORES INC                        1.059 CLE     179584107     15.1000         7,200.00        143,755.50        108,720.00
+CLAYTON HOMES INC.                         0.350 CMH     184190106Q    17.1000        20,275.00        266,123.72        346,702.50
+CLECO CORP. HOLDING CO.                    4.005 CNL     12561W105     21.9700         6,700.00         97,598.11        147,199.00
+CNF TRANSPORTATION                         1.192 CNF     12612W104Q    33.5500         7,200.00        280,290.38        241,560.00
+COACH INC                                  0.000 COH     189754104     38.9800         6,400.00        183,457.50        249,472.00

@@ -1,0 +1,126 @@
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+77TH BANK Y50                                0.008     6804165      8341_     1,900,000.00       10,055,739.42
+A P MOLLER MAERSK A/S                        0.121     4253048      MAERS           700.00        2,373,320.94
+ABN AMRO HLDGS NV                            6.973     5250769      AABA_       683,273.00       13,133,915.25
+AGGREKO PLC                                  6.513     0147899      AGK_L     2,920,000.00        8,437,380.98
+AIR NEW ZEALAND                              0.000     6426484      AIR_N     3,500,000.00        3,859,456.98
+AISIN SEIKI                                  0.007     6010702      7259_       640,000.00        7,506,065.16
+ALUMINA LTD                                  2.638     6954985      AWC_A     1,600,000.00        4,108,938.13
+AMADA CO Y50                                 0.008     6022105      6113_     1,880,000.00        7,225,480.93
+ARUZE CORP                                   0.011     6126892      6425_       510,000.00       10,842,191.61
+ASAHI BREWERIES Y5                           0.011     6054409      2502_       600,000.00        3,947,920.74
+ASTRAZENECA GBP 0.                           8.485     0989529      AZN_L       249,100.00       10,202,075.62
+BAA ORD GBP1                                 6.673     0067340      BAA_L     1,323,000.00       11,477,903.15
+BCO SANTANDER CENTAL HISP                    4.041     5705946      SAN_S     1,400,000.00       11,688,655.86
+BEKAERT SA NPV                               3.032     5827431      BEKB_       108,090.00        4,246,531.06
+BENDIGO MINING NL                            0.000     6091310      BDG_A     8,000,000.00        4,161,549.02
+BILLITON PLC                                 8.175     0056650      BLT_L       855,000.00        4,279,512.16
+BNP PARIBAS                                  3.697     7309681      BNP_F       146,000.00        7,824,977.09
+BOSKALIS WESTMINSTER                         5.676     4113766      BOKC_       350,000.00        8,325,246.09
+BRIT AMER TOBACCO                            8.491     0287580      BATS_       209,201.00        1,508,639.97
+BRITISH AEROSPACE                            7.662     0263494      BA/_L     3,850,000.00       15,573,309.14
+CASIO COMPUTER CO                            0.009     6178967      6952_       530,000.00        2,725,438.53
+CELTIC RESOURCES HOLDINGS                    0.000     3188088      CER_L       510,000.00        3,590,639.29
+CENTRAL FUND CANADA CL A                     0.182     2183471      CEF       2,500,000.00       12,180,000.00
+CENTRAL GOLD TRUST                           0.000     2898128      GTU/U       250,000.00        3,712,503.71
+CHEUNG KONG(HLDGS)                           0.278     6190273      1_HK        920,000.00        8,596,718.95
+CHINA RESOURCES ENTERPRISES                  0.264     6972459      291_H     3,900,000.00        2,918,402.83
+CHUGAI PHARMACEUTI                           0.010     6196408      4519_       680,000.00        8,700,660.04
+CIE DE ST. GOBAIN                            3.526     7380482      SGO_F       235,000.00        7,399,757.40
+DAI NIPPON PRINTNG                           0.012     6250906      7912_       690,000.00        8,052,783.32
+DAIMLERCHRYSLER AG                           5.783     5529027      DCX_G       186,679.00       10,300,289.30
+DSM NV                                       4.994     5773987      DSMA_       200,000.00        8,352,356.68
+E.ON AG                                      4.046     4942904      EOA_G       141,000.00        7,182,238.93
+ENEL SPA                                     6.767     7144569      ENEL_     1,112,000.00        7,553,267.02
+ENI SPA                                      5.533     7145056      ENI_I     1,055,000.00       13,509,832.33
+EUROPEAN AERONAUTIC DEFENCE                  2.541     4012250      EAD_F       465,000.00        7,911,016.73
+EXEDY CORPORATION                            0.007     6250412      7278_       590,000.00        3,211,938.81
+FAIRFAX HOLDINGS LTD (JOHN)                  2.842     6467074      FXJ_A     4,300,000.00        7,266,969.31
+FLUGHAFEN WIEN AG                            4.879     4359690      FLU_A       150,000.00        4,946,488.74
+FORTIS                                       4.608     7266139      FORB_       600,000.00       15,531,747.06
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+FOSTERS BREWING GR                           2.605     6349268      FGL_A     2,000,000.00        6,539,660.22
+FRASER + NEAVE LTD                           2.067     6689458      FNN_S       784,500.00        3,975,712.01
+GAMBRO AB A                                  0.174     5450031      GAMBA       970,000.00        5,650,661.06
+GKN ORSH 0.5GBP                              9.497     3064650      GKN_L     2,460,000.00        7,125,076.39
+GLAXOSMITHKLINE                              6.598     0925288      GSK_L       555,000.00       11,276,792.45
+H LUNDBECK                                   0.265     7085259      LUN_D       412,500.00        8,768,377.80
+HEIDELBERGER DRUCKMASCHINEN                  7.659     5367227      HDD_G       415,000.00        9,132,131.31
+HONG KONG ELECTRIC HKD1                      0.619     6435327      6_HK      1,802,800.00        6,297,932.20
+IMPERIAL CHEM INDS                           5.496     0459497      ICI_L     1,608,964.00        5,118,884.85
+INTESABCI SPA                                1.881     4076836      BIN_I     3,146,339.99        9,893,664.03
+ITO-YOKADO CO JPY5                           0.007     6467944      8264_       412,500.00       17,534,121.85
+J S GROUP CORPORATION                        0.021     6900212      5938_       690,000.00        9,494,660.98
+KARSTADT AG DM50                            12.696     5786565      KAR_G       675,000.00        6,449,906.40
+KINROSS GOLD CORP                            0.000     B03Z841      K_CN      2,065,000.00       13,867,376.74
+KIRIN BREWERY CO C                           0.012     6493745      2503_       540,000.00        3,835,190.87
+KON.VOPAK EUR                                4.336     5809428      VPK_N       180,000.00        3,040,971.56
+MATSUSHITA ELC IND                           0.009     6572707      6752_       718,000.00       12,121,972.80
+METSO OYJ                                    2.331     5713422      MEO1V       910,000.00        9,225,689.17
+MICHELIN (CGDE)                              2.678     4588364      ML_FP       255,000.00        9,442,492.22
+MINISTOP CO                                  0.020     6583851      9946_       490,000.00        6,755,925.45
+MITSUBISHI HVY IND                           0.013     6597067      7011_     2,317,000.00        8,943,837.77
+NATL AUSTRALIA BK                            4.514     6624608      NAB_A       600,000.00       13,393,520.76
+NEWMONT MINING CORP - CHESS                  0.550     6509772      NEM_A     4,000,000.00        5,152,186.37
+NIPPON PAINT CO LTD                          0.013     6640507      4612_     2,650,000.00        6,718,049.43
+NIPPON TEL+TEL CP                            0.012     6641373      9432_         1,300.00        7,138,411.83
+NISSAN MOTOR CO Y5                           0.021     6642860      7201_       800,000.00        4,079,282.33
+NORSK HYDRO AS NOK                           0.381     4645805      NHY_N       180,000.00        6,442,262.93
+NOVARTIS AG CHF 20                           1.611     7103065      NOVN_       290,000.00       11,027,937.73
+NTT DOCOMO INC                               0.010     6129277      9437_         7,300.00       19,025,830.63
+NUTRECO HOLDING                              3.829     5183359      NUT_N       585,000.00       13,990,180.88
+OCE NV NLG1                                  7.000     5446751      OCEN_       850,000.00        7,220,816.73
+OMRON CORP Y50                               0.008     6659428      6645_       530,000.00        7,934,668.60
+PEUGEOT SA FF35                              3.928     7103526      UG_FP       142,000.00        4,872,152.27
+PHILIPS ELECTRONICS                          2.507     5986622      PHIA_       392,876.00       11,968,240.87
+PLACER DOME INC                              0.369     2691714      PDG_C       720,000.00        8,321,849.19
+REPSOL - YPF, SA                             3.014     5669354      REP_S       545,000.00        8,671,907.46
+RIO TINTO PLC                                4.535     0718875      RIO_L       265,000.00        4,775,207.09
+ROCHE HLDGS AG GEN                           1.108     7110388      ROG_V       105,000.00        9,562,131.70
+ROLLS ROYCE GROUP B SHARES                   0.000     3422355      RR/B_   137,058,000.00           83,697.25
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ROLLS-ROYCE GROUP PLC                        2.471     3283648      RR/_L     4,050,000.00        6,285,302.15
+SANKYO CO JPY50                              0.012     6775283      4501_       660,000.00       12,851,818.59
+SANTOS NPV(NZ)                               2.772     6776703      STO_A     2,600,000.00        8,546,389.37
+SCHNEIDER ELECTRIC                           2.919     4834108      SU_FP       115,000.00        6,097,843.24
+SCOT + NEWCASTLE O                           8.934     0783969      SCTN_       390,900.00        2,710,593.60
+SCOT POWER PLC 0.5                          10.045     0690070      SPW_L     1,440,000.00        9,528,829.73
+SEKISUI HOUSE Y50                            0.014     6793906      1928_     1,030,000.00        8,661,917.63
+SIEMENS AG DEM 5.0                           2.724     5727973      SIE_G       109,000.00        4,958,697.98
+SUMITOMO OSAKA CMT                           0.015     6858548      5232_     2,525,000.00        5,966,820.39
+SUMITOMO TRUST+BKG JPY 50.0                  0.013     6859002      8403_     2,400,000.00       13,998,143.91
+SUN HUNG KAI PROPE                           0.273     6859927      16_HK     1,164,100.00        7,393,142.95
+SUZUKEN COMPANY                              0.009     6865560      9987_       120,000.00        3,133,627.41
+SWISS REINSURANCE                            1.193     7189816      RUKN_       240,000.00       20,091,236.99
+SYNGENTA CHF                                 0.619     4356646      SYNN_       117,000.00        6,448,133.27
+TAKEDA PHARMACEUTICAL COMPANY                0.016     6870445      4502_       227,400.00        9,342,286.37
+TAKEFUJI CORP                                0.014     6876067      8564_       190,000.00       13,748,286.00
+TELECOM CORP OF NEW ZEALAND                  3.698     6881436      TEL_N     5,306,400.00       12,105,154.51
+TELEFONICA SA                                3.922     5732524      TEF_S       755,000.00        8,467,402.26
+TOKYO BROADCASTING                           0.005     6894166      9401_       800,000.00       10,002,823.24
+TOKYO GAS CO Y50                             0.016     6895448      9531_     2,076,000.00        5,688,772.18
+TOMKINS PLC                                  9.234     0896265      TOMK_     2,300,000.00        5,234,131.92
+TOTAL                                        3.974     4905413      FP_FP        84,700.00        9,322,095.43
+UBS AG-REG                                   2.398     7126114      UBSN_       280,000.00       13,201,552.37
+UNICREDITO ITALIAN                           5.494     4232445      UC_IM     2,200,000.00        9,772,698.94
+UPM-KYMMENE CORP F                           6.230     5051252      UPM1V       625,000.00        9,154,395.23
+UTD UTILITIES 50P                            9.581     3338849      UU/A_       569,444.00        1,094,544.82
+UTD UTILITIES ORD                           13.612     0646233      UU/_L     1,025,000.00        8,329,094.63
+VALEO FRF20                                  4.633     4937579      FR_FP       254,447.00       10,845,846.64
+VODAFONE GROUP                               4.061     0719210      VOD_L     7,393,700.00       22,322,591.66
+WEIR GROUP                                   7.464     0946580      WEIR_     1,750,000.00        6,618,574.77
+
+Instrument Total             108                                            265,666,213.99      891,213,978.64
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE VALUE                                   0.000     IL-EAFEVAL               752,218.84       75,221,884.53
+
+Instrument Total               1                                                752,218.84       75,221,884.53
+
+Portfolio Total              109                                            266,418,432.84      966,435,863.17      1,326,452,120.55

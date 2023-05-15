@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 098
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 500
+Instrument - COM       COMMON STOCK
+
+R.J. REYNOLDS TOBACCO HOLDINGS             9.024 RJR     76182K105     42.1100         1,915.00        108,313.01         80,640.65
+RADIOSHACK CORP                            1.174 RSH     750438103Q    18.7400       105,940.00      3,011,696.46      1,985,315.60
+RAYTHEON COMPANY                           2.601 RTN     755111507Q    30.7500         4,709.00        136,616.21        144,801.75
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     31.6400           800.00         25,960.00         25,312.00
+ROCKWELL COLLINS                           1.547 COL     774341101     23.2600        11,200.00        253,086.21        260,512.00
+SBC COMMUNICATIONS INC.                    3.983 SBC     78387G103Q    27.1100       168,880.00      7,245,605.24      4,578,336.80
+SCIENTIFIC ATLANTA INC.                    0.337 SFA     808655104Q    11.8600        70,480.00      1,151,887.32        835,892.80
+SEMPRA ENERGY                              4.228 SRE     816851109     23.6500        68,650.00      1,495,035.63      1,623,572.50
+SERVICEMASTER COMPANY                      3.783 SVM     81760N109     11.1000        16,320.00        172,166.88        181,152.00
+SHERWIN-WILLIAMS CO                        2.123 SHW     824348106Q    28.2500        83,500.00      2,462,338.63      2,358,875.00
+SIGMA-ALDRICH                              0.739 SIAL    826552101Q    48.7000         1,915.00         95,248.18         93,260.50
+SKYWEST INC                                0.612 SKYWE   830879102     13.0700         2,204.00         30,223.45         28,806.28
+SOUTHERN CO                                4.825 SO      842587107Q    28.3900         5,822.00        167,852.23        165,286.58
+SOUTHTRUST CORP                            3.380 SOTR    844730101     24.8500        37,600.00        871,028.05        934,360.00
+SOUTHWEST AIRLINES                         0.143 LUV     844741108Q    13.9000        24,200.00        303,805.68        336,380.00
+SPRINT CORP.                               3.453 FON     852061100Q    14.4800       135,185.00      2,671,302.60      1,957,478.80
+ST JUDE MED. INC.                          0.000 STJ     790849103     39.7200        59,941.00      2,066,587.85      2,380,856.52
+ST. PAUL COMPANIES                         3.406 SPC     792860108Q    34.0500        20,590.00        704,532.72        701,089.50
+STAPLES INC                                0.000 SPLS    855030102     18.3000       129,810.00      2,134,640.97      2,375,522.99
+STERIS CORP                                0.000 STE     859152100Q    24.2500        16,800.00        367,483.20        407,400.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     21.4200        33,919.00        501,726.10        726,544.98
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     23.5600        75,820.00      1,856,638.32      1,786,319.20
+SUPER VALU STORES INC.                     3.452 SVU     868536103Q    16.5100        63,500.00      1,388,355.74      1,048,385.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     20.0180         1,900.00         33,626.01         38,034.20
+TALBOTS INC                                1.307 TLB     874161102Q    27.5300        13,777.00        402,576.06        379,280.81
+TECH DATA CORP                             0.000 TECD    878237106     26.9600         7,400.00        229,791.85        199,504.00
+TEKTRONIX, INC.                            0.000 TEK     879131100Q    18.1900         2,800.00         43,024.73         50,932.00
+TEXAS INSTRS INC                           0.599 TXN     882508104Q    15.0100       185,410.00      5,452,486.44      2,783,004.10
+TEXTRON INC.                               3.024 TXT     883203101Q    42.9900         5,580.00        230,827.08        239,884.20
+THE ST. JOE COMPANY                        0.266 JOE     790148100     30.0000         8,579.00        246,078.66        257,370.00
+TICKETMASTER ONLINE                        0.000 TMCS    88633P203     21.2200         5,700.00         97,961.91        120,954.00
+TIDEWATER INC                              1.929 TDW     886423102Q    31.1000        17,080.00        493,388.79        531,188.00
+TJX COS. INC.                              0.614 TJX     872540109Q    19.5200        16,650.00        245,702.85        325,008.00
+TRAVELERS PROPERTY CASUALTY -              0.000 TAP.B   89420G406     14.6500        36,677.00        637,946.00        537,318.05
+TRAVELERS PROPERTY CASUALTY-A              0.000 TAP.A   89420G109     14.6500         2,927.00         44,685.08         42,880.55
+TXU CORPORATION                            2.676 TXU     873168108Q    18.6800        16,770.00        240,785.41        313,263.60
+TYCO INT'L. LTD NEW                        0.292 TYC     902124106Q    17.0800       117,100.00      4,320,666.59      2,000,068.00
+UNION PACIFIC CORP.                        1.536 UNP     907818108Q    59.8700         7,349.00        397,778.33        439,984.63
+UNIONBANCAL CORPORATION                    2.852 UB      908906100     39.2700         7,400.00        316,686.70        290,598.00

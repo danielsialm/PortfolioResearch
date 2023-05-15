@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 048
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ORKLA ASA NWKR 6.2                           0.502     5459715      ORK_N        52,600.00          952,173.87
+OVERSEAS CHINESE BANKING CORP                1.840     B0F9V20      OCBC_       844,920.00        2,866,072.25
+PHILIPS ELECTRONICS                          1.797     5986622      PHIA_        29,037.00          983,978.14
+ROCHE HLDGS AG GEN                           0.769     7110388      ROG_V        22,050.00        2,067,390.63
+ROYAL BK SCOT GBP                            5.927     0754783      RBS_L        64,455.00          983,361.38
+ROYAL DUTCH SHELL PLC - A SHS                8.916     B03MLX2      RDSA_        67,030.00        2,032,768.04
+ROYAL DUTCH SHELL PLC - B SHS                5.871     B03MM40      RDSB_        62,063.00        1,770,024.78
+SAMPO-LEONIA INSURANCE COMPANY PLC           1.602     5226038      SAMAS        85,250.00          558,810.28
+SANOFI-AVENTIS                               1.912     5671735      SAN_F        21,437.00        1,027,437.05
+SAP AG                                       0.846     4846288      SAP_G         8,100.00        1,048,448.22
+SIEMENS AG DEM 5.0                           2.200     5727973      SIE_G        18,300.00          983,600.85
+SINGAPORE AIRLINES                           1.940     6811734      SIA_S       473,300.00        3,565,994.70
+SINGAPORE PRESS HO                           3.986     B012899      SPH_S       753,100.00        2,279,492.05
+SINGAPORE TECH ENG                           2.860     6043214      STE_S     1,012,800.00        1,345,856.07
+SINGAPORE TELECOMM                           1.843     B02PY22      ST_SP     2,492,565.00        3,091,122.22
+SOLVAY SA NPV                                2.406     4821100      SOLB_        27,431.00        1,629,349.22
+SONY CORP JPY50                              0.004     6821506      6758_        74,100.00        3,435,310.77
+STORA ENSO OY J-R                            4.639     5072673      STERV        84,800.00        1,018,910.48
+STOREBRAND ASA NOK                           1.775     4852832      STB_N        66,600.00          474,394.54
+SUEZ EUR                                     3.587     7118047      SZE_F        15,240.00          472,543.18
+SUMITOMO MITSUI FINANCIAL                    0.002     6563024      8316_           488.00        6,252,504.09
+SUN HUNG KAI PROPE                           0.375     6859927      16_HK        68,000.00          636,214.67
+SWISS REINSURANCE                            1.262     7189816      RUKN_         5,502.00          500,455.81
+SWISSCOM AG CHF25(                           2.561     5533976      SCMN_         1,673.00          570,682.49
+TAKEDA PHARMACEUTICAL COMPANY                0.014     6870445      4502_        96,000.00        3,510,375.03
+TELE DANMARK AS                              0.523     5698790      TDC_D        31,100.00        1,896,301.90
+TELECOM ITALIA SPA                           5.240     7634394      TIT_I        11,073.00           22,082.92
+TELENOR ASA                                  0.334     4732495      TEL_N       421,098.00        1,798,238.68
+TELIASONERA                                  0.353     5978384      TLSN_       463,148.00        7,932,289.27
+TESCO PLC                                    4.038     0884709      TSCO_       310,301.00          885,740.68
+TI AUTOMOTIVE LTD                            0.000     3067529      6525Z        29,590.00                0.00
+TIETOENATOR CORP OYJ                         3.823     5479702      TIE1V        46,010.00        1,366,746.04
+TOKYO ELEC POWER Y                           0.017     6895404      9501_       116,500.00        2,746,241.65
+TOMRA SYSTEMS ASA                            0.091     4730875      TOM_N        42,750.00          673,127.39
+TOTAL SA                                     3.334     4905413      FP_FP        17,456.00        1,688,951.89
+TOYOTA MOTOR CORP                            0.011     6900643      7203_       287,700.00        8,454,596.09
+UBS AG-REG                                   1.820     7126114      UBSN_        47,773.00        2,224,757.63
+UCB ORD BEF                                  1.917     5596991      UCB_B        47,388.00        1,813,543.28
+UNICREDITO ITALIAN                           4.154     4232445      UC_IM       122,000.00          543,558.29

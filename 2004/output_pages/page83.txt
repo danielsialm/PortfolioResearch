@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 051
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+ATWOOD OCEANICS                            0.000 ATW     050095108     52.1000        13,000.00        476,310.76        677,300.00
+AUDIOVOX CORP                              0.000 VOXX    050757103     15.7800        31,300.00        450,532.75        493,914.00
+AUTOBYTEL INC                              0.000 ABTLE   05275N106      6.0400        21,000.00        165,610.48        126,840.00
+AVANT IMMUNOTHERAPEUTICS INC               0.000 AVAN    053491106      2.0100        82,600.00        152,668.58        166,026.00
+AVATAR HLDGS INC                           0.000 AVTR    053494100     48.1000        10,071.00        400,414.92        484,415.10
+AVIALL INC.                                0.174 AVL     05366B102Q    22.9700        26,200.00        438,434.23        601,814.00
+AVISTA CORP                                2.942 AVA     05379B107     17.6700        65,000.00      1,140,535.04      1,148,550.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109      8.1300        83,700.00        680,269.60        680,481.00
+AXONYX INC                                 0.000 AXYX    05461R101      6.2000        56,900.00        303,450.96        352,780.00
+AZTAR CORP.                                0.000 AZR     054802103     34.9200        38,400.00        673,928.94      1,340,928.00
+BALDOR ELECTRIC                            2.179 BEZ     057741100     27.5300        36,550.00        820,373.58      1,006,221.50
+BALDWIN & LYONS INC                        1.493 BWINB   057755209     26.7900        16,900.00        426,367.11        452,751.00
+BANCFIRST CORP                             1.418 BANF    05945F103     78.9800         3,600.00        199,093.97        284,328.00
+BANCORPSOUTH INC                           3.118 BXS     059692103     24.3700        85,800.00      1,857,470.10      2,090,946.00
+BANDAG INC                                 2.650 BDG     059815100Q    49.8100        17,000.00        697,259.81        846,770.00
+BANK MUTUAL CORP                           1.643 BKMU    063750103     12.1700        68,827.00        764,271.93        837,624.59
+BANK OF GRANITE CORP                       2.488 GRAN    062401104     20.9000         3,600.00         67,294.37         75,240.00
+BANK OF THE OZARKS INC                     0.940 OZRK    063904106     34.0300        11,800.00        295,549.37        401,554.00
+BANKATLANTIC BANCORP INC                   0.703 BBX     065908501     19.9000        47,300.00        536,533.55        941,270.00
+BANKUNITED FINANCIAL CORP-A                0.000 BKUNA   06652B103     31.9500        29,578.00        608,757.19        945,017.10
+BANNER CORP                                2.180 BANR    06652V109     31.1900        11,200.00        273,566.56        349,328.00
+BANTA CORP                                 1.519 BN      066821109     44.7600        27,700.00        926,638.12      1,239,852.00
+BARNES GROUP INC.                          3.017 B       067806109     26.5100        16,600.00        392,095.10        440,066.00
+BARRIER THERAPEUTICS INC                   0.000 BTRX    06850R108     16.6000         7,300.00        108,972.00        121,180.00
+BASSETT FURNITURE INDS.                    4.076 BSET    070203104Q    19.6250        22,137.00        407,711.29        434,438.63
+BE AEROSPACE INC.                          0.000 BEAV    073302101     11.6400        39,000.00        360,524.73        453,960.00
+BEACON ROOFING SUPPLY INC                  0.000 BECN    073685109     19.8600        15,100.00        312,413.87        299,886.00
+BEAZER HOMES USA INC                       0.273 BZH     07556Q105    146.2100        17,100.00      1,530,200.11      2,500,191.00
+BEBE STORES INC                            0.493 BEBE    075571109     26.9800        10,050.00        119,069.68        271,149.00
+BEI TECHNOLOGIES INC                       0.129 BEIQ    05538P104     30.8800        19,185.00        426,758.15        592,432.80
+BEL FUSE INC-CL B                          0.591 BELFB   077347300     33.7900        18,100.00        591,915.50        611,599.00
+BELDEN CDT INC                             0.862 BDC     077454106     23.2000        52,100.00      1,197,849.37      1,208,720.00
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     34.1000        45,600.00      1,173,836.37      1,554,960.00
+BENTLEY PHARMACEUTIC                       0.000 BNT     082657107     10.7500        17,100.00        183,119.25        183,825.00
+BERKSHIRE HILLS BANC                       1.292 BHL     084680107     37.1500         5,900.00        216,479.14        219,185.00
+BERRY PETROLEUM CO                         1.006 BRY     085789105     47.7000        20,100.00        442,733.33        958,770.00
+BEVERLY ENTERPRISES                        0.000 BEV     087851309      9.1500        89,750.00        477,367.67        821,212.50
+BEVERLY HILLS BANCORP INC                  4.950 BHBC    087866109     10.1000        14,682.00        142,384.98        148,288.20
+BFC FINANCIAL CORP                         0.000 BFCF    055384200     12.6500         7,683.00         82,008.63         97,189.95

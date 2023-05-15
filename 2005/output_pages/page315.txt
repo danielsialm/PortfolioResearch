@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ACE DIGITECH CO LTD                          0.000     6581996      03655         6,237.00           28,991.79
+ACER INCORPORATED                            0.080     6005850      73834     1,888,829.90        2,233,961.23
+ADVANCED INFO SERVICE                        0.126     6412591      64125     1,600,000.00        1,547,525.06
+AGORA SA                                     0.222     5618312      AGO_P        70,000.00          893,887.38
+AKBANK T.A.S. B                              1.404     B03MN70      AKBNK       540,000.00        1,017,197.28
+AKSIGORTA                                    2.015     B03MND6      AKGRT       560,000.00          944,838.33
+ALFA SA DE CV SER'                           0.142     2043423      ALFAA       440,000.00          576,903.16
+ANGLO AMERICAN ORD                           3.707     0490151      AAL_L        70,000.00          772,522.21
+ANGLO PLATINUM LTD                           0.281     6761000      AMS_S        50,000.00        1,718,287.58
+AU OPTRONICS CORP                            0.068     6288190      2409_     1,030,050.00        1,779,968.22
+AYALA CORPORATION                            0.024     B09JBT3      AC_PM       352,000.00        1,404,648.60
+BANCO BRADESCO SA                            0.101     B00FM53      BBDC4       216,000.00        1,773,686.17
+BANCO ITAU SA PREF                           1.582     B037HR3      ITAU4       210,000.00        1,672,771.53
+BANGKOK EXPRESSWAY                           0.172     6113311      BECL/     3,500,000.00        1,210,084.62
+BANK DAGANG NAS ID                           0.000     6004567      BDNI/       930,000.00                0.00
+BANK LEUMI LE-ISRAEL                         0.960     6076425      LUMI_        75,000.00          199,024.42
+BANK PEKAO SA ORD                            1.126     5473113      PEO_P        50,000.00          976,612.17
+BARLOWORLD LIMITED                           0.649     6079123      BAW_S       300,000.00        1,865,899.13
+BEC WORLD PCL-FOREIGN                        0.162     6728351      67283     3,000,000.00        1,605,923.20
+BENQ CORP                                    0.137     6054465      2352_     1,386,000.00        1,274,486.67
+BHARAT PETROLEUM CORP LTD                    0.064     6099723      BPCL_        40,000.00          381,251.91
+BK HAPOALIM BM ILS                           1.352     6075808      POLI_       800,000.00        2,051,593.49
+BRASIL TELECOM PART SA                   1,445.698     2292645      BRTP3    20,000,000.00          197,264.31
+BRASIL TELECOM PARTICIPACOES S/A         1,997.081     2292656      BRTP4   100,000,000.00        1,475,657.56
+BYC CO LTD                                   0.000     6070568      00146           372.00           11,501.90
+CASA ANGLO BRAS S.A.                         0.000     2177214      CABR4    44,161,119.00                0.00
+CATHAY LIFE INSURANCE CO                     0.128     6425663      73833     2,400,000.00        3,270,439.51
+CHEIL COMMUNICATIONS INC                     0.002     6093231      03000        15,179.00        1,179,354.82
+CHEIL JEDANG CORP                            0.001     6189516      00104         1,468.00           46,986.69
+CHINA COSCO HOLDINGS                         0.000     B0B8Z18      1919_     2,000,000.00          841,716.44
+CHINA MOTOR                                  0.180     6191328      2204_       404,000.00          461,787.10
+CHINA PETROLEUM                              0.402     6291819      386_H     6,400,000.00        2,601,858.17
+CHINA RESOURCES ENTERPRISES                  0.270     6972459      291_H     1,600,000.00        1,355,029.72
+CHINA TELECOM CORP                           0.294     6559335      728_H     4,000,000.00        1,493,386.56
+CHINATRUST FINANCIAL HOLDING CO.             0.097     6527666      2891_     3,373,716.00        1,650,239.33
+CHOONGWAE PHARMA CORP                        0.001     6192978      00106         1,345.18           22,993.49
+CHUNGHWA TELECOM                             0.252     6287841      2412_     1,470,000.00        2,656,786.66
+CIPLA LIMITED                                0.017     B011108      CIPLA       160,000.00          452,670.44
+CJ CORP 3RD PREF                             0.001     6212810      00104           445.00           11,996.60

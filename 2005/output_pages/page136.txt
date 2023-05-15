@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 103
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+COGENT COMMUNICATIONS GROUP                0.000 COI     19239V302      5.4900         1,300.00          9,177.22          7,137.00
+COGENT INC                                 0.000 COGT    19239Y108     22.6800           300.00          8,337.06          6,804.00
+COGNEX CORP.                               1.063 CGNX    192422103     30.0900           100.00          2,607.94          3,009.00
+COHERENT INC.                              0.000 COHR    192479103     29.6800           200.00          5,364.23          5,936.00
+COHU INC.                                  1.049 COHU    192576106     22.8700         2,800.00         83,373.62         64,036.00
+COLDWATER CREEK INC.                       0.000 CWTR    193068103     30.5300           100.00            787.29          3,053.00
+COLLEGIATE FUNDING SERVICES                0.000 CFSI    19458M108     19.7500         1,000.00         14,662.72         19,750.00
+COLONY BANKCORP                            1.201 CBAN    19623P101     24.9800         1,000.00         30,616.00         24,980.00
+COLUMBIA BANKING SYSTEM INC                1.681 COLB    197236102     28.5500           100.00          2,299.07          2,855.00
+COMFORT SYS USA INC                        1.087 FIX     199908104      9.2000         1,400.00         10,822.68         12,880.00
+COMMERCIAL CAPITAL BANCORP INC             1.752 CCBI    20162L105     17.1200           200.00          3,397.56          3,424.00
+COMMERCIAL METALS CO.                      0.639 CMC     201723103     37.5400           600.00          8,698.17         22,524.00
+COMMERCIAL VEHICLE GROUP INC               0.000 CVGI    202608105     18.7800         5,100.00        103,685.45         95,778.00
+COMMONWEALTH TELEPHONE ENTERPR             5.922 CTCO    203349105     33.7700           100.00          4,328.85          3,377.00
+COMMSCOPE INC.                             0.000 CTV     203372107     20.1300           200.00          3,051.08          4,026.00
+COMMUNITY BANCORP                          0.000 CBON    20343T100     31.6100           900.00         26,702.93         28,449.00
+COMMUNITY BANK SYSTEM INC                  3.370 CBU     203607106     22.5500           200.00          4,612.58          4,510.00
+COMMUNITY BKS INC MI                       2.857 CMTY    203628102     28.0000         2,700.00         65,629.25         75,600.00
+COMPUTER PROGRAMS &                        2.124 CPSI    205306103     41.4300           400.00         10,522.19         16,572.00
+COMSTOCK HOMEBUILDING COS-A                0.000 CHCI    205684103     14.1100           900.00         19,369.20         12,699.00
+COMSTOCK RESOURCES INC                     0.000 CRK     205768203     30.5100           300.00          4,661.30          9,153.00
+COMSYS IT PARTNERS INC                     0.000 CITP    20581E104     11.0500         2,300.00         37,926.47         25,415.00
+COMTECH TELECOMMUNICATIONS                 0.000 CMTL    205826209     30.5400         3,900.00         96,893.96        119,106.00
+CONCUR TECHNOLOGIES INC                    0.000 CNQR    206708109     12.8900           100.00          1,231.46          1,289.00
+CONEXANT SYSTEMS INC.                      0.000 CNXT    207142100      2.2600         1,600.00          2,771.68          3,616.00
+CONMED CORPORATION                         0.000 CNMD    207410101     23.6600           100.00          2,293.09          2,366.00
+CONNETICS CORP                             0.000 CNCT    208192104     14.4500           900.00         18,948.54         13,005.00
+CONNS INC                                  0.000 CONN    208242107     36.8700           700.00         12,421.63         25,809.00
+CONSOLIDATED COMMUNICATIONS HO            11.932 CNSL    209034107     12.9900         2,800.00         38,136.00         36,372.00
+CONSOLIDATED-TOMOKA LAND CO                0.451 CTO     210226106     70.9000           200.00          7,974.97         14,180.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     11.7800           300.00          3,940.71          3,534.00
+CORN PRODUCTS INT'L INC.                   1.172 CPO     219023108     23.8900           300.00          4,123.01          7,167.00
+CORUS BANKSHARES INC                       2.488 CORS    220873103     56.2700           100.00          3,485.27          5,627.00
+COSTAR GROUP INC                           0.000 CSGP    22160N109     43.1700           100.00          4,324.10          4,317.00
+COVANSYS CORP                              0.000 CVNS    22281W103     13.6100         3,800.00         51,956.07         51,718.00
+COX RADIO INC                              0.000 CXR     224051102     14.0800           100.00          1,563.40          1,408.00
+CRA INTERNATIONAL INC                      0.000 CRAI    12618T105     47.6900           100.00          4,307.39          4,769.00
+CRAWFORD & CO                              4.166 CRD.B   224633107      5.7600         4,200.00         31,395.11         24,192.00
+CROSS COUNTRY INC                          0.000 CCRN    227483104     17.7800           100.00          1,577.27          1,778.00

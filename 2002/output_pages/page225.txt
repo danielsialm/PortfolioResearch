@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+STATE STREET CORP                            1.333     857477103   STT            509,835       19,855,965.39       19,883,565.00
+STATEN ISLAND BANCORP                        2.581     857550107   SIB            123,000        1,546,755.63        2,477,220.00
+STATION CASINOS INC                          0.000     857689103   STN             31,300          349,747.57          554,010.00
+STEAK N SHAKE COMPANY                        0.000     857873103   SNS             33,500          508,724.49          335,000.00
+STEEL DYNAMICS INC                           0.000     858119100   STLD            98,800        1,576,604.28        1,188,564.01
+STEEL TECHNOLOGIES INC                       1.179     858147101   STTX            32,200          394,373.46          546,112.00
+STEELCASE INC                                2.189     858155203   SCS             53,600          711,403.20          587,456.00
+STEIN MART INC.                              0.000     858375108   SMRT            58,900          667,484.13          359,290.00
+STEINER LEISURE LTD                          0.000     P8744Y102   STNR            44,500          788,160.91          620,330.00
+STERICYCLE INC                               0.000     858912108   SRCL            21,898          421,891.99          709,035.34
+STERIS CORP                                  0.000     859152100 Q STE            255,524        5,450,762.67        6,196,457.00
+STERLING BANCSHARES INC                      1.309     858907108   SBIB            48,700          662,182.42          595,114.00
+STEWART & STEVENSON SERVICES                 2.404     860342104 Q SVC             31,500          748,841.29          445,410.00
+STEWART ENTERPRISES INC. CL-A                0.000     860370105   STEI            30,000          168,479.78          167,130.00
+STEWART INFO SVCS                            0.000     860372101   STC             40,100          801,235.93          857,739.00
+STILLWATER MINING COMPANY                    0.000     86074Q102   SWC             40,700          633,061.67          217,745.00
+STONE ENERGY CORP                            0.000     861642106   SGY             59,829        2,470,342.41        1,995,895.45
+STORAGE TECHNOLOGY CORP                      0.000     862111200   STK            264,619        5,350,348.95        5,668,138.98
+STRAYER EDUCATION INC                        0.452     863236105   STRA             2,600          139,695.94          149,500.00
+STRIDE RITE CORP                             2.789     863314100 Q SRR             47,800          557,556.95          342,726.00
+STRYKER CORP.                                0.178     863667101   SYK            356,921       12,366,079.77       23,956,537.52
+STURM RUGER & CO INC                         8.359     864159108   RGR             97,700        1,199,716.11          934,989.00
+SUN MICROSYSTEMS INC.                        0.000     866810104   SUNW         6,635,704       81,359,311.47       20,637,039.44
+SUNGARD DATA SYSTEMS                         0.000     867363103   SDS            674,887       15,586,401.89       15,900,337.72
+SUNOCO, INC.                                 3.013     86764P109 Q SUN            147,576        5,249,798.97        4,896,571.68
+SUNRISE ASSISTED LIVING INC                  0.000     86768K106   SRZ             32,100          918,867.37          798,968.99
+SUNTRUST BANKS INC.                          3.021     867914103 Q STI            529,009       31,367,942.24       30,111,192.28
+SUPER VALU STORES INC.                       3.452     868536103 Q SVU            395,251        7,578,212.39        6,525,594.01
+SUPERIOR INDUSTRIES INTL                     1.208     868168105   SUP             95,700        3,311,176.87        3,958,152.00
+SUPERTEX INC                                 0.000     868532102   SUPX            13,600          316,963.82          202,503.99
+SURMODICS INC                                0.000     868873100   SRDX            43,730        1,813,587.00        1,254,176.40
+SUSQUEHANNA BANCSHARES INC.                  4.030     869099101   SUSQ            75,300        1,502,450.30        1,569,327.30
+SWIFT ENERGY COMPANY                         0.000     870738101   SFY             25,800          858,443.55          249,486.00
+SWIFT TRANSPORTATION CO.                     0.000     870756103   SWFT           214,400        3,742,671.29        4,291,859.20
+SWS GROUP INC                                2.949     78503N107   SWS             18,950          397,003.28          256,962.00
+SYBASE INC.                                  0.000     871130100   SY             224,900        4,524,413.05        3,013,660.00
+SYBRON DENTAL SPECIALTIES                    0.000     871142105   SYD             62,801        1,088,974.04          932,594.85
+SYKES ENTERPRISES                            0.000     871237103   SYKE            60,900          512,685.72          199,752.00
+SYLVAN LEARNING SYSTEMS INC                  0.000     871399101   SLVN            80,900        1,328,771.72        1,326,760.00
+SYMANTEC CORP                                0.000     871503108   SYMC           353,800        9,486,575.90       14,332,438.00

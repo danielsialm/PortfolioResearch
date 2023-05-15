@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+KINGSPAN GROUP                               1.542     0492793      KSP_I        29,409.00          202,257.09
+KIRIN BREWERY CO C                           0.012     6493745      2503_        84,500.00          710,384.80
+KOMATSU Y50                                  0.015     6496584      6301_        90,100.00          466,028.75
+KONICA CORPORATION                           0.007     6496700      4902_        30,500.00          390,164.41
+KUBOTA CORP Y50                              0.011     6497509      6326_        66,000.00          326,708.18
+KYOCERA CORP JPY50                           0.007     6499260      6971_        11,400.00          760,511.31
+KYUSHU ELECTRIC POWER                        0.023     6499806      9508_        74,000.00        1,206,562.37
+L''OREAL FRF10                               1.776     4057808      OR_FP        14,399.00        1,023,969.45
+LAFARGE FF25(REGD)                           4.402     4502706      LG_FP         7,593.00          645,492.57
+LAND SECURITIES GP                           5.155     3180943      LAND_        39,714.00          574,626.48
+LEGAL + GENERAL OR                           8.621     0560399      LGEN_       443,499.00          983,867.12
+LI & FUNG LTD                                0.363     6286257      494_H        93,200.00          134,307.30
+LINDE AG                                     3.345     5740817      00340        10,800.00          509,300.88
+LLOYDS TSB GROUP O                          13.880     0870612      LLOY_       392,394.00        3,436,244.38
+LOBLAW COMPANIES LTD                         0.880     2521800      L_CN          2,600.00          123,691.30
+LVMH MOET-HENNESSY                           2.122     4061412      MC_FP        12,374.00          567,423.71
+MACQUARIE BANK LIMITED                       2.207     6551353      MBL_A        32,700.00        1,160,121.71
+MACQUARIE INFRASTRUCTURE GRP                17.863     6456942      MIG_A       302,500.00          936,441.06
+MAGNA INTERNATIONAL INC-CL A                 1.287     2554475      MG/A_         2,300.00          173,022.97
+MAN AG ORSH NPV                              3.610     5563520      MAN_G         9,100.00          243,312.85
+MANULIFE FINANCIAL CORP                      1.567     2492519      MFC_C        14,000.00          558,147.99
+MARKS+ SPENCER ORD                           6.548     3127489      MKS_L       285,681.00        1,579,742.70
+MATSUSHITA ELC IND                           0.009     6572707      6752_       153,400.00        1,949,101.24
+MATSUSHITA ELECTRIC WORKS                    0.005     6572729      6991_        33,000.00          284,391.19
+METRO AG NPV                                 3.426     5041413      MEO_G        30,160.00        1,254,480.00
+MI DEVELOPMENTS                              0.833     2014140      CA553         1,950.00           31,156.38
+MILLEA HOLDINGS INC                          0.007     6513126      8766_            87.00        1,057,822.38
+MITCHELLS & BUTLERS                          5.646     3383991      MAB_L        50,079.99          275,221.51
+MITSUBISHI CHEM JP                           0.015     6597001      4010_       140,000.00          375,858.31
+MITSUBISHI CORP Y5                           0.008     6596785      8058_        88,100.00          677,442.02
+MITSUBISHI ELEC CP                           0.007     6597045      6503_       185,200.00          732,358.16
+MITSUBISHI ESTATE                            0.006     6596729      8802_        88,817.00          704,478.29
+MITSUBISHI HVY IND                           0.013     6597067      7011_       241,200.00          809,476.50
+MITSUBISHI UFJ HOLDINGS INC                  0.005     6335171      8306_           297.00        2,386,450.71
+MITSUI + CO JPY50                            0.014     6597302      8031_       118,700.00          727,893.16
+MITSUI FUDOSAN CO                            0.005     6597603      8801_        56,000.00          623,256.86
+MITSUI MARINE AND                            0.009     6870122      8752_       114,000.00          703,583.22
+MITSUI O.S.K. LINE                           0.023     6597584      9104_        84,000.00          490,382.24
+MITSUI TRUST HOLDINGS INC                    0.002     6431897      8309_        41,000.00          291,855.16

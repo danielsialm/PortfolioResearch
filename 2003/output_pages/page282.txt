@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 050
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MONSANTO COMPANY                             1.806     61166W101   MON            889,731       16,828,667.02       25,606,458.17
+MONSTER WORLDWIDE INC                        0.000     611742107   MNST           187,700        8,890,040.25        4,121,892.00
+MONTPELIER RE HOLDINGS LTD                   3.705     G62185106   MRH             27,778          905,948.50        1,019,452.60
+MOODY'S CORPORATION                          0.495     615369105   MCO            296,600       12,251,689.81       17,959,129.97
+MOOG INC. CL A                               0.000     615394202   MOG.A           61,995        2,072,869.88        3,062,553.00
+MORGAN STANLEY DEAN WITTER & COMPANY         1.728     617446448 Q MWD          2,267,238      100,285,320.49      131,205,063.01
+MOTHERS WK INC                               0.000     619903107   MWRK             5,000          149,551.99          122,000.00
+MOTOROLA INC                                 1.137     620076109 Q MOT          4,587,920       94,228,614.75       64,552,034.38
+MOVADO GROUP INC                             0.850     624580106   MOV              8,900          204,887.84          251,247.00
+MOVIE GALLERY INC                            0.642     624581104   MOVI            29,200          568,387.60          545,456.00
+MPS GROUP INC                                0.000     553409103   MPS            189,972        1,387,282.62        1,776,238.20
+MRO SOFTWARE INC                             0.000     55347W105   MROI            27,900          588,308.73          375,534.00
+MRV COMMUNICATIONS I                         0.000     553477100   MRVC           126,000          282,086.63          473,760.00
+MSA INDUSTRIAL DIRECT CO-A                   1.163     553530106   MSM             10,100          235,034.61          277,750.00
+MSC SOFTWARE CORPORATION                     0.000     553531104   MNS             29,000          215,716.74          274,050.00
+MTC TECHNOLOGIES INC                         0.000     55377A106   MTCT             6,900          187,151.84          222,318.00
+MTR GAMING GROUP INC                         0.000     553769100   MNTG            13,500          112,579.84          139,050.00
+MTS SYS CORP                                 1.248     553777103   MTSC            33,500          551,026.18          644,205.00
+MUELLER INDUSTRIES INC.                      0.000     624756102   MLI             87,200        2,600,727.68        2,996,192.00
+MULTIMEDIA GAMES, INC.                       0.000     625453105   MGAM            12,800          380,102.38          526,080.00
+MURPHY OIL CORP                              1.224     626717102 Q MUR            149,100        5,108,783.72        9,737,721.01
+MUTUALFIRST FINANCIAL INC                    1.736     62845B104   MFSF             5,300          126,102.59          134,302.00
+MYERS INDUSTRIES INC.                        1.650     628464109 Q MYE             39,325          439,443.58          476,619.00
+MYKROLIS CORP                                0.000     62852P103   MYK            107,300        1,319,241.47        1,725,384.00
+MYLAN LABS                                   0.475     628530107 Q MYL            843,200       14,758,464.31       21,299,232.00
+MYRIAD GENETICS INC                          0.000     62855J104   MYGN            42,600          581,957.99          547,836.00
+NABI BIOPHARMACEUTIC                         0.000     629519109   NABI            53,100          436,331.81          674,901.00
+NACCO INDUSTRIES -CL A                       1.698     629579103 Q NC              10,825          776,339.68          968,621.00
+NARA BANCORP INC                             0.732     63080P105   NARA            11,300          218,465.60          308,490.00
+NASB FINL INC                                1.622     628968109   NASB             3,700          112,439.44          155,067.00
+NASH FINCH CO.                               1.611     631158102   NAFC            34,097          669,592.04          761,726.98
+NASSDA CORP                                  0.000     63172M101   NSDA            16,300          146,111.05          118,175.00
+NATIONAL BANKSHARES INC/VA                   2.390     634865109   NKSH             4,200          177,643.28          207,354.00
+NATIONAL BEVERAGE CO                         0.000     635017106   FIZ              4,400           64,324.22           71,720.00
+NATIONAL CITY CORP                           3.771     635405103 Q NCC          1,338,500       37,565,141.88       45,428,690.01
+NATIONAL COMMERCE FINANCIAL                  2.932     63545P104   NCF            402,300        8,706,280.82       10,974,744.01
+NATIONAL FUEL & GAS                          4.419     636180101 Q NFG            170,400        4,082,197.13        4,164,576.01
+NATIONAL HEALTH INVESTORS INC                6.430     63633D104   NHI             47,100          935,091.82        1,171,848.00
+NATIONAL HEALTHCARE                          0.000     635906100   NHC             15,000          319,913.50          298,500.01
+NATIONAL INSTRUMENTS CORP.                   0.439     636518102   NATI           144,900        4,310,010.03        6,588,602.97

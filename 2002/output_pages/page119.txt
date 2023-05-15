@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 091
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 4JL       JACOBS LEVY - 400
+Instrument - COM       COMMON STOCK
+
+MEDIA GENERAL INC - CL A                   1.201 MEG     584404107     59.9500        13,500.00        682,109.62        809,325.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106      7.8600        38,300.00        407,324.33        301,038.00
+MERCANTILE BANC.                           3.109 MRBK    587405101Q    38.5900        29,500.00        863,970.06      1,138,405.00
+METRIS COMPANIES INC.                      1.619 MXT     591598107      2.4700        80,600.00        283,294.46        199,082.00
+MICROCHIP TECHNOLOGY INC.                  0.327 MCHP    595017104     24.4500        67,800.00      1,428,305.08      1,657,710.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     56.9500        23,700.00      1,079,274.30      1,349,715.00
+NATIONAL FUEL & GAS                        5.016 NFG     636180101Q    20.7300        39,800.00        801,835.13        825,054.00
+NEUBERGER BERMAN INC                       0.895 NEU     641234109     33.4900         1,700.00         52,309.00         56,933.00
+OCEAN ENERGY INC                           0.801 OEI     67481E106     19.9700         7,500.00        160,192.30        149,775.00
+OGE ENERGY CORP                            7.556 OGE     670837103     17.6000        34,400.00        895,921.16        605,440.00
+ONEOK INC.                                 3.229 OKE     682680103Q    19.2000        34,500.00        605,913.22        662,400.00
+OUTBACK STEAKHOUSE INC                     1.393 OSI     689899102     34.4400         1,200.00         41,132.76         41,328.00
+PARK PLACE ENTERTAINMENT CORPO             0.000 PPE     700690100      8.4000       127,900.00      1,162,806.11      1,074,360.00
+PATTERSON-UTI ENERGY INC                   0.000 PTEN    703481101     30.1700        34,000.00        783,966.56      1,025,780.00
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     51.4700        18,300.00        973,148.25        941,901.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     33.9590         5,300.00        184,542.35        179,982.70
+PETSMART INC                               0.000 PETM    716768106     17.1300        63,200.00      1,132,305.06      1,082,616.00
+PIER 1 IMPORTS INC/DEL                     1.267 PIR     720279108     18.9300        43,400.00        760,960.50        821,562.00
+PITNEY-BOWES, INC.                         3.613 PBI     724479100Q    32.6600        21,400.00        729,643.70        698,924.00
+PMI GROUP INC.                             0.332 PMI     69344M101     30.0400        39,300.00      1,252,874.96      1,180,572.00
+PRECISION CASTPARTS CORP                   0.494 PCP     740189105     24.2500        28,500.00        838,630.53        691,125.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC4 IT-JAC4        1.0000       453,988.33        453,988.33        453,988.33
+R.J. REYNOLDS TOBACCO HOLDINGS             9.024 RJR     76182K105     42.1100        20,100.00      1,045,457.31        846,411.00
+RADIAN GROUP INC.                          0.215 RDN     750236101     37.1500        34,200.00      1,331,591.21      1,270,530.00
+REPUBLIC SERVICES INC                      0.000 RSG     760759100     20.9800        62,000.00      1,288,186.40      1,300,760.00
+ROSS STORES INC                            0.448 ROST    778296103     42.3900        29,100.00      1,107,540.59      1,233,549.00
+RPM INTERNATIONAL INC.                     3.403 RPM     749685103Q    15.2800        68,000.00        966,524.96      1,039,040.00
+SANDISK CORP                               0.000 SNDK    80004C101     20.3000        49,000.00        884,898.09        994,700.00
+SCHOLASTIC CORP                            0.000 SCHL    807066105     35.9500        27,300.00        979,908.90        981,435.00
+SCHULMAN (A.) INC.                         2.901 SHLM    808194104Q    18.6100        24,200.00        419,675.68        450,362.00
+SEALED AIR CORP.                           0.000 SEE     81211K100     37.3000        10,700.00        395,208.03        399,110.00
+SENSIENT TECHNOLOGIES                      2.492 SXT     81725T100Q    22.4700        36,500.00        738,969.32        820,155.00
+SEPRACOR INC.                              0.000 SEPR    817315104      9.6700        62,100.00        837,397.83        600,507.00
+SMITH INTERNATIONAL INC                    0.000 SII     832110100     32.6200        39,300.00      1,290,938.19      1,281,966.00
+SPX CORP.                                  0.000 SPW     784635104Q    37.4500        33,200.00      1,233,373.36      1,243,340.00
+STEELCASE INC                              2.189 SCS     858155203     10.9600        24,700.00        327,829.46        270,712.00
+STERIS CORP                                0.000 STE     859152100Q    24.2500        42,300.00        867,191.52      1,025,775.00
+SUPERIOR INDUSTRIES INTL                   1.208 SUP     868168105     41.3600        19,000.00        856,987.76        785,840.00
+TCF FINANCIAL CORP                         2.632 TCB     872275102     43.6900        29,500.00      1,377,641.81      1,288,855.00

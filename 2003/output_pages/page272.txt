@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+INTEGRAL SYS INC MD                          0.000     45810H107   ISYS             4,300           84,980.24           92,536.00
+INTEGRATED CIRCUIT SYSTEMS                   0.000     45811K208   ICST           175,090        4,116,635.60        4,988,314.09
+INTEGRATED DEVICE TECH INC                   0.000     458118106   IDTI           372,900        7,196,753.20        6,402,693.03
+INTEGRATED ELECTRICAL SVCS                   0.000     45811E103   IES             57,300          434,315.51          530,025.00
+INTEGRATED SILICON SOLUTION                  0.000     45812P107   ISSI            73,695          910,235.40        1,154,800.65
+INTEL CORP.                                  0.248     458140100 Q INTC        14,301,118      305,545,662.50      460,495,999.59
+INTER PARFUMS INC                            0.354     458334109   IPAR             4,100           41,298.05           92,619.00
+INTER-TEL INC.                               0.960     458372109   INTL            22,500          419,093.36          562,050.00
+INTERACTIVE CORP                             0.000     45840Q101   IACI           688,657       27,549,226.61       23,366,132.03
+INTERACTIVE DATA CORP                        0.000     45840J107   IDC            118,400        1,974,948.93        1,960,704.00
+INTERCEPT GROUP INC                          0.000     45845L107   ICPT            59,937          660,524.70          676,688.73
+INTERCHANGE FINL SVC                         1.739     458447109   IFCJ             7,000          151,327.24          177,100.00
+INTERDIGITAL COMM CORP                       0.000     45866A105   IDCC           105,200        2,405,809.22        2,171,328.01
+INTERFACE INC                                1.085     458665106   IFSIA           98,700          499,054.84          545,811.01
+INTERGRAPH CORP.                             0.000     458683109   INGR            88,638        2,030,453.12        2,120,220.97
+INTERLAND INC                                0.000     458727203   INLD           160,553        1,275,286.00        1,048,411.09
+INTERMAGNETICS GENERAL CORP                  0.000     458771102   IMGC           107,340        2,098,666.07        2,378,654.48
+INTERMUNE INC                                0.000     45884X103   ITMN            22,000          374,971.71          509,520.00
+INTERNATIONAL BANCSH                         2.120     459044103   IBOC            52,600        1,960,129.40        2,480,089.98
+INTERNATIONAL PAPER                          2.319     460146103 Q IP             963,700       35,108,861.51       41,545,106.98
+INTERNATIONAL RECTIFIER CORP                 0.000     460254105   IRF            228,600        8,169,259.76       11,295,126.00
+INTERNATIONAL SPEEDWAY CORPORATION           0.134     460335201   ISCA            55,340        2,188,392.32        2,471,484.40
+INTERNATL FLAVORS & FRAGRANCES               1.832     459506101 Q IFF             86,500        2,847,508.91        3,020,580.01
+INTERNET SECURITY SYSTEMS                    0.000     46060X107   ISSX           104,800        1,418,392.83        1,973,384.02
+INTERPORE INTL                               0.000     46062W107   BONZ            33,700          434,488.29          438,100.00
+INTERPUBLIC GROUP                            2.435     460690100 Q IPG            704,440       15,938,163.83       10,989,264.01
+INTERSIL HOLDINGS CORP                       0.482     46069S109   ISIL           261,500        5,960,716.31        6,498,275.00
+INTERSTATE BAKERIES                          1.967     46072H108   IBC             71,874        1,004,493.56        1,022,767.02
+INTERTAN INC                                 0.000     461120107   ITN             24,800          206,192.27          250,976.01
+INTERVOICE INC.                              0.000     461142101   INTV           109,600          404,901.75        1,300,952.00
+INTERWOVEN INC                               0.000     46114T508   IWOV            83,430          877,014.88        1,054,555.20
+INTL BUS MACH CORP                           0.690     459200101 Q IBM          3,154,407      232,289,073.79      292,350,440.79
+INTL GAME TECHNOLOGY                         1.120     459902102   IGT          1,081,100       21,586,148.74       38,595,269.98
+INTL MULTIFOODS CORP                         4.444     460043102   IMC             21,200          457,802.70          381,600.00
+INTRADO INC                                  0.000     46117A100   TRDO            17,400          309,056.19          381,930.00
+INTUIT INC.                                  0.000     461202103   INTU           434,421       16,094,076.05       22,985,215.15
+INTUITIVE SURGICAL INC                       0.000     46120E602   ISRG            22,397          323,770.43          382,764.73
+INVACARE CORP.                               0.123     461203101   IVC             31,700          886,708.10        1,279,728.99
+INVERESK RESEARCH GROUP INC.                 0.000     461238107   IRGI            71,830        1,214,822.23        1,776,355.91
+INVERNESS MED INNOVA                         0.000     46126P106   IMA              8,200          169,370.90          178,596.00

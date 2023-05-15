@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     23.3000       186,700.00      3,665,162.43      4,350,110.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     27.3600       213,500.00      4,442,421.82      5,841,360.02
+FREEPORT MCMORAN CLASS B                   1.898 FCX     35671D857     42.1300       266,000.00      5,805,756.34     11,206,580.00
+FRIEDMAN BILLINGS RAMSEY -A                5.892 FBR     358434108     23.0800       105,200.00      1,668,595.09      2,428,016.00
+GALLAGHER (ARTHUR) J & CO.                 2.216 AJG     363576109Q    32.4900       141,600.00      3,194,208.83      4,600,584.01
+GENTEX CORP.                               1.358 GNTX    371901109     44.1600       129,600.00      3,461,838.63      5,723,135.98
+GETTY IMAGES INC.                          0.000 GYI     374276103     50.1300        54,700.00      2,236,072.64      2,742,110.99
+GLOBAL PAYMENTS INC-W/I                    0.339 GPN     37940X102     47.1200        43,900.00      1,084,718.11      2,068,568.02
+GRACO INC.                                 1.396 GGG     384109104     40.1000        77,800.00      1,738,753.10      3,119,780.00
+GTECH HOLDINGS CORP                        1.374 GTK     400518106     49.4900       105,000.00      2,752,063.18      5,196,449.99
+H & R BLOCK INC.                           1.444 HRB     093671105Q    55.3700       210,400.00      8,264,637.53     11,649,847.99
+HARMAN INTERNATIONAL                       0.067 HAR     413086109     73.9800       100,600.00      2,577,177.20      7,442,388.02
+HARRAH'S ENTERTAINMENT INC.                2.411 HET     413619107     49.7700        35,000.00      1,194,517.44      1,741,950.00
+HARRIS CORP.                               1.054 HRS     413875105Q    37.9500        34,900.00      1,078,390.94      1,324,455.00
+HARTE-HANKS INC.                           0.551 HHS     416196103     21.7500        85,200.00      1,444,093.54      1,853,100.00
+HCC INSURANCE HOLDINGS INC.                0.943 HCC     404132102     31.8000        42,900.00      1,064,510.32      1,364,220.02
+HEALTH MGMT ASSOCIATES CL A                0.333 HMA     421933102     24.0000       403,000.00      7,597,696.44      9,672,000.01
+HEALTH NET                                 0.000 HNT     42222G108     32.7000        91,900.00      2,267,374.51      3,005,130.00
+HEALTHEON/WEB CORP                         0.000 HLTH    94769M105      8.9900       361,900.00      4,216,805.02      3,253,481.00
+HENRY (JACK) & ASSOCIATES                  0.680 JKHY    426281101     20.5800       113,800.00      1,634,388.11      2,342,004.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     67.5800        44,000.00      1,856,205.33      2,973,520.00
+HERSHEY FOODS CORP.                        2.052 HSY     427866108Q    76.9900        84,000.00      5,197,791.91      6,467,160.01
+HEWITT ASSOCIATES INC                      0.000 HEW     42822Q100     29.9000        29,700.00        722,165.48        888,030.00
+HILLENBRAND IND.                           1.740 HB      431573104Q    62.0600        28,700.00      1,497,433.82      1,781,121.98
+HILTON HOTELS CORP.                        0.467 HLT     432848109Q    17.1300       284,600.00      3,322,726.24      4,875,198.00
+HON INDUSTRIES                             1.200 HNI     438092108     43.3200        41,900.00      1,221,097.92      1,815,108.00
+HUDSON CITY BANCORP INC                    1.571 HCBK    443683107     38.1800        45,100.00      1,191,462.17      1,721,917.98
+HUMAN GENOME SCIENCE                       0.000 HGSI    444903108     13.2500        48,100.00        642,736.78        637,325.02
+ICOS CORPORATION                           0.000 ICOS    449295104     41.2800        30,100.00      1,189,359.24      1,242,527.99
+IDEXX LABS INC.                            0.000 IDXX    45168D104     46.2800        53,600.00      1,626,887.03      2,480,608.00
+IMCLONE SYSTEMS                            0.000 IMCL    45245W109     39.6600        87,500.00      3,085,498.32      3,470,249.99
+IMS HEALTH INC.                            0.321 RX      449934108     24.8600       335,400.00      5,624,165.70      8,338,044.01
+INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     28.4900       124,300.00      2,865,006.04      3,541,306.99
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700       160,000.00      3,081,305.62      2,747,200.01
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     16.5600        29,000.00        476,693.89        480,240.00
+INTERDIGITAL COMM CORP                     0.000 IDCC    45866A105     20.6400        94,800.00      2,204,703.35      1,956,672.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     49.4100        85,000.00      2,918,678.52      4,199,850.01
+INTERNATL FLAVORS & FRAGRANCES             1.832 IFF     459506101Q    34.9200        74,200.00      2,475,837.84      2,591,064.01
+INTERSIL HOLDINGS CORP                     0.482 ISIL    46069S109     24.8500       103,300.00      2,316,605.14      2,567,004.99

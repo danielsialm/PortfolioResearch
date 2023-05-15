@@ -1,0 +1,35 @@
+ASOF02   Date 01/19/2006 Time 18:24:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 184
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-VC     VENTURE CAPITAL
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+NEW ENTERPRISE ASSOCIATES 11               0.000 AVNEA11 AVNEA11        0.0000     3,855,425.00      3,855,424.98      4,992,886.01
+NORTHCOAST FUND                            0.000 NCFD    VEA06027       0.0000         1,000.00          1,000.00              1.00
+NORTHCOAST FUND II                         0.000 9940481FAVCNC          0.0000    11,789,370.00     11,789,370.00      2,871,317.54
+OHIO INNOVATION FUND I                     0.000 OIF1    VEA02581       0.0000     2,000,000.00      2,000,000.00      1,142,111.00
+PARK ST CAPITAL PRIVATE EQUITY             0.000 AVPARK5 AVPARK5        0.0000     4,953,550.68      4,953,550.68      4,857,158.99
+PARK STREET CAPITAL PRIVATE EQ             0.000 AVPARK6 AVPARK6        0.0000     2,000,000.00      2,000,000.00      1,873,303.00
+PRIMUS CAPITAL FUND III-A PFD              0.000 PCFZ    VEA06130       0.0000         1,000.00            999.99      1,559,388.65
+PRIMUS CAPITAL FUND III-B                  0.000 PCFY    VEA06129       0.0000         1,000.00          1,000.00      1,781,788.84
+PRIMUS CAPITAL FUND IV                     0.000 PCF4    VEA02451       0.0000    10,074,826.33     10,074,826.06      9,133,738.38
+PRIMUS CAPITAL FUND V                      0.000 9940481YAVPRIMUS5      0.0000    22,770,000.00     22,769,999.86     20,704,352.22
+PRISM VENTURE PARTNERS IV                  0.000 9940608YAVPRISM4       0.0000    12,247,787.29     12,247,787.23      7,393,665.27
+SPACEVEST II                               0.000 VEASPVE VEASPVE        0.0000    12,610,923.26     12,610,923.22      6,765,471.00
+TUCKER ANTHONY PRIVATE EQITY F             0.000 AVTAPE3 AVTAPE3        0.0000     5,050,000.00      5,049,999.04      5,961,943.97
+TUCKER ANTHONY PRIVATE EQUITY              0.000 9940608ZAVTAPE4        0.0000     7,462,500.00      7,462,499.80      8,220,286.97
+WARBURG PINCUS EQUITY PARTNERS             0.000 9940482BAWARBURG       0.0000         1,000.12          1,000.10     25,127,603.26
+WARBURG PINCUS PRIVATE EQUITY              0.000 AVWPPE9 AVWPPE9        0.0000    13,875,000.00     13,875,000.00     13,801,978.00
+WARBURG PINCUS VIII                        0.000 AWARBURGAWARBURG8      0.0000    35,243,175.00     35,243,173.96     42,538,236.02
+
+Instrument Total            56                                                   569,223,441.26    569,223,431.01    507,823,367.00
+
+Portfolio Total             56                                                   569,223,441.26    569,223,431.01    507,823,367.00
+
+Group Total                121                                          0.00 / 1,333,816,796.23  1,377,230,732.27  1,650,176,025.02
+

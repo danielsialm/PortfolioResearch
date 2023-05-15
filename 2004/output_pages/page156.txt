@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 124
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+INTL BUS MACH CORP                         0.730 IBM     459200101Q    98.5800        23,100.00      2,020,829.57      2,277,198.00
+INTL GAME TECHNOLOGY                       1.396 IGT     459902102     34.3800        12,700.00        325,379.51        436,626.00
+INVESTORS FINANCIAL SERVICES C             0.140 IFIN    461915100     49.9800         1,400.00         55,940.78         69,972.00
+IRON MTN INC PA                            0.000 IRM     462846106     30.4900        23,150.00        744,981.70        705,843.50
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     47.5500         1,000.00         40,571.17         47,550.00
+ITT INDUSTRIES INC                         0.805 ITT     450911102     84.4500         7,000.00        511,035.40        591,150.00
+IVAX CORP                                  0.000 IVX     465823102     15.8200         5,124.99         77,306.48         81,077.50
+J C PENNEY INC                             1.207 JCP     708160106Q    41.4000        15,000.00        554,834.70        621,000.00
+JEFFERSON PILOT                            2.925 JP      475070108Q    51.9600         1,500.00         61,197.06         77,940.00
+JM SMUCKER CO                              2.124 SJM     832696405     47.0700         4,000.00        191,523.46        188,280.00
+JOHNSON & JOHNSON                          1.797 JNJ     478160104Q    63.4200        50,200.00      2,092,554.49      3,183,684.00
+JOHNSON CONTROLS                           1.576 JCI     478366107Q    63.4400         6,700.00        318,854.94        425,048.00
+JONES APPAREL GROUP INC                    1.093 JNY     480074103     36.5700         6,400.00        239,807.83        234,048.00
+JPMORGAN CHASE & CO.                       3.486 JPM     46625H100Q    39.0100        60,412.00      2,091,103.70      2,356,672.12
+JUNIPER NETWORKS INC                       0.000 JNPR    48203R104     27.1900         3,520.00         56,170.36         95,708.80
+KELLOGG CO.                                2.261 K       487836108Q    44.6600        12,800.00        493,955.97        571,648.00
+KERR MCGEE CORP.                           3.114 KMG     492386107Q    57.7900        10,000.00        577,060.92        577,900.00
+KEYCORP                                    3.657 KEY     493267108Q    33.9000         8,700.00        212,473.10        294,930.00
+KEYSPAN CORPORATION                        4.613 KSE     49337W100     39.4500         2,000.00         67,700.85         78,900.00
+KIMBERLY-CLARK CORP                        2.431 KMB     494368103Q    65.8100         9,900.00        623,657.53        651,519.00
+KINDER MORGAN INC.                         3.828 KMI     49455P101     73.1300         4,400.00        228,401.18        321,772.00
+KING PHARMACEUTICALS                       0.000 KG      495582108     12.4000         1,300.00         17,228.82         16,120.00
+KLA-TENCOR CORP.                           0.000 KLAC    482480100     46.5800         1,300.00         60,866.00         60,554.00
+KNIGHT RIDDER                              2.061 KRI     499040103Q    66.9400         6,300.00        374,111.28        421,722.00
+KOHLS CORP                                 0.000 KSS     500255104     49.1700         6,900.00        337,738.50        339,273.00
+KRAFT FOODS INC - A                        2.302 KFT     50075N104     35.6100         2,000.00         63,980.51         71,220.00
+L-3 COMMUNICATIONS HOLDINGS IN             0.546 LLL     502424104     73.2400         6,200.00        413,768.35        454,088.00
+LABORATORY CRP OF AMER HLDGS               0.000 LH      50540R409     49.8200        11,200.00        477,066.65        557,984.00
+LAFARGE NORTH AMERICA INC.                 1.714 LAF     505862102     51.3200         4,100.00        178,298.48        210,412.00
+LAM RESEARCH CORP                          0.000 LRCX    512807108     28.9100         2,100.00         60,730.74         60,711.00
+LAMAR ADVERTISING CO                       0.000 LAMR    512815101     42.7800        16,000.00        665,137.46        684,480.00
+LAUREATE EDUCATION INC                     0.000 LAUR    518613104     44.0900         3,400.00        143,162.44        149,906.00
+LEAR CORP.                                 1.639 LEA     521865105     61.0100           500.00         28,188.31         30,505.00
+LEE ENTERPRISES                            1.562 LEE     523768109     46.0800         3,900.00        185,378.01        179,712.00
+LEGG MASON INC.                            0.819 LM      524901105     73.2600        11,650.00        522,815.36        853,479.00
+LEGGETT & PLATT INC                        2.110 LEG     524660107     28.4300        19,500.00        556,983.05        554,385.00
+LEHMAN BROTHERS HOLDING                    0.731 LEH     524908100Q    87.4800         9,368.00        464,360.22        819,512.64
+LEUCADIA NATIONAL CORP                     0.359 LUK     527288104     69.4800         6,500.00        287,863.57        451,620.00
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     85.0000         9,300.00        720,173.34        790,500.00

@@ -1,0 +1,144 @@
+Instrument - A         APARTMENT
+
+AUTUMN RIDGE                   ATLANTA, GA                     6.580         RAUTUM                  6,878,730.24      7,300,000.00
+BRIDGEWATER                    ATLANTA, GA                     7.430         RBRIDG                 41,157,771.50     42,200,000.01
+CHAPARRAL CREEK                IRVING, TX                      8.000         RCREEK                 29,448,531.89     31,287,939.81
+HOMES OF PRAIRIE SPRINGS       DALLAS, TX                      9.100         RHMPRS                 32,665,931.97     35,500,000.00
+JEFFERSON PARK                 IRVING, TX                      8.000         RJPARK                 23,760,225.00     25,900,000.00
+JEFFERSON RIDGE                IRVING, TX                      8.000         RRIDGE                 26,017,725.00     25,300,000.00
+WATERS PARK                    AUSTN, TX                       8.200         RWATPK                 29,191,791.00     34,400,000.00
+WYNFIELD TRACE                 ATLANTA, GA                     5.200         RTRACE                  9,689,312.58     11,500,000.00
+
+Instrument Total             8                                                                     198,810,019.18    213,387,939.82
+
+Instrument -I      INDUSTRIAL
+
+15200 TRINITY                  FORT WORTH, TX.                 0.000         RMATTE                 18,101,084.71     14,000,000.00
+ACLINE DISTRIBUTION            TAMPA, FL                       9.630         RACLIN                  5,130,576.39      5,200,000.00
+ALLIANCE AIRLINES              ATLANTA, GA                     9.100         RALLNC                  4,477,000.00      4,100,000.00
+CROSSROADS BUSINESS PARK       TAMPA, FL                       9.200         RCRRD1                  5,204,845.75      6,800,000.00
+GATEWAY BUSINESS CENTER        TAMPA, FL                      12.800         RGATEW                  5,322,377.58      7,500,000.00
+QUADRANT BUSINESS CTR          DEERFIELD BC                   10.875         RQBC01                 12,830,523.78     18,600,000.00
+QUAKER OATS BUILDING           ATLANTA, GA                     0.000         RQOATS                 16,952,685.00     16,952,685.00
+REGENCY 1                      DALLAS TX                       8.500         RREGNC                 16,207,374.38     13,300,000.00
+REGENCY 2                      DALLAS, TX                      0.000         RREGN2                 15,526,783.11     15,000,000.00
+TRADE CENTER I                 ATLANTA GA                      8.500         RTDCNT                 13,769,358.00     11,300,000.01
+TRADE CENTER II                ATLANTA, GA                     0.000         RTDCN2                 12,013,354.50     12,000,000.00
+UNIVERSITY BUSINESS CENTER     TAMPA, FL                      10.530         RUNIVB                  4,762,587.01      7,900,000.00
+
+Instrument Total            12                                                                     130,298,550.21    132,652,685.01
+
+Instrument -O      OFFICE
+
+ARBORETUM                      AUSTIN,TX                       0.000         RARBTM                 41,576,571.20     44,300,000.00
+CIGNA PLAZA                    DALLAS, TX                      0.000         RCIGNA                 19,100,694.00     16,900,000.00
+CROWN POINTE BLDG              ATLANTA                         9.500         RCPTE1                 63,568,516.19     56,800,000.00
+GALLERIA 100                   ATLANTA, GA                     0.000         RGAL10                 66,080,825.00     71,000,000.00
+GALLERIA 400                   ATLANTA, GA                     0.000         RGALPK                 13,595,976.20     28,699,999.97
+GALLERIA 600                   ATLANTA, GA                     0.000         RGAL60                  9,553,205.50      9,553,205.50
+JC PENNY CREDIT                SAN ANTONIO                     9.700         RJCP02                  3,786,732.00      4,800,000.00
+JPM I (aka CHASE I)            DALLAS, TX                      0.000         RINTNL                 13,254,967.97     15,700,000.33
+ROSEMEADE                      DALLAS, TX                      0.000         RROSMD                 23,585,255.00     22,300,000.00
+
+Instrument - O         OFFICE
+
+SOUTHPARK ONE                  AUSTIN                         11.500         RSPK01                 10,408,643.00     18,100,000.00
+
+Instrument Total            10                                                                     264,511,386.06    288,153,205.80
+
+Instrument -R      RETAIL
+
+BRADLEES #02                   GREENBELT                       9.750         RMEM04                  4,900,000.00      5,600,000.00
+BRADLEES #03                   COLUMBIA                        8.875         RMEM05                  4,300,000.00      4,400,000.00
+BRADLEES #04                   BURKE                          11.250         RMEM06                  5,512,600.00      5,600,000.00
+CREEKSIDE                      FT. WORTH, TX                   0.000         RCRKSD                  2,671,263.60      2,450,000.00
+EAGLE #10                      URBANA, IL                      9.000         REAG10                  1,202,351.04        600,000.00
+GEMCO #05                      YUBA CITY                       8.875         RGEM05                  4,000,000.00      4,400,000.00
+GEMCO #08                      SANTA MARIA                     8.875         RGEM08                  4,400,000.00      5,000,000.00
+GEMCO #11                      BAKERSFIELD                     9.320         RGEM11                  4,900,000.00      5,400,000.00
+GEMCO #12                      CATHEDRAL CITY                  9.382         RGEM12                  5,500,000.00      5,800,000.00
+GEMCO #13                      VALLEJO                         8.875         RGEM13                  3,200,000.00      5,000,000.00
+K MART #06                     AMARILLO                        9.550         RKM006                  2,800,000.00      2,200,000.00
+K MART #08 PM1                 KIMBERLY                       11.580         RKM081                  2,218,359.68      1,559,769.83
+K MART #34 PM1                 MILLIARD                       11.650         RKM341                  2,281,903.87      2,562,475.22
+K MART #37 PM1                 HOUSTON                        11.630         RKM371                  2,102,632.89      1,099,999.99
+K MART #41                     INDIANAPOLIS                    9.700         RKM041                  2,964,122.00      3,700,000.00
+K MART #44                     S PASADENA                      9.550         RKM044                  3,000,000.00      3,300,000.00
+K MART #47 PM1                 ROCHESTER                      11.530         RKM471                  3,040,185.37      3,434,420.76
+K MART #50                     SPRINGFIELD                     9.550         RKM050                  3,468,664.00      4,000,000.00
+K MART #57                     MILWAUKEE                       9.550         RKM057                  3,100,000.00      2,400,000.00
+KILLEEN MALL                   KILLEEN, TX                    10.120         ROGW01                  1,319,903.55      1,319,903.58
+KROGER #02                     COVINGTON                      10.000         RKR002                  2,252,581.00      2,100,000.00
+KROGER #03                     LOUISVILLE                     10.000         RKR003                  1,959,115.00      2,000,000.00
+KROGER #04                     CARTERSVILLE                   10.000         RKR004                  2,254,876.00      2,400,000.00
+KROGER #09                     FAYETTEVILLE                   10.000         RKR009                  1,351,062.00      1,800,000.00
+KROGER #11                     DALTON                         10.250         RKR011                  2,390,956.10      2,100,000.00
+KROGER #13                     DUNCANVILLE                    10.250         RKR013                  2,545,346.34      2,000,000.00
+KROGER #15                     ARLINGTON                      10.250         RKR015                  4,723,707.32      4,600,000.00
+KROGER #16                     LANETT                         10.250         RKR016                  2,360,976.00      1,575,000.00
+KROGER #17                     W COLUMBIA                     10.250         RKR017                  2,527,800.50      1,900,000.00
+KROGER #19                     COLLIERVILLE                   10.250         RKR019                  4,532,260.79      5,600,000.00
+KROGER #21                     SPARTA                         10.250         RKR021                  1,500,000.00      1,700,000.00
+KROGER #22                     WINCHESTER                     10.000         RKR022                  1,839,030.00      1,500,000.00
+KROGER #25                     PADUCAH                        10.250         RKR025                  2,305,000.00      2,400,000.00
+
+Instrument - R         RETAIL
+
+LAKELAND PLAZA                 CUMMINS, GA                     9.500         RLAKPL                 21,691,549.74     24,530,000.00
+LONGS DRUGS #02                GRASS VALLEY                    8.750         RLD002                  1,100,000.00      1,900,000.00
+LONGS DRUGS #05                LANCASTER                       8.750         RLD005                    700,000.00        900,000.00
+LONGS DRUGS #08                MADERA                          9.000         RLD008                    925,000.00        900,000.00
+LONGS DRUGS #09                SACRAMENTO                      9.250         RLD009                    925,000.00        800,000.00
+LONGS DRUGS #11                WOODLAND                        9.000         RLD011                  1,000,000.00      1,300,000.00
+LONGS DRUGS #13                SALINAS                        10.375         RLD013                    900,000.00      1,500,000.00
+LONGS DRUGS #17                SIMI VALLEY                    10.375         RLD017                  1,500,000.00      1,500,000.00
+LONGS DRUGS #18                REDLANDS                       10.375         RLD018                  1,000,000.00      1,200,000.00
+LONGS DRUGS #19                FRESNO                         10.375         RLD019                  1,350,000.00      1,300,000.00
+LONGS DRUGS #20                BAKERSFIELD                    10.625         RLD020                  1,450,000.00      1,400,000.00
+LUCKY #01                      TUCSON                          8.750         RLS001                  1,150,000.00      1,370,000.00
+LUCKY #04                      TRUCKEE                         8.750         RLS004                  1,600,000.00      2,100,000.00
+LUCKY #05                      ORCUTT                          8.750         RLS005                  1,300,000.00      1,300,000.00
+LUCKY #10                      ARROYO GRANDE                   8.750         RLS010                  1,400,000.00      1,400,000.00
+LUCKY #11                      ATASCADERO                      9.100         RLS011                  1,750,000.00      1,500,000.00
+PRESTON VILLAGE CENTER         PLANO, TX                       0.000         RPRSTV                 46,681,715.06     44,279,380.81
+SAFEWAY #09                    WILLIAMSBURG                   10.500         RSAF09                  2,151,000.00      2,300,000.00
+SOUTHLAKE                      DALLAS TX                       0.000         REGDAL                  4,668,387.09      4,380,000.00
+SUPER X #01                    WINCHESTER                     10.250         RSPX01                    639,058.80        500,000.00
+SUPER X #04                    PADUCAH                        10.250         RSPX04                    531,000.00        600,000.00
+TG&Y #01                       ABBEVILLE                      10.000         RTGY01                    134,300.00        300,000.00
+TG&Y #02                       SAN BENITO                     10.000         RTGY02                  1,500,000.00      1,700,000.00
+TG&Y #03                       LUCEDALE                       10.000         RTGY03                     67,742.00        600,000.00
+TG&Y #05                       OZARK                          10.000         RTGY05                    781,054.30        750,000.00
+TG&Y #13                       LANDRUM SC                     10.000         RTGY13                    700,000.00        300,000.00
+TG&Y #19                       HATTIESBURG                    10.000         RTGY19                  1,973,006.55      2,500,000.00
+TG&Y #23                       VALDOSTA                       10.000         RTGY23                    745,649.92      2,700,000.00
+TG&Y #29                       HAZARD                         10.000         RTGY29                  2,000,000.00      1,800,000.00
+WAL-MART #03                   SPRINGFIELD                    10.000         RWAL03                  1,486,566.00      2,200,000.00
+WAL-MART #25                   HOUSE SPRINGS                  10.000         RWAL25                  1,614,133.00      2,200,000.00
+WAL-MART #28                   GRAHAM                         10.000         RWAL28                  1,457,000.00      1,900,000.00
+WAL-MART #30                   MARLIN                         10.000         RWAL30                  1,365,000.00      1,500,000.00
+WAL-MART #38                   MARSHALL                       10.000         RWAL38                  1,832,846.00      2,400,000.00
+WAL-MART #39                   EDMOND                         10.000         RWAL39                  2,565,000.00      3,900,000.00
+WAL-MART #42                   RUSSELLVILLE                   10.000         RWAL42                  1,503,000.00      1,800,000.00
+WAL-MART #43                   EL CAMPO                       10.000         RWAL43                  1,697,000.00      2,200,000.00
+WAL-MART #44                   HOT SPRINGS                    10.000         RWAL44                  2,212,000.00      2,200,000.00
+WAL-MART #52                   PARSONS                        10.000         RWAL52                  1,449,000.00      2,200,000.00
+
+Instrument - R         RETAIL
+
+WAL-MART #56                   NEDERLAND                      10.000         RWAL56                  3,367,000.00      3,300,000.00
+WAL-MART #65                   LEITCHFIELD                    10.000         RWAL65                  1,132,000.00      1,700,000.00
+WAL-MART #66                   ALVIN                          10.000         RWAL66                  1,710,000.00      1,400,000.00
+WAL-MART #67                   ROCKPORT                       10.000         RWAL67                  1,522,000.00      2,000,000.00
+
+Instrument Total            76                                                                     226,651,705.51    240,010,950.19
+
+Instrument -X      OTHER
+
+CROWN POINTE LAND              ATLANTA GA                      9.000         RCPTE4                    547,718.15      2,250,000.00
+GALLERIA LAND                  ATLANTA GA                     11.000         RGALD1                  1,843,199.00      5,339,999.99
+
+Instrument Total             2                                                                       2,390,917.15      7,589,999.99
+
+Portfolio Total            108                                                                     822,662,578.11    881,794,780.81
+

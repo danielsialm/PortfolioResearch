@@ -1,0 +1,34 @@
+ASOF11   Date 01/19/2006 Time 18:25:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TIGER BRANDS LIMITED                         0.542     B0J4PP2      TBS_S       120,000.00        1,477,857.25
+TINGYI HLDG CO                               0.038     6903556      322_H     2,300,000.00          483,498.66
+TISCO FINANCE PUB CO.                        0.114     6892858      68928       918,000.00          768,062.45
+TUPRAS-TURKIYE PETROL RAFINE                 6.350     B03MYT9      TUPRS        44,000.00          427,664.71
+ULTRATECH CEMCO LTD                          0.003     B01GZF6      UTCM_        20,000.00           53,872.51
+ULTRATECH CEMENT LTD                         0.000     B031P37      34747        11,200.00                0.00
+UNIFIED ENERGY SYSTEMS                      13.184     4889335      EESR_     2,400,000.00          346,804.57
+UNITED MICROELECTRONICS                      0.015     6916628      73850     2,600,427.00        2,589,575.67
+WAL MART DE MEXICO                           0.070     B02YZ04      WALME       360,000.00          977,277.64
+WIPRO                                        0.012     6206051      WPRO_        32,000.00          108,437.03
+YANG MING MARINE TRANSPORT                   0.425     6987583      2609_     2,050,000.00        2,057,667.72
+YAPI KREDI BANKASI                           0.000     B03MZJ6      YKBNK       112,000.00          287,775.25
+ZENTIVA                                      0.028     B01JPG6      ZEN_C        10,000.00          333,255.85
+
+Instrument Total             217                                            296,444,327.29      201,153,115.74
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    61,536.59        6,153,659.23
+
+Instrument Total               1                                                 61,536.59        6,153,659.23
+
+Portfolio Total              243                                            322,722,250.89      229,743,259.74        428,778,402.97

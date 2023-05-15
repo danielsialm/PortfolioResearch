@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+BRISTOL-MYERS SQUIBB                         4.371     110122108 Q BMY          3,935,400      115,596,478.97      100,824,948.00
+BROADCOM CORP CL A                           0.000     111320107   BRCM           436,000       50,031,680.39       14,074,080.00
+BROADWING CORP                               0.000     11161E101   BWNG            74,400          869,017.38          677,784.00
+BROCADE COMMUNICATIONS SYSTEM                0.000     111621108   BRCD           404,000        2,448,325.72        3,086,560.00
+BROOKFIELD HOMES CORP                        0.472     112723101   BHS             16,600          384,104.88          562,740.00
+BROOKLINE BANCORP IN                         2.083     11373M107   BRKL           262,143        3,873,003.14        4,278,173.76
+BROOKS AUTOMATION INC                        0.000     114340102   BRKS            33,700          832,685.03          580,314.00
+BROOKSTONE INC                               0.000     114537103   BKST           107,767        1,410,313.91        2,106,844.85
+BROWN & BROWN INC                            0.734     115236101   BRO            122,715        4,512,244.81        5,344,238.25
+BROWN SHOE COMPANY INC                       1.340     115736100 Q BWS             28,300          780,310.07          844,189.00
+BROWN-FORMAN -CL B                           2.013     115637209 Q BF.B            16,048          622,157.57          781,216.64
+BRUKER BIOSCIENCES CORP                      0.000     116794108   BRKR           182,200          855,636.16          734,266.00
+BRUNSWICK CORP                               1.212     117043109 Q BC             162,962        4,862,238.95        8,066,619.00
+BRUSH ENGINEERED MATERIALS                   2.594     117421107   BW              28,100          447,785.70          519,850.00
+BUCA INC.                                    0.000     117769109   BUCA           162,600          929,179.88        1,131,696.00
+BUCKEYE TECHNOLOGIES INC.                    0.000     118255108   BKI             32,600          394,229.14          424,126.00
+BUCKLE INC                                   1.627     118440106   BKE             20,200          493,340.37          595,900.00
+BUCYRUS INTERNATIONAL INC-A                  0.565     118759109   BUCY            62,830        1,553,042.71        2,553,411.20
+BUFFALO WILD WINGS INC                       0.000     119848109   BWLD            34,700        1,067,874.85        1,207,907.00
+BUILD-A-BEAR WORKSHOP INC                    0.000     120076104   BBW              9,900          313,718.13          347,985.00
+BUILDING MATERIALS HLDG. CORP.               0.835     120113105   BMHC            34,632          520,552.78        1,326,059.28
+BURLINGTON COAT FACTORY WAREHOUSE            0.176     121579106   BCF             29,800          538,162.42          676,460.00
+BURLINGTON NORTHERN SANTA FE                 1.437     12189T104 Q BNI            838,468       27,616,576.96       39,667,921.08
+BURLINGTON RESOURCES                         0.781     122014103 Q BR             889,800       24,820,882.92       38,706,300.00
+C-COR INC                                    0.000     125010108   CCBL            70,409          481,099.03          654,803.70
+C.H.ROBINSON WORLDWIDE INC                   1.080     12541W100   CHRW           159,600        5,311,426.10        8,860,992.00
+C&D TECHNOLOGIES INC.                        0.322     124661109   CHP             50,400          929,786.84          858,816.00
+CABELAS INC                                  0.000     126804301   CAB             31,500          739,799.23          716,310.00
+CABLEVISION SYSTEMS CORP                     0.000     12686C109   CVC            433,200        9,145,224.04       10,786,680.00
+CABOT CORP                                   1.654     127055101   CBT            304,690       10,072,165.72       11,785,409.20
+CABOT MICROELECTRONICS CORPORATION           0.000     12709P103   CCMP            42,878        1,624,230.66        1,717,263.90
+CABOT OIL & GAS CORP.                        0.361     127097103 Q COG             38,500        1,346,757.44        1,703,625.00
+CACHE INC                                    0.000     127150308   CACH            10,600          157,191.91          191,012.00
+CACI INTERNATIONAL INC._CL A                 0.000     127190304   CAI             32,400          967,279.37        2,207,412.00
+CADENCE DESIGN SYS INC                       0.000     127387108   CDN            395,599        6,085,093.42        5,463,222.21
+CAESARS ENTERTAINMENT INC                    0.000     127687101   CZR            584,386        7,185,292.04       11,769,534.04
+CAL DIVE INTERNATIONAL INC                   0.000     127914109   CDIS            46,311        1,043,455.74        1,887,173.25
+CAL-MAINE FOODS INC                          0.413     128030202   CALM            35,500          491,379.35          429,195.00
+CALAMOS ASSET MANAGEMENT-A                   0.000     12811R104   CLMS            22,200          532,065.35          599,400.00
+CALGON CARBON CORP.                          1.321     129603106 Q CCC            130,900          956,074.88        1,188,572.00

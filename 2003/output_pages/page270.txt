@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HORMEL FOODS CORP                            1.743     440452100   HRL            138,900        3,073,149.90        3,585,009.01
+HOT TOPIC INC                                0.000     441339108   HOTT            98,537        1,572,301.88        2,902,900.02
+HOUSTON EXPL CO                              0.000     442120101   THX             32,704        1,066,265.21        1,194,350.07
+HOVNANIAN ENTERPRISES-A                      0.000     442487203   HOV             51,300        4,118,686.68        4,466,177.99
+HUBBELL INC                                  2.993     443510201 Q HUB.B           97,900        3,173,879.39        4,317,389.99
+HUDSON CITY BANCORP INC                      1.571     443683107   HCBK           173,300        4,344,170.57        6,616,593.99
+HUDSON HIGHLAND GROUP INC                    0.000     443792106   HHGP            12,800          291,929.31          305,280.00
+HUDSON RIV BANCORP I                         0.768     444128102   HRBT            18,300          512,767.54          714,249.00
+HUDSON UNITED BANCORP                        3.247     444165104   HU              91,700        2,947,616.41        3,388,315.01
+HUGHES ELECTRONICS CORP                      0.000     444418107   HS           1,395,598       19,215,488.14       23,097,147.56
+HUGHES SUPPLY INC.                           0.806     444482103   HUG             52,400        1,496,741.89        2,600,087.98
+HUMAN GENOME SCIENCE                         0.000     444903108   HGSI           286,600        3,623,639.47        3,797,450.01
+HUMANA INC.                                  0.000     444859102   HUM            644,868       12,364,413.96       14,735,233.80
+HUMBOLDT BANCORP                             0.684     445069107   HBEK            23,200          384,599.91          406,464.00
+HUNGARIAN TELEPHONE & CABLE                  0.000     445542103   HTC              4,100           41,776.84           40,426.00
+HUNT (JB) TRANSPRT SVCS INC                  0.000     445658107   JBHT           139,760        2,983,736.34        3,774,917.60
+HUNTINGTON BANCSHARES                        3.111     446150104   HBAN           447,100        9,147,404.86       10,059,750.00
+HUTCHINSON TECH.                             0.000     448407106   HTCH            32,100          860,692.00          986,754.00
+HYDRIL                                       0.000     448774109   HYDL            15,270          400,802.17          365,411.10
+HYPERCOM CORP                                0.000     44913M105   HYC             85,155          416,016.42          405,337.80
+HYPERION SOLUTIONS CORP.                     0.000     44914M104   HYSL            63,400        1,914,178.87        1,910,876.00
+I-STAT CORP                                  0.000     450312103   STAT            30,100          331,089.47          460,530.00
+IBERIABANK CORP                              1.627     450828108   IBKC             8,100          412,759.44          477,900.00
+IBT BANCORP INC/PA                           2.363     44923F108   IRW              3,100          147,507.15          183,613.00
+ICOS CORPORATION                             0.000     449295104   ICOS           106,500        4,495,976.39        4,396,319.99
+ICT GROUP INC                                0.000     44929Y101   ICTG            16,222          166,257.39          190,608.51
+ICU MEDICAL INC.                             0.000     44930G107   ICUI            71,800        1,976,581.64        2,461,304.00
+IDACORP, INC.                                4.010     451107106   IDA             46,100        1,899,652.28        1,379,312.00
+IDC SYSTEMS CORP                             0.000     449491109   IDXC            40,820          869,352.13        1,094,792.40
+IDENTIX INC                                  0.000     451906101   IDNX           103,300          684,779.57          459,685.00
+IDEX CORPORATION                             1.346     45167R104   IEX             65,700        2,187,777.71        2,732,463.00
+IDEXX LABS INC.                              0.000     45168D104   IDXX            59,400        1,802,930.79        2,749,032.00
+IDT CORP                                     0.000     448947101   IDT.C           60,900        1,117,437.39        1,348,934.99
+IGATE CORP                                   0.000     45169U105   IGTE            49,000          245,532.30          384,650.00
+IGEN INC                                     0.000     449536101   IGEN            21,700          713,288.43        1,278,347.00
+IHOP CORP.                                   2.598     449623107   IHP             23,900          716,670.04          919,672.00
+II VI INC                                    0.000     902104108   IIVI            32,800          779,593.60          846,240.00
+IKON OFFICE SOLUTIONS INC.                   1.349     451713101 Q IKN            584,100        4,762,011.46        6,927,426.00
+ILEX ONCOLOGY INC                            0.000     451923106   ILXO            46,300          916,999.48          983,875.00
+ILLINOIS TOOL WORKS                          1.144     452308109 Q ITW            507,600       26,300,872.74       42,592,716.00

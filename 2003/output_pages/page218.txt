@@ -1,0 +1,34 @@
+ASOF02   Date 01/20/2004 Time 18:59:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 188
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6MA       M.A. WEATHERBIE - 20
+Instrument - COM       COMMON STOCK
+
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200       104,606.00      1,391,120.73      2,041,909.12
+POLYMEDICA CORP                            2.280 PLMD    731738100     26.3100        83,366.00      1,145,416.39      2,193,359.45
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     33.4600        27,457.00        880,777.21        918,711.22
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     18.6400        74,614.00      1,059,098.06      1,390,804.96
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-MAW  IT-MAW         1.0000     3,700,069.02      3,700,069.20      3,700,069.04
+QLT INC.                                   0.000 QLTI    746927102     18.8500        82,830.00        805,837.41      1,561,345.49
+RESMED INC                                 0.000 RMD     761152107     41.5400        65,570.00      2,189,333.10      2,723,777.80
+RETEK INC                                  0.000 RETK    76128Q109      9.2800        60,162.00        307,952.65        558,303.36
+RITE AID CORP.                             0.000 RAD     767754104Q     6.0400       151,128.00        613,748.61        912,813.12
+SEMTECH CORPORATION                        0.000 SMTC    816850101     22.7300        61,928.00        958,981.99      1,407,623.44
+SRA INTERNATIONAL INC - CLASS              0.000 SRX     78464R105     43.1000        32,879.00      1,109,593.08      1,417,084.90
+TIDEWATER INC                              2.008 TDW     886423102Q    29.8800        30,519.00        847,756.88        911,907.71
+UNIVERSAL TECHNICAL INSTITUTE              0.000 UTI     913915104     30.0000        18,200.00        467,814.68        546,000.00
+UTI WORLDWIDE INC                          0.250 UTIW    G87210103     37.9300        66,834.00      2,068,948.24      2,535,013.62
+WEBEX COMMUNICATIONS INC                   0.000 WEBX    94767L109     20.1000        63,407.00        995,866.54      1,274,480.70
+WEST CORP.                                 0.000 WSTC    952355105     23.2300        60,659.00      1,268,662.27      1,409,108.57
+WESTWOOD ONE                               0.000 WON     961815107     34.2100        69,012.00      2,312,621.40      2,360,900.53
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     66.3700        40,102.00      1,617,126.52      2,661,569.73
+
+Instrument Total            57                                                     6,645,929.02     69,763,482.26     92,604,606.81
+
+Portfolio Total             57                                                     6,645,929.02     69,763,482.26     92,604,606.81
+

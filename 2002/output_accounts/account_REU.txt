@@ -1,0 +1,13 @@
+Instrument - U         OPPORTUNITY FUNDS
+
+AEW PARTNERS II                Misc US                         0.000         RAEWII                 20,559,295.27     26,324,609.03
+DLJ R.E. CAPITAL PARTNERS      Misc US                         0.000         RDLJRE                 11,062,412.86     12,063,240.00
+WESTBROOK FUND I               MISC US                        11.000         RTGRRE                  8,501,862.60     13,754,530.00
+WESTBROOK FUND II              MISC US                         0.000         RWSTBK                  5,726,325.61      5,604,759.01
+WESTBROOK FUND III             MISC US                         0.000         RWSTB3                 54,546,478.44     52,619,504.00
+WESTBROOK FUND IV              MISC US                         0.000         RWSTB4                 25,594,655.10     25,959,892.99
+
+Instrument Total             6                                                                     125,991,029.88    136,326,535.03
+
+Portfolio Total              6                                                                     125,991,029.88    136,326,535.03
+

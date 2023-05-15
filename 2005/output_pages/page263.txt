@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 046
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MINE SAFETY APPLIANCES CO                    1.546     602720104   MSA             30,500          810,550.76        1,104,405.00
+MINERALS TECHNOLOGIES INC                    0.357     603158106   MTX             28,670        1,647,243.74        1,602,366.30
+MIPS TECHNOLOGIES IN                         0.000     604567107   MIPS            44,900          300,576.74          255,032.00
+MKS INSTRUMENTS INC                          0.000     55306N104   MKSI            55,600        1,006,262.46          994,684.00
+MOBILE MINI INC.                             0.000     60740F105   MINI            15,600          405,686.38          739,440.00
+MOBILITY ELECTRONICS INC                     0.000     60741U101   MOBE            28,400          237,779.03          274,344.00
+MODINE MANUFACTURING CO                      2.147     607828100   MOD             96,000        2,683,052.88        3,128,640.00
+MOHAWK INDUSTRIES INC.                       0.000     608190104   MHK             30,500        1,987,561.73        2,652,890.00
+MOLECULAR DEVICES CORP                       0.000     60851C107   MDCC            86,069        1,889,005.16        2,489,976.17
+MOLINA HEALTHCARE INC                        0.000     60855R100   MOH             11,700          444,691.15          311,688.00
+MOLSON COORS BREWING CO                      1.910     60871R209 Q TAP            196,300       13,491,767.75       13,150,137.00
+MOMENTA PHARMACEUTICALS INC                  0.000     60877T100   MNTA            10,100          212,111.08          222,604.00
+MONACO COACH CORPORATION                     1.804     60886R103   MNC            362,756        6,432,458.47        4,824,654.80
+MONARCH CASINO & RES                         0.000     609027107   MCRI             9,800          207,228.75          221,480.00
+MONEYGRAM INTERNATIONAL INC.                 0.613     60935Y109   MGI             93,200        1,867,486.16        2,430,656.00
+MONOGRAM BIOSCIENCES INC                     0.000     60975U108   MGRM           128,700          337,820.77          240,669.00
+MONOLITHIC POWER SYSTEMS INC                 0.000     609839105   MPWRE           67,000          851,223.91        1,004,330.00
+MONRO MUFFLER BRAKE                          0.659     610236101   MNRO            11,062          242,185.43          335,399.84
+MONSANTO COMPANY                             1.031     61166W101   MON            587,800       28,666,627.65       45,572,134.00
+MOODY'S CORPORATION                          0.455     615369105   MCO            682,800       21,140,993.59       41,937,576.00
+MOOG INC. CL A                               0.000     615394202   MOG.A           74,062        1,380,563.16        2,101,879.56
+MORGAN STANLEY DEAN WITTER & COMPANY         1.903     617446448 Q MS           2,586,801      120,406,528.67      146,775,088.74
+MOSAIC COMPANY                               0.546     61945A107 Q MOS             54,400          726,468.75          795,872.00
+MOTOROLA INC                                 0.708     620076109 Q MOT          5,924,949      104,627,948.03      133,844,597.91
+MOVADO GROUP INC                             1.092     624580106   MOV             19,400          264,778.30          355,020.00
+MPS GROUP INC                                0.000     553409103   MPS            138,800        1,071,887.95        1,897,396.00
+MRO SOFTWARE INC                             0.000     55347W105   MROI            21,200          330,976.11          297,648.00
+MRV COMMUNICATIONS I                         0.000     553477100   MRVC           110,300          370,467.28          226,115.00
+MTR GAMING GROUP INC                         0.000     553769100   MNTG            24,800          230,216.16          258,168.00
+MTS SYS CORP                                 1.154     553777103   MTSC            30,200          595,856.69        1,046,128.00
+MUELLER INDUSTRIES INC.                      1.458     624756102   MLI             93,900        2,746,646.67        2,574,738.00
+MULTI-FINELINE ELECTRONIX INC                0.000     62541B101   MFLX            21,100          355,711.34        1,016,387.00
+MULTIMEDIA GAMES, INC.                       0.000     625453105   MGAM           150,500        1,403,158.79        1,392,125.00
+MURPHY OIL CORP                              0.833     626717102 Q MUR              3,200           86,230.18          172,768.00
+MWI VETERINARY SUPPLY INC                    0.000     55402X105   MWIV             5,100          101,847.00          131,631.00
+MYERS INDUSTRIES INC.                        1.371     628464109 Q MYE             27,780          301,914.41          405,032.40
+MYLAN LABS                                   1.202     628530107 Q MYL            276,700        4,737,005.55        5,522,932.00
+MYOGEN INC                                   0.000     62856E104   MYOG            35,400          851,028.87        1,067,664.00
+MYRIAD GENETICS INC                          0.000     62855J104   MYGN           101,900        1,630,445.87        2,119,520.00
+NABI BIOPHARMACEUTIC                         0.000     629519109   NABI            62,271          612,593.11          210,475.98

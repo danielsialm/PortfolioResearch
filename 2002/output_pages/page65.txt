@@ -1,0 +1,41 @@
+ASOF02   Date 01/21/2003 Time 18:52:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 037
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+TRINITY INDUSTRIES                         1.265 TRN     896522109     18.9600       180,000.00      4,244,854.41      3,412,800.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103      4.2400       350,000.00      4,242,440.14      1,484,000.00
+TYSON FOODS INC. CL-A                      1.426 TSN     902494103     11.2200       745,000.00     10,769,890.45      8,358,900.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     10.7600       200,000.00      3,403,015.47      2,152,000.00
+UNITRIN INC.                               5.681 UTR     913275103     29.2200       129,000.00      4,299,679.42      3,769,380.00
+UNIVERSAL CORP-VA                          3.896 UVV     913456109Q    36.9600        47,000.00      1,148,962.92      1,737,120.00
+VALERO ENERGY CORP.                        1.082 VLO     91913Y100Q    36.9400       195,000.00      4,060,596.79      7,203,300.00
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     17.4000       184,000.00      3,681,080.73      3,201,600.00
+VECTREN CORPORATION                        4.782 VVC     92240G101     23.0000        93,000.00      1,823,666.33      2,139,000.00
+VERITAS DGC INC.                           0.000 VTS     92343P107      7.9000        75,000.00      1,050,817.78        592,500.00
+VERITY INC.                                0.000 VRTY    92343C106     13.3910        50,000.00        756,586.33        669,550.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     11.1800       300,000.00      3,917,213.93      3,354,000.00
+WALLACE COMPUTER SVCS INC                  3.068 WCS     932270101     21.5100        25,000.00        460,101.60        537,750.00
+WEBSTER FINANCIAL CORPORATION              2.183 WBS     947890109     34.8000        68,000.00      2,002,476.80      2,366,400.00
+WESTAR ENERGY INC.                        12.121 WR      95709T100      9.9000       160,000.00      2,926,198.26      1,584,000.00
+WGL HOLDINGS, INC.                         5.309 WGL     92924F106     23.9200        23,000.00        598,667.40        550,160.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107      4.1000       182,000.00        977,592.52        746,200.00
+WISCONSIN ENERGY CORP.                     3.174 WEC     976657106Q    25.2000       260,000.00      6,836,182.64      6,552,000.00
+YORK INTERNATIONAL CORP                    2.346 YRK     986670107     25.5700        73,000.00      1,905,007.94      1,866,610.00
+
+Instrument Total           253                                                    41,342,100.01    794,974,481.41    669,386,311.29
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+LIBERTY PROPERTY TRUST                     7.514 LRY     531172104Q    31.9400        78,000.00      2,387,775.73      2,491,320.03
+
+Instrument Total             1                                                        78,000.00      2,387,775.73      2,491,320.03
+
+Portfolio Total            254                                                    41,420,100.01    797,362,257.14    671,877,631.32
+

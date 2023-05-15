@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 170
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+MCLEODUSA INC                              0.000 MCLD    582266706      1.4800       191,700.00        272,446.40        283,716.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     13.2500        34,700.00        410,187.81        459,775.00
+NETSCREEN TECHNOLOGIES INC                 0.000 NSCN    64117V107     24.7500        19,100.00        450,472.63        472,725.00
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      4.7900        77,500.00        444,355.00        371,225.00
+NMS COMMUNICATIONS CORP                    0.000 NMSS    629248105      6.2400        37,700.00        227,821.46        235,248.00
+NOVELL INC                                 0.000 NOVL    670006105     10.5200       104,500.00        542,277.12      1,099,340.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108      7.9500        44,700.00        298,721.46        355,365.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    17.3600        28,600.00        408,713.04        496,496.00
+OMI CORPORATION                            0.000 OMM     Y6476W104      8.9300        33,600.00        208,263.46        300,048.00
+ON SEMICONDUCTOR COR                       0.000 ONNN    682189105      6.4500        31,000.00        197,904.10        199,950.00
+OPENWAVE SYS INC                           0.000 OPWV    683718308     11.0000        21,666.00        145,703.65        238,326.00
+ORTHOLOGIC CORP                            0.000 OLGC    68750J107      6.1300        64,200.00        309,167.68        393,546.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     21.1200        21,600.00        359,804.28        456,192.00
+PAPA JOHN'S INTERNATIONAL                  0.000 PZZA    698813102     33.3800         8,000.00        222,429.38        267,039.99
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      3.9400        49,500.00        154,899.11        195,030.00
+PARK NATL CORP                             3.110 PRK     700658107    113.1500         3,600.00        411,299.12        407,340.00
+PARKER DRILLING CO                         0.000 PKD     701081101      2.5500       125,700.00        278,617.37        320,535.00
+PDI INC                                    0.000 PDII    69329V100     26.8100        17,200.00        452,274.99        461,132.00
+PEETS COFFEE & TEA I                       0.000 PEET    705560100     17.4100        11,800.00        205,019.16        205,438.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     23.0800        18,400.00        386,024.88        424,672.00
+PEP BOYS MM & J                            1.180 PBY     713278109Q    22.8700         6,600.00        147,267.45        150,942.00
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     30.4500        14,200.00        396,938.56        432,390.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109      9.3200        41,600.00        292,411.55        387,712.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      8.5300        34,000.00        267,765.90        290,020.00
+PLANTRONICS INC.                           0.000 PLT     727493108     32.6500        17,900.00        399,674.33        584,435.00
+POLYCOM INC.                               0.000 PLCM    73172K104     19.5200        31,900.00        500,488.84        622,688.00
+PRESIDENTIAL LIFE                          3.039 PLFE    740884101     13.1600        11,500.00        170,237.60        151,339.99
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     10.2000        48,100.00        378,696.80        490,620.00
+PRIME MONEY MARKET - 6FC                   0.000 IT-FUL6 IT-FUL6        1.0000     1,256,367.93      1,256,367.89      1,256,367.90
+PRIMEDIA INC                               0.000 PRM     74157K101      2.8300       197,300.00        636,529.60        558,359.01
+PRIMUS TELECOMMUNICATIONS GROU             0.000 PRTL    741929103     10.1800        40,600.00        429,300.80        413,308.00
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100     12.0700        32,900.00        202,637.61        397,102.99
+PTEK HLDGS INC                             0.000 PTEK    69366M104      8.8100        27,100.00        140,845.01        238,751.00
+REGENERATION TECHNOLOGIES INC              0.000 RTIX    75886N100     10.9600        16,300.00        189,591.36        178,648.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      4.7500        55,200.00        225,006.64        262,200.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100     10.0500        37,500.00        443,749.07        376,875.00
+RITE AID CORP.                             0.000 RAD     767754104Q     6.0400        60,800.00        274,922.06        367,231.99
+RSA SECURITY INC.                          0.000 RSAS    749719100     14.2000        16,900.00        191,909.05        239,980.01
+SABA SOFTWARE INC                          0.000 SABA    784932600      3.4500        53,000.00        239,464.88        182,850.00

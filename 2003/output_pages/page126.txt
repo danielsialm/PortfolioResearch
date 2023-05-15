@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 096
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+NORDSON CORP                               1.795 NDSN    655663102     34.5300        26,200.00        678,837.65        904,686.00
+NORTH COAST ENERGY INC                     0.000 NCEB    658649702     10.6910        14,600.00        177,489.28        156,088.60
+NORTH PITTSBURGH SYS                       3.596 NPSI    661562108     18.9100        18,100.00        311,037.25        342,271.00
+NORTHERN STATES FINANCIAL CORP             3.735 NSFC    665751103     28.9100         3,500.00        100,167.57        101,185.00
+NORTHWEST AIRLINES CORP                    0.000 NWAC    667280101     12.6200        73,400.00        795,549.23        926,308.00
+NORTHWEST BANCORP IN                       1.872 NWSB    667328108     21.3600        13,300.00        225,415.48        284,087.99
+NORTHWEST NATURAL GAS CO.                  4.227 NWN     667655104     30.7500        31,000.00        841,240.91        953,250.00
+NOVEN PHARMACEUTICALS INC                  0.000 NOVN    670009109     15.2100        24,500.00        405,706.91        372,645.00
+NOVOSTE CORP                               0.000 NOVT    67010C100      4.7900        19,700.00        105,497.53         94,363.00
+NPS PHARMACEUTICALS INC.                   0.000 NPSP    62936P103     30.7400        30,400.00        798,733.68        934,496.00
+NS GROUP INC                               0.000 NSS     628916108      9.7000        17,700.00        152,330.19        171,690.00
+NU SKIN ENTERPRISES                        1.638 NUS     67018T105     17.0900        33,300.00        353,790.26        569,097.00
+NUANCE COMMUNICATIONS INC                  0.000 NUAN    669967101      7.6400         6,700.00         35,858.24         51,188.00
+NUEVO ENERGY COMPANY                       0.000 NEV     670509108     24.1700        21,200.00        361,649.47        512,404.00
+NUI CORP                                   6.079 NUI     629431107     16.1200        19,400.00        393,247.05        312,728.00
+NUVELO INC                                 0.000 NUVO    67072M103      3.4700        13,800.00         29,458.04         47,886.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108      7.9500        49,100.00        783,178.32        390,345.00
+NYMAGIC INC                                0.875 NYM     629484106Q    27.4200         8,400.00        219,536.74        230,328.00
+O'CHARLEYS INC                             0.000 CHUX    670823103     17.9500        14,900.00        330,500.92        267,455.00
+OAK HILL FINANCIAL INC                     1.947 OAKF    671337103     30.8100         4,000.00        105,125.79        123,240.00
+OAKLEY INC.                                1.011 OO      673662102     13.8400        29,900.00        352,916.15        413,816.00
+OCEANEERING INT'L. INC.                    0.000 OII     675232102     28.0000        20,300.00        442,825.09        568,400.00
+OCEANFIRST FINL CORP                       2.945 OCFC    675234108     27.1600         7,600.00        193,106.10        206,416.00
+OCTEL CORP                                 0.507 OTL     675727101     19.6900        20,500.00        340,492.50        403,645.00
+OCULAR SCIENCES INC                        0.000 OCLR    675744106     28.7100        22,400.00        472,912.75        643,104.00
+OCWEN FINANCIAL CORP                       0.000 OCN     675746101      8.8600        47,200.00        221,154.55        418,192.00
+ODYSSEY HEALTHCARE INC                     0.000 ODSY    67611V101     29.2600        38,600.00        988,321.65      1,129,436.00
+OFFSHORE LOGISTICS                         0.000 OLG     676255102     24.5200        22,500.00        442,540.08        551,700.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    17.3600        75,600.00        987,225.39      1,312,416.00
+OIL STS INTL INC                           0.000 OIS     678026105     13.9400        18,500.00        227,361.05        257,890.01
+OLD DOMINION FREIGHT LINE                  0.000 ODFL    679580100     34.0800         8,600.00        231,270.49        293,087.99
+OLD POINT FINANCIAL CORP                   1.892 OPOF    680194107     31.7100         2,800.00         86,215.93         88,787.99
+OLD SECOND BANCORP I                       1.616 OSBC    680277100     49.5000         8,100.00        344,015.42        400,950.00
+OLIN CORP                                  3.988 OLN     680665205Q    20.0600        56,200.00        994,245.90      1,127,372.01
+OM GROUP, INC.                             2.138 OMG     670872100Q    26.1900        40,500.00        635,195.74      1,060,695.00
+OMEGA FINL CORP                            3.117 OMEF    682092101     38.4900         9,800.00        344,817.46        377,202.00
+OMEGA PROTEIN CORP                         0.000 OME     68210P107      7.7200         7,300.00         40,171.02         56,356.00
+OMNICELL INC                               0.000 OMCL    68213N109     16.2000        28,500.00        332,838.79        461,700.00
+OMNIVISION TECHNOLOGIES INC                0.000 OVTI    682128103     55.2500        31,000.00      1,301,251.50      1,712,750.00

@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+KOOR INDS ORD ILS0                           1.473     6481698      KOR_I         8,000.00          308,992.79
+KOREA ELEC POWER K                           0.003     6495730      01576       124,000.00        3,383,489.82
+KOREA TELECOM CORPORATION                    0.004     6505316      03020        72,000.00        2,801,606.68
+LAND + HOUSES THBH                           0.285     6581930      LH/F_     2,000,000.00          489,783.90
+LG ELECTRONICS PFD                           0.003     6520966      06657         6,400.00          162,015.01
+LIBERTY GROUP LTD                            0.741     6515047      LGL_S       253,886.00        2,274,404.00
+LUKOIL HOLDING-ADR 144A                      0.794     2538822      LUKFY        12,000.00          744,000.00
+MAHANAGAR TELEPHONE NIGAM                    0.066     6117807      ZMTNL       120,000.00          370,955.82
+MALAKOFF BERHAD                              1.023     6555924      MAL_M       500,000.00          758,765.97
+MALAYAN BANKING BERHAD                       0.780     6556325      MAY_M       700,000.00        1,652,058.00
+MATAV RT                                     0.044     4577469      MATAV       550,000.00        2,209,133.10
+MIGROS TRL1000                               0.000     4593034      MIGRS    70,000,000.00          291,535.94
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.002     4742494      MOL_H        70,000.00        1,111,805.42
+MTN GROUP LIMITED                            0.167     6563206      MTN_S       600,000.00          656,743.47
+NAN YA PLASTICS CORP                         0.110     6621580      73841     1,251,008.37        1,133,182.06
+NEDCOR ORDINARY SHARES                       0.180     6628008      NED_S       359,999.99        6,809,644.27
+NIEN HSING TEXTILE CO LTD                    0.215     6591928      1451_     3,900,000.00        3,003,503.54
+OAO GAZPROM-GDR                              0.513     5140989      OGZD_        30,000.00          678,967.73
+OIL & NATURAL GAS CORP LTD                   0.084     6139362      ONGC_        80,000.00        1,476,892.64
+OLD MUTUAL                                   0.060     6155131      OML_S     1,600,000.00        2,857,424.02
+ORBIS PLN2                                   0.458     5349173      ORB_P       550,000.00        3,153,578.87
+OTP BANK                                     0.006     7320154      OTP_H       112,000.00          728,392.02
+PETROCHINA CO                                0.605     6226576      857_H     7,000,000.00        3,600,317.22
+PETROL BRASILEIROS                           1.573     2684532      PETR4       180,000.00        3,356,817.58
+PHOENIXTEC POWER                             0.208     6685508      2411_       400,000.00          363,058.13
+PICC PROPERTY & CASUALTY                     0.000     6706250      2328_     4,000,000.00        1,497,223.46
+PLIVA D.D. GDR REG S                         4.198     5174706      PLVD_       136,000.00        1,528,636.65
+POHANG IRON+STEEL                            0.004     6693233      00549        10,358.00          947,646.78
+POLSKI KON-GDR                               1.219     5811906      POKD_        40,000.00          361,200.00
+PREMIER IMAGE TECHNOLOGY                     0.216     6143330      2394_     1,599,250.00        1,401,935.58
+PT BANK CENTRAL ASIA                         0.000     B01C1P6      BBCA_    16,000,000.00        2,147,302.23
+PT TELEKOMUNIKASI                            0.000     B02ZK79      TLKM_     8,000,000.00        1,540,136.68
+PUBLIC BANK BHD                              1.211     B012W53      PBKF_     1,218,750.00        1,029,956.93
+REALTEK SEMICONDUCTOR                        0.147     6051422      2379_     1,071,949.50        1,625,742.65
+RELIANCE INDUSTRIES                          0.022     6099626      RIL_I       300,000.00        2,124,413.97
+SAMPO CORP                                   0.209     6771924      1604_     2,100,000.00          907,271.10
+SAMSUNG CO KSWN500                           0.001     6771601      00083        70,000.00          922,187.51
+SAMSUNG ELEC MECH                            0.001     6771689      00915        60,000.00        2,235,376.98
+SAMSUNG ELECTRONIC                           0.002     6771720      00593        45,000.00       17,069,210.36

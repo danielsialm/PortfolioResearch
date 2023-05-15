@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 057
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+PEROT SYSTEMS COPR. CL. A                    0.000     714265105   PER            155,400        2,143,264.15        2,491,062.00
+PERRIGO CO.                                  0.926     714290103   PRGO            79,900          944,885.68        1,379,873.00
+PERRY ELLIS INTERNATIONAL                    0.000     288853104   PERY             6,000          149,664.42          122,100.00
+PETCO ANIMAL SUPPLIES INC                    0.000     716016209   PETC           215,214        7,280,986.44        8,496,648.72
+PETROLEUM DEVELOPMENT CORP                   0.000     716578109   PETD            23,000          314,296.34          887,110.00
+PETROQUEST ENERGY INC                        0.000     716748108   PQUE            25,700           81,752.23          127,215.00
+PETSMART INC                                 0.337     716768106   PETM           278,000        5,125,508.64        9,877,340.00
+PFF BANCORP INC                              1.726     69331W104   PFB             26,040          873,950.73        1,206,433.20
+PFIZER INC.                                  2.826     717081103 Q PFE         16,323,974      373,033,401.88      438,951,660.86
+PHARMACEUTICAL PRODUCT DEVELOPMENT INC.      0.000     717124101   PPDI           112,200        2,688,916.10        4,632,738.00
+PHARMACOPEIA DRUG DISCOVERY INC              0.000     7171EP101   PCOP            65,800          393,118.44          394,142.06
+PHARMACYCLICS INC                            0.000     716933106   PCYC            40,300          413,766.18          421,941.00
+PHARMION CORP                                0.000     71715B409   PHRM            28,270        1,317,042.23        1,193,276.70
+PHARMOS CORP                                 0.000     717139208   PARS            22,400           82,539.29           31,808.00
+PHASE FORWARD INC                            0.000     71721R406   PFWD             6,100           53,085.25           49,837.00
+PHELPS DODGE CORP.                           1.010     717265102 Q PD             224,120       14,425,748.94       22,169,950.40
+PHILADELPHIA CONS HLDG CO                    0.000     717528103   PHLY            50,210        2,433,853.02        3,320,889.40
+PHILLIPS-VAN HEUSEN                          0.555     718592108   PVH             26,900          429,622.09          726,300.00
+PHOENIX COMPANIES INC.                       1.280     71902E109   PNX            121,800        1,283,651.69        1,522,500.00
+PHOTON DYNAMICS INC                          0.000     719364101   PHTN            12,869          392,675.49          312,459.32
+PHOTRONICS INC.                              0.000     719405102   PLAB            36,100          655,078.29          595,650.00
+PICO HOLDINGS INC                            0.000     693366205   PICO            47,900          697,254.85          994,883.00
+PIEDMONT NATURAL GAS CO INC NORTH CAROL      3.700     720186105   PNY             84,600        1,791,412.03        1,966,104.00
+PIER 1 IMPORTS INC/DEL                       2.030     720279108   PIR            209,100        4,057,087.21        4,119,270.00
+PILGRIMS PRIDE CORP                          0.195     721467108   PPC             49,745        1,415,329.45        1,526,176.60
+PINNACLE AIRLINES CORP                       0.000     723443107   PNCL            66,810          790,641.95          931,331.40
+PINNACLE ENTERTAINMENT, INC.                 0.000     723456109   PNK             75,100          749,060.54        1,485,478.00
+PINNACLE FINANCIAL PARTNERS INC              0.000     72346Q104   PNFP            58,400        1,013,886.04        1,321,066.40
+PINNACLE SYSTEMS                             0.000     723481107   PCLE           257,900        1,481,949.33        1,573,190.00
+PINNACLE WEST CAPITAL CORP                   4.278     723484101 Q PNW            294,600       11,240,880.25       13,083,186.00
+PIONEER NATURAL RESOURCES CO.                0.569     723787107   PXD            241,495        5,833,163.36        8,476,474.51
+PIPER JAFFRAY COMPANIES INC                  0.000     724078100   PJC             27,100          831,335.83        1,299,445.00
+PITNEY-BOWES, INC.                           2.636     724479100 Q PBI            575,700       23,042,769.20       26,643,396.00
+PIXAR                                        0.000     725811103   PIXR            76,700        6,233,118.15        6,566,287.00
+PIXELWORKS INC                               0.000     72581M107   PXLW            45,000          449,974.43          510,300.00
+PLACER SIERRA BANCSHARES                     0.703     726079106   PLSB            30,500          616,741.00          867,420.00
+PLAINS EXPLORATION & PR                      0.000     726505100   PXP             76,039        1,010,033.15        1,977,014.00
+PLANAR SYSTEMS INC.                          0.000     726900103   PLNR            32,800          454,767.55          368,344.00
+PLANETOUT INC                                0.000     727058109   LGBT             6,400           72,528.13           87,040.00
+PLANTRONICS INC.                             0.482     727493108   PLT            130,400        4,546,229.90        5,407,688.00

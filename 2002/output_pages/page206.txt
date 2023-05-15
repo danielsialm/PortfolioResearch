@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HILB ROGAL & HAMIL.                          0.880     431294107 Q HRH             52,680        1,129,125.70        2,154,612.00
+HILLENBRAND IND.                             2.070     431573104 Q HB             122,500        6,402,312.03        5,917,975.00
+HILTON HOTELS CORP.                          0.629     432848109 Q HLT            519,258        5,331,901.09        6,599,769.18
+HISPANIC BROADCASTING A                      0.000     43357B104   HSP            125,000        3,698,236.98        2,568,750.00
+HOLLINGER INTERNATIONAL INC                  1.968     435569108   HLR             50,000          585,247.50          508,000.00
+HOLOGIC INC.                                 0.000     436440101   HOLX            22,409          229,536.35          273,613.89
+HOME DEPOT INC.                              1.001     437076102 Q HD           4,782,535      128,060,441.69      114,589,538.60
+HON INDUSTRIES                               1.768     438092108   HNI             73,700        1,861,321.22        2,084,236.00
+HONEYWELL INTERNATIONAL INC                  3.125     438516106 Q HON          1,710,983       73,592,491.63       41,063,592.12
+HOOPER HOLMES INC                            0.651     439104100   HH              69,800          730,425.73          428,572.00
+HORACE MANN EDUCATORS                        2.739     440327104 Q HMN            156,000        2,328,388.84        2,391,480.00
+HORMEL FOODS CORP                            1.800     440452100   HRL            241,300        4,717,737.86        5,629,529.00
+HOT TOPIC INC                                0.000     441339108   HOTT            79,643        1,720,319.43        1,822,231.84
+HOTELS. COM                                  0.000     44147T108   ROOM            16,884          551,851.02          922,372.92
+HOUSEHOLD INTL. INC.                         3.595     441815107 Q HI             845,669       35,172,507.99       23,518,054.89
+HUBBELL INC                                  3.756     443510201 Q HUB.B          116,150        3,575,875.50        4,081,511.00
+HUDSON CITY BANCORP INC                      2.361     443683107   HCBK            27,600          503,018.28          514,188.00
+HUDSON UNITED BANCORP                        3.601     444165104   HU              51,098        1,509,365.75        1,589,147.80
+HUFFY CORP                                   0.000     444356109   HUF             25,600          203,350.31          152,831.99
+HUGHES SUPPLY INC.                           1.244     444482103   HUG             54,500        1,444,997.50        1,488,940.00
+HUMANA INC.                                  0.000     444859102   HUM            121,770        2,021,726.44        1,217,700.00
+HUNT (JB) TRANSPRT SVCS INC                  0.000     445658107   JBHT           139,090        3,367,487.84        4,075,337.00
+HUNTINGTON BANCSHARES                        3.420     446150104   HBAN           207,010        4,272,147.20        3,873,157.10
+HUTCHINSON TECH.                             0.000     448407106   HTCH            55,100        1,167,963.08        1,140,570.00
+HYDRIL COMPANY                               0.000     448774109   HYDL            26,200          668,153.96          617,534.00
+HYPERION SOLUTIONS CORP.                     0.000     44914M104   HYSL            76,300        1,620,896.57        1,958,621.00
+ICN PHARMACEUTICALS                          2.841     448924100 Q ICN            266,300        6,207,113.80        2,905,333.00
+ICOS CORPORATION                             0.000     449295104   ICOS            30,610          841,845.40          716,580.10
+ICU MEDICAL INC.                             0.000     44930G107   ICUI            15,600          527,425.75          581,880.00
+IDACORP, INC.                                7.490     451107106   IDA             65,600        3,001,356.76        1,628,848.00
+IDEC PHARMACEUTICALS                         0.000     449370105   IDPH           328,500       11,552,284.12       10,896,345.00
+IDEX CORPORATION                             1.712     45167R104   IEX             36,000        1,036,409.13        1,177,200.00
+IDEXX LABS INC.                              0.000     45168D104   IDXX            48,530        1,030,293.65        1,594,210.50
+IHOP CORP.                                   0.000     449623107   IHP             26,100          725,839.71          626,400.00
+ILLINOIS TOOL WORKS                          1.418     452308109 Q ITW            516,534       26,227,822.11       33,502,395.24
+IMAGISTICS INTERNATIONAL INC                 0.000     45247T104   IGI             20,000          250,565.83          400,000.00
+IMATION CORP                                 0.000     45245A107   IMN             79,200        1,927,358.49        2,778,336.00
+IMC GLOBAL INC.                              0.749     449669100 Q IGL            266,000        4,683,651.26        2,838,220.00
+IMCO RECYCLING INC.                          0.000     449681105   IMR             23,700          183,354.60          192,681.00
+IMMUCOR INC                                  0.000     452526106   BLUD            25,400          475,792.80          514,350.00

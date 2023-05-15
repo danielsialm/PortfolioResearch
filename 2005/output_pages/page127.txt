@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:25   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 094
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 1TR       INTERNAL 1000 TRANSI
+Instrument - COM       COMMON STOCK
+
+PHILLIPS-VAN HEUSEN                        0.463 PVH     718592108     32.4000         7,200.00        237,462.67        233,280.00
+PINNACLE WEST CAPITAL CORP                 4.836 PNW     723484101Q    41.3500        10,900.00        425,638.00        450,715.00
+PMC-SIERRA INC                             0.000 PMCS    69344F106      7.7100        31,398.00        245,862.04        242,078.58
+PNC FINANCIAL SERVICES GROUP               3.234 PNC     693475105Q    61.8300        74,831.00      4,773,224.38      4,626,800.74
+POLARIS INDUSTRIES INC.                    2.231 PII     731068102     50.2000        10,286.00        629,301.49        516,357.20
+POLYCOM INC.                               0.000 PLCM    73172K104     15.3000         4,989.00        100,838.64         76,331.70
+PROCTER & GAMBLE CO                        1.935 PG      742718109Q    57.8800        27,879.00        971,500.07      1,613,636.52
+PROTECTIVE LIFE CORP                       1.782 PL      743674103     43.7700        20,335.00        637,601.49        890,062.96
+PUGET ENERGY INC                           4.897 PSD     745310102Q    20.4200        15,861.00        353,887.93        323,881.62
+PULTE HOMES, INC.                          0.406 PHM     745867101Q    39.3600       119,604.00      2,241,565.29      4,707,613.44
+QLOGIC CORPORATION                         0.000 QLGC    747277101     32.5100        42,516.00      1,476,413.11      1,382,195.16
+QUALCOMM INC                               0.835 QCOM    747525103     43.0800       211,429.00      8,723,965.32      9,108,361.32
+QUEST DIAGNOSTICS INC                      0.699 DGX     74834L100     51.4800         1,600.00         76,018.77         82,368.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     13.8400        49,800.00        777,786.92        689,232.00
+REALNETWORKS INC                           0.000 RNWK    75605L104      7.7600        36,400.00        294,130.20        282,464.00
+REGAL ENTERTAINMENT GROUP                  6.309 RGC     758766109     19.0200        20,858.00        425,535.75        396,719.16
+REINSURANCE GROUP AM                       0.753 RGA     759351109     47.7600        11,746.00        533,428.19        560,988.96
+RENAISSANCERE HOLDINGS LTD                 1.813 RNR     G7496G103     44.1100        26,038.00      1,230,724.09      1,148,536.18
+RENT-A-CENTER INC                          0.000 RCII    76009N100     18.8600        16,278.00        448,208.82        307,003.08
+REPUBLIC SERVICES INC                      1.491 RSG     760759100     37.5500            52.00          1,616.16          1,952.60
+RESPIRONICS INC                            0.000 RESP    761230101     37.0700        16,073.00        569,351.55        595,826.11
+ROCKWELL AUTOMATION INC                    1.521 ROK     773903109Q    59.1600        35,093.00      2,101,575.35      2,076,101.88
+ROCKWELL COLLINS                           1.032 COL     774341101     46.4700        26,687.00        644,029.95      1,240,144.89
+ROYAL CARIBBEAN CRUISES LTD                1.531 RCL     V7780T103     45.0600        59,573.00      2,581,626.80      2,684,359.36
+RYDER SYS. INC.                            1.560 R       783549108Q    41.0200        56,181.00      1,917,436.19      2,304,544.62
+SANMINA-SCI CORP                           0.000 SANM    800907107      4.2600       137,000.00        519,942.59        583,620.00
+SCHERING-PLOUGH                            1.055 SGP     806605101Q    20.8500       174,630.00      3,477,184.84      3,641,035.51
+SCHWAB (CHARLES) CORP                      0.681 SCHW    808513105     14.6700        20,400.00        264,997.56        299,268.00
+SCIENTIFIC ATLANTA INC.                    0.092 SFA     808655104Q    43.0700        13,464.00        331,565.58        579,894.48
+SCP POOL CORPORATION                       0.967 POOL    784028102     37.2200         9,056.00        265,260.10        337,064.32
+SEAGATE TECHNOLOGY                         1.600 STX     G7945J104     19.9900        33,902.00        579,435.42        677,700.97
+SEMPRA ENERGY                              2.587 SRE     816851109     44.8400        14,618.00        548,107.99        655,471.11
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109     79.9600        11,867.00        864,615.23        948,885.32
+SMITH INTERNATIONAL INC                    0.646 SII     832110100     37.1100        35,800.00      1,169,517.09      1,328,538.00
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     30.6000        46,458.00      1,298,379.53      1,421,614.80
+SOLECTRON CORP                             0.000 SLR     834182107      3.6600       117,600.00        453,478.79        430,416.00
+SONIC CORP                                 0.000 SONC    835451105     29.5000         5,420.00        153,322.06        159,890.00
+SOUTHERN COPPER CORP                      10.152 PCU     84265V105     66.9800        12,450.00        669,628.74        833,901.00
+SOUTHWEST AIRLINES                         0.109 LUV     844741108Q    16.4300       279,282.00      4,570,952.18      4,588,603.26

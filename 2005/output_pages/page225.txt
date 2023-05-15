@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ALCON INC                                    0.760     H01301102   ACL             12,231        1,379,407.25        1,585,137.61
+ALDERWOODS GROUP INC                         0.000     014383103   AWGI            63,076          552,455.52        1,001,016.12
+ALERIS INTERNATIONAL INC                     0.000     014477103   ARS             16,200          290,008.47          522,288.00
+ALEXANDER & BALDWIN INC                      1.659     014482103   ALEX            19,700          822,873.85        1,068,528.00
+ALEXION PHARMACEUTICALS INC                  0.000     015351109   ALXN            16,202          335,189.19          328,090.50
+ALFA CORP                                    2.484     015385107   ALFA            53,646          798,384.83          863,700.60
+ALIGN TECHNOLOGY INC                         0.000     016255101   ALGN            65,000          636,298.96          420,550.00
+ALKERMES INC.                                0.000     01642T108   ALKS           108,405        1,541,933.84        2,072,703.60
+ALLEGHENY ENERGY INC.                        5.434     017361106 Q AYE             52,700          792,040.26        1,667,955.00
+ALLEGHENY TECHNOLOGIES INC                   1.108     01741R102   ATI             14,100          419,108.05          508,728.00
+ALLERGAN PHARMACEUTICALS INC.                0.370     018490102 Q AGN            593,696       44,620,531.11       64,095,420.16
+ALLETE, INC.                                 2.863     018522300   ALE             46,400        2,004,310.53        2,041,600.00
+ALLIANCE ATLANTIS COMMUN                     0.000     01853E204   AACB            12,270          359,111.33          352,762.50
+ALLIANCE GAMING CORP                         0.000     01859P609   AGI            236,600        2,854,178.70        3,080,532.00
+ALLIANCE IMAGING INC                         0.000     018606202   AIQ             14,600           96,732.44           86,870.00
+ALLIANCE SEMICONDUCTOR CORP                  0.000     01877H100   ALSC            98,900          591,080.60          257,140.00
+ALLIANT ENERGY CORPORATION                   4.101     018802108   LNT             22,213          598,689.63          622,852.52
+ALLIANT TECHSYSTEMS INC.                     0.000     018804104   ATK            176,160       11,493,875.16       13,418,107.20
+ALLIED CAP CORP                              7.899     01903Q108   ALD            264,100        7,567,693.34        7,756,617.00
+ALLIED HEALTHCARE INTL INC                   0.000     01923A109   AHCI            89,900          625,996.65          551,986.00
+ALLION HEALTHCARE INC                        0.000     019615103   ALLI            58,335          915,473.60          679,602.75
+ALLOY INC                                    0.000     019855105   ALOY           143,600          360,236.85          415,004.00
+ALLSCRIPTS HEALTHCARE SOLUTIONS              0.000     01988P108   MDRX            35,500          246,887.71          475,700.00
+ALLSTATE CORP                                2.367     020002101 Q ALL          1,666,122       61,428,470.36       90,087,216.53
+ALLTEL CORP                                  2.440     020039103 Q AT             574,077       32,607,805.35       36,224,258.70
+ALON USA ENERGY INC                          0.000     020520102   ALJ             11,200          270,704.00          220,080.00
+ALPHA NATURAL RESOURCES INC                  0.000     02076X102   ANR             16,700          486,827.46          320,807.00
+ALPHARMA, INC.-CL A                          0.631     020813101 Q ALO             95,200        1,884,578.32        2,714,152.00
+ALTERA CORP                                  0.000     021441100   ALTR            10,200          192,949.62          189,006.00
+ALTIRIS INC                                  0.000     02148M100   ATRS            23,300          591,890.29          393,537.00
+ALTRIA GROUP INC                             4.282     02209S103 Q MO           4,109,074      151,005,159.67      307,030,009.29
+AMAZON COM INC                               0.000     023135106   AMZN           364,684       15,539,981.83       17,194,850.60
+AMBAC FINANCIAL GROUP INC.                   0.778     023139108 Q ABK             25,800        1,859,780.90        1,988,148.00
+AMBASSADORS GROUP IN                         1.485     023177108   EPAX            17,800          224,726.61          407,442.00
+AMCOL INTERNATIONAL CORP.                    1.949     02341W103   ACO             45,245          817,077.06          928,427.40
+AMCORE FINL INC                              2.236     023912108   AMFI            22,401          599,067.65          681,214.41
+AMEDISYS INC                                 0.000     023436108   AMED           123,166        4,357,853.39        5,202,531.84
+AMERADA HESS CORP.                           0.946     023551104 Q AHC             49,800        4,907,527.26        6,315,636.00
+AMERCO                                       0.000     023586100   UHAL            16,700          543,995.64        1,203,235.00
+AMEREN CORP.                                 4.957     023608102 Q AEE             40,300        1,809,512.36        2,064,972.00

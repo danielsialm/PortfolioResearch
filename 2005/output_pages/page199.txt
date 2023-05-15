@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 166
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+FURNITURE BRANDS INTERNATIONAL             2.687 FBN     360921100     22.3300        28,400.00        484,564.68        634,172.00
+GATX CORP                                  2.217 GMT     361448103     36.0800        35,300.00        881,441.99      1,273,624.00
+GEN-PROBE INC                              0.000 GPRO    36866T103     48.7900        30,900.00        868,883.47      1,507,611.00
+GENERAL CABLE CORP                         1.015 BGC     369300108     19.7000        56,100.00        376,152.91      1,105,170.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     18.0900        41,500.00        673,560.13        750,735.00
+GETTY IMAGES INC.                          0.000 GYI     374276103     89.2700        16,900.00        777,417.62      1,508,663.00
+GREAT AMERN FINL RES                       0.504 GFR     389915109     19.8400        34,000.00        549,348.24        674,560.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     23.8100        19,000.00        339,497.95        452,390.00
+GUITAR CENTER INC                          0.000 GTRC    402040109     50.0100        14,900.00        664,167.50        745,149.00
+HEADWATERS INC                             0.000 HW      42210P102     35.4400        18,200.00        805,048.56        645,008.00
+HEALTH NET                                 0.000 HNT     42222G108     51.5500        18,100.00        437,429.34        933,055.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q    11.3000        34,700.00        411,991.65        392,110.00
+HOT TOPIC INC                              0.000 HOTT    441339108     14.2500        34,400.00        530,015.31        490,200.00
+HUDSON HIGHLAND GROUP INC                  0.000 HHGP    443792106     17.3600        42,200.00        552,645.13        732,592.00
+INFORMATICA CORP.                          0.000 INFA    45666Q102     12.0000        78,900.00        616,344.05        946,800.00
+INTERMUNE INC                              0.000 ITMN    45884X103     16.8000        42,300.00        472,192.59        710,640.00
+INTERSIL HOLDINGS CORP                     0.803 ISIL    46069S109     24.8800        43,300.00        996,587.97      1,077,304.00
+INTUITIVE SURGICAL INC                     0.000 ISRG    46120E602    117.2700        27,800.00        623,403.90      3,260,106.00
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     35.4400        21,800.00        366,321.58        772,592.00
+JACUZZI BRANDS INC                         0.000 JJZ     469865109      8.4000        45,700.00        293,045.09        383,880.00
+K2 INC.                                    0.000 KTO     482732104     10.1100        37,600.00        508,246.46        380,136.00
+KBNT BANCORP INC                           1.718 KNBT    482921103     16.2900        24,200.00        411,207.45        394,218.00
+KOS PHARMACEUTICALS                        0.000 KOSP    500648100     51.7300        17,100.00        609,338.31        884,583.00
+KYPHON INC                                 0.000 KYPH    501577100     40.8300        34,400.00        954,762.58      1,404,552.00
+LA-Z-BOY INC.                              3.244 LZB     505336107     13.5600        33,700.00        606,714.24        456,972.00
+LABOR READY INC                            0.000 LRW     505401208     20.8200        39,500.00        715,121.24        822,390.00
+LEAP WIRELESS INTERNATIONAL IN             0.000 LEAP    521863308     37.8800        21,300.00        772,771.29        806,844.00
+LEAPFROG ENTERPRISES INC                   0.000 LF      52186N106     11.6500        53,600.00        761,849.90        624,440.00
+LITTELFUSE INC                             0.000 LFUS    537008104     27.2500        15,300.00        483,635.70        416,925.00
+LONGVIEW FIBRE CO                          0.384 LFB     543213102     20.8100        64,800.00        651,940.59      1,348,488.00
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      3.8000       122,700.00        528,944.93        466,260.00
+MERCANTILE BANK CORP                       1.246 MBWM    587376104     38.5000         8,730.00        287,355.58        336,105.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     48.3200        20,400.00        624,886.25        985,728.00
+MICROSTRATEGY INC-CL A                     0.000 MSTR    594972408     82.7400         9,900.00        590,483.49        819,126.00
+MIDWEST BANC HOLDING                       2.157 MBHI    598251106     22.2500        13,400.00        318,021.56        298,150.00
+MILLIPORE CORPORATION                      0.666 MIL     601073109Q    66.0400        13,900.00        662,720.23        917,956.00
+NAUTILUS INC                               2.143 NLS     63910B102     18.6600        27,500.00        522,851.39        513,150.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2900        42,500.00        496,991.14        522,325.00
+NEWALLIANCE BANCSHARES INC                 1.513 NAL     650203102     14.5400        57,300.00        791,116.45        833,142.00

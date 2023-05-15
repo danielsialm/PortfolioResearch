@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 132
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+BELO CORP                                  1.340 BLC     080555105Q    28.3400        12,700.00        297,307.00        359,918.00
+BERKLEY (WR) CORP                          0.801 BER     084423102     34.9500         9,450.00        312,647.00        330,277.50
+BEST BUY COMPANY INC                       0.765 BBY     086516101     52.2400        11,700.00        583,113.99        611,208.00
+BIOGEN IDEC INC                            0.000 BIIB    09062X103     36.7800           690.00         23,507.82         25,378.20
+BIOMET INC.                                0.412 BMET    090613100     36.4100        10,100.00        232,169.16        367,741.00
+BJ SERVICES CO                             0.000 BJS     055482103     35.9000         5,000.00        141,332.89        179,500.00
+BMC SOFTWARE                               0.000 BMC     055921100     18.6500         1,700.00         38,387.77         31,705.00
+BORG WARNER INC.                           1.175 BWA     099724106     85.0700         3,200.00        213,420.98        272,224.00
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     36.7600        45,400.00        827,400.38      1,668,903.99
+BOWATER INC.                               1.727 BOW     102183100Q    46.3100           100.00          3,920.00          4,631.00
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     33.1600         1,400.00         48,221.74         46,424.00
+BRISTOL-MYERS SQUIBB                       3.916 BMY     110122108Q    28.6000        25,900.00        906,201.01        740,740.01
+BROADCOM CORP CL A                         0.000 BRCM    111320107     34.0900         8,100.00        500,790.43        276,129.01
+BROWN & BROWN INC                          0.858 BRO     115236101     32.6100         2,600.00         90,494.47         84,786.00
+BROWN-FORMAN -CL B                         1.819 BF.B    115637209Q    93.4500         6,000.00        413,026.79        560,700.00
+BRUNSWICK CORP                             1.570 BC      117043109Q    31.8300         7,600.00        217,251.76        241,908.00
+BURLINGTON NORTHERN SANTA FE               1.854 BNI     12189T104Q    32.3500        15,300.00        420,180.96        494,955.00
+BURLINGTON RESOURCES                       1.083 BR      122014103Q    55.3800         4,800.00        207,974.87        265,824.00
+C.H.ROBINSON WORLDWIDE INC                 1.266 CHRW    12541W100     37.9100        10,400.00        387,983.56        394,264.00
+CABLEVISION SYSTEMS NEW YORK G             0.000 CVC     12686C109     23.3900         7,700.00        150,837.91        180,103.00
+CABOT CORP                                 1.884 CBT     127055101     31.8400         3,800.00        106,957.46        120,992.00
+CAMPBELL SOUP CO.                          2.350 CPB     134429109Q    26.8000         3,100.00         87,024.83         83,080.00
+CAPITAL ONE FINANCIAL CORP.                0.174 COF     14040H105     61.2900         6,300.00        324,964.60        386,127.00
+CARDINAL HEALTH INC.                       0.196 CAH     14149Y108Q    61.1600         4,700.00        237,791.00        287,452.00
+CAREER EDUCATION CORP                      0.000 CECO    141665109     40.0700        10,500.00        409,331.23        420,735.00
+CAREMARK RX INC                            0.000 CMX     141705103     25.3300         6,900.00        163,065.10        174,777.00
+CARLISLE COS INC                           1.445 CSL     142339100     60.8600         1,000.00         58,911.00         60,860.00
+CARMAX INC.                                0.000 KMX     143130102     30.9300        13,700.00        427,360.89        423,741.00
+CATERPILLAR INC.                           1.782 CAT     149123101Q    83.0200        13,300.00        735,848.14      1,104,166.00
+CBRL GROUP INC.                            1.150 CBRL    12489V106Q    38.2600         4,200.00        153,354.92        160,692.00
+CDW CORP                                   0.519 CDWC    12512N105     57.7600         2,900.00        118,175.00        167,504.00
+CELGENE CORP                               0.000 CELG    151020104     45.0200        11,600.00        382,139.04        522,232.00
+CENDANT CORP.                              0.000 CD      151313103     22.2700        26,600.00        445,074.99        592,382.00
+CENTEX CORP                                0.148 CTX     152312104Q   107.6500         4,600.00        287,986.48        495,190.00
+CENTURYTEL, INC.                           0.674 CTL     156700106     32.6200        28,200.00        850,712.39        919,884.00
+CERIDIAN CORP - NEW                        0.000 CEN     156779100     20.9400         8,000.00        155,374.50        167,520.00
+CHECKFREE CORP                             0.000 CKFR    162813109     27.6500         3,200.00         75,679.80         88,480.00
+CHESAPEAKE ENERGEY CORP                    1.030 CHK     165167107     13.5800        13,300.00        145,957.11        180,614.00
+CHEVRONTEXACO CORP                         3.380 CVX     166764100Q    86.3900        16,200.00      1,229,061.74      1,399,518.00

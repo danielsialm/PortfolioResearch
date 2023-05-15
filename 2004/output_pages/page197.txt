@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 165
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     29.3900         5,300.00         69,893.40        155,767.00
+WASHINGTON FEDERAL INC.                    3.165 WFSL    938824109     26.5400         7,621.00        149,078.16        202,261.34
+WATER PIK TECHNOLOGIES INC                 0.000 PIK     94113U100     17.7300         1,200.00         19,645.20         21,276.00
+WATSCO INC.                                1.590 WSO     942622200     35.2200         8,500.00        104,541.00        299,370.00
+WATSON WYATT & CO HOLDINGS                 1.113 WW      942712100     26.9500        22,300.00        580,271.96        600,985.00
+WEIS MKTS INC                              2.903 WMK     948849104     38.5700         3,200.00        107,983.14        123,424.00
+WEST COAST BANCORP O                       1.456 WCBO    952145100     25.4100         4,800.00        116,283.84        121,968.00
+WEST PHARMACEUTICAL SERVICES               1.757 WST     955306105     25.0300        11,600.00        157,835.18        290,348.00
+WESTERN SIERRA BANCORP                     0.000 WSBA    959522103     38.3550           500.00         19,217.35         19,177.50
+WET SEAL INC                               0.000 WTSLA   961840105      2.2700       130,600.00        221,270.54        296,462.00
+WHITE ELECTR DESIGNS                       0.000 WEDC    963801105      6.3300        12,500.00         60,614.78         79,125.00
+WHITNEY HOLDING CORP                       3.111 WTNY    966612103     44.9900         5,001.00        166,498.98        224,994.99
+WILSONS THE LEATHER                        0.000 WLSN    972463103      3.9000        10,100.00         56,070.15         39,390.00
+WOLVERINE WORLD WIDE                       1.241 WWW     978097103     31.4200         1,000.00         13,840.59         31,420.00
+WORTHINGTON INDS                           3.268 WOR     981811102Q    19.5800        24,400.00        549,369.48        477,752.00
+YARDVILLE NATL BANCO                       1.342 YANB    985021104     34.2600         5,200.00         99,996.00        178,152.00
+
+Instrument Total           289                                                     8,105,470.86     89,241,991.64    107,134,271.60
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ARBOR REALTY TRUST INC                     7.661 ABR     038923108     24.5400         3,400.00         76,173.94         83,436.00
+BOYKIN LODGING CO                          7.860 BOY     103430104      9.1600         6,900.00         55,116.36         63,204.00
+BRANDYWINE REALTY                          5.018 BDN     105368203     29.3900        15,600.00        429,813.80        458,484.00
+CAPITAL AUTOMOTIVE                         4.847 CARS    139733109     35.5250        33,100.00        876,410.65      1,175,877.50
+COLONIAL PROPERTIES                        3.623 CLP     195872106     39.2700        20,400.00        815,096.94        801,108.00
+COMMERCIAL NET LEASE RE                    6.310 NNN     202218103     20.6000        43,200.00        755,715.36        889,920.00
+CORRECTIONAL PPTYS T                       3.926 CPV     22025E104     28.8800         8,900.00        214,245.44        257,032.00
+CRT PROPERTIES INC                         5.867 CRO     22876P109     23.8600        11,300.00        196,275.63        269,618.00
+ENTERTAINMENT PPTYS                        5.050 EPR     29380T105     44.5500         7,500.00        233,993.60        334,125.00
+EQUITY INNS INC                            4.429 ENN     294703103     11.7400        42,900.00        338,552.24        503,646.00
+EQUITY ONE INC                             4.888 EQY     294752100     23.7300        23,200.00        350,172.97        550,536.00
+GABLES RESIDENTIAL TRUST                   6.733 GBP     362418105     35.7900        21,300.00        764,719.28        762,327.00
+GOVERNMENT PROPERTIES TRUST IN             6.085 GPP     38374W107      9.8600        22,400.00        236,794.60        220,864.00
+HERITAGE PROPERTY INV TRUST                4.431 HTG     42725M107     32.0900        29,900.00        856,057.93        959,491.00
+HRPT PROPERTIES TRUST                      6.547 HRP     40426W101     12.8300        35,500.00        306,598.04        455,465.00
+INNKEEPERS USA TRUST                       1.690 KPA     4576J0104     14.2000        39,300.00        286,611.77        558,060.00
+LASALLE HOTEL PROPERTIES                   3.016 LHO     517942108     31.8300        14,700.00        250,796.30        467,901.00
+LEXINGTON CORP PPTYS                       6.377 LXP     529043101     22.5800        19,400.00        334,055.80        438,052.00

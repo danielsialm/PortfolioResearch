@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 070
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+TALX CORP                                    0.868     874918105   TALX            22,400          500,639.00          515,872.00
+TANOX INC                                    0.000     87588Q109   TNOX            38,600          656,419.14          573,210.00
+TARGET CORP                                  0.729     87612E106 Q TGT          1,808,400       49,179,613.16       69,442,560.02
+TARO PHARMACEUTICAL INDUS                    0.000     M8737E108   TARO             5,300          307,134.49          341,850.00
+TBC CORP                                     0.000     872180104   TBCC            61,500          806,535.96        1,587,315.01
+TCF FINANCIAL CORP                           2.921     872275102   TCB            154,400        5,173,011.78        7,928,440.00
+TECH DATA CORP                               0.000     878237106   TECD           116,200        3,838,682.43        4,611,978.00
+TECHNE CORPORATION                           0.000     878377100   TECH            53,700        1,831,016.95        2,028,786.00
+TECHNICAL OLYMPIC US                         0.000     878483106   TOUS             2,800           75,315.08           77,084.00
+TECHNITROL INC.                              0.675     878555101   TNL             84,400        1,731,842.54        1,750,456.02
+TECO ENERGY                                  5.274     872375100 Q TE             455,100        7,353,021.83        6,557,991.00
+TECUMSEH PRODUCTS CO CL-A                    2.643     878895200   TECUA           45,100        1,766,799.93        2,184,193.00
+TEJON RANCH CO DEL                           0.000     879080109   TRC              4,400          134,188.37          180,444.00
+TEKELEC                                      0.000     879101103   TKLC            61,500          795,146.06          956,325.00
+TEKTRONIX, INC.                              0.506     879131100 Q TEK            239,189        5,166,927.69        7,558,372.40
+TELEDYNE TECHNOLOGIES INC                    0.000     879360105   TDY            130,600        1,972,291.02        2,461,810.00
+TELEFLEX INC                                 1.655     879369106 Q TFX             65,200        2,614,486.54        3,151,116.00
+TELEPHONE & DATA                             0.991     879433100   TDS            112,900        6,992,362.08        7,061,894.97
+TELETECH HOLDINGS INC                        0.000     879939106   TTEC           114,900          759,562.22        1,298,370.00
+TELIK INC                                    0.000     87959M109   TELK            71,400        1,350,510.87        1,642,914.00
+TELLABS INC.                                 0.000     879664100   TLAB           857,441       13,962,213.83        7,228,227.63
+TEMPLE-INLAND INC.                           2.170     879868107 Q TIN             87,800        4,543,055.05        5,502,426.01
+TENET HEALTHCARE CORP                        0.000     88033G100   THC            847,000       16,069,597.44       13,594,350.00
+TENNANT COMPANY                              1.940     880345103   TNC             47,200        1,946,881.49        2,043,760.00
+TENNECO AUTOMOTIVE INC                       0.000     880349105 Q TEN             80,200          407,382.28          536,538.00
+TERADYNE INC                                 0.000     880770102   TER            349,600       11,605,266.78        8,897,320.00
+TERAYON COMMUNICATION SYSTEMS                0.000     880775101   TERN            52,900          205,565.93          238,050.00
+TEREX CORP                                   0.000     880779103   TEX             68,757        1,382,656.23        1,958,199.36
+TESORO PETROLEUM CORP                        0.000     881609101   TSO            142,054        1,478,517.88        2,069,726.78
+TETRA TECH INC.                              0.000     88162G103   TTEK            60,600          974,374.59        1,506,516.00
+TETRA TECHNOLOGIES INC.                      0.000     88162F105   TTI             24,150          415,934.37          585,396.00
+TEXAS GENCO HOLDINGS INC                     3.076     882443104   TGN             28,500          640,607.83          926,250.00
+TEXAS INDUSTRIES INC                         0.810     882491103   TXI             25,400          807,169.49          939,800.00
+TEXAS INSTRS INC                             0.289     882508104 Q TXN          3,911,624      106,500,631.31      114,923,513.13
+TEXAS REGIONAL BANCSHARES INC                1.297     882673106   TRBS            28,300          971,424.46        1,047,100.00
+TEXTRON INC.                                 2.278     883203101 Q TXT            226,100       12,136,140.87       12,901,265.98
+THE 3DO CO                                   0.000     88553W204   THDOQ           74,849          316,508.64            1,871.23
+THE FINISH LINE-CL A                         0.000     317923100   FINL            44,900          947,421.31        1,345,653.00
+THE MEN'S WEARHOUSE INC.                     0.000     587118100   MW              63,400        1,409,518.68        1,585,634.00
+THE MONY GROUP INC.                          1.438     615337102   MNY            145,500        4,631,246.64        4,552,695.01

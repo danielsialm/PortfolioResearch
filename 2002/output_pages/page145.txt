@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 117
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+SEMPRA ENERGY                              4.228 SRE     816851109     23.6500        10,600.00        224,716.18        250,690.00
+SHERWIN-WILLIAMS CO                        2.123 SHW     824348106Q    28.2500         6,300.00        145,030.17        177,975.00
+SIGMA-ALDRICH                              0.739 SIAL    826552101Q    48.7000        11,400.00        517,504.95        555,180.00
+SLM CORP                                   0.962 SLM     78442P106    103.8600         8,100.00        537,646.84        841,266.00
+SNAP-ON TOOLS CORP.                        3.557 SNA     833034101Q    28.1100         1,600.00         44,111.44         44,976.00
+SOUTHERN CO                                4.825 SO      842587107Q    28.3900        22,900.00        471,291.25        650,131.00
+SOUTHTRUST CORP                            3.380 SOTR    844730101     24.8500        16,600.00        361,696.60        412,510.00
+SOUTHWEST AIRLINES                         0.143 LUV     844741108Q    13.9000        22,800.00        285,680.03        316,920.00
+SPRINT CORP.                               3.453 FON     852061100Q    14.4800        35,500.00        769,801.65        514,040.00
+ST JUDE MED. INC.                          0.000 STJ     790849103     39.7200        10,200.00        273,665.78        405,144.00
+ST. PAUL COMPANIES                         3.406 SPC     792860108Q    34.0500         4,600.00        163,632.78        156,630.00
+STANLEY WORKS                              2.949 SWK     854616109Q    34.5800         1,100.00         41,539.15         38,038.00
+STAPLES INC                                0.000 SPLS    855030102     18.3000        28,300.00        496,996.95        517,890.00
+STARBUCKS CORP.                            0.000 SBUX    855244109     20.3800        11,100.00        212,720.16        226,218.00
+STARWOOD RESORTS                           3.538 HOT     85590A203     23.7400         8,900.00        286,818.10        211,286.00
+STATE STREET CORP                          1.333 STT     857477103     39.0000        21,100.00        823,477.92        822,900.00
+STRYKER CORP.                              0.178 SYK     863667101     67.1200         7,200.00        308,255.52        483,264.00
+SUNGARD DATA SYSTEMS                       0.000 SDS     867363103     23.5600         8,200.00        180,695.00        193,192.00
+SUNOCO, INC.                               3.013 SUN     86764P109Q    33.1800         4,000.00        133,231.37        132,720.00
+SUNTRUST BANKS INC.                        3.021 STI     867914103Q    56.9200         8,300.00        513,377.31        472,436.00
+SUPER VALU STORES INC.                     3.452 SVU     868536103Q    16.5100        21,700.00        429,372.44        358,267.00
+SYMBOL TECHNOLOGIES INC                    0.243 SBL     871508107      8.2200         4,700.00         52,692.05         38,634.00
+SYNOVUS FINANCIAL CORP                     3.041 SNV     87161C105     19.4000        11,200.00        252,454.74        217,280.00
+SYSCO CORP.                                1.477 SYY     871829107Q    29.7900        20,100.00        431,636.41        598,779.00
+T ROWE PRICE GROUP INC.                    2.492 TROW    74144T108Q    27.2800        12,000.00        340,328.72        327,360.00
+TARGET CORP                                0.800 TGT     87612E106Q    30.0000        24,200.00        707,902.34        726,000.00
+TEKTRONIX, INC.                            0.000 TEK     879131100Q    18.1900         2,200.00         30,371.90         40,018.00
+TEMPLE-INLAND INC.                         2.856 TIN     879868107Q    44.8100           700.00         39,263.37         31,367.00
+TENET HEALTHCARE CORP                      0.000 THC     88033G100     16.4000         9,900.00        296,305.83        162,360.00
+TEXAS INSTRS INC                           0.599 TXN     882508104Q    15.0100        20,900.00        633,424.27        313,709.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     20.1200         7,900.00        133,562.81        158,948.00
+TIFFANY & CO                               0.669 TIF     886547108     23.9100         3,400.00        101,082.84         81,294.00
+TJX COS. INC.                              0.614 TJX     872540109Q    19.5200        23,000.00        322,955.15        448,960.00
+TMP WORLDWIDE INC                          0.000 TMPW    872941109     11.3100         1,700.00         84,896.45         19,227.00
+TORCHMARK CORP                             0.985 TMK     891027104Q    36.5300         2,400.00         79,287.13         87,672.00
+TRANSOCEAN SEDCO FOREX INC.                0.517 RIG     G90078109     23.2000         8,300.00        231,190.11        192,560.00
+TRAVELERS PROPERTY CASUALTY -              0.000 TAP.B   89420G406     14.6500        19,275.00        299,249.26        282,378.75
+TRIBUNE CO                                 0.967 TRB     896047107Q    45.4600        14,700.00        564,262.15        668,262.00
+TXU CORPORATION                            2.676 TXU     873168108Q    18.6800         3,300.00         93,381.35         61,643.99

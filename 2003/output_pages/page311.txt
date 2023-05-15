@@ -1,0 +1,38 @@
+ASOF10   Date 01/20/2004 Time 18:59:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 079
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+XEROX CORP                                   0.000     984121103 Q XRX          1,496,500       26,075,672.90       20,651,700.01
+XICOR INC                                    0.000     984903104   XICO            32,000          275,061.30          362,880.00
+XILINX INC                                   0.000     983919101   XLNX           595,741       19,505,373.76       23,079,006.34
+XM SATELLITE RADIO HOLD-CL A                 0.000     983759101   XMSR           206,800        2,985,739.09        5,451,248.00
+XTO ENERGY INC.                              0.141     98385X106   XTO            204,900        3,487,322.37        5,798,670.00
+YADKIN VALLEY BANK AND TRUST                 2.339     984308106   YAVY             9,500          162,281.31          162,450.00
+YAHOO INC                                    0.000     984332106   YHOO           790,520       51,023,976.18       35,707,788.38
+YANKEE CANDLE CO                             0.000     984757104   YCC            104,900        2,411,002.97        2,866,916.99
+YARDVILLE NATL BANCO                         1.787     985021104   YANB             8,600          169,909.61          221,364.00
+YELLOW ROADWAY CORP                          0.000     985577105   YELL            46,857          899,268.44        1,694,821.31
+YORK INTERNATIONAL CORP                      1.630     986670107   YRK             71,716        1,898,660.73        2,639,148.80
+YOUNG BROADCASTING I                         0.000     987434107   YBTVA            6,700          150,245.89          134,268.01
+YOUNG INNOVATIONS IN                         0.333     987520103   YDNT             4,900          148,852.61          176,400.00
+YUM BRANDS, INC.                             0.000     988498101   YUM            507,600       12,380,162.15       17,461,440.00
+ZALE CORP.                                   0.000     988858106   ZLC             31,197        1,471,198.55        1,659,680.40
+ZEBRA TECHNOLOGIES CORP CL-A                 0.000     989207105   ZBRA           116,197        4,050,020.80        7,711,994.87
+ZENITH NATIONAL INSURANCE CP                 3.072     989390109   ZNT             10,700          292,855.78          348,285.00
+ZHONE TECHNOLOGIES INC                       0.000     98950P108   ZHNE            46,850          212,549.12          231,438.99
+ZIMMER HOLDINGS INC                          0.000     98956P102   ZMH            424,100       15,048,465.02       29,856,639.99
+ZIONS BANCORPORATION                         1.956     989701107   ZION           170,300        9,477,486.88       10,444,498.98
+ZOLL MEDICAL CORP                            0.000     989922109   ZOLL            12,388          414,068.24          439,526.24
+ZORAN CORP                                   0.000     98975F101   ZRAN            48,986        1,133,251.21          851,866.54
+ZYGO CORP                                    0.000     989855101   ZIGO            28,200          316,702.44          465,018.00
+ZYMOGENETICS INC                             0.000     98985T109   ZGEN            17,400          220,344.11          269,700.01
+
+Instrument Total                  2,904                                       805,222,029   19,943,541,585.91   24,277,226,580.54
+
+Group Total                       3,031                                       815,873,537   20,208,788,239.87   24,577,660,195.97

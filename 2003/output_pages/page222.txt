@@ -1,0 +1,46 @@
+ASOF02   Date 01/20/2004 Time 18:59:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 192
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6WE       WESTCAP INVESTORS -
+Instrument - COM       COMMON STOCK
+
+KOPIN CORP                                 0.000 KOPN    500600101      6.7100        15,143.00        124,905.40        101,609.53
+KROLL INC                                  0.000 KROL    501049100     26.0000        14,878.00        333,754.10        386,828.00
+KVH INDUSTRIES INC                         0.000 KVHI    482738101     27.4700         2,290.00         53,320.52         62,906.30
+LIFEPOINT HOSPITALS INC.                   0.000 LPNT    53219L109     29.4500           811.00         23,816.94         23,883.95
+MERITAGE CORP                              0.000 MTH     59001A102     66.3100         1,106.00         71,613.50         73,338.86
+MONACO COACH CORPORATION                   0.000 MNC     60886R103     23.8000         6,248.00        121,939.47        148,702.40
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     44.5400         7,111.00        265,488.98        316,723.94
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     36.1700         3,140.00        116,462.60        113,573.80
+PLANAR SYSTEMS INC.                        0.000 PLNR    726900103     24.3200         9,840.00        203,076.01        239,308.80
+PRIME MONEY MARKET - 6WE                   0.000 IT-WST  IT-WST         1.0000       519,333.61        519,333.74        519,333.60
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     24.1100         4,913.00        111,198.33        118,452.43
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     24.4400         7,573.00        189,849.35        185,084.12
+REGENT COMMUNICATIONS INC                  0.000 RGCI    758865109      6.3500         8,957.00         59,749.71         56,876.95
+RESMED INC                                 0.000 RMD     761152107     41.5400            99.00          4,092.68          4,112.46
+ROGERS CORP.                               0.000 ROG     775133101     44.1200         6,125.00        202,544.56        270,235.00
+SBS BROADCASTING SA                        0.000 SBTV    L8137F102     32.6000         7,576.00        136,711.19        246,977.60
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107     15.4000           848.00          8,237.81         13,059.20
+SEMTECH CORPORATION                        0.000 SMTC    816850101     22.7300        13,935.00        195,675.27        316,742.55
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     34.6200         3,745.00        109,556.24        129,651.90
+SOUTHWEST BANCORP OF TEXAS                 0.514 SWBT    84476R109     38.8500         2,890.00         93,347.00        112,276.50
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     38.8900         2,812.00         98,593.85        109,358.68
+VALUECLICK, INC                            0.000 VCLK    92046N102      9.0800        13,766.00         98,371.41        124,995.28
+VALUEVISION INTL INC                       0.000 VVTV    92047K107     16.7000        34,818.00        487,862.30        581,460.60
+VERISITY LTD                               0.000 VRST    M97385112     12.7500         9,748.00        124,072.63        124,287.00
+VERSO TECHNOLOGIES INC                     0.000 VRSO    925317109      3.2000        27,745.00        123,779.58         88,784.00
+WESTERN GAS RESOURCES INC                  0.423 WGR     958259103     47.2500         1,459.00         55,335.47         68,937.75
+WILSON GREATBATCH TECHNOLOGIES             0.000 GB      972232102     42.2700         1,765.00         62,321.80         74,606.55
+WINNEBAGO INDUSTRIES                       0.581 WGO     974637100     68.7500         1,913.00         95,692.33        131,518.75
+WOODHEAD INDUSTRIES                        2.366 WDHD    979438108     16.9000         5,485.00         69,024.34         92,696.50
+ZOLL MEDICAL CORP                          0.000 ZOLL    989922109     35.4800         2,088.00         68,787.07         74,082.24
+
+Instrument Total            69                                                     1,035,089.61     10,318,809.04     11,879,405.06
+
+Portfolio Total             69                                                     1,035,089.61     10,318,809.04     11,879,405.06
+

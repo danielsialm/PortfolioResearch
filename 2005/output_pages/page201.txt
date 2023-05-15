@@ -1,0 +1,49 @@
+ASOF02   Date 01/19/2006 Time 18:24:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 168
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+STEWART & STEVENSON SERVICES               1.609 SVC     860342104Q    21.1300        26,400.00        446,114.11        557,832.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     20.3000        35,280.00        606,231.99        716,184.00
+SYNAPTICS INC                              0.000 SYNA    87157D109     24.7200        30,700.00        506,876.34        758,904.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.1000        35,800.00        559,306.01      1,041,780.00
+TESORO CORP                                0.649 TSO     881609101     61.5500        15,600.00        356,274.55        960,180.00
+THE BANCORP INC                            0.000 TBBK    05969A105     17.0000        20,470.00        296,107.26        347,990.00
+THE MEN'S WEARHOUSE INC.                   0.000 MW      587118100     29.4400        36,000.00      1,041,456.04      1,059,840.00
+THOMAS & BETTS CORP.                       0.000 TNB     884315102Q    41.9600        36,100.00        909,783.90      1,514,756.00
+THORATEC CORP                              0.000 THOR    885175307     20.6900        51,700.00        642,359.39      1,069,673.00
+THQ INC                                    0.000 THQI    872443403     23.8500        50,400.00        933,392.06      1,202,040.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103      7.4700       101,100.00        797,450.43        755,217.00
+TRIMERIS INC                               0.000 TRMS    896263100     11.4900        34,700.00        494,036.77        398,703.00
+UNITED THERAPEUTICS CORP                   0.000 UTHR    91307C102     69.1200        11,700.00        808,578.97        808,704.00
+USI HOLDINGS CORP                          0.000 USIH    90333H101     13.7700        44,600.00        584,677.95        614,142.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     29.0700        16,400.00        613,753.90        476,748.00
+VIGNETTE CORPORATION                       0.000 VIGN    926734401     16.3100        36,900.00        561,591.15        601,839.00
+VITESSE SEMICONDUCTOR CORP                 0.000 VTSS    928497106      1.9200       230,900.00        776,162.98        443,328.00
+WESTWOOD ONE                               2.454 WON     961815107     16.3000        23,300.00        454,373.41        379,790.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107     14.7700        38,900.00        294,772.85        574,553.00
+WMS INDUSTRIES INC                         0.000 WMS     929297109     25.0900        21,400.00        487,240.30        536,926.00
+ZALE CORP.                                 0.000 ZLC     988858106     25.1500        17,600.00        528,516.07        442,640.00
+ZORAN CORP                                 0.000 ZRAN    98975F101     16.2100        44,400.00        469,986.69        719,724.00
+
+Instrument Total           139                                                     8,222,445.01     83,868,212.40    103,058,795.35
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMERICAN FINANCIAL REALTY TRUS             9.000 AFR     02607P305     12.0000        41,400.00        513,947.29        496,800.00
+CAPITAL LEASE FUNDING INC                  7.597 LSE     140288101     10.5300        42,600.00        487,088.92        448,578.00
+CRESCENT RE EQT. CO.                       7.568 CEI     225756105     19.8200        26,000.00        498,099.58        515,320.00
+INLAND REAL ESTATE CORP                    6.490 IRC     457461200     14.7900        36,000.00        454,867.44        532,440.00
+KITE REALTY GROUP TRUST                    4.848 KRG     49803T102     15.4700        37,200.00        504,051.88        575,484.00
+NEW YORK MORTGAGE TRUST INC               12.688 NTR     649604105      6.6200        44,900.00        411,327.25        297,238.00
+
+Instrument Total             6                                                       228,100.00      2,869,382.36      2,865,860.00
+
+Portfolio Total            145                                                     8,450,545.01     86,737,594.76    105,924,655.35
+

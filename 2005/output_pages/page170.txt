@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 137
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+BANK OF AMERICA CORP.                      4.333 BAC     060505104Q    46.1500        68,230.00      2,366,459.81      3,148,814.50
+BANK OF HAWAII CORP                        2.561 BOH     062540109     51.5400         2,300.00         80,339.00        118,542.00
+BARD C. R. INC.                            0.788 BCR     067383109Q    65.9200        16,000.00        717,483.21      1,054,720.00
+BARNES & NOBLE INC.                        1.406 BKS     067774109     42.6700         7,800.00        289,709.74        332,826.00
+BARR PHARMACEUTICALS INC.                  0.000 BRL     068306109     62.2900        19,500.00        952,632.05      1,214,655.00
+BAUSCH & LOMB INC                          0.765 BOL     071707103Q    67.9000         4,600.00        320,594.83        312,340.00
+BAXTER INTL                                1.545 BAX     071813109Q    37.6500        17,500.00        598,550.26        658,875.00
+BB&T CORPORATION                           3.626 BBT     054937107     41.9100         2,400.00         93,508.65        100,584.00
+BEAR STEARNS COMPANIES INC                 0.969 BSC     073902108    115.5300         5,200.00        314,883.44        600,756.00
+BEAZER HOMES USA INC                       0.549 BZH     07556Q105     72.8400           100.00          6,299.67          7,284.00
+BECKMAN COULTER INC.                       0.984 BEC     075811109     56.9000           200.00         11,975.51         11,380.00
+BECTON DICKINSON & COMPANY                 1.431 BDX     075887109Q    60.0800        10,800.00        548,071.99        648,864.00
+BED BATH & BEYOND INC                      0.000 BBBY    075896100     36.1500         3,500.00        132,855.06        126,525.00
+BELLSOUTH                                  4.280 BLS     079860102Q    27.1000        44,500.00      1,441,298.68      1,205,950.00
+BELO CORP                                  1.868 BLC     080555105Q    21.4100        20,100.00        471,901.45        430,341.00
+BEMIS CO.                                  2.583 BMS     081437105Q    27.8700         2,000.00         53,933.73         55,740.00
+BERKLEY (WR) CORP                          0.420 BER     084423102     47.6200        16,225.00        632,076.49        772,634.50
+BEST BUY COMPANY INC                       0.736 BBY     086516101     43.4800         1,700.00         74,429.74         73,916.00
+BJ SERVICES CO                             0.545 BJS     055482103     36.6700         8,300.00        297,845.81        304,361.00
+BLACK & DECKER                             1.287 BDK     091797100Q    86.9600           500.00         37,306.19         43,480.00
+BLACKROCK INC                              1.106 BLK     09247X101    108.4800         1,100.00         83,237.55        119,328.00
+BMC SOFTWARE                               0.000 BMC     055921100     20.4900        30,600.00        609,389.05        626,994.00
+BOEING CO                                  1.708 BA      097023105Q    70.2400         4,400.00        215,872.44        309,056.00
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     24.4900         2,100.00         38,271.82         51,429.00
+BRINKER INTERNATIONAL INC                  1.034 EAT     109641100     38.6600        17,500.00        646,785.07        676,550.00
+BRISTOL-MYERS SQUIBB                       4.873 BMY     110122108Q    22.9800        50,800.00      1,300,129.18      1,167,384.00
+BROADCOM CORP CL A                         0.000 BRCM    111320107     47.1500        12,400.00        568,922.76        584,660.00
+BROWN & BROWN INC                          0.654 BRO     115236101     30.5400         8,200.00        238,002.06        250,428.00
+BROWN-FORMAN -CL B                         1.615 BF.B    115637209Q    69.3200        10,400.00        546,957.23        720,928.00
+BURLINGTON NORTHERN SANTA FE               1.129 BNI     12189T104Q    70.8200        23,500.00        939,547.04      1,664,270.00
+BURLINGTON RESOURCES                       0.464 BR      122014103Q    86.2000         7,800.00        360,845.35        672,360.00
+C.H.ROBINSON WORLDWIDE INC                 1.404 CHRW    12541W209     37.0300         5,100.00        129,789.03        188,853.00
+CABLEVISION SYSTEMS CORP                   0.000 CVC     12686C109     23.4700        18,300.00        495,920.25        429,501.00
+CADENCE DESIGN SYS INC                     0.000 CDNS    127387108     16.9200         8,100.00        132,793.08        137,052.00
+CAMPBELL SOUP CO.                          2.418 CPB     134429109Q    29.7700         7,600.00        220,670.54        226,252.00
+CAPITAL ONE FINANCIAL CORP.                0.123 COF     14040H105     86.4000         5,276.00        398,826.46        455,846.40
+CARDINAL HEALTH INC.                       0.349 CAH     14149Y108Q    68.7500        20,700.00      1,248,534.68      1,423,125.00
+CAREER EDUCATION CORP                      0.000 CECO    141665109     33.7200         3,600.00        126,519.30        121,392.00
+CAREMARK RX INC                            0.000 CMX     141705103     51.7900        11,973.00        374,704.04        620,081.67

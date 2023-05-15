@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ANGLO PLATINUM LTD                           0.281     6761000      AMS_S        18,000.00          701,008.87
+ANGLOGOLD ASHANTI LTD                        0.175     6565655      ANG_S        24,000.00          864,044.34
+ARCELIK A.S.                                 4.518     B03MP18      ARCLK        36,000.00          194,701.10
+ASPEN PHARMACARE HOLDINGS                    0.226     B09C0Z1      APN_S       115,000.00          465,071.35
+AU OPTRONICS CORP                            0.068     6288190      2409_     1,575,050.00        2,551,117.01
+BAJAJ AUTO LIMITED                           0.027     6124142      BJA_I        22,500.00          446,731.86
+BANCO BRADESCO SA                            0.101     B00FM53      BBDC4       160,000.00        1,155,633.77
+BANCO MACRO BANSUD                           0.308     2080505      BSUD_        85,000.00          112,093.61
+BANGKOK BANK THB10                           0.037     6077019      BBL/F       203,350.00          528,435.22
+BANK LEUMI LE-ISRAEL                         0.960     6076425      LUMI_       280,000.00          540,497.90
+BANK PEKAO SA ORD                            1.126     5473113      PEO_P        31,000.00          739,168.20
+BARLOWORLD LIMITED                           0.649     6079123      BAW_S       140,000.00        1,168,493.95
+BENQ CORP                                    0.137     6054465      2352_     1,212,980.00        1,170,790.48
+BEZEQ ISRAEL TELCM                           0.290     6098032      BEZQ_       200,000.00          280,862.02
+BHARAT HEAVY ELECTRICALS                     0.013     6129523      BHEL_        50,000.00          142,277.06
+BK HAPOALIM BM ILS                           1.352     6075808      POLI_       400,000.00        1,027,336.90
+BK OF AYUDHYA THB                            0.065     6075949      60759       416,200.00          136,346.84
+BRASIL TELECOM PART SA                   1,445.698     2292645      BRTP3   100,000,000.00          744,583.72
+CEMEX SA PTG CERTS                           0.193     2406457      CEMEX       560,000.00        1,321,082.99
+CEMIG CIA ENERG MG                       1,582.123     2192712      CMIG4    40,000,000.00          670,902.97
+CENCOSUD - ADR                               0.477     B012HW5      B00R3        38,000.00          600,400.00
+CESKE ENERGETICKE ZAVODY                     0.049     5624030      CEZ_C        40,000.00          108,018.21
+CHENG SHIN RUBBER IND CO LTD                 0.096     6190228      2105_     1,085,000.00        1,228,337.46
+CHINA COSCO HOLDINGS                         0.000     B0B8Z18      1919_     2,000,000.00          841,716.44
+CHINA MOBILE HK LTD HKD 0.1                  0.319     6073556      941_H     1,200,000.00        4,099,333.11
+CHINA PETROLEUM                              0.402     6291819      386_H     6,200,000.00        2,533,133.67
+CHINA RESOURCES ENTERPRISES                  0.270     6972459      291_H     1,195,000.00        1,304,954.38
+CHINA RESOURCES LAND                         0.120     6193766      1109_     4,000,000.00          496,725.49
+CHINA TELECOM CORP                           0.294     6559335      728_H     5,000,000.00        1,800,500.30
+CHINATRUST FINANCIAL HOLDING CO.             0.097     6527666      2891_     6,178,013.00        4,305,356.42
+CIA DE MINAS BUENAVENTURA-B                  0.355     2894988      CMB/C        60,000.00          763,315.18
+CIA DE PETROLEOS DE CHILE                    0.004     2196026      COPEC       150,000.00        1,089,032.27
+CIPLA LIMITED                                0.017     B011108      CIPLA       180,000.00          647,505.57
+COCA COLA FEMSA SA DE CV                     0.108     2141899      KOFL_        80,000.00          195,582.98
+COFCO INTERNATIONAL LTD.                     0.302     6105738      506_H     5,462,000.00        1,960,727.90
+COMERCIAL SIGLO XXI SA                       0.002     2501006      LAPOL       160,000.00          328,142.41
+COMMERCIAL INTERNATIONAL BANK                0.520     6243898      CMIB_        70,000.00          299,379.11
+COMPAL ELECTRONICS                           0.108     6225744      2324_     2,717,656.00        2,318,542.13
+COMPANHIA DE BEBIDAS-CM ADR                  0.143     2635314      ABV/C        23,000.00          350,632.80

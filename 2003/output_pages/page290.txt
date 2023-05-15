@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 058
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+PLAYTEX PRODUCTS INC                         0.000     72813P100   PYX            149,800        1,187,617.24        1,157,954.01
+PLEXUS CORP                                  0.000     729132100   PLXS            90,000        1,557,309.64        1,545,300.00
+PLUG POWER INC                               0.000     72919P103   PLUG             5,700           33,174.00           41,325.00
+PLUM CREEK TIMBER CO INC                     4.597     729251108   PCL            350,600        9,797,044.21       10,675,770.00
+PMA CAP CORP                                 8.203     693419202   PMACA          125,530          731,920.61          642,713.60
+PMC-SIERRA INC                               0.000     69344F106   PMCS           255,800        5,110,246.88        5,154,370.00
+PMI GROUP INC.                               0.402     69344M101   PMI            233,900        7,167,615.14        8,708,097.00
+PNC FINANCIAL SERVICES GROUP                 3.654     693475105 Q PNC            624,785       31,608,430.81       34,194,483.05
+POGO PRODUCING CO                            0.414     730448107   PPP            115,700        4,486,146.98        5,588,310.00
+POLARIS INDUSTRIES INC.                      1.399     731068102   PII             34,000        2,035,219.84        3,011,720.01
+POLO RALPH LAUREN CORP                       0.694     731572103   RL             161,100        4,295,955.63        4,639,680.02
+POLYCOM INC.                                 0.000     73172K104   PLCM           555,706        9,971,942.59       10,847,381.13
+POLYMEDICA CORP                              2.280     731738100   PLMD           110,766        1,681,962.86        2,914,253.45
+POLYONE CORPORATION                          3.912     73179P106   POL            211,800        1,230,963.41        1,353,402.00
+POMEROY COMPUTER RESOURCES                   0.000     731822102   PMRY            49,752          673,913.54          733,344.48
+POPE & TALBOT INC                            1.817     732827100   POP             18,900          251,265.54          332,829.00
+POPULAR INC                                  2.403     733174106   BPOP           256,600        9,898,181.57       11,531,604.01
+PORTAL SOFTWARE INC                          0.000     736126301   PRSF            13,920          171,063.99           93,681.60
+PORTFOLIO RECOVERY ASSOCIATES INC            0.000     73640Q105   PRAA            24,940          689,748.50          662,157.01
+POSSIS MEDICAL INC                           0.000     737407106   POSS            18,900          320,113.15          373,275.00
+POTLATCH CORP.                               1.725     737628107 Q PCH             26,800          720,836.75          931,836.00
+POWELL INDS INC                              0.000     739128106   POWL            34,976          582,937.59          669,790.40
+POWER INTEGRATIONS INC                       0.000     739276103   POWI            73,642        1,874,085.67        2,464,061.32
+POWER ONE INC.                               0.000     739308104   PWER            76,600        2,254,550.45          829,578.00
+POWERWAVE TECHNOLOGIES                       0.000     739363109   PWAV           101,700          690,060.84          778,005.00
+POZEN INC                                    0.000     73941U102   POZN            41,300          479,462.01          421,260.00
+PPG INDUSTRIES INC.                          2.749     693506107 Q PPG            313,133       16,151,922.64       20,046,774.67
+PPL CORPORATION                              3.520     69351T106 Q PPL            246,500        7,242,941.50       10,784,374.99
+PRAECIS PHARMACEUTICALS INC                  0.000     739421105   PRCS           179,400        1,006,989.11        1,155,336.00
+PRAXAIR INC.                                 1.413     74005P104 Q PX             544,000       12,491,732.36       20,780,799.98
+PRE-PAID LEGAL SVCS                          0.000     740065107   PPD             24,400          598,134.81          637,328.00
+PRECISION CASTPARTS CORP                     0.264     740189105   PCP            198,720        7,315,010.57        9,023,875.21
+PRESIDENTIAL LIFE                            3.039     740884101   PLFE            38,500          666,226.61          506,659.99
+PRESSTEK INC                                 0.000     741113104   PRST            36,900          250,307.53          268,263.00
+PRG-SCHULTZ INTL INC                         0.000     69357C107   PRGX            79,917          952,479.00          391,593.30
+PRICE COMMUNICATIONS CORP                    0.000     741437305   PR              60,200          845,556.91          826,546.00
+PRICELINE.COM INC                            0.000     741503403   PCLN            16,687          456,946.81          298,697.30
+PRIDE INTERNATIONAL INC.                     0.000     74153Q102   PDE            454,014        7,847,819.51        8,462,820.93
+PRIMA ENERGY CORP                            0.000     741901201   PENG            10,800          242,209.93          379,728.00
+PRIME HOSPITALITY CORP                       0.000     741917108   PDQ            106,700        1,112,104.26        1,088,340.00

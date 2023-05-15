@@ -1,0 +1,22 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 162
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6BB       DAVID L BABSON - 200
+Instrument - COM       COMMON STOCK
+
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     22.6300        10,200.00        207,510.88        230,826.00
+ULTRALIFE BATTERIES INC                    0.000 ULBI    903899102     12.3800        20,100.00        287,445.15        248,838.00
+UNIT CORP                                  0.000 UNT     909218109     23.5500        19,200.00        400,093.60        452,160.00
+VALEANT PHARMACEUTICALS                    1.232 VRX     91911X104Q    25.1500        15,400.00        271,444.43        387,310.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     16.2000        18,800.00        348,313.60        304,560.00
+WINTRUST FINANCIAL CORP                    0.354 WTFC    97650W108     45.1000        12,700.00        411,845.05        572,770.00
+
+Instrument Total            45                                                     1,393,585.00     15,365,171.61     17,319,442.03
+
+Portfolio Total             45                                                     1,393,585.00     15,365,171.61     17,319,442.03
+

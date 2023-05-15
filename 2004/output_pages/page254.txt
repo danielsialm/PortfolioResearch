@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:15   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+GRAFTECH INTERNATIONAL LTD                   0.000     384313102   GTI            220,600        2,062,699.73        2,086,876.00
+GRAINGER W W INC                             1.200     384802104 Q GWW            252,257       13,506,686.22       16,805,361.34
+GRAMERCY CAPITAL CORP                        2.912     384871109   GKK             10,500          165,856.95          216,300.00
+GRANITE CONSTRUCTION INC                     1.503     387328107   GVA             77,500        1,538,616.17        2,061,500.00
+GRANT PRIDECO INC.                           0.000     38821G101   GRP            317,900        5,416,298.94        6,373,895.00
+GRAPHIC PACKAGING CORP                       0.000     388688103   GPK            161,700        1,100,850.74        1,164,240.00
+GRAY TELEVISION INC                          0.774     389375106   GTN            142,195        1,838,915.20        2,204,022.50
+GREAT AMERN FINL RES                         0.575     389915109   GFR             88,300        1,418,610.36        1,533,771.00
+GREAT ATL & PAC TEA                          0.000     390064103 Q GAP             18,400          223,996.01          188,600.00
+GREAT LAKES CHEMICAL CORP.                   1.404     390568103 Q GLK             56,400        1,563,576.01        1,606,836.00
+GREAT PLAINS ENERGY INC                      5.482     391164100   GXP             22,500          662,407.58          681,300.00
+GREAT SOUTHN BANCORP                         1.371     390905107   GSBC            17,900          418,817.67          626,500.00
+GREATER BAY BANCORP                          2.044     391648102   GBBK            64,206        1,521,871.88        1,790,063.28
+GREENBRIER COS INC                           0.709     393657101   GBX              8,300          193,703.26          280,955.00
+GREENFIELD ONLINE INC                        0.000     395150105   SRVY             5,700          120,447.27          125,343.00
+GREENHILL & CO INC                           1.115     395259104   GHL             14,100          307,258.15          404,670.00
+GREG MANNING AUCTIONS INC                    0.000     563823103   GMAI             5,600           73,843.13           69,328.00
+GREIF INC                                    1.142     397624107   GEF             24,100          980,545.79        1,349,600.00
+GREY GLOBAL GROUP IN                         0.363     39787M108   GREY               957          846,945.79        1,052,690.43
+GREY WOLF INC                                0.000     397888108   GW           1,263,400        5,157,622.80        6,658,118.00
+GRIFFON CORPORATION                          0.000     398433102   GFF             46,100          802,149.37        1,244,700.00
+GROUP 1 AUTOMOTIVE                           0.000     398905109   GPI             29,100          808,380.75          916,650.00
+GRUPO TMM SA - ADR A                         0.000     40051D105   TMM            116,500          409,186.52          426,390.00
+GSI COMMERCE INC                             0.000     36238G102   GSIC            21,500          170,000.62          382,270.00
+GTECH HOLDINGS CORP                          1.310     400518106   GTK            792,339       18,676,519.56       20,561,197.05
+GTX INC.                                     0.000     40052B108   GTXI            76,800          955,082.34        1,036,032.00
+GUESS INC                                    0.000     401617105   GES             16,600          208,519.41          208,330.00
+GUIDANT CORP.                                0.554     401698105 Q GDT            559,746       20,762,031.15       40,357,686.60
+GUILFORD PHARMACEUTICALS INC                 0.000     401829106   GLFD           245,075        1,470,058.66        1,213,121.25
+GUITAR CENTER INC                            0.000     402040109   GTRC            61,850        2,634,041.19        3,258,876.50
+GULF ISLAND FABRICAT                         0.916     402307102   GIFI            18,700          379,405.51          408,221.00
+GULFMARK OFFSHORE INC                        0.000     402629109   GMRK            16,100          255,240.83          358,547.00
+GYMBOREE CORP                                0.000     403777105   GYMB            33,900          468,258.66          434,598.00
+H & R BLOCK INC.                             1.795     093671105 Q HRB            314,200       13,964,319.83       15,395,800.00
+HAEMONETICS CORP/MASS                        0.000     405024100   HAE             45,000        1,154,435.19        1,629,450.00
+HAIN CELESTIAL GROUP                         0.000     405217100   HAIN           103,000        1,928,341.71        2,129,010.00
+HALLIBURTON COMPANY                          1.274     406216101 Q HAL            621,300       13,223,979.31       24,379,812.00
+HANCOCK FABRICS INC                          4.628     409900107   HKF             21,000          263,014.27          217,770.00
+HANCOCK HLDG CO                              1.972     410120109   HBHC            40,100        1,044,965.12        1,341,746.00
+HANDLEMAN CO.                                1.489     410252100   HDL             34,600          621,745.90          743,208.00

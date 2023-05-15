@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 136
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 600 VA
+Instrument - COM       COMMON STOCK
+
+NU HORIZONS ELECTRONICS CORP               0.000 NUHC    669908105      5.7800        13,000.00         98,775.90         75,140.00
+NUEVO ENERGY COMPANY                       0.000 NEV     670509108     11.1000        10,800.00        166,238.40        119,880.00
+OCTEL CORP                                 0.316 OTL     675727101     15.8000         2,100.00         36,152.05         33,180.00
+OCWEN FINANCIAL CORP                       0.000 OCN     675746101      2.8000        21,300.00         56,636.70         59,640.00
+OFFSHORE LOGISTICS                         0.000 OLOG    676255102     21.9200        25,300.00        515,051.41        554,576.00
+OREGON STEEL MILLS INC                     0.000 OS      686079104Q     4.0200        12,500.00         87,500.00         50,250.00
+PALM, INC                                  0.000 PALM    696642206     15.7000         6,200.00         98,715.78         97,340.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     10.9900        14,400.00        165,648.50        158,256.00
+PARK ELECTROCHEMICAL CORP.                 1.250 PKE     700416209     19.2000        11,500.00        266,491.93        220,800.00
+PARKER DRILLING CO                         0.000 PKD     701081101      2.2200        82,700.00        185,355.05        183,594.00
+PC-TEL INC                                 0.000 PCTI    69325Q105      6.7800        13,100.00        106,129.20         88,818.00
+PDI INC                                    0.000 PDII    69329V100     10.7910         4,200.00         40,304.46         45,322.20
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     40.0600        17,500.00        587,366.21        701,050.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     10.0300        21,500.00        234,439.00        215,645.00
+PEP BOYS MM & J                            2.327 PBY     713278109Q    11.6000        71,700.00        925,035.00        831,720.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105      8.3100        29,700.00        424,469.10        246,807.00
+PHILLIPS-VAN HEUSEN                        1.297 PVH     718592108     11.5600        40,900.00        546,544.88        472,804.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109      6.9300        41,200.00        384,638.02        285,516.00
+PIONEER STANDARD ELECTRONICS               1.307 PIOS    723877106      9.1800        12,039.00        152,112.77        110,518.02
+POLYONE CORPORATION                        6.377 POL     73179P106      3.9200        21,700.00        246,559.74         85,064.00
+POMEROY COMPUTER RESOURCES                 0.000 PMRY    731822102     11.7000         2,900.00         34,724.02         33,930.00
+POPE & TALBOT INC                          4.207 POP     732827100     14.2600           200.00          2,504.00          2,852.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108      8.1500        29,100.00        236,583.00        237,165.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC  IT-JAC         1.0000       578,223.26        578,223.27        578,223.26
+PROVIDENT BANKSHARES CORPORATI             3.807 PBKS    743859100     23.1110        15,750.00        328,166.88        363,998.25
+QUANEX CORP                                1.910 NX      747620102     33.5000        12,500.00        437,908.00        418,750.00
+RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.1700        13,900.00        111,140.52         99,663.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     27.6200        31,200.00        778,014.24        861,744.00
+RAYMOND JAMES FINANCIAL INC                1.217 RJF     754730109     29.5800        27,200.00        829,079.27        804,576.00
+RLI CORP                                   1.290 RLI     749607107     27.9000        17,100.00        449,925.60        477,090.00
+ROXIO INC                                  0.000 ROXI    780008108      4.7700        30,800.00        140,236.88        146,916.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     10.1000        22,600.00        247,694.46        228,260.00
+RYERSON TULL, INC.                         3.278 RT      78375P107Q     6.1000        10,600.00         88,464.42         64,660.00
+RYLAND GROUP INC                           0.239 RYL     783764103     33.3500        27,500.00        818,178.49        917,125.00
+SALTON INC                                 0.000 SFP     795757103      9.6200        20,600.00        331,321.72        198,172.00
+SANDY SPRING BANCORP INC                   2.285 SASR    800363103     31.5000         6,400.00        194,245.15        201,600.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103      9.1600         9,000.00         77,645.00         82,440.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     19.9800        12,500.00        382,752.05        249,750.00
+SCHWEITZER-MAIDUIT INTL INC                2.449 SWM     808541106     24.5000         6,400.00        125,392.00        156,800.00

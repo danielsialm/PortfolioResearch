@@ -1,0 +1,17 @@
+Instrument - F         FARMLAND
+
+FARMLANDS-UBS AGRIVEST SA      MISC US                         9.250         RFMLND                  2,008,434.44      2,697,648.60
+
+Instrument Total             1                                                                       2,008,434.44      2,697,648.60
+
+Instrument -T      TIMBER
+
+TIMBER-BASCOM GULF (FLORIDA)   MISC US                         0.000         RTMBR4                179,301,830.21    168,560,488.00
+TIMBER-BASCOM PACIFIC (N.W.)   MISC US                         0.000         RTMBR2                 56,377,014.33    154,731,250.00
+TIMBERLAND - FOREST SYSTEM     MISC US                         0.000         RTMBR5                  2,000,196.00      2,000,196.00
+TIMBERLAND-SOUTHERN            MISC US                         0.000         RTMBR3                 33,512,650.52    121,656,928.00
+
+Instrument Total             4                                                                     271,191,691.06    446,948,862.00
+
+Portfolio Total              5                                                                     273,200,125.50    449,646,510.60
+

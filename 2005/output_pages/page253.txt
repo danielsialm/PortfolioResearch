@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+IDEXX LABS INC.                              0.000     45168D104   IDXX             6,100          391,668.19          439,078.00
+IDT CORP-CL B                                0.000     448947309   IDT             61,600          791,934.80          720,720.00
+IDX SYSTEMS CORP                             0.000     449491109   IDXC            35,700          872,708.26        1,567,944.00
+IGATE CORP                                   0.000     45169U105   IGTE            22,500           80,613.26          109,350.00
+IHOP CORP.                                   2.131     449623107   IHP             19,800          598,134.71          928,818.00
+IHS INC-CLASS A                              0.000     451734107   IHS             63,526        1,191,373.34        1,303,553.52
+II VI INC                                    0.000     902104108   IIVI           113,000        1,966,333.74        2,019,310.00
+IKANOS COMMUNICATIONS INC                    0.000     45173E105   IKAN             6,800           92,276.00          100,232.00
+IKON OFFICE SOLUTIONS INC.                   1.537     451713101 Q IKN            156,300        1,612,482.29        1,627,083.00
+ILLINOIS TOOL WORKS                          1.500     452308109 Q ITW            633,600       43,120,944.39       55,750,464.00
+ILLUMINA, INC.                               0.000     452327109   ILMN            38,000          369,306.78          535,800.00
+IMATION CORP                                 1.041     45245A107   IMN             47,300        1,662,118.39        2,179,110.99
+IMCLONE SYSTEMS                              0.000     45245W109   IMCL           486,300       17,226,061.60       16,650,912.00
+IMMUCOR INC                                  0.000     452526106   BLUD            48,050          461,118.54        1,122,448.00
+IMMUNOGEN INC                                0.000     45253H101   IMGN            43,405          218,788.69          222,667.65
+IMS HEALTH INC.                              0.321     449934108   RX               9,000          219,849.36          224,280.01
+INAMED CORP                                  0.000     453235103   IMDC             6,400          308,837.66          561,152.00
+INDEPENDENCE COMMUNITY BANK                  2.718     453414104   ICBC             2,946          115,101.88          117,044.58
+INDEPENDENCE HLDG CO                         0.255     453440307   IHC              4,941           78,011.53           96,596.55
+INDEPENDENT BANK CORP/MA                     2.103     453836108   INDB            26,850          728,410.95          766,030.50
+INDEPENDENT BANK CORP/MI                     2.791     453838104   IBCP            34,156          902,123.06          930,067.88
+INDYMAC BANCORP INC                          4.305     456607100   NDE             23,752          886,486.90          926,803.06
+INFINITY PROPERTY & CASUALTY CORP            0.645     45665Q103   IPCC            30,900          901,714.09        1,149,789.00
+INFOCROSSING INC                             0.000     45664X109   IFOX            21,400          197,245.12          184,254.00
+INFOCUS CORPORATION                          0.000     45665B106   INFS           123,100          601,046.89          493,631.00
+INFORMATICA CORP.                            0.000     45666Q102   INFA           170,800        1,290,864.01        2,049,600.00
+INFOSPACE INC                                0.000     45678T201   INSP            50,380        1,127,814.27        1,300,811.60
+INFOUSA INC                                  1.829     456818301   IUSA            34,600          314,449.74          378,178.00
+INFRASOURCE SERVICES INC                     0.000     45684P102   IFS             13,700          148,418.54          179,196.00
+INGERSOLL-RAND CO-A                          1.411     G4776G101 Q IR             202,405        7,486,389.88        8,171,089.85
+INGLES MKTS INC                              4.217     457030104   IMKTA           30,100          361,431.57          471,065.00
+INGRAM MICRO INC CL A                        0.000     457153104   IM             136,484        2,496,588.22        2,720,126.12
+INNOVATIVE SOLUTIONS & SUPPORT INC           0.000     45769N105   ISSC           899,150       15,701,737.95       11,491,137.00
+INPUT/OUTPUT INC.                            0.000     457652105   IO             160,300        1,192,274.32        1,126,909.00
+INSIGHT ENTERPRISES INC.                     0.000     45765U103   NSIT           786,828       14,963,151.96       15,429,697.08
+INSITUFORM TECHNOLOGIES CL A                 0.000     457667103   INSU            28,350          496,479.46          549,139.50
+INTEGRA BK CORP                              2.999     45814P105   IBNK            30,600          614,112.76          653,004.00
+INTEGRA LIFESCIENCES HOLDINGS                0.000     457985208   IART            21,700          674,337.45          769,482.00
+INTEGRAL SYS INC MD                          1.060     45810H107   ISYS            11,000          245,545.30          207,460.00
+INTEGRATED ALARM SERVICES GROUP INC          0.000     45890M109   IASG         1,225,000        6,056,631.68        3,503,500.00

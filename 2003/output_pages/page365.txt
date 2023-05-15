@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 037
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SASOL NPV                                    0.000     6777450      SOL_S       250,000.00        2,587,190.30
+SATYAM COMPUTER SERVICES                     0.000     6241858      SCS_I       170,240.00          451,603.98
+SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       151,500.00          168,584.26
+SHIN CORPORATION PCL-FOR                     0.000     6397546      SHIN/       398,000.00          376,490.81
+SHINHAN FINANCIAL GROUP LTD                  0.000     6397502      05555       120,109.00        1,141,695.50
+SIAM CEMENT CO THB                           0.000     6609906      SCC/F       153,000.00          300,186.96
+SIAM COMMERCIAL BK                           0.000     6889935      SCB/F       532,700.00          484,098.27
+SINOPAC HOLDINGS                             0.000     6525875      2890_     5,409,393.00        2,345,086.30
+SK TELECOM CO LTD                            0.000     6224871      01767        26,251.00        4,310,751.72
+STANDARD BANK                                0.000     6108005      SBK_S       950,000.00        3,009,774.58
+STATE BK OF INDIA GDR                        1.048     5131091      SBID_        18,600.00          135,780.00
+SUN PHARMACEUTICAL INDUSTRIES                0.000     6582483      SUNP_        14,000.00           87,109.84
+SUN PHARMACEUTICAL NPV - PREFERRED          10.967     6581145      65811        28,000.00                0.00
+SURGUTNEFTEGAZ-$US                           5.498     4851732      SNGS$     1,179,745.00          368,781.79
+T IS BANKASI SER C                           0.000     4869939      ISCTR   246,400,000.00          618,796.14
+T.GARANTI BANASI T                           0.000     4361617      GARAN   204,536,648.00          314,652.44
+TAIWAN CELLULAR CORP                         0.000     6290496      3045_     2,578,431.20        2,512,428.24
+TAIWAN SECOM                                 0.000     6877811      9917_     1,300,000.00          975,730.33
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.000     6889106      27933     2,601,093.60        4,219,531.03
+TANJONG PLC                                  0.000     6872526      TJN_M       490,377.00          845,273.95
+TATA MOTORS LTD                              0.000     6101509      TELCO        70,000.00          103,591.86
+TELE NORTE LESTE PART                        0.170     2292719      TNLP3   160,000,000.00        1,959,950.23
+TELEFONOS DE MEXIC                           0.000     2881689      TELME     3,680,000.00        5,985,408.31
+TELEFONOS DE MEXICO SA-SER A                 0.297     2881731      TELME       825,000.00          956,946.98
+TELEKOMUNIKACJA                              0.437     5551611      TPSD_        40,000.00          128,000.00
+TELEKOMUNIKAYA POL                           0.000     5552551      TPS_P       280,000.00        1,134,880.26
+TELESP CELULAR PAR                          51.770     2292690      TSPP4   300,000,000.00          463,892.15
+TELKOM SOUTH AFRICA LTD                      0.029     6588577      TKG_S        77,000.00          270,178.82
+TEMPO SCAN PACIFIC TBK/PT                    0.000     6881953      TSPC_        90,000.00           78,752.44
+TENARIS SA                                   0.040     2172402      TS_AF       215,121.00          426,857.89
+TEVA PHARMA IND IL                           0.000     6882172      TEVA_        75,180.00        1,471,042.60
+THAI UNION FROZEN PROD-FOREI                 0.157     6422716      TUF/F       269,130.00           77,746.71
+THE GRANDE HOLDINGS LTD                      0.000     6381260      186_H     1,000,000.00        1,250,664.73
+TINGYI HLDG CO                               0.001     6903556      322_H     7,668,000.00        1,611,942.47
+TISCO FINANCE PCL - FOREIGN                  0.000     6892858      TISCO       588,000.00          452,969.97
+TOFAS OTOMOBIL FAB                           0.000     4894210      TOASO   199,999,999.81          225,469.29
+TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    36,000,000.00          361,496.54
+UNIFIED ENERGY SYSTEMS                      12.078     4889335      EESR$     5,000,000.00          722,509.54
+UNIPETROL                                    0.000     5297294      UNIP_       224,928.00          335,726.15

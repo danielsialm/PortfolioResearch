@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HYUNDAI MOTOR LTD                            0.001     6148272      00538        26,883.00          554,270.72
+HYUNDAI PRECISION                            0.001     6449544      01233         5,164.00          192,945.36
+ICL-ISRAEL CHEM OR                           0.402     6455530      CHIM_       250,000.00          278,177.01
+IDB HOLDING CORP O                           3.251     6456726      IDBH_       100,000.00        2,365,686.40
+IJM CORP BERHAD                              0.902     6455217      IJM_M       320,000.00          392,045.77
+IMPALA PLATINUM HL                           0.389     6457804      IMP_S        24,000.00        1,200,021.04
+INFOSYS TECHNOLOGIES LTD                     0.009     6205122      INFO_        73,037.00        1,089,741.03
+INTERFLEX CO LTD                             0.001     6582955      05137         9,840.00           72,979.33
+IOI CORPORATION BERHAD                       0.746     6464514      IOI_M       440,000.00          603,234.86
+JAHWA ELECTRONICS CO LTD                     0.002     6198437      03324        11,492.00           35,989.81
+JEONBUK BANK                                 0.001     6471796      00635        42,720.08          127,963.76
+KASIKORNBANK                                 0.032     6888794      KBANK     1,600,000.00          816,002.07
+KGHM POLSKA MIEDZ                            0.982     5263251      KGH_P        80,000.00          296,963.46
+KIMBERLEY CLARK DE                           0.514     2491914      KIMBE       790,000.00        2,233,573.48
+KOMERCNI BANKA                               0.118     4519449      KOMB_        15,000.00          791,148.44
+KOOKMIN BANK KRW50                           0.000     6419365      06000       157,397.00        4,766,326.76
+KOREA ELEC POWER K                           0.003     6495730      01576       100,000.00        2,728,620.82
+KOREA INVESTMENT HOLDINGS CO                 0.001     6654586      07105         6,438.00           70,979.90
+KOREA TELECOM CORPORATION                    0.007     6505316      03020        72,000.00        2,801,606.68
+L.G.PHILIPS LCD CO LTD ADR                   0.000     B01VZS4      LPL           4,052.00           45,986.98
+LAND + HOUSES THBH                           0.150     6581930      LH/F_     2,000,000.00          489,783.90
+LG CHEM LTD                                  0.002     6346913      05191        17,601.00          678,490.39
+LG CHEM LTD-PREFERRED                        0.003     6346924      05191         2,844.00           36,989.53
+LG ELECTRONICS PFD                           0.002     6520966      06657         6,400.00          162,015.01
+LG ELECTRONICS/NEW                           0.001     6520739      06657        36,000.00        2,373,709.71
+LIBERTY GROUP LTD                            0.583     6515047      LGL_S       253,886.00        2,274,404.00
+MAGYAR TELEKOM LTD                           0.034     4577469      MTEL_       550,000.00        2,209,133.10
+MAHANAGAR TELEPHONE NIGAM                    0.069     6117807      ZMTNL       120,000.00          370,955.82
+MALAKOFF BERHAD                              0.968     6555924      MAL_M       500,000.00          758,765.97
+MALAYAN BANKING BERHAD                       1.788     6556325      MAY_M       700,000.00        1,652,058.00
+MEGA FINANCIAL HOLDING                       0.218     6444066      2886_     3,400,000.00        2,279,971.89
+MIGROS TRL1000                               0.848     B03MWC8      MIGRS        70,000.00          291,535.94
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.003     4742494      MOL_H        48,000.00          762,380.87
+MTN GROUP LIMITED                            0.165     6563206      MTN_S       600,000.00          656,743.47
+MURRAY & ROBERTS HOLDINGS                    0.375     B0N3K50      MUR_S       100,000.00          221,756.63
+NAMYANG DAIRY PRODUCTS CO                    0.000     6621201      00392           400.00           98,359.24
+NAN YA PLASTICS CORP                         0.228     6621580      73841     1,484,008.48        1,364,231.38
+NEDBANK GROUP LTD                            0.285     6628008      NED_S       360,000.00        6,809,644.27
+NEXEN TIRE CORPORATION                       0.002     6984959      00235         5,894.00           49,985.84

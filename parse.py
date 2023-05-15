@@ -92,7 +92,7 @@ def split_stocks(stock_input: list[str], type_supp_info, thisTypeInfo: type_info
 
 '''
 returns a dictionary of the different types and a list of their (parsed) stocks, for an account
-needed - proper supp info, length info, and indics
+needed - proper supp info, length info, and indices
 '''
 def split_type(text, date, accName, accID, group, acc_supp_info, infoLen, noTypeID) -> dict[str, list[stock]]:
   # 'add' typeID if missing

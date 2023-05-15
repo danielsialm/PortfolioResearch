@@ -1,0 +1,39 @@
+ASOF02   Date 01/19/2006 Time 18:24:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 178
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6NC       NEXT CENTURY - 2000
+Instrument - COM       COMMON STOCK
+
+PEETS COFFEE & TEA I                       0.000 PEET    705560100     30.3500        28,970.00        694,231.51        879,239.50
+PENWEST PHARMACEUTIC                       0.000 PPCO    709754105     19.5200        39,775.00        681,179.45        776,408.00
+PRIME MONEY MARKET - 6NC                   0.000 IT-NEX  IT-NEX         1.0000     1,397,549.63      1,397,549.60      1,397,549.66
+PROASSURANCE CORP                          0.000 PRA     74267C106     48.6400        17,460.00        484,547.59        849,254.40
+RACKABLE SYSTEMS INC                       0.000 RACK    750077109     28.4800        30,265.00        597,528.72        861,947.20
+RANGE RES CORP                             0.303 RRC     75281A109     26.3400        31,725.00        308,200.55        835,636.50
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     37.9500        18,150.00        704,225.41        688,792.50
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109     79.9600        12,615.00        808,285.77      1,008,695.40
+SIRF TECHNOLOGY HOLDINGS                   0.000 SIRF    82967H101     29.8000        24,505.00        669,682.71        730,249.00
+SRA INTERNATIONAL INC - CLASS              0.000 SRX     78464R105     30.5400        20,550.00        693,046.01        627,597.00
+SURMODICS INC                              0.000 SRDX    868873100     36.9900        35,469.00      1,470,913.73      1,311,998.31
+SYMYX TECHNOLOGIES INC.                    0.000 SMMX    87155S108     27.2900        31,610.00        851,020.57        862,636.90
+TERCICA INC                                0.000 TRCA    88078L105      7.1700        52,400.00        637,639.83        375,708.00
+TEREX CORP                                 0.000 TEX     880779103     59.4000        38,790.00      1,566,093.68      2,304,126.00
+TITANIUM METALS CORP                       0.000 TIE     888339207     63.2600        20,675.00        574,303.37      1,307,900.50
+TRIDENT MICROSYSTEMS INC                   0.000 TRID    895919108     18.0000       117,154.00      1,120,095.17      2,108,772.00
+UNITED PANAM FINANCIAL CORP                0.000 UPFC    911301109     25.8700        28,025.00        545,859.25        725,006.75
+UTI WORLDWIDE INC                          0.161 UTIW    G87210103     92.8400        17,205.00        401,510.66      1,597,312.20
+VENTANA MED SYS INC                        0.000 VMSI    92276H106     42.3500        24,865.00        654,698.03      1,053,032.75
+VIROPHARMA INC                             0.000 VPHM    928241108     18.5500        72,327.00      1,045,215.25      1,341,665.85
+WEBSIDESTORY INC                           0.000 WSSI    947685103     18.1300        35,816.00        636,158.56        649,344.08
+
+Instrument Total            60                                                     3,465,935.13     47,570,067.52     66,521,092.71
+
+Portfolio Total             60                                                     3,465,935.13     47,570,067.52     66,521,092.71
+
+Group Total              1,687                                          0.00 /   110,407,675.25  1,821,677,494.85  2,164,551,338.87
+

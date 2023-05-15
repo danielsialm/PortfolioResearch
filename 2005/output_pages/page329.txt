@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 022
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+3 I GROUP                                    3.115     B0BL5R3      III_L        84,141.17          673,501.90
+A P MOLLER MAERSK A/S                        0.109     4253048      MAERS           500.00        5,074,846.76
+ABB LIMITED CHF2.50                          4.464     7108899      ABBN_        56,157.00          428,352.62
+ABN AMRO HLDGS NV                            5.339     5250769      AABA_       433,948.00       10,723,906.31
+ACCOR FRF100                                 2.665     5852842      AC_FP        28,677.00        1,203,852.86
+ACOM CO Y50                                  0.015     6049784      8572_         7,520.00          563,939.51
+ADECCO SA-REG                                1.252     7110720      ADEN_         2,336.00          117,164.26
+ADIDAS-SALOMON AG                            0.956     4031976      ADS_G         3,611.00          433,685.03
+ADVANTEST Y50                                0.003     6870490      6857_         5,600.00          472,295.52
+AEGON NV                                     3.688     5927375      AGN_N       289,904.00        4,316,077.03
+AEON CO LTD                                  0.003     6480048      8267_        54,600.00          860,360.14
+AIFUL CORP JPY 50                            0.005     6019419      8515_        10,800.00          750,416.36
+AIR FRANCE                                   0.977     4916039      AF_FP        14,876.00          262,759.01
+AIR LIQUIDE                                  2.540     4011406      AI_FP         7,148.00        1,062,840.42
+AKZO NOBEL NV NLG5                           3.615     5458314      AKZA_        48,948.00        2,101,998.10
+ALCAN ALUMINIUM LTD                          1.075     2013200      AL_CN        11,300.00          427,450.00
+ALCATEL EUR 2.0                              1.802     5975006      CGE_F       125,521.00        1,466,304.98
+ALLIANCE BOOTS PLC                           8.539     3231078      BOOT_        60,549.00          574,313.01
+ALLIANZ AG NPV(REG                           1.843     5231485      ALV_G        60,357.00        7,084,046.84
+ALLIED IRISH BANKS                           4.018     4020684      ALBK_        43,631.00          744,032.34
+ALUMINA LTD                                  2.294     6954985      AWC_A        15,658.00           70,263.44
+AMCOR ORD NPV                                3.696     6066608      AMC_A        13,390.00           78,396.70
+AMP ORD AUD3                                 3.528     6709958      AMP_A        30,425.00          166,214.39
+ARCELOR                                      2.927     7281875      LOR_F        82,411.00        1,896,108.18
+ARISTOCRAT LEISURE LIMITED                   1.088     6253983      ALL_A         4,646.00           40,515.79
+ASAHI BREWERIES Y5                           0.008     6054409      2502_        82,000.00        1,073,434.80
+ASAHI GLASS CO JPY                           0.008     6055208      5201_        42,100.00          440,742.59
+ASAHI KASEI CORPORATION                      0.010     6054603      3407_       158,000.00          743,034.40
+ASCENDAS REAL ESTATE INV                     3.535     6563875      AREIT       596,000.00          680,829.82
+ASM LITHOGRAPHY HOLDING                      0.000     5949368      ASML_        79,590.00        1,409,866.78
+ASTRAZENECA GBP 0.                           6.219     0989529      AZN_L        72,824.00        2,878,060.14
+ATI TECHNOLOGIES INC                         0.000     2000978      ATY_C         7,800.00          114,797.41
+ATOS ORIGIN SA                               0.000     5654781      ATO_F         5,078.00          373,925.78
+AUSTRALIA + NEW ZEALAND BANK GROUP           3.368     6065586      ANZ_A        38,150.00          612,299.24
+AUSTRALIAN GAS LIG                           3.784     6064969      AGL_A         9,006.00           91,204.86
+AUTOROUTES DU SUD DE LA FRAN                 2.453     7327274      ASF_F        12,157.00          713,342.03
+AXA EUR 2.29                                 2.639     7088429      CS_FP       185,685.00        4,465,964.22
+BAA ORD GBP1                                 5.899     0067340      BAA_L        95,876.00          829,790.92
+BANG & OLUFSEN HOLDING-B                     0.292     4161293      BOB_D         8,400.00          827,272.31

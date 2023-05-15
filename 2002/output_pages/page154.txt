@@ -1,0 +1,17 @@
+ASOF02   Date 01/21/2003 Time 18:53:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 126
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 60
+Instrument - WARRANT   WARRANT
+
+DIME BANCORP-WT                            0.000 DIMEZ   25429Q110      0.1210       431,800.00        115,334.87         52,247.80
+
+Instrument Total             1                                                       431,800.00        115,334.87         52,247.80
+
+Portfolio Total             70                                                     5,971,590.87     52,957,178.33     40,758,729.67
+

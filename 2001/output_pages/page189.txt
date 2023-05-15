@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 034
+ASOF10   Date 01/24/2002 Time 21:29:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 036
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-PEOPLESOFT INC                               0.000     712713106   PSFT           564,426       17,388,108.66       22,689,925.20
-PEP BOYS MM & J                              1.574     713278109 Q PBY             95,100          851,694.39        1,630,965.00
-PEPSI BOTTLING GROUP INC                     0.340     713409100   PBG            392,200        8,678,564.18        9,216,699.99
-PEPSIAMERICAS INC                            0.289     71343P200 Q PAS            382,979        5,974,503.73        5,285,110.20
-PEPSICO INC.                                 1.191     713448108 Q PEP          3,407,850       91,606,940.03      165,928,216.50
-PEREGRINE SYSTEMS INC.                       0.000     71366Q101   PRGN            25,500          449,110.93          378,165.02
-PERFORMANCE FOOD GROUP COMPANY               0.000     713755106   PFGC            71,482        1,602,662.89        2,514,021.94
-PERFORMANCE TECHNOLOGIES INC                 0.000     71376K102   PTIX            48,700          624,277.22          648,684.00
-PERICOM SEMICONDUCTOR CORP                   0.000     713831105   PSEM            33,500        1,176,704.76          485,750.00
-PERKIN ELMER INC                             0.799     714046109 Q PKI             88,406        2,021,142.49        3,095,978.11
-PERRIGO CO.                                  0.000     714290103   PRGO           138,900        1,038,419.81        1,641,798.00
-PETSMART INC                                 0.000     716768106   PETM            27,900          229,554.97          274,536.00
-PFIZER INC.                                  1.104     717081103 Q PFE         12,890,277      238,955,134.85      513,677,538.45
-PHARMACEUTICAL PRODUCT DEVELOPMENT INC.      0.000     717124101   PPDI            85,365        1,502,431.52        2,758,143.15
-PHARMACIA CORPORATION                        1.266     71713U102   PHA          2,700,948      105,826,783.48      115,195,432.19
-PHARMACOPEIA INC                             0.000     71713B104   PCOP            45,200          716,968.15          627,828.00
-PHELPS DODGE CORP.                           0.000     717265102 Q PD             118,973        6,345,752.50        3,854,725.20
-PHILADELPHIA CONS HLDG CO                    0.000     717528103   PHLY            20,600          644,183.82          776,826.00
-PHILADELPHIA SUBURBAN CORP.                  3.680     718009608   PSC             47,748          568,255.72        1,076,717.40
-PHILIP MORRIS COS                            5.060     718154107 Q MO           4,667,940      140,537,916.60      214,025,049.01
-PHILLIPS PETROLEUM                           2.389     718507106 Q P              810,261       36,649,429.66       48,826,327.85
-PHILLIPS-VAN HEUSEN                          1.376     718592108   PVH            107,500        1,363,293.82        1,171,750.00
-PHOENIX TECHNOLOGIES LTD                     0.000     719153108   PTEC            24,500          440,956.51          285,180.00
-PHOTON DYNAMICS INC                          0.000     719364101   PHTN            24,500          841,687.74        1,118,425.00
-PHOTRONICS INC.                              0.000     719405102   PLAB            26,200          615,123.01          821,370.00
-PICO HOLDINGS INC                            0.000     693366205   PICO             8,000           92,902.74          100,000.00
-PIEDMONT NATURAL GAS CO INC NORTH CAROL      4.301     720186105   PNY             31,700          875,771.79        1,134,860.00
-PIER 1 IMPORTS INC/DEL                       0.922     720279108   PIR            132,200        1,705,188.90        2,292,348.00
-PINNACLE ENTERTAINMENT, INC.                 0.000     723456109   PNK             21,100          310,937.43          127,233.00
-PINNACLE SYSTEMS                             0.000     723481107   PCLE            75,800        1,292,595.69          601,852.00
-PINNACLE WEST CAPITAL CORP                   3.823     723484101 Q PNW             58,613        2,036,921.09        2,452,954.04
-PIONEER NATURAL RESOURCES CO.                0.000     723787107   PXD            247,898        3,374,974.42        4,774,515.47
-PIONEER STANDARD ELECTRONICS                 0.944     723877106   PIOS            26,600          428,941.36          337,820.00
-PITNEY-BOWES, INC.                           3.084     724479100 Q PBI            590,320       22,485,671.98       22,201,935.21
-PITTSTON BRINK’S GROUP                       0.452     725701106 Q PZB            238,000        5,014,494.14        5,259,800.00
-PIXELWORKS INC                               0.000     72581M107   PXLW            21,400          452,824.52          343,684.00
-PLACER DOME INC.                             0.916     725906101 Q PDG            469,102        6,901,725.61        5,117,902.80
-PLAINS RESOURCES INC.                        0.000     726540503   PLX             38,400          807,228.87          945,023.99
-PLANTRONICS INC.                             0.000     727493108   PLT             46,700        1,129,460.76        1,197,388.00
-PLAYTEX PRODUCTS INC                         0.000     72813P100   PYX            104,300          998,455.38        1,016,925.00
+PROGRESS ENERGY, INC                         4.708     743263105 Q PGN            346,413       12,450,156.09       15,598,977.39
+PROGRESS SOFTWARE                            0.000     743312100   PRGS            38,400          314,620.05          663,552.00
+PROGRESSIVE CORP                             0.187     743315103   PGR             76,533        8,376,982.61       11,426,376.89
+PROTECTIVE LIFE CORP                         1.935     743674103   PL             135,100        3,102,248.70        3,908,443.01
+PROTEIN DESIGN LABS INC                      0.000     74369L103   PDLI           200,700        5,915,065.21        6,582,960.01
+PROVIDENT BANKSHARES CORPORATION             3.292     743859100   PBKS            43,735        1,000,129.72        1,062,760.50
+PROVIDENT FINANCIAL GROUP                    3.653     743866105   PFGI           107,300        3,483,020.81        2,819,844.00
+PROVIDIAN FINANCIAL CORP W/I                 3.380     74406A102   PVN          1,385,921       43,658,852.70        4,920,019.58
+PROVINCE HEALTHCARE COMPANY                  0.000     743977100   PRHC            26,300          953,703.18          811,618.00
+PROXIM INC                                   0.000     744284100   PROX            69,300        1,566,442.43          687,456.00
+PRUDENTIAL FINANCIAL INC                     0.000     744320102   PRU             77,100        2,131,516.50        2,558,949.00
+PSS WORLD MEDICAL INC.                       0.000     69366A100   PSSI            68,300          439,014.61          557,328.00
+PUBLIC SERVICE CO OF N MEX                   2.862     69349H107   PNM            101,900        2,679,637.20        2,848,105.00
+PUBLIC SVC ENTERPRISES                       5.119     744573106 Q PEG            455,340       15,859,301.71       19,210,794.60
+PUGET ENERGY INC                             8.405     745310102 Q PSD            167,800        4,206,074.30        3,673,142.00
+PULTE HOMES, INC.                            0.358     745867101 Q PHM             40,788        1,024,323.71        1,821,999.95
+QLOGIC CORPORATION                           0.000     747277101   QLGC           187,270        9,031,114.44        8,335,387.69
+QRS CORPORATION                              0.000     74726X105   QRSI            14,600          902,724.90          205,860.00
+QUAKER CHEM CORP                             3.980     747316107 Q KWR              8,900          155,791.02          183,340.00
+QUALCOMM INC                                 0.000     747525103   QCOM         1,560,192       86,718,384.47       78,789,696.03
+QUANEX CORP                                  2.261     747620102   NX              21,700          606,714.04          614,110.00
+QUANTA SERVICES INC.                         0.000     74762E102   PWR            162,500        6,258,331.82        2,507,374.99
+QUANTUM CORPORATION- DLT & STORAGE           0.000     747906204   DSS            531,700        6,516,648.88        5,237,245.00
+QUEST DIAGNOSTICS INC                        0.000     74834L100   DGX            205,100        9,731,466.57       14,707,721.00
+QUESTAR CORP                                 2.874     748356102 Q STR            152,100        3,507,207.92        3,810,105.00
+QUICKSILVER INC                              0.000     74838C106   ZQK             42,100          950,835.35          724,120.00
+QUINTILES TRANSNATIONAL CORP.                0.000     748767100   QTRN            88,970        2,703,436.79        1,427,968.49
+QUOVADX INC                                  0.000     74913K106   QVDX            23,295          284,455.65          213,149.25
+QWEST COMMUNICATIONS INTL.                   0.353     749121109   Q            3,530,460      137,300,208.00       49,885,399.79
+R.H. DONNELLEY CORP.                         0.000     74955W307 Q RHD             10,600          288,620.51          307,930.00
+R.J. REYNOLDS TOBACCO HOLDINGS INC.          6.216     76182K105   RJR            207,200        6,488,099.20       11,665,360.00
+RACING CHAMPIONS CORP                        0.000     750069106   RACN            43,900          138,162.09          539,970.00
+RADIAN GROUP INC.                            0.186     750236101   RDN            185,898        5,613,158.36        7,984,319.10
+RADIANT SYSTEMS INC                          0.000     75025N102   RADS            28,100          620,203.43          323,150.00
+RADIO ONE INC CL-D                           0.000     75040P405   ROIAK           19,000          292,082.44          342,190.00
+RADIOSHACK CORP                              0.730     750438103 Q RSH            320,450        8,944,523.32        9,645,544.99
+RADISYS CORPORATION                          0.000     750459109   RSYS            14,600          849,227.07          287,036.00
+RAINBOW TECHNOLOGIES INC                     0.000     750862104   RNBO            10,700           57,825.75           79,180.00
+RALCORP HOLDINGS                             0.000     751028101 Q RAH             28,900          554,365.77          656,030.00
+RARE HOSPITALITY INTL INC.                   0.000     753820109   RARE            64,100        1,439,652.19        1,444,814.00

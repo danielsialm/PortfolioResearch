@@ -1,0 +1,54 @@
+ASOF02   Date 01/20/2004 Time 18:58:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 122
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+SUNOCO, INC.                               2.150 SUN     86764P109Q    51.1500         4,563.00        235,521.67        233,397.45
+SUPER VALU STORES INC.                     2.028 SVU     868536103Q    28.5900        92,742.00      2,032,538.76      2,651,493.78
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.0200         6,258.00        122,982.09        131,543.16
+SYNOPSYS INC.                              0.000 SNPS    871607107     33.7600         9,634.00        320,941.63        325,243.84
+SYSCO CORP.                                1.396 SYY     871829107Q    37.2300        79,587.00      2,695,883.89      2,963,024.02
+TALBOTS INC                                1.299 TLB     874161102Q    30.7800        30,808.00        881,375.46        948,270.24
+TEKTRONIX, INC.                            0.506 TEK     879131100Q    31.6000        22,589.00        479,136.32        713,812.39
+TELLABS INC.                               0.000 TLAB    879664100      8.4300        60,318.00        453,655.28        508,480.74
+TEXAS INSTRS INC                           0.289 TXN     882508104Q    29.3800        94,224.00      2,679,547.47      2,768,301.12
+TRAVELERS PROPERTY CASUALTY -              1.885 TAP.B   89420G406     16.9700        49,590.00        843,198.00        841,542.29
+TUPPERWARE CORPORATION                     5.075 TUP     899896104     17.3400         1,193.00         20,716.33         20,686.62
+TYSON FOODS INC. CL-A                      1.208 TSN     902494103     13.2400        51,165.00        735,003.53        677,424.59
+UNIONBANCAL CORPORATION                    2.155 UB      908906100     57.5400        34,540.00      1,460,547.56      1,987,431.60
+UNITEDHEALTH GROUP INC                     0.025 UNH     91324P102A    58.1800       142,535.00      6,330,660.85      8,292,686.28
+UNIVERSAL HEALTH SERVICES CL B             0.595 UHS     913903100     53.7200         6,924.00        363,417.31        371,957.28
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     68.9300        18,848.00        881,783.08      1,299,192.64
+US BANCORP                                 3.223 USB     902973304     29.7800       183,004.00      3,991,983.17      5,449,859.12
+UST INC.                                   5.603 UST     902911106Q    35.6900        58,693.00      2,053,322.48      2,094,753.17
+VALEANT PHARMACEUTICALS                    1.232 VRX     91911X104Q    25.1500        17,819.00        289,528.49        448,147.85
+VALERO ENERGY CORP.                        1.035 VLO     91913Y100Q    46.3400        35,828.00      1,527,111.49      1,660,269.53
+VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     20.6300         5,036.00        102,320.48        103,892.68
+VARIAN INC.                                0.000 VARI    922206107     41.7300         6,652.00        222,690.19        277,587.95
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     69.1000        45,324.00      2,473,555.68      3,131,888.40
+VERISIGN INC                               0.000 VRSN    92343E102     16.3000        12,531.00        177,427.69        204,255.30
+VERIZON COMMUNICATIONS                     4.390 VZ      92343V104Q    35.0800       219,385.00      8,273,297.21      7,696,025.80
+VIACOM INC-CLASS B                         0.540 VIA.B   925524308     44.3800       147,993.00      6,127,135.82      6,567,929.35
+VULCAN MATERIALS CO                        2.060 VMC     929160109     47.5700         2,265.00        107,089.20        107,746.05
+WACHOVIA CORP.- NEW                        3.434 WB      929903102Q    46.5900        96,103.00      4,012,907.23      4,477,438.77
+WAL MART STORES INC                        0.678 WMT     931142103Q    53.0500        36,948.00      1,424,535.25      1,960,091.40
+WELLS FARGO COMPANY                        3.056 WFC     949746101     58.8900        55,876.00      2,107,743.95      3,290,537.64
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     11.7900        16,956.00        219,020.98        199,911.24
+WHIRLPOOL CORP                             2.367 WHR     963320106Q    72.6500        62,796.00      4,110,721.41      4,562,129.40
+WYETH                                      2.167 WYE     983024100Q    42.4500       211,347.00      8,162,122.37      8,971,680.16
+XILINX INC                                 0.000 XLNX    983919101     38.7400        11,641.00        345,706.83        450,972.33
+YAHOO INC                                  0.000 YHOO    984332106     45.1700         5,820.00        245,363.57        262,889.40
+YORK INTERNATIONAL CORP                    1.630 YRK     986670107     36.8000        23,816.00        669,623.48        876,428.80
+
+Instrument Total           231                                                    21,243,125.02    523,828,474.17    612,254,411.25
+
+Instrument -CP        COMMERCIAL PAPER (DISCOUNT)
+
+TREASURY BILL                              0.000         912795PR6      0.9978       400,000.00        399,125.00        399,125.00
+

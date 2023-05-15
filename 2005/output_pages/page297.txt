@@ -1,0 +1,50 @@
+ASOF03   Date 01/19/2006 Time 18:24:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - A         APARTMENT
+
+AUTUMN RIDGE                   ATLANTA, GA                     6.580         RAUTUM                  6,878,730.24      8,300,000.00
+BRIDGEWATER                    ATLANTA, GA                     7.430         RBRIDG                 41,157,771.50     42,900,000.00
+HOMES OF PRAIRIE SPRINGS       DALLAS, TX                      9.100         RHMPRS                 32,665,931.97     38,800,000.00
+WATERS PARK                    AUSTN, TX                       8.200         RWATPK                 29,191,791.00     37,800,000.00
+WYNFIELD TRACE                 ATLANTA, GA                     5.200         RTRACE                  9,689,312.58     13,700,000.00
+
+Instrument Total             5                                                                     119,583,537.29    141,500,000.00
+
+Instrument -I      INDUSTRIAL
+
+15200 TRINITY                  FORT WORTH, TX.                 0.000         RMATTE                 18,101,084.71     26,500,000.00
+ALLIANCE AIRLINES              ATLANTA, GA                     9.100         RALLNC                  4,477,000.00      3,600,000.00
+QUADRANT BUSINESS CTR          DEERFIELD BC                   10.875         RQBC01                 12,830,523.77     22,800,000.00
+QUAKER OATS BUILDING           ATLANTA, GA                     0.000         RQOATS                 16,952,685.00     17,260,000.00
+REGENCY 1                      DALLAS TX                       8.500         RREGNC                 16,207,374.36     16,000,000.00
+REGENCY 2                      DALLAS, TX                      0.000         RREGN2                 15,526,783.10     18,000,000.00
+TRADE CENTER I                 ATLANTA GA                      8.500         RTDCNT                 13,769,358.00     11,500,000.00
+TRADE CENTER II                ATLANTA, GA                     0.000         RTDCN2                 12,013,354.50     12,000,000.00
+
+Instrument Total             8                                                                     109,878,163.44    127,660,000.00
+
+Instrument -O      OFFICE
+
+ARBORETUM                      AUSTIN,TX                       0.000         RARBTM                 41,576,571.20     33,400,000.00
+GALLERIA 100                   ATLANTA, GA                     6.210         RGAL10                 36,980,824.96     32,400,000.00
+GALLERIA 400                   ATLANTA, GA                     0.000         RGALPK                 28,698,116.53     45,699,999.96
+GALLERIA 600                   ATLANTA, GA                     0.000         RGAL60                 71,047,778.02     86,200,000.04
+JPM I                          DALLAS, TX                      0.000         RINTNL                 30,264,212.65     55,300,000.00
+JPM II                         DALLAS,TX                       0.000         RCHAS2                 30,546,066.46     62,099,999.78
+JPM III                        DALLAS,TX                       0.000         RCHAS3                 49,252,691.43     46,681,441.95
+SOUTHPARK ONE                  AUSTIN                         11.500         RSPK01                 10,408,643.00     14,900,000.00
+
+Instrument Total             8                                                                     298,774,904.25    376,681,441.73
+
+Instrument -R      RETAIL
+
+K MART #50                     SPRINGFIELD                     9.550         RKM050                  3,468,664.00      5,000,000.00
+K MART #74                     GREENBELT MD                    9.750         RMEM04                  4,900,000.00      7,000,000.00
+KROGER #02                     COVINGTON                      10.000         RKR002                  2,252,581.00      2,000,000.00

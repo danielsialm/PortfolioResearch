@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 058
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+CURIS INC                                  0.000 CRIS    231269101      5.2200        52,200.00        215,664.38        272,484.00
+CURTISS-WRIGHT CORP.                       0.627 CW      231561101     57.4100        23,300.00        750,256.58      1,337,653.00
+CV THERAPEUTICS INC                        0.000 CVTX    126667104     23.0000        17,200.00        300,346.97        395,600.00
+CVB FINL CORP                              1.325 CVBF    126600105     26.5600        40,680.00        814,416.36      1,080,460.80
+CYBERONICS INC                             0.000 CYBX    23251P102     20.7200         8,630.00        210,957.07        178,813.60
+CYBEROPTICS CORP                           0.000 CYBE    232517102     14.8700        20,383.00        423,276.05        303,095.21
+CYBERSOURCE CORP                           0.000 CYBS    23251J106      7.1500        30,400.00        196,806.48        217,360.00
+CYMER INC                                  0.000 CYMI    232572107     29.5400        32,800.00      1,061,593.14        968,912.00
+CYPRESS BIOSCIENCE INC                     0.000 CYPB    232674507     14.0600        13,200.00        166,684.69        185,592.00
+CYTEC INDUSTRIES                           0.777 CYT     232820100Q    51.4200        43,200.00      1,553,341.94      2,221,344.00
+CYTOKINETICS INC                           0.000 CYTK    23282W100     10.2500         8,400.00        123,461.85         86,100.00
+D&E COMMUNICATIONS INC                     4.149 DECC    232860106     12.0500        13,199.00        184,161.19        159,047.95
+DAKTRONICS INC                             0.000 DAKT    234264109     24.8900        16,000.00        286,437.68        398,240.00
+DANIELSON HOLDINGS CORP                    0.000 DHC     236274106      8.4500        13,500.00         83,562.97        114,075.00
+DARLING INTERNATIONAL INC                  0.000 DAR     237266101      4.3600       118,200.00        385,040.97        515,352.00
+DATASCOPE CORP                             0.705 DSCP    238113104     39.6900        18,100.00        551,620.00        718,389.00
+DAVE & BUSTERS INC                         0.000 DAB     23833N104     20.2000        22,800.00        312,409.47        460,560.00
+DDI CORP                                   0.000 DDIC    233162304      3.1800        68,400.00        428,443.74        217,512.00
+DEB SHOPS INC                              1.996 DEBS    242728103     25.0400        12,793.00        292,438.20        320,336.72
+DECKERS OUTDOOR CORP                       0.000 DECK    243537107     46.9900        10,000.00        272,984.34        469,900.00
+DECODE GENETICS INC                        0.000 DCGN    243586104      7.8100        24,400.00        188,471.07        190,564.00
+DEL LABS INC                               0.000 DLI     245091103     34.7500         5,475.00        129,579.31        190,256.25
+DELPHI FINANCIAL GROUP CL-A                0.693 DFG     247131105     46.1500        32,400.00        967,037.58      1,495,260.00
+DELTA & PINE LAND CO.                      1.759 DLP     247357106     27.2800        42,000.00      1,105,946.59      1,145,760.00
+DELTA AIR LINES, INC.                      1.336 DAL     247361108Q     7.4800        54,300.00        347,253.45        406,164.00
+DELTA PETROLEUM CORP                       0.000 DPTR    247907207     15.6800        20,900.00        292,600.65        327,712.00
+DELTIC TIMBER CORP                         0.588 DEL     247850100     42.4500         5,400.00        205,146.32        229,230.00
+DENBURY RES INC                            0.000 DNR     247916208     27.4500        60,800.00      1,000,743.05      1,668,960.00
+DENDREON CORP                              0.000 DNDN    24823Q107     10.7800        64,200.00        712,149.97        692,076.00
+DENDRITE INTERNATIONAL INC.                0.000 DRTE    248239105     19.4000        40,100.00        641,561.21        777,940.00
+DEPARTMENT 56 INC                          0.000 DFS     249509100     16.6500        27,100.00        386,460.92        451,215.00
+DESIGN WITHIN REACH INC                    0.000 DWRI    250557105     14.5500         4,600.00         80,634.78         66,930.00
+DHB INDS INC                               0.000 DHB     23321E103     19.0400         6,700.00         97,973.96        127,568.00
+DIAGNOSTIC PRODUCTS CORP                   0.508 DP      252450101     55.0500        29,900.00        867,452.98      1,645,995.00
+DIAMONDCLUSTER INTERNATIONAL I             0.000 DTPI    25278P106     14.3300         7,600.00         70,060.34        108,908.00
+DICKS SPORTING GOODS INC                   0.000 DKS     253393102     35.1500        33,500.00        888,968.99      1,177,525.00
+DIGENE CORP                                0.000 DIGE    253752109     26.1500         7,100.00        222,640.68        185,665.00
+DIGI INTERNATIONAL INC                     0.000 DGII    253798102     17.1900        40,200.00        448,213.16        691,038.00
+DIGIMARC CORP                              0.000 DMRCE   253807101      9.3200        37,551.00        437,844.79        349,975.32

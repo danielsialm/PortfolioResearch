@@ -1,0 +1,13 @@
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+NESTLE CORP                          1.044 64105GBS2                          5,013,000.00        5,004,963.49
+
+Instrument Total               1                                              5,013,000.00        5,004,963.49
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQS-E                                0.000 IL-EQSE                               67,916.12        6,791,612.24
+
+Instrument Total               1                                                 67,916.12        6,791,612.24
+
+Portfolio Total                2                                              5,080,916.12       11,796,575.73         12,029,186.21

@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 007
+ASOF11   Date 01/24/2002 Time 21:29:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 009
 
 Monthly Market Portfolio
 
@@ -9,42 +9,35 @@ Group - INTERNATIONAL
 Portfolio  - I-ACT     INTERNAL EMERGING
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-MALAYSIAN PACIFIC INDUSTRIES                 1.257     6556693      MPI_M       200,000.00        1,178,925.20
-MATAV RT                                     0.000     4577469      MATAV       900,000.00        4,289,817.27
-METRO BANK + TR CO                           0.000     6584359      MBT_P       131,229.00          541,155.78
-MIGROS TRL1000                               0.000     4593034      MIGRS    24,358,000.00        1,521,692.68
-MOBILE TELESYSTEMS ADR                       0.000     2603225      MBT          50,000.00        1,305,738.89
-MOBINIL-EGYPTIAN MOBILE SERV                 0.000     6103925      EMPN_       325,000.00        3,410,940.65
-MOSENERGO                                   24.154     5467031      MSNG$    44,563,280.00        1,481,500.90
-NAMPAK ORD ZAR0.05                           0.000     6621397      NPK_S     4,945,744.00       10,444,379.73
-NAN YA PLASTICS CORP                         0.003     6621580      73841     1,975,134.00        2,150,955.74
-NATIONAL ALUMINIUM CO LIMITED                0.000     6139447      NACL_     1,500,000.00        1,755,545.06
-NATIONAL BANK OF GREECE                      2.796     4625959      ETE_G        80,000.00        2,938,983.76
-NEDCOR R1                                    0.000     6628008      NED_S       450,000.00        7,119,581.54
-NIEN HSING TEXTILE CO LTD                    0.000     6591928      1451_     3,900,000.00        3,003,503.54
-OLD MUTUAL                                   0.000     6155131      OML_S     2,400,000.00        4,502,662.13
-ORBIS PLN2                                   0.000     5349173      ORB_P       550,000.00        3,178,061.41
-ORGANIZACION SORIANA                         0.000     2620172      SORIA     1,500,000.00        3,444,530.01
-OTP BANK                                     0.000     4572282      OTP_H        90,000.00        4,536,553.11
-OTP BANK-GDR 144A                            0.866     2662969      OTPD_        30,000.00        1,229,400.00
-PAKISTAN TELECOM CO                          0.293     6672629      PTLC_     4,000,000.00        1,322,803.58
-PEREZ COMPANC SA - ADR                       2.562     2540872      PC          100,000.00        1,497,456.28
-PETROL BRASILEIROS                           0.164     2684532      PETR4       185,066.98        3,427,897.86
-PETROLEO BRASILEIRO                          6.180     2616580      PBR         330,000.00        7,653,001.00
-PHILIPPINE LNG DIS                           0.022     6685661      TEL_P        15,900.00          395,535.73
-PICK’N PAY STORES                            0.000     6688068      PIK_S     2,635,000.00        3,413,655.23
-PLIVA D.D. GDR REG S                         2.608     5174706      PLVD_       295,000.00        3,225,300.00
-POHANG IRON & STEEL COMPANY ADR              1.739     2692795      PKX         132,200.00        2,920,332.82
-POHANG IRON+STEEL                            0.000     6693233      0549_        30,358.00        2,777,433.96
-PRESIDENT CHAIN STORE CORP                   0.001     6704986      2912_       995,000.00        1,720,237.01
-PROFURN LIMITED                              0.000     6772507      PON_S    15,552,300.00        6,687,986.26
-PT INDOFOOD SUKSES MAK                       0.000     6283979      INDF_     2,540,000.00          202,876.09
-PT TELEKOMUNIKASI                            0.000     6291745      TLKM_     2,807,340.00        1,242,841.54
-PUBLIC BANK BHD                              0.010     6707093      PBKF_     1,200,000.00          793,211.80
-PUTRA SURYA PERKAS                           0.000     6083384      PTRA_       531,643.00           69,781.81
-QUANTA COMPUTER INC                          0.040     6141011      2382_        14,000.00           77,428.18
-QUILMES INDUSTRIAL ADR                       4.933     2770055      LQU         175,000.00        2,568,074.40
-QUIMICA Y MINERA A                           2.144     2771122      SQM          50,500.00        1,143,737.33
-RELIANCE INDUSTRIES                          0.000     6099626      RIL_I       500,000.00        3,640,913.72
-RUANG KHAO FUND (F                           0.000     6756307      RKF/F     8,106,300.00        1,411,796.21
-SAMSUNG CO KSWN500                           0.000     6771601      0083_        22,013.00          378,414.16
+ULTRAPAR PARTICIPACOES SA ADR’S             37.142     2496890      UGP         200,000.00        2,477,751.30
+UNI-PRESIDENT ENTERPRISES                    0.000     6700393      1216_    11,632,000.00        5,001,923.55
+UNIBANCO - SPONSORED GDR                     4.035     2000815      UBB         208,000.00        4,687,304.72
+UNIBANCO-UNIAO DE                          963.074     2909990      UBBR4     5,464,587.00           97,760.43
+UNIBANCO-UNITS                             929.950     2000837      UBBR1     6,474,528.00          318,634.98
+UNIFIED ENERGY SYSTEMS                      12.714     4889335      EESR$    11,260,000.00        1,185,156.05
+UNITED MICROELECTRONICS                      0.000     6916628      73850     2,314,420.00        2,544,705.58
+VENFIN LTD                                   0.002     6731928      VNF_S     1,000,000.00        2,104,784.58
+VIA TECHNOLOGIES INC                         0.000     6146823      2388_       720,000.00        3,133,580.78
+VIDESH SANCHAR INGAM                         0.000     6114745      YVSNL       400,000.00        2,687,143.50
+VOTORANTIM CELULOSE - ADR                    2.946     2696560      VCP          46,200.00          596,240.98
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00           80,123.73
+WINBOND ELECTRONICS CORP                     0.000     6966515      2344_     2,390,000.00        2,076,396.08
+YAGEO CORPORATION                            0.000     6984380      2327_     5,387,400.00        4,356,062.34
+ZEE TELEFILMS LIMITED                        0.010     6188535      Z_IN        800,000.00        2,053,457.85
+ZHEJIANG EXPRESSWA                           0.011     6990763      576_H     7,000,000.00        1,245,454.07
+
+Instrument Total             226                                          4,843,635,111.57      529,943,283.14
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                   270,075.09       27,007,509.47
+
+Instrument Total               1                                                270,075.09       27,007,509.47
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+DAESENG FEED CO RT                           0.000     9418264      94182           260.00               80.70
+
+Instrument Total               1                                                    260.00               80.70
+
+Portfolio Total              242                                          4,850,894,205.06      635,550,673.50        570,912,375.94

@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 019
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+3 I GROUP                                    3.971     0888693      III_L        89,400.00          673,501.90
+A P MOLLER MAERSK A/S                        0.000     4253048      MAERS           600.00        4,416,395.09
+ABB LIMITED CHF2.50                          4.143     7108899      ABBN_        41,864.00          310,245.22
+ACCOR FRF100                                 3.688     5852842      AC_FP        13,061.00          461,726.54
+ACOM CO Y50                                  0.000     6049784      8572_         6,900.00          553,970.79
+ACS ACTIVIDADES                              1.336     5333381      ACS_S        14,436.00          567,740.39
+ADECCO SA-REG                                0.261     7110720      ADEN_         4,096.00          211,535.25
+ADIDAS-SALOMON AG                            2.213     4031976      ADS_G         4,100.00          386,202.25
+AGFA GEVAERT NV                              5.345     5689051      AGFB_        58,200.00        1,119,313.60
+AIR LIQUIDE                                  9.191     4011406      AI_FP         7,220.00          937,444.12
+AKER KVAERNER                                0.000     7591745      KVI_N        15,400.00          216,564.68
+ALCAN ALUMINIUM LTD                          0.766     2013200      AL_CN        43,500.00        1,346,454.34
+ALCATEL EUR 2.0                             12.636     5975006      CGE_F        60,539.00          653,842.07
+ALL NIPPON AIRWAYS CO LTD                    0.010     6014908      9202_       161,000.00          519,509.52
+ALLIANZ AG NPV(REG                          15.237     5231485      ALV_G        41,078.00        4,737,939.22
+ALPHA BANK A.E.                              2.103     4235864      ALPHA        47,800.00        1,259,608.72
+ALTADIS SA                                   8.432     5444012      ALT_S        74,400.00        1,848,891.98
+AMADA CO Y50                                 0.000     6022105      6113_        90,800.00          297,089.69
+AMVESCAP                                    16.260     0128269      AVZ_L        53,120.00          748,424.73
+ANTENA 3 TELEVISION                          0.000     7700659      A3TV_         3,175.00           63,081.45
+ARES SERONO                                  0.420     5981070      SEO_V           150.00           85,798.67
+ARIAKE JAPAN CO LTD.                         0.000     6049632      2815_            74.50            2,511.20
+ASTRAZENECA GBP 0.                       5,246.761     0989529      AZN_L       112,865.00        4,460,511.07
+AUCKLAND INTL AIRPORT                        2.060     6123707      AIA_N       268,300.00        1,149,285.19
+AXA EUR 2.29                                16.156     7088429      CS_FP        96,287.00        1,856,576.10
+BAA ORD GBP1                               734.427     0067340      BAA_L        95,876.00          829,790.92
+BANCO BILBAO - BBVA                          8.614     5501906      BBVA_       609,900.00        6,028,936.59
+BANK AUSTRIA CREDITANSTALT                   0.000     7621363      BACA_       107,900.00        5,069,186.11
+BANK OF MONTREAL                             1.567     2076009      BMO_C        82,500.00        2,695,012.05
+BANK OF NOVA SCOTIA                          1.409     2076281      BNS_C        76,500.00        3,405,950.21
+BANK OF PIRAEUS                              3.256     4122676      TPEIR        39,900.00          408,898.48
+BARCLAYS PLC ORD G                          39.268     3134865      BARC_       449,067.00        2,851,957.82
+BARRICK GOLD CORP                            0.449     2024644      ABX_C        84,800.00        1,585,689.95
+BASF AG DEM ORD SH                          20.005     5086577      BAS_G        90,200.00        4,325,990.78
+BAYER AG COM NPV                            31.014     5069211      BAY_G       106,300.00        2,712,534.03
+BAYERISCHE HYPO UN                           7.306     4325419      HVM_G        55,100.00        1,252,350.92
+BCE INC                                      1.925     2089933      BCE_C        62,300.00        1,400,040.31
+BCO SANTANDER CENTAL HISP                   34.037     5705946      SAN_S       868,500.00        6,542,796.35
+BG GROUP ORD                                 3.520     0876289      BG/_L       244,245.00          931,118.32

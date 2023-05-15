@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 078
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+PARKER DRILLING CO                         0.000 PKD     701081101      3.9300       104,800.00        307,912.73        411,864.00
+PARTNERS TRUST FINL                        2.060 PRTR    70213F102     11.6500        13,161.00        119,029.64        153,325.65
+PARTY CITY CORP                            0.000 PCTY    702145103     12.9300        26,700.00        354,177.61        345,231.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101      5.8100        33,400.00        250,127.52        194,054.00
+PAXAR CORP.                                0.000 PXR     704227107     22.1700        38,450.00        557,535.38        852,436.50
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     12.3000        95,400.00      1,383,468.17      1,173,420.00
+PC CONNECTION INC                          0.000 PCCC    69318J100      9.5200         8,000.00         64,028.14         76,160.00
+PC-TEL INC                                 0.000 PCTI    69325Q105      7.9300        45,100.00        421,049.16        357,643.00
+PDF SOLUTIONS INC                          0.000 PDFS    693282105     16.1100        16,200.00        157,130.76        260,982.00
+PDI INC                                    0.000 PDII    69329V100     22.2800         9,400.00        197,338.00        209,432.00
+PEAPACK-GLADSTONE FI                       1.394 PGC     704699107     31.5500           740.00         20,912.40         23,347.00
+PEC SOLUTIONS INC                          0.000 PECS    705107100     14.1700        12,800.00        171,422.23        181,376.00
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     64.0500        28,200.00      1,201,670.36      1,806,210.00
+PEETS COFFEE & TEA I                       0.000 PEET    705560100     26.4700         3,400.00         82,322.28         89,998.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     12.6000        24,100.00        352,640.55        303,660.00
+PEGASYSTEMS INC                            0.000 PEGA    705573103      8.5300        12,600.00        100,214.75        107,478.00
+PEMSTAR INC                                0.000 PMTRE   706552106      1.8100             1.00              3.51              1.81
+PENN ENGR & MFG CORP                       1.547 PNN     707389300     18.1000        23,400.00        403,159.56        423,540.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     60.5500        35,600.00        825,833.41      2,155,580.00
+PENN VA CORP                               1.109 PVA     707882106     40.5700        20,300.00        484,872.68        823,571.00
+PENN-AMERICA GROUP INC                     1.589 PNG     707247102     15.1000        25,200.00        345,470.17        380,520.00
+PENNFED FINL SVCS IN                       1.243 PFSB    708167101     16.0800        10,000.00        143,121.08        160,800.00
+PENNROCK FINL SVCS C                       2.261 PRFS    708352109     38.9100         8,500.00        245,861.48        330,735.00
+PENWEST PHARMACEUTIC                       0.000 PPCO    709754105     11.9600        18,400.00        205,203.58        220,064.00
+PEOPLES BANCORP INC                        2.624 PEBO    709789101     27.4300        11,800.00        307,735.83        323,674.00
+PEOPLES ENERGY CORP                        4.914 PGL     711030106Q    43.9500        41,700.00      1,570,516.96      1,832,715.00
+PEOPLES HLDG CO                            2.537 PHC     711148106     33.1000         9,950.00        315,051.76        329,345.00
+PEP BOYS MM & J                            1.581 PBY     713278109Q    17.0700        64,100.00      1,028,341.24      1,094,187.00
+PER-SE TECHNOLOGIES                        0.000 PSTI    713569309     15.8300         9,200.00        127,030.20        145,636.00
+PEREGRINE PHARMACEUT                       0.000 PPHM    713661106      1.1700       139,700.00        223,886.85        163,449.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     26.9100        42,200.00      1,422,013.32      1,135,602.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105      9.4300        24,600.00        423,021.72        231,978.00
+PERINI CORP                                0.000 PCR     713839108     16.6900        22,500.00        237,554.79        375,525.00
+PEROT SYSTEMS COPR. CL. A                  0.000 PER     714265105     16.0300        95,900.00      1,169,542.15      1,537,277.00
+PERRIGO CO.                                0.926 PRGO    714290103     17.2700        79,900.00        944,885.68      1,379,873.00
+PERRY ELLIS INTERNATIONAL                  0.000 PERY    288853104     20.3500         6,000.00        149,664.42        122,100.00
+PETROLEUM DEVELOPMENT CORP                 0.000 PETD    716578109     38.5700        23,000.00        314,296.34        887,110.00
+PFF BANCORP INC                            1.726 PFB     69331W104     46.3300        13,740.00        442,671.23        636,574.20
+PHARMACYCLICS INC                          0.000 PCYC    716933106     10.4700        40,300.00        413,766.18        421,941.00

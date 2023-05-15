@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 106
+ASOF02   Date 01/24/2002 Time 21:29:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 108
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK - EXTERNALLY MANAGED
 Portfolio  - 6JL       JACOBS LEVY - VALUE
 Instrument - COM       COMMON STOCK
 
-AIRBORNE INC.                              1.078 ABF     009269101Q    14.8300        14,600.00        181,352.00        216,518.00
-AMCOL INTERNATIONAL CORP.                  0.833 ACO     02341W103      7.2000        12,100.00         73,083.70         87,120.00
-AMERICAN FINANCIAL HLDGS INC.              2.597 AMFH    026075101     25.4100        12,032.00        302,495.91        305,733.12
-ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100         1,700.00         59,534.00         65,467.00
-ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300        12,100.00         79,864.00         49,973.00
-ANCHOR BANCORP WISCONSIN INC.              1.860 ABCW    032839102     17.7400         3,300.00         45,845.25         58,542.00
-ANGELICA CORP                              2.952 AGL     034663104     10.8400         3,100.00         29,263.20         33,604.00
-ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100        14,300.00        389,341.44        414,843.00
-APOGEE ENTERPRISES INC.                    1.390 APOG    037598109     15.8200         3,884.00         24,217.65         61,444.88
-APTAR GROUP INC.                           0.685 ATR     038336103Q    35.0300         8,300.00        263,810.79        290,749.00
-ARCH CHEMICALS INC.                        3.448 ARJ     03937R102     23.2000         3,300.00         64,069.50         76,560.00
-ARCTIC CAT INC.                            1.411 ACAT    039670104     17.0000         4,500.00         58,767.00         76,500.00
-AUDIOVOX CORP                              0.000 VOXX    050757103      7.4600         8,300.00         86,501.15         61,918.00
-AVISTA CORP                                3.619 AVA     05379B107     13.2600        33,400.00        574,134.49        442,884.00
-AZTAR CORP.                                0.000 AZR     054802103     18.3000        28,200.00        408,693.96        516,060.00
-BASSETT FURNITURE INDS.                    5.710 BSET    070203104Q    14.0100         2,600.00         36,807.16         36,426.00
-BE AEROSPACE INC.                          0.000 BEAV    073302101      9.1700        27,900.00        256,226.59        255,843.00
-BELL MICROPRODUCTS INC                     0.000 BELM    078137106     12.6200        17,900.00        242,612.77        225,898.00
-BROWN SHOE COMPANY INC                     2.463 BWS     115736100Q    16.2400        14,600.00        143,118.54        237,104.00
-BUILDING MATERIALS HLDG. CORP.             0.000 BMHC    120113105     10.8500         5,800.00         64,779.04         62,930.00
-BURLINGTON COAT FACTORY WAREHO             0.119 BCF     121579106     16.8000        21,000.00        394,786.31        352,800.00
-CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109     13.6800         7,800.00         91,416.00        106,704.00
-CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850         6,000.00         89,242.20        236,910.00
-CAPTARIS INC.                              0.000 CAPA    14071N104      3.6900        27,800.00         59,581.57        102,582.00
-CASCADE NATURAL GAS CORP.                  4.353 CGC     147339105     22.0500         4,400.00         76,177.77         97,020.00
-CASH AMERICAN INT’L. INC.                  0.588 PWN     14754D100      8.5000        16,700.00        125,823.00        141,950.00
-CENTRAL HUDSON GAS & ELEC.                 4.968 CHG     12541M102     43.4700         8,900.00        375,534.98        386,883.00
-CHARTER MUNICIPAL MTG ACCEPTAN             7.138 CHC     160908109     16.2500         3,900.00         50,746.80         63,375.00
-CHESAPEAKE CORP                            3.164 CSK     165159104     27.8100         4,600.00        103,638.00        127,926.00
-CHITTENDEN CORPORATION                     2.753 CHZ     170228100     27.6000         7,750.00        155,849.40        213,900.00
-CIRCUIT CITY STORES-CARMAX                 0.000 KMX     172737306     22.7400        12,100.00        177,931.50        275,154.00
-COHU INC.                                  1.012 COHU    192576106     19.7500        14,700.00        324,869.52        290,325.00
-COMMERCIAL FEDERAL CORP.                   1.361 CFB     201647104     23.5000        22,000.00        519,123.65        517,000.00
-COMPUTER TASK GROUP INC.                   0.000 CTG     205477102      3.9400         3,100.00         16,104.50         12,214.00
-COMSTOCK RESOURCES INC                     0.000 CRK     205768203      7.0000         3,800.00         26,090.80         26,600.00
-CONMED CORPORATION                         0.000 CNMD    207410101     19.9600        17,400.00        243,808.53        347,304.00
-CORN PRODUCTS INT’L INC.                   1.134 CPO     219023108     35.2500        10,900.00        280,154.77        384,225.00
-COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     19.9500        29,000.00        515,931.97        578,550.00
-D.R. HORTON INC.                           0.616 DHI     23331A109     32.4600        16,701.00        308,299.28        542,114.46
+KANSAS CITY SOUTHERN INDS                  0.000 KSU     485170302Q    14.1300        33,300.00        434,221.28        470,529.00
+KIRBY CORP.                                0.000 KEX     497266106     27.5500         5,500.00        140,323.92        151,525.00
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101     17.1500        17,500.00        226,231.37        300,125.00
+LACLEDE GROUP HLDG. CO.                    5.606 LG      505597104     23.9000         8,200.00        186,068.65        195,980.00
+LANDAMERICA FINANCIAL GROUP                0.696 LFG     514936103     28.7000        11,500.00        436,067.14        330,050.00
+LANDRY’S RESTAURANTS INC.                  0.536 LNY     51508L103     18.6500        21,100.00        236,224.76        393,515.00
+LITHIA MOTORS INC - CL A                   0.000 LAD     536797103     20.7000         4,400.00         86,412.93         91,080.00
+LONE STAR STEAKHOUSE & SALOON              3.371 STAR    542307103     14.8300        17,100.00        204,051.10        253,593.00
+MAF BANCORP INC                            1.627 MAFB    55261R108     29.5000         8,300.00        198,591.17        244,850.00
+MDC HOLDINGS INC                           0.740 MDC     552676108     37.7900        13,673.00        353,875.34        516,702.67
+MESABA HOLDINGS INC                        0.000 MAIR    59066B102      7.1200         5,000.00         45,762.28         35,599.99
+MIDAS INC.                                 2.782 MDS     595626102     11.5000        12,000.00        132,027.69        138,000.00
+MONACO COACH CORPORATION                   0.000 MNC     60886R103     21.8700        21,600.00        370,656.00        472,392.00
+NASH FINCH CO.                             1.157 NAFC    631158102     31.1000         6,100.00        100,583.52        189,710.00
+NORTHWESTERN CORPORATION                   6.033 NOR     668074107     21.0500         4,000.00         82,280.00         84,200.00
+NUI CORP                                   4.135 NUI     629431107     23.7000         7,400.00        228,700.44        175,380.00
+OFFSHORE LOGISTICS                         0.000 OLOG    676255102     17.7600        19,600.00        434,542.56        348,096.00
+OSHKOSH TRUCK CORPORATION                  0.717 OTRKB   688239201     48.7500         9,400.00        411,156.15        458,250.00
+PACIFICARE HEALTH SYSTEM                   0.000 PHSY    695112102     16.0000         3,300.00         52,015.83         52,800.00
+PAREXEL INT’L CORP.                        0.000 PRXL    699462107     14.3500         3,000.00         51,165.00         43,050.00
+PARK ELECTROCHEMICAL CORP.                 0.909 PKE     700416209     26.4000         7,050.00        263,000.35        186,120.00
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     33.9200         5,700.00        175,237.95        193,344.00
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     14.2000        21,500.00        234,439.00        305,300.00
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105     14.5000         9,800.00        237,940.08        142,100.00
+PHILLIPS-VAN HEUSEN                        1.376 PVH     718592108     10.9000        20,800.00        269,034.21        226,720.00
+PIER 1 IMPORTS INC/DEL                     0.922 PIR     720279108     17.3400        37,200.00        519,045.80        645,048.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      7.9400        31,100.00        263,493.80        246,934.00
+POGO PRODUCING CO                          0.456 PPP     730448107     26.2700        16,400.00        387,961.94        430,828.00
+POPE & TALBOT INC                          4.210 POP     732827100     14.2500         5,900.00         73,868.00         84,075.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     11.0500        33,500.00        345,597.01        370,175.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-JAC  IT-JAC         1.0000       379,331.39        379,331.39        379,331.39
+PROVIDENT BANKSHARES CORPORATI             3.292 PBKS    743859100     24.3000        15,750.00        328,166.88        382,725.00
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100      8.1600        11,700.00         71,001.45         95,472.00
+PUBLIC SERVICE CO OF N MEX                 2.862 PNM     69349H107     27.9500         9,100.00        270,482.00        254,345.00
+QUANEX CORP                                2.261 NX      747620102     28.3000         7,900.00        205,363.92        223,570.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     17.2000        14,800.00        250,934.00        254,560.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     22.5400        13,800.00        314,791.80        311,052.00
+RAYMOND JAMES FINANCIAL INC                1.013 RJF     754730109     35.5200         3,200.00         89,721.00        113,664.00
+RCN CORPORATION                            0.000 RCNC    749361101      2.9300         4,800.00         14,243.04         14,064.00

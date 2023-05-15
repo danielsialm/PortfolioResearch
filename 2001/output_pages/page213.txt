@@ -1,4 +1,4 @@
-ASOF03   Date 01/24/2002 Time 21:29:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 007
+ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 009
 
 Monthly Market Portfolio
 
@@ -6,45 +6,49 @@ Investment Desc                                               Yield         Iden
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - RES       RE SOUTH REGION
-Instrument - R         RETAIL
+Portfolio  - REW       RE WEST REGION
+Instrument - A         APARTMENT
 
-LAKELAND PLAZA                 CUMMINS, GA                     9.500         RLAKPL                 21,691,549.74     24,530,000.00
-LONGS DRUGS #02                GRASS VALLEY                    8.750         RLD002                  1,100,000.00      1,900,000.00
-LONGS DRUGS #05                LANCASTER                       8.750         RLD005                    700,000.00        900,000.00
-LONGS DRUGS #08                MADERA                          9.000         RLD008                    925,000.00        900,000.00
-LONGS DRUGS #09                SACRAMENTO                      9.250         RLD009                    925,000.00        800,000.00
-LONGS DRUGS #11                WOODLAND                        9.000         RLD011                  1,000,000.00      1,300,000.00
-LONGS DRUGS #13                SALINAS                        10.375         RLD013                    900,000.00      1,500,000.00
-LONGS DRUGS #17                SIMI VALLEY                    10.375         RLD017                  1,500,000.00      1,500,000.00
-LONGS DRUGS #18                REDLANDS                       10.375         RLD018                  1,000,000.00      1,200,000.00
-LONGS DRUGS #19                FRESNO                         10.375         RLD019                  1,350,000.00      1,300,000.00
-LONGS DRUGS #20                BAKERSFIELD                    10.625         RLD020                  1,450,000.00      1,400,000.00
-LUCKY #01                      TUCSON                          8.750         RLS001                  1,150,000.00      1,370,000.00
-LUCKY #04                      TRUCKEE                         8.750         RLS004                  1,600,000.00      2,100,000.00
-LUCKY #05                      ORCUTT                          8.750         RLS005                  1,300,000.00      1,300,000.00
-LUCKY #10                      ARROYO GRANDE                   8.750         RLS010                  1,400,000.00      1,400,000.00
-LUCKY #11                      ATASCADERO                      9.100         RLS011                  1,750,000.00      1,500,000.00
-PRESTON VILLAGE CENTER         PLANO, TX                       0.000         RPRSTV                 46,681,715.06     44,279,380.81
-SAFEWAY #09                    WILLIAMSBURG                   10.500         RSAF09                  2,151,000.00      2,300,000.00
-SOUTHLAKE                      DALLAS TX                       0.000         REGDAL                  4,668,387.09      4,380,000.00
-SUPER X #01                    WINCHESTER                     10.250         RSPX01                    639,058.80        500,000.00
-SUPER X #04                    PADUCAH                        10.250         RSPX04                    531,000.00        600,000.00
-TG&Y #01                       ABBEVILLE                      10.000         RTGY01                    134,300.00        300,000.00
-TG&Y #02                       SAN BENITO                     10.000         RTGY02                  1,500,000.00      1,700,000.00
-TG&Y #03                       LUCEDALE                       10.000         RTGY03                     67,742.00        600,000.00
-TG&Y #05                       OZARK                          10.000         RTGY05                    781,054.30        750,000.00
-TG&Y #13                       LANDRUM SC                     10.000         RTGY13                    700,000.00        300,000.00
-TG&Y #19                       HATTIESBURG                    10.000         RTGY19                  1,973,006.55      2,500,000.00
-TG&Y #23                       VALDOSTA                       10.000         RTGY23                    745,649.92      2,700,000.00
-TG&Y #29                       HAZARD                         10.000         RTGY29                  2,000,000.00      1,800,000.00
-WAL-MART #03                   SPRINGFIELD                    10.000         RWAL03                  1,486,566.00      2,200,000.00
-WAL-MART #25                   HOUSE SPRINGS                  10.000         RWAL25                  1,614,133.00      2,200,000.00
-WAL-MART #28                   GRAHAM                         10.000         RWAL28                  1,457,000.00      1,900,000.00
-WAL-MART #30                   MARLIN                         10.000         RWAL30                  1,365,000.00      1,500,000.00
-WAL-MART #38                   MARSHALL                       10.000         RWAL38                  1,832,846.00      2,400,000.00
-WAL-MART #39                   EDMOND                         10.000         RWAL39                  2,565,000.00      3,900,000.00
-WAL-MART #42                   RUSSELLVILLE                   10.000         RWAL42                  1,503,000.00      1,800,000.00
-WAL-MART #43                   EL CAMPO                       10.000         RWAL43                  1,697,000.00      2,200,000.00
-WAL-MART #44                   HOT SPRINGS                    10.000         RWAL44                  2,212,000.00      2,200,000.00
-WAL-MART #52                   PARSONS                        10.000         RWAL52                  1,449,000.00      2,200,000.00
+CHARTER APARTMENTS             ORANGE COUNTY CA                7.880         RCHART                 31,433,300.00     50,200,000.00
+ELLIOTT BAY PLAZA              SEATTLE WA                      5.960         RELBAY                 19,587,164.88     29,500,000.00
+HEIGHTS AT BEAR CREEK          SEATTLE, WA                     0.077         RHBCRK                 29,581,086.92     25,200,000.00
+OVERLOOK APARTMENTS            SAN DIEGO CA                    7.720         ROVRLK                 23,534,580.00     34,700,000.00
+
+Instrument Total             4                                                                     104,136,131.80    139,600,000.00
+
+Instrument -I      INDUSTRIAL
+
+FLEMING BUSINESS PARK          SAN JOSE CA                     6.900         RFLMNG                 72,377,344.80    113,999,999.74
+NORTH COUNTY CORP.CENTER       VISTA,CA                        0.000         RNCCCT                 30,550,843.65     26,099,999.66
+THOROUGHBRED PHASE 1           RIVERSIDE CA                    9.200         RTHORO                 18,000,000.00     22,500,000.00
+THOROUGHBRED PHASE 2           RIVERSIDE CA                    0.000         RTHOR2                 19,070,686.00     22,000,000.00
+THOROUGHBRED PHASE III         RIVERSIDE, CA                   0.000         RTHOR3                 19,414,595.69     22,200,000.00
+
+Instrument Total             5                                                                     159,413,470.14    206,799,999.40
+
+Instrument -O      OFFICE
+
+2030 MAIN STREET               IRVINE, CA                      0.000         RMAINS                 89,848,635.63     69,500,000.00
+44 MONTGOMERY                  SAN FRANCISCO CA                7.080         RMON44                111,738,268.27    217,000,000.00
+900 E. HAMILTON AVE.           CAMPBELL CA                     0.000         RHMLTN                 87,179,192.00    104,000,000.00
+CALIFORNIA CASUALTY CENTER     SAN FRANSISCO, CA               0.000         RCACAS                 66,422,311.55     75,200,000.00
+DOUGLAS EMMETT REALTY FUND     LOS ANGELES CA                  7.000         RDERF1                 23,070,919.00     40,333,000.00
+GLENDALE CITY CENTER           GLENDALE, CA                    0.096         RGLNDC                 57,150,986.25     50,400,000.01
+MARINA VILLAGE                 SAN FRANCISCO CA               10.000         RMNAVL                 39,231,466.11     86,500,000.00
+OAKLAND CITY CENTER            OAKLAND, CA                     7.900         ROAKCC                 68,890,089.50     87,340,169.00
+ONE CALIFORNIA                 SAN FRANCISCO CA               11.030         RONECA                 42,794,517.64     71,600,000.00
+THE SUMMIT                     ALISO VIEJO, CA                 0.000         RSUMIT                107,218,125.00    101,000,000.00
+
+Instrument Total            10                                                                     693,544,510.95    902,873,169.01
+
+Instrument -R      RETAIL
+
+ANAHEIM HILLS                  ANAHEIM                         9.000         RANAHL                 52,321,063.85     50,600,000.00
+CLAIREMONT SQ. SHOP. CTR.      SAN DIEGO                       9.800         RCMSQ1                 52,686,112.66     54,800,000.02
+GALLERIA AT TYLER              RIVERSIDE                       8.000         RTYMAL                126,326,085.78    135,000,000.00
+WHITNEY RANCH                  LAS VEGAS                      10.000         RWHTR1                 11,304,660.26     14,700,000.00
+
+Instrument Total             4                                                                     242,637,922.55    255,100,000.02
+
+Portfolio Total             23                                                                   1,199,732,035.44  1,504,373,168.43
+

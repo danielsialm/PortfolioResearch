@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 179
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+TORO CO                                    0.517 TTC     891092108     46.4000        18,600.00        661,374.69        863,040.00
+TRAMMELL CROW CO                           0.000 TCC     89288R106     13.2500        12,500.00        127,237.30        165,625.00
+TRANS WORLD ENTERTAINMENT CP               0.000 TWMC    89336Q100      7.1200        11,100.00         71,108.71         79,032.00
+TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     15.6100            19.00            208.24            296.59
+TREDEGAR CORPORATION                       1.030 TG      894650100     15.5300        15,300.00        237,607.47        237,609.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     33.2700         3,500.00        115,607.80        116,445.00
+TTM TECHNOLOGIES                           0.000 TTMI    87305R109     16.8800        16,800.00        151,090.73        283,584.00
+U S B HLDG INC                             2.062 UBH     902910108     19.3900         1,470.00         25,744.90         28,503.30
+U S XPRESS ENTERPRIS                       0.000 XPRSA   90338N103     12.2500         4,834.00         57,161.57         59,216.50
+UGI CORP                                   3.362 UGI     902681105     33.9000         1,200.00         40,430.16         40,680.00
+UMB FINL CORP                              1.766 UMBF    902788108     47.5400           194.00          9,286.00          9,222.76
+UNIFI INC                                  0.000 UFI     904677101      6.4500        54,100.00        247,365.00        348,945.00
+UNIFIRST CORP                              0.632 UNF     904708104Q    23.7100         5,300.00        131,656.77        125,663.00
+UNITED FIRE & CAS CO                       1.982 UFCS    910331107     40.3600         2,900.00        110,858.97        117,044.00
+UNIVERSAL FOREST PRODUCTS                  0.310 UFPI    913543104     32.1800        22,000.00        466,369.00        707,960.00
+UNIZAN FINANCIAL COR                       2.666 UNIZ    91528W101     20.2500         1,900.00         33,748.37         38,475.00
+UNOVA INC.                                 0.000 UNA     91529B106     22.9500        41,600.00        490,224.88        954,720.00
+US ONCOLOGY INC.                           0.000 USON    90338W103     10.7600        16,000.00        129,680.00        172,160.00
+USEC INC.                                  6.547 USU     90333E108      8.4000        44,300.00        256,618.86        372,120.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     17.0000        24,400.00        347,256.50        414,800.00
+VANS INC                                   0.000 VANS    921930103     11.4100        32,800.00        307,591.78        374,248.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104      9.1500         5,800.00         51,917.54         53,070.00
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     20.6000        24,900.00        362,594.41        512,940.00
+VICAL INC                                  0.000 VICL    925602104      4.9200        12,400.00         62,682.44         61,008.00
+VOLT INFO. SCIENCES INC.                   0.000 VOL     928703107     22.6000         5,300.00         69,893.40        119,780.00
+WASHINGTON FEDERAL INC.                    3.098 WFSL    938824109     28.4000         6,929.00        149,095.76        196,783.60
+WASHINGTON GROUP INTERNATIONAL             0.000 WGII    938862208     33.9700        26,300.00        659,715.57        893,411.00
+WATSCO INC.                                1.407 WSO     942622200     22.7300         8,500.00        104,541.00        193,205.00
+WAYPOINT FINANCIAL CORP                    2.213 WYPT    946756103     21.6900        22,260.00        381,792.45        482,819.40
+WCI COMMUNITIES INC                        0.000 WCI     92923C104     20.6100        14,000.00        275,048.25        288,540.00
+WEST PHARMACEUTICAL SERVICES               2.477 WST     955306105     33.9000         5,800.00        157,835.18        196,619.99
+WHITNEY HOLDING CORP                       3.220 WTNY    966612103     40.9900        11,401.00        379,575.05        467,326.99
+WMS INDUSTRIES INC                         0.000 WMS     929297109     26.2000        12,800.00        326,976.00        335,360.00
+WOLVERINE WORLD WIDE                       1.079 WWW     978097103     20.3800        33,900.00        469,196.15        690,882.00
+WSFS FINL CORP                             0.445 WSFS    929328102     44.8500         9,300.00        410,625.89        417,105.00
+YARDVILLE NATL BANCO                       1.787 YANB    985021104     25.7400         5,200.00         99,996.00        133,848.00
+
+Instrument Total           309                                                     5,448,654.92     74,063,956.20     90,007,772.75
+

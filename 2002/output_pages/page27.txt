@@ -1,0 +1,20 @@
+ASOF01   Date 01/21/2003 Time 18:52:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - FIDELITY  FIDELITY INVESTMENTS
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+FIDELITY - FIXED INCOME            0.0000  0.000 IF-FIDELIT         00/00/0000     1,585,909.87    158,590,987.67
+FIDELITY - LIQUIDITY               0.0000  0.000 IL-FIDELIT         00/00/0000       169,645.86     16,964,586.38
+
+Instrument Total             2                                                     1,755,555.74    175,555,574.05
+
+Portfolio Total              2                                                     1,755,555.74    175,555,574.05    186,389,423.79
+
+Group Total                 12                                  8,924,437.96 /             0.00    892,443,796.06    888,708,471.02
+

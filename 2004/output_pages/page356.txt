@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HANSSEM CO LTD                               0.002     6536684      00924       144,000.00        1,125,089.30
+HARMONY GOLD MINING CO                       0.242     6410562      HAR_S       100,000.00        1,299,286.66
+HINDALCO INDUSTRIES LIMITED                  0.026     6100142      HNDL_        16,000.00          480,645.09
+HINDUSTAN LEVER                              0.088     6261674      HLVR_       375,000.00        1,427,555.51
+HINDUSTAN PETROLEUM CORP                     0.120     6100476      HPCL_        59,000.00          335,466.51
+HONG LEONG BANK                              1.148     6436892      HLBK_       350,000.00          488,893.42
+HOUSING DEVELOPMENT FINANCE                  0.040     6171900      HDFC_        40,000.00          283,025.13
+HURRIYET GAZETECILIK                         0.000     4445276      HURGZ   122,382,000.00          108,688.57
+HYOSUNG CORPORATION                          0.000     6896838      00480       211,640.00        1,962,056.58
+HYUNDAI MARINE AND FIRE INS. CO              0.005     B01LXY6      00145       260,000.00          561,545.92
+HYUNDAI MOTOR CO K                           0.001     6451055      00538        89,116.00        1,753,813.98
+HYUNDAI PRECISION                            0.001     6449544      01233         8,000.00          366,294.11
+ICICI BANK LTD                               0.046     6100368      ICICI       188,000.00          573,440.87
+IDB HOLDING CORP O                           5.005     6456726      IDBH_        50,000.00        1,301,367.03
+IMPERIAL HLDGS R0.                           0.538     6458874      IPL_S       150,000.00        1,616,567.53
+INFOSYS TECHNOLOGIES LTD                     0.022     6205122      INFO_        64,000.00        1,163,725.28
+IOI CORPORATION BERHAD                       0.914     6464514      IOI_M       553,180.00          416,482.43
+ISRAEL CORP ORD SH                           0.485     6889678      ILCO_         2,200.00          238,199.60
+JSC NORILSK NICEL                           75.855     7131431      GMKN_        38,000.00          713,925.00
+KASIKORNBANK                                 0.000     6888794      KBANK       467,800.00          566,602.38
+KEUMKANG KRW5000                             0.003     6490917      00238        12,200.00          904,460.03
+KGHM POLSKA MIEDZ                            1.067     5263251      KGH_P        62,000.00          277,193.17
+KOC HOLDING                                  0.000     4491484      KCHOL   105,591,000.00          340,360.48
+KOMERCNI BANKA                               0.274     4519449      KOMB_        20,000.00        1,471,016.05
+KOOKMIN BANK KRW50                           0.002     6419365      06000       186,449.00        5,020,785.70
+KOREA ELEC POWER K                           0.003     6495730      01576       166,000.00        2,998,071.23
+KOREA TELECOM CORPORATION                    0.004     6505316      03020        72,400.00        2,729,033.68
+KOREA TELECOM FREETEL                        0.002     6201421      03239        51,395.00        1,302,876.36
+KRUNG THAI BANK PUB CO - FOREIGN             0.134     6492838      KTB/F     1,541,000.00          400,172.74
+LAND + HOUSES THBH                           0.285     6581930      LH/F_     2,454,000.00          604,692.00
+LARSEN & TOUBRO LIMITED                      0.037     B0166K8      LT_IN        25,000.00          192,290.74
+LARSEN + TOUBRO GDR                          1.520     4544344      LTOD_        28,000.00          317,100.00
+LG CABLE +MCHY KSW                           0.004     6375780      00626       100,860.00          966,437.87
+LG ELECTRONICS/NEW                           0.001     6520739      06657        22,200.00          903,640.13
+LITE-ON TECHNOLOGY CORP                      0.118     6519481      2301_     2,360,600.00        1,752,604.50
+LUKOIL-US$                                  79.077     4560588      LKOH_        95,000.00        1,582,700.00
+MAHANAGAR TELEPHONE NIGAM                    0.066     6117807      ZMTNL        92,000.00          253,157.27
+MALAKOFF BERHAD                              1.023     6555924      MAL_M     1,064,505.00          867,507.29
+MALAYAN BANKING BERHAD                       0.780     6556325      MAY_M       745,000.00        1,638,826.66

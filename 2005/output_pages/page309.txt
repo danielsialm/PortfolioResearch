@@ -1,0 +1,50 @@
+ASOF09   Date 01/19/2006 Time 18:25:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+EXPORT DEVELOPMENT CORP              4.162 30215HB17                          8,500,000.00        8,470,148.16
+FNMA DISCOUNT NOTES                  4.212 313589RZ8                         25,000,000.00       24,948,735.03
+
+Instrument Total               2                                             33,500,000.00       33,418,883.19
+
+Instrument -FRB       FLOATING RATE CORPORATE BOND
+
+AMERICAN HONDA FINANCE         A1    3.496 02666QWS8        Q                20,000,000.00       20,010,877.22
+
+Instrument Total               1                                             20,000,000.00       20,010,877.22
+
+Instrument -FRBES     FLOATING RATE CORPORATE BOND
+
+ABBEY NATL TREASURY SERV       AA3   3.483 002799AG9        Q                40,000,000.00       40,009,250.85
+ABN AMRO BANK NV               AA3   3.930 00080QAC9        Q                20,000,000.00       20,020,982.03
+ALLSTATE GLOBAL FUNDING II     AA2   1.568 02003EAF9        Q                25,000,000.00       25,000,239.67
+ALLSTATE LIFE GLOB FD TR       AA2   1.913 02003MAD6        Q                15,000,000.00       15,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.170 02580EAB9        M                25,000,000.00       25,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.417 02580EAC7        M                15,000,000.00       15,000,000.00
+AMERICAN EXPRESS CREDIT ACCOUN AAA   1.275 02582JBL3        M                10,000,000.00       10,003,716.08
+AMERICAN HONDA FINANCE         A1    3.417 02666QWE9        Q                20,000,000.00       20,001,342.43
+ASIF GLOBAL FINAN XXV          AA2   3.812 045193AA7        Q                40,000,000.00       40,037,032.72
+BANK OF NEW YORK               AA2   4.377 06420AFA9        Q                40,000,000.00       39,989,083.68
+BANK OF NOVA SCOTIA            AA3   2.906 06416LNS3        Q                40,000,000.00       39,980,290.38
+BANK ONE CORP                  AA3   1.874 06422NHH2        Q                25,460,000.00       25,473,036.07
+BANK ONE ISSUANCE TRUST (EXPEC AAA   4.230 06423RBF2        M                25,000,000.00       25,071,430.21
+BELLSOUTH CORP                 A2    4.041 079860AH5        Q                39,450,000.00       39,504,108.41
+BRANCH BANKING & TRUST         AA2   4.364 10513QBG5        Q                35,000,000.00       35,000,000.00
+CATERPILLAR FIN SERV CRP       A2    2.967 14912LZ87        Q                25,000,000.00       25,008,701.08
+CATERPILLAR FINANCE SERVICE    A2    1.374 14912LZ95        Q                14,000,000.00       13,999,911.75
+CHASE CREDIT CARD MASTER TRUST AAA   4.228 16151RCX9        M                28,350,000.00       28,433,631.99
+CITIGROUP INC                  AA1   4.289 172967CR0        Q                26,585,000.00       26,617,828.76
+CITIGROUP INC                  AA1   4.484 172967CL3        Q                13,000,000.00       13,013,392.82
+FANNIE MAE                     AAA   0.064 31359MYD9        Q                24,000,000.00       23,988,830.15
+FEDERAL HOME LOAN BANK         AAA   3.351 3133XCAB9        Q                60,000,000.00       59,985,916.89
+GOLDMAN SACHS GROUP INC        AA3   2.049 38141EJT7        Q                40,000,000.00       40,000,000.00
+HBOS TREASURY SRVCS PLC        AA2   3.820 4041A0BH0        Q                40,000,000.00       40,013,634.26
+HSBC BANK USA                  AA2   1.518 40428AFF9        Q                30,000,000.00       30,001,381.42
+HSBC FINANCE CORP              A1    3.817 40429JAC1        Q                10,000,000.00       10,002,665.70

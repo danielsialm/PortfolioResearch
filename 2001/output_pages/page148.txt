@@ -1,39 +1,22 @@
-ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 119
+ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 121
 
 Monthly Market Portfolio
 
 Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - COMMON STOCK - EXTERNALLY MANAGED
-Portfolio  - 6NC       NEXT CENTURY GROWTH
-Instrument - COM       COMMON STOCK
+Group - ALTERNATIVE INVESTMENTS
+Portfolio  - AI-GIP    GLOBAL/INT’L PRIVATE
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
 
-NETIQ CORP                                 0.000 NTIQ    64115P102     35.2600        31,780.00        978,289.39      1,120,562.80
-O’REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     36.4700        26,630.00        718,959.94        971,196.10
-OCEANEERING INT’L. INC.                    0.000 OII     675232102     22.1200        26,410.00        534,720.67        584,189.20
-OFFSHORE LOGISTICS                         0.000 OLOG    676255102     17.7600        31,500.00        737,569.48        559,440.00
-OMNICELL INC                               0.000 OMCL    68213N109      8.9000        81,600.00        649,604.55        726,240.00
-OVERTURE SERVICES INC                      0.000 OVER    69039R100     35.4300        57,660.00      1,555,558.90      2,042,893.80
-P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     47.3000        39,060.00      1,384,128.70      1,847,538.00
-PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     20.4200        64,920.00      1,379,164.08      1,325,666.40
-PANERA BREAD CO                            0.000 PNRA    69840W108     52.0400        14,700.00        491,018.43        764,988.00
-PRIME MONEY MARKET ACCOUNT                 0.000 IT-NEX  IT-NEX         1.0000       485,710.65        485,710.67        485,710.67
-RETEK INC                                  0.000 RETK    76128Q109     29.8700        61,680.00      1,490,666.31      1,842,381.61
-RIVERSTONE NETWORKS INC                    0.000 RSTN    769320102     16.6000       103,000.00        953,388.27      1,709,800.00
-SURMODICS INC                              0.000 SRDX    868873100     36.4600        16,410.00        573,554.33        598,308.60
-TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     16.1700       100,800.00      1,348,184.60      1,629,936.00
-THQ INC                                    0.000 THQI    872443403     48.4700        30,930.00      1,325,667.44      1,499,177.10
-TRANSKARYOTIC THERAPIES INC.               0.000 TKTX    893735100     42.8000        15,360.00        603,697.44        657,408.00
-UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     32.5900        48,475.00      1,571,422.15      1,579,800.25
-UROLOGIX INC                               0.000 ULGX    917273104     20.0500        30,670.00        549,683.29        614,933.51
-VERISITY LTD                               0.000 VRST    M97385112     18.9500        41,050.00        543,041.68        777,897.50
-WET SEAL INC                               0.000 WTSLA   961840105     23.5500        26,100.00        618,069.39        614,655.00
-WRIGHT MEDICAL GROUP INC                   0.000 WMGI    98235T107     17.9000        40,100.00        592,796.25        717,790.00
+AIG GLOBAL EMERGING MARKETS                0.000 AIGG    VEA02504       0.0000    43,996,626.01     43,996,626.03     34,406,650.00
+GILBERT GLOBAL EQUITY PARTNERS             0.000 GILBERTGAGILBERTG      0.0000    46,575,565.62     46,575,565.65     50,507,297.99
+HARBOURVEST INT’L III-DIRECT               0.000 HVIPE   VEA02633       0.0000    17,885,309.00     17,885,309.02     13,342,277.00
+HARBOURVEST INT’L III-PARTNERS             0.000 9940482FAHARBPART      0.0000    35,305,835.00     35,305,834.96     30,278,704.02
+HARBOURVEST INT’L IV-DIRECT                0.000 9940550GAGHIPEP4D      0.0000     1,500,000.00      1,500,000.00      1,219,941.00
+HARBOURVEST INT’L IV-PARTNERSH             0.000 9940510DAGHIPEP4P      0.0000    10,800,000.00     10,800,000.00     10,194,960.99
 
-Instrument Total            60                                                     2,889,290.65     52,867,573.96     62,953,067.50
+Instrument Total             6                                                   156,063,335.63    156,063,335.66    139,949,831.00
 
-Portfolio Total             60                                                     2,889,290.65     52,867,573.96     62,953,067.50
-
-Group Total                718                                          0.00 /    36,006,365.10    347,514,538.76    390,755,741.86
+Portfolio Total              6                                                   156,063,335.63    156,063,335.66    139,949,831.00
 

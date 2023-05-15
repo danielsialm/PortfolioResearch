@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 118
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     12.5700         6,200.00         50,781.75         77,934.00
+PRA INTERNATIONAL                          0.000 PRAI    69353C101     28.1500         1,800.00         43,493.34         50,670.00
+PREFERRED BANK/LOS ANGELES                 1.528 PFBC    740367107     44.5000         2,000.00         77,895.13         89,000.00
+PREMIERWEST BANCORP                        0.357 PRWT    740921101     14.0000           100.00          1,489.76          1,400.00
+PRESIDENTIAL LIFE                          2.100 PLFE    740884101     19.0400           300.00          5,072.57          5,712.00
+PRICE COMMUNICATIONS CORP                  0.000 PR      741437305     14.8700         3,000.00         43,394.86         44,610.00
+PRIMEDIA INC                               0.000 PRM     74157K101      1.6100         7,700.00         29,098.96         12,397.00
+PROASSURANCE CORP                          0.000 PRA     74267C106     48.6400         1,200.00         41,011.39         58,368.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     28.3800           100.00          2,145.56          2,838.00
+PROGRESSIVE GAMING CORP                    0.000 PGIC    59862K108      9.8700         2,400.00         24,060.00         23,688.00
+PROQUEST COMPANY                           0.000 PQE     74346P102     27.9100         2,700.00         71,199.50         75,357.00
+PROSPERITY BANCSHARE                       1.391 PRSP    743606105     28.7400           200.00          5,202.65          5,748.00
+PROVIDENCE SERVICE CORP                    0.000 PRSC    743815102     28.7900         1,700.00         40,229.31         48,943.00
+PROVIDENT BANKSHARES CORPORATI             3.316 PBKS    743859100     33.7700           100.00          2,606.58          3,377.00
+PROVIDENT FINANCIAL SERVICES               1.944 PFS     74386T105     18.5100           300.00          5,299.40          5,553.00
+PROVIDENT NEW YORK BANCORP                 1.816 PBNY    744028101     11.0100           700.00          7,955.77          7,707.00
+PSYCHIATRIC SOLUTIONS INC                  0.000 PSYS    74439H108     58.7400         1,300.00         56,520.09         76,362.00
+QUALITY SYSTEMS INC                        0.000 QSII    747582104     76.7600           200.00          7,174.00         15,352.00
+QUANTA SERVICES INC.                       0.000 PWR     74762E102     13.1700           400.00          3,178.68          5,268.00
+QUEST SOFTWARE INC                         0.000 QSFT    74834T103     14.5900           200.00          2,553.51          2,918.00
+R & G FINANCIAL CORP CL-B                  2.840 RGF     749136107     13.2000           100.00          2,484.16          1,320.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102     12.1600         4,100.00         46,151.65         49,856.00
+RADIATION THERAPY SERVICES INC             0.000 RTSX    750323206     35.3100           400.00         10,787.08         14,124.00
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     10.3500           300.00          3,991.95          3,105.00
+RADISYS CORPORATION                        0.000 RSYS    750459109     17.3400           100.00          2,097.97          1,734.00
+RAILAMERICA INC                            0.000 RRA     750753105     10.9900           100.00          1,089.27          1,099.00
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    39.9100         1,900.00         58,262.86         75,829.00
+RAVEN INDUSTRIES INC                       0.970 RAVN    754212108     28.8500           100.00          1,423.48          2,885.00
+RBC BEARINGS INC                           0.000 ROLL    75524B104     16.2500         1,500.00         23,955.00         24,375.00
+RC2 CORP                                   0.000 RCRC    749388104     35.5200           100.00          2,973.81          3,552.00
+READERS DIGEST ASSOCIATION                 2.628 RDA     755267101     15.2200           300.00          4,873.19          4,566.00
+REALNETWORKS INC                           0.000 RNWK    75605L104      7.7600           400.00          2,585.32          3,104.00
+REDBACK NETWORKS                           0.000 RBAK    757209507     14.0600         5,700.00         44,074.30         80,142.00
+REDDY ICE HOLDINGS INC                     7.015 FRZ     75734R105     21.8100         1,800.00         36,954.00         39,258.00
+REGENT COMMUNICATIONS INC                  0.000 RGCI    758865109      4.6400           100.00            565.31            464.00
+REGIS CORP                                 0.414 RGS     758932107     38.5700           200.00          7,606.00          7,714.00
+REHABCARE GROUP INC                        0.000 RHB     759148109     20.2000           200.00          4,897.97          4,040.00
+RELIANCE STEEL & ALUMINUM                  0.654 RS      759509102     61.1200           400.00         10,972.23         24,448.00
+REMINGTON OIL & GAS CORP                   0.000 REM     759594302     36.5000           100.00          1,991.19          3,650.00

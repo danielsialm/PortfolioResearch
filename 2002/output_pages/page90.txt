@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 062
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+3COM CORP.                                 0.000 COMS    885535104      4.6300        54,109.00        841,291.58        250,524.67
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     26.8600        10,266.00        162,732.53        275,744.76
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     20.4600        14,400.00        334,152.23        294,624.00
+ACTIVISION INC                             0.000 ATVI    004930202     14.5900         9,900.00        254,452.70        144,441.00
+ACXIOM CORP.                               0.000 ACXM    005125109     15.3800        13,100.00        255,367.16        201,478.00
+ADTRAN INC.                                0.000 ADTN    00738A106     32.9000         5,500.00        210,024.92        180,950.00
+ADVANCE PCS                                0.000 ADVP    00790K109     22.2100        13,200.00        280,281.68        293,172.00
+ADVANCED FIBRE COMMUNICATION               0.000 AFCI    00754A105     16.6800        12,400.00        372,678.69        206,832.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     13.6300         4,800.00        293,227.69         65,424.00
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100     52.6500        19,500.00        624,478.20      1,026,675.00
+AGCO CORP.                                 0.000 AG      001084102     22.1000        11,000.00        260,763.50        243,100.00
+AGL RESOURCES INC                          4.444 ATG     001204106     24.3000         8,300.00        163,808.58        201,690.00
+AIRBORNE INC.                              1.078 ABF     009269101Q    14.8300         7,100.00        140,717.93        105,293.00
+AIRGAS INC                                 0.000 ARG     009363102     17.2500        10,500.00        165,046.92        181,125.00
+AK STEEL HOLDING CORP                      3.125 AKS     001547108      8.0000        15,900.00        285,907.10        127,200.00
+ALASKA AIRGROUP INC                        0.000 ALK     011659109     21.6500         3,900.00        146,976.92         84,435.00
+ALBANY INTL CL-A                           1.064 AIN     012348108Q    20.6600         4,813.00        107,461.80         99,436.58
+ALBEMARLE CORP                             1.968 ALB     012653101     28.4500         6,100.00        140,459.48        173,545.00
+ALEXANDER & BALDWIN INC                    3.489 ALEX    014482103     25.7900         6,100.00        160,968.31        157,319.00
+ALLETE, INC.                               4.850 ALE     018522102     22.6800        12,600.00        245,562.52        285,768.00
+ALLIANT ENERGY CORPORATION                12.084 LNT     018802108     16.5500        13,454.00        380,673.08        222,663.70
+ALLMERICA FINANCIAL CORP.                  2.475 AFC     019754100     10.1000         7,800.00        249,688.72         78,780.00
+AMERICAN EAGLE OUTFITTERS                  0.000 AEOS    02553E106     13.7800        10,550.00        301,784.14        145,379.00
+AMERICAN FINANCIAL GROUP INC.              2.167 AFG     025932104Q    23.0700        10,200.00        377,221.73        235,314.00
+AMERICAN WATER WORKS                       2.154 AWK     030411102Q    45.4800        14,700.00        339,265.26        668,556.00
+AMERICREDIT CORP.                          0.000 ACF     03060R101      7.7400        22,500.00        267,537.56        174,150.00
+AMERUS GROUP CO                            1.414 AMH     03072M108     28.2700         5,700.00        218,994.00        161,139.00
+AMETEK INC.                                0.623 AME     031100100Q    38.4900         4,900.00        120,014.62        188,601.00
+APOGENT TECHNOLOGY                         0.000 AOT     03760A101     20.8000        15,700.00        217,116.79        326,560.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     22.2400         8,100.00        126,110.11        180,144.00
+AQUILA INC                                39.548 ILA     03840P102      1.7700        26,750.00        541,589.95         47,347.50
+ARCH COAL INC.                             1.065 ACI     039380100Q    21.5900         7,700.00        145,891.46        166,243.00
+ARROW ELECTRONICS                          0.000 ARW     042735100     12.7900        14,700.00        426,873.74        188,013.00
+ARVINMERITOR INC.                          2.399 ARM     043353101     16.6700        10,025.00        263,261.65        167,116.75
+ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P108      2.4000        35,500.00        280,590.58         85,200.00
+ASSOCIATED BANC-CORP.                      3.653 ASBC    045487105     33.9400        11,038.00        335,985.91        374,629.72
+ASTORIA FINANCIAL CORP.                    2.946 AF      046265104     27.1500        12,800.00        259,059.50        347,520.00
+ATMEL CORP                                 0.000 ATML    049513104      2.2300        68,500.00        511,389.01        152,755.00
+AVNET INC.                                 2.770 AVT     053807103Q    10.8300        17,600.00        548,931.51        190,608.00

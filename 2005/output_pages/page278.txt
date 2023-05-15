@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 061
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SOHU.COM INC                                 0.000     83408W103   SOHU               300            6,275.75            5,502.00
+SOLECTRON CORP                               0.000     834182107   SLR            618,800        2,339,610.54        2,264,808.00
+SOMANETICS CORP                              0.000     834445405   SMTS            24,300          562,416.22          777,600.00
+SONIC AUTOMOTIVE INC.                        2.154     83545G102   SAH             46,600        1,058,416.43        1,038,248.00
+SONIC CORP                                   0.000     835451105   SONC            13,220          390,511.77          389,990.00
+SONIC SOLUTIONS                              0.000     835460106   SNIC             4,800           96,317.76           72,528.00
+SONICWALL INC                                0.000     835470105   SNWL           185,700        1,136,156.46        1,470,744.00
+SONOCO PRODUCTS CO                           3.129     835495102   SON              6,100          166,438.02          179,340.00
+SONOSIGHT INC.                               0.000     83568G104   SONO            16,300          373,853.17          570,663.00
+SONUS NETWORKS INC                           0.000     835916107   SONS           183,200          886,583.20          681,504.00
+SOTHEBY'S HOLDINGS CL-A                      0.000     835898107   BID             38,600          605,225.76          708,696.00
+SOUND FEDERAL BANCORP INC                    1.570     83607V104   SFFS            11,800          186,345.60          225,380.00
+SOURCE CORP                                  0.000     836167106   SRCP            33,100          811,080.75          793,738.00
+SOURCE INTERLINK COS INC                     0.000     836151209   SORC            34,900          412,905.18          388,088.00
+SOUTH JERSEY INDS IN                         3.088     838518108   SJI             29,600          675,232.52          862,544.00
+SOUTHERN CO                                  4.315     842587107 Q SO           1,042,000       29,358,140.15       35,980,260.00
+SOUTHERN COPPER CORP                        10.152     84265V105   PCU             34,550        1,925,740.42        2,314,159.00
+SOUTHERN ENERGY HOMES INC                    0.000     842814105   SEHI            49,800           67,401.23          286,350.00
+SOUTHERN UNION COMPANY                       0.000     844030106   SUG             43,057          889,002.96        1,017,452.27
+SOUTHSIDE BANCSHARES INC                     2.178     84470P109   SBSI            10,380          209,493.72          209,676.00
+SOUTHWEST AIRLINES                           0.109     844741108 Q LUV            279,282        4,570,952.18        4,588,603.26
+SOUTHWEST BANCORP IN                         1.500     844767103   OKSB            14,400          296,033.25          288,000.00
+SOUTHWEST GAS CORP                           3.106     844895102 Q SWX             39,850          897,775.87        1,052,040.00
+SOUTHWESTERN ENERGY COMPANY                  0.000     845467109   SWN            366,000        7,429,322.13       13,154,040.00
+SOVEREIGN BANCORP INC                        1.110     845905108   SOV              5,600          112,516.53          121,072.00
+SPARTAN STORES INC                           0.000     846822104   SPTN            50,300          708,107.80          524,126.00
+SPARTECH CORP                                2.277     847220209   SEH            388,600        8,248,677.46        8,529,770.00
+SPECIALTY LABORATORIES                       0.000     84749R100   SP              33,700          423,747.83          439,785.00
+SPECTRALINK CORP                             3.369     847580107   SLNK           107,707        1,199,551.58        1,278,482.09
+SPEEDWAY MOTORSPORTS                         0.923     847788106   TRK             16,300          444,196.03          565,121.00
+SPHERION CORPORATION                         0.000     848420105   SFN            112,000        1,091,467.95        1,121,120.00
+SPORTS AUTHORITY INC                         0.000     84917U109   TSA             52,125        1,597,654.80        1,622,651.25
+SPRINT NEXTEL CORP                           0.428     852061100 Q S            5,783,275      121,316,815.83      135,097,304.00
+SPSS INC.                                    0.000     78462K102   SPSS            33,200          649,749.65        1,026,876.00
+SPX CORP.                                    2.184     784635104 Q SPW            154,400        7,284,238.84        7,066,888.00
+SRA INTERNATIONAL INC - CLASS A              0.000     78464R105   SRX            102,728        2,626,775.44        3,137,313.12
+SSA GLOBAL TECHNOLOGIES INC                  0.000     78465P108   SSAG            29,500          462,033.43          536,605.00
+ST JUDE MED. INC.                            0.000     790849103   STJ            782,594       18,510,482.25       39,286,218.80
+ST MARY LAND & EXPLORATION                   0.271     792228108   SM              70,800          871,970.33        2,606,148.00
+ST PAUL TRAVELERS COS INC                    2.059     792860108 Q STA          2,804,846      106,537,483.31      125,292,470.82

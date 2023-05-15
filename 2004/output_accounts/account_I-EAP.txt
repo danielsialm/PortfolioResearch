@@ -1,0 +1,292 @@
+Instrument - COM       COMMON STOCK
+
+ASUR ADR                                     1.784     2639361      ASR          39,000.00          585,101.65
+AU OPTRONICS CORP - ADR                      1.759     2877149      AUO               1.04                9.66
+BANCO SANTANDER ADR                          6.816     2136646      SAN          10,000.00          220,666.97
+CHECK POINT SOFTWARE TECH                    0.000     2181334      CHKP         85,755.00        3,284,510.51
+CIA SIDERURGICA NACIONAL ADR                 2.934     2220936      SID          56,000.00          178,544.98
+CIA TELECOM CHILE-ADR                        5.133     2213635      CTC          78,000.00          892,529.04
+CIA VALE DO RIO DOCE - ADR                   0.286     2857334      RIO          36,000.00          296,483.21
+COMPANHIA BRASILEIRE ADR                     0.632     2228532      CBD          55,000.00          895,949.83
+COMPANHIA DE BEBIDAS ADR                     3.339     2634797      ABV         115,000.00        2,107,996.33
+COMPANIA DE MINAS ADR                        1.340     2210476      BVN           5,000.00          108,630.00
+COPEL ADR                                    2.237     2209656      ELP         300,000.00        1,411,026.06
+EMPRESAS NACIONAL ADR                        0.482     2311131      EOC          76,000.00          745,769.78
+LUKOIL HLDGS SPND-ADR                        0.794     2537432      LUKOY        33,698.00        1,929,875.41
+MOBILE TELESYSTEMS ADR                       0.677     2603225      MBT           4,000.00          114,738.03
+ORBOTECH LTD                                 0.000     M75253100    ORBK          4,000.00           43,000.00
+PETROLEO BRASILEIRO ADR                      0.779     2616580      PBR         140,000.00        3,662,555.15
+PETROLEO BRASILEIRO S.A.-ADR                 0.856     2683410      PBR.A       210,000.00        4,878,327.03
+SK TELECOM CO LTD-ADR                        2.961     2495648      SKM          58,290.00        1,130,243.10
+SOCIEDAD QUIMICA ADR                         0.933     2771122      SQM          10,000.00          236,459.09
+SURGUTNEFTEGAZ ADR                           0.493     2810144      SGTZY        24,000.00          314,976.91
+TELE NORTE LESTE PART ADR                    1.719     2297930      TNE          85,000.00          941,521.08
+TELECENTRO OESTE CELULAR ADR                 0.851     2298018      TRO          57,886.00          429,059.43
+TELECOM ARGENTINA SA-SP ADR                  9.854     2878829      TEO          30,000.00          236,532.90
+TELEMIG CELULAR - ADR                        2.621     2297996      TMB          32,000.00          629,354.14
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.532     2883878      TEVA         54,000.00          926,959.85
+UNIBANCO - SPONSORED ADR                     2.894     2000815      UBB          85,000.00        1,388,969.68
+URALSVYAZINFORM ADR                         27.248     5779145      URSI_     7,000,000.00          155,750.00
+VALE R DOCE-ADR                              0.340     2933900      RIO-P       255,000.00        3,051,237.87
+VIMPEL COMMUNICATIONS ADR                    0.000     2943675      VIP          42,000.00          327,028.67
+VOTORANTIM CELULOSE - ADR                    3.524     2696560      VCP          87,500.00          551,556.90
+
+Instrument Total              30                                              9,068,130.04       31,675,363.26
+
+Instrument -COR       CORPORATE NOTES/BONDS
+
+HINDUSTAN LEVER LTD                          0.000     6664819   A  66648     2,196,000.00           54,577.28
+
+Instrument Total               1                                              2,196,000.00           54,577.28
+
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+ACER INCORPORATED                            0.144     6005850      73834     1,925,750.00        2,640,334.88
+ADVANCED INFO SERVICE                        0.102     6412591      ADVAN       586,000.00          700,130.65
+AGORA SA                                     0.000     5618312      AGO_P        12,000.00          154,616.59
+AKBANK T.A.S.                                0.000     4011127      AKBNK   250,000,000.00          483,496.15
+AKSIGORTA                                    0.000     4012078      AKGRT   135,999,999.99          245,614.47
+ALFA SA DE CV SER'                           0.132     2043423      ALFAA       410,000.00          756,786.54
+ALUMINUM CORP OF CHINA (CHALCO)              0.268     6425395      2600_     1,435,700.00          250,322.21
+AMERICA MOVIL SA                             0.037     2667470      AMXL_     3,050,000.00        1,698,848.39
+ANGLO AMERICAN ORD                           0.077     6152972      AGL_S       380,000.00        5,738,316.49
+ANGLO AMERICAN PLA                           0.575     6761000      AMS_S        25,000.00          985,452.04
+ARCELIK A.S.                                 0.000     4051800      ARCLK    36,000,000.00          194,701.10
+ASTRA AGRO LESTARI                           0.000     6092498      AALI_       150,000.00           25,793.94
+AU OPTRONICS CORP                            0.082     6288190      2409_     1,145,000.00        2,033,551.65
+BAJAJ AUTO LIMITED                           0.050     6124142      BJA_I        22,500.00          446,731.86
+BANCO BRADESCO SA                            0.093     B00FM53      BBDC4       149,999.99        2,160,788.69
+BANGKOK BANK THB10                           0.000     6077019      BBL/F       523,350.00        1,247,250.11
+BANK LEUMI LE-ISRAEL                         1.395     6076425      LUMI_       400,000.00          772,139.86
+BANK OF AYUDHYA PUBLIC WARRANTS              0.000     6689588      BAY/W       173,200.00           20,342.69
+BANK PEKAO SA ORD                            1.089     5473113      PEO_P        31,000.00          739,168.20
+BANPU PUBLIC CO                              0.080     6074849      BANPU       140,000.00          487,397.74
+BARLOWORLD LIMITED                           0.635     6079123      BAW_S       210,000.00        1,709,696.50
+BENQ CORP                                    0.157     6054465      2352_     2,107,600.00        2,136,008.76
+BEZEQ ISRAEL TELCM                           0.362     6098032      BEZQ_       295,140.00          414,468.07
+BHARAT HEAVY ELECTRICALS                     0.019     6129523      BHEL_        64,000.00          182,114.65
+BIMANTARA CITRA ID                           0.000     6100465      BMTR_       231,000.00          149,195.93
+BK HAPOALIM BM ILS                           1.542     6075808      POLI_       400,000.00        1,027,336.90
+BK OF AYUDHYA THB                            0.000     6075949      BAY/F       433,000.00          148,082.82
+BRASIL TELECOM PART SA                   1,068.104     2292645      BRTP3   100,000,000.00          744,583.72
+BRASIL TELECOM PARTICIPACOES S/A           843.243     2292656      BRTP4    25,000,000.00          186,881.01
+CEMEX SA PTG CERTS                           0.259     2406457      CEMEX       480,000.00        2,264,713.69
+CEMIG CIA ENERG MG                       1,150.490     2192712      CMIG4    60,000,000.00        1,007,727.51
+CENCOSUD                                     0.177     B012HW5      CSUDY        50,000.00          790,000.00
+CESKE ENERGETICKE ZAVODY                     0.105     5624030      CEZ_C        88,000.00          237,640.06
+CESKY TELECOM                                0.206     5272569      SPTT_       168,000.00        2,031,606.98
+CHEIL JEDANG CORP                            0.002     6189516      00104        20,500.00          775,088.78
+CHINA MOBILE HK LTD HKD 0.1                  0.195     6073556      941_H     2,336,000.00        7,980,035.10
+CHINA RESOURCES CEMENT                       0.000     6653033      712_H       203,000.00          221,915.10
+CHINA RESOURCES ENTERPRISES                  0.264     6972459      291_H     1,380,000.00        1,506,976.61
+CHINA RESOURCES LAND                         0.263     6193766      1109_     7,600,000.00          863,367.60
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CHINA STEEL CORP                             0.255     6190950      73840     1,516,111.37          702,893.23
+CHINA TELECOM CORP                           0.311     6559335      728_H     5,000,000.00        1,800,500.30
+CHINATRUST FINANCIAL HOLDING CO.             0.086     6527666      2891_     2,665,269.56        1,860,479.31
+CIA DE MINAS BUENAVENTURA-B                  0.441     2894988      CMB/C        60,000.00          763,315.18
+CIA DE PETROLEOS DE CHILE                    0.004     2196026      COPEC       120,000.00          853,173.57
+CIPLA LIMITED                                0.021     B011108      CIPLA       180,000.00          647,505.57
+COCA COLA FEMSA SA DE CV                     0.095     2141899      KOFL_       120,000.00          293,374.48
+COFCO INTERNATIONAL LTD.                     0.300     6105738      506_H     3,402,000.00        1,109,049.96
+COMMERCIAL INTERNATIONAL BANK                0.635     6243898      CMIB_        70,000.00          299,379.11
+COMPAL ELECTRONICS                           0.190     6225744      2324_     2,613,756.63        2,318,541.53
+CONSORCIO ARA S.A.                           0.166     2209731      ARA*_       385,000.00        1,053,316.35
+CPFL ENERGIA SA - ADR                        0.000     B0315D7      CPL          43,000.00          774,000.00
+CREDICORP LTD                                1.424     2232878      BAP          24,000.00          236,142.31
+DAEWOO SHIPBUILDING & MARINE                 0.002     6211732      04266       120,400.00          955,760.19
+DATANG INTERNATIONAL POWER                   0.384     6080716      991_H     2,540,000.00          856,934.01
+DELTA ELECTRONICS INC                        0.120     6260734      2308_     2,573,809.03        3,401,701.56
+DENWAY MOTORS LTD                            0.463     6263766      203_H     2,800,000.00        1,006,972.33
+DR REDDY'S LABORATORIES                      0.013     6410959      DRRD_        28,000.00          575,472.50
+ECI TELECOM ORD IL                           2.448     2310150      ECIL         29,113.00          232,433.37
+ELECTRICITY GENRTG                           0.103     6304643      EGCOM        86,500.00          120,506.81
+EMPRESA BRAS DE AERONA-PREF                  0.882     2428569      EMBR4             1.00                4.93
+EMPRESAS CMPC S.A.                           0.004     2196015      CMPC_        36,500.00          357,449.98
+ENERSIS                                      0.000     2299453      ENERS     3,000,000.00          405,573.24
+EREGLI DEMIR CELIK                           0.000     4315197      EREGL    63,000,000.00          247,105.47
+FOMENTO ECON MEXIC                           0.082     2242059      FEMSA       460,000.00        1,540,670.72
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    50,000,000.00          236,492.87
+FOUNTAIN SET HLDGS                           0.280     6349053      420_H     1,950,000.00        1,528,763.63
+FUBON FINL HOLDING CO.                       0.155     6411673      2881_     2,400,000.00        2,032,616.03
+GAIL INDIA                                   0.079     6133405      GAIL_       126,600.00          480,921.65
+GENTING BERHAD                               0.311     6366676      GENT_       440,097.00        1,026,850.54
+GIANT MANUFACTURING                          0.174     6372167      9921_     1,950,000.00        2,591,713.08
+GIGABYTE TECHNOLOGY CO.                      0.196     6129181      2376_     1,766,064.56        3,025,166.21
+GOLD FIELDS LIMITE                           0.204     6280215      GFI_S       240,000.00        2,912,748.64
+GPO FIN BANORTE SE                           0.127     2421041      GFNOR        95,000.00          368,450.27
+GPO IND BIMBO SER'                           0.267     2392471      BIMBO       475,000.00          953,108.90
+GRUPO MEXICO SA                              0.062     2643674      GMEXI       200,000.00          667,852.99
+GRUPO TELEVISA SA                            0.325     2380108      TLEVI       160,000.00          324,840.51
+GUJARAT AMBUJA CEMENTS LTD                   0.045     6100119      YGAMB        64,000.00          255,067.69
+HACI OMER SABANCI HOLDING                    0.000     5268568      SAHOL   180,000,000.00          455,162.11
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HANSSEM CO LTD                               0.002     6536684      00924       144,000.00        1,125,089.30
+HARMONY GOLD MINING CO                       0.242     6410562      HAR_S       100,000.00        1,299,286.66
+HINDALCO INDUSTRIES LIMITED                  0.026     6100142      HNDL_        16,000.00          480,645.09
+HINDUSTAN LEVER                              0.088     6261674      HLVR_       375,000.00        1,427,555.51
+HINDUSTAN PETROLEUM CORP                     0.120     6100476      HPCL_        59,000.00          335,466.51
+HONG LEONG BANK                              1.148     6436892      HLBK_       350,000.00          488,893.42
+HOUSING DEVELOPMENT FINANCE                  0.040     6171900      HDFC_        40,000.00          283,025.13
+HURRIYET GAZETECILIK                         0.000     4445276      HURGZ   122,382,000.00          108,688.57
+HYOSUNG CORPORATION                          0.000     6896838      00480       211,640.00        1,962,056.58
+HYUNDAI MARINE AND FIRE INS. CO              0.005     B01LXY6      00145       260,000.00          561,545.92
+HYUNDAI MOTOR CO K                           0.001     6451055      00538        89,116.00        1,753,813.98
+HYUNDAI PRECISION                            0.001     6449544      01233         8,000.00          366,294.11
+ICICI BANK LTD                               0.046     6100368      ICICI       188,000.00          573,440.87
+IDB HOLDING CORP O                           5.005     6456726      IDBH_        50,000.00        1,301,367.03
+IMPERIAL HLDGS R0.                           0.538     6458874      IPL_S       150,000.00        1,616,567.53
+INFOSYS TECHNOLOGIES LTD                     0.022     6205122      INFO_        64,000.00        1,163,725.28
+IOI CORPORATION BERHAD                       0.914     6464514      IOI_M       553,180.00          416,482.43
+ISRAEL CORP ORD SH                           0.485     6889678      ILCO_         2,200.00          238,199.60
+JSC NORILSK NICEL                           75.855     7131431      GMKN_        38,000.00          713,925.00
+KASIKORNBANK                                 0.000     6888794      KBANK       467,800.00          566,602.38
+KEUMKANG KRW5000                             0.003     6490917      00238        12,200.00          904,460.03
+KGHM POLSKA MIEDZ                            1.067     5263251      KGH_P        62,000.00          277,193.17
+KOC HOLDING                                  0.000     4491484      KCHOL   105,591,000.00          340,360.48
+KOMERCNI BANKA                               0.274     4519449      KOMB_        20,000.00        1,471,016.05
+KOOKMIN BANK KRW50                           0.002     6419365      06000       186,449.00        5,020,785.70
+KOREA ELEC POWER K                           0.003     6495730      01576       166,000.00        2,998,071.23
+KOREA TELECOM CORPORATION                    0.004     6505316      03020        72,400.00        2,729,033.68
+KOREA TELECOM FREETEL                        0.002     6201421      03239        51,395.00        1,302,876.36
+KRUNG THAI BANK PUB CO - FOREIGN             0.134     6492838      KTB/F     1,541,000.00          400,172.74
+LAND + HOUSES THBH                           0.285     6581930      LH/F_     2,454,000.00          604,692.00
+LARSEN & TOUBRO LIMITED                      0.037     B0166K8      LT_IN        25,000.00          192,290.74
+LARSEN + TOUBRO GDR                          1.520     4544344      LTOD_        28,000.00          317,100.00
+LG CABLE +MCHY KSW                           0.004     6375780      00626       100,860.00          966,437.87
+LG ELECTRONICS/NEW                           0.001     6520739      06657        22,200.00          903,640.13
+LITE-ON TECHNOLOGY CORP                      0.118     6519481      2301_     2,360,600.00        1,752,604.50
+LUKOIL-US$                                  79.077     4560588      LKOH_        95,000.00        1,582,700.00
+MAHANAGAR TELEPHONE NIGAM                    0.066     6117807      ZMTNL        92,000.00          253,157.27
+MALAKOFF BERHAD                              1.023     6555924      MAL_M     1,064,505.00          867,507.29
+MALAYAN BANKING BERHAD                       0.780     6556325      MAY_M       745,000.00        1,638,826.66
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+MALAYSIA INTL SHIPPING-FRGN                  0.602     6558031      MISF_       400,832.00          722,134.11
+MATAV RT                                     0.044     4577469      MATAV       400,000.00        1,578,229.69
+MAXIS COMMUNICATIONS BHD                     0.586     6530523      MAXIS       530,000.00          683,211.84
+MIGROS TRL1000                               0.000     4593034      MIGRS    31,865,000.00          137,406.93
+MOBINIL-EGYPTIAN MOBILE SERV                 1.014     6103925      EMPN_        28,000.00          412,226.16
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.002     4742494      MOL_H        64,000.00        1,015,125.98
+MTN GROUP LIMITED                            0.167     6563206      MTN_S       500,000.00          524,616.44
+NASPERS ZAR 0.02 S                           0.090     6622691      NPN_S        60,000.00          398,085.69
+NATIONAL PETROCHEMICAL-FOREI                 0.120     6627298      NPC/F       150,000.00          495,376.38
+NATURA COSMETICOS                            0.497     B014K55      NATU3        20,000.00          231,305.45
+NIEN HSING TEXTILE CO LTD                    0.215     6591928      1451_     2,784,400.00        2,172,974.95
+OAO GAZPROM-GDR                              0.513     5140989      OGZD_        34,000.00          763,976.28
+OIL & NATURAL GAS CORP LTD                   0.084     6139362      ONGC_        70,000.00        1,367,837.07
+OLD MUTUAL                                   0.060     6155131      OML_S     1,150,000.00        1,640,220.94
+ORASCOM CONSTRUCTIONS INDUS                  0.170     B03BN88      ORCI_        40,000.00          122,061.07
+ORBIS PLN2                                   0.458     5349173      ORB_P        98,089.00          495,729.75
+OTP BANK                                     0.006     7320154      OTP_H       100,000.00          483,782.02
+PETROCHINA CO                                0.605     6226576      857_H    10,302,000.00        2,496,921.47
+PHOENIXTEC POWER                             0.208     6685508      2411_     2,615,000.00        1,937,826.94
+PICC PROPERTY & CASUALTY                     0.000     6706250      2328_     2,600,000.00          984,255.45
+POHANG IRON+STEEL                            0.004     6693233      00549        37,989.00        3,321,263.93
+POLSKI KONCERN NAFTOWY ORLEN                 0.574     5810066      PKN_P       264,000.00        1,256,217.79
+POONGSAN CORPORATION                         0.004     6694474      00581       137,000.00        1,189,634.78
+PREMIER IMAGE TECHNOLOGY                     0.216     6143330      2394_     3,600,000.00        3,513,436.92
+PRESIDENT CHAIN STORE CORP                   0.153     6704986      2912_     1,200,000.00        1,847,742.40
+PROKOM SOFTWARE SA                           0.340     5372878      PKM_P         5,000.00          173,667.67
+PT ANEKA TAMBANG TBK                         0.000     6053859      ANTM_       391,375.00           31,438.87
+PT ASTRA INTERNATIONAL INC                   0.000     6291712      ASII_     1,041,000.00          535,527.97
+PT BANK CENTRAL ASIA                         0.000     B01C1P6      BBCA_     1,908,000.00          334,622.85
+PT BANK PAN INDONESIA                        0.000     6545248      PNBN_     3,644,285.00           64,222.51
+PT BHAKTI INVESTAMA                          0.000     6211516      BHIT_       527,500.00           39,499.81
+PT INDOFOOD SUKSES MAK                       0.000     6283979      INDF_     2,341,000.00          255,621.95
+PT KALBE FARMA IDR                           0.000     6728102      KLBF_     4,873,000.00          120,127.67
+PT MATAHARI PUTRA PRIMA                      0.000     6291701      MPPA_       613,500.00          111,005.26
+PT RAMAYANA LESTARI SENTOSA                  0.000     B03CPL8      RALS_     1,787,500.00           15,512.42
+PT TELEKOMUNIKASI                            0.000     B02ZK79      TLKM_     5,154,000.00        1,590,179.60
+PTT EXPLORATION & PROD-FOR                   0.060     6290333      PTTEP        87,600.00          263,150.60
+PTT PCL/FOREIGN                              0.059     6420390      PTT/F       330,000.00        1,152,759.48
+PUBLIC BANK BHD                              1.211     B012W53      PBKF_     1,210,175.00        1,062,895.51
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+RANBAXY LABORATORIES LTD                     0.031     6101071      RBXY_        28,000.00          235,276.97
+RATCHABURI ELEC GEN HODG-FOR                 0.129     6294249      RATCH       290,000.00          304,555.64
+REALTEK SEMICONDUCTOR                        0.147     6051422      2379_     1,102,785.00        1,793,790.66
+RELIANCE INDUSTRIES                          0.022     6099626      RIL_I       280,000.00        2,295,086.09
+RESORTS WORLD BERHAD                         0.486     6731962      RNB_M       550,000.00        1,259,594.80
+S P SETIA BERHAD GROUP                       1.218     6868774      SPSB_       800,000.00          767,669.05
+SAMPO CORP                                   0.209     6771924      1604_     4,200,000.00        1,775,333.76
+SAMSUNG ELEC MECH                            0.001     6771689      00915        55,200.00        1,701,343.14
+SAMSUNG ELECTRONIC                           0.002     6771720      00593        48,222.00        9,000,164.36
+SAMSUNG FIRE + MAR                           0.001     6155250      00081        40,708.00        1,264,159.48
+SAMSUNG HEAVY INDUSTRIES                     0.002     6772217      01014       181,154.00          552,680.96
+SANLAM LTD ORD ZAR                           0.546     6134022      SLM_S     2,000,000.00        2,679,038.49
+SANSUI ELECTRIC CO LTD                       0.000     6776402      6793_       500,000.00          162,094.16
+SAPPI ZARI(SICOVAM                           0.412     6777007      SAP_S       185,000.00        2,422,631.83
+SASOL NPV                                    0.660     6777450      SOL_S       200,000.00        2,111,241.78
+SATYAM COMPUTER SERVICES                     0.027     6241858      SCS_I       140,000.00          371,384.86
+SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       151,500.00          168,584.26
+SHIN CORPORATION PCL-FOR                     0.118     6397546      SHIN/       398,000.00          376,490.81
+SHINHAN FINANCIAL GROUP LTD                  0.002     6397502      05555        93,109.00          885,047.14
+SIAM CEMENT CO THB                           0.102     6609906      SCC/F       153,000.00          300,186.96
+SIAM COMMERCIAL BK                           0.073     6889935      SCB/F       532,700.00          484,098.27
+SIME DARBY BERHAD                            1.140     6808769      SDY_M     1,000,000.00        1,453,181.07
+SINOPAC HOLDINGS                             0.080     6525875      2890_     4,089,068.70        1,694,804.57
+SINOTRANS LTD                                0.339     6579010      598_H     2,500,000.00          801,509.24
+SK TELECOM CO LTD                            0.002     6224871      01767        24,251.00        3,982,326.00
+SPAR GROUP LTD                               0.000     B038WK4      SPP_S       265,000.00          836,304.15
+STANDARD BANK GROUP                          0.432     B030GJ7      SBK_S       715,000.00        2,531,234.07
+STATE BK OF INDIA GDR                        1.241     5131091      SBID_        16,000.00          221,929.50
+SUN PHARMACEUTICAL INDUSTRIES                0.020     6582483      SUNP_        28,000.00           87,109.84
+SUN PHARMACEUTICAL NPV - PREFERRED          13.958     6581145      65811        28,000.00                0.00
+SURGUTNEFTEGAS PREFERRED                    29.357     5005884      SNGSP     1,250,000.00          501,746.25
+SURGUTNEFTEGAZ-$US                          18.666     4851732      SNGS_     1,600,000.00          639,929.63
+T IS BANKASI SER C                           0.000     4869939      ISCTR   262,199,999.99          572,587.35
+T.GARANTI BANASI T                           0.000     4361617      GARAN   175,174,000.00          184,603.62
+TAIWAN CELLULAR CORP                         0.211     6290496      3045_     2,578,431.20        2,512,428.24
+TAIWAN SECOM                                 0.162     6877811      9917_     1,017,000.00          763,321.34
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.036     6889106      27933     3,267,501.00        4,605,475.94
+TANJONG PLC                                  1.063     6872526      TJN_M       325,377.00          560,859.70
+TATA MOTORS LTD                              0.036     6101509      TTMT_        64,000.00           94,712.56
+
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TELE CENTRO OESTE CEL-PREF               1,553.184     2292601      TCOC4             6.00                0.00
+TELE NORTE LESTE PART                        0.935     B02PDQ9      TNLP3       159,999.99        1,959,950.23
+TELEFONOS DE MEXIC                           0.284     2881689      TELME     2,950,000.00        4,798,085.47
+TELEFONOS DE MEXICO SA-SER A                 0.285     2881731      TELME       650,000.00          753,958.23
+TELEKOM MALAYSIA                             0.453     6868398      T_MK        425,000.00        1,301,365.79
+TELEKOMUNIKACJA                              0.362     5551611      TPSD_        40,000.00          128,000.00
+TELEKOMUNIKAYA POL                           0.202     5552551      TPS_P       325,000.00        1,329,479.27
+TELKOM SOUTH AFRICA LTD                      0.199     6588577      TKG_S       210,000.00        1,848,553.71
+TEMPO SCAN PACIFIC TBK/PT                    0.000     6881953      TSPC_        90,000.00           78,752.44
+TENAGA NASIONAL BERHAD                       0.313     6904612      TNB_M       404,000.00        1,173,087.37
+TENARIS SA                                   0.262     2172402      TS_AF       180,000.00          357,168.38
+TEVA PHARMA IND IL                           0.162     6882172      TEVA_       160,000.00        1,787,718.21
+THAI UNION FROZEN PROD-FOREI                 0.130     6422716      TUF/F       269,130.00           77,746.71
+THE GRANDE HOLDINGS LTD                      0.355     6381260      186_H       850,000.00          929,107.42
+TIGER BRANDS LIMITED                         0.678     6891297      TBS_S       165,000.00        1,945,013.79
+TINGYI HLDG CO                               0.086     6903556      322_H     5,668,000.00        1,191,508.85
+TISCO FINANCE PCL - FOREIGN                  0.069     6892858      TISCO       918,000.00          768,062.45
+TOFAS OTOMOBIL FAB                           0.000     4894210      TOASO   200,000,000.00          225,469.29
+TRAVELSKY TECHNOLOGY                         0.208     6321954      696_H     1,000,000.00          669,986.52
+TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    44,000,000.00          427,664.71
+ULTRATECH CEMCO LTD                          0.003     B01GZF6      UTCM_        20,000.00           53,872.51
+ULTRATECH CEMENT LTD                         0.000     B031P37      34747        11,200.00                0.00
+UNIFIED ENERGY SYSTEMS                      16.456     4889335      EESR_     4,800,000.00          693,609.16
+UNIPETROL                                    0.000     5297294      UNIP_       224,928.00          335,726.15
+UNITED MICROELECTRONICS                      0.077     6916628      73850     3,126,617.28        3,434,037.54
+WAL MART DE MEXICO                           0.103     B02YZ04      WALME       650,000.00        1,700,902.08
+WIPRO                                        0.004     6206051      WPRO_        36,000.00          243,983.31
+YAPI KREDI BANKASI                           0.000     4986742      YKBNK   120,000,000.00          308,330.63
+
+Instrument Total             223                                          2,142,971,640.35      243,754,321.33
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    72,628.66        7,262,866.80
+
+Instrument Total               1                                                 72,628.66        7,262,866.80
+
+Portfolio Total              255                                          2,154,308,399.07      282,747,128.67        439,159,618.02

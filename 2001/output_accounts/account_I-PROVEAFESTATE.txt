@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+STATE ST PROVISIONAL EAFE-EQUITY             0.000     IE-PROVEAF             7,563,534.07      756,353,407.11
+STATE ST PROVISIONAL EAFE-LIQUIDITY RES      0.000     IL-PROVEAF               101,233.40       10,123,340.44
+
+Instrument Total               2                                              7,664,767.47      766,476,747.55
+
+Portfolio Total                2                                              7,664,767.47      766,476,747.55        713,341,075.00

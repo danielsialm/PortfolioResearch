@@ -1,0 +1,18 @@
+ASOF02   Date 01/19/2006 Time 18:24:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 174
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+DIAMONDROCK HOSPITALITY                    5.769 DRH     252784301     11.9600       166,600.00      1,800,040.13      1,992,536.00
+NATIONWIDE HEALTH PP                       6.915 NHP     638620104     21.4000       129,000.00      2,550,832.26      2,760,600.00
+
+Instrument Total             2                                                       295,600.00      4,350,872.39      4,753,136.00
+
+Portfolio Total            117                                                    14,815,986.25    165,703,999.10    201,893,435.62
+

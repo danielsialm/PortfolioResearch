@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 081
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+MAXIMUS INC                                0.000 MMS     577933104     26.1000        25,100.00        940,548.59        655,110.00
+MDC HOLDINGS INC                           0.836 MDC     552676108     38.2600        29,560.00        574,899.06      1,130,965.60
+MEADE INSTRUMENTS CORP                     0.000 MEAD    583062104      3.1200        37,900.00        186,614.84        118,248.00
+MEDICIS PHARMACEUTICAL CORP                0.000 MRX     584690309     49.6700        30,400.00      1,174,492.01      1,509,968.01
+MEMBERWORKS INC                            0.000 MBRS    586002107     17.9800        16,100.00        482,456.69        289,478.00
+MENTOR CORP/MINN                           0.415 MNTR    587188103     38.5000        26,700.00        756,859.67      1,027,950.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     30.5200        24,100.00      1,038,443.63        735,532.00
+MESA AIR GROUP INC                         0.000 MESA    590479101      4.0700        25,100.00        187,512.50        102,157.00
+METHODE ELECTRONICS CL-A                   1.823 METHA   591520200     10.9700        42,600.00        413,383.69        467,322.00
+METRO ONE TELECOMMUNICATIONS               0.000 MTON    59163F105      6.4500        24,900.00        575,598.61        160,605.00
+MGI PHARMA INC                             0.000 MOGN    552880106      7.2500        26,600.00        337,654.47        192,850.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     22.4200        21,700.00        620,001.17        486,514.00
+MICROSEMI CORP                             0.000 MSCC    595137100      6.0900        31,000.00        912,336.64        188,789.99
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     32.4000        55,000.00        939,272.56      1,782,000.00
+MIDWAY GAMES INC.                          0.000 MWY     598148104      4.1700        48,400.00        694,214.51        201,828.00
+MIDWEST EXPRESS HOLDINGS INC               0.000 MEH     597911106      5.3500        10,700.00        172,555.12         57,245.00
+MILACRON, INC.                             0.672 MZ      598709103Q     5.9500        37,000.00        539,009.14        220,150.00
+MOBILE MINI INC.                           0.000 MINI    60740F105     15.6700        17,100.00        418,065.54        267,957.00
+MONACO COACH CORPORATION                   0.000 MNC     60886R103     16.5500        32,050.00        400,672.48        530,427.49
+MRO SOFTWARE INC                           0.000 MROI    55347W105     12.1450        28,700.00        809,140.40        348,561.50
+MUELLER INDUSTRIES INC.                    0.000 MLI     624756102     27.2500        38,800.00      1,034,126.66      1,057,300.00
+MYERS INDUSTRIES INC.                      1.869 MYE     628464109Q    10.7000        33,462.00        370,982.06        358,043.40
+NATIONAL PRESTO INDS INC                   3.131 NPK     637215104     29.3800         7,500.00        251,033.61        220,350.00
+NATURES SUNSHINE PRODS INC.                1.338 NATR    639027101      9.7100        18,600.00        157,126.67        180,606.00
+NAUTICA ENTERPRISES INC.                   0.000 NAUT    639089101     11.1100        36,300.00        845,273.93        403,293.01
+NBTY INC.                                  0.000 NBTY    628782104     17.5800        74,900.00        761,629.04      1,316,742.00
+NCO GROUP INC.                             0.000 NCOG    628858102     15.9500        28,700.00        468,653.45        457,765.00
+NDC HEALTH CORP                            0.804 NDC     639480102     19.9000        35,900.00        940,527.89        714,410.00
+NETEGRITY INC                              0.000 NETE    64110P107      3.2530        55,900.00        615,978.18        181,842.70
+NEW CENTURY FINANCIAL CORP                 1.575 NCEN    64352D101     25.3900        27,600.00        494,730.00        700,764.00
+NEW ENGLAND BUSINESS SERVICE               3.278 NEB     643872104     24.4000        14,400.00        407,818.01        351,360.00
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     36.0500        57,300.00      1,437,072.74      2,065,665.00
+NJ RESOURCES CORP. COMMON                  3.925 NJR     646025106     31.5900        29,900.00        710,335.12        944,541.00
+NORTHWEST NATURAL GAS CO.                  4.656 NWN     667655104     27.0600        28,400.00        750,869.75        768,504.00
+NORTHWESTERN CORPORATION                  25.000 NOR     668074107      5.0800        42,400.00        736,932.45        215,392.00
+NOVEN PHARMACEUTICALS INC                  0.000 NOVN    670009109      9.2300        23,900.00        467,953.52        220,597.00
+NUEVO ENERGY COMPANY                       0.000 NEV     670509108     11.1000        17,900.00        306,507.01        198,690.00
+NUI CORP                                   5.677 NUI     629431107     17.2600        17,500.00        406,447.60        302,050.00
+NVR INC                                    0.000 NVR     62944T105    325.5000         8,200.00        727,053.86      2,669,100.00

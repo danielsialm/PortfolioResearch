@@ -1,0 +1,18 @@
+ASOF01   Date 01/19/2006 Time 18:24:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - OAKTREE   OAKTREE CAPITAL MANA
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+OAKTREE - FIXED INCOME             0.0000  0.000 IF-OAKTREE         00/00/0000     1,528,716.59    152,871,659.30
+OAKTREE - LIQUIDITY                0.0000  0.000 IL-OAKTREE         00/00/0000       107,377.12     10,737,712.56
+
+Instrument Total             2                                                     1,636,093.71    163,609,371.86
+
+Portfolio Total              2                                                     1,636,093.71    163,609,371.86    165,867,291.47
+

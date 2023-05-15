@@ -1,0 +1,52 @@
+ASOF02   Date 01/21/2003 Time 18:52:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 060
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SNP       S&P 500 PASSIVE
+Instrument - COM       COMMON STOCK
+
+VERIZON COMMUNICATIONS                     3.974 VZ      92343V104Q    38.7500     1,235,401.00     51,843,611.46     47,871,788.75
+VIACOM INC-CLASS B                         0.000 VIA.B   925524308     40.7600       795,268.00     31,939,918.03     32,415,123.68
+VISTEON CORP                               3.448 VC      92839U107      6.9600        58,774.00        593,227.69        409,067.04
+VULCAN MATERIALS CO                        2.506 VMC     929160109     37.5000        45,812.00      1,693,481.13      1,717,950.00
+WACHOVIA CORP.- NEW                        2.854 WB      929903102Q    36.4400       614,318.00     18,649,582.63     22,385,747.92
+WAL MART STORES INC                        0.593 WMT     931142103Q    50.5100     1,993,346.00     59,795,616.62    100,683,906.46
+WALGREEN CO.                               0.513 WAG     931422109Q    29.1900       462,852.00      9,199,375.95     13,510,649.88
+WASHINGTON MUTUAL INC.                     3.243 WM      939322103     34.5300       427,488.00     10,282,734.90     14,761,160.64
+WASTE MANAGEMENT INC.                      0.043 WMI     94106L109     22.9200       274,870.00      8,420,191.09      6,300,020.40
+WATERS CORPORATION                         0.000 WAT     941848103     21.7800        58,344.00      1,964,138.77      1,270,732.32
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     28.2700        48,304.00      1,793,977.79      1,365,554.08
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     71.1600        67,221.00      3,403,648.74      4,783,446.36
+WELLS FARGO COMPANY                        2.389 WFC     949746101     46.8700       764,008.00     23,936,052.47     35,809,054.96
+WENDY'S INTL                               0.886 WEN     950590109Q    27.0700        52,125.00      1,295,300.93      1,411,023.75
+WEYERHAEUSER CO.                           3.251 WY      962166104Q    49.2100        98,888.00      4,985,013.31      4,866,278.48
+WHIRLPOOL CORP                             2.604 WHR     963320106Q    52.2200        30,760.00      1,639,505.13      1,606,287.20
+WILLIAMS COS. INC.                         1.481 WMB     969457100Q     2.7000       233,345.00      5,124,763.52        630,031.50
+WINN-DIXIE STORES INC.                     1.308 WIN     974280109M    15.2800        63,593.00      1,780,806.99        971,701.04
+WORTHINGTON INDS                           4.199 WOR     981811102Q    15.2400        38,718.00        583,053.21        590,062.32
+WRIGLEY WM JR CO                           1.494 WWY     982526105Q    54.8800       101,726.00      3,323,741.56      5,582,722.88
+WYETH                                      2.459 WYE     983024100Q    37.4000       598,692.00     21,884,368.03     22,391,080.80
+XCEL ENERGY INC                            6.818 XEL     98389B100Q    11.0000       180,025.00      4,126,271.25      1,980,275.00
+XEROX CORP                                 0.000 XRX     984121103Q     8.0500       332,086.00      5,977,035.10      2,673,292.30
+XILINX INC                                 0.000 XLNX    983919101     20.6000       152,190.00      3,909,984.53      3,135,114.00
+XL CAPITAL LTD - CLASS A                   2.433 XL      G98255105     77.2500        61,346.00      5,080,890.49      4,738,978.50
+YAHOO INC                                  0.000 YHOO    984332106     16.3500       266,853.00     26,921,585.78      4,363,046.55
+YUM BRANDS, INC.                           0.000 YUM     988498101     24.2200       133,498.00      1,930,049.41      3,233,321.56
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     41.5200        88,087.00      1,708,925.12      3,657,372.24
+ZIONS BANCORPORATION                       2.033 ZION    989701107     39.3490        41,066.00      2,210,902.90      1,615,906.03
+
+Instrument Total           497                                                   126,695,015.62  3,660,004,000.66  3,650,685,093.97
+
+Instrument -FUTURES5  FUTURES EXPOSURE
+
+S&P FUTURES INDEX 03/03                    0.000 CD:SP03HCD:SP03H0    878.9000         4,352.00    976,497,164.99    956,243,200.00
+
+Instrument Total             1                                                         4,352.00    976,497,164.99    956,243,200.00
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         8.006 EOP     294741103     24.9800       185,896.00      5,222,243.54      4,643,682.06

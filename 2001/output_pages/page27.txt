@@ -1,18 +1,37 @@
-ASOF01   Date 01/24/2002 Time 21:29:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 022
+ASOF04   Date 01/24/2002 Time 21:29:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 001
 
 Monthly Market Portfolio
 
-Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+Portfolio ID                                                                          Par/Shares      Book Value      Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - FIXED INCOME - EXTERNALLY MANAGED
-Portfolio  - SALOMON   SALOMON BROS. ASSET
-Instrument - EXFI      EXTERNAL MANAGED FI
+Group - COMMON STOCK - INTERNALLY MANAGED
 
-SALOMON - FIXED INCOME             0.0000  0.000 IF-SALOMON         00/00/0000     2,113,808.56    211,380,856.30
-SALOMON - LIQUIDITY                0.0000  0.000 IL-SALOMON         00/00/0000        20,868.57      2,086,857.27
+VAL       LARGE CAP VALUE ACTI                                                   109,392,523.38  3,662,124,262.24  3,376,902,565.81
+VAP       LARGE CAP VALUE PASS                                                    48,923,357.54  1,709,575,872.18  1,591,939,833.05
+IND       LARGE CAP SELECT                                                       193,300,998.47  5,161,967,623.94  6,978,762,098.13
+MV4       MID-CAP VALUE                                                           35,822,392.77    815,689,705.39    823,847,867.83
+MG4       MID-CAP GROWTH                                                          22,459,063.12    635,004,831.09    756,168,660.59
+GP5       LARGE CAP GROWTH                                                       116,214,483.37  4,076,481,842.94  4,830,790,446.68
+SNP       S&P 500 PASSIVE                                                        111,571,405.52  3,313,618,586.18  4,228,697,115.85
+SP4       S&P 400 PASSIVE                                                          4,564,357.96    114,920,477.74    125,157,903.55
+SP6       S&P 600 PASSIVE                                                         16,969,574.80    346,224,325.19    377,261,295.44
+HCP       HEALTHCARE                                                               1,088,870.00     47,754,710.08     49,603,384.08
+TEC       TECHNOLOGY                                                               2,124,005.17     69,257,268.45     53,857,182.95
 
-Instrument Total             2                                                     2,134,677.13    213,467,713.57
+Group Total                                                             0.00 /   662,431,032.12 19,952,619,505.42 23,192,988,353.96
 
-Portfolio Total              2                                                     2,134,677.13    213,467,713.57    226,051,889.00
+Group - COMMON STOCK - EXTERNALLY MANAGED
 
+6DG       DAVID J. GREENE - VA                                                    11,575,693.14     65,958,729.00     66,861,202.13
+6DH       DUNCAN-HURST - GROWT                                                     2,302,413.47     44,572,626.24     52,559,659.73
+6FT       FULLER & THALER - BL                                                     3,102,087.82     14,556,827.50     20,262,268.79
+6JL       JACOBS LEVY - VALUE                                                      2,540,562.39     34,925,345.51     38,737,701.35
+6LA       LORD, ABBETT & CO -                                                      8,434,875.72     83,271,145.64     92,570,345.29
+6PI       PIMCO - GROWTH                                                           5,161,441.90     51,362,290.91     56,811,497.07
+6NC       NEXT CENTURY GROWTH                                                      2,889,290.65     52,867,573.96     62,953,067.50
+
+Group Total                                                             0.00 /    36,006,365.10    347,514,538.76    390,755,741.86
+
+
+Group Total - COMMON STOCK                                              0.00 /   698,437,397.22 20,300,134,044.18 23,583,744,095.82

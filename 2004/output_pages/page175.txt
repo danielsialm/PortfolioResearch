@@ -1,0 +1,38 @@
+ASOF02   Date 01/21/2005 Time 18:34:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 143
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CH       CHARTWELL - 2000 VAL
+Instrument - COM       COMMON STOCK
+
+TODCO                                      0.000 THE     88889T107     18.4200        38,800.00        699,061.72        714,696.00
+TRW AUTOMOTIVE HOLDINGS CORP               0.000 TRW     87264S106     20.7000        31,250.00        604,059.43        646,875.00
+UAP HOLDING CORP                           0.000 UAPH    903441103     17.2700        48,225.00        771,600.00        832,845.75
+UMPQUA HLDGS CORP                          0.952 UMPQ    904214103     25.2100        32,175.00        652,793.49        811,131.75
+UNITED BANKSHARES INC.                     2.726 UBSI    909907107     38.1500        23,800.00        763,082.86        907,970.00
+W-H ENERGY SERVICES INC                    0.000 WHQ     92925E108     22.3600        45,025.00        826,429.30      1,006,759.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     33.1800        23,700.00        656,448.44        786,366.00
+
+Instrument Total            85                                                     6,070,183.03     55,172,703.78     64,762,972.64
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+BIOMED REALTY TRUST                        4.862 BMR     09063H107     22.2100        46,250.00        693,750.00      1,027,212.50
+BRE PROPERTIES  -CL A                      4.837 BRE     05564E106     40.3100        16,950.00        552,841.92        683,254.50
+CEDAR SHOPPING CENTERS INC                 6.293 CDR     150602209     14.3000        54,575.00        636,564.00        780,422.50
+FIRST POTOMAC REALTY TRUST                 4.561 FPO     33610F109     22.8000        28,225.00        515,504.08        643,530.00
+INNKEEPERS USA TRUST                       1.690 KPA     4576J0104     14.2000        38,575.00        370,057.85        547,765.00
+KILROY RE CORP                             4.631 KRC     49427F108     42.7500        14,300.00        457,912.21        611,325.00
+PENNSYLVANIA RI                            5.046 PEI     709102107     42.8000        11,725.00        500,953.81        501,830.00
+PS BUSINESS PARKS INC/CA                   2.572 PSB     69360J107     45.1000        13,650.00        505,911.79        615,615.00
+RAMCO-GERSHENSON PPT                       1.894 RPT     751452202     32.2500        27,525.00        704,372.15        887,681.25
+RECKSON ASSOCIATES RE                      5.175 RA      75621K106Q    32.8100        24,225.00        720,750.56        794,822.25
+
+Instrument Total            10                                                       276,000.00      5,658,618.37      7,093,458.00
+
+Portfolio Total             95                                                     6,346,183.03     60,831,322.15     71,856,430.64
+

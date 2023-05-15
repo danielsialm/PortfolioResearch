@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 037
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+FLUGHAFEN WIEN AG                            3.899     4359690      FLU_A       120,000.00        3,957,190.94
+FORTIS                                       3.413     7266139      FORB_       676,566.00       17,765,338.49
+FOSTERS BREWING GR                           2.628     6349268      FGL_A     2,700,000.00        9,371,884.67
+FRASER + NEAVE LTD                           1.788     6689458      FNN_S       784,500.00        3,975,712.01
+FUJI HEAVY INDUSTRIES LTD                    0.011     6356406      7270_     1,750,000.00        9,490,391.38
+GEA GROUP                                    0.000     4557104      G1A_G     1,275,000.00       15,588,274.73
+GLAXOSMITHKLINE                              4.907     0925288      GSK_L       707,662.00       15,095,793.65
+HEIDELBERGER DRUCKMASCHINEN                  1.091     5367227      HDD_G       460,000.00       10,409,779.63
+HEINEKEN NV                                  1.761     7792559      HEIA_        35,613.00        1,172,761.05
+HONG KONG ELECTRIC HKD1                      0.594     6435327      6_HK      1,882,000.00        6,684,024.54
+IMPERIAL CHEM INDS                           3.955     0459497      ICI_L     1,638,423.00        5,283,262.37
+INTESABCI SPA                                2.767     4076836      BIN_I     3,146,340.00        9,893,664.04
+J S GROUP CORPORATION                        0.014     6900212      5938_       724,200.00       10,069,280.78
+KARSTADT AG DM50                             6.572     5786565      KAR_G       775,000.00        7,385,121.88
+KINROSS GOLD CORP                            0.000     B03Z841      K_CN      3,050,000.00       19,439,043.69
+KIRIN BREWERY CO C                           0.008     6493745      2503_       540,000.00        3,835,190.87
+KON.VOPAK EUR                                2.303     5809428      VPK_N       132,500.00        2,238,492.96
+KONINKLIJKE DSM NV                           3.418     B0HZL93      DSM_N       360,000.00        7,517,121.01
+MATSUSHITA ELC IND                           0.007     6572707      6752_       718,000.00       12,121,972.80
+MCGUIGAN SIMEON WINES                        5.942     6130677      MGW_A     3,963,390.00        9,289,592.36
+METSO OYJ                                    1.785     5713422      MEO1V       390,000.00        3,953,866.74
+MICHELIN (CGDE)                              3.105     4588364      ML_FP       255,000.00        9,442,492.22
+MINISTOP CO                                  0.012     6583851      9946_       490,000.00        6,755,925.45
+MITSUBISHI HVY IND                           0.006     6597067      7011_     2,667,200.00        9,973,931.57
+NATL AUSTRALIA BK                            5.045     6624608      NAB_A       600,000.00       13,393,520.76
+NEWMONT MINING CORP - CHESS                  0.404     6509772      NEM_A     4,000,000.00        5,152,186.37
+NIPPON PAINT CO LTD                          0.011     6640507      4612_     2,650,000.00        6,718,049.43
+NIPPON TEL+TEL CP                            0.009     6641373      9432_         1,300.00        7,138,411.83
+NORSK HYDRO AS NOK                           0.426     4645805      NHY_N       134,900.00        4,828,118.16
+NOVARTIS AG CHF 20                           1.154     7103065      NOVN_       290,000.00       11,027,937.73
+NTT DOCOMO INC                               0.018     6129277      9437_         7,360.00       19,129,099.91
+NUTRECO HOLDING                              1.865     5183359      NUO_N       180,000.00        4,304,671.10
+OCE NV NLG1                                  5.611     5446751      OCE_N     1,065,000.00       10,269,219.24
+OMRON CORP Y50                               0.007     6659428      6645_       530,000.00        7,934,668.60
+PEUGEOT SA FF35                              3.269     7103526      UG_FP       142,000.00        4,872,152.27
+PHILIPS ELECTRONICS                          1.797     5986622      PHIA_       453,699.00       13,639,477.64
+PLACER DOME INC                              0.321     2691714      PDG_C     1,300,000.00       16,931,959.37
+RENTOKIL INITIAL O                           7.254     B082RF1      RTO_L     6,300,000.00       18,568,576.30
+REPSOL - YPF, SA                             2.235     5669354      REP_S       545,000.00        8,671,907.46

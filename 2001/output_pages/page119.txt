@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 090
+ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 092
 
 Monthly Market Portfolio
 
@@ -6,29 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Portfolio  - HCP       HEALTHCARE
+Portfolio  - TEC       TECHNOLOGY
 Instrument - COM       COMMON STOCK
 
-MERCK & CO INC                             2.381 MRK     589331107Q    58.8000        65,300.00      4,705,110.49      3,839,640.00
-MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103     24.5100         6,000.00        178,800.00        147,060.00
-ONMICARE INC.                              0.361 OCR     681904108     24.8800         3,000.00         75,111.90         74,640.00
-ORATEC INTERVENTIONS INC                   0.000 OTEC    68554M108      6.4700        27,000.00        146,725.10        174,690.00
-OXFORD HEALTH PLANS                        0.000 OHP     691471106     30.1400         3,300.00         94,412.75         99,462.00
-PFIZER INC.                                1.104 PFE     717081103Q    39.8500       195,700.00      7,794,992.51      7,798,645.00
-PHARMACIA CORPORATION                      1.266 PHA     71713U102     42.6500        42,500.00      2,144,626.32      1,812,625.01
-PROTEIN DESIGN LABS INC                    0.000 PDLI    74369L103     32.8000         4,000.00        104,420.00        131,200.00
-QUINTILES TRANSNATIONAL CORP.              0.000 QTRN    748767100     16.0500         6,200.00        131,052.25         99,510.00
-SCHERING-PLOUGH                            1.787 SGP     806605101Q    35.8100        29,500.00      1,191,075.73      1,056,395.00
-TENET HEALTHCARE CORP                      0.000 THC     88033G100     58.7200         7,300.00        315,364.71        428,656.00
-TRIGON HEALTHCARE CORP.                    0.000 TGH     89618L100     69.4500         1,200.00         70,689.00         83,340.00
-UNITEDHEALTH GROUP INC                     0.042 UNH     91324P102A    70.7700         9,800.00        592,444.81        693,546.00
-UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     42.7800         7,000.00        294,956.00        299,460.00
-VISX INC                                   0.000 EYE     92844S105     13.2500         7,000.00         92,761.00         92,750.00
-WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     31.3900         4,700.00        248,962.94        147,533.01
-WRIGHT MEDICAL GROUP INC                   0.000 WMGI    98235T107     17.9000         5,000.00         62,500.00         89,500.00
-ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     30.5400         7,290.00        203,317.10        222,636.60
-
-Instrument Total            57                                                     1,088,870.00     47,754,710.08     49,603,384.08
-
-Portfolio Total             57                                                     1,088,870.00     47,754,710.08     49,603,384.08
-
+AWARE INC.                                 0.000 AWRE    05453N100      8.3000           700.00          9,692.50          5,810.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109     12.8900         2,500.00         27,681.25         32,225.00
+AXT INC.                                   0.000 AXTI    00246W103     14.4300           900.00         15,029.37         12,987.01
+BARRA INC                                  0.000 BARZ    068313105     47.0900           500.00         26,051.25         23,545.00
+BEI TECHNOLOGIES INC                       0.229 BEIQ    05538P104     17.4400           300.00          8,502.00          5,232.00
+BEL FUSE INC-CL B                          0.798 BELFB   077347300     25.0500           200.00          6,691.50          5,010.00
+BELL MICROPRODUCTS INC                     0.000 BELM    078137106     12.6200           500.00          6,367.75          6,310.00
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     18.9600           500.00          8,155.00          9,480.00
+BLACK BOX CORPORATION                      0.000 BBOX    091826107     52.8800           500.00         26,275.50         26,440.00
+BMC SOFTWARE                               0.000 BMC     055921100     16.3700         6,300.00        146,356.93        103,131.00
+BROADCOM CORP CL A                         0.000 BRCM    111320107     40.8700         7,000.00        361,929.53        286,090.01
+BROOKS AUTOMATION INC                      0.000 BRKS    11434A100     40.6700           500.00         17,784.00         20,335.00
+BROOKTROUT INC                             0.000 BRKT    114580103      6.5000           300.00          2,087.25          1,950.00
+C-COR ELECTRONICS                          0.000 CCBL    125010108     14.5700           900.00         10,204.25         13,113.00
+CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109     13.6800         1,100.00         20,139.50         15,048.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     79.2500           700.00         43,086.00         55,475.00
+CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850           400.00          4,975.88         15,794.00
+CADENCE DESIGN SYS INC                     0.000 CDN     127387108     21.9200         6,500.00        162,133.00        142,480.00
+CAPTARIS INC.                              0.000 CAPA    14071N104      3.6900           800.00          3,988.50          2,952.00
+CARREKER CORPORATION                       0.000 CANI    144433109      5.9000           500.00         11,688.00          2,950.00
+CATAPULT COMMUNICATIONS CORP               0.000 CATT    149016107     26.0600           300.00          8,044.50          7,818.00
+CERNER CORP.                               0.000 CERN    156782104     49.9300           900.00         43,768.25         44,937.00
+CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     13.4000           800.00          7,884.00         10,720.00
+CIBER INC.                                 0.000 CBR     17163B102      9.4500         1,400.00          8,515.75         13,230.00
+CIENA CORP.                                0.000 CIEN    171779101     14.3100         8,000.00        123,035.94        114,480.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100     13.2200         2,500.00         31,219.95         33,049.99
+CISCO SYSTEMS                              0.000 CSCO    17275R102     18.1100       192,200.00      7,223,314.79      3,480,742.00
+CITRIX SYSTEMS INC                         0.000 CTXS    177376100     22.6600         4,800.00        124,302.00        108,768.00
+COGNEX CORP.                               0.000 CGNX    192422103     25.6100         1,100.00         25,086.75         28,171.00
+COHERENT INC.                              0.000 COHR    192479103     30.9200           800.00         22,400.00         24,736.00
+COHU INC.                                  1.012 COHU    192576106     19.7500           500.00          8,730.00          9,875.00
+COMMSCOPE INC.                             0.000 CTV     203372107     21.2700         1,400.00         27,574.00         29,778.00
+COMPAQ COMPUTER CORP.                      1.024 CPQ     204493100      9.7600        44,300.00        790,560.63        432,368.00
+COMPUTER ASSOCIATE INTL. INC.              0.232 CA      204912109S    34.4900        15,200.00        362,680.68        524,248.00
+COMPUTER SCIENCES                          0.000 CSC     205363104     48.9800         4,400.00        218,148.25        215,512.00
+COMPUTER TASK GROUP INC.                   0.000 CTG     205477102      3.9400           500.00          2,198.00          1,970.00
+COMPUWARE CORP                             0.000 CPWR    205638109     11.7900         9,600.00        101,242.71        113,184.00
+COMVERSE TECHNOLOGY INC.                   0.000 CMVT    205862402     22.3700         4,500.00        347,554.75        100,665.00
+CONCORD COMMUNICATIONS INC                 0.000 CCRD    206186108     20.6500           300.00          3,231.00          6,195.00

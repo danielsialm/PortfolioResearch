@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 015
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 017
 
 Monthly Market Portfolio
 
@@ -6,13 +6,13 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-FORCO   FOREIGN & COLONIAL
+Portfolio  - I-GEN     GENESIS
 Instrument - INTF      INTERNATIONAL FUNDS
 
-FOREIGN & COLONIAL - EQUITIES                0.000     IE-FOR                 3,982,798.10      398,279,810.14
-FOREIGN & COLONIAL - FIXED INCOME            0.000     IF-FOR                   510,036.23       51,003,623.40
-FOREIGN & COLONIAL - LQR                     0.000     IL-FOR                    64,578.21        6,457,821.12
+GENESIS - EQUITIES                           0.000     IE-GEN                 4,855,086.17      485,508,617.49
+GENESIS - FIXED INCOME                       0.000     IF-GEN                   377,852.97       37,785,297.18
+GENESIS - LIQUIDITY RESERVES                 0.000     IL-GEN                   170,069.16       17,006,916.98
 
-Instrument Total               3                                              4,557,412.54      455,741,254.66
+Instrument Total               3                                              5,403,008.31      540,300,831.65
 
-Portfolio Total                3                                              4,557,412.54      455,741,254.66        421,473,010.47
+Portfolio Total                3                                              5,403,008.31      540,300,831.65        480,369,033.74

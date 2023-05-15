@@ -1,0 +1,15 @@
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+HUFF - FIXED INCOME                0.0000  0.000 IF-HUFF            00/00/0000     2,276,452.63    227,645,263.11
+HUFF - LIQUIDITY                   0.0000  0.000 IL-HUFF            00/00/0000       302,765.21     30,276,521.25
+
+Instrument Total               2                                                   2,579,217.84    257,921,784.36
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+SECURITY LENDING INCOME - EXT.     0.0000  0.000 SL-EXFI            00/00/0000             0.00              0.00
+
+Instrument Total             1                                                             0.00              0.00
+
+Portfolio Total              3                                                     2,579,217.84    257,921,784.36    239,096,703.67
+

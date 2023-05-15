@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 174
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+CORN PRODUCTS INT'L INC.                   1.393 CPO     219023108     34.4500        17,600.00        501,204.35        606,320.00
+CORRECTIONS CORP OF                        0.000 CXW     22025Y407     28.8300        12,900.00        254,884.65        371,907.00
+CROWN CASTLE INTL CO                       0.000 CCI     228227104     11.0300         5,700.00         63,327.00         62,871.00
+CSS INDS INC                               1.031 CSS     125906107     31.0100         3,400.00         87,181.27        105,434.00
+CT COMMUNICATIONS IN                       1.925 CTCI    126426402     13.5000           100.00          1,244.00          1,350.00
+CTS CORP.                                  1.043 CTS     126501105     11.5000        33,600.00        249,144.43        386,400.00
+CURAGEN CORP                               0.000 CRGN    23126R101      7.3300         1,700.00         10,121.40         12,461.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     21.3600         3,100.00         65,928.01         66,216.00
+D&K HEALTHCARE RESOURCES                   0.442 DKHR    232861104     13.5600         4,502.00         70,072.55         61,047.12
+DADE BEHRING HOLDINGS INC                  0.000 DADE    23342J206     35.7400        23,296.00        627,934.87        832,599.04
+DATASCOPE CORP                             0.557 DSCP    238113104     35.8500         6,500.00        150,507.82        233,025.00
+DECODE GENETICS INC                        0.000 DCGN    243586104      8.1900        40,800.00        315,373.05        334,152.00
+DEPARTMENT 56 INC                          0.000 DFS     249509100     13.1000        12,300.00        172,307.25        161,130.00
+DILLARDS INC. CL-A                         0.972 DDS     254067101Q    16.4600        60,000.00        961,908.32        987,600.00
+DIMON INC.                                 4.444 DMN     254394109      6.7500        35,900.00        237,349.25        242,325.00
+DOMINION HOMES INC                         0.000 DHOM    257386102     30.3300         6,900.00        151,863.37        209,277.00
+DOVER MOTORSPORTS IN                       1.142 DVD     260174107      3.5000         2,900.00         12,983.33         10,150.00
+DRIL-QUIP INC                              0.000 DRQ     262037104     16.3000        10,400.00        167,594.77        169,520.00
+DRS TECHNOLOGIES INC                       0.000 DRS     23330X100     27.7800        32,100.00        873,546.24        891,738.00
+DUCOMMUN INC DEL                           0.000 DCO     264147109     22.3500         3,700.00         60,544.70         82,695.00
+DURA AUTOMOTIVE SYST                       0.000 DRRA    265903104     12.7700        21,500.00        203,679.38        274,555.00
+E.PIPHANY INC                              0.000 EPNY    26881V100      7.2100        39,100.00        193,331.82        281,911.00
+EFUNDS CORP                                0.000 EFD     28224R101     17.3500        59,400.00        690,814.17      1,030,590.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     13.3500         7,100.00         84,072.52         94,785.00
+EMERSON RADIO CORP                         0.000 MSN     291087203      3.7600        16,900.00        120,683.63         63,544.00
+EMS TECHNOLOGIES INC                       0.000 ELMG    26873N108     20.5400         7,593.00        142,214.69        155,960.22
+ENCORE ACQUISITION CO                      0.000 EAC     29255W100     24.6500         9,000.00        200,995.32        221,850.00
+ENCORE WIRE CORP                           0.000 WIRE    292562105     17.7100         5,200.00         58,589.44         92,092.00
+ENERGEN CORP.                              1.803 EGN     29265N108     41.0300        20,000.00        584,615.52        820,599.99
+ESS TECHNOLOGY                             0.000 ESST    269151106     17.0100        39,100.00        599,238.78        665,091.00
+ESTERLINE TECHNOLOGIES CORP                0.000 ESL     297425100     26.6700        17,800.00        372,880.50        474,726.00
+EXPONENT INC                               0.000 EXPO    30214U102     21.4000           900.00         18,963.90         19,260.00
+EXTENDED STAY AMERICA INC                  1.105 ESA     30224P101     14.4800        67,500.00        971,681.30        977,400.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     24.9700         4,600.00        110,784.10        114,862.00
+FIRST FINANCIAL HOLDINGS INC               2.815 FFCH    320239106     31.2600         3,200.00         77,695.68        100,032.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     11.2000        29,100.00        143,752.88        325,920.00
+FIRST MERCHANTS CORP                       3.605 FRME    320817109     25.5200         3,900.00        105,012.40         99,528.00
+FIRST NIAGARA FINL G                       1.609 FNFG    33582V108     14.9100        17,700.00        237,822.51        263,907.00
+FIRST REPUBLIC BANK                        1.396 FRC     336158100     35.8000        21,000.00        463,050.00        751,800.00

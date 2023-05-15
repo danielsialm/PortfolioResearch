@@ -1,0 +1,58 @@
+Instrument - A         APARTMENT
+
+AMLI AT DANADA FARMS           WHEATON, IL                     8.800         RAMLID                 21,257,711.88     29,250,000.00
+ARBORS OF ANDERSON I           CINCINNATI                      9.000         RANBR1                 19,795,548.07     20,500,000.00
+HIGHPOINT WOODS APARTMENTS     ROMEOVILLE, IL                  0.000         RHPNTW                 31,000,000.00     33,000,000.00
+PARK GLEN                      MINNEAPOLIS                     6.900         RPKGNW                 15,712,000.00     24,000,000.00
+
+Instrument Total             4                                                                      87,765,259.95    106,750,000.00
+
+Instrument -I      INDUSTRIAL
+
+ADDISON BUSINESS               ADDISON, IL                     9.660         RSHAPE                  3,211,109.50      3,500,000.00
+ALBRECHT                       LAKE BLUFF, IL                  8.800         RALBCT                 12,800,318.60     12,300,000.00
+CAROL POINT                    CAROL STREAM, IL                7.990         RCAROL                 12,428,505.00     12,700,000.00
+ENTERPRISE                     AURORA, IL                      8.500         RENTPR                  6,995,995.00      7,100,000.00
+ST. CHARLES BUSINESS PARK      ST. CHARLES                     5.000         RSTCHP                  3,606,062.31      4,900,000.00
+
+Instrument Total             5                                                                      39,041,990.41     40,500,000.00
+
+Instrument -O      OFFICE
+
+500 WEST MONROE                CHICAGO                         0.000         RWTMN1                          0.01      5,776,874.00
+77 W. WACKER                   CHICAGO, IL                     0.000         RDONBD                 88,087,250.00     88,200,000.00
+ATRIUM II                      CINCINNATI OH                  13.500         RATRM2                 73,038,104.00     83,700,000.00
+CAMPUS VIEW PLAZA              COLUMBUS                       11.400         RCVPL1                 12,000,000.00     12,700,000.00
+CORPORATE HILL I               WORTHINGTON                     9.000         RCORP1                  7,282,000.00      6,500,000.00
+CORPORATE HILL II              WORTHINGTON                    10.000         RCORP2                  4,718,000.00      5,900,000.00
+HUNTINGTON BANK CENTER         COLUMBUS, OH                    6.100         RHUNT2                 48,932,998.15     46,400,000.00
+KEY CENTER                     CLEVELAND, OH                   9.200         RKEYCT                 71,000,000.00     78,500,000.00
+LAKEPOINT OFFICE               CLEVELAND, OH                   8.210         RLAKPT                 12,836,780.37     14,400,000.00
+MERIDIAN CROSSINGS             RICHFIELD, MN                   0.000         RMERCR                 26,998,144.00     26,800,000.00
+MERIDIAN CROSSINGS PHASE II    77TH ST. RICHFIELD, MN          0.000         RMERC2                 28,961,603.74     28,908,840.00
+NATIONAL CITY PLAZA            COLUMBUS OH                     9.500         RBANC1                 42,000,000.00     38,500,000.00
+
+Instrument Total            12                                                                     415,854,880.27    436,285,714.00
+
+Instrument -R      RETAIL
+
+BELDEN PARKE CROSSING          CANTON, OH                      9.400         RBELDN                  6,198,181.80      5,900,000.00
+KENWOOD TOWNE CENTRE           CINCINNATI                      8.000         RKWTC1                189,516,546.91    217,000,000.01
+MACEDONIA COMMONS              MACEDONIA, OH                   9.300         RMACDN                  5,999,050.03      6,200,000.00
+
+Instrument - R         RETAIL
+
+OLENTANGY PLAZA                COLUMBUS                       10.000         ROPL01                 15,818,833.15     23,100,000.00
+STRATFORD SQUARE MALL          CHICAGO                         9.000         RSFSQ1                 34,219,150.29     31,250,000.00
+VILLAGE CROSSING               SKOKIE/NILES                    9.600         RVLCR1                 37,893,105.51     23,500,000.00
+
+Instrument Total             6                                                                     289,644,867.69    306,950,000.01
+
+Instrument -X      OTHER
+
+WESTBELT WEST PK               COLUMBUS                       10.000         RWSBT1                    787,645.14        424,999.99
+
+Instrument Total             1                                                                         787,645.14        424,999.99
+
+Portfolio Total             28                                                                     833,094,643.46    890,910,714.00
+

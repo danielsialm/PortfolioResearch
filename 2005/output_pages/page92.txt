@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:19   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 059
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+GREIF INC                                  1.448 GEF     397624107     66.2800        21,100.00        957,021.11      1,398,508.00
+GREY WOLF INC                              0.000 GW      397888108      7.7300       201,300.00      1,102,236.35      1,556,049.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     23.8100        30,700.00        632,346.29        730,967.00
+GROUP 1 AUTOMOTIVE                         0.000 GPI     398905109     31.4300        34,000.00        943,794.99      1,068,620.00
+GSI COMMERCE INC                           0.000 GSIC    36238G102     15.0900        10,700.00        125,419.53        161,463.00
+GTX INC.                                   0.000 GTXI    40052B108      7.5600         8,000.00         86,628.40         60,480.00
+GUESS INC                                  0.000 GES     401617105     35.6000        32,000.00        543,401.07      1,139,200.00
+GUITAR CENTER INC                          0.000 GTRC    402040109     50.0100        25,800.00        949,056.05      1,290,258.00
+GULF ISLAND FABRICAT                       1.234 GIFI    402307102     24.3100        20,600.00        425,950.66        500,786.00
+GULFMARK OFFSHORE INC                      0.000 GMRK    402629109     29.6200        15,600.00        247,314.09        462,072.00
+GYMBOREE CORP                              0.000 GYMB    403777105     23.4000        32,900.00        441,047.33        769,860.00
+HAEMONETICS CORP/MASS                      0.000 HAE     405024100     48.8600        34,300.00      1,117,651.24      1,675,898.00
+HAIN CELESTIAL GROUP                       0.000 HAIN    405217100     21.1600        30,800.00        661,807.16        651,728.00
+HANCOCK HLDG CO                            2.062 HBHC    410120109     37.8100        28,200.00        731,479.64      1,066,242.00
+HANDLEMAN CO.                              2.576 HDL     410252100     12.4200        23,100.00        412,244.63        286,902.00
+HANMI FINL CORP                            1.119 HAFC    410495105     17.8600        42,078.00        646,572.89        751,513.08
+HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105     14.1100        95,100.00      1,504,205.20      1,341,861.00
+HANSEN NATURAL CORP                        0.000 HANS    411310105     78.8100        15,700.00        348,475.61      1,237,317.00
+HARBOR FLA BANCSHARE                       2.969 HARB    411901101     37.0500        21,958.00        593,209.34        813,543.90
+HARLAND JOHN H CO                          1.595 JH      412693103Q    37.6000        34,800.00        914,032.06      1,308,480.00
+HARLEYSVILLE GROUP INC                     2.641 HGIC    412824104     26.5000        27,000.00        588,998.15        715,500.00
+HARLEYSVILLE NATL CO                       3.979 HNBC    412850109     19.1000        29,100.00        646,218.17        555,810.00
+HARMONIC INC.                              0.000 HLIT    413160102      4.8500         1,200.00          9,322.15          5,820.00
+HARTMARX CORP.                             0.000 HMX     417119104      7.8100        68,500.00        485,111.80        534,985.00
+HARVEST NATURAL RESO                       0.000 HNR     41754V103      8.8800        74,100.00        756,668.51        658,008.00
+HAVERTY FURNITURE                          2.094 HVT     419596101     12.8900        20,600.00        382,786.12        265,534.00
+HEADWATERS INC                             0.000 HW      42210P102     35.4400        31,637.00        719,854.76      1,121,215.28
+HEALTHCARE SVCS GRP                        1.738 HCSG    421906108     20.7100        28,200.00        326,161.69        584,022.00
+HEALTHEXTRAS INC                           0.000 HLEX    422211102     25.1000         1,500.00         31,680.45         37,650.00
+HEARTLAND EXPRESS INC.                     0.394 HTLD    422347104     20.2900        47,900.00        504,860.55        971,891.00
+HEARTLAND FINANCIAL USA INC                1.659 HTLF    42234Q102     21.7000        11,200.00        225,481.34        243,040.00
+HEARTLAND PAYMENT SYSTEMS                  0.000 HPY     42235N108     21.6600         6,800.00        163,578.14        147,288.00
+HECLA MINING CO.                           0.000 HL      422704106      4.0600        23,100.00        122,733.58         93,786.00
+HEICO CORP                                 0.309 HEI     422806109     25.8800        22,700.00        367,170.26        587,476.00
+HEIDRICK & STRUGGLES INTL                  0.000 HSII    422819102     32.0500        29,300.00      1,048,517.97        939,065.00
+HENRY (JACK) & ASSOCIATES                  0.943 JKHY    426281101     19.0800        53,500.00      1,002,957.33      1,020,780.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q    11.3000        82,500.00        987,802.47        932,250.00
+HERCULES OFFSHORE INC                      0.000 HERO    427093109     28.4100         9,700.00        249,290.00        275,577.00
+HERITAGE COMMERCE CORP                     0.000 HTBK    426927109     21.5000        12,500.00        231,832.50        268,750.00

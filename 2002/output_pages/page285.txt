@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CATHAY LIFE INSURANCE CO                     0.000     6425663      73833     1,120,021.51        1,257,949.87
+CEMEX SA PTG CERTS                           0.000     2406457      CEMEX       575,000.00        2,722,083.08
+CEMIG CIA ENERG MG                           0.000     2192712      CMIG4    34,999,999.72          446,244.77
+CESKE ENERGETICKE ZAVODY                     0.000     5624030      CEZ_C       334,433.00          903,121.37
+CESKY TELECOM                                0.000     5272569      SPTT_        59,688.00          698,721.59
+CHECK POINT SOFTWARE TECH                    0.000     2181334      CHKP         85,755.00        3,284,510.51
+CHEIL JEDANG CORP                            0.001     6189516      0104_         9,000.00          351,695.73
+CHINA MOBILE HK LTD HKD 0.1                  0.000     6073556      941_H     1,486,000.00        6,306,759.05
+CHINA RESOURCES ENTERPRISES                  0.000     6972459      291_H     1,120,000.00        1,684,776.78
+CHINA RESOURCES LAND                         0.000     6193766      1109_     6,100,000.00          680,361.61
+CHINA STEEL CORP                             0.000     6190950      73840     2,443,193.60        1,189,933.05
+CHINA UNICOM                                 0.000     6263830      762_H     2,044,000.00        3,331,610.70
+CHINATRUST FINANCIAL HOLDING CO.             0.000     6527666      2891_     2,175,992.00        1,500,459.54
+CIA DE MINAS BUENAVENTURA-B                  0.055     2894988      CMB/C        75,000.00          799,325.01
+CIA SIDERURGICA NACIONAL ADR                 0.000     2220936      SID          55,000.00          701,426.80
+CIA TELECOM CHILE-ADR                        0.104     2213635      CTC          60,000.00          712,175.33
+CIA VALE DO RIO DOCE - ADR                   0.000     2857334      RIO          40,000.00          988,277.34
+CIPLA LIMITED                                0.000     6099972      CIPLA        19,247.00          393,794.52
+COFCO INTERNATIONAL LTD.                     0.000     6105738      506_H     2,500,000.00          665,158.23
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_        66,176.00          566,048.93
+COMPAL ELECTRONICS                           0.000     6225744      2324_     2,034,000.00        2,017,280.70
+COMPANHIA DE BEBIDAS ADR                     1.542     2634797      ABV          90,000.00        1,777,769.34
+CONSORCIO ARA S.A.                           0.000     2209731      ARA*_       350,000.00          495,457.39
+COPEL ADR                                    3.558     2209656      ELP         255,000.00        1,532,220.28
+COSCO PACIFIC LIMITED                        0.000     6354251      1199_     1,076,000.00          785,848.95
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     1,167,852.99        1,843,987.38
+DELTA ELECTRONICS THAI-FORGN                 0.279     6418919      DELTA       228,000.00          164,871.49
+DIMENSION DATA HLDGS PLC                     0.000     6264639      DDT_S     1,800,000.00        1,775,802.57
+DISTRIBUCION Y SERVICIO-ADR                  0.700     2111513      DYS          60,000.00          750,513.09
+DOCTOR REDDY'S LAB - ADR                     0.258     2748881      RDY          18,000.00          305,719.20
+DR REDDY'S LABORATORIES                      0.000     6410959      DRRD_        19,064.00          358,068.06
+ECI TELECOM ORD IL                           9.852     2310150      ECIL         29,113.00          240,248.99
+ELECTRICITY GENRTG                           0.154     6304643      EGCOM        86,500.00          120,506.81
+EMBOTELLADORA ANDINA-ADR A                   2.149     2299765      AKO/A        40,000.00          498,552.83
+EMBRAER-EMPRESA ADR                          7.295     2611916      ERJ          45,000.00          859,078.27
+EMPRESAS CMPC S.A.                           0.000     2196015      CMPC_        60,000.00          521,144.00
+EMPRESAS NACIONAL ADR                        0.390     2311131      EOC          65,000.00          700,676.96
+FOMENTO ECON MEXIC                           0.000     2242059      FEMSA       500,000.00        1,588,226.27
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    12,190,753.00          281,104.04

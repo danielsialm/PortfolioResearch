@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 033
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TNT NV                                       2.635     5481558      TNT_N        68,420.00        1,939,903.43
+TOHOKU ELECTRIC PO                           0.017     6895266      9506_       122,200.00        2,206,517.82
+TOKYO ELEC POWER Y                           0.017     6895404      9501_       311,200.00        7,446,604.15
+TOKYO ELECTRON Y50                           0.005     6895675      8035_         8,500.00          539,324.38
+TOKYO GAS CO Y50                             0.011     6895448      9531_       319,800.00          960,488.97
+TOLL HOLDINGS LIMITED                        1.304     6693749      TOL_A         3,340.00           35,302.72
+TONENGENERAL SEKIYU                          0.024     6366007      5012_        83,000.00          939,427.78
+TOPDANMARK                                   0.000     5797147      TOP_D        16,400.00        1,401,588.90
+TOPPAN PRINTING CO                           0.011     6897024      7911_       105,000.00        1,142,349.85
+TORAY INDUSTRIES I                           0.007     6897143      3402_       146,000.00          682,945.67
+TOSHIBA CORP                                 0.007     6897217      6502_       125,100.00          521,301.41
+TOTAL SA                                     3.334     4905413      FP_FP        72,410.00       14,228,691.49
+TOYOTA INDUSTRIES CORP                       0.007     6900546      6201_        47,200.00        1,285,751.21
+TOYOTA MOTOR CORP                            0.011     6900643      7203_       271,276.00        8,894,548.71
+TRANSCANADA CORP                             2.850     2665184      TRP_C        14,200.00          316,119.67
+TRANSURBAN GROUP                             5.555     6200882      TCL_A        24,140.00          130,486.61
+TUI AG                                       5.267     5666292      TUI1_        62,314.00        1,386,521.60
+UBS AG-REG                                   1.820     7126114      UBSN_        35,146.00        2,898,203.90
+UCB ORD BEF                                  1.917     5596991      UCB_B        30,556.00        1,033,861.81
+UNIBAIL SA EUR                               4.131     7076242      UL_FP        12,270.00        1,767,502.65
+UNILEVER NV CERT.                            3.914     5640898      UNA_N       111,144.00        7,549,446.02
+UNILEVER ORD 1.4P                            5.832     0574873      ULVR_       208,602.00        1,685,816.68
+UNION MINIERE NPV                            1.465     4005001      UMI_B        17,304.00        1,755,714.90
+UNITED OVERSEAS BA                           2.471     6916781      UOB_S       611,200.00        5,018,824.15
+UTD O/S LAND SG 1                            1.437     6916844      UOL_S       359,420.00          500,689.61
+UTD UTILITIES ORD                           11.491     0646233      UU/_L        81,100.00          744,692.06
+VALEO FRF20                                  4.130     4937579      FR_FP         7,850.00          325,540.20
+VENTURE MFG SGD0.2                           2.179     6927374      VMS_S       110,500.00        1,121,237.04
+VESTAS WIND SYSTEMS A/S                      0.114     5964651      VWS_D        84,700.00        1,248,050.04
+VINCI GTM                                    3.003     B08J473      DG_FP        19,360.00        1,480,133.17
+VIVENDI ENVIRONNEM EUR                       2.276     4031879      VIE_F        30,151.00        1,079,787.75
+VIVENDI UNIVERSAL EUR                        2.674     4834777      EX_FP       127,850.00        3,856,089.04
+VNU NV EUR                                   2.315     4970950      VNUA_        51,201.00        1,577,452.73
+VODAFONE GROUP                               5.963     0719210      VOD_L     3,676,111.00        8,976,320.39
+VOEST-ALPINE                                 2.908     4943402      VOE_A        42,843.00        3,253,931.46
+VOLKSWAGEN AG                                2.771     5497102      VOW_G        38,502.00        1,861,999.69
+VOLKSWAGEN AG NON                            4.046     5497168      VOW3_        43,846.00        1,833,333.90
+WERELDHAVE                                   0.000     4948623      WHA_N         9,100.00          855,406.15
+WESFARMERS LTD                               3.570     6948836      WES_A         8,711.00          256,828.62

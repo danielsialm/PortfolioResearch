@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 011
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 013
 
 Monthly Market Portfolio
 
@@ -6,12 +6,12 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-BABS    COLONIAL FIRST STATE
+Portfolio  - I-SANF    BERSTEIN EMERGING MA
 Instrument - INTF      INTERNATIONAL FUNDS
 
-BABSON STEWART - EQUITIES                    0.000     IE-BAB                 3,523,377.75      352,337,775.30
-BABSON STEWART - LQR                         0.000     IL-BAB                   129,660.97       12,966,097.95
+BERNSTEIN EMERGING - EQUITIES                0.000     IE-SAN                 3,935,399.46      393,539,946.92
+BERNSTEIN EMERGING - LIQUIDITY               0.000     IL-SAN                   148,660.24       14,866,024.64
 
-Instrument Total               2                                              3,653,038.73      365,303,873.25
+Instrument Total               2                                              4,084,059.71      408,405,971.56
 
-Portfolio Total                2                                              3,653,038.73      365,303,873.25        343,608,738.88
+Portfolio Total                2                                              4,084,059.71      408,405,971.56        336,077,261.34

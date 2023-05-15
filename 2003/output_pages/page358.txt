@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+GAMBRO AB A                                  0.000     5450031      GAMBA     1,683,000.00        9,804,188.20
+GIORDANO INTL                                0.000     6282040      709_H    14,574,000.00        3,803,033.16
+GKN ORSH 0.5GBP                         73,525.723     3064650      GKN_L     2,875,000.00        8,327,070.92
+GREAT EAGLE HOLDINGS LTD                     0.000     6387406      41_HK     5,000,000.00        6,781,230.80
+HEIDELBERGER DRUCKMASCHINEN                 74.103     5367227      HDD_G       268,763.00        4,518,672.83
+HONG KONG ELECTRIC HKD1                      0.000     6435327      6_HK      1,802,800.00        6,297,932.20
+IMPERIAL CHEM INDS                          66.985     0459497      ICI_L     1,608,964.00        5,118,884.85
+INTESABCI SPA                                2.453     4076836      BIN_I     2,999,999.50        9,893,664.03
+ITO-YOKADO CO JPY5                           0.000     6467944      8264_       375,000.00       15,969,402.90
+KINROSS GOLD CORP                            0.000     2335681      K_CN        620,000.00        4,544,528.24
+KIRIN BREWERY CO C                           0.000     6493745      2503_       540,000.00        3,835,190.87
+KOKUYO CO Y50                                0.000     6496506      7984_       780,000.00        7,818,346.95
+MAN AG ORSH NPV                             20.117     5563520      MAN_G       200,000.00        4,548,483.33
+MATSUSHITA ELC IND                           0.000     6572707      6752_       718,000.00       12,121,972.80
+METSO OYJ                                  319.618     5713422      MEO1V       800,600.00        7,804,381.02
+MICHELIN (CGDE)                             16.346     4588364      ML_FP       280,000.00       10,368,226.75
+MINISTOP CO                                  0.000     6583851      9946_       490,000.00        6,755,925.45
+MITSUBISHI HVY IND                           0.000     6597067      7011_     2,317,000.00        8,943,837.77
+NEWMONT MINING CORP - CHESS                  0.194     6509772      NEM_A     4,000,000.00        5,152,186.37
+NIPPON PAINT CO LTD                          0.000     6640507      4612_     2,650,000.00        6,718,049.43
+NIPPON TEL+TEL CP                            0.000     6641373      9432_         1,300.00        7,138,411.83
+NISSAN MOTOR CO Y5                           0.000     6642860      7201_       800,000.00        4,079,282.33
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N       260,000.00       10,394,501.88
+NOVARTIS AG CHF 20                           0.383     7103065      NOVN_       290,000.00       11,027,937.73
+NTT DOCOMO INC                               0.000     6129277      9437_         6,400.00       16,971,776.85
+NUTRECO HOLDING                             91.995     5183359      NUT_N       300,000.00        7,236,239.90
+OCE NV NLG1                              3,980.423     5446751      OCEN_     1,064,085.00        9,039,485.66
+OMRON CORP Y50                               0.000     6659428      6645_       580,000.00        8,683,222.25
+OUTOKUMPU OYJ A                             18.833     4665148      OUT1V       745,000.00        5,863,276.02
+P & O STEAM                              1,984.253     0680048      PO/_L     1,900,000.00        6,483,948.36
+PEUGEOT SA FF35                             10.655     7103526      UG_FP       142,000.00        4,872,152.27
+PHILIPS ELECTRONICS                          6.253     5986622      PHIA_       392,876.00       11,968,240.87
+PLACER DOME INC                              0.119     2691714      PDG_C       645,000.00        7,276,681.72
+REPSOL - YPF, SA                            28.201     5669354      REP_S       600,000.00        9,547,054.08
+RIO TINTO PLC                               44.148     0718875      RIO_L       390,000.00        6,717,070.85
+ROCHE HLDGS AG GEN                           0.325     7110388      ROG_V       120,000.00       10,928,150.50
+ROLLS-ROYCE GROUP PLC                   13,840.516     3283648      RR/_L     5,200,000.00        8,070,017.48
+SANKYO CO                                    0.000     6775432      6417_       100,000.00        2,602,041.39
+SANKYO CO JPY50                              0.000     6775283      4501_       660,000.00       12,851,818.59

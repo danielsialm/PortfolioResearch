@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 112
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+FIRST ENERGY CORP.                         4.549 FE      337932107Q    32.9700        18,200.00        494,255.72        600,054.00
+FIRST TENNESSEE NATL CORP                  3.338 FTN     337162101     35.9400         5,600.00        196,168.51        201,264.00
+FISERV INC. WISCONSIN                      0.000 FISV    337738108     33.9500        11,000.00        331,720.94        373,450.01
+FLEETBOSTON FINANCIAL CORP                 5.761 FBF     339030108Q    24.3000        32,500.00        879,622.71        789,750.00
+FLUOR CORP (NEW)                           2.285 FLR     343412102     28.0000           600.00         23,039.32         16,800.00
+FORD MOTOR COMPANY                         4.301 F       345370860      9.3000        24,000.00        614,217.15        223,200.00
+FOREST LABORATORIES INC.                   0.000 FRX     345838106     98.2200         8,300.00        549,687.45        815,226.00
+FORTUNE BRANDS INC.                        2.322 FO      349631101Q    46.5100        11,000.00        486,403.96        511,610.00
+FPL GROUP INC.                             3.858 FPL     302571104Q    60.1300         5,300.00        290,707.88        318,689.00
+FRANKLIN RESOURCES INC                     0.880 BEN     354613101Q    34.0800         7,900.00        282,846.27        269,232.00
+FREDDIE MAC                                1.490 FRE     313400301Q    59.0500        12,300.00        571,808.42        726,315.00
+FREEPORT MCMORAN CLASS B                   0.000 FCX     35671D857     16.7800        23,500.00        329,803.52        394,330.00
+GANNETT INC                                1.337 GCI     364730101Q    71.8000         6,900.00        432,849.21        495,420.00
+GAP INC                                    0.579 GPS     364760108Q    15.5200        24,000.00        630,699.87        372,480.00
+GENERAL DYNAMICS CORP.                     1.511 GD      369550108Q    79.3700         5,800.00        347,638.72        460,346.00
+GENERAL ELECTRIC CO                        3.121 GE      369604103Q    24.3500       219,300.00      6,061,267.23      5,339,955.01
+GENERAL MILLS INC                          2.342 GIS     370334104Q    46.9500         9,400.00        393,269.16        441,330.00
+GENERAL MOTORS CORP                        5.425 GM      370442105Q    36.8600         9,400.00        458,120.99        346,484.00
+GENUINE PARTS CO                           3.766 GPC     372460105Q    30.8000         8,200.00        259,233.43        252,560.00
+GENZYME CORP. GEN. DIV.                    0.000 GENZ    372917104     29.5700         3,600.00        108,206.21        106,452.00
+GILLETTE CO                                2.141 G       375766102Q    30.3600        16,200.00        560,304.81        491,832.00
+GOLDEN WEST FINANCIAL CORP                 0.473 GDW     381317106Q    71.8100         7,900.00        334,674.91        567,299.00
+GOLDMAN SACHS GROUP INC                    0.704 GS      38141G104     68.1000        15,800.00      1,171,396.54      1,075,980.00
+GOODRICH CORP.                             4.366 GR      382388106Q    18.3200         1,200.00         39,385.43         21,984.00
+GRAINGER W W INC                           1.396 GWW     384802104Q    51.5500        12,900.00        607,506.73        664,995.00
+GREAT LAKES CHEMICAL CORP.                 1.507 GLK     390568103Q    23.8800         5,700.00        142,496.12        136,116.00
+GUIDANT CORP.                              0.000 GDT     401698105Q    30.8500        11,100.00        388,988.62        342,435.00
+H & R BLOCK INC.                           1.791 HRB     093671105Q    40.2000        14,600.00        597,906.44        586,920.01
+HALLIBURTON COMPANY                        2.672 HAL     406216101Q    18.7100        21,600.00        457,780.99        404,136.00
+HARLEY-DAVIDSON INC                        0.303 HDI     412822108Q    46.2000         8,300.00        332,156.80        383,460.00
+HARRAH'S ENTERTAINMENT INC.                0.000 HET     413619107     39.6000        20,100.00        678,472.90        795,960.00
+HARTFORD FINL SERVICES                     2.377 HIG     416515104     45.4300         7,300.00        362,069.04        331,639.00
+HASBRO BRADLEY                             1.039 HAS     418056107Q    11.5500         4,400.00         61,524.00         50,820.00
+HCA INC                                    0.192 HCA     404119109     41.5000        12,500.00        406,444.28        518,750.00
+HEALTH MGMT ASSOCIATES CL A                0.446 HMA     421933102     17.9000        17,900.00        314,147.92        320,410.00
+HEINZ H. J. CO.                            4.928 HNZ     423074103Q    32.8700        15,000.00        510,139.14        493,050.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q     8.8000        15,500.00        158,014.50        136,400.00
+HERSHEY FOODS CORP.                        1.942 HSY     427866108Q    67.4400        11,400.00        705,363.78        768,816.00
+HEWLETT-PACKARD CO                         1.843 HPQ     428236103Q    17.3600        33,600.00      1,003,958.61        583,296.00

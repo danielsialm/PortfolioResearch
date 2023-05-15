@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 100
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109      7.6500       101,700.00        690,060.84        778,005.00
+POZEN INC                                  0.000 POZN    73941U102     10.2000        41,300.00        479,462.01        421,260.00
+PRAECIS PHARMACEUTICALS INC                0.000 PRCS    739421105      6.4400        74,800.00        400,251.48        481,712.00
+PRE-PAID LEGAL SVCS                        0.000 PPD     740065107     26.1200        24,400.00        598,134.81        637,328.00
+PRESIDENTIAL LIFE                          3.039 PLFE    740884101     13.1600        24,900.00        467,180.74        327,684.00
+PRESSTEK INC                               0.000 PRST    741113104      7.2700        36,900.00        250,307.53        268,263.00
+PRG-SCHULTZ INTL INC                       0.000 PRGX    69357C107      4.9000        47,200.00        791,972.70        231,280.00
+PRICE COMMUNICATIONS CORP                  0.000 PR      741437305     13.7300        60,200.00        845,556.91        826,546.00
+PRICELINE.COM INC                          0.000 PCLN    741503403     17.9000        16,687.00        456,946.81        298,697.30
+PRIMA ENERGY CORP                          0.000 PENG    741901201     35.1600        10,800.00        242,209.93        379,728.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108     10.2000        58,600.00        733,407.46        597,720.00
+PRIMEDIA INC                               0.000 PRM     74157K101      2.8300       121,600.00        417,807.01        344,128.00
+PRIMUS TELECOMMUNICATIONS GROU             0.000 PRTL    741929103     10.1800        64,300.00        494,166.92        654,574.00
+PRINCETON REVIEW INC                       0.000 REVU    742352107      9.7500        19,300.00        137,857.14        188,175.00
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     24.1100        41,700.00        786,605.84      1,005,386.99
+PRIVATEBANCORP INC                         0.351 PVTB    742962103     45.5200         8,200.00        274,065.58        373,264.00
+PROASSURANCE CORP                          0.000 PRA     74267C106     32.1500        23,700.00        668,428.52        761,955.00
+PROGENICS PHARMACEUT                       0.000 PGNX    743187106     18.8600        21,400.00        357,207.73        403,604.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     20.4600        38,400.00        576,959.85        785,664.00
+PROQUEST COMPANY                           0.000 PQE     74346P102     29.4500        28,700.00        749,787.71        845,214.99
+PROSPERITY BANCSHARE                       1.110 PRSP    743606105     22.5200        16,700.00        341,326.49        376,084.00
+PROVIDENT BANCORP IN                       1.276 PBCP    743835100     47.0000         4,300.00        156,218.82        202,100.00
+PROVIDENT BANKSHARES CORPORATI             3.260 PBKS    743859100     29.4400        27,700.00        691,118.38        815,488.00
+PROVIDENT FINANCIAL HLDGS                  1.654 PROV    743868101     36.2700         8,800.00        277,468.12        319,176.00
+PROVIDENT FINANCIAL SERVICES               1.058 PFS     74386T105     18.9000        57,200.00      1,077,635.96      1,081,080.00
+PROVINCE HEALTHCARE COMPANY                0.000 PRV     743977100     16.0000        55,400.00      1,011,044.63        886,400.00
+PROXIM INC                                 0.000 PROX    744283102      1.6700       146,900.00        198,429.26        245,323.00
+PSS WORLD MEDICAL INC.                     0.000 PSSI    69366A100     12.0700        82,000.00        542,818.61        989,740.00
+PTEK HLDGS INC                             0.000 PTEK    69366M104      8.8100        51,600.00        334,066.42        454,596.00
+PUBLIC SERVICE CO OF N MEX                 3.274 PNM     69349H107     28.1000        47,300.00      1,250,534.48      1,329,130.00
+PULITZER INC                               1.407 PTZ     745769109     54.0000         5,500.00        272,460.66        297,000.00
+PUMATECH INC                               0.000 PUMA    745887109      3.9800        19,300.00         73,734.16         76,814.00
+QAD INC                                    0.000 QADI    74727D108     12.2600        23,000.00        309,531.91        281,980.00
+QUAKER CHEM CORP                           2.731 KWR     747316107Q    30.7500         3,600.00         76,811.20        110,700.00
+QUAKER CITY BANCORP                        1.718 QCBC    74731K106     46.5500         6,100.00        252,518.63        283,955.00
+QUALITY SYSTEMS INC                        0.000 QSII    747582104     44.5900         7,500.00        298,645.38        334,425.00
+QUANEX CORP                                1.475 NX      747620102     46.1000        19,600.00        601,239.93        903,560.00
+QUANTA SERVICES INC.                       0.000 PWR     74762E102      7.3000        68,400.00        528,845.79        499,320.00
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      3.1200       170,700.00      1,350,376.23        532,584.00

@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 113
+ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 115
 
 Monthly Market Portfolio
 
@@ -6,45 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK - EXTERNALLY MANAGED
-Portfolio  - 6LA       LORD, ABBETT & CO -
+Portfolio  - 6PI       PIMCO - GROWTH
 Instrument - COM       COMMON STOCK
 
-PEABODY ENERGY CORP                        1.418 BTU     704549104     28.1900         7,500.00        218,076.42        211,425.00
-PERFORMANCE TECHNOLOGIES INC               0.000 PTIX    71376K102     13.3200        48,700.00        624,277.22        648,684.00
-PHILLIPS-VAN HEUSEN                        1.376 PVH     718592108     10.9000        57,000.00        686,190.98        621,300.00
-PRENTISS PROPERTIES TRUST                  7.796 PP      740706106     27.4500        25,000.00        677,814.44        686,250.00
-PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     15.1000        67,700.00      1,268,710.40      1,022,270.00
-PRIME MONEY MARKET ACCOUNT                 0.000 IT-LOR  IT-LOR         1.0000     4,588,846.72      4,588,846.64      4,588,846.72
-R.H. DONNELLEY CORP.                       0.000 RHD     74955W307Q    29.0500        10,600.00        288,620.51        307,930.00
-RENAL CARE GROUP INC.                      0.000 RCI     759930100     32.1000        47,000.00      1,119,763.21      1,508,700.00
-ROADWAY CORPORATION                        0.545 ROAD    769742107     36.7000        21,900.00        596,625.92        803,730.00
-ROBBINS & MYERS INC.                       0.939 RBN     770196103     23.4100        42,400.00      1,089,966.20        992,584.00
-ROGERS CORP.                               0.000 ROG     775133101     30.3000        70,000.00      2,325,971.37      2,121,000.00
-RUSS BERRIE & CO INC                       3.200 RUS     782233100     30.0000        25,100.00        635,619.63        753,000.00
-RYANS FAMILY STEAK HOUSES                  0.000 RYAN    783519101     21.6500        11,000.00        182,661.93        238,150.00
-SALEM COMMUNICATIONS -CL A                 0.000 SALM    794093104     23.0000         7,200.00        113,300.64        165,600.00
-SCANSOURCE INC                             0.000 SCSC    806037107     47.6000         4,300.00        199,987.89        204,680.00
-SIERRA HEALTH SERVICES                     0.000 SIE     826322109      8.1000       113,900.00        567,402.32        922,590.00
-SILICON VALLEY BANCSHARES                  0.000 SIVB    827064106     26.7300        22,200.00        461,453.19        593,406.00
-SIMPSON MANUFACTURING CO                   0.000 SSD     829073105     57.3000        16,700.00        810,175.05        956,910.01
-SL GREEN REALTY CORP                       5.047 SLG-OLD 78440X101     30.7100        29,100.00        889,577.14        893,661.00
-SMITHFIELD FOODS INC                       0.000 SFD     832248108     22.0400        38,000.00        621,941.92        837,520.00
-SPS TECHNOLOGIES INC                       0.000 ST      784626103     34.9200        11,000.00        536,986.20        384,120.00
-STERIS CORP                                0.000 STE     859152100Q    18.2700        37,400.00        588,696.11        683,298.00
-STONE ENERGY CORP                          0.000 SGY     861642106     39.5000        29,229.00      1,512,154.16      1,154,545.50
-SUNRISE ASSISTED LIVING INC                0.000 SRZ     86768K106     29.1100        12,800.00        327,639.33        372,608.02
-SUPERIOR INDUSTRIES INTL                   1.093 SUP     868168105     40.2500        56,000.00      1,879,111.18      2,254,000.00
-SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     21.5100        76,300.00      1,246,127.32      1,641,213.00
-TECHNITROL INC.                            0.506 TNL     878555101     27.6200         8,000.00        206,407.65        220,960.00
-TELEFLEX INC                               1.437 TFX     879369106Q    47.3100        15,700.00        615,186.37        742,767.00
-TENNANT COMPANY                            2.156 TNC     880345103     37.1000        33,000.00      1,410,955.90      1,224,300.00
-TRIZETTO GROUP INC                         0.000 TZIX    896882107     13.1200        81,200.00        864,339.48      1,065,344.00
-UNITED STATIONERS INC                      0.000 USTR    913004107     33.6500        31,500.00        978,021.04      1,059,975.00
-UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     29.4900        30,400.00        999,260.65        896,496.00
-US ONCOLOGY INC.                           0.000 USON    90338W103      7.5400         4,800.00         42,793.99         36,192.00
-VALSPAR CORP                               1.363 VAL     920355104     39.6000        40,400.00      1,140,355.82      1,599,840.00
-WEBSTER FINANCIAL CORPORATION              2.156 WBST    947890109     31.5300        23,000.00        646,683.65        725,190.00
-ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     55.5100        41,300.00      1,790,080.49      2,292,563.00
-
-Instrument Total           114                                                     8,405,575.72     82,382,693.94     91,661,459.29
-
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     26.5300        22,200.00        461,864.59        588,966.00
+AEROFLEX INC                               0.000 ARXX    007768104     18.9300        33,200.00        513,202.30        628,475.99
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     70.4800         5,600.00        325,419.42        394,688.00
+ALMOSA HOLDINGS INC                        0.000 APS     011589108     11.9300        19,000.00        281,810.98        226,670.00
+AMN HEALTHCARE SERVICES INC                0.000 AHS     001744101     27.4000        11,500.00        211,070.88        315,100.00
+ARGOSY GAMING COMPANY                      0.000 AGY     040228108     32.5200         6,500.00        163,825.24        211,380.00
+ASE TEST LIMITED                           0.000 ASTSF   Y02516105     13.9300        22,100.00        283,580.11        307,853.00
+ASM INTERNATIONAL N.V.                     0.000 ASMI    N07045102     19.5100        19,500.00        354,561.73        380,445.00
+ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     16.8000        25,700.00        390,455.54        431,760.00
+ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105     23.2900        21,500.00        371,608.10        500,735.00
+BARNES & NOBLE INC.                        0.000 BKS     067774109     29.6000        15,500.00        455,663.89        458,800.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101      9.1700        88,900.00      1,019,249.60        815,213.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     15.6600        34,900.00        383,684.62        546,534.00
+CALIFORNIA PIZZA KITCHEN INC               0.000 CPKI    13054D109     24.7500        13,000.00        264,688.66        321,749.99
+CAMINUS CORP                               0.000 CAMZ    133766105     23.0000        21,300.00        428,174.74        489,900.00
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     43.3900        10,346.00        382,874.12        448,912.94
+CELL THERAPEUTICS INC                      0.000 CTIC    150934107     24.1400        17,300.00        499,404.54        417,622.00
+CENTURY ALUMINUM COMPANY                   1.497 CENX    156431108     13.3600        36,700.00        639,846.90        490,312.00
+CHESAPEAKE ENERGEY CORP                    0.000 CHK     165167107      6.6100       113,300.00        631,243.54        748,913.01
+COLUMBIA SPORTSWEAR CO                     0.000 COLM    198516106     33.3000         7,200.00        279,995.62        239,759.99
+CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204     14.8500        38,000.00        255,634.56        564,300.00
+COOPER CAMERON CORP.                       0.000 CAM     216640102     40.3600        15,300.00        561,898.77        617,508.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     40.8900        16,878.00        572,914.36        690,141.40
+CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     36.7000        14,200.00        472,434.90        521,140.00
+CUBISTS PHARMACEUTICALS                    0.000 CBST    229678107     35.9600         9,300.00        233,664.24        334,428.00
+CULLEN/FROST BANKERS INC                   2.785 CFR     229899109     30.8800        17,200.00        464,936.64        531,136.00
+DIGENE CORP                                0.000 DIGE    253752109     29.5000        14,100.00        380,932.97        415,950.00
+DOCUMENT INC                               0.000 DCTM    256159104     21.7200        23,600.00        345,183.73        512,592.00
+DUANE READE INC                            0.000 DRD     263578106     30.3500        21,800.00        749,609.15        661,630.00
+E*TRADE GROUP INC.                         0.000 ET      269246104     10.2500        75,200.00        622,259.10        770,799.99
+EGL, INC.                                  0.000 EAGL    268484102     13.9500        31,500.00        446,413.47        439,425.00
+ENDOCARE INC                               0.000 ENDO    29264P104     17.9300        14,700.00        234,767.94        263,571.01
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      8.8500        59,100.00        521,215.77        523,035.00
+ENZON INC                                  0.000 ENZN    293904108     56.2800         7,400.00        394,641.68        416,472.00
+EVEREST RE GROUP LTD.                      0.396 RE      G3223R108     70.7000         5,700.00        360,665.83        402,990.00
+EXPEDITORS INT’L. WASH INC.                0.351 EXPD    302130109     56.9500         5,500.00        251,781.74        313,225.00
+FAIRCHILD SEMICONDUTOR CORP                0.000 FCS     303726103     28.2000        22,800.00        361,819.48        642,960.00
+FLOWSERVE CORP.                            0.000 FLS     34354P105Q    26.6100        24,700.00        614,005.98        657,267.00
+FORRESTER RESEARCH INC                     0.000 FORR    346563109     20.1400        32,900.00        684,163.06        662,606.00

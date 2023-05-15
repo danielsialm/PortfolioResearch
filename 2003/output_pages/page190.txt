@@ -1,0 +1,23 @@
+ASOF02   Date 01/20/2004 Time 18:59:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 160
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 20
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+RECKSON ASSOCIATES RE                      4.255 RA      75621K106Q    24.3000         9,000.00        211,924.73        218,700.00
+
+Instrument Total             1                                                         9,000.00        211,924.73        218,700.00
+
+Instrument -WARRANT   WARRANT
+
+DIME BANCORP-WT                            0.000 DIMEZ   25429Q110      0.1700       431,800.00        115,334.87         73,406.00
+
+Instrument Total             1                                                       431,800.00        115,334.87         73,406.00
+
+Portfolio Total             79                                                     8,124,140.32     56,538,636.70     66,443,877.42
+

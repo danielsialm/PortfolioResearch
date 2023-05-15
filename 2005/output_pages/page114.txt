@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 081
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+UNICA CORP                                 0.000 UNCA    904583101     12.0500         4,200.00         46,200.00         50,610.00
+UNIFIRST CORP                              0.482 UNF     904708104Q    31.1000        17,800.00        529,997.73        553,580.00
+UNION BANKSHARES COR                       1.856 UBSH    905399101     43.1000         9,262.00        351,204.46        399,192.20
+UNION DRILLING INC                         0.000 UDRL    90653P105     14.5300         9,300.00        135,594.00        135,129.00
+UNISOURCE ENERGY CORP                      2.435 UNS     909205106     31.2000        34,100.00        694,563.57      1,063,920.00
+UNITED AUTO GROUP INC                      1.256 UAG     909440109     38.2000        38,000.00      1,058,154.79      1,451,600.00
+UNITED BANKSHARES INC.                     3.064 UBSI    909907107     35.2400        39,600.00      1,290,556.12      1,395,504.00
+UNITED CAPITAL CORP                        0.000 AFP     909912107     24.6700         3,100.00         89,120.48         76,477.00
+UNITED CMNTY BKS BLA                       1.050 UCBI    90984P105     26.6600        33,333.00        839,348.10        888,657.78
+UNITED CMNTY FINL CO                       2.794 UCFC    909839102     11.8100        28,600.00        317,810.96        337,766.00
+UNITED FINANCIAL BANCORP INC               0.000 UBNK    91030R103     11.5300         7,100.00         79,023.00         81,863.00
+UNITED FIRE & CAS CO                       1.187 UFCS    910331107     40.4300        24,882.00        540,791.17      1,005,979.26
+UNITED NATURAL FOODS INC.                  0.000 UNFI    911163103     26.4000        40,300.00        932,074.29      1,063,920.00
+UNITED ONLINE INC                          5.625 UNTD    911268100     14.2200        88,800.00      1,314,550.88      1,262,736.00
+UNITED PANAM FINANCIAL CORP                0.000 UPFC    911301109     25.8700         5,300.00        110,442.68        137,111.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     23.3900        71,100.00      1,307,390.58      1,663,029.00
+UNITED SECURITY BANCSHARES                 2.984 USBI    911459105     26.8100         6,100.00        180,179.36        163,541.00
+UNITED STATIONERS INC                      0.000 USTR    913004107     48.5000        41,960.00      1,538,636.17      2,035,060.00
+UNITED SURGICAL PARTNERS                   0.000 USPI    913016309     32.1500        45,550.00        886,544.13      1,464,432.50
+UNITED THERAPEUTICS CORP                   0.000 UTHR    91307C102     69.1200        23,800.00        648,552.08      1,645,056.00
+UNIVERSAL AMERN FINL                       0.000 UHCO    913377107     15.0800        23,000.00        232,027.50        346,840.00
+UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     41.1200        18,600.00        451,813.46        764,832.00
+UNIVERSAL CORP-VA                          3.966 UVV     913456109Q    43.3600        27,100.00      1,173,753.04      1,175,056.00
+UNIVERSAL ELECTRONICS INC                  0.000 UEIC    913483103     17.2300        14,300.00        219,929.17        246,389.00
+UNIVERSAL FOREST PRODUCTS                  0.199 UFPI    913543104     55.2500        21,800.00        709,144.70      1,204,450.00
+UNIVERSAL TECHNICAL INSTITUTE              0.000 UTI     913915104     30.9400        22,500.00        776,777.72        696,150.00
+UNIVERSAL TRUCKLOAD SERVICES I             0.000 UACL    91388P105     23.0000         5,900.00        111,711.13        135,700.00
+UNIVEST CORP OF PENNSYLVANIA               3.131 UVSP    915271100     24.2700        12,100.00        315,620.19        293,667.00
+UNIZAN FINANCIAL CORP                      2.033 UNIZ    91528W101     26.5600         5,300.00        102,525.80        140,768.00
+URS CORPORATION                            0.000 URS     903236107     37.6100        43,100.00      1,314,369.59      1,620,991.00
+USA MOBILITY INC                           0.000 USMO    90341G103     27.7200        12,194.00        360,894.20        338,017.68
+USA TRUCK INC                              0.000 USAK    902925106     29.1300         5,500.00        132,196.62        160,215.00
+USANA HEALTH SCIENCES INC                  0.000 USNA    90328M107     38.3600        14,600.00        551,224.15        560,056.00
+USEC INC.                                  4.602 USU     90333E108     11.9500        90,800.00        775,288.67      1,085,060.00
+USI HOLDINGS CORP                          0.000 USIH    90333H101     13.7700        13,700.00        193,284.46        188,649.00
+UTSTARCOM, INC                             0.000 UTSI    918076100      8.0600       106,000.00        794,491.20        854,360.00
+VAIL RESORTS INC                           0.000 MTN     91879Q109     33.0300        30,200.00        578,056.90        997,506.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     29.0700        50,200.00      1,327,027.11      1,459,314.00
+VALMONT INDUSTRIES                         1.016 VMI     920253101     33.4600        18,100.00        524,048.05        605,626.00

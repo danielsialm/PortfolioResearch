@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 094
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+GLOBAL SIGNAL INC                          5.809 GSL     37944Q103     27.5400        10,700.00        246,891.80        294,678.00
+GMH COMMUNITIES TRUST                      4.539 GCT     36188G102     14.1000        31,700.00        417,765.48        446,970.00
+HEALTHCARE RLTY TR                         6.339 HR      421946104     40.7000        53,000.00      1,705,737.40      2,157,100.00
+HERITAGE PROPERTY INV TRUST                4.431 HTG     42725M107     32.0900        22,500.00        630,938.94        722,025.00
+HIGHWOODS PROP INC.                        6.137 HIW     431284108Q    27.7000        50,500.00      1,163,549.71      1,398,850.00
+HOME PROPERTIES OF NY INC.                 5.860 HME     437306103     43.0000        30,700.00      1,145,875.61      1,320,100.00
+HOMEBANC CORP                              7.024 HMB     43738R109      9.6800        38,300.00        354,374.58        370,744.00
+IMPAC MTG HLDGS INC                       13.233 IMH     45254P102     22.6700        90,700.00      1,854,162.39      2,056,169.00
+INNKEEPERS USA TRUST                       1.690 KPA     4576J0104     14.2000        36,300.00        375,703.44        515,460.00
+INVESTORS REAL ESTAT                       6.139 IRETS   461730103     10.4900        23,300.00        233,338.90        244,417.00
+KILROY RE CORP                             4.631 KRC     49427F108     42.7500        37,200.00      1,057,299.50      1,590,300.00
+KITE REALTY GROUP TRUST                    4.908 KRG     49803T102     15.2800        21,200.00        279,977.49        323,936.00
+KRAMONT RLTY TR                            5.555 KRT     50075Q107     23.4000        26,700.00        456,919.44        624,780.00
+LASALLE HOTEL PROPERTIES                   3.016 LHO     517942108     31.8300        38,700.00        927,699.19      1,231,821.00
+LEXINGTON CORP PPTYS                       6.377 LXP     529043101     22.5800        53,500.00      1,030,188.12      1,208,030.00
+MAGUIRE PROPERTIES INC                     5.826 MPG     559775101     27.4600        37,700.00        937,767.85      1,035,242.00
+MERISTAR HOSPITALITY CORP.                 0.479 MHX     58984Y103      8.3500        55,200.00        351,220.87        460,920.00
+MID-AMERICAN APARTMENT                     5.676 MAA     59522J103     41.2200        19,800.00        680,928.95        816,156.00
+MORTGAGEIT HOLDINGS INC                    9.805 MHL     61915Q108     17.9500        16,200.00        233,997.66        290,790.00
+NATIONWIDE HEALTH PP                       6.231 NHP     638620104     23.7500        73,900.00      1,378,445.38      1,755,125.00
+NEW CENTURY FINANCIAL CORP                 9.388 NEW     6435EV108     63.9100        47,400.00      1,513,598.52      3,029,334.00
+NEWCASTLE INVESTMENT CORP                  7.866 NCT     65105M108     31.7800        46,500.00      1,215,353.59      1,477,770.00
+NOVASTAR FINL INC                         11.313 NFI     669947400     49.5000        34,800.00      1,444,005.65      1,722,600.00
+OMEGA HEALTHCARE INV                       6.779 OHI     681936100     11.8000        51,500.00        422,910.94        607,700.00
+PARKWAY PROPERTYS INC                      5.123 PKY     70159Q104     50.7500        16,800.00        750,577.58        852,600.00
+PENNSYLVANIA RI                            5.046 PEI     709102107     42.8000        34,928.00      1,146,813.97      1,494,918.40
+POST PROPERTIES,INC.                       5.157 PPS     737464107Q    34.9000        44,200.00      1,234,621.05      1,542,580.00
+PRENTISS PROPERTIES TRUST                  5.863 PP      740706106     38.2000        49,400.00      1,587,573.54      1,887,080.00
+PS BUSINESS PARKS INC/CA                   2.572 PSB     69360J107     45.1000        17,500.00        659,151.16        789,250.00
+RAIT INVT TR                               8.580 RAS     749227104     27.9700        36,200.00        970,452.05      1,012,514.00
+RAMCO-GERSHENSON PPT                       1.894 RPT     751452202     32.2500         7,500.00        199,899.33        241,875.00
+REALTY INCOME CORP                         2.609 O       756109104     50.5800        44,000.00      1,872,610.97      2,225,520.00
+REDWOOD TR INC                             4.316 RWT     758075402     62.0900        23,000.00      1,161,415.10      1,428,070.00
+SAUL CENTERS INC                           4.078 BFS     804395101     38.2500        12,400.00        393,763.72        474,300.00
+SAXON CAPITAL INC                          2.417 SAXN    80556T106     23.9900        55,200.00      1,386,654.91      1,324,248.00
+SOVRAN SELF STORAGE                        5.742 SSS     84610H108     42.1400        23,000.00        792,245.35        969,220.00
+STRATEGIC HOTEL CAPITAL INC                5.333 SLH     86272T106     16.5000        22,500.00        305,961.75        371,250.00
+SUMMIT PROPERTIES INC                      4.146 SMT     866239106     32.5600        31,200.00        748,482.52      1,015,872.00
+SUN COMMUNITIES INC                        6.062 SUI     866674104     40.2500        17,900.00        691,722.69        720,475.00

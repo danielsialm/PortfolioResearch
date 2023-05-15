@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 110
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+3M COMPANY                                 1.754 MMM     88579Y101Q    82.0700        86,800.00      5,264,791.54      7,123,676.00
+ABBOTT LABORATORIES                        2.229 ABT     002824100Q    46.6500        16,000.00        709,782.40        746,400.00
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107     22.0200       130,600.00      2,051,759.97      2,875,812.00
+AGCO CORP.                                 0.000 AG      001084102     21.8900        52,200.00      1,017,372.39      1,142,658.00
+ALBERTSON'S, INC.                          3.182 ABS     013104104Q    23.8800       113,600.00      2,600,619.19      2,712,768.00
+ALCOA INC.                                 1.909 AA      013817101Q    31.4200        67,900.00      2,102,887.78      2,133,418.00
+ALLEGHENY ENERGY INC.                      8.726 AYE     017361106Q    19.7100        38,200.00        338,488.61        752,922.00
+ALLERGAN PHARMACEUTICALS INC.              0.444 AGN     018490102Q    81.0700        56,300.00      4,650,365.39      4,564,241.00
+ALTRIA GROUP INC                           4.779 MO      02209S103Q    61.1000        89,700.00      3,968,224.13      5,480,670.00
+AMBAC FINANCIAL GROUP INC.                 0.608 ABK     023139108Q    82.1300         9,000.00        720,771.30        739,170.00
+AMERICAN INTL GROUP                        0.761 AIG     026874107Q    65.6700        84,700.00      4,909,868.76      5,562,249.00
+AMERICREDIT CORP.                          0.000 ACF     03060R101     24.4500       115,100.00      2,194,755.36      2,814,195.00
+AMERISOURCEBERGEN CORP                     0.170 ABC     03073E105     58.6800        56,000.00      3,227,331.52      3,286,080.00
+AMGEN INC                                  0.000 AMGN    031162100     64.1500        50,500.00      2,608,610.31      3,239,575.00
+ANADARKO PETROLEUM CORP                    0.864 APC     032511107Q    64.8100        45,000.00      2,696,233.68      2,916,450.00
+ANNALY MORTGAGE MANAGEMENT                10.193 NLY     035710409     19.6200        59,000.00        994,693.10      1,157,580.00
+APACHE CORP.                               0.632 APA     037411105     50.5700        13,700.00        675,131.89        692,809.00
+APPLERA CORP - APPLIED BIOSYST             0.813 ABI     038020103Q    20.9100        53,600.00      1,096,963.74      1,120,776.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     32.9500        46,100.00      1,320,509.95      1,518,995.00
+ARCHER DANIELS MIDLAND CO                  1.344 ADM     039483102Q    22.3100       239,100.00      3,137,677.49      5,334,321.00
+AUTODESK INC.                              0.158 ADSK    052769106Q    37.9500       134,300.00      2,832,812.32      5,096,685.01
+AUTONATION INC                             0.000 AN      05329W102     19.2100       145,800.00      2,346,801.13      2,800,818.00
+AUTOZONE INC                               0.000 AZO     053332102     91.3100         8,700.00        703,929.01        794,397.00
+AVNET INC.                                 1.644 AVT     053807103Q    18.2400       148,500.00      1,677,839.06      2,708,640.00
+BANK OF AMERICA CORP.                      3.830 BAC     060505104Q    46.9900       352,200.00     12,150,853.58     16,549,878.00
+BARD C. R. INC.                            0.750 BCR     067383109Q    63.9800        15,000.00        825,391.49        959,700.00
+BARNES & NOBLE INC.                        0.000 BKS     067774109     32.2700        43,100.00      1,075,845.04      1,390,837.00
+BEAR STEARNS COMPANIES INC                 0.977 BSC     073902108    102.3100        34,000.00      2,871,500.29      3,478,540.00
+BECTON DICKINSON & COMPANY                 1.267 BDX     075887109Q    56.8000        48,200.00      2,555,456.19      2,737,760.00
+BERKLEY (WR) CORP                          0.593 BER     084423102     47.1700        17,000.00        703,960.62        801,890.00
+BIOGEN IDEC INC                            0.000 BIIB    09062X103     66.6100        89,300.00      5,220,305.79      5,948,272.99
+BLACK & DECKER                             0.951 BDK     091797100Q    88.3300        38,100.00      2,574,183.01      3,365,373.00
+BLOCKBUSTER INC-CL B                       0.908 BBI.B   093679207      8.8100             1.00              8.12              8.81
+BLOCKBUSTER INC. CLASS A                   0.838 BBI     093679108Q     9.5400             1.00              8.13              9.54
+BMC SOFTWARE                               0.000 BMC     055921100     18.6000       251,900.00      4,284,925.68      4,685,340.00
+BOEING CO                                  1.931 BA      097023105Q    51.7700       128,100.00      5,268,293.54      6,631,737.00
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     35.5500       112,500.00      4,006,721.25      3,999,375.00
+BRINKS COMPANY                             0.253 BCO     109696104Q    39.5200        22,100.00        672,936.16        873,392.00
+BRISTOL-MYERS SQUIBB                       4.371 BMY     110122108Q    25.6200        19,300.00        509,882.84        494,466.00

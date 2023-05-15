@@ -1,0 +1,49 @@
+ASOF11   Date 01/21/2005 Time 18:35:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+TELE CENTRO OESTE CEL-PREF               1,553.184     2292601      TCOC4             6.00                0.00
+TELE NORTE LESTE PART                        0.935     B02PDQ9      TNLP3       159,999.99        1,959,950.23
+TELEFONOS DE MEXIC                           0.284     2881689      TELME     2,950,000.00        4,798,085.47
+TELEFONOS DE MEXICO SA-SER A                 0.285     2881731      TELME       650,000.00          753,958.23
+TELEKOM MALAYSIA                             0.453     6868398      T_MK        425,000.00        1,301,365.79
+TELEKOMUNIKACJA                              0.362     5551611      TPSD_        40,000.00          128,000.00
+TELEKOMUNIKAYA POL                           0.202     5552551      TPS_P       325,000.00        1,329,479.27
+TELKOM SOUTH AFRICA LTD                      0.199     6588577      TKG_S       210,000.00        1,848,553.71
+TEMPO SCAN PACIFIC TBK/PT                    0.000     6881953      TSPC_        90,000.00           78,752.44
+TENAGA NASIONAL BERHAD                       0.313     6904612      TNB_M       404,000.00        1,173,087.37
+TENARIS SA                                   0.262     2172402      TS_AF       180,000.00          357,168.38
+TEVA PHARMA IND IL                           0.162     6882172      TEVA_       160,000.00        1,787,718.21
+THAI UNION FROZEN PROD-FOREI                 0.130     6422716      TUF/F       269,130.00           77,746.71
+THE GRANDE HOLDINGS LTD                      0.355     6381260      186_H       850,000.00          929,107.42
+TIGER BRANDS LIMITED                         0.678     6891297      TBS_S       165,000.00        1,945,013.79
+TINGYI HLDG CO                               0.086     6903556      322_H     5,668,000.00        1,191,508.85
+TISCO FINANCE PCL - FOREIGN                  0.069     6892858      TISCO       918,000.00          768,062.45
+TOFAS OTOMOBIL FAB                           0.000     4894210      TOASO   200,000,000.00          225,469.29
+TRAVELSKY TECHNOLOGY                         0.208     6321954      696_H     1,000,000.00          669,986.52
+TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    44,000,000.00          427,664.71
+ULTRATECH CEMCO LTD                          0.003     B01GZF6      UTCM_        20,000.00           53,872.51
+ULTRATECH CEMENT LTD                         0.000     B031P37      34747        11,200.00                0.00
+UNIFIED ENERGY SYSTEMS                      16.456     4889335      EESR_     4,800,000.00          693,609.16
+UNIPETROL                                    0.000     5297294      UNIP_       224,928.00          335,726.15
+UNITED MICROELECTRONICS                      0.077     6916628      73850     3,126,617.28        3,434,037.54
+WAL MART DE MEXICO                           0.103     B02YZ04      WALME       650,000.00        1,700,902.08
+WIPRO                                        0.004     6206051      WPRO_        36,000.00          243,983.31
+YAPI KREDI BANKASI                           0.000     4986742      YKBNK   120,000,000.00          308,330.63
+
+Instrument Total             223                                          2,142,971,640.35      243,754,321.33
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EMERGING ANALYST-LIQUIDITY RESERVES          0.000     IL-EAP                    72,628.66        7,262,866.80
+
+Instrument Total               1                                                 72,628.66        7,262,866.80
+
+Portfolio Total              255                                          2,154,308,399.07      282,747,128.67        439,159,618.02

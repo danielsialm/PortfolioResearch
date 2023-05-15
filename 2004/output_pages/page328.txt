@@ -1,0 +1,29 @@
+ASOF11   Date 01/21/2005 Time 18:35:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+VIA TECHNOLOGIES INC                         0.086     6146823      2388_             2.00                7.07
+WHITE MARTINS SA C                           0.000     2961428      WHMT3        60,546.00                0.00
+
+Instrument Total             148                                          2,310,645,372.51      223,450,152.63
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+INTERNAL ACTIVE - LIQUIDITY RESERVES         0.000     IL-ACT                     3,679.28          367,928.49
+
+Instrument Total               1                                                  3,679.28          367,928.49
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+DAESANG FEED CO RT                           0.000     9418264      94182           260.00               80.70
+
+Instrument Total               1                                                    260.00               80.70
+
+Portfolio Total              184                                          2,319,530,483.84      311,754,937.58        474,607,112.34

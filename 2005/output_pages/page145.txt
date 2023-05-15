@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 112
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+LABOR READY INC                            0.000 LRW     505401208     20.8200           800.00          8,038.80         16,656.00
+LABRANCHE & CO., INC.                      3.165 LAB     505447102     10.1100           200.00          1,739.90          2,022.00
+LACLEDE GROUP HLDG. CO.                    4.724 LG      505597104     29.2100           100.00          2,456.85          2,921.00
+LAKELAND BANCORP INC                       2.721 LBAI    511637100     14.7000           100.00          1,491.88          1,470.00
+LANCASTER COLONY CORP                      2.807 LANC    513847103     37.0500           100.00          3,793.18          3,705.00
+LANCE INC                                  3.435 LNCE    514606102Q    18.6300           100.00          1,347.68          1,863.00
+LANDAMERICA FINANCIAL GROUP                1.153 LFG     514936103     62.4000           100.00          4,206.41          6,240.00
+LANDRY'S RESTAURANTS INC.                  0.748 LNY     51508L103     26.7100           100.00          2,478.32          2,671.00
+LASERSCOPE                                 0.000 LSCP    518081104     22.4600           100.00          2,736.65          2,246.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      4.3200        13,600.00         83,969.65         58,752.00
+LAWSON SOFTWARE                            0.000 LWSN    520780107      7.3500           200.00          1,204.84          1,470.00
+LAYNE CHRISTENSEN COMPANY                  0.000 LAYN    521050104     25.4300         1,700.00         28,372.73         43,231.00
+LCA-VISION INC.                            1.010 LCAV    501803308     47.5100           500.00         12,204.36         23,755.00
+LEAPFROG ENTERPRISES INC                   0.000 LF      52186N106     11.6500           100.00          1,457.02          1,165.00
+LECG CORP                                  0.000 XPRT    523234102     17.3800           100.00          1,936.30          1,738.00
+LENNOX INTERNATIONAL INC.                  1.560 LII     526107107     28.2000           600.00         12,298.66         16,920.00
+LEVITT CORP-CL A                           0.351 LEV     52742P108     22.7400           300.00          7,735.19          6,822.00
+LIBBEY INC                                 3.913 LBY     529898108     10.2200         2,500.00         37,813.83         25,550.00
+LIBERTY CORP S C                           2.136 LC      530370105     46.8100         1,300.00         57,906.08         60,853.00
+LIFE TIME FITNESS INC                      0.000 LTM     53217R207     38.0900           100.00          2,964.56          3,809.00
+LIFECELL CORPORATION                       0.000 LIFC    531927101     19.0700           100.00          1,123.61          1,907.00
+LIFELINE SYS INC                           0.000 LIFE    532192101     36.5600           100.00          1,660.11          3,656.00
+LIFETIME BRANDS INC.                       1.209 LCUT    53222Q103     20.6700         2,200.00         54,848.18         45,474.00
+LINCOLN EDUCATIONAL SERVICES               0.000 LINC    533535100     14.2600           800.00          9,448.00         11,408.00
+LINDSAY MANUFACTURING CO.                  1.248 LNN     535555106     19.2300           100.00          2,187.68          1,923.00
+LINENS 'N THINGS INC.                      0.000 LIN     535679104     26.6000         2,300.00         62,814.54         61,180.00
+LIONBRIDGE TECHNOLOGIES                    0.000 LIOX    536252109      7.0200         9,200.00         62,860.58         64,584.00
+LITHIA MOTORS INC - CL A                   1.526 LAD     536797103     31.4400           400.00          9,409.17         12,576.00
+LITTELFUSE INC                             0.000 LFUS    537008104     27.2500           100.00          2,476.80          2,725.00
+LKQ CORP                                   0.000 LKQX    501889208     34.6200           100.00          2,137.35          3,462.00
+LODGIAN INC                                0.000 LGN     54021P403     10.7300           100.00          1,054.06          1,073.00
+LONE STAR STEAKHOUSE & SALOON              3.285 STAR    542307103     23.7400           200.00          4,613.31          4,748.00
+LONE STAR TECHNOLOGIES INC                 0.000 LSS     542312103     51.6600           100.00          3,230.75          5,166.00
+LONGS DRUG STORES INC                      1.538 LDG     543162101Q    36.3900         1,200.00         26,988.56         43,668.00
+LONGVIEW FIBRE CO                          0.384 LFB     543213102     20.8100           200.00          2,315.46          4,162.00
+LUBYS INC.                                 0.000 LUB     549282101Q    13.3000         3,900.00         44,178.66         51,870.00
+M/I HOMES INC                              0.246 MHO     55305B101     40.6200         1,200.00         50,672.18         48,744.00
+MADDEN STEVEN LTD                          0.000 SHOO    556269108     29.2300           700.00         13,120.21         20,461.00
+MAF BANCORP INC                            2.223 MAFB    55261R108     41.3800           200.00          7,378.98          8,276.00

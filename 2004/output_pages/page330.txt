@@ -1,0 +1,17 @@
+ASOF11   Date 01/21/2005 Time 18:35:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-BABS    COLONIAL FIRST STATE
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BABSON STEWART - EQUITIES                    0.000     IE-BAB                 4,473,773.61      447,377,361.51
+BABSON STEWART - LQR                         0.000     IL-BAB                   195,304.30       19,530,430.75
+
+Instrument Total               2                                              4,669,077.92      466,907,792.26
+
+Portfolio Total                2                                              4,669,077.92      466,907,792.26        667,745,951.85

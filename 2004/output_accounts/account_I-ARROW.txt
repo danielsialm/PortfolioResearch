@@ -1,0 +1,9 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+ARROWSTREET CAPITAL - EQUITIES               0.000     IE-ARROW               6,744,405.47      674,440,547.64
+ARROWSTREET CAPITAL - FIXED INCOME           0.000     IF-ARROW                   9,229.28          922,928.37
+ARROWSTREET CAPITAL - LQR                    0.000     IL-ARROW                 243,355.88       24,335,588.03
+
+Instrument Total               3                                              6,996,990.64      699,699,064.04
+
+Portfolio Total                3                                              6,996,990.64      699,699,064.04        906,058,892.65

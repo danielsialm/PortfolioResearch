@@ -1,0 +1,7 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+JP MORGAN - LQR                              0.000     IL-JPM                     1,172.73          117,273.11
+
+Instrument Total               1                                                  1,172.73          117,273.11
+
+Portfolio Total                1                                                  1,172.73          117,273.11            451,899.88

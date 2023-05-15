@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 023
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 025
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - INTERNATIONAL
 Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-DEXIA                                        0.000     7147610      DEXB_        91,000.00        1,386,203.63
-DIAGEO ORD GBP 28.                           8.519     0237400      DGE_L       238,683.00        2,441,569.15
-E.ON AG                                      0.957     4942904      EOA_G        14,417.00          747,482.65
-EAST JAPAN RAILWAY                           0.000     6298542      9020_           236.00        1,381,613.34
-EFG EUROBANK ERGASIS                         2.050     5654316      EUROB        16,900.00          239,011.43
-EISAI CO JPY50                               0.000     6307200      4523_        20,000.00          494,707.67
-ELAN CORPORATION PLC                         0.000     0307295      ELN_I         5,000.00          273,393.68
-ELECTRABEL ORD NPV                           2.973     4294791      ELEB_        10,200.00        2,103,153.30
-ELSEVIER NV ORD                              1.859     4148810      ELSNC         3,920.00           48,993.46
-ENDESA SA                                    2.145     5271782      ELE_S       116,852.00        1,883,096.66
-ERSTE BANK DER OESTER SPARK                  1.614     5289837      DESC_        34,200.00        1,720,379.83
-F & P HEALTHCARE                             0.381     6340250      FPH_N       141,890.00        1,375,515.61
-FISHER & PAYKEL APPLIANCES                   0.000     6421791      FPA_N        97,542.00          407,459.54
-FLETCHER BUILDING LTD                        1.690     6341606      FBU_N       540,519.00          590,041.38
-FOMENTO DE CONSTRUC Y CONTRA                 1.270     5787115      FCC S         8,200.00          171,913.39
-FORTIS                                       0.642     7266139      FORB_       217,900.00        5,099,780.73
-FOSTERS BREWING GR                           0.854     6349268      FBG_A       491,229.00        1,275,702.92
-FRANCE TELECOM FRF                           1.526     5176177      FTE_F        15,998.00          500,701.44
-FRONTLINE LTD                                0.019     5561052      FRO_N        27,100.00          211,148.33
-FUJI PHOTO FILM CO                           0.000     6356525      4901_        21,924.00          758,498.85
-FUJITSU NEW JPY50                            0.004     6356945      6702_        70,097.00          701,477.48
-GAS NATURAL SDG-E                            0.956     5650422      GAS_S        31,589.00          562,077.97
-GIVAUDAN                                     0.456     5980613      GIVN_           240.00           73,806.52
-GJENSIDIGE NOR SPAREBANK                     0.076     4848820      SNOG_        19,200.00          583,734.17
-GKN ORSH 0.5GBP                             16.685     3064650      GKN_L        79,423.00          359,468.45
-GLAXOSMITHKLINE                             13.691     0925288      GSK_L       375,104.00        8,820,060.72
-GPE BRUX LAMBERT                             1.044     7097328      GBL_B        27,639.00        1,342,895.24
-GROUP DANONE ORD                             0.950     5981810      BN_FP         4,633.00          602,824.61
-GRUPO DRAGADOS                               0.684     5687000      DRC_S        21,700.00          271,959.21
-HAGEMEYER NLG2.5                             3.232     5209073      HAGN_           675.00           10,773.42
-HANG SENG BANK HK                            0.094     6408374      11_HK       115,100.00        1,275,346.00
-HBOS PLC                                    14.821     3058750      HBOS_       269,231.00        3,562,385.10
-HEINEKEN NV NLG5                             0.638     7108048      HEIN_         1,647.00           68,096.19
-HELLENIC TELECOMMUNICATIONS                  2.038     5051605      HTO_G        35,300.00          632,296.08
-HENDERSON LAND DEVELOPMENT                   0.000     6420538      12_HK        84,000.00          359,803.07
-HITACHI Y50                                  0.000     6429104      6501_        79,000.00          566,995.52
-HOLDERBK FN GLARUS                           0.496     7110764      HOL_V           652.00          130,796.60
-HONDA MOTOR CO COM                           0.000     6435145      7267_        29,220.00        1,004,309.40
-HONG KONG ELECTRIC HKD1                      0.000     6435327      6_HK        122,300.00          440,078.80
+MITSUBISHI ESTATE                            0.000     6596729      8802_       130,817.00        1,037,613.70
+MITSUBISHI HVY IND                           0.000     6597067      7011_       132,000.00          532,996.11
+MITSUBISHI TOKYO F JPY50000                  0.000     6335171      8306_           212.00        1,780,599.07
+MIZUHO HLDGS JPY50000                        0.000     6286280      8305_           258.00        1,138,627.54
+MUNCHENER RUCKVS                             0.247     5294121      MUV2_         2,400.00          596,067.78
+MURATA MFG CO JPY5                           0.000     6610403      6981_        11,101.00          783,572.98
+NATIONAL BANK OF GREECE                      2.465     4625959      ETE_G        24,200.00          630,429.24
+NATIONAL GRID GROU                           5.081     0242824      NGG_L        86,351.00          592,678.98
+NATL AUSTRALIA BK                            0.019     6624608      NAB_A       209,925.00        3,447,102.08
+NEC CORP ORD JPY50                           0.000     6640400      6701_        78,256.00        1,179,226.92
+NESTLE SA CHF                                0.116     7123870      NESN_         3,475.00          728,182.34
+NEWS CORPORATION N                           0.012     6886925      NCP_A       229,287.00        1,802,431.64
+NEWS CORPORATION P                           0.159     6620758      NCPDP       216,179.00        1,455,435.94
+NINTENDO CO LTD                              0.000     6639550      7974_         3,800.00          497,250.75
+NIPPON KAYAKU  CO. LTD.                      0.000     6640422      4272_       238,000.00        1,059,690.09
+NIPPON SANSO CORPORATION                     0.000     6640541      4091_       132,000.00          361,323.97
+NIPPON SYSTEM DEVELOPMENT CO                 0.000     6639602      9759_         6,500.00          294,838.63
+NIPPON TEL+TEL CP                            0.000     6641373      9432_           231.00          951,428.97
+NISSAN MOTOR CO Y5                           0.000     6642860      7201_       105,000.00          601,340.49
+NOKIA(AB)OY EUR0.2                           0.515     5902941      NOK1V       452,600.00       11,329,932.82
+NOMURA HOLDINGS, INC.                        0.000     6643108      8604_        78,939.00        1,312,587.16
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N        85,200.00        3,488,404.04
+NORSKE SKOGINDUSTRIER ASA                    0.004     7070396      NSG_N        67,950.00        1,148,941.91
+NOVARTIS AG CHF 20                           0.004     7103065      NOVN_        78,698.00        2,896,171.95
+NTT DOCOMO INC                               0.000     6129277      9437_            56.00          931,254.55
+OEST ELEKTRIZITATS                           0.946     4661607      OEEW_        12,600.00          914,426.34
+OKI ELECTRIC IND                             0.000     6657682      6703_        88,000.00          265,162.61
+OMV AG AUSH100                               2.477     4651459      OMV_A        24,600.00        1,941,478.56
+OPTICOM ASA                                  0.000     5034446      OPC_N         3,300.00          140,756.88
+ORIX CORP Y50                                0.001     6661144      8591_         4,000.00          407,875.60
+ORKLA ASA NWKR 6.2                           0.002     5459715      ORK_N        84,100.00        1,495,660.08
+OUTOKUMPU OYJ A                              2.796     4665148      OUT1V        15,800.00          163,269.02
+PACIFIC CENTURY CYBERWORKS                   0.000     6164007      8_HK      1,090,600.00          317,573.00
+PANAFON HELLENIC TELECOM SA                  0.000     5560349      PANF_        27,600.00          143,532.84
+PEARSON ORD 25P                              8.486     0677608      PSON_       108,663.00        1,659,741.95
+PHILIPS ELECTRONICS                          0.393     5986622      PHIA_         7,065.00          146,476.78
+PIN-PRINTEMPS-REDO                           1.172     5505072      PP_FP         2,634.00          339,708.91
+PREUSSAG AG NPV                              2.555     5666292      PRS_G         4,500.00          116,876.87
+PRUDENTIAL CORP GB                           9.619     0709954      PRU_L       195,720.00        2,198,398.84

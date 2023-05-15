@@ -1,0 +1,38 @@
+ASOF02   Date 01/21/2003 Time 18:53:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 147
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6PI       PIMCO - 600 GROWTH
+Instrument - COM       COMMON STOCK
+
+RESOURCES CONNECTION INC                   0.000 RECN    76122Q105     23.2100         8,500.00        147,216.35        197,285.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100      7.3300        25,700.00        352,640.86        188,381.00
+ROWAN COS.                                 0.000 RDC     779382100     22.7000        14,900.00        316,283.84        338,230.00
+SCHOLASTIC CORP                            0.000 SCHL    807066105     35.9500         5,100.00        211,828.55        183,345.01
+SCIOS INC                                  0.000 SCIO    808905103     32.5800         5,400.00        160,060.53        175,932.00
+SKILLSOFT PLC ADR                          0.000 SKILE   830928107      2.7500        67,200.00        228,457.52        184,800.00
+SKYWEST INC                                0.612 SKYWE   830879102     13.0700        44,200.00        897,762.41        577,694.00
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      8.6200        33,100.00        246,153.99        285,322.00
+SOUTHWEST BANCORP OF TEXAS                 0.000 SWBT    84476R109     28.8100         7,000.00        202,799.08        201,670.00
+SPINNAKER EXPLORATION CO                   0.000 SKE     84855W109     22.0500        20,400.00        435,003.21        449,820.01
+STATION CASINOS INC                        0.000 STN     857689103     17.7000        31,300.00        349,747.57        554,010.00
+STEINER LEISURE LTD                        0.000 STNR    P8744Y102     13.9400        44,500.00        788,160.91        620,330.00
+TAKE-TWO INTERACTIVE SOFTWARE              0.000 TTWO    874054109     23.4900         8,500.00        127,322.06        199,665.00
+TEEKAY SHIPPING CORP                       2.113 TK      Y8564W103     40.7000        10,200.00        331,108.83        415,140.00
+TITAN CORP                                 0.000 TTN     888266103     10.4000        36,500.00        386,685.76        379,600.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     29.8300        13,600.00        448,791.43        405,688.00
+UCBH HOLDINGS INC                          0.471 UCBH    90262T308     42.4500         8,500.00        329,130.35        360,824.99
+UTI WORLDWIDE INC                          0.304 UTIW    G87210103     26.2500        14,800.00        340,723.75        388,500.00
+UTSTARCOM, INC                             0.000 UTSI    2557139       19.8300        18,600.00        297,124.08        368,838.00
+WASTE CONNECTIONS INC                      0.000 WCN     941053100     38.6100        16,300.00        403,158.30        629,343.00
+WEBSENSE INC                               0.000 WBSN    947684106     21.3610        23,115.00        450,515.58        493,759.52
+XTO ENERGY INC.                            0.161 XTO     98385X106     24.7000        14,800.00        263,756.14        365,560.00
+
+Instrument Total           100                                                     4,547,095.70     40,820,431.31     40,475,627.63
+
+Portfolio Total            100                                                     4,547,095.70     40,820,431.31     40,475,627.63
+

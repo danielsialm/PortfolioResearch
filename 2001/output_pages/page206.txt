@@ -1,36 +1,17 @@
-ASOF10   Date 01/24/2002 Time 21:29:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 003
+ASOF03   Date 01/24/2002 Time 21:29:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
 
 Monthly Market Portfolio
 
-Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - ALTERNATIVE INVESTMENTS
-Instrument - COM       COMMON STOCK
+Group - REAL ESTATE
+Portfolio  - REE       RE EAST REGION
+Instrument - X         OTHER
 
-AGNICO-EAGLE MINES LTD.                      0.202     008474108   AEM            180,000          827,428.05        1,776,600.00
-ASHANTI GOLDFIELDS ADR                       0.000     043743202   ASL            140,000          812,141.51          595,000.00
-BARRICK GOLD CORP.                           1.379     067901108 S ABX            463,283        8,285,819.09        7,389,363.85
-CORINTHIAN COLLEGES INC                      0.000     218868107   COCO            69,580                0.00        2,845,126.20
-CORVIS                                       0.000     221009103   CORV           307,584        7,391,643.38          993,496.32
-EBENX INC                                    0.000     278668108   EBNX           105,103        2,207,163.00          427,874.31
-FREEPORT MCMORAN CLASS B                     0.000     35671D857   FCX             95,000        1,151,288.88        1,272,050.00
-HECLA MINING CO.                             0.000     422704106   HL             808,000        3,254,466.79          759,520.00
-HEWLETT-PACKARD CO                           1.557     428236103 Q HWP             29,726          535,662.52          610,572.04
-JUNIPER NETWORKS INC                         0.000     48203R104   JNPR            17,220          415,811.34          326,319.00
-KINROSS GOLD CORP.                           0.000     496902107   KGC          1,507,000        2,806,789.64        1,145,320.00
-LIHIR GOLD LTD.                              0.000     532349107   LIHRY           33,800          611,650.36          400,530.00
-NEW FOCUS INC                                0.000     644383101   NUFO            99,000        5,352,188.00          377,190.00
-NEWMONT MNG. CORP.                           0.627     651639106 Q NEM            191,375        5,435,439.36        3,657,176.25
-NUANCE COMMUNICATIONS INC                    0.000     669967101   NUAN            20,715                0.00          188,506.50
-PAIN THERAPEUTICS INC.                       0.000     69562K100   PTIE             7,191           70,112.25           65,869.56
-PAN AMERICAN SILVER CORP.                    0.000     697900108   PAAS           200,000        1,344,846.55          838,000.00
-PLACER DOME INC.                             0.916     725906101 Q PDG            360,200        4,092,790.20        3,929,782.00
-RADWARE LTD                                  0.000     M81873107   RDWR            17,656          318,691.00          229,351.44
-SONICWALL INC                                0.000     835470105   SNWL            32,019          602,350.92          622,449.36
-US INTERNETWORKING INC                       0.000     917311805   USIX           186,422        3,365,485.40           37,284.40
-VISIBLE GENETICS INC.                        0.000     92829S104   VGIN            15,000        1,042,753.20          167,250.00
+TERRAMICS LAKE CENTER          PHILADELPHIA PA                 5.600         RLKCTR                  2,408,937.65      1,900,000.00
 
-Instrument Total                     22                                         4,885,874       49,924,521.44       28,654,631.23
+Instrument Total             1                                                                       2,408,937.65      1,900,000.00
 
-Group Total                          95                                       945,494,831      990,533,478.01      966,465,316.70
+Portfolio Total             23                                                                     917,032,559.32  1,252,179,999.15
+

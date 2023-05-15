@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 126
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+MELLON FINANCIAL CORP.                     2.314 MEL     58551A108Q    31.1100         1,000.00         32,073.15         31,110.00
+MERCANTILE BANC.                           2.682 MRBK    587405101Q    52.2000         2,600.00        105,378.00        135,720.00
+MERCK & CO INC                             4.729 MRK     589331107Q    32.1400        47,300.00      1,794,962.46      1,520,222.00
+MERCURY GENERAL CORP.                      2.470 MCY     589400100     59.9200         1,300.00         75,253.88         77,896.00
+MERCURY INTERACTIVE CORP.                  0.000 MERQ    589405109     45.5500         1,500.00         44,769.68         68,325.00
+MEREDITH CORPORATION                       0.885 MDP     589433101Q    54.2000         3,900.00        165,669.07        211,380.00
+MERRILL LYNCH & CO. INC.                   1.070 MER     590188108Q    59.7700         9,000.00        368,213.00        537,930.00
+METLIFE INC                                1.135 MET     59156R108     40.5100        21,300.00        721,569.80        862,863.00
+METTLER-TOLEDO INTERNATIONAL               0.000 MTD     592688105     51.3100         8,400.00        376,777.46        431,004.00
+MGI PHARMA INC                             0.000 MOGN    552880106     28.0100         9,300.00        252,028.68        260,493.00
+MGIC INVESTMENT CORP                       0.435 MTG     552848103Q    68.9100        11,100.00        736,929.10        764,901.00
+MGM MIRAGE                                 0.000 MGG     552953101     72.7400         1,100.00         50,428.51         80,014.00
+MICROSOFT CORP.                            1.198 MSFT    594918104     26.7100       154,900.00      5,106,229.87      4,137,379.00
+MONSANTO COMPANY                           1.224 MON     61166W101     55.5500        14,600.00        435,550.43        811,030.00
+MOODY'S CORPORATION                        0.345 MCO     615369105     86.8500         2,800.00        134,511.18        243,180.00
+MORGAN STANLEY DEAN WITTER & C             1.945 MWD     617446448Q    55.5200        10,900.00        587,910.32        605,168.00
+MOTOROLA INC                               0.930 MOT     620076109Q    17.2000        25,900.00        409,159.19        445,480.00
+MURPHY OIL CORP                            1.118 MUR     626717102Q    80.4500         4,800.00        258,690.56        386,160.00
+NATIONAL CITY CORP                         3.728 NCC     635405103Q    37.5500        21,085.00        756,603.09        791,741.75
+NATIONAL FUEL & GAS                        3.952 NFG     636180101Q    28.3400        15,000.00        421,806.15        425,100.00
+NATIONAL INSTRUMENTS CORP.                 0.733 NATI    636518102     27.2500         2,400.00         65,056.32         65,400.00
+NATIONAL SEMICONDUCTOR CORP.               0.445 NSM     637640103     17.9500         9,700.00        186,803.09        174,115.00
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     35.2900        10,100.00        329,119.02        356,429.00
+NATIONWIDE FINANCIAL SERVICE               1.883 NFS     638612101     38.2300         7,000.00        247,858.84        267,610.00
+NCR CORPORATION                            0.000 NCR     62886E108     69.2300        10,000.00        453,924.66        692,300.00
+NEENAH PAPER INC                           0.000 NP      640079109     32.6000           269.00          9,550.65          8,769.40
+NEIMAN MARCUS GROUP INC-CLASS              0.838 NMG.A   640204202     71.5400         2,600.00        117,919.82        186,004.00
+NETWORK APPLIANCE INC.                     0.000 NTAP    64120L104     33.2200         4,700.00        131,429.78        156,134.00
+NEW YORK TIMES CO. CL A                    1.519 NYT     650111107Q    40.8000        10,500.00        407,104.69        428,400.00
+NEWELL RUBBERMAID INC.                     3.472 NWL     651229106Q    24.1900        22,200.00        474,756.09        537,018.00
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     59.0500         2,200.00        115,639.27        129,910.00
+NEXTEL COMMUNICATIONS CL-A                 0.000 NXTL    65332V103     30.0000        14,600.00        227,703.85        438,000.00
+NII HOLDINGS INC                           0.000 NIHD    62913F201     47.4500        11,600.00        509,371.51        550,420.00
+NIKE INC. -CL B                            1.102 NKE     654106103Q    90.6900         7,400.00        400,428.06        671,106.00
+NOBLE ENERGY INC                           0.324 NBL     655044105     61.6600         1,600.00         76,187.10         98,656.00
+NORDSTROM INC                              1.112 JWN     655664100Q    46.7300        14,700.00        533,496.71        686,931.00
+NORFOLK SOUTHERN CORP.                     1.105 NSC     655844108Q    36.1900         8,000.00        212,133.87        289,520.00
+NORTH FORK BANK                            3.050 NFB     659424105     28.8500         5,250.00        140,272.00        151,462.50
+NORTHEAST UTILITIES                        3.448 NU      664397106     18.8500         2,700.00         52,411.86         50,895.00

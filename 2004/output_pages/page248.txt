@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 029
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+EMMIS COMMUNICATIONS CL A                    0.000     291525103   EMMS           124,162        2,595,772.67        2,382,668.78
+EMPIRE DIST ELEC CO                          5.643     291641108   EDE             17,400          373,070.66          394,632.00
+EMS TECHNOLOGIES INC                         0.000     26873N108   ELMG            19,938          353,109.51          331,369.56
+EMULEX CORP                                  0.000     292475209   ELX             72,100        1,522,818.32        1,214,164.00
+ENCORE ACQUISITION CO                        0.000     29255W100   EAC             32,200          772,842.97        1,124,102.00
+ENCORE CAPITAL GROUP INC                     0.000     292554102   ECPG             1,700           26,429.32           40,426.00
+ENCORE WIRE CORP                             0.000     292562105   WIRE            17,650          272,548.06          235,274.50
+ENCYSIVE PHARMACEUTICALS INC                 0.000     29256X107   ENCY            63,337          514,607.43          628,936.41
+ENDO PHARMACEUTICALS                         0.000     29264F205   ENDP           166,200        3,313,588.76        3,493,524.00
+ENDOCARDIAL SOLUTION                         0.000     292962107   ECSI            24,400          263,450.06          285,480.00
+ENERGEN CORP.                                1.306     29265N108   EGN             60,400        1,647,961.49        3,560,580.00
+ENERGIZER HOLDINGS INC.                      0.000     29266R108   ENR            235,900        9,848,449.17       11,721,871.00
+ENERGY CONVERSION DE                         0.000     292659109   ENER             6,100           72,454.67          117,852.00
+ENERGY EAST CORP.                            4.122     29266M109   EAS            242,700        5,508,556.00        6,475,236.00
+ENERGY PARTNERS LTD                          0.000     29270U105   EPL             52,855          781,630.45        1,071,370.85
+ENERGYSOUTH INC                              2.853     292970100   ENSI             7,550          172,211.35          211,702.00
+ENERSYS                                      0.000     29275Y102   ENS             13,900          179,946.62          211,975.00
+ENGELHARD CORP.                              1.434     292845104 Q EC             213,525        5,846,220.64        6,548,811.75
+ENGINEERED SUPPORT SYSTEMS                   0.060     292866100   EASI            19,850          606,975.63        1,175,517.00
+ENNIS BUSINESS FORMS                         3.220     293389102   EBF             30,400          516,262.54          585,200.00
+ENPRO INDUSTRIES INC                         0.000     29355X107   NPO            139,800        2,508,506.59        4,133,886.00
+ENSCO INTL INC                               0.315     26874Q100   ESV            447,300       13,322,058.46       14,197,302.00
+ENSTAR GROUP INC                             0.000     29358R107   ESGR             3,500          183,469.52          218,750.00
+ENTEGRIS INC                                 0.000     29362U104   ENTG            48,480          622,211.93          482,376.00
+ENTERASYS NETWORKS INC.                      0.000     293637104   ETS            405,094          886,513.37          729,169.20
+ENTERCOM COMMUNICATIONS CORP                 0.000     293639100   ETM             32,000        1,314,755.84        1,148,480.00
+ENTERGY CORP.                                3.195     29364G103 Q ETR            312,181       11,820,357.72       21,100,313.79
+ENTRAVISION COMMUNIC                         0.000     29382R107   EVC            264,800        2,258,236.67        2,211,080.00
+ENZO BIOCHEM INC.                            0.000     294100102   ENZ             55,020          788,712.45        1,071,239.40
+ENZON PHARMACEUTICALS INC                    0.000     293904108   ENZN           289,837        3,724,889.55        3,976,563.64
+EOG RESOURCES INC                            0.336     26875P101   EOG            198,900        9,621,184.92       14,193,504.00
+EON LABS INC                                 0.000     29412E100   ELAB           236,500        5,360,552.18        6,385,500.00
+EPICOR SOFTWARE CORPORATION                  0.000     29426L108   EPIC            46,164          459,636.75          650,450.76
+EPIQ SYSTEMS INC                             0.000     26882D109   EPIQ            15,200          247,287.64          222,528.00
+EPIX PHARMACEUTICALS INC                     0.000     26881Q101   EPIX            25,300          501,255.82          453,123.00
+EQUIFAX INC                                  0.427     294429105   EFX            539,500       14,140,785.04       15,159,950.00
+EQUINIX INC                                  0.000     29444U502   EQIX            27,425        1,043,085.24        1,172,144.50
+EQUITABLE RESOURCES INC                      2.505     294549100   EQT            195,900        8,967,013.21       11,883,294.00
+ERESEARCH TECHNOLOGY                         0.000     29481V108   ERES            49,400          737,835.43          782,990.00
+ERIE INDTY CO                                2.472     29530P102   ERIE             3,700          175,835.59          194,509.00

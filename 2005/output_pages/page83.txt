@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 050
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+CHARTERMAC                                 7.932 CHC     160908109     21.1800        42,600.00        862,069.81        902,268.00
+CHATTEM INC                                0.000 CHTT    162456107     36.3900        16,767.00        487,360.78        610,151.13
+CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     24.6500        39,900.00        648,700.13        983,535.00
+CHEMED CORP                                0.483 CHE     16359R103     49.6800        26,700.00        744,929.45      1,326,456.00
+CHEMICAL FINL CORP                         3.463 CHFC    163731102     31.7600        26,520.00        821,047.13        842,275.20
+CHENIERE ENERGY INC                        0.000 LNG     16411R208     37.2200        39,600.00        645,400.01      1,473,912.00
+CHEROKEE INC                               6.978 CHKE    16444H102     34.3900        15,600.00        467,665.20        536,484.00
+CHESAPEAKE CORP                            5.182 CSK     165159104     16.9800        20,800.00        485,967.69        353,184.00
+CHILDREN'S PLACE                           0.000 PLCE    168905107     49.4200        28,550.00      1,002,665.45      1,410,941.00
+CHIQUITA BRANDS                            1.999 CQB     170032809Q    20.0100        55,000.00      1,059,938.08      1,100,550.00
+CHITTENDEN CORPORATION                     2.589 CHZ     170228100     27.8100        48,924.00      1,153,628.17      1,360,576.44
+CHRISTOPHER & BANKS CORP                   0.852 CBK     171046105     18.7800        37,750.00        796,139.21        708,945.00
+CIBER INC.                                 0.000 CBR     17163B102      6.6000       101,000.00        977,510.62        666,600.00
+CIENA CORP.                                0.000 CIEN    171779101      2.9700       442,200.00      1,025,771.34      1,313,334.00
+CIMAREX ENERGY                             0.372 XEC     171798101     43.0100        85,726.00      1,871,196.97      3,687,075.26
+CINCINNATI BELL INC                        0.000 CBB     171871106      3.5100       154,800.00        997,488.74        543,348.00
+CIRCOR INTERNATIONAL INC                   0.584 CIR     17273K109     25.6600        27,500.00        577,844.37        705,650.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100      6.6800       135,800.00        929,107.99        907,144.00
+CITADEL BROADCASTING CORP                  5.357 CDL     17285T106     13.4400        67,000.00        803,745.45        900,480.00
+CITI TRENDS INC                            0.000 CTRN    17306X102     42.6900         4,300.00         70,282.64        183,567.00
+CITIZENS & NORTHERN CORP                   3.745 CZNC    172922106     25.6300         8,787.00        281,672.94        225,210.81
+CITIZENS BKG CORP MI                       4.108 CBCF    174420109     27.7500        45,461.00      1,236,998.82      1,261,542.75
+CITIZENS INC                               0.000 CIA     174740100      5.4500        29,845.00        171,019.24        162,655.25
+CITY BK LYNNWOOD WAS                       2.249 CTBK    17770A109     35.5700         8,200.00        264,013.37        291,674.00
+CITY HLDG CO                               2.781 CHCO    177835105     35.9500        19,000.00        615,938.89        683,050.00
+CKE RESTARUANTS INC.                       1.184 CKR     12561E105     13.5100        62,200.00        659,923.17        840,322.00
+CLARCOR INC.                               0.908 CLC     179895107Q    29.7100        54,300.00        756,856.74      1,613,253.00
+CLARK INC                                  1.811 CLK     181457102     13.2500        34,400.00        515,892.63        455,800.00
+CLAYTON WILLIAMS ENERGY INC                0.000 CWEI    969490101     41.7400         6,000.00        184,259.64        250,440.00
+CLEAN HARBORS INC                          0.000 CLHB    184496107     28.8100        16,000.00        359,299.20        460,960.00
+CLECO CORP. HOLDING CO.                    4.316 CNL     12561W105     20.8500        64,800.00      1,268,258.36      1,351,080.00
+CLEVELAND-CLIFFS INC                       0.903 CLF     185896107Q    88.5700        26,900.00        756,836.18      2,382,533.00
+CLICK COMMERCE INC                         0.000 CKCM    18681D208     21.0200         8,700.00        188,599.47        182,874.00
+CMGI INC                                   0.000 CMGI    125750109      1.5200       240,900.00        399,337.07        366,168.00
+CNET NETWORKS INC                          0.000 CNET    12613R104     14.6900       103,500.00        793,540.47      1,520,415.00
+CNS INC                                    1.095 CNXS    126136100     21.9100        25,800.00        589,129.74        565,278.00
+COACHMEN INDUSTRIES INC                    2.032 COA     189873102     11.8100        15,000.00        232,177.30        177,150.00
+COASTAL FINL CORP DE                       1.555 CFCP    19046E105     12.8600        14,074.00        156,435.57        180,991.64
+COEUR D'ALENE MINES CORP.                  0.000 CDE     192108108      4.0000       148,500.00        403,371.34        594,000.00

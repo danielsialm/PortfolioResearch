@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:17   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ANSYS INC                                    0.000     03662Q105   ANSS            16,000          395,335.88          323,200.00
+ANTEON INTERNATIONAL CORP                    0.000     03674E108   ANT              6,800          154,012.69          163,200.00
+ANTHEM INC                                   0.000     03674B104   ATH            244,801       14,148,650.16       15,397,982.90
+ANTHRACITE CAPITAL INC                      12.844     037023108   AHR             14,100          163,376.70          153,690.00
+AOL TIME WARNER INC                          4.122     00184A105   AOL          9,445,540      310,290,110.82      123,736,574.00
+AON CORP                                     3.176     037389103 Q AOC            622,446       20,393,769.25       11,758,004.94
+APACHE CORP.                                 0.701     037411105   APA            304,015       14,386,870.03       17,325,814.85
+APOGEE ENTERPRISES INC.                      2.569     037598109   APOG            28,700          480,381.80          256,893.70
+APOGENT TECHNOLOGY                           0.000     03760A101   AOT            198,900        3,947,412.07        4,137,120.00
+APOLLO GROUP INC                             0.000     037604105   APOL           301,265        6,716,580.65       13,255,660.00
+APPLE COMPUTER INC.                          0.000     037833100   AAPL           655,684       15,260,720.48        9,395,951.72
+APPLEBEES INT'L. INC.                        0.258     037899101   APPB           143,886        2,821,556.84        3,336,860.24
+APPLERA CORP - APPLIED BIOSYSTEM             0.969     038020103 Q ABI            620,650       16,720,101.12       10,886,201.01
+APPLICA                                      0.000     03815A106   APN             13,300           64,731.10           66,500.00
+APPLIED INDUSTRIAL TECH INC.                 2.539     03820C105   AIT             33,500          587,760.15          633,150.00
+APPLIED MATERIALS INC.                       0.000     038222105   AMAT         2,732,109       53,102,247.50       35,599,380.27
+APPLIED MICRO CIRCUITS CORP                  0.000     03822W109   AMCC           986,084       15,828,055.43        3,638,649.96
+APRIA HEALTHCARE GP. INC.                    0.000     037933108   AHG            131,500        3,006,525.44        2,924,560.00
+APTAR GROUP INC.                             0.768     038336103 Q ATR             64,800        1,709,410.68        2,024,352.00
+AQUILA INC                                  39.548     03840P102   ILA            557,750        8,129,942.43          987,217.50
+ARAMARK CORP. - CL B                         0.000     038521100   RMK             38,500          787,179.19          904,750.00
+ARBITRON INC                                 0.000     03875Q108   ARB             32,701          905,189.25        1,095,483.50
+ARCH CHEMICALS INC.                          4.383     03937R102   ARJ             44,300          903,365.25          808,475.00
+ARCH COAL INC.                               1.065     039380100 Q ACI            124,700        2,506,621.37        2,692,273.00
+ARCHER DANIELS MIDLAND CO                    1.935     039483102 Q ADM            687,406        8,930,664.25        8,523,834.40
+ARCTIC CAT INC.                              1.500     039670104   ACAT            26,400          306,633.62          422,400.00
+ARGOSY GAMING COMPANY                        0.000     040228108   AGY             32,000          916,556.59          605,760.00
+ARKANSAS BEST CORP                           0.000     040790107   ABFS            66,431        1,319,764.28        1,725,943.81
+ARMOR HOLDINGS INC                           0.000     042260109   AH              29,000          624,580.63          399,330.00
+ARQULE INC                                   0.000     04269E107   ARQL            15,000           86,288.00           45,750.00
+ARRIS GROUP INC.                             0.000     04269Q100   ARRS            98,500          685,818.58          351,645.00
+ARROW ELECTRONICS                            0.000     042735100   ARW            372,300        6,565,616.05        4,761,717.00
+ARTESYN TECHNOLOGIES                         0.000     043127109   ATSN            68,600          678,314.29          263,424.01
+ARTHROCARE CORP                              0.000     043136100   ARTC            26,700          483,566.64          262,995.00
+ARTISAN COMPONENTS INC                       0.000     042923102   ARTI            37,600          486,616.37          580,168.00
+ARVINMERITOR INC.                            2.399     043353101   ARM            154,335        3,812,636.15        2,572,764.45
+ASCENTIAL SOFTWARE CORP                      0.000     04362P108   ASCL           595,900        3,086,469.03        1,430,160.00
+ASHLAND INC                                  3.855     044204105 Q ASH            149,858        5,594,701.45        4,275,477.24
+ASHWORTH INC                                 0.000     04516H101   ASHW            22,900          146,687.43          146,560.00
+ASPECT COMMUNICATIONS CORP                   0.000     04523Q102   ASPT            34,500           78,511.65           97,980.00

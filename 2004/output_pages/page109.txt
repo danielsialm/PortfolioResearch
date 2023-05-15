@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 077
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+OPTICAL COMMUNICATIO                       0.000 OCPI    68382T101      2.5000       111,502.00        236,903.16        278,755.00
+OPTION CARE INC                            0.465 OPTN    683948103     17.1900        27,520.00        308,686.56        473,068.80
+ORASURE TECHNOLOGIES                       0.000 OSUR    68554V108      6.7200         8,500.00         66,430.70         57,120.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106     11.8300        75,200.00        678,209.03        889,616.00
+OREGON STEEL MILLS INC                     0.000 OS      686079104Q    20.2900        37,800.00        556,121.23        766,962.00
+ORIENTAL FINL GROUP                        1.992 OFG     68618W100     28.3100        28,963.00        662,973.40        819,942.53
+ORLEANS HOMEBUILDERS INC                   0.000 OHB     686588104     19.8500         2,700.00         61,020.07         53,595.00
+ORMAT TECHNOLOGIES INC                     0.000 ORA     686688102     16.2800         8,000.00        143,921.04        130,240.00
+ORTHOLOGIC CORP                            0.000 OLGC    68750J107      6.2500        70,500.00        476,567.91        440,625.00
+ORTHOVITA INC                              0.000 VITA    68750U102      4.1900           900.00          3,918.95          3,771.00
+OSCIENT PHARMACEUTICALS CORP               0.000 OSCI    68812R105      3.6500        67,400.00        288,195.04        246,010.00
+OSHKOSH B'GOSH CL-A                        2.056 GOSHA   688222207Q    21.4000         7,400.00        181,329.60        158,360.00
+OSI SYSTEMS INC                            0.000 OSIS    671044105     22.7100        16,231.00        286,439.62        368,606.01
+OTTER TAIL CORP                            4.308 OTTR    689648103     25.5300        28,779.00        792,266.36        734,727.87
+OVERLAND STORAGE INC                       0.000 OVRL    690310107     16.6900        15,200.00        250,293.53        253,688.00
+OVERNITE CORP                              0.429 OVNT    690322102     37.2400        37,400.00      1,084,933.95      1,392,776.00
+OVERSEAS SHIPHOLDING GROUP                 1.268 OSG     690368105     55.2000        33,800.00        993,430.65      1,865,760.00
+OVERSTOCK COM INC DE                       0.000 OSTK    690370101     69.0000        13,000.00        440,257.68        897,000.00
+OWENS & MINOR INC.                         1.561 OMI     690732102Q    28.1700        51,400.00        992,096.86      1,447,938.00
+OXFORD INDUSTRIES INC.                     1.307 OXM     691497309     41.3000        20,100.00        590,582.59        830,130.00
+P A M TRANSN SVCS IN                       0.000 PTSI    693149106     18.7500         7,100.00        169,375.77        133,125.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     56.3500        23,900.00        807,267.71      1,346,765.00
+PACER INTERNATIONAL INC                    0.000 PACR    69373H106     21.2600        17,236.00        312,883.34        366,437.36
+PACIFIC CAP BANCORP                        2.118 PCBC    69404P101     33.9900        50,533.00      1,340,028.97      1,717,616.67
+PACKETEER INC                              0.000 PKTR    695210104     14.4500        36,500.00        485,703.95        527,425.00
+PAIN THERAPEUTICS INC.                     0.000 PTIE    69562K100      7.2100        35,000.00        229,789.98        252,350.00
+PALM HARBOR HOMES                          0.000 PHHM    696639103     16.8800        10,600.00        189,622.09        178,928.00
+PALMONE INC                                0.000 PLMO    69713P107     31.5500        52,336.00      1,213,114.68      1,651,200.80
+PALMSOURCE INC                             0.000 PSRC    697154102     12.7400         5,300.00        112,151.65         67,522.00
+PALOMAR MEDICAL TECHNOLOGIES I             0.000 PMTI    697529303     26.0700        13,300.00        214,918.74        346,731.00
+PANERA BREAD CO                            0.000 PNRA    69840W108     40.3200        31,500.00        844,675.00      1,270,080.00
+PANTRY INC/THE                             0.000 PTRY    698657103     30.0900         3,700.00         79,341.16        111,333.00
+PAPA JOHN'S INTERNATIONAL                  0.000 PZZA    698813102     34.4400        12,200.00        325,888.97        420,168.00
+PAR PHARMACEUTICAL COS INC                 0.000 PRX     69888P106     41.3800        38,000.00      1,689,042.75      1,572,440.00
+PARADYNE NETWORKS INC                      0.000 PDYN    69911G107      3.5900        43,800.00        251,406.48        157,242.00
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTC    699173100      5.8900       333,100.00      1,695,976.68      1,961,959.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     20.3000        39,000.00        756,482.76        791,700.00
+PARK ELECTROCHEMICAL CORP.                 1.476 PKE     700416209     21.6800        28,000.00        608,796.10        607,040.00
+PARK NATL CORP                             2.656 PRK     700658107    135.5000        15,960.00      1,951,658.78      2,162,580.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - IND       LARGE CAP SELECT
+Instrument - COM       COMMON STOCK
+
+PARAMETRIC TECHNOLOGY CORP                 0.000 PMTCE   699173100      2.5200       150,000.00        505,500.00        378,000.00
+PARKER-HANNIFIN CORP.                      1.560 PH      701094104Q    46.1300       131,400.00      5,966,474.96      6,061,482.00
+PAYCHEX INC                                1.577 PAYX    704326107     27.9000       146,800.00      5,226,888.40      4,095,720.00
+PEOPLES ENERGY CORP                        5.381 PGL     711030106Q    38.6500        15,000.00        537,501.00        579,750.00
+PEOPLESOFT INC                             0.000 PSFT    712713106     18.3000       135,600.00      3,108,614.48      2,481,480.00
+PEPSI BOTTLING GROUP INC                   0.155 PBG     713409100     25.7000       239,300.00      6,003,903.59      6,150,010.00
+PEPSICO INC.                               1.421 PEP     713448108Q    42.2200     1,247,600.00     29,964,299.64     52,673,672.00
+PERKIN ELMER INC                           3.393 PKI     714046109Q     8.2500        85,000.00      1,117,512.00        701,250.00
+PFIZER INC.                                1.962 PFE     717081103Q    30.5700     4,003,900.00     63,005,462.41    122,399,223.00
+PHARMACIA CORPORATION                      1.291 PHA     71713U102     41.8000     1,029,800.00     38,957,514.54     43,045,640.00
+PHELPS DODGE CORP.                         0.000 PD      717265102Q    31.6500        65,600.00      3,177,222.86      2,076,240.00
+PHILIP MORRIS COS                          6.316 MO      718154107Q    40.5300     1,437,700.00     40,391,792.15     58,269,981.00
+PINNACLE WEST CAPITAL CORP                 4.986 PNW     723484101Q    34.0900        56,000.00      1,460,729.80      1,909,040.00
+PITNEY-BOWES, INC.                         3.613 PBI     724479100Q    32.6600       168,100.00      5,215,824.89      5,490,146.00
+PLUM CREEK TIMBER CO INC                   5.932 PCL     729251108     23.6000       121,000.00      3,677,190.00      2,855,600.00
+PNC FINANCIAL SERVICES GROUP               4.582 PNC     693475105Q    41.9000       174,000.00      9,834,079.58      7,290,600.00
+PPG INDUSTRIES INC.                        3.429 PPG     693506107Q    50.1500       114,100.00      5,621,534.16      5,722,115.00
+PPL CORPORATION                            4.152 PPL     69351T106Q    34.6800       123,100.00      3,880,259.23      4,269,108.00
+PRAXAIR INC.                               1.315 PX      74005P104Q    57.7700       110,800.00      5,377,032.82      6,400,916.00
+PRINCIPAL FINANCIAL GROUP                  0.829 PFG     74251V102     30.1300        58,000.00      1,675,666.40      1,747,540.00
+PROCTER & GAMBLE CO                        1.908 PG      742718109Q    85.9400       861,300.00     42,864,889.40     74,020,122.00
+PROGRESS ENERGY, INC                       5.167 PGN     743263105Q    43.3500       185,700.00      8,281,102.98      8,050,095.00
+PROVIDIAN FINANCIAL CORP W/I               1.849 PVN     74406A102      6.4900       202,200.00      7,180,879.02      1,312,278.00
+PRUDENTIAL FINANCIAL INC                   1.260 PRU     744320102     31.7400       299,000.00      9,511,138.48      9,490,260.00
+PUBLIC SVC ENTERPRISES                     6.729 PEG     744573106Q    32.1000       146,200.00      5,658,861.22      4,693,020.00
+QLOGIC CORPORATION                         0.000 QLGC    747277101     34.5100       254,700.00      6,606,352.16      8,789,697.00
+QUALCOMM INC                               0.000 QCOM    747525103     36.3900       510,200.00     17,304,827.11     18,566,178.00
+QUEST DIAGNOSTICS INC                      0.000 DGX     74834L100     56.9000        64,000.00      3,565,123.82      3,641,600.00
+QWEST COMMUNICATIONS INTL.                 1.000 Q       749121109      5.0000     1,033,251.00     38,813,593.16      5,166,255.00
+RATIONAL SOFTWARE CORPORATION              0.000 RATL    75409P202     10.3900       129,000.00      2,616,189.11      1,340,310.00
+RAYTHEON COMPANY                           2.601 RTN     755111507Q    30.7500       424,100.00     12,129,484.31     13,041,075.00
+REEBOK INTERNATIONAL LTD.                  0.000 RBK     758110100Q    29.4000        46,300.00      1,195,749.72      1,361,220.00
+REGIONS FINANCIAL CORP.                    3.597 RF      758940100Q    33.3600       156,000.00      5,098,960.90      5,204,160.00
+ROBERT HALF INTL INC                       0.000 RHI     770323103     16.1100        57,300.00      1,206,679.66        923,103.00
+ROCKWELL AUTOMATION INC                    3.186 ROK     773903109Q    20.7100       182,300.00      3,459,768.12      3,775,433.00
+ROCKWELL COLLINS                           1.547 COL     774341101     23.2600       118,000.00      1,998,409.45      2,744,680.00
+ROHM & HAAS CO                             2.586 ROH     775371107Q    32.4800       150,300.00      5,263,387.12      4,881,744.00
+ROWAN COS.                                 0.000 RDC     779382100     22.7000        66,000.00      1,373,677.80      1,498,200.00
+RYDER SYS. INC.                            2.673 R       783549108Q    22.4400        50,000.00      1,152,605.00      1,122,000.00

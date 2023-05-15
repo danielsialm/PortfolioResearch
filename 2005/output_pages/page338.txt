@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+SANOFI-AVENTIS                               1.912     5671735      SAN_F        99,819.00        7,927,900.73
+SANWA SHUTTER CORP                           0.015     6776781      5929_       159,000.00          903,708.74
+SAP AG                                       0.846     4846288      SAP_G        32,758.00        4,829,634.05
+SCHERING AG DEM NP                           2.502     4845757      SCH_G        22,441.00        1,119,607.86
+SCHNEIDER ELECTRIC                           2.817     4834108      SU_FP        32,102.00        2,109,302.21
+SCOR                                         1.944     4797364      SCO_F        37,629.00           78,013.05
+SCOT + NEWCASTLE O                           7.335     0783969      SCTN_        15,656.00          136,279.28
+SCOT POWER PLC 0.5                           7.342     0690070      SPW_L       175,282.00        1,027,106.95
+SCOTTISH SOUTHERN                            7.465     0790873      SSE_L        62,507.00          606,986.14
+SECOM CO Y50                                 0.006     6791591      9735_        27,400.00        1,146,364.75
+SEKISUI HOUSE Y50                            0.011     6793906      1928_       112,000.00        1,241,859.24
+SEMBCORP INDUSTRIE                           1.097     B08X163      SCI_S       701,620.00        1,012,297.65
+SEVEN & I HOLDINGS CO.                       0.004     B0FS5D6      3382_        13,500.00          437,756.40
+SHARP CORP JPY50                             0.009     6800602      6753_        99,100.00        1,344,833.94
+SHAW COMMUNICATIONS INC-B                    1.832     2801836      SJR/N         7,600.00          134,253.88
+SHELL CANADA LTD                             0.895     2802806      SHC_C        10,200.00          194,284.20
+SHIN-ETSU CHEMICAL                           0.004     6804585      4063_        40,900.00        1,542,064.53
+SHIP FINANCE INTL LTD                       10.650     B019MJ8      SFL           2,660.00           54,742.80
+SHIZUOKA BANK Y50                            0.006     6805328      8355_       161,000.00        1,605,404.03
+SHOPPERS DRUG MART CORP                      0.778     2821191      SC_CN         7,500.00          215,204.97
+SIEMENS AG DEM 5.0                           2.200     5727973      SIE_G       121,286.00        8,372,149.56
+SINGAPORE AIRLINES                           1.940     6811734      SIA_S       274,600.00        1,880,325.28
+SINGAPORE EXCHANGE LTD                       1.514     6303866      SGX_S       467,100.00          460,781.40
+SINGAPORE POST LTD                           2.719     6609478      SPOST     1,171,800.00          579,505.29
+SINGAPORE PRESS HO                           3.986     B012899      SPH_S     1,016,450.00        2,767,306.95
+SINGAPORE TECH ENG                           2.860     6043214      STE_S       475,900.00          634,571.34
+SINGAPORE TELECOMM                           1.843     B02PY22      ST_SP     3,805,742.00        5,647,677.79
+SMC CORP Y50                                 0.005     6763965      6273_         7,700.00          913,616.20
+SMITHS GROUP PLC                             4.758     0818270      SMIN_        62,100.00          589,392.93
+SMRT CORPORATION LTD                         3.620     6274456      MRT_S       788,500.00          506,414.99
+SOCIETE GENERALE                             3.745     5966516      GLE_F        46,370.00        4,210,454.75
+SODEXHO ALLIANCE                             2.541     7062713      SW_FP         8,209.00          292,193.08
+SOFTBANK AM CORP                             0.000     6770620      9984_        44,400.00          453,048.72
+SOLVAY SA NPV                                2.406     4821100      SOLB_        25,008.00        1,756,680.63
+SOMPO JAPAN INSURANCE                        0.004     6986063      8755_        91,000.00          859,340.00
+SONY CORP JPY50                              0.004     6821506      6758_        91,652.00        3,655,559.32
+STATOIL ASA                                  0.305     7133608      STL_N       457,700.00        5,462,793.38
+STMICROELECTRONICS NV                        0.932     5962332      STM_F        60,130.00        1,218,327.50
+STOCKLAND TRUST GR                           4.722     6850856      SGP_A        27,632.00          127,341.94

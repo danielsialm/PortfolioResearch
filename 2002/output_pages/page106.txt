@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 078
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+FLEMING COS                                1.217 FLM     339130106Q     6.5700        55,300.00        885,758.81        363,321.00
+FLIR SYSTEMS INC                           0.000 FLIR    302445101     48.8000        19,300.00        870,254.78        941,840.00
+FLORIDA ROCK INDS                          1.051 FRK     341140101S    38.0500        31,800.00        715,358.64      1,209,990.00
+FOOTSTAR INC                               0.000 FTS     344912100      6.9600        36,400.00        732,041.35        253,344.00
+FORWARD AIR CORPORATION                    0.000 FWRD    349853101     19.4100        23,900.00        952,801.35        463,899.01
+FOSSIL INC.                                0.000 FOSL    349882100     20.3400        52,450.00        933,564.84      1,066,833.00
+FRED'S INC                                 0.466 FRED    356108100     25.7000        29,300.00        879,628.08        753,010.00
+FREMONT GENERAL CORP.                      1.781 FMT     357288109      4.4900        82,000.00        415,350.11        368,179.99
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109      6.7600        26,200.00        608,750.79        177,112.00
+FRONTIER OIL CORP                          1.161 FTO     35914P105     17.2200        28,700.00        635,685.00        494,214.00
+G & K SERV. CL-A                           0.197 GKSRA   361268105Q    35.4010        22,900.00        867,189.04        810,682.90
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    20.3000        15,600.00        248,131.58        316,680.00
+GBC BANCORP/CALIFORNIA                     2.479 GBCB    361475106     19.3600        10,800.00        346,350.29        209,088.00
+GENCORP INC                                1.515 GY      368682100Q     7.9200        47,100.00        590,468.70        373,032.00
+GENERAL COMMUNICATION                      0.000 GNCMA   369385109      6.7100        62,100.00        438,742.47        416,691.00
+GENESCO INC.                               0.000 GCO     371532102     18.6300        25,300.00        580,179.78        471,339.01
+GEORGIA GULF CORP                          1.382 GGC     373200203     23.1400        36,600.00        724,455.88        846,924.00
+GERBER SCIENTIFIC                          7.881 GRB     373730100Q     4.0600        34,700.00        151,588.31        140,882.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     18.3800        23,000.00        476,330.00        422,740.00
+GLOBAL PAYMENTS INC-W/I                    0.499 GPN     37940X102     32.0100        42,100.00        943,602.59      1,347,621.00
+GOODY'S FAMILY CLOTHING INC.               0.000 GDYS    382588101      4.4400        25,600.00        236,233.09        113,664.00
+GRACO INC.                                 1.151 GGG     384109104     28.6500        52,900.00        757,061.69      1,515,585.00
+GREAT ATL & PAC TEA                        0.000 GAP     390064103Q     8.0600        37,100.00        713,139.89        299,026.00
+GREEN MOUNTAIN POWER CORP                  3.624 GMP     393154109     20.9700         7,700.00        156,532.05        161,469.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     13.6200        38,260.00        473,147.47        521,101.21
+GROUP 1 AUTOMOTIVE                         0.000 GPI     398905109     23.8800        24,500.00        434,200.01        585,060.00
+GYMBOREE CORP                              0.000 GYMB    403777105     15.8600        33,200.00        409,672.49        526,552.00
+HAEMONETICS CORP/MASS                      0.000 HAE     405024100     21.4600        27,000.00        832,435.25        579,420.00
+HAGGAR CORP                                1.588 HGGR    405173105     12.5900        11,000.00        159,880.91        138,490.00
+HAIN CELESTIAL GROUP                       0.000 HAIN    405217100     15.2000        37,300.00      1,080,837.29        566,960.00
+HALL KINION & ASSOCIATES INC               0.000 HAKI    406069104      5.5910        24,200.00        185,472.84        135,302.20
+HANCOCK FABRICS INC                        2.098 HKF     409900107     15.2500        20,200.00        203,113.86        308,050.00
+HARLAND JOHN H CO                          1.355 JH      412693103Q    22.1300        32,500.00        664,048.54        719,225.00
+HARMAN INTERNATIONAL                       0.168 HAR     413086109     59.5000        35,900.00        837,947.96      2,136,050.00
+HARMONIC INC.                              0.000 HLIT    413160102      2.3000        90,500.00        925,028.43        208,150.00
+HAVERTY FURNITURE                          1.654 HVT     419596101     13.9000        25,600.00        474,784.05        355,840.00
+HEARTLAND EXPRESS INC.                     0.000 HTLD    422347104     22.9110        56,475.00        713,328.11      1,293,898.73
+HEIDRICK & STRUGGLES INTL                  0.000 HSII    422819102     14.6700        20,000.00      1,179,517.94        293,400.00
+HELIX TECHNOLOGY                           1.428 HELX    423319102     11.2000        24,800.00        883,803.70        277,760.00

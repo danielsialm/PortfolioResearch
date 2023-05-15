@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 064
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+GENLYTE GROUP INC                          0.000 GLYT    372302109     85.6800        16,646.00        739,770.85      1,426,229.28
+GENTA INC                                  0.000 GNTA    37245M207      1.7600       143,500.00        385,523.58        252,560.00
+GENTIVA HEALTH SERVICES                    0.000 GTIV    37247A102     16.7200        40,136.00        514,311.52        671,073.92
+GEORGIA GULF CORP                          0.642 GGC     373200203     49.8000        31,600.00        881,763.93      1,573,680.00
+GERON CORP                                 0.000 GERN    374163103      7.9700        13,300.00         93,452.55        106,001.00
+GEVITY HR INC                              1.167 GVHR    374393106     20.5600        12,350.00        281,573.73        253,916.00
+GIANT INDUSTRIES INC                       0.000 GI      374508109     26.5100        21,100.00        479,075.86        559,361.00
+GIBRALTAR INDUSTRIES INC                   0.846 ROCK    374689107     23.6200        26,100.00        417,885.65        616,482.00
+GLACIER BANCORP INC                        1.997 GBCI    37637Q105     34.0400        27,225.00        645,694.49        926,739.00
+GLADSTONE CAPITAL CO                       6.075 GLAD    376535100     23.7000        10,500.00        243,520.56        248,850.00
+GLATFELTER                                 2.356 GLT     377316104     15.2800        31,900.00        470,352.60        487,432.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     39.5000        25,600.00        691,324.01      1,011,200.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      8.2900        90,300.00        456,591.09        748,587.00
+GLOBAL POWER EQUIPMENT GROUP               0.000 GEG     37941P108      9.8400         7,300.00         48,504.63         71,832.00
+GOLD BANC CORP INC                         0.820 GLDB    379907108     14.6200        59,300.00        793,956.19        866,966.00
+GOLD KIST INC                              0.000 GKIS    380614107     13.6200        15,100.00        202,559.25        205,662.00
+GOLDEN TELECOM INC                         3.028 GLDN    38122G107     26.4200        15,700.00        454,809.85        414,794.00
+GOODY'S FAMILY CLOTHING INC.               1.312 GDYS    382588101      9.1400        44,300.00        418,137.74        404,902.00
+GOODYEAR T & R                             3.274 GT      382550101Q    14.6600       187,300.00      2,963,719.16      2,745,818.00
+GORMAN RUPP CO                             2.434 GRC     383082104     23.0000        20,200.00        420,862.29        464,600.00
+GRACE W.R. & COMPANY                       0.000 GRA     38388F108     13.6100        95,700.00        480,836.77      1,302,477.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102      9.4600        91,800.00        873,048.79        868,428.00
+GRAMERCY CAPITAL CORP                      2.912 GKK     384871109     20.6000        10,500.00        165,856.95        216,300.00
+GRANITE CONSTRUCTION INC                   1.503 GVA     387328107     26.6000        37,000.00        722,196.88        984,200.00
+GRAPHIC PACKAGING CORP                     0.000 GPK     388688103      7.2000        40,100.00        301,578.28        288,720.00
+GRAY TELEVISION INC                        0.774 GTN     389375106     15.5000        49,900.00        681,431.55        773,450.00
+GREAT AMERN FINL RES                       0.575 GFR     389915109     17.3700        21,000.00        324,319.64        364,770.00
+GREAT ATL & PAC TEA                        0.000 GAP     390064103Q    10.2500        18,400.00        223,996.01        188,600.00
+GREAT LAKES CHEMICAL CORP.                 1.404 GLK     390568103Q    28.4900        56,400.00      1,563,576.01      1,606,836.00
+GREAT SOUTHN BANCORP                       1.371 GSBC    390905107     35.0000        17,900.00        418,817.67        626,500.00
+GREATER BAY BANCORP                        2.044 GBBK    391648102     27.8800        64,206.00      1,521,871.88      1,790,063.28
+GREENBRIER COS INC                         0.709 GBX     393657101     33.8500         6,300.00        144,183.26        213,255.00
+GREENFIELD ONLINE INC                      0.000 SRVY    395150105     21.9900         5,700.00        120,447.27        125,343.00
+GREENHILL & CO INC                         1.115 GHL     395259104     28.7000        14,100.00        307,258.15        404,670.00
+GREG MANNING AUCTIONS INC                  0.000 GMAI    563823103     12.3800         5,600.00         73,843.13         69,328.00
+GREIF INC                                  1.142 GEF     397624107     56.0000        14,500.00        444,456.43        812,000.00
+GREY GLOBAL GROUP IN                       0.363 GREY    39787M108  1,099.9900           957.00        846,945.79      1,052,690.43
+GREY WOLF INC                              0.000 GW      397888108      5.2700       160,000.00        651,726.31        843,200.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     27.0000        27,100.00        462,651.42        731,700.00

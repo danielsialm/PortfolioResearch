@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 019
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 021
 
 Monthly Market Portfolio
 
@@ -6,12 +6,45 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-MARVIN  MARVIN & PALMER_EAFE
-Instrument - INTF      INTERNATIONAL FUNDS
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-MARVIN & PALMER - EQUITIES                   0.000     IE-MARV               12,455,030.19    1,245,503,019.24
-MARVIN & PALMER - LQR                        0.000     IL-MARV                  609,824.80       60,982,480.56
-
-Instrument Total               2                                             13,064,854.99    1,306,485,499.80
-
-Portfolio Total                2                                             13,064,854.99    1,306,485,499.80      1,310,294,592.58
+ABB LIMITED CHF2.50                          1.665     7108899      ABBN_        39,064.00          907,049.05
+ABN AMRO HLDGS NV                            1.918     5250769      AABA_         8,050.00          130,481.34
+ACERINOX SA                                  1.842     5500118      ACX_S         6,500.00          198,293.08
+ACOM CO Y50                                  0.000     6049784      8572_         8,500.00          682,427.78
+ADECCO SA-REG                                0.660     7110720      ADEN_         1,296.00           47,542.18
+ADVANTEST Y50                                0.005     6870490      6857_         2,040.00          121,224.92
+AEGON NV                                     2.071     5927375      AEGN_         6,386.00          196,896.01
+AGFA GEVAERT NV                              1.973     5689051      AGFB_        11,300.00          148,344.00
+AIR LIQUIDE                                  1.680     4011406      AI_FP         3,682.00          526,365.68
+AKZO NOBEL NV NLG5                           2.109     5458314      AKZO_         1,607.00           67,931.30
+ALCATEL EUR 2.0                              1.713     5975006      CGE_F        25,646.00          399,189.52
+ALL NIPPON AIRWAYS CO LTD                    0.000     6014908      9202_       190,000.00          613,085.77
+ALLIANZ AG NPV(REG                           0.301     5231485      ALV_G         3,939.00        1,030,476.96
+ALLIED IRISH BANKS                           1.920     0019783      ALBK_        12,000.00          136,506.37
+ALPHA BANK A.E.                              3.115     4235864      ALPHA        17,540.00          316,154.74
+ALTADIS SA                                   0.000     5444012      ALT_S        30,760.00          512,169.25
+AMP ORD AUD3                                 0.689     6115715      AMP_A       148,912.00        1,471,408.36
+AMVESCAP                                     3.351     0128269      AVZ_L        88,820.00        1,251,413.47
+ARIAKE JAPAN CO LTD.                         0.000     6049632      2815_        11,300.00          418,952.33
+ASM LITHOGRAPHY HOLDING                      0.000     5949368      ASML_         2,448.00           35,331.51
+ASTRAZENECA GBP 0.                          91.601     0989529      AZN_L       115,864.00        4,856,892.23
+AUSTRALIA + NEW ZEALAND BANK GROUP           1.944     6065586      ANZ_A        91,000.00          806,542.68
+AUSTRALIAN GAS LIG                           2.915     6064969      AGL_A        94,554.00          428,203.28
+AUTOPISTAS CESA                              2.836     4065663      ACE_S        28,900.00          285,770.91
+AXA EUR 2.29                                 1.606     7088429      CS_FP        52,851.00        1,335,020.16
+BANCO BILBAO - BBVA                          1.217     5501906      BBVA_       464,478.00        5,841,139.78
+BANK OF IRELAND                              2.278     3060625      BKIR_         8,000.00           70,501.29
+BANK OF PIRAEUS                              2.562     4122676      TPEIR        14,525.00          128,030.90
+BANYU PHARMACEUTICAL CO LTD                  0.000     6077309      4515_        28,000.00          503,908.48
+BARCLAYS PLC ORD G                          17.086     0078201      BARC_       113,447.00        2,949,867.69
+BASF AG DEM ORD SH                           1.000     5086577      BAS_G        13,900.00          536,948.16
+BAYER AG COM NPV                             2.370     5069211      BAY_G        16,100.00          517,331.63
+BAYERISCHE HYPO UN                           1.706     4325419      HVM_G         8,700.00          264,716.20
+BCO SANTANDER CENTAL HISP                    1.248     5705946      SAN_S       422,996.00        3,495,099.54
+BEIERSDORF AG DEM                            0.615     5107401      BEI_G         1,300.00          153,087.74
+BG GROUP ORD                                 2.267     0876289      BG/_L       358,245.00        1,365,712.64
+BHP LIMITED                                  0.081     6144690      BHP_A       502,776.00        2,492,259.66
+BK OF EAST ASIA HK                           0.028     6075648      60756       142,900.00          306,937.07
+BNP PARIBAS                                  1.353     4133667      BNP_F        13,553.00        1,013,794.32

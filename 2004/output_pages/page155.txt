@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 123
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+GUIDANT CORP.                              0.554 GDT     401698105Q    72.1000        11,500.00        617,285.96        829,150.00
+HALLIBURTON COMPANY                        1.274 HAL     406216101Q    39.2400        18,900.00        413,034.33        741,636.00
+HARLEY-DAVIDSON INC                        0.823 HDI     412822108Q    60.7500        10,000.00        463,420.75        607,500.00
+HARMAN INTERNATIONAL                       0.039 HAR     413086109    127.0000         2,800.00        130,645.77        355,600.00
+HARRAH'S ENTERTAINMENT INC.                1.973 HET     413619107     66.8900         3,300.00        158,306.22        220,737.00
+HARRIS CORP.                               0.776 HRS     413875105Q    61.7900           900.00         42,545.72         55,611.00
+HARSCO CORP                                2.152 HSC     415864107Q    55.7400         6,700.00        291,910.41        373,458.00
+HARTE-HANKS INC.                           0.615 HHS     416196103     25.9800         9,400.00        220,753.22        244,212.00
+HARTFORD FINL SERVICES                     1.673 HIG     416515104     69.3100        12,500.00        730,523.04        866,375.00
+HAWAIIAN ELECTRIC INDS                     4.253 HE      419870100     29.1500         1,000.00         25,541.94         29,150.00
+HCA INC                                    1.301 HCA     404119109     39.9600         2,100.00         85,204.37         83,916.00
+HCC INSURANCE HOLDINGS INC.                1.026 HCC     404132102     33.1200         5,400.00        157,506.58        178,848.00
+HEINZ H. J. CO.                            2.923 HNZ     423074103Q    38.9900         3,300.00        125,304.81        128,667.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     69.6400           600.00         39,014.38         41,784.00
+HERSHEY FOODS CORP.                        1.584 HSY     427866108Q    55.5400        19,000.00        697,388.07      1,055,260.00
+HEWLETT-PACKARD CO                         1.526 HPQ     428236103Q    20.9700        37,900.00        867,241.36        794,763.00
+HIBERNIA CORP CL-A                         2.710 HIB     428656102     29.5100         6,100.00        137,052.43        180,011.00
+HILTON HOTELS CORP.                        0.351 HLT     432848109Q    22.7400         2,700.00         30,858.76         61,398.00
+HONEYWELL INTERNATIONAL INC                2.329 HON     438516106Q    35.4100        18,600.00        647,860.75        658,626.00
+HORMEL FOODS CORP                          1.658 HRL     440452100     31.3500        10,400.00        302,344.01        326,040.00
+HOSPIRA INC                                0.000 HSP     441060100     33.5000         1,790.00         38,140.59         59,965.00
+HUBBELL INC                                2.523 HUB.B   443510201Q    52.3000         2,000.00         72,160.02        104,600.00
+HUGHES SUPPLY INC.                         0.803 HUG     444482103     32.3500         8,400.00        250,460.63        271,740.00
+HUNT (JB) TRANSPRT SVCS INC                1.070 JBHT    445658107     44.8500         4,100.00         96,976.47        183,885.00
+HUNTINGTON BANCSHARES                      3.228 HBAN    446150104     24.7800         7,800.00        151,493.74        193,284.00
+IDEXX LABS INC.                            0.000 IDXX    45168D104     54.5900         3,000.00        180,155.25        163,770.00
+IKON OFFICE SOLUTIONS INC.                 1.384 IKN     451713101Q    11.5600        25,300.00        296,442.14        292,468.00
+ILLINOIS TOOL WORKS                        1.208 ITW     452308109Q    92.6800        10,500.00        729,550.27        973,140.00
+IMS HEALTH INC.                            0.344 RX      449934108     23.2100         6,200.00        143,868.69        143,902.00
+INAMED CORP                                0.000 IMDC    453235103     63.2500         2,600.00        153,710.81        164,450.00
+INDEPENDENCE COMMUNITY BANK                2.348 ICBC    453414104     42.5800         2,600.00         99,337.32        110,708.00
+INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     20.9200         3,000.00         65,825.40         62,760.00
+INTEL CORP.                                1.368 INTC    458140100Q    23.3900       105,900.00      2,806,637.47      2,477,001.00
+INTERNATIONAL BANCSH                       2.031 IBOC    459044103     39.3800         1,950.00         72,155.53         76,791.00
+INTERNATIONAL PAPER                        2.381 IP      460146103Q    42.0000        13,400.00        496,954.34        562,800.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     44.5700         1,500.00         68,613.97         66,855.00
+INTERNATL FLAVORS & FRAGRANCES             1.634 IFF     459506101Q    42.8400        13,500.00        438,976.67        578,340.00
+INTERPUBLIC GROUP                          2.835 IPG     460690100Q    13.4000         4,900.00         59,319.40         65,660.00
+INTERSIL HOLDINGS CORP                     0.955 ISIL    46069S109     16.7400         3,800.00         61,207.36         63,612.00

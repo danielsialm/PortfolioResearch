@@ -1,0 +1,50 @@
+ASOF03   Date 01/21/2005 Time 18:35:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RES       RE SOUTH REGION
+Instrument - R         RETAIL
+
+K MART #50                     SPRINGFIELD                     9.550         RKM050                  3,468,664.00      4,200,000.00
+K MART #74                     GREENBELT MD                    9.750         RMEM04                  4,900,000.00      6,000,000.00
+KROGER #02                     COVINGTON                      10.000         RKR002                  2,252,581.00      2,400,000.00
+KROGER #03                     LOUISVILLE                     10.000         RKR003                  1,959,115.00      2,100,000.00
+KROGER #09                     FAYETTEVILLE NC                10.000         RKR009                  1,351,062.00      1,600,000.00
+KROGER #13                     DUNCANVILLE TX                 10.250         RKR013                  2,545,346.34      1,700,000.00
+KROGER #15                     ARLINGTON TX                   10.250         RKR015                  4,723,707.32      5,400,000.00
+KROGER #16                     LANETT AL                      10.250         RKR016                  2,360,976.00      2,500,000.00
+KROGER #19                     COLLIERVILLE TN                10.250         RKR019                  4,532,260.79      5,100,000.00
+KROGER #21                     SPARTA IL                      10.250         RKR021                  1,500,000.00      1,600,000.00
+KROGER #22                     WINCHESTER KY                  10.000         RKR022                  1,839,030.00      1,800,000.00
+KROGER #25                     PADUCAH KY                     10.250         RKR025                  2,305,000.00      2,000,000.00
+LAKELAND PLAZA                 CUMMINS, GA                     9.500         RLAKPL                 23,173,747.15     32,700,000.41
+LONGS DRUGS #02                GRASS VALLEY CA                 8.750         RLD002                  1,100,000.00      2,200,000.00
+LONGS DRUGS #11                WOODLAND CA                     9.000         RLD011                  1,000,000.00      1,400,000.00
+LONGS DRUGS #13                SALINAS CA                     10.375         RLD013                    900,000.00      1,600,000.00
+LONGS DRUGS #20                BAKERSFIELD CA                 10.625         RLD020                  1,450,000.00      1,500,000.00
+LUCKY #04                      TRUCKEE CA                      8.750         RLS004                  1,600,000.00      2,400,000.00
+LUCKY #10                      ARROYO GRANDE CA                8.750         RLS010                  1,400,000.00      1,700,000.00
+LUCKY #11                      ATASCADERO CA                   9.100         RLS011                  1,750,000.00      1,200,000.00
+PALLADIUM AT CITYPLACE         WEST PALM BEACH, FL             0.000         RPALPR                      1,000.00          1,000.00
+PRESTON VILLAGE CENTER         PLANO, TX                       0.000         RPRSTV                 46,681,714.97     41,999,999.99
+SAFEWAY #09                    WILLIAMSBURG VA                10.500         RSAF09                  2,115,013.00      2,800,000.00
+SUPER X #01                    WINCHESTER KY                  10.250         RSPX01                    639,058.80        600,000.00
+SUPER X #04                    PADUCAH                        10.250         RSPX04                    531,000.00        700,000.00
+TG&Y #03                       LUCEDALE MS                    10.000         RTGY03                     67,742.00        700,000.00
+TG&Y #23                       VALDOSTA GA                    10.000         RTGY23                    745,649.92      3,600,000.00
+TG&Y #29                       HAZARD KY                      10.000         RTGY29                  2,000,000.00      2,700,000.00
+WAL-MART #25                   HOUSE SPRINGS MO               10.000         RWAL25                  1,614,133.00      2,100,000.00
+WAL-MART #28                   GRAHAM TX                      10.000         RWAL28                  1,457,000.00      1,900,000.00
+WAL-MART #30                   MARLIN TX                      10.000         RWAL30                  1,365,000.00      1,600,000.00
+WAL-MART #38                   MARSHALL MO                    10.000         RWAL38                  1,832,846.00      2,300,000.00
+WAL-MART #42                   RUSSELLVILLE AL                10.000         RWAL42                  1,503,000.00      1,700,000.00
+WAL-MART #52                   PARSONS KS                     10.000         RWAL52                  1,449,000.00      2,000,000.00
+WAL-MART #75                   COLUMBIA MD                     8.875         RMEM05                  4,300,000.00      5,600,000.00
+WAL-MART #76                   BURKE MD                       11.250         RMEM06                  5,512,600.00      6,800,000.00
+
+Instrument Total            37                                                                     140,137,673.61    158,801,000.40
+

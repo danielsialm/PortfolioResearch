@@ -1,0 +1,47 @@
+ASOF02   Date 01/21/2003 Time 18:52:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 030
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - IND       LARGE CAP SELECT
+Instrument - COM       COMMON STOCK
+
+WATERS CORPORATION                         0.000 WAT     941848103     21.7800        87,000.00      3,200,238.18      1,894,860.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     28.2700        99,000.00      2,386,308.10      2,798,730.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     71.1600       108,600.00      4,955,303.30      7,727,976.00
+WELLS FARGO COMPANY                        2.389 WFC     949746101     46.8700     1,248,300.00     28,630,238.94     58,507,821.00
+WENDY'S INTL                               0.886 WEN     950590109Q    27.0700       105,000.00      3,059,449.03      2,842,350.00
+WEYERHAEUSER CO.                           3.251 WY      962166104Q    49.2100       142,500.00      6,809,157.18      7,012,425.00
+WHIRLPOOL CORP                             2.604 WHR     963320106Q    52.2200        39,900.00      2,019,517.78      2,083,578.00
+WILLIAMS COS. INC.                         1.481 WMB     969457100Q     2.7000       333,428.00      7,509,769.26        900,255.60
+WRIGLEY WM JR CO                           1.494 WWY     982526105Q    54.8800        86,000.00      4,272,400.42      4,719,680.00
+WYETH                                      2.459 WYE     983024100Q    37.4000       886,600.00     28,588,619.96     33,158,840.00
+XCEL ENERGY INC                            6.818 XEL     98389B100Q    11.0000       284,150.00      6,869,048.08      3,125,650.00
+XEROX CORP                                 0.000 XRX     984121103Q     8.0500       480,000.00      4,986,236.08      3,864,000.00
+XILINX INC                                 0.000 XLNX    983919101     20.6000       215,900.00      9,001,056.89      4,447,540.00
+XL CAPITAL LTD - CLASS A                   2.433 XL      G98255105     77.2500       154,900.00     12,424,412.31     11,966,025.00
+YAHOO INC                                  0.000 YHOO    984332106     16.3500       379,700.00     38,507,089.24      6,208,095.00
+YUM BRANDS, INC.                           0.000 YUM     988498101     24.2200       164,000.00      3,839,348.84      3,972,080.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     41.5200       115,860.00      1,874,971.53      4,810,507.20
+
+Instrument Total           446                                                   182,784,773.17  4,962,236,783.50  5,363,512,186.98
+
+Instrument -ICOM      INTERNATIONAL COMMON STOCKS
+
+CHECK POINT SOFTWARE TECH                  0.000 CHKP    2181334       12.9700       100,000.00      1,485,690.00      1,297,000.00
+
+Instrument Total             1                                                       100,000.00      1,485,690.00      1,297,000.00
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         8.006 EOP     294741103     24.9800       276,200.00      8,444,434.72      6,899,475.99
+EQUITY RESIDENTIAL PROP                    7.038 EQR     29476L107Q    24.5800       180,500.00      4,375,970.65      4,436,690.05
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700       122,500.00      4,411,079.88      4,173,575.00
+
+Instrument Total             3                                                       579,200.00     17,231,485.25     15,509,741.04
+
+Portfolio Total            450                                                   183,463,973.17  4,980,953,958.75  5,380,318,928.02
+

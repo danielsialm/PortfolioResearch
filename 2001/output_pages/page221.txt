@@ -1,25 +1,53 @@
-ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 015
+ASOF09   Date 01/24/2002 Time 21:29:55   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
 
 Monthly Market Portfolio
 
-Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - REAL ESTATE
-Portfolio  - REI       RE INTERNATIONAL
-Instrument - I         INTERNATIONAL
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
 
-BLACKSTONE EUROPEAN FUND       WESTERN EUROPE                  0.000         RBKSTN                  5,554,816.00      5,554,816.00
-DOUGHTY HANSON & CO EUROPEAN   MISC., EUROPE                   0.000         RDGHTY                 18,000,295.52     18,000,295.52
-EUROPA-INTERNATIONAL           MISC EUROPE                     0.000         REUROP                 15,658,288.03     12,564,476.04
-LEND LEASE ASIA                ASIA                            0.000         RLNDLA                  9,333,340.00     11,828,578.00
-LEND LEASE GLOBAL              EUROPE                          0.000         RLNDLS                 23,764,000.00     25,440,357.32
-ORION EUROPEAN REAL ESTATE FUN MISC EUROPE                     0.000         RORION                 20,353,908.89     20,030,722.78
-PRUDENTIAL PROP. PRTNRS.-INT’L EUROPE                          0.000         RPRUDE                 21,382,025.00     23,323,744.00
-SOROS RE INVST-INT’L           EUROPE                          0.000         RSOROS                 20,498,940.00     18,277,779.00
+ALLSTATE FINANCIAL GLOBAL FUND AA2   2.003 020012AL4        Q                50,000,000.00       50,000,000.00
+AMERICAN GENERAL FINANCE       A2    7.295 02635PQN6        Q                60,000,000.00       60,000,000.00
+AMERICAN HONDA FINANCE         A2    4.032 02666QKS1        Q                60,000,000.00       60,000,000.00
+BANK OF NEW YORK               AA3   2.218 06406HAQ2        Q                60,000,000.00       60,000,000.00
+BANK ONE NA, ILLINOIS          AA2   1.920 06423EMU6        Q                60,000,000.00       60,000,000.00
+BOEING CAPITAL CORP            A2    3.432 09700WDQ3        Q                60,000,000.00       60,000,000.00
+C.I.T. GROUP                   A1    7.097 12560PBQ3        Q                60,000,000.00       60,000,000.00
+CARCO AUTO LOAN MASTER TRUST   AAA   2.252 141389BM7        M                75,000,000.00       74,967,968.28
+CATERPILLAR FINANCIAL SERVICE  A2    5.316 14912LP96        Q                60,000,000.00       60,000,000.00
+CCCIT 2001-A5 A5               AAA   4.008 17305EAN5        Q                75,000,000.00       75,057,879.03
+CHAMT 2001-3 A                 AAA   4.138 16151RAU7        M                30,000,000.00       30,000,641.49
+COUNTRYWIDE HOME LOAN                5.169 22237LKF8        Q                45,000,000.00       44,998,165.08
+COUNTRYWIDE HOME LOAN          A3    4.214 22237LLB6        Q                15,000,000.00       15,000,000.00
+DOMINION VIRGINIA POWER        A3    2.635 92781FBT4        Q                45,000,000.00       45,000,000.00
+FIRST UNION NATIONAL BANK      AA3   4.012 33737XRN0        Q                30,000,000.00       30,000,000.00
+FIRST USA CREDIT CARD MASTER T AAA   3.749 337435BW0        M                62,500,000.00       62,564,790.44
+FORD CREDIT FLOORPLAN MASTER O AAA   3.888 34528PAA4        M                62,500,000.00       62,539,221.55
+JOHN DEERE CAPITAL CORP        A2    3.371 24422ENQ8        Q                60,000,000.00       60,000,000.00
+JP MORGAN CHASE                AA3   5.215 46623EAF6        Q                60,000,000.00       60,000,000.00
+KEYCORP                        A1    5.386 49326EDA8        Q                60,000,000.00       59,985,938.74
+MERRILL LYNCH                  AA3   7.097 59018S7E8        Q                45,000,000.00       45,000,000.00
+MORGAN STANLEY DEAN WITTER     AA3   6.823 61745EQW4        Q                55,000,000.00       55,000,000.00
+NATIONAL CITY BANK             AA3   5.204 63534XBB5        Q                50,000,000.00       50,000,000.00
+PACCAR FINANCIAL CORP          A1    3.219 69371RVG8        Q                50,000,000.00       50,000,000.00
+SALOMON SMITH BARNEY           AA3   7.097 79548EEH1        Q                60,000,000.00       60,000,000.00
+SARA LEE                       A3    1.901 80311CAA7        Q                55,000,000.00       55,000,000.00
+SBC COMMUNICATIONS             AA3   5.074 78387GAC7        Q                25,000,000.00       25,000,000.00
+TEXTRON FINANCIAL CORP         A2    3.604 88319QD34        Q                60,000,000.00       60,000,000.00
+TOYOTA MOTOR CREDIT CORP       AA1   6.701 89233PMD5        Q                50,000,000.00       50,000,000.00
+VERIZON WIRELESS INC           A2    2.270 92344SAA8        Q                50,000,000.00       50,000,000.00
+WASHINGTON MUTUAL BANK         A2    3.341 93933AAH7        Q                50,000,000.00       50,000,000.00
+WORLDCOM_INC                   A3    7.097 98157DAE6        Q                60,000,000.00       60,000,000.00
 
-Instrument Total             8                                                                     134,545,613.44    135,020,768.66
+Instrument Total              32                                          1,700,000,000.00    1,700,114,604.61
 
-Portfolio Total              8                                                                     134,545,613.44    135,020,768.66
+Instrument -INTF      INTERNATIONAL FUNDS
 
-Group Total                229                              4,470,772,775.72 /    14,490,584.00  4,830,705,536.30  5,905,631,965.77
+EQUITY SWAP - LIQUDITY RESERVE       0.000 IL-EQS                               113,731.03       11,373,103.81
+
+Instrument Total               1                                                113,731.03       11,373,103.81
+
+Portfolio Total               33                                          1,700,113,731.03    1,711,487,708.42      1,644,578,442.14

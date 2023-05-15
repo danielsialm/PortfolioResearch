@@ -1,0 +1,27 @@
+ASOF11   Date 01/21/2003 Time 18:53:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 044
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-SCHR    SCHRODER CAPITAL
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+PEREGRINE LARSON WARRANTS                    0.000     9915778      99157         2,410.00           18,844.76
+
+Instrument Total               1                                                  2,410.00           18,844.76
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+SCHRODER CAPITAL - LQR                       0.000     IL-SCH                         0.01                1.59
+
+Instrument Total               1                                                      0.01                1.59
+
+Portfolio Total                2                                                  2,410.01           18,846.35                  0.00
+
+Group Total                1,084                                          9,948,519,459.58    9,954,861,092.03      8,937,661,525.09
+
+
+Grand Total                7,311                                         44,908,370,434.40   44,892,482,334.12     43,825,065,184.78

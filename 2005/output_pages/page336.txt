@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 029
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+NEXEN INC                                    0.309     2172219      NXY_C        10,100.00          214,613.90
+NEXT PLC                                     4.696     3208986      NXT_L        30,200.00          388,135.24
+NGK INSULATORS Y50                           0.005     6619507      5333_        61,000.00          719,641.98
+NIDEC CORP                                   0.001     6640682      6594_         8,800.00          537,406.43
+NIKKO CORDIAL CORP                           0.018     6640284      8603_        92,000.00          825,936.55
+NIKON CORP Y50                               0.003     6642321      7731_        32,200.00          414,683.79
+NINTENDO CO LTD                              0.008     6639550      7974_        11,100.00        1,123,480.36
+NIPPON MINING HOLDINGS INC                   0.012     6543770      5016_        70,900.00          498,949.11
+NIPPON MITSUBISHI                            0.011     6641403      5001_       170,000.00          986,732.98
+NIPPON SHEET GLASS                           0.009     6641447      5202_       225,000.00          964,537.08
+NIPPON STEEL CORP                            0.014     6642569      5401_       680,700.00        1,267,712.45
+NIPPON TEL+TEL CP                            0.009     6641373      9432_           551.00        2,331,232.72
+NIPPON YUSEN KK Y5                           0.018     6643960      9101_       297,000.00        1,838,911.05
+NISHIMATSU CONSTCN                           0.015     6640983      1820_       162,000.00          692,092.55
+NISSAN MOTOR CO Y5                           0.020     6642860      7201_       251,000.00        2,448,387.86
+NITTO DENKO CORP Y                           0.005     6641801      6988_        19,900.00        1,013,445.91
+NOBLE GROUP LTD                              1.494     B01CLC3      NOBL_       681,000.00          561,540.76
+NOMURA HOLDINGS, INC.                        0.009     6643108      8604_       195,339.00        2,904,128.92
+NORSK HYDRO AS NOK                           0.426     4645805      NHY_N       106,100.00        5,881,922.75
+NORSKE SKOGINDUSTRIER ASA                    0.826     7070396      NSG_N        83,850.00        1,484,557.17
+NORTEL NETWORKS CORP                         0.000     2583877      NT_CN       106,500.00          332,462.71
+NOVARTIS AG CHF 20                           1.154     7103065      NOVN_        77,586.00        3,673,258.87
+NOVO NORDISK A/S-B                           0.214     7077524      NOVOB       114,700.00        6,341,383.07
+NOVOZYMES A/S-B                              0.160     4658535      NZYMB        36,100.00        1,908,484.52
+NTT DOCOMO INC                               0.018     6129277      9437_         1,876.00        3,836,667.13
+NTT URBAN DEVELOPMENT CORP                   0.005     B031SG1      8933_           400.00        2,183,366.99
+OBAYASHI CORP JPY5                           0.007     6656407      1802_       102,000.00          655,818.50
+OEST ELEKTRIZITATS                           1.174     4661607      VER_A         8,169.00        2,666,163.24
+OLAM INTERNATIONAL LTD                       0.430     B05Q3L4      OLAM_       514,000.00          458,145.48
+OMRON CORP Y50                               0.007     6659428      6645_        36,400.00          862,402.80
+OMV AG AUSH100                               1.048     4651459      OMV_A       239,926.00       11,986,482.03
+ORICA LIMITED NPV                            2.906     6458001      ORI_A         3,789.00           58,864.91
+ORIX CORP Y50                                0.001     6661144      8591_         8,900.00        1,197,106.39
+ORKLA ASA NWKR 6.2                           0.502     5459715      ORK_N       142,100.00        3,667,873.43
+OSAKA GAS CO Y50                             0.014     6661768      9532_       575,000.00        1,825,796.72
+OVERSEAS CHINESE BANKING CORP                1.840     B0F9V20      OCBC_     1,583,200.00        6,116,624.86
+PACIFIC BRANDS                               4.135     B00G290      PBG_A        47,647.00          121,235.63
+PEARSON ORD 25P                              6.416     0677608      PSON_        70,263.00        1,073,212.13
+PERNOD-RICARD FF20                           1.717     4682329      RI_FP         6,100.00          849,731.19

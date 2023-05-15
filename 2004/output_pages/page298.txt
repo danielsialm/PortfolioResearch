@@ -1,0 +1,25 @@
+ASOF10   Date 01/21/2005 Time 18:35:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 079
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+ZALE CORP.                                   0.000     988858106   ZLC             89,994        2,364,321.04        2,688,120.78
+ZEBRA TECHNOLOGIES CORP CL-A                 0.000     989207105   ZBRA           188,329        6,722,533.90       10,599,156.12
+ZENITH NATIONAL INSURANCE CP                 2.247     989390109   ZNT             16,500          545,769.41          822,360.00
+ZILA INC                                     0.000     989513205   ZILA            50,400          248,868.73          215,712.00
+ZIMMER HOLDINGS INC                          0.000     98956P102   ZMH            439,700       19,064,309.37       35,228,764.00
+ZIONS BANCORPORATION                         1.881     989701107   ZION            97,500        5,587,849.33        6,632,925.00
+ZIPREALTY INC                                0.000     98974V107   ZIPR             5,000           80,458.88           89,350.00
+ZOLL MEDICAL CORP                            0.000     989922109   ZOLL            16,100          545,168.22          553,840.00
+ZORAN CORP                                   0.000     98975F101   ZRAN            59,186        1,151,766.40          685,373.88
+ZYGO CORP                                    0.000     989855101   ZIGO            19,900          246,261.22          234,621.00
+ZYMOGENETICS INC                             0.000     98985T109   ZGEN            21,610          293,861.39          497,030.00
+
+Instrument Total                  2,891                                       852,161,868   21,101,440,026.91   26,660,329,463.29
+
+Group Total                       3,034                                       864,585,299   21,434,637,370.37   27,076,345,229.62

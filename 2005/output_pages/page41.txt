@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCA       LARGE-CAP CORE ANALY
+Instrument - COM       COMMON STOCK
+
+US BANCORP                                 4.416 USB     902973304     29.8900       791,000.00     21,269,311.65     23,642,990.00
+V F CORP                                   2.096 VFC     918204108Q    55.3400        54,000.00      3,159,514.10      2,988,360.00
+VALERO ENERGY CORP.                        0.387 VLO     91913Y100Q    51.6000       159,788.00      4,084,403.42      8,245,060.80
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     50.3400        22,700.00        877,150.29      1,142,718.00
+VECTREN CORPORATION                        4.491 VVC     92240G101     27.1600        12,600.00        310,627.96        342,216.00
+VERIZON COMMUNICATIONS                     5.378 VZ      92343V104Q    30.1200       528,400.00     21,026,174.24     15,915,408.00
+VODAFONE GROUP PLC-ADR                     3.539 VOD     92857W100     21.4700       231,000.00      6,235,845.00      4,959,570.00
+VULCAN MATERIALS CO                        1.712 VMC     929160109     67.7500        17,800.00        718,520.88      1,205,950.00
+WACHOVIA CORP.                             3.859 WB      929903102Q    52.8600       392,000.00     17,318,554.49     20,721,120.00
+WAL MART STORES INC                        1.282 WMT     931142103Q    46.8000       447,900.00     14,649,096.02     20,961,720.00
+WALGREEN CO.                               0.587 WAG     931422109Q    44.2600       134,500.00      3,009,147.79      5,952,970.00
+WATERS CORPORATION                         0.000 WAT     941848103     37.8000        19,900.00        953,641.53        752,220.00
+WELLPOINT INC.                             0.000 WLP     94973V107     79.7900       111,000.00      5,016,595.97      8,856,690.00
+WELLS FARGO COMPANY                        3.310 WFC     949746101     62.8300       191,500.00      7,329,145.28     12,031,945.00
+WERNER ENTERPRISES INC                     0.812 WERN    950755108     19.7000       224,300.00      4,734,795.18      4,418,710.00
+WEYERHAEUSER CO.                           3.014 WY      962166104Q    66.3400        37,300.00      2,173,955.91      2,474,482.00
+WILLIAMS COS. INC.                         1.294 WMB     969457100Q    23.1700       185,168.00      3,374,189.96      4,290,342.56
+WISCONSIN ENERGY CORP.                     2.252 WEC     976657106Q    39.0600        19,700.00        591,878.96        769,482.00
+WRIGLEY WM JR CO                           1.684 WWY     982526105Q    66.4900        27,800.00      1,439,051.13      1,848,422.00
+WYETH                                      2.170 WYE     983024100Q    46.0700       271,800.00     10,328,408.63     12,521,826.00
+XCEL ENERGY INC                            4.658 XEL     98389B100Q    18.4600        66,100.00      1,256,276.47      1,220,206.00
+XL CAPITAL LTD - CLASS A                   2.968 XL      G98255105     67.3800       127,000.00      9,079,020.81      8,557,260.00
+XM SATELLITE RADIO HOLD-CL A               0.000 XMSR    983759101     27.2800       145,600.00      4,972,088.95      3,971,968.00
+YAHOO INC                                  0.000 YHOO    984332106     39.1800         3,100.00         87,729.16        121,458.00
+
+Instrument Total           297                                                    52,969,150.50  1,631,635,854.23  2,020,853,796.56
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+APARTMENT INVT & MGMT                      6.337 AIV     03748R101     37.8700        10,400.00        370,086.59        393,848.00
+ARCHSTONE COMMUNITIES                      4.153 ASN     039583109Q    41.8900        14,400.00        405,174.54        603,216.00
+DEVELOPERS DIVERSIFIED RE                  4.593 DDR     251591103Q    47.0200        16,900.00        633,328.10        794,638.00
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300        45,900.00      1,263,172.39      1,392,147.00
+GENERAL GROWTH PROP                        3.490 GGP     370021107Q    46.9900        18,400.00        482,612.85        864,616.00
+HEALTH CARE PPTY INV                       6.572 HCP     421915109     25.5600        21,700.00        564,577.35        554,652.00
+HEALTH CARE REIT INC                       7.315 HCN     42217K106     33.9000         8,500.00        291,878.13        288,150.00
+HOSPITALITY PROPERTIES                     7.281 HPT     44106M102     40.1000        11,200.00        417,303.23        449,120.00
+HOST MARRIOTT CORP                         2.533 HMT     44107P104     18.9500        57,900.00        692,478.95      1,097,205.00
+HRPT PROPERTIES TRUST                      8.115 HRP     40426W101     10.3500        29,500.00        304,993.04        305,325.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 045
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+TRIMERIS INC                                 0.000     896263100   TRMS            81,200        3,509,591.07        3,498,908.00
+TRINITY INDUSTRIES                           1.265     896522109   TRN            186,800        4,491,618.43        3,541,728.00
+TRIQUENT SEMICONDUCTOR                       0.000     89674K103   TQNT           369,534        5,114,445.87        1,566,824.16
+TRIUMPH GROUP INC                            0.000     896818101   TGI             41,500        1,758,340.42        1,325,510.00
+TRIZETTO GROUP INC                           0.000     896882107   TZIX            17,400          185,745.92          106,836.00
+TRUSTCO BANK CORP. NY                        5.565     898349105   TRST            82,145          794,974.85          885,523.10
+TUESDAY MORNING CORP                         0.000     899035505   TUES             7,930          194,178.30          135,603.00
+TUPPERWARE CORPORATION                       5.835     899896104   TUP             26,373          703,843.04          397,704.84
+TWEETER HOME ENTERTAINMENT GROUP             0.000     901167106   TWTR            34,900          276,757.92          204,514.00
+TXU CORPORATION                              2.676     873168108 Q TXU            727,043       22,141,575.03       13,581,163.23
+TYCO INT'L. LTD NEW                          0.292     902124106 Q TYC          4,914,605      147,691,202.96       83,941,453.40
+TYSON FOODS INC. CL-A                        1.426     902494103   TSN          1,126,967       15,402,141.97       12,644,569.74
+U.S. INDUSTRIES INC.                         0.000     912080108   USI            286,000        1,010,251.94          752,180.00
+UCBH HOLDINGS INC                            0.471     90262T308   UCBH            35,300        1,090,309.92        1,498,484.99
+UGI CORP                                     4.412     902681105   UGI             30,700          669,306.36        1,147,873.00
+UICI                                         0.000     902737105   UCI             53,100          954,554.59          825,705.00
+UIL HOLDINGS CORPORATION                     8.259     902748102   UIL             28,000        1,041,316.56          976,360.00
+ULTIMATE ELECTRONICS INC                     0.000     903849107   ULTE            35,500          634,312.52          360,325.00
+ULTRA PETROLEUM CORP                         0.000     903914109   UPL             17,300          145,662.99          171,270.00
+ULTRATECH STEPPER INC                        0.000     904034105   UTEK            76,684        1,005,923.99          754,493.88
+UNIFI INC                                    0.000     904677101   UFI             40,900          571,657.77          214,725.00
+UNION PACIFIC CORP.                          1.536     907818108 Q UNP            533,136       26,405,428.00       31,918,852.32
+UNION PLANTERS CORP.                         4.726     908068109   UPC            432,571       12,985,690.67       12,172,547.94
+UNIONBANCAL CORPORATION                      2.852     908906100   UB              32,400        1,379,254.20        1,272,348.00
+UNISOURCE ENERGY CORP                        2.891     909205106   UNS             35,200          552,852.62          608,608.00
+UNISYS CORP.                                 0.000     909214108   UIS            674,972       12,686,316.91        6,682,222.80
+UNIT CORP                                    0.000     909218109   UNT             92,700        1,505,372.72        1,719,585.00
+UNITED AUTO GROUP INC                        0.000     909440109   UAG              5,600          136,865.97           69,832.00
+UNITED BANKSHARES INC.                       3.441     909907107   UBSI            46,700        1,257,598.40        1,357,148.70
+UNITED DEFENSE INDUSTRIES INC                0.000     91018B104   UDI             10,200          230,826.00          237,660.00
+UNITED NATURAL FOODS INC.                    0.000     911163103   UNFI            21,000          355,676.76          532,350.00
+UNITED PARCEL SERVICES INC                   1.204     911312106   UPS          2,140,691      142,465,998.74      135,034,788.28
+UNITED RENTALS INCORPORATED                  0.000     911363109   URI            264,000        4,518,249.18        2,840,640.00
+UNITED STATES STEEL CORP.                    1.524     912909108 Q X              224,812        4,472,944.34        2,949,533.44
+UNITED STATIONERS INC                        0.000     913004107   USTR            36,000        1,005,165.00        1,036,836.00
+UNITED TECHNOLOGIES                          1.582     913017109 Q UTX            844,026       40,158,767.90       52,278,970.44
+UNITEDHEALTH GROUP INC                       0.035     91324P102 A UNH            774,736       37,238,115.86       64,690,455.99
+UNITRIN INC.                                 5.681     913275103   UTR            139,000        4,601,108.95        4,061,580.00
+UNIVERSAL COMPRESSION HLDGS                  0.000     913431102   UCO             15,300          477,468.76          292,689.00
+UNIVERSAL CORP-VA                            3.896     913456109 Q UVV             68,200        1,855,751.26        2,520,672.00

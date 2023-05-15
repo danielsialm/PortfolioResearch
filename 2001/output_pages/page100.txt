@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 071
+ASOF02   Date 01/24/2002 Time 21:29:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 073
 
 Monthly Market Portfolio
 
@@ -6,45 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Portfolio  - SP4       S&P 400 PASSIVE
+Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-TECUMSEH PRODUCTS CO CL-A                  2.528 TECUA   878895200     50.6300         2,700.00        140,046.95        136,701.00
-TELEFLEX INC                               1.437 TFX     879369106Q    47.3100         5,800.00        209,534.12        274,398.00
-TELEPHONE & DATA                           0.601 TDS     879433100     89.7500         8,700.00        368,830.91        780,825.00
-THE MONY GROUP INC.                        1.301 MNY     615337102     34.5700         7,000.00        264,912.87        241,990.00
-TIDEWATER INC                              1.769 TDW     886423102Q    33.9000         9,000.00        443,188.45        305,099.99
-TIMBERLAND CO CL-A                         0.000 TBL     887100105     37.0800         5,700.00        101,476.24        211,356.00
-TITAN CORP                                 0.000 TTN     888266103     24.9500        10,300.00        358,469.37        256,985.00
-TOOTSIE ROLL INDUSTRIES, INC.              0.716 TR      890516107Q    39.0800         7,478.00        346,800.00        292,240.23
-TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     12.2600         5,400.00        194,558.92         66,204.00
-TRANSWITCH CORP                            0.000 TXCC    894065101      4.5000        13,500.00        589,199.02         60,750.00
-TRIAD HOSPITALS INC                        0.000 TRI     89579K109     29.3500        10,653.00        392,056.38        312,665.55
-TRIGON HEALTHCARE CORP.                    0.000 TGH     89618L100     69.4500         5,300.00        195,208.97        368,085.00
-TRINITY INDUSTRIES                         2.650 TRN     896522109     27.1700         6,500.00        242,457.27        176,605.00
-TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103     12.2600        19,234.00        870,513.73        235,808.84
-TYSON FOODS INC. CL-A                      1.385 TSN     902494103     11.5500        51,667.00        655,102.21        596,753.85
-UCAR INTERNATIONAL INC                     0.000 UCR     90262K109     10.7000         8,300.00        281,052.35         88,810.00
-UNIFI INC                                  0.000 UFI     904677101      7.2500         8,000.00        286,157.84         58,000.00
-UNITED RENTALS INCORPORATED                0.000 URI     911363109     22.7000        10,800.00        252,908.45        245,160.00
-UNITRIN INC.                               4.048 UTR     913275103     39.5200        10,000.00        301,429.53        395,200.00
-UNIVERSAL CORP-VA                          3.515 UVV     913456109Q    36.4100         4,000.00        148,668.26        145,640.00
-UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     42.7800         8,900.00        199,949.81        380,742.00
-UTILICORP UNITED INC                       4.767 UCU     918005109     25.1700        17,150.00        405,179.95        431,665.50
-VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     35.6200         7,900.00        164,738.38        281,398.00
-VALERO ENERGY CORP.                        1.049 VLO     91913Y100Q    38.1200        19,191.16        533,835.30        731,567.01
-VALSPAR CORP                               1.363 VAL     920355104     39.6000         7,300.00        251,152.12        289,080.00
-VARCO INTERNATIONAL INC.                   0.000 VRC     922122106     14.9800        14,158.00        333,172.64        212,086.84
-VECTREN CORPORATION                        4.420 VVC     92240G101     23.9800        10,066.00        205,387.85        241,382.68
-VERTEX PHARMAREUTICALS INC                 0.000 VRTX    92532F100     24.5900        11,100.00        318,814.01        272,949.00
-VIAD CORP                                  1.520 VVI     92552R109     23.6800        13,100.00        259,600.43        310,208.00
-VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     19.5000        23,584.00        345,767.42        459,888.01
-VISX INC                                   0.000 EYE     92844S105     13.2500         8,100.00         77,031.02        107,325.00
-WADDELL & REED FINANCIAL-CL A              1.087 WDR     930059100     32.2000        11,800.00        356,273.84        379,960.00
-WALLACE COMPUTER SVCS INC                  3.475 WCS     932270101     18.9900         6,100.00        196,320.02        115,839.00
-WASHINGTON POST CL. B                      1.056 WPO     939640108Q   530.0000         1,429.00        755,455.22        757,370.00
-WAUSAU-MOSINEE PAPER CORP.                 2.809 WMO     943315101     12.1000         7,600.00        120,761.43         91,960.00
-WEATHERFORD INTERNATIONAL, INC             0.000 WFT     947074100     37.2600        17,015.00        486,082.33        633,978.90
-WEBSTER FINANCIAL CORPORATION              2.156 WBST    947890109     31.5300         7,300.00        190,009.33        230,169.00
-WESTAMERICA BANCORPORATION                 2.122 WABC    957090103     39.5700         5,100.00        186,672.99        201,807.00
-WESTERN GAS RESOURCES INC                  0.618 WGR     958259103     32.3200         4,800.00        177,400.53        155,136.00
+4KIDS ENTERTAINMENT INC.                   0.000 KDE     350865101     20.0300        11,900.00        224,946.88        238,357.00
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     38.1000        52,099.00        980,056.97      1,984,971.90
+A.T. CROSS CO.                             0.000 ATX     227478104Q     5.9000        58,700.00        390,884.45        346,330.00
+AAR CORPORATION                            1.109 AIR     000361105Q     9.0100        26,600.00        604,480.78        239,666.00
+AARON RENTS INC                            0.245 RNT     002535201     16.3000        19,400.00        272,104.75        316,220.00
+ABM INDUSTRIES INC.                        2.105 ABM     000957100     31.3500        23,300.00        567,048.50        730,455.00
+ACCREDO HEALTH INC                         0.000 ACDO    00437V104     39.7000        26,500.00        795,190.80      1,052,050.00
+ACTEL CORPORATION                          0.000 ACTL    004934105     19.9100        22,100.00        694,936.48        440,011.00
+ACTION PERFORMANCE CO                      0.000 ACTN    004933107     30.6100        17,500.00        149,063.25        535,675.00
+ACUITY BRANDS INC                          0.000 AYI     00508Y102     12.1000        40,700.00        554,741.00        492,470.00
+ADAPTEC INC                                0.000 ADPT    00651F108     14.5000       103,231.00      2,588,330.41      1,496,849.50
+ADMINISTAFF INC                            0.000 ASF     007094105     27.4100        26,800.00        781,014.05        734,588.00
+ADVANCE PCS                                0.000 ADVP    00790K109     29.3500        91,900.00      1,812,493.14      2,697,265.00
+ADVANCED ENERGY INDUSTRIES                 0.000 AEIS    007973100     26.6400        30,900.00        787,950.00        823,176.00
+ADVANCED MARKETING SERVICES                0.219 MKT     00753T105     18.2500        18,800.00        341,071.80        343,100.00
+ADVANCED TISSUE SCIENCES INC.              0.000 ATIS    00755F103      4.3600        63,600.00        329,124.27        277,296.00
+ADVO INC.                                  0.000 AD      007585102     43.0000        20,100.00        405,234.93        864,300.00
+AEROFLEX INC                               0.000 ARXX    007768104     18.9300        55,400.00      1,037,860.61      1,048,722.00
+ALLEN TELECOM INC.                         0.000 ALN     018091108      8.5000        30,500.00        565,763.21        259,250.00
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100     12.0800        35,400.00        865,929.63        427,632.00
+ALLIANT TECHSYSTEMS INC.                   0.000 ATK     018804104     77.2000        24,150.00        755,530.40      1,864,380.00
+ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000        44,100.00      1,379,408.01        961,380.00
+ALPHARMA, INC.-CL A                        0.680 ALO     020813101Q    26.4500        43,500.00      1,192,968.59      1,150,575.00
+AMERICAN FINANCIAL HLDGS INC.              2.597 AMFH    026075101     25.4100        38,700.00        912,538.84        983,367.00
+AMERICAN ITALIAN PASTA COMPANY             0.000 PLB     027070101     42.0300        18,200.00        416,500.03        764,946.00
+AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     18.0800        45,500.00      1,186,360.64        822,640.00
+ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100        12,400.00        596,294.25        477,524.00
+ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300        67,100.00        385,087.62        277,123.00
+ANCHOR BANCORP WISCONSIN INC.              1.860 ABCW    032839102     17.7400        44,100.00        710,003.18        782,334.00
+ANGELICA CORP                              2.952 AGL     034663104     10.8400        14,800.00        175,053.35        160,432.00
+ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100        38,600.00        704,288.25      1,119,786.00
+ANNTAYLOR STORES CORP                      0.000 ANN     036115103     35.0000        27,800.00        626,053.97        973,000.00
+APOGEE ENTERPRISES INC.                    1.390 APOG    037598109     15.8200        26,700.00        457,066.96        422,394.00
+APPLEBEES INT’L. INC.                      0.204 APPB    037899101     34.2000        39,900.00        755,571.39      1,364,580.00
+APPLICA                                    0.000 APN     03815A106      9.0100        21,400.00        152,376.27        192,814.00
+APPLIED INDUSTRIAL TECH INC.               2.573 AIT     03820C105     18.6500        38,700.00        688,059.85        721,755.00
+APTAR GROUP INC.                           0.685 ATR     038336103Q    35.0300        35,900.00        918,097.44      1,257,577.00
+ARBITRON INC                               0.000 ARB     03875Q108     34.1500        28,601.00        767,266.56        976,724.15
+ARCH CHEMICALS INC.                        3.448 ARJ     03937R102     23.2000        21,900.00        431,766.05        508,080.00

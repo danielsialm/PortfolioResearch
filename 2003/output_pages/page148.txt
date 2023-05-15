@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 118
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+BORDERS GROUP INC                          1.459 BGP     099709107     21.9200        25,415.00        551,466.53        557,096.80
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     36.7600         6,969.00        221,851.39        256,180.44
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     33.1600        25,792.00        824,261.44        855,262.72
+BUNGE LIMITED                              1.306 BG      G16962105     32.9200         9,346.00        287,716.21        307,670.32
+BURLINGTON NORTHERN SANTA FE               1.854 BNI     12189T104Q    32.3500        74,619.00      2,128,833.77      2,413,924.65
+CAESARS ENTERTAINMENT INC                  0.000 CZR     127687101     10.8300        73,620.00        647,524.91        797,304.60
+CENDANT CORP.                              0.000 CD      151313103     22.2700        65,837.00      1,412,213.67      1,466,189.99
+CENTEX CORP                                0.148 CTX     152312104Q   107.6500        21,047.00      1,739,961.54      2,265,709.53
+CHEVRONTEXACO CORP                         3.380 CVX     166764100Q    86.3900         2,478.00        187,507.20        214,074.42
+CIGNA CORP.                                2.295 CI      125509109Q    57.5000        20,417.00      1,457,816.94      1,173,977.51
+CISCO SYSTEMS                              0.000 CSCO    17275R102     24.2900       142,768.00      3,301,718.34      3,467,834.73
+CITIGROUP INC.                             2.884 C       172967101Q    48.5400       417,432.00     16,804,399.78     20,262,149.28
+CLAIRE'S STORES INC                        1.273 CLE     179584107     18.8400        44,322.00        681,516.90        835,026.49
+COCA-COLA ENTERPRISE                       0.731 CCE     191219104     21.8700        16,147.00        324,276.69        353,134.89
+COLUMBIA SPORTSWEAR CO                     0.000 COLM    198516106     54.5000         1,067.00         50,547.65         58,151.52
+COMPUTER ASSOCIATE INTL. INC.              0.292 CA      204912109S    27.3400        42,327.00      1,322,389.75      1,157,220.18
+COMPUWARE CORP                             0.000 CPWR    205638109      6.0400       132,070.00        775,875.87        797,702.80
+COMVERSE TECHNOLOGY INC.                   0.000 CMVT    205862402     17.5900        83,307.00      1,302,682.25      1,465,370.13
+CONOCOPHILLIPS                             2.623 COP     20825C104Q    65.5700        14,943.00        797,110.84        979,812.52
+CONSTELLATION ENERGY GROUP INC             2.655 CEG     210371100Q    39.1600        17,765.00        593,975.44        695,677.41
+CONVERGYS CORPORATION                      0.000 CVG     212485106     17.4600       119,792.00      2,015,751.73      2,091,568.32
+COORS (ADOLPH) CL-B                        1.461 RKY     217016104Q    56.1000         1,691.00         95,221.71         94,865.10
+COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     64.4900        27,952.00      1,583,045.82      1,802,624.48
+COX COMMUNICATIONS                         0.000 COX     224044107     34.4500        88,917.00      2,767,616.70      3,063,190.67
+CVS CORP.                                  0.733 CVS     126650100Q    36.1200        96,566.00      2,748,917.72      3,487,963.93
+DARDEN RESTAURANTS INC                     0.380 DRI     237194105     21.0400       116,598.00      2,625,838.34      2,453,221.92
+DAVITA INC.                                0.000 DVA     23918K108     39.0000        45,005.00      1,129,161.42      1,755,195.00
+DEERE & CO.                                1.352 DE      244199105Q    65.0500         3,865.00        256,310.91        251,418.25
+DELPHI AUTOMOTIVE SYSTEMS CORP             2.742 DPH     247126105     10.2100        17,285.00        155,838.99        176,479.87
+DIAL CORP/AZ                               1.264 DL      25247D101Q    28.4700         5,396.00        108,703.10        153,624.13
+DIEBOLD INC                                1.262 DBD     253651103     53.8700        45,091.00      2,325,998.89      2,429,052.17
+DOLLAR GENERAL                             0.667 DG      256669102     20.9900       158,319.00      2,703,076.45      3,323,115.79
+DORAL FINANCIAL CORP.                      1.155 DRL     25811P100     32.2800        65,796.00      2,123,228.54      2,123,894.88
+E*TRADE GROUP INC.                         0.000 ET      269246104     12.6500        23,346.00        219,267.86        295,326.91
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     47.7800        88,266.00      3,449,839.32      4,217,349.49
+EMC CORP                                   0.000 EMC     268648102     12.9200       605,044.00      6,469,069.64      7,817,168.48
+ENDO PHARMACEUTICALS                       0.000 ENDP    29264F205     19.2600        40,065.00        702,266.95        771,651.91
+ENTERGY CORP.                              3.150 ETR     29364G103Q    57.1300        82,470.00      3,873,693.91      4,711,511.10
+EVEREST RE GROUP LTD.                      0.425 RE      G3223R108     84.6000        18,824.00      1,221,343.37      1,592,510.42

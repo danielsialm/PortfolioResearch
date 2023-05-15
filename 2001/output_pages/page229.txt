@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 008
+ASOF11   Date 01/24/2002 Time 21:29:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 010
 
 Monthly Market Portfolio
 
@@ -6,45 +6,13 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - INTERNATIONAL
-Portfolio  - I-ACT     INTERNAL EMERGING
-Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+Portfolio  - I-ARROW   ARROWSTREET CAPITAL
+Instrument - INTF      INTERNATIONAL FUNDS
 
-SAMSUNG ELEC MECH                            0.000     6771689      0915_        50,000.00        1,930,935.84
-SAMSUNG ELECTRONIC                           0.000     6771720      0593_        10,902.00        2,015,317.04
-SAMSUNG HEAVY INDUSTRIES                     0.000     6772217      1014_       999,996.00        2,924,379.68
-SAN MIGUEL CORP                              0.037     6775777      SMCB_       103,436.30          154,835.71
-SCITEX CORP LTD-ORD                          0.000     2779353      SCIX          9,200.00           90,972.82
-SEMEN CIBINONG IDR                           0.001     6016614      SMCB_       383,000.00           34,184.59
-SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       160,479.00          132,743.96
-SHOPRITE HOLDING LTD                         0.000     6801575      SHP_S     2,200,000.00        1,731,510.06
-SIAM CEMENT CO THB                           0.000     6806796      SCC/F       467,600.00        4,468,108.45
-SIAM COMMERCIAL BK                           0.000     6889935      SCB/F     7,600,000.00        3,422,916.69
-SIDERCA SA CLASS’A                           2.173     2252304      ERCA_        50,249.00          124,230.68
-SK CORPORATION ORD                           0.000     6988371      0360_        26,377.00          656,228.42
-SK TELECOM CO LTD                            0.000     6224871      1767_           500.00           17,455.57
-SK TELECOM CO LTD-ADR                        0.138     2495648      SKM         124,354.00        1,348,734.52
-SM PRIME HLDGS ORD                           0.000     6818843      SMPH_     6,377,600.00          803,499.14
-SOUTH AFRICAN BREWERIES                      0.000     6145240      SAB_S       700,000.00        5,249,682.10
-SUEZ CEMENT                                  0.000     6868622      SZCT_        63,627.00          703,214.55
-SUPER-SOL ORD ILS                            0.621     6860543      SAE_I        46,860.00          133,891.99
-SURGUTNEFTEGAZ ADR                           0.319     2810144      SGGD_       200,000.00        2,644,200.00
-T IS BANKASI SER’C                           0.000     4869939      ISCTR   183,040,000.00          509,860.81
-TAIWAN SEMICONDUCTOR MANUFACTURING           0.000     6889106      27933     2,019,168.00        4,259,916.63
-TATA ENGINEERING & LOCOMOT                   0.000     6101509      TELCO       800,000.00        1,183,906.99
-TATA IRON AND STEEL                          0.000     6101156      TISCO     1,000,000.00        2,788,654.40
-TELE CELULAR SUL PART-PREF                 205.678     2292582      TCSL4 1,046,000,000.00        1,064,471.83
-TELE NORTE LESTE P                         155.575     2292731      TNLP4   125,334,516.98        1,904,218.30
-TELE NORTE LESTE PART ADR                    1.855     2297930      TNE         450,000.00        6,485,640.00
-TELE SUDESTE CELUL                         184.769     2292753      TSEP4    49,467,299.00          171,343.55
-TELECENTRO OESTE CELULAR                     2.285     2298018      TRO         875,100.00        6,101,511.57
-TELECOM ARGENTINA SA-SP ADR                 16.564     2878829      TEO         350,000.00        3,788,710.34
-TELEFONOS DE MEXIC                           0.344     2881689      TELME       933,000.00          890,643.83
-TELEKOMUNIKAYA POL                           0.000     5552551      TPS_P       400,000.00        2,149,090.21
-TENAGA NASIONAL BERHAD                       0.196     6904612      TNB_M       700,000.00        2,194,755.09
-THAI ENGINE MANFACTURING                     0.000     6885762      43247         4,686.99        1,883,816.13
-THAI FARMERS BANK                            0.000     6888794      TFB/F     6,000,000.00        2,964,105.77
-TIGER BRANDS LIMITED                         0.000     6891297      TBS_S       758,394.00        6,783,744.37
-TRANSPORTADORA DE                            9.230     2886651      TGSU2     1,000,000.00        1,866,976.50
-TUBOS DE ACERO DE MEX  ADR                   0.000     2906601      TAM         400,000.00        4,588,196.22
-TUPRAS-TURKIYE PETROL RAFINE                 0.000     4907572      TUPRS    99,160,000.00        1,043,167.17
-TV AZTECA S.A.                               0.441     2089074      TZA         900,000.00        5,387,937.76
+ARROWSTREET CAPITAL - EQUITIES               0.000     IE-ARROW               8,312,647.05      831,264,705.05
+ARROWSTREET CAPITAL - FIXED INCOME           0.000     IF-ARROW                 132,377.67       13,237,767.08
+ARROWSTREET CAPITAL - LQR                    0.000     IL-ARROW                  55,207.00        5,520,700.16
+
+Instrument Total               3                                              8,500,231.72      850,023,172.29
+
+Portfolio Total                3                                              8,500,231.72      850,023,172.29        794,086,949.59

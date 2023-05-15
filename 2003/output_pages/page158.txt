@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 128
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 1000
+Instrument - COM       COMMON STOCK
+
+OFFICE DEPOT INC                           0.000 ODP     676220106     16.7100        39,700.00        531,507.47        663,387.00
+PANAMSAT CORP                              0.000 SPOT    697933109     21.5600        35,700.00        752,298.66        769,692.00
+PEPSICO INC.                               1.372 PEP     713448108Q    46.6200        28,400.00      1,073,498.98      1,324,008.00
+PFIZER INC.                                1.924 PFE     717081103Q    35.3300       491,920.00     11,210,168.60     17,379,533.60
+PHARMACEUTICAL RESOURCES INC               0.000 PRX     717125108     65.1500         8,600.00        631,356.96        560,290.00
+PRECISION CASTPARTS CORP                   0.264 PCP     740189105     45.4100        21,000.00        670,046.37        953,610.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-GOL  IT-GOL         1.0000     1,479,024.07      1,479,024.08      1,479,024.09
+PRINCIPAL FINANCIAL GROUP                  1.360 PFG     74251V102     33.0700       133,000.00      3,981,687.25      4,398,310.00
+PROCTER & GAMBLE CO                        1.822 PG      742718109Q    99.8800        93,400.00      6,099,667.32      9,328,792.00
+PRUDENTIAL FINANCIAL INC                   1.197 PRU     744320102     41.7700       128,000.00      4,360,527.92      5,346,559.99
+QUALCOMM INC                               0.519 QCOM    747525103     53.9300        83,200.00      3,082,704.19      4,486,975.99
+R.J. REYNOLDS TOBACCO HOLDINGS             6.534 RJR     76182K105     58.1500        72,200.00      3,306,890.87      4,198,430.00
+RADIAN GROUP INC.                          0.164 RDN     750236101     48.7500        40,500.00      1,975,123.91      1,974,375.00
+RADIOSHACK CORP                            0.814 RSH     750438103Q    30.6800        50,000.00      1,444,955.00      1,534,000.00
+REPUBLIC SERVICES INC                      0.936 RSG     760759100     25.6300        72,400.00      1,464,136.82      1,855,612.00
+ROCKWELL AUTOMATION INC                    1.853 ROK     773903109Q    35.6000        43,600.00        866,253.42      1,552,160.00
+ROYAL CARIBBEAN CRUISES LTD                1.494 RCL     V7780T103     34.7900        33,600.00      1,055,268.48      1,168,944.00
+SANDISK CORP                               0.000 SNDK    80004C101     61.1400        28,100.00        613,251.25      1,718,034.00
+SANMINA-SCI CORP                           0.000 SANM    800907107     12.6100       107,200.00      1,139,698.29      1,351,792.00
+SBC COMMUNICATIONS INC.                    4.794 SBC     78387G103Q    26.0700       259,600.00      9,717,258.93      6,767,772.00
+SCIENTIFIC ATLANTA INC.                    0.146 SFA     808655104Q    27.3000        87,200.00      2,726,956.81      2,380,560.00
+SEALED AIR CORP.                           0.000 SEE     81211K100     54.1400        19,200.00        959,477.76      1,039,488.00
+SHERWIN-WILLIAMS CO                        1.784 SHW     824348106Q    34.7400        23,400.00        587,340.00        812,916.00
+SILICON LABORATORIES                       0.000 SLAB    826919102     43.2200        14,400.00        628,927.20        622,368.00
+SLM CORP                                   1.804 SLM     78442P106     37.6800        38,400.00      1,409,616.90      1,446,912.00
+SPRINT CORP.                               3.045 FON     852061100Q    16.4200       299,100.00      5,082,626.76      4,911,222.00
+STAPLES INC                                0.000 SPLS    855030102     27.3000       167,400.00      3,033,917.23      4,570,020.01
+STARBUCKS CORP.                            0.000 SBUX    855244109     33.0600        55,200.00      1,236,468.96      1,824,912.00
+STORAGE TECHNOLOGY CORP                    0.000 STK     862111200     25.7500        35,500.00        847,588.55        914,125.00
+STRYKER CORP.                              0.164 SYK     863667101     85.0100         9,600.00        411,137.22        816,096.00
+SUNOCO, INC.                               2.150 SUN     86764P109Q    51.1500        80,600.00      3,081,312.55      4,122,690.00
+SUNTRUST BANKS INC.                        2.517 STI     867914103Q    71.5000        37,300.00      2,343,826.87      2,666,950.00
+SUPER VALU STORES INC.                     2.028 SVU     868536103Q    28.5900        52,600.00      1,092,840.97      1,503,834.00
+SYSCO CORP.                                1.396 SYY     871829107Q    37.2300       144,900.00      3,641,670.83      5,394,627.00
+TELEPHONE & DATA                           0.991 TDS     879433100     62.5500        18,900.00      1,119,809.40      1,182,195.00
+TEXAS INSTRS INC                           0.289 TXN     882508104Q    29.3800       194,500.00      5,001,349.40      5,714,410.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     25.2000        28,700.00        494,980.57        723,240.00
+TIME WARNER INC.                           3.001 TWX     887317105     17.9900        74,000.00      2,033,775.18      1,331,260.00
+TRANSOCEAN SEDCO FOREX INC.                0.499 RIG     G90078109     24.0100       158,600.00      3,577,697.85      3,807,986.00

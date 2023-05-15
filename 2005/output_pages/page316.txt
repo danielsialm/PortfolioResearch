@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CJ CORP-2ND PFD                              0.001     6149424      00104           742.00           19,994.34
+CJ CORP-PFD                                  0.002     6186153      00104         4,379.00           89,974.52
+CNOOC LTD                                    0.442     B00G0S5      883_H     4,000,000.00        1,632,356.94
+COFCO INTERNATIONAL LTD.                     0.302     6105738      506_H     3,162,000.00        1,285,202.08
+COMMERCIAL INTERNATIONAL BANK                0.520     6243898      CMIB_       386,000.00        1,943,918.81
+COMPAL ELECTRONICS                           0.108     6225744      2324_     3,882,999.40        2,454,488.60
+CRESUD S.A.C.I.F.y A.                        0.601     2233387      CRES_       100,000.00          125,092.09
+CROWN CONFECTIONERY CO LTD                   0.000     6237794      00574         1,409.00           82,976.50
+DAE DUCK ELECTRNC                            0.003     6149383      00806         5,318.00           23,993.21
+DAEWOO SHIPBUILDING & MARINE                 0.001     6211732      04266       100,000.00          782,000.00
+DAISHIN SECURITIES CO LTD-PF                 0.003     6248503      00354         9,806.00           42,987.83
+DATANG INTERNATIONAL POWER                   0.469     6080716      991_H     2,400,000.00          797,924.63
+DELTA ELECTRONICS INC                        0.104     6260734      2308_     1,859,316.00        1,824,517.77
+DHANA SIAM FINANCE                           0.000     6268716      DS/F_        98,200.00                0.00
+DONGKUK STEEL MILL                           0.004     6276117      00123        14,003.00          120,086.78
+DR REDDY'S LABORATORIES                      0.011     6410959      DRRD_        12,000.00          276,114.82
+ECI TELECOM ORD IL                           2.670     2310150      ECIL        140,000.00        1,377,285.08
+EDGARS CONSOLIDATED STORES                   0.660     B0BP746      ECO_S        30,000.00          122,622.81
+EMBOTELLADORAS ARCA SA                       0.608     2823885      ARCA*       576,000.00        1,191,110.50
+EMP ICA SOC CONTRO                           0.000     B0MT4R9      ICA*_        31,900.06           81,377.55
+FINANCE ONE THB10(                           0.000     6336925      FIN1/        13,800.00                0.00
+FISKARAGUNG PERK I                           0.000     6342535      FISK_       301,500.00                0.00
+FORD OTOMOTIV SAN                           11.609     B03MSR5      FROTO        96,000.00          167,563.34
+FORMOSA PLASTICS CORP                        0.199     6348544      73829     1,395,045.00        1,775,082.27
+GIGABYTE TECHNOLOGY CO.                      0.185     6129181      2376_     1,063,125.00        1,768,623.94
+GOLD FIELDS LIMITE                           0.098     6280215      GFI_S       240,000.00        2,796,133.53
+GPO IND BIMBO SER'                           0.223     2392471      BIMBO       495,000.00        1,215,600.72
+GRUPO MEXICO SA                              0.538     2643674      GMEXI       300,000.00          360,174.42
+GUJARAT AMBUJA CEMENT GDR                    1.582     4393074      GJAD_       525,000.00          102,350.20
+HAINAN MEILAN INTL AIRPORT                   0.524     6560508      357_H     1,700,000.00          875,930.90
+HANKOOK TIRE MANFT                           0.001     6107422      00024        40,002.00          230,404.46
+HANKUK ELECTRIC GLASS                        0.005     6409162      00972         2,098.00           38,988.96
+HARMONY GOLD MINING CO                       0.055     6410562      HAR_S       180,000.00        1,595,295.35
+HINDALCO INDUSTRIES LIMITED                  0.031     B0GWF48      HNDL_       200,000.00          326,343.14
+HINDUSTAN LEVER                              0.056     6261674      HLVR_       464,000.00        1,319,080.24
+HONG LEONG BANK                              1.245     6436892      HLBK_       700,000.00        1,011,308.72
+HYUNDAI MARINE AND FIRE INS. CO              0.001     B01LXY6      00145       320,000.00          696,235.00
+HYUNDAI MOTOR CO K                           0.001     6451055      00538        88,000.00        1,956,384.03
+HYUNDAI MOTOR CO LTD-PFD                     0.001     6451022      00538        22,250.00          490,861.00

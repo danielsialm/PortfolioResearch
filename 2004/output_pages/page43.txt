@@ -1,0 +1,17 @@
+ASOF02   Date 01/21/2005 Time 18:34:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LC1       LARGE-CAP CORE (F)
+Instrument - COM       COMMON STOCK
+
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     80.1200        32,000.00      1,331,020.56      2,563,840.00
+
+Instrument Total           195                                                    34,543,648.00    901,160,705.29  1,160,321,941.52
+
+Portfolio Total            195                                                    34,543,648.00    901,160,705.29  1,160,321,941.52
+

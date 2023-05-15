@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 084
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+WILSONS THE LEATHER                        0.000 WLSN    972463103      3.6300        19,900.00        123,161.37         72,237.00
+WIND RIVER SYSTEMS                         0.000 WIND    973149107     14.7700        69,800.00        566,612.10      1,030,946.00
+WINNEBAGO INDUSTRIES                       1.081 WGO     974637100     33.2800        35,200.00        847,951.02      1,171,456.00
+WINTRUST FINANCIAL CORP                    0.437 WTFC    97650W108     54.9000        16,000.00        628,624.60        878,400.00
+WITNESS SYS INC                            0.000 WITS    977424100     19.6700        25,500.00        520,264.08        501,585.00
+WMS INDUSTRIES INC                         0.000 WMS     929297109     25.0900         6,300.00        137,056.71        158,067.00
+WOLVERINE WORLD WIDE                       1.157 WWW     978097103     22.4600        61,175.00        907,847.12      1,373,990.50
+WOODWARD GOVERNOR CO.                      1.395 WGOV    980745103     86.0100        10,400.00        731,418.74        894,504.00
+WORLD ACCEP CORP DEL                       0.000 WRLD    981419104     28.5000        20,113.00        383,281.63        573,220.50
+WORLD AIR HOLDINGS INC                     0.000 WLDAE   98142V104      9.6200        56,300.00        632,584.05        541,606.00
+WORLD FUEL SVCS CORP                       0.444 INT     981475106     33.7200        37,500.00        898,317.44      1,264,500.00
+WORLD WRESTLING ENTM                       6.539 WWE     98156Q108     14.6800        21,600.00        238,629.79        317,088.00
+WORLDSPACE INC-CLASS A                     0.000 WRSP    981579105     14.5100        10,500.00        148,155.00        152,355.00
+WORTHINGTON INDS                           3.539 WOR     981811102Q    19.2100        89,400.00      1,525,620.24      1,717,374.00
+WPT ENTERPRISES INC                        0.000 WPTE    98211W108      5.9400         5,100.00         45,748.37         30,294.00
+WRIGHT EXPRESS CORP                        0.000 WXS     98233Q105     22.0000        21,700.00        380,129.75        477,400.00
+WRIGHT MEDICAL GROUP INC                   0.000 WMGI    98235T107     20.4000        30,600.00        821,523.75        624,240.00
+WSFS FINL CORP                             0.457 WSFS    929328102     61.2500        11,300.00        586,086.58        692,125.00
+X-RITE INC                                 1.000 XRIT    983857103     10.0000        22,300.00        285,354.99        223,000.00
+XENOPORT INC                               0.000 XNPT    98411C100     17.9800         4,400.00         72,688.00         79,112.00
+YANKEE CANDLE CO                           0.976 YCC     984757104     25.6000        47,800.00      1,302,381.43      1,223,680.00
+YARDVILLE NATL BANCO                       1.327 YANB    985021104     34.6500         9,000.00        225,566.04        311,850.00
+YOUNG INNOVATIONS IN                       0.469 YDNT    987520103     34.0800        13,800.00        478,422.66        470,304.00
+ZALE CORP.                                 0.000 ZLC     988858106     25.1500        53,194.00      1,350,213.89      1,337,829.10
+ZENITH NATIONAL INSURANCE CP               2.168 ZNT     989390109     46.1200        33,250.00        957,050.20      1,533,490.00
+ZHONE TECHNOLOGIES INC                     0.000 ZHNE    98950P108      2.1200        96,800.00        249,420.38        205,216.00
+ZOLL MEDICAL CORP                          0.000 ZOLL    989922109     25.1900        10,100.00        334,462.85        254,419.00
+ZORAN CORP                                 0.000 ZRAN    98975F101     16.2100        69,086.00      1,172,250.17      1,119,884.06
+ZUMIEZ INC                                 0.000 ZUMZ    989817101     43.2200        12,100.00        395,993.68        522,962.00
+ZYMOGENETICS INC                           0.000 ZGEN    98985T109     17.0100         4,710.00         70,214.48         80,117.10
+
+Instrument Total         1,668                                                    61,198,153.25    980,502,883.32  1,186,614,971.59
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ACADIA RLTY TR                             3.690 AKR     004239109     20.0500        29,300.00        417,417.12        587,465.00
+AFFORDABLE RESIDENTIAL COMMUNI             7.869 ARC     008273104      9.5300        22,900.00        231,094.62        218,237.00
+AGREE REALTY CORP                          6.782 ADC     008492100     28.9000         8,100.00        245,007.99        234,090.00
+ALEXANDERS INC                             0.000 ALX     014752109    245.5000         1,700.00        271,375.03        417,350.00

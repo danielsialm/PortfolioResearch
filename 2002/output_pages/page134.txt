@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:05   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 106
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 500
+Instrument - COM       COMMON STOCK
+
+TECH DATA CORP                             0.000 TECD    878237106     26.9600        15,200.00        512,630.64        409,792.00
+TEXAS INSTRS INC                           0.599 TXN     882508104Q    15.0100        67,800.00      2,477,258.80      1,017,678.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     20.1200        47,200.00        797,995.49        949,664.00
+TOYS R US INC.                             0.000 TOY     892335100     10.0000        41,800.00        517,275.00        418,000.00
+TRANSOCEAN SEDCO FOREX INC.                0.517 RIG     G90078109     23.2000       145,300.00      4,002,325.69      3,370,960.00
+TRAVELERS PROPERTY CASUALTY -              0.000 TAP.B   89420G406     14.6500        66,017.00        999,326.95        967,149.06
+TRIBUNE CO                                 0.967 TRB     896047107Q    45.4600        39,200.00      1,549,261.61      1,782,032.00
+TXU CORPORATION                            2.676 TXU     873168108Q    18.6800        17,500.00        724,228.62        326,900.00
+TYCO INT'L. LTD NEW                        0.292 TYC     902124106Q    17.0800        70,600.00      1,202,106.20      1,205,848.00
+TYSON FOODS INC. CL-A                      1.426 TSN     902494103     11.2200       179,700.00      2,093,788.71      2,016,234.00
+UNION PACIFIC CORP.                        1.536 UNP     907818108Q    59.8700        22,300.00      1,117,703.57      1,335,101.00
+UNION PLANTERS CORP.                       4.726 UPC     908068109     28.1400        35,500.00      1,040,726.05        998,970.00
+UNIONBANCAL CORPORATION                    2.852 UB      908906100     39.2700        25,000.00      1,062,567.50        981,750.00
+UNITED PARCEL SERVICES INC                 1.204 UPS     911312106     63.0800        60,800.00      4,049,417.32      3,835,264.00
+UNITED STATES STEEL CORP.                  1.524 X       912909108Q    13.1200        43,000.00        672,642.08        564,160.00
+UNITED TECHNOLOGIES                        1.582 UTX     913017109Q    61.9400        36,200.00      2,012,917.12      2,242,228.00
+UNITEDHEALTH GROUP INC                     0.035 UNH     91324P102A    83.5000        34,800.00      1,929,492.26      2,905,800.00
+US BANCORP                                 3.675 USB     902973304     21.2200       119,800.00      2,431,285.39      2,542,156.00
+US CELLULAR CORP.                          0.000 USM     911684108     25.0200        22,400.00        570,892.48        560,448.00
+USA INTERACTIVE                            0.000 USAI    902984103     22.9200        37,400.00        762,122.24        857,208.00
+VALASSIS COMMUNICATIONS INC                0.000 VCI     918866104     29.4300        18,500.00        659,593.45        544,455.00
+VALERO ENERGY CORP.                        1.082 VLO     91913Y100Q    36.9400        52,200.00      1,694,485.19      1,928,268.00
+VERIZON COMMUNICATIONS                     3.974 VZ      92343V104Q    38.7500       161,900.00      7,238,956.36      6,273,625.00
+VIACOM INC-CLASS B                         0.000 VIA.B   925524308     40.7600       125,200.00      5,159,935.94      5,103,152.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     11.1800        45,500.00        695,012.50        508,690.00
+VISTEON CORP                               3.448 VC      92839U107      6.9600       111,500.00      1,135,481.28        776,040.00
+WAL MART STORES INC                        0.593 WMT     931142103Q    50.5100       330,700.00     12,246,396.85     16,703,657.00
+WALGREEN CO.                               0.513 WAG     931422109Q    29.1900        28,900.00        586,791.50        843,591.00
+WASHINGTON MUTUAL INC.                     3.243 WM      939322103     34.5300        43,100.00      1,280,477.72      1,488,243.00
+WASTE MANAGEMENT INC.                      0.043 WMI     94106L109     22.9200        24,300.00        588,400.20        556,956.00
+WELLPOINT HEALTH NETWORKS                  0.000 WLP     94973H108     71.1600         9,100.00        366,736.99        647,556.00
+WELLS FARGO COMPANY                        2.389 WFC     949746101     46.8700       121,400.00      4,362,786.94      5,690,018.00
+WYETH                                      2.459 WYE     983024100Q    37.4000        13,900.00        595,664.74        519,860.00
+YAHOO INC                                  0.000 YHOO    984332106     16.3500        51,900.00      3,670,665.51        848,565.00
+YUM BRANDS, INC.                           0.000 YUM     988498101     24.2200        30,800.00        742,766.34        745,976.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     41.5200        55,100.00      1,923,976.34      2,287,752.00
+
+Instrument Total           231                                                    17,595,085.46    541,491,642.90    508,727,990.27
+

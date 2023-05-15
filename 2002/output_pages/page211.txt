@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 028
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+LONE STAR STEAKHOUSE & SALOON                3.102     542307103   STAR            64,900        1,108,924.89        1,255,166.00
+LONE STAR TECHNOLOGIES INC                   0.000     542312103   LSS             28,800        1,092,202.57          428,832.00
+LONGS DRUG STORES INC                        2.700     543162101 Q LDG             48,600        1,082,175.13        1,007,964.00
+LONGVIEW FIBRE CO                            6.639     543213102   LFB             45,000          385,441.27          325,350.00
+LORAL SPACE COMM.                            0.000     G56462107   LOR            184,200          582,398.51           79,206.00
+LOUISIANNA PACIFIC                           0.000     546347105 Q LPX             70,214        1,096,034.30          565,924.84
+LOWE'S COS                                   0.266     548661107 Q LOW          1,752,723       43,716,861.56       65,727,112.49
+LSI LOGIC CORP                               0.000     502161102   LSI          1,144,726       22,015,898.51        6,605,073.80
+LTC PROPERTIES INC                           5.952     502175102   LTC              5,900           40,474.00           39,648.00
+LTX CORP                                     0.000     502392103   LTXX           119,300          905,632.00          719,379.00
+LUBRIZOL CORP                                3.409     549271104   LZ             134,300        3,945,926.90        4,096,150.00
+LUCENT TECHNOLOGIES                          0.000     549463107   LU           7,603,405       99,489,495.62        9,580,290.30
+LUFKIN INDUSTRIES INC                        3.070     549764108   LUFK             2,200           58,274.92           51,590.00
+LYDALL INC.                                  0.000     550819106   LDL             17,800          288,770.90          202,030.00
+LYONDELL CHEMICAL COMPANY                    7.120     552078107 Q LYO            370,500        5,593,860.39        4,683,120.00
+M&T BANK CORPORATION                         1.512     55261F104   MTB            186,000       12,168,094.49       14,759,100.00
+MACDERMID INC.                               0.350     554273102   MRD             35,600        1,149,936.85          813,460.01
+MACROMEDIA INC                               0.000     556100105   MACR           215,200        2,593,179.58        2,291,880.02
+MACROVISION CORP                             0.000     555904101   MVSN           141,576        5,062,130.22        2,270,879.04
+MAF BANCORP INC                              1.768     55261R108   MAFB            28,114          667,368.73          953,908.02
+MAGNA ENTERTAINMENT-CL A                     0.000     559211107   MIEC            54,200          325,765.64          336,040.00
+MAGNETEK INC                                 0.000     559424106   MAG             46,900          431,647.02          208,236.00
+MAGNUM HUNTER RESOURCES INC                  0.000     55972F203   MHR            115,200          775,592.72          685,440.00
+MANDALAY RESORT GROUP                        0.000     562567107   MBG             45,100          990,085.42        1,380,511.00
+MANHATTAN ASSOCIATES INC                     0.000     562750109   MANH            53,942        1,636,064.45        1,276,267.73
+MANITOWOC COMPANY INC.                       1.098     563571108   MTW             27,800          684,860.48          708,900.00
+MANOR CARE INC.                              0.000     564055101   HCR            294,303        5,736,581.31        5,476,978.83
+MANPOWER INC                                 0.627     56418H100   MAN            311,000       11,066,285.73        9,920,900.00
+MAPINFO CORP                                 0.000     565105103   MAPS            26,200          367,167.50          145,410.00
+MARATHON OIL CORP                            4.321     565849106 Q MRO            803,144       18,680,693.78       17,098,935.76
+MARCUS CORPORATION                           1.549     566330106   MCS             59,000          958,281.81          837,800.00
+MARKEL CORP                                  0.000     570535104   MKL              6,000        1,042,206.82        1,233,000.00
+MARRIOTT INT'L INC CL-A                      0.851     571903202   MAR            402,209       11,742,834.19       13,220,609.83
+MARSH & MCLENNAN COS.                        2.423     571748102 Q MMC          1,094,019       40,509,557.26       50,554,617.99
+MARSHALL & ILSLEY CORP                       2.337     571834100   MI             188,141        5,109,289.48        5,151,300.58
+MARTEK BIOSCIENCES CORP                      0.000     572901106   MATK            14,000          268,022.59          352,240.00
+MARTIN MARIETTA MATERIALS                    1.956     573284106   MLM            157,200        7,594,710.58        4,819,752.00
+MASCO CORP.                                  2.660     574599106 Q MAS          1,207,281       27,643,908.27       25,413,265.05
+MASSEY ENERGY CO                             1.646     576206106 Q MEE             80,100          899,614.09          778,572.00
+MASTEC INC                                   0.000     576323109   MTZ            311,000        2,897,014.62          917,450.00

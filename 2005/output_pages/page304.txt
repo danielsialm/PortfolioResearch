@@ -1,0 +1,20 @@
+ASOF03   Date 01/19/2006 Time 18:25:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - REN       RE NATURAL RESOURCES
+Instrument - T         TIMBER
+
+TIMBER-BASCOM GULF (FLORIDA)   MISC US                         0.000         RTMBR4                177,710,830.21    189,011,415.00
+TIMBER-BASCOM PACIFIC (N.W.)   MISC US                         0.000         RTMBR2                 54,455,014.33    165,382,722.00
+TIMBERLAND - FOREST SYSTEM     MISC US                         0.000         RTMBR5                  2,000,196.00      2,000,196.00
+TIMBERLAND-SOUTHERN            MISC US                         0.000         RTMBR3                 32,992,650.52    165,122,309.00
+
+Instrument Total             4                                                                     267,158,691.06    521,516,642.00
+
+Portfolio Total              4                                                                     267,158,691.06    521,516,642.00
+

@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 018
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CENTEX CORP                                  0.223     152312104 Q CTX             47,800        2,166,442.67        3,417,222.00
+CENTILLIUM COMMUNICATIONS INC                0.000     152319109   CTLM           203,767          595,005.45          713,184.50
+CENTRAL COAST BANCOR                         0.000     153145107   CCBN            12,200          199,785.20          301,828.00
+CENTRAL EUROPEAN DISTRIBUTION CORP           0.000     153435102   CEDC            20,500          829,085.14          822,870.00
+CENTRAL GARDEN & PET                         0.000     153527106   CENT            20,400          620,772.77          937,176.00
+CENTRAL PACIFIC FINANCIAL CORP               2.115     154760102   CPF             32,117          971,630.77        1,153,642.64
+CENTRAL PARKING CORP.                        0.437     154785109   CPC             21,200          322,994.27          290,864.00
+CENTRAL VERMONT PUB SERV                     5.108     155771108   CV              13,000          256,570.72          234,130.00
+CENTURY ALUMINUM COMPANY                     0.763     156431108   CENX            39,200          884,715.00        1,027,432.00
+CENTURYTEL, INC.                             0.723     156700106   CTL            765,852       25,164,818.41       25,395,652.32
+CENVEO INC                                   0.000     15670S105   CVO              9,100           91,976.45          119,756.00
+CEPHALON INC                                 0.000     156708109   CEPH            25,100        1,070,612.99        1,624,974.00
+CEPHEID                                      0.000     15670R107   CPHD            44,900          473,733.78          394,222.00
+CERADYNE INC                                 0.000     156710105   CRDN            14,075          399,353.11          616,485.00
+CERES GROUP INC                              0.000     156772105   CERG            92,783          549,556.12          479,688.11
+CERIDIAN CORP                                0.000     156779100   CEN              6,300          151,357.29          156,555.00
+CERNER CORP.                                 0.000     156782104   CERN           152,000       10,911,682.48       13,818,320.00
+CERTEGY INC                                  0.493     156880106   CEY              1,800           72,939.06           73,008.00
+CF INDUSTRIES HOLDINGS INC                   0.524     125269100   CF              43,600          646,588.00          664,900.00
+CH ENERGY GROUP INC                          4.705     12541M102   CHG             22,600          985,864.71        1,037,340.00
+CHAMPION ENTERPRISES INC.                    0.000     158496109   CHB             80,100          700,630.37        1,090,962.00
+CHAPARRAL STEEL CO                           0.000     159423102   CHAP            37,900          566,705.52        1,146,475.00
+CHARLES & COLVARD LTD                        0.247     159765106   CTHR            12,900          321,578.85          260,580.00
+CHARLES RIVER LABORATORIES                   0.000     159864107   CRL            314,566       14,401,544.77       13,328,161.42
+CHARLOTTE RUSSE HOLDING INC                  0.000     161048103   CHIC            83,000          915,752.78        1,728,890.00
+CHARMING SHOPPES                             0.000     161133103   CHRS           126,800          795,058.23        1,673,760.00
+CHARTER COMMUNICATIONS                       0.000     16117M107   CHTR         8,099,536       18,160,530.65        9,881,433.92
+CHARTERMAC                                   7.932     160908109   CHC             42,700          864,093.45          904,386.00
+CHATTEM INC                                  0.000     162456107   CHTT            40,042        1,305,188.02        1,457,128.38
+CHECKFREE CORP                               0.000     162813109   CKFR            11,354          441,789.71          521,148.60
+CHECKPOINT SYSTEMS INC.                      0.000     162825103   CKP             40,000          650,325.94          986,000.00
+CHEESECAKE FACTORY (THE)                     0.000     163072101   CAKE           564,534       16,548,044.79       21,107,926.26
+CHEMED CORP                                  0.483     16359R103   CHE             99,180        3,640,606.67        4,927,262.40
+CHEMICAL FINL CORP                           3.463     163731102   CHFC            26,620          824,143.08          845,451.20
+CHENIERE ENERGY INC                          0.000     16411R208   LNG             40,000          651,919.20        1,488,800.00
+CHEROKEE INC                                 6.978     16444H102   CHKE           212,406        6,891,281.28        7,304,642.34
+CHESAPEAKE CORP                              5.182     165159104   CSK             20,900          488,304.07          354,882.00
+CHESAPEAKE ENERGY CORP                       0.630     165167107   CHK              4,000          132,572.60          126,920.00
+CHEVRONTEXACO CORP                           3.170     166764100 Q CVX          4,524,866      174,860,216.51      256,876,642.81
+CHICAGO BRIDGE & IRON COMPANY                0.357     167250109   CBI            114,035        2,155,884.11        2,874,822.35

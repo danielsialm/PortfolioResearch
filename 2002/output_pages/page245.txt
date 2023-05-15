@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 010
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - G         APARTMENTS
+
+APARTMENT INVT & MGMT                      8.751 AIV     03748R101     37.4800       233,804.00      9,168,938.41      8,762,973.91
+ARCHSTONE COMMUNITIES                      7.264 ASN     039583109Q    23.5400       445,480.00      9,506,728.31     10,486,599.17
+AVALONBAY COMMUNITIES                      7.153 AVB     053484101Q    39.1400       176,898.00      6,102,401.63      6,923,787.71
+BRE PROPERTIES  -CL A                      6.250 BRE     05564E106     31.2000       118,335.00      3,352,829.83      3,692,052.01
+CAMDEN PROPERTY TRUST                      7.697 CPT     133131102     33.0000        85,176.00      2,595,194.70      2,810,808.00
+EQUITY RESIDENTIAL PROP                    7.038 EQR     29476L107Q    24.5800       705,426.00     15,888,119.96     17,339,371.08
+ESSEX PROPERTY TRUST INC.                  6.057 ESS     297178105     50.8500        56,500.00      2,737,350.95      2,873,025.00
+GABLES RESIDENTIAL TRUST                   9.667 GBP     362418105     24.9300        41,100.00      1,114,318.44      1,024,623.02
+HOME PROPERTIES OF NY INC.                 7.082 HME     437306103     34.4500        82,100.00      2,720,686.18      2,828,345.00
+POST PROPERTIES,INC.                      13.054 PPS     737464107Q    23.9000        70,725.00      2,303,245.16      1,690,327.53
+SUMMIT PROPERTIES INC                      7.584 SMT     866239106     17.8000        15,000.00        288,150.00        267,000.00
+UNITED DOMINION RE TRUST                   6.784 UDR     910197102     16.3600       255,700.00      3,728,804.25      4,183,252.01
+
+Instrument Total            12                                                    2,286,244.00      59,506,767.82     62,882,164.44
+
+Instrument -H      MANUFACTURED HOMES
+
+CHATEAU COMMUNITIES INC                    9.565 CPJ     161726104     23.0000       129,900.00      3,806,968.37      2,987,700.01
+MANUFACTURED HOME COMM                     6.412 MHC     564682102     29.6300        77,500.00      2,517,089.73      2,296,324.95
+SUN COMMUNITIES INC                        6.344 SUI     866674104     36.5700        67,600.00      2,606,612.22      2,472,131.99
+
+Instrument Total             3                                                      275,000.00       8,930,670.32      7,756,156.95
+
+Instrument -J      REGIONAL MALLS
+
+CBL & ASSOC PROP                           6.541 CBL     124830100     40.0500        94,500.00      3,452,574.42      3,784,725.00
+GENERAL GROWTH PROP                        5.538 GGP     370021107Q    52.0000       208,028.00      7,592,575.27     10,817,456.05
+MILLS CORP.                                7.464 MLS     601148109     29.3400       120,600.00      3,434,045.83      3,538,404.01
+ROUSE CO                                   4.921 RSE     779273101     31.7000       282,200.00      8,186,274.46      8,945,740.01
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700       569,570.00     15,401,557.64     19,405,249.90
+TAUBMAN CENTERS INC                        6.407 TCO     876664103Q    16.2300       127,300.00      1,971,801.54      2,066,079.01
+THE MACERICH CO                            7.414 MAC     554382101     30.7500       147,200.00      4,244,236.07      4,526,400.00
+
+Instrument Total             7                                                    1,549,398.00      44,283,065.23     53,084,053.98
+
+Instrument -K      STRIP CENTERS
+
+CHELSEA PROP GROUP INC                     5.824 CPG     163421100     33.3100       134,600.00      3,439,712.49      4,483,526.04
+DEVELOPERS DIVERSIFIED RE                  6.912 DDR     251591103Q    21.9900       226,700.00      4,651,639.45      4,985,133.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 146
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6PI       PIMCO - 600 GROWTH
+Instrument - COM       COMMON STOCK
+
+INTERSIL HOLDINGS CORP                     0.000 ISIL    46069S109     13.9400        18,200.00        300,037.83        253,708.00
+INVESTORS FINANCIAL SERVICES C             0.182 IFIN    461915100     27.3900        21,600.00        601,251.47        591,624.00
+INVITROGEN CORP                            0.000 IVGN    46185R100     31.2900         9,300.00        297,914.86        290,997.00
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     23.5500        17,300.00        395,955.93        407,415.00
+J. JILL GROUP INC                          0.000 JILL    466189107     13.9800        26,000.00        386,562.94        363,480.00
+J.D. EDWARDS & CO.                         0.000 JDEC    281667105     11.2800        47,300.00        588,716.58        533,544.00
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106      8.9700        84,100.00        724,142.00        754,377.00
+KNIGHT TRANSPORTATION INC                  0.000 KNGT    499064103     21.0000        25,200.00        454,627.47        529,200.00
+KROLL INC                                  0.000 KROL    501049100     19.0800        20,900.00        405,523.90        398,772.00
+LA JOLLA PHARMACEUTICAL                    0.000 LJPC    503459109      6.5000        19,400.00        123,641.74        126,100.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      8.7700        25,200.00        249,670.92        221,004.00
+LIN TV CORP                                0.000 TVL     532774106     24.3500        11,513.00        242,821.00        280,341.55
+LINENS 'N THINGS INC.                      0.000 LIN     535679104     22.6000        26,274.00        545,458.18        593,792.40
+MACROMEDIA INC                             0.000 MACR    556100105     10.6500        33,200.00        352,828.34        353,580.02
+MACROVISION CORP                           0.000 MVSN    555904101     16.0400        35,176.00        784,778.36        564,223.04
+MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     23.6600        15,982.00        405,041.63        378,134.13
+MATRIXONE, INC.                            0.000 MONE    57685P304      4.3000        89,842.00        415,031.40        386,320.60
+MAXTOR CORP                                0.000 MXO     577729205      5.0600        33,400.00        193,993.71        169,004.00
+MEDIACOM COMMUNICATIONS CORP               0.000 MCCC    58446K105      8.8100        56,900.00        683,804.66        501,289.00
+MEDICAL STAFFING NETWORK HOLDI             0.000 MRN     58463F104     16.0000        17,700.00        308,558.09        283,200.00
+MEDICIS PHARMACEUTICAL CORP                0.000 MRX     584690309     49.6700         8,200.00        340,423.96        407,294.00
+MOBILE MINI INC.                           0.000 MINI    60740F105     15.6700        18,000.00        276,201.39        282,060.00
+MPS GROUP INC                              0.000 MPS     553409103      5.5400        79,600.00        600,198.77        440,984.00
+MSA INDUSTRIAL DIRECT CO-A                 0.000 MSM     553530106     17.7500        32,500.00        576,903.95        576,875.00
+NBTY INC.                                  0.000 NBTY    628782104     17.5800        25,100.00        372,425.60        441,258.00
+NETSCREEN TECHNOLOGIES INC                 0.000 NSCN    64117V107     16.8400        11,900.00        186,567.63        200,396.00
+NPS PHARMACEUTICALS INC.                   0.000 NPSP    62936P103     25.1700        10,600.00        291,433.52        266,802.00
+ODYSSEY HEALTHCARE INC                     0.000 ODSY    67611V101     34.7000         5,440.00        145,121.25        188,768.00
+ORIENT EXPRESS HOTELS LTD -A               0.000 OEH     G67743107     13.5000        20,300.00        259,959.43        274,050.00
+OVERTURE SERVICES INC                      0.000 OVER    69039R100     27.3100        16,900.00        364,868.37        461,539.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     15.8600        24,300.00        423,876.17        385,398.00
+PETSMART INC                               0.000 PETM    716768106     17.1300        33,300.00        404,595.02        570,429.00
+PIONEER NATURAL RESOURCES CO.              0.000 PXD     723787107     25.2500        15,600.00        308,648.37        393,900.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-PIM  IT-PIM         1.0000     2,035,622.70      2,035,622.63      2,035,622.71
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     23.2000        18,400.00        489,581.00        426,880.00
+RADIO ONE INC CL-D                         0.000 ROIAK   75040P405     14.4300        16,700.00        284,334.88        240,981.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     27.6200        23,400.00        534,743.52        646,308.00
+REEBOK INTERNATIONAL LTD.                  0.000 RBK     758110100Q    29.4000        12,527.00        315,866.02        368,293.80
+REGAL ENTERTAINMENT GROUP                  2.801 RGC     758766109     21.4200        25,500.00        502,425.30        546,209.99

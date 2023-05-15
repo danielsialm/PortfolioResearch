@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - A         DIVERSIFIED
+
+COLONIAL PROPERTIES                        3.623 CLP     195872106     39.2700        25,000.00        990,360.52        981,750.00
+COUSINS PROPERTIES INC                     4.889 CUZ     222795106     30.2700        71,300.00      2,106,066.99      2,158,251.00
+CRESCENT RE EQT. CO.                       8.214 CEI     225756105     18.2600        63,000.00      1,066,710.77      1,150,380.00
+VORNADO REALTY TRUST                       3.993 VNO     929042109     76.1300       269,045.00     11,755,976.61     20,482,395.85
+WASHINGTON RE INV                          3.991 WRE     939653101     33.8700        93,000.00      2,810,169.29      3,149,910.00
+
+Instrument Total             5                                                      521,345.00      18,729,284.18     27,922,686.85
+
+Instrument -C      INDUSTRIAL
+
+AMB PROPERTY CORP.                         4.209 AMB     00163T109     40.3900       206,537.00      5,665,558.65      8,342,029.43
+CATELLUS DEVELOP CORP                      3.529 CDX     149113102     30.6000       222,000.00      5,942,322.78      6,793,200.00
+CENTERPOINT PROP CORP.                     3.570 CNT     151895109     47.8900        66,000.00      2,461,172.96      3,160,740.00
+PROLOGIS TRUST                             3.369 PLD     743410102Q    43.3300       420,220.00      9,309,689.58     18,208,132.60
+
+Instrument Total             4                                                      914,757.00      23,378,743.97     36,504,102.03
+
+Instrument -D      MIXED INDUST/OFFICE
+
+DUKE RE CORPORATION                        5.448 DRE     264411505     34.1400       328,183.00      8,536,918.62     11,204,167.62
+LIBERTY PROPERTY TRUST                     5.648 LRY     531172104Q    43.2000       161,700.00      5,127,185.72      6,985,440.00
+PS BUSINESS PARKS INC/CA                   2.572 PSB     69360J107     45.1000        41,100.00      1,413,628.71      1,853,610.00
+
+Instrument Total             3                                                      530,983.00      15,077,733.05     20,043,217.62
+
+Instrument -F      OFFICE
+
+ALEXANDRIA REAL ESTATE                     3.547 ARE     015271109     74.4200        58,000.00      3,187,585.58      4,316,360.00
+ARDEN REALTY GROUP INC                     5.355 ARI     039793104Q    37.7200       123,600.00      3,377,273.16      4,662,192.00
+BIOMED REALTY TRUST                        4.862 BMR     09063H107     22.2100        39,000.00        886,821.61        866,190.00
+BOSTON PROPERTIES INC                      4.020 BXP     101121101     64.6700       235,484.00      8,501,227.14     15,228,750.28
+BRANDYWINE REALTY                          5.018 BDN     105368203     29.3900        55,000.00      1,607,047.60      1,616,450.00
+CARRAMERICA RE CORP                        6.060 CRE     144418100     33.0000        65,600.00      1,961,111.77      2,164,800.00
+CORPORATE OFFICE PROPERTY                  3.475 OFC     22002T108     29.3500        38,000.00      1,059,233.48      1,115,300.00
+EQUITY OFFICE PROP                         5.340 EOP     294741103     29.1200       605,896.00     14,497,448.12     17,643,691.52
+HIGHWOODS PROP INC.                        6.137 HIW     431284108Q    27.7000       115,000.00      3,003,532.45      3,185,500.00
+KILROY RE CORP                             4.631 KRC     49427F108     42.7500        88,700.00      2,852,203.26      3,791,925.00
+MACK-CALI RE CORP.                         5.474 CLI     554489104     46.0300       123,448.00      4,082,464.14      5,682,311.44
+MAGUIRE PROPERTIES INC                     5.826 MPG     559775101     27.4600       110,000.00      2,702,264.79      3,020,600.00

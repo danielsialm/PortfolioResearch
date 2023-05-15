@@ -1,0 +1,18 @@
+Instrument - F         FARMLAND
+
+FARMLAND-METLIFE                                               7.700         RFMLD2                 18,514,407.56     16,986,223.00
+FARMLANDS-AGRIVEST                                             9.250         RFMLND                 18,927,407.43     21,003,096.70
+
+Instrument Total             2                                                                      37,441,814.99     37,989,319.70
+
+Instrument -T      TIMBER
+
+TIMBER-BASCOM GULF (FLORIDA)   MISC USA                        0.000         RTMBR4                180,982,830.21    174,425,638.00
+TIMBER-BASCOM PACIFIC (N.W.)   MISC                            0.000         RTMBR2                 66,259,733.96    188,702,385.00
+TIMBERLAND - FOREST SYSTEM     MISC., US                       0.000         RTMBR5                  2,000,196.00      2,000,196.00
+TIMBERLAND-SOUTHERN            MISC                            0.000         RTMBR3                 33,512,650.52    142,396,196.69
+
+Instrument Total             4                                                                     282,755,410.69    507,524,415.69
+
+Portfolio Total              6                                                                     320,197,225.68    545,513,735.39
+

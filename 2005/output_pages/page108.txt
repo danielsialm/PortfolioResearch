@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 075
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+RUSSELL CORP                               1.188 RML     782352108Q    13.4600        34,700.00        623,919.85        467,062.00
+RUTH'S CHRIS STEAK HOUSE INC               0.000 RUTH    783332109     18.1000        11,500.00        211,600.00        208,150.00
+RYANS RESTAURANT GROUP INC                 0.000 RYAN    783520109     12.0600        72,300.00        897,374.65        871,938.00
+RYERSON TULL, INC.                         0.822 RYI     78375P107Q    24.3200        42,300.00        507,538.93      1,028,736.00
+S & T BANCORP INC                          3.150 STBA    783859101     36.8200        28,042.00        879,129.19      1,032,506.44
+S Y BANCORP INC                            2.078 SYBT    785060104     25.0200        12,700.00        292,019.44        317,754.00
+SAFENET INC                                0.000 SFNT    78645R107     32.2200        25,875.00        740,376.59        833,692.50
+SAFETY INSURANCE GROUP INC                 1.783 SAFT    78648T100     40.3700        20,826.00        420,717.16        840,745.62
+SALIX PHARMACEUTICAL                       0.000 SLXP    795435106     17.5800        43,394.00        772,364.76        762,866.52
+SANDERSON FARMS INC                        1.572 SAFM    800013104     30.5300        26,577.00        938,613.28        811,395.81
+SANDY SPRING BANCORP INC                   2.522 SASR    800363103     34.8800         2,461.00         88,544.31         85,839.68
+SANTANDER BANCORP                          2.547 SBP     802809103     25.1200        16,320.00        399,479.28        409,958.40
+SAPIENT CORP                               0.000 SAPE    803062108      5.6900         7,200.00         39,247.48         40,968.00
+SAUER-DANFOSS INC                          2.551 SHS     804137107     18.8100         8,900.00         97,680.69        167,409.00
+SAVIENT PHARMACEUTICALS INC                0.000 SVNTE   80517Q100      3.7400       156,400.00        582,563.31        584,936.00
+SBA COMMUNICATIONS CORP                    0.000 SBAC    78388J106     17.9000        60,400.00        556,768.41      1,081,160.00
+SCANSOURCE INC                             0.000 SCSC    806037107     54.6800        13,300.00        483,238.59        727,244.00
+SCBT FINANCIAL CORP                        2.034 SCBT    78401V102     33.4200         8,530.00        223,023.74        285,072.60
+SCHNITZER STL INDS                         0.222 SCHN    806882106     30.5900        33,600.00        837,680.88      1,027,824.00
+SCHOLASTIC CORP                            0.000 SCHL    807066105     28.5100        42,400.00      1,301,416.44      1,208,824.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     36.4400        15,156.00        449,550.00        552,284.64
+SCHULMAN (A.) INC.                         2.695 SHLM    808194104Q    21.5200        32,400.00        551,258.75        697,248.00
+SCHWEITZER-MAIDUIT INTL INC                2.421 SWM     808541106     24.7800        16,000.00        447,257.81        396,480.00
+SCS TRANSPORTATION INC                     0.000 SCST    81111T102     21.2500        35,400.00        618,032.13        752,250.00
+SEABOARD CORP                              0.198 SEB     811543107  1,511.0000           600.00        201,614.08        906,600.00
+SEABRIGHT INSURANCE HOLDINGS               0.000 SEAB    811656107     16.6300         8,500.00        108,038.40        141,355.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     68.1000        23,300.00      1,194,188.86      1,586,730.00
+SEATTLE GENETICS INC                       0.000 SGEN    812578102      4.7200        28,000.00        143,116.40        132,160.00
+SECURE COMPUTING CORP                      0.000 SCUR    813705100     12.2600        38,013.00        367,721.44        466,039.38
+SECURITY BANK CORP                         1.116 SBKC    814047106     23.2900         9,200.00        204,360.32        214,268.00
+SELECT COMFORT CORP                        0.000 SCSS    81616X103     27.3500        38,200.00        859,105.63      1,044,770.00
+SELECTIVE INSURANCE GROUP                  1.657 SIGI    816300107     53.1000        36,290.00        990,724.06      1,926,999.00
+SEMITOOL INC                               0.000 SMTL    816909105     10.8800        17,600.00        177,423.80        191,488.00
+SEMTECH CORPORATION                        0.000 SMTC    816850101     18.2600        77,700.00      1,399,946.23      1,418,802.00
+SENIOR HOUSING PROP TRUST                  7.569 SNH     81721M109     16.9100        63,000.00        910,144.08      1,065,330.00
+SENOMYX INC                                0.000 SNMX    81724Q107     12.1200        18,600.00        305,142.30        225,432.00
+SENSIENT TECHNOLOGIES                      3.352 SXT     81725T100Q    17.9000        49,800.00      1,005,346.19        891,420.00
+SEQUA CORP - CL A                          0.000 SQA.A   817320104     69.0500         6,700.00        337,808.33        462,635.00
+SERENA SOFTWARE INC                        0.000 SRNA    817492101     23.4400         7,500.00        139,543.85        175,800.00

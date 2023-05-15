@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HAVERTY FURNITURE                            2.094     419596101   HVT             20,600          382,786.12          265,534.00
+HAWAIIAN ELECTRIC INDS                       4.787     419870100   HE              53,400        1,425,778.90        1,383,060.00
+HAYES LEMMERZ INTERNATIONAL INC              0.000     420781304   HAYZ            78,800          463,018.95          277,376.00
+HCA INC                                      1.188     404119109   HCA          1,202,294       48,158,238.20       60,715,847.00
+HCC INSURANCE HOLDINGS INC.                  1.010     404132102   HCC            241,750        5,378,300.67        7,175,140.00
+HEADWATERS INC                               0.000     42210P102   HW              50,037        1,529,454.03        1,773,311.28
+HEALTH MGMT ASSOCIATES CL A                  1.092     421933102   HMA            382,791        8,107,491.61        8,406,090.34
+HEALTH NET                                   0.000     42222G108   HNT            428,100       15,678,562.96       22,068,555.00
+HEALTHCARE SVCS GRP                          1.738     421906108   HCSG            28,200          326,161.69          584,022.00
+HEALTHEXTRAS INC                             0.000     422211102   HLEX            66,165        1,017,400.06        1,660,741.50
+HEARTLAND EXPRESS INC.                       0.394     422347104   HTLD           191,200        3,290,481.29        3,879,448.00
+HEARTLAND FINANCIAL USA INC                  1.659     42234Q102   HTLF            11,200          225,481.34          243,040.00
+HEARTLAND PAYMENT SYSTEMS                    0.000     42235N108   HPY              8,200          197,256.00          177,612.00
+HECLA MINING CO.                             0.000     422704106   HL              24,800          131,765.92          100,688.00
+HEICO CORP                                   0.309     422806109   HEI             22,800          368,787.75          590,064.00
+HEIDRICK & STRUGGLES INTL                    0.000     422819102   HSII            31,100        1,112,932.04          996,755.00
+HEINZ H. J. CO.                              3.558     423074103 Q HNZ            169,400        6,136,981.75        5,712,168.00
+HELMERICH & PAYNE, INC                       0.533     423452101 Q HP              97,000        5,681,673.51        6,005,270.00
+HENRY (JACK) & ASSOCIATES                    0.943     426281101   JKHY           212,901        3,770,639.78        4,062,151.08
+HENRY SCHEIN INC                             0.000     806407102   HSIC            21,900          787,432.91          955,716.00
+HERCULES INCORPORATED                        0.000     427056106 Q HPC            221,000        2,614,663.28        2,497,300.00
+HERCULES OFFSHORE INC                        0.000     427093109   HERO             9,700          249,290.00          275,577.00
+HERITAGE COMMERCE CORP                       0.000     426927109   HTBK            23,425          436,555.57          503,637.50
+HERLEY INDS INC DEL                          0.000     427398102   HRLY            13,700          257,434.41          226,187.00
+HERSHEY FOODS CORP.                          1.773     427866108 Q HSY            299,600       15,603,573.66       16,552,900.00
+HEWLETT-PACKARD CO                           1.117     428236103 Q HPQ          6,730,100      151,100,137.24      192,682,763.00
+HEXCEL CORP                                  0.000     428291108   HXL            436,100        6,111,380.09        7,871,605.00
+HI-TECH PHARMACAL CO INC                     0.000     42840B101   HITK            16,200          458,192.28          717,498.00
+HIBBETT SPORTING GOO                         0.000     428565105   HIBB            84,913        1,328,275.41        2,418,322.24
+HIGHLAND HOSPITALITY CORP                    5.067     430141101   HIH             10,500          109,386.41          116,025.00
+HILB ROGAL & HOBBS CO                        1.194     431294107 Q HRH            331,700       11,087,019.89       12,773,767.00
+HILLENBRAND IND.                             2.287     431573104 Q HB             103,260        5,662,436.74        5,102,076.60
+HILTON HOTELS CORP.                          0.663     432848109 Q HLT            121,600        2,695,508.58        2,931,776.00
+HITTITE MICROWAVE CORP                       0.000     43365Y104   HITT             4,900           99,323.00          113,386.00
+HNI CORP                                     1.128     404251100   HNI              4,800          256,813.03          263,664.00
+HOLLINGER INTERNATIONAL INC                  2.232     435569108   HLR             17,500          217,943.91          156,800.00
+HOLLY CORP                                   0.679     435758305   HOC             27,500          438,172.55        1,618,925.00
+HOLOGIC INC.                                 0.000     436440101   HOLX           114,985        1,565,151.58        4,360,231.20
+HOME DEPOT INC.                              0.988     437076102 Q HD           4,377,719      125,037,013.61      177,210,065.12
+HOMESTORE INC                                0.000     437852106   HOMS           155,800          323,775.55          794,580.00

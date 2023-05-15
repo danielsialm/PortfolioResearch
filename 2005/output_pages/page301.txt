@@ -1,0 +1,51 @@
+ASOF02   Date 01/19/2006 Time 18:24:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - F         OFFICE
+
+BRANDYWINE REALTY                          0.286 BDN     105368203     27.9100        60,000.00      1,723,038.79      1,674,600.00
+CARRAMERICA RE CORP                        3.300 CRE     144418100     34.6300        87,600.00      2,885,616.73      3,033,588.00
+CORPORATE OFFICE PROPERTY                  3.151 OFC     22002T108     35.5400        99,000.00      3,156,525.63      3,518,460.00
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300       713,796.00     18,359,893.73     21,649,432.70
+GLENBOROUGH REALTY                         7.734 GLB     37803P105     18.1000       138,000.00      2,730,307.81      2,497,800.00
+HIGHWOODS PROP INC.                        2.309 HIW     431284108Q    28.4500        79,000.00      2,053,522.72      2,247,550.00
+HRPT PROPERTIES TRUST                      8.115 HRP     40426W101     10.3500       160,000.00      1,873,323.82      1,656,000.00
+KILROY RE CORP                             3.295 KRC     49427F108     61.9000        57,000.00      2,568,729.09      3,528,300.00
+MACK-CALI RE CORP.                         5.833 CLI     554489104     43.2000       112,448.00      4,146,303.60      4,857,753.60
+MAGUIRE PROPERTIES INC                     5.178 MPG     559775101     30.9000        88,400.00      2,334,576.74      2,731,560.00
+PARKWAY PROPERTYS INC                      5.291 PKY     70159Q104     40.1400        19,000.00        908,837.38        762,660.00
+PRENTISS PROPERTIES TRUST                  0.245 PP      740706106     40.6800       105,000.00      3,477,328.32      4,271,400.00
+RECKSON ASSOCIATES RE                      4.719 RA      75621K106Q    35.9800       133,500.00      4,216,261.06      4,803,330.00
+SL GREEN RE CORP                           3.141 SLG     78440X101     76.3900       106,000.00      4,171,591.52      8,097,340.00
+TRIZEC PROPERTIES INC                      3.490 TRZ     89687P107     22.9200       377,000.00      6,292,546.87      8,640,840.00
+
+Instrument Total            19                                                    2,861,228.00      81,121,506.90    104,306,963.22
+
+Instrument -G      APARTMENTS
+
+AMLI RESIDENTIAL PROP                      5.046 AML     001735109     38.0500        81,000.00      3,034,154.00      3,082,050.00
+APARTMENT INVT & MGMT                      6.337 AIV     03748R101     37.8700       135,704.00      5,112,373.26      5,139,110.48
+ARCHSTONE COMMUNITIES                      4.153 ASN     039583109Q    41.8900       420,480.00     11,299,951.02     17,613,907.20
+ASSOCIATED ESTATES                         7.522 AEC     045604105      9.0400        35,000.00        316,611.00        316,400.00
+AVALONBAY COMMUNITIES                      0.286 AVB     053484101Q    89.2500       171,898.00      7,838,846.31     15,341,896.50
+BRE PROPERTIES  -CL A                      1.851 BRE     05564E106     45.4800       112,635.00      4,066,800.22      5,122,639.80
+CAMDEN PROPERTY TRUST                      0.151 CPT     133131102     57.9200        97,984.00      4,127,441.95      5,675,233.28
+EDUCATION REALTY TRUST INC                 9.309 EDR     28140H104     12.8900       134,000.00      1,947,928.20      1,727,260.00
+EQUITY RESIDENTIAL PROP                    4.524 EQR     29476L107Q    39.1200       581,426.00     14,683,033.25     22,745,385.12
+ESSEX PROPERTY TRUST INC.                  3.514 ESS     297178105     92.2000        37,000.00      2,478,271.62      3,411,400.00
+GMH COMMUNITIES TRUST                      5.867 GCT     36188G102     15.5100        10,000.00        152,000.00        155,100.00
+HOME PROPERTIES OF NY INC.                 2.696 HME     437306103     40.8000        24,000.00        914,922.06        979,200.00
+POST PROPERTIES,INC.                       4.505 PPS     737464107Q    39.9500        97,000.00      3,670,558.46      3,875,150.00
+UNITED DOMINION RE TRUST                   5.119 UDR     910197102     23.4400       173,700.00      3,024,337.49      4,071,528.00
+
+Instrument Total            14                                                    2,111,827.00      62,667,228.84     89,256,260.38
+
+Instrument -H      MANUFACTURED HOMES
+
+AFFORDABLE RESIDENTIAL COMMUNI             7.869 ARC     008273104      9.5300        85,000.00        831,322.22        810,050.00

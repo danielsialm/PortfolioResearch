@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 025
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+LEGAL + GENERAL OR                          13.497     0560399      LGEN_       443,499.00          983,867.12
+LI & FUNG LTD                                0.467     6286257      494_H        76,000.00           83,246.72
+LINDE AG                                     3.730     5740817      00340         1,500.00           69,210.07
+LLOYDS TSB GROUP O                          51.195     0870612      LLOY_       283,194.00        3,042,084.33
+LVMH MOET-HENNESSY                           2.557     4061412      MC_FP        15,174.00          695,820.88
+MARKS & SPENCER GROUP PLC                    4.615     3127490      MKSB_       259,018.00          258,280.06
+MARKS+ SPENCER ORD                           5.110     3127489      MKS_L       116,681.00          691,810.13
+MATSUSHITA ELC IND                           0.000     6572707      6752_       108,000.00        1,451,164.05
+MATSUSHITA ELECTRIC WORKS                    0.014     6572729      6991_        98,000.00          844,555.64
+MAYR-MELNHOF KARTO                           2.949     4563640      MAYR_        18,600.00        1,123,956.57
+MEDIASET ITL1000                             3.035     5077946      MS_IM        14,489.00          126,302.09
+MEDIOBANCA SPA ITL                           2.007     4574813      MB_IM        10,888.00           84,286.22
+METRO AG NPV                                 5.641     5041413      MEO_G         1,860.00           50,953.42
+MILLEA HOLDINGS INC                          0.000     6513126      8766_           130.00        1,095,761.17
+MISYS ORD GBP0.01                            7.362     0385785      MSY_L        36,365.00          186,485.42
+MITSUBISHI CORP Y5                           0.000     6596785      8058_        89,000.00          682,657.00
+MITSUBISHI ELEC CP                           0.000     6597045      6503_       124,000.00          413,751.54
+MITSUBISHI ESTATE                            0.000     6596729      8802_        88,817.00          704,478.29
+MITSUBISHI HVY IND                           0.000     6597067      7011_       203,000.00          750,273.27
+MITSUBISHI TOKYO F JPY50000                  0.000     6335171      8306_           212.00        1,780,599.07
+MITSUI + CO JPY50                            0.000     6597302      8031_        97,000.00          496,227.03
+MIZUHO HLDGS JPY50000                        0.000     6286280      8305_           343.00        1,179,021.04
+MM02 PL                                      0.000     3087271      OOM_L       457,443.00          999,654.15
+MTR CORPORATION                              0.652     6290054      66_HK       125,500.00          160,425.18
+MUNCHENER RUCKVS                             1.537     5294121      MUV2_         1,500.00          310,567.52
+MURATA MFG CO JPY5                           0.000     6610403      6981_        12,501.00          868,116.32
+NATIONAL GRID GROU                           9.082     3122387      NGG_L       210,255.00        1,436,001.57
+NATL AUSTRALIA BK                            0.261     6624608      NAB_A       188,050.00        3,202,018.71
+NEC CORP ORD JPY50                           0.000     6640400      6701_       106,256.00        1,152,243.06
+NESTLE SA CHF                                0.163     7123870      NESN_        43,175.00        9,528,436.76
+NEWS CORPORATION N                           0.014     6886925      NCP_A       183,887.00        1,366,233.31
+NEWS CORPORATION P                           0.232     6620758      NCPDP       216,179.00        1,455,435.94
+NINTENDO CO LTD                              0.000     6639550      7974_         5,800.00          790,844.75
+NIPPON KAYAKU  CO. LTD.                      0.000     6640422      4272_       104,300.00          464,393.60
+NIPPON MITSUBISHI                            0.000     6641403      5001_       132,000.00          703,911.24
+NIPPON SANSO CORPORATION                     0.000     6640541      4091_        73,100.00          200,096.84
+NIPPON STEEL CORP                            0.000     6642569      5401_       558,000.00          933,407.99
+NIPPON TEL+TEL CP                            0.000     6641373      9432_           808.00        2,991,245.31
+NISSAN MOTOR CO Y5                           0.000     6642860      7201_       123,000.00          802,279.50

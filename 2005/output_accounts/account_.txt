@@ -1,0 +1,71 @@
+FI        FIXED INCOME                                                        10,717,135,970.73 10,881,226,146.60 11,045,856,578.22
+
+Group Total                                                             0.00 /10,717,135,970.73 10,881,226,146.60 11,045,856,578.22
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+
+HUFF      W.R. HUFF ASSET MANA                                                     3,209,256.04    320,925,604.94    318,918,893.44
+PIMCO     PACIFIC INVESTMENT C                                                     2,212,935.07    221,293,507.38    227,891,678.09
+OAKTREE   OAKTREE CAPITAL MANA                                                     1,636,093.71    163,609,371.86    165,867,291.47
+SALOMON   SALOMON BROS. ASSET                                                      1,946,405.40    194,640,540.92    221,547,151.36
+FIDELITY  FIDELITY INVESTMENTS                                                     2,136,389.33    213,638,933.66    234,864,081.29
+
+Group Total                                                             0.00 /    11,141,079.58  1,114,107,958.76  1,169,089,095.65
+
+
+Group Total - FIXED INCOME                                              0.00 /10,728,277,050.31 11,995,334,105.36 12,214,945,673.87
+
+LCA       LARGE-CAP CORE ANALY                                                    53,434,811.50  1,644,938,326.05  2,037,877,681.30
+LC1       LARGE-CAP GROWTH (F)                                                    78,192,284.00  1,610,265,167.64  2,065,976,896.90
+LCV       LARGE-CAP VALUE (F)                                                     59,101,399.00  1,873,210,170.84  2,178,071,053.43
+MCV       MID-CAP VALUE (F)                                                      101,318,467.60  2,069,448,297.93  2,183,075,383.80
+RMG       MID-CAP GROWTH (F)                                                      56,030,255.36  1,527,669,810.13  1,882,313,372.44
+LCP       LARGE-CAP PASSIVE (Q                                                   246,875,213.00  7,470,414,266.63  9,876,097,057.35
+QN1       QUANTITATIVE 1000 (Q                                                    64,440,538.62  1,913,178,545.47  2,212,760,934.53
+QN2       QUANTITATIVE 2000 (Q                                                    64,150,248.25  1,042,611,196.89  1,254,597,286.85
+1TR       INTERNAL 1000 TRANSI                                                    18,247,340.00    612,564,808.87    701,406,338.29
+2TR       RUSSELL TRANSITION 2                                                     1,567,140.50     23,445,510.92     25,189,648.92
+6TR       S&P600 TRANSITION                                                            9,550.00              0.00            286.50
+
+Group Total                                                             0.00 /   743,367,247.83 19,787,746,101.37 24,417,365,940.31
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+
+5GS       GOLDMAN SACHS - 1000                                                    23,813,731.10    674,977,627.38    806,238,991.97
+5IN       INTECH - 1000                                                           10,324,806.05    289,137,287.89    331,912,301.05
+6CH       CHARTWELL - 2000 VAL                                                     5,209,704.76     68,551,597.70     76,877,417.43
+6DG       DAVID J. GREENE - 20                                                    10,442,315.55     78,165,624.97     81,627,778.07
+6EA       EAGLE ASSET - 2000 C                                                     3,385,414.09     66,472,573.32     77,064,206.98
+6FT       FULLER & THALER - 20                                                     7,880,516.92     51,099,439.37     62,821,788.21
+6FC       FULLER THALER - 2000                                                     8,450,545.01     86,737,594.76    105,924,655.35
+6LC       LORD, ABBETT - 2000                                                     13,307,368.16    170,898,675.57    200,513,315.13
+6LA       LORD, ABBETT - 2000                                                     14,815,986.25    165,703,999.10    201,893,435.62
+6MA       M.A. WEATHERBIE - 20                                                     9,311,352.17    122,363,007.27    153,156,356.35
+6NC       NEXT CENTURY - 2000                                                      3,465,935.13     47,570,067.52     66,521,092.71
+
+Group Total                                                             0.00 /   110,407,675.25  1,821,677,494.85  2,164,551,338.87
+
+
+Group Total - COMMON STOCK                                              0.00 /   853,774,923.09 21,609,423,596.22 26,581,917,279.18
+
+EQS       EQUITY SWAPS                                                                           1,704,124,268.81    1,871,576,642.36
+EQS-E     EMERGING SWAP                                                                             56,778,252.28       60,266,198.96
+EQS-QUAN  QUANTITATIVE SWAP                                                                         29,025,052.30       30,896,059.61
+EQS2      EMERGING ANALYSTS SW                                                                      16,082,842.81       17,686,890.07
+I-ACT     INTERNAL EMERGING                                                                        313,416,049.08      604,992,713.88
+I-ARROW   ARROWSTREET CAPITAL                                                                      979,250,841.85    1,098,062,075.30
+I-BABS    COLONIAL FIRST STATE                                                                     588,101,061.23      809,737,179.50
+I-BERNS   SANFORD BERNSTEIN EA                                                                   1,377,021,744.85    1,889,290,367.88
+I-SANF    BERNSTEIN EMERGING M                                                                     498,600,520.03      809,557,411.64
+I-EAFE    INTERNAL EAFE INDEX                                                                    1,304,401,361.68    2,005,758,472.71
+I-EAFEVAL EAFE VALUE                                                                             1,158,699,126.20    1,625,827,829.64
+I-EAP     EMERGING ANALYST POR                                                                     229,743,259.74      428,778,402.97
+I-GEN     GENESIS                                                                                  477,228,979.17      850,461,144.45
+I-LAZAR   EAFE TRANSITION ACCO                                                                          15,008.24           57,684.97
+I-MARVIN  MARVIN & PALMER_EAFE                                                                   1,143,520,656.78    1,387,413,707.64
+I-MARVEM  MARVIN & PALMER EMER                                                                     407,239,733.50      613,209,561.91
+I-PAN     INTERNAL EAFE TOPDOW                                                                     261,886,039.91      357,309,947.78
+I-QUAN    EAFE QUANTITATIVE PO                                                                     757,353,994.93      953,536,160.94
+
+Group Total                                                 1,777,447,219.55 / 1,116,863,667.99 11,302,488,793.39   15,414,418,452.21
+

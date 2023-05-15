@@ -1,0 +1,25 @@
+ASOF04   Date 01/20/2004 Time 18:58:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 001
+
+Monthly Market Portfolio
+
+Portfolio ID                                                                          Par/Shares      Book Value      Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - INTERNALLY MANAGED
+
+FI        FIXED INCOME                                                         8,276,823,132.90  8,242,174,486.06  8,685,848,499.73
+
+Group Total                                                             0.00 / 8,276,823,132.90  8,242,174,486.06  8,685,848,499.73
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+
+HUFF      W.R. HUFF ASSET MANA                                                     2,785,763.34    278,576,334.21    298,682,419.43
+PIMCO     PACIFIC INVESTMENT C                                                     1,820,034.27    182,003,427.63    199,422,443.81
+OAKTREE   OAKTREE CAPITAL MANA                                                     1,392,406.19    139,240,619.30    147,668,505.55
+SALOMON   SALOMON BROS. ASSET                                                      1,516,123.36    151,612,336.61    175,804,856.32
+FIDELITY  FIDELITY INVESTMENTS                                                     1,627,181.02    162,718,102.61    181,620,327.94
+
+Group Total                                                             0.00 /     9,141,508.20    914,150,820.36  1,003,198,553.05
+
+
+Group Total - FIXED INCOME                                              0.00 / 8,285,964,641.11  9,156,325,306.42  9,689,047,052.78

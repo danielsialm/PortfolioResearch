@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 070
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+KOSAN BIOSCIENCES IN                       0.000 KOSN    50064W107      6.9300        23,423.00        206,344.26        162,321.39
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     12.6000        43,000.00      1,160,572.50        541,800.00
+KRONOS INC.                                0.000 KRON    501052104     51.1300        29,600.00        913,681.47      1,513,448.00
+KRONOS WORLDWIDE INC                       2.454 KRO     50105F105     40.7500            99.65          2,502.80          4,060.74
+KULICKE & SOFFA INDUSTRIES                 0.000 KLIC    501242101      8.6200        17,200.00        132,163.67        148,264.00
+KYPHON INC                                 0.000 KYPH    501577100     25.7600        25,900.00        465,452.92        667,184.00
+LA QUINTA INNS INC                         0.770 LQI     50419U202      9.0900       235,900.00      1,372,866.75      2,144,331.00
+LA-Z-BOY INC.                              2.862 LZB     505336107     15.3700        58,400.00      1,197,728.99        897,608.00
+LABONE INC                                 0.000 LABS    50540L105     32.0400        11,400.00        345,183.42        365,256.00
+LABOR READY INC                            0.000 LRW     505401208     16.9200        46,000.00        321,861.59        778,320.00
+LABRANCHE & CO., INC.                      3.571 LAB     505447102      8.9600        58,800.00        502,130.05        526,848.00
+LACLEDE GROUP HLDG. CO.                    4.366 LG      505597104     31.1500        23,000.00        565,074.85        716,450.00
+LAIDLAW INTERNATIONAL INC                  0.000 LI      50730R102     21.4000       115,400.00      1,526,991.81      2,469,560.00
+LAKELAND BANCORP INC                       2.279 LBAI    511637100     17.5500        19,042.00        311,864.94        334,187.10
+LAKELAND FINL CORP                         2.115 LKFN    511656100     39.7000         6,500.00        211,097.51        258,050.00
+LAKES ENTERTAINMENT INC                    0.000 LACO    51206P109     16.2900        36,100.00        347,442.79        588,069.00
+LANCASTER COLONY CORP                      2.332 LANC    513847103     42.8700        40,700.00      1,524,926.35      1,744,809.00
+LANCE INC                                  3.363 LNCE    514606102Q    19.0300        28,500.00        367,689.75        542,355.00
+LANDAMERICA FINANCIAL GROUP                1.112 LFG     514936103     53.9300        24,100.00      1,002,465.93      1,299,713.00
+LANDAUER INC                               3.719 LDR     51476K103     45.7000        14,100.00        605,607.76        644,370.00
+LANDRY'S RESTAURANTS INC.                  0.688 LNY     51508L103     29.0600        31,200.00        756,667.72        906,672.00
+LANDSTAR SYSTEM INC.                       0.000 LSTR    515098101     73.6400        29,300.00        865,466.65      2,157,652.00
+LANNETT COMPANY                            0.000 LCI     516012101      9.8500         7,700.00         79,647.92         75,845.00
+LASERSCOPE                                 0.000 LSCP    518081104     35.9100         8,800.00        136,927.68        316,008.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      5.7000       125,700.00        906,793.15        716,490.00
+LAWSON PRODUCTS                            1.427 LAWS    520776105Q    50.4300        10,300.00        338,057.29        519,429.00
+LAWSON SOFTWARE                            0.000 LWSN    520780107      6.8700        61,800.00        418,301.42        424,566.00
+LAYNE CHRISTENSEN COMPANY                  0.000 LAYN    521050104     18.1500        10,900.00        181,919.24        197,835.00
+LCA-VISION INC.                            1.368 LCAV    501803308     23.3900        28,650.00        517,811.57        670,123.50
+LEADIS TECHNOLOGY INC                      0.000 LDIS    52171N103     10.6500         6,700.00         78,758.50         71,355.00
+LEAPFROG ENTERPRISES INC                   0.000 LF      52186N106     13.6000        19,600.00        383,871.50        266,560.00
+LECG CORP                                  0.000 XPRT    523234102     18.6500         1,500.00         27,748.63         27,975.00
+LECROY CORP                                0.000 LCRY    52324W109     23.3400         9,100.00        172,625.76        212,394.00
+LENNOX INTERNATIONAL INC.                  1.965 LII     526107107     20.3500        49,200.00        778,887.79      1,001,220.00
+LEVITT CORP-CL A                           0.130 LEV     52742P108     30.5700        25,700.00        614,753.69        785,649.00
+LEXAR MEDIA INC                            0.000 LEXR    52886P104      7.8400        52,600.00        550,815.93        412,384.00
+LEXICON GENETICS INC                       0.000 LEXG    528872104      7.7550        70,410.00        487,285.56        546,029.55
+LIBBEY INC                                 1.801 LBY     529898108     22.2100        15,200.00        446,633.73        337,592.00
+LIBERTY CORP S C                           2.274 LC      530370105     43.9600        17,500.00        762,097.03        769,300.00

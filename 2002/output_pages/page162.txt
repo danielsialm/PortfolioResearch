@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 134
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 600 VA
+Instrument - COM       COMMON STOCK
+
+CIBER INC.                                 0.000 CBR     17163B102      5.1500        16,800.00        163,380.00         86,520.00
+CLAIRE'S STORES INC                        0.725 CLE     179584107     22.0700        23,000.00        530,064.90        507,610.00
+CLEVELAND-CLIFFS INC                       2.015 CLF     185896107Q    19.8500        16,700.00        438,875.80        331,495.00
+COMMERCIAL FEDERAL CORP.                   1.541 CFB     201647104     23.3500        43,200.00      1,070,047.78      1,008,720.00
+COMMUNITY BANK SYSTEM INC                  3.700 CBU     203607106     31.3500         3,500.00        100,454.90        109,725.00
+CONCORD CAMERA CORP                        0.000 LENS    206156101      5.4300        16,700.00         90,654.28         90,681.00
+CONMED CORPORATION                         0.000 CNMD    207410101     19.5900        17,400.00        243,808.53        340,866.00
+CORIXA COPR                                0.000 CRXA    21887F100      6.3900        40,200.00        255,409.80        256,878.00
+CORN PRODUCTS INT'L INC.                   1.327 CPO     219023108     30.1300        32,100.00        914,128.39        967,173.00
+COVENANT TRANSPORT INC CL-A                0.000 CVTI    22284P105     18.9600         3,910.00         71,669.00         74,133.60
+CTS CORP.                                  1.548 CTS     126501105      7.7500        44,500.00        329,968.07        344,875.00
+CURATIVE HEALTH SERVICES INC.              0.000 CURE    231264102     17.2500         9,800.00        138,713.57        169,050.00
+CURTISS-WRIGHT CORP.                       0.940 CW      231561101     63.8200         7,700.00        478,674.13        491,414.00
+DATASCOPE CORP                             0.806 DSCP    238113104     24.8010         6,500.00        150,507.82        161,206.50
+DIGI INTERNATIONAL INC                     0.000 DGII    253798102      2.9100         7,700.00         42,102.35         22,407.00
+DIMON INC.                                 5.000 DMN     254394109      6.0000        35,900.00        237,349.25        215,400.00
+DOMINION HOMES INC                         0.000 DHOM    257386102     14.2500           200.00          3,276.80          2,850.00
+DOWNEY FINANCIAL CORP.                     0.923 DSL     261018105     39.0000        22,300.00      1,026,838.58        869,700.00
+DSP GROUP INC.                             0.000 DSPG    23332B106     15.8200        18,900.00        286,275.04        298,998.00
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     23.2500        19,000.00        543,485.50        441,750.00
+EFUNDS CORP                                0.000 EFDS    28224R101      9.1100        39,011.00        367,761.74        355,390.21
+EMCOR GROUP INC                            0.000 EME     29084Q100     53.0100        17,600.00        996,662.08        932,976.00
+ENERGEN CORP.                              2.474 EGN     29265N108     29.1000        35,200.00        947,901.91      1,024,320.00
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      1.5600       257,500.00        279,807.02        401,700.00
+ESTERLINE TECHNOLOGIES CORP                0.000 ESL     297425100     17.6700        17,800.00        372,880.50        314,526.00
+FIRST AMERICAN CORP.                       1.801 FAF     318522307     22.2000        23,400.00        612,219.10        519,480.00
+FIRST REPUBLIC BANK                        0.000 FRC     336158100     19.9900        21,000.00        463,050.00        419,790.00
+FIRSTFED AMERICA BANCORP INC               2.414 FAB     337929103     24.8500         5,700.00        139,797.00        141,645.00
+FIRSTFED FINANCIAL CORP                    0.000 FED     337907109     28.9500        18,700.00        536,554.12        541,365.00
+FLEETWOOD ENT.                             2.038 FLE     339099103Q     7.8500        94,800.00        677,587.28        744,180.00
+GENCORP INC                                1.515 GY      368682100Q     7.9200        81,500.00        800,178.25        645,480.00
+GRACE W.R. & COMPANY NEW                   0.000 GRA     38388F108      1.9600        48,300.00        118,963.28         94,668.00
+GROUP 1 AUTOMOTIVE                         0.000 GPI     398905109     23.8800         2,300.00         82,036.86         54,924.00
+GUILFORD PHARMACEUTICALS INC               0.000 GLFD    401829106      3.9800        50,925.00        307,750.36        202,681.50
+HAVERTY FURNITURE                          1.654 HVT     419596101     13.9000        25,600.00        340,217.46        355,840.00
+HOLOGIC INC.                               0.000 HOLX    436440101     12.2100         4,009.00         45,778.64         48,949.89
+HUGHES SUPPLY INC.                         1.244 HUG     444482103     27.3200        13,600.00        312,861.93        371,552.00
+HUTCHINSON TECH.                           0.000 HTCH    448407106     20.7000        27,400.00        645,141.42        567,180.00
+IHOP CORP.                                 0.000 IHP     449623107     24.0000         3,000.00         72,870.00         72,000.00

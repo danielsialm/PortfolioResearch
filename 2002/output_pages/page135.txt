@@ -1,0 +1,17 @@
+ASOF02   Date 01/21/2003 Time 18:53:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 107
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5GS       GOLDMAN SACHS - 500
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY OFFICE PROP                         8.006 EOP     294741103     24.9800        54,600.00      1,364,565.44      1,363,908.01
+
+Instrument Total             1                                                        54,600.00      1,364,565.44      1,363,908.01
+
+Portfolio Total            232                                                    17,649,685.46    542,856,208.34    510,091,898.28
+

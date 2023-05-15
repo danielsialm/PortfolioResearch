@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+DENSO CORP Y50                               0.000     6640381      6902_        52,900.00          850,434.53
+DEUTSCHE BANK AG O                           4.147     5750355      DBK_G         7,800.00          458,089.63
+DEUTSCHE POST AG                             4.069     4617859      DPW_G         8,200.00          108,539.35
+DEUTSCHE TELEKOM D                           4.449     5842359      DTE_G        27,900.00          395,397.51
+DEXIA                                        3.515     7147610      DEXB_       210,500.00        2,571,180.60
+DIAGEO ORD GBP 28.                          14.832     0237400      DGE_L       200,383.00        2,049,785.48
+E.ON AG                                      6.742     4942904      EOA_G         8,834.00          434,554.04
+EAST JAPAN RAILWAY                           0.000     6298542      9020_           236.00        1,381,613.34
+EISAI CO JPY50                               0.000     6307200      4523_        15,600.00          385,871.98
+ELECTRABEL ORD NPV                           5.498     4294791      ELEB_        10,500.00        2,145,333.38
+ELSEVIER NV ORD                              3.275     4148810      REN_N        37,276.00          469,736.37
+ENDESA SA                                    5.727     5271782      ELE_S        65,800.00          886,685.71
+ENEL SPA                                    10.165     7144569      ENEL_        54,848.00          278,539.15
+ENI SPA                                      6.297     7145056      ENI_I        58,442.00          840,758.98
+ERSTE BANK DER OESTER SPARK                  2.458     5289837      DESC_        70,900.00        4,589,747.02
+F & P HEALTHCARE                             1.402     6340250      FPH_N         9,650.00           93,549.41
+FANUC JPY50                                  0.000     6356934      6954_         7,600.00          426,152.07
+FLETCHER BUILDING LTD                        2.185     6341606      FBU_N        63,700.00           69,536.20
+FORTIS                                       7.344     7266139      FORB_       325,200.00        6,924,382.79
+FORTUM OYJ                                   4.365     5579550      FUM1V        49,600.00          283,328.08
+FOSTERS BREWING GR                           1.197     6349268      FGL_A       489,829.00        1,272,067.17
+FRANCE TELECOM FRF                           8.810     5176177      FTE_F        28,112.00          657,360.74
+FRASER + NEAVE LTD                           2.587     6521312      FNN_S        27,000.00          119,361.47
+FRONTLINE LTD                                0.000     5561052      FRO_N        26,800.00          197,077.15
+FUJI PHOTO FILM CO                           0.000     6356525      4901_        28,924.00          961,069.28
+FUJITSU NEW JPY50                            0.000     6356945      6702_       104,097.00          879,341.53
+GAS NATURAL SDG-E                            1.888     5650422      GAS_S        15,400.00          278,279.19
+GIVAUDAN                                     0.427     5980613      GIVN_         1,115.00          439,899.62
+GJENSIDIGE NOR SPAREBANK                     0.003     7426212      GNO_N        38,900.00        1,240,644.03
+GKN ORSH 0.5GBP                             14.199     3064650      GKN_L        79,423.00          359,468.45
+GLAXOSMITHKLINE                             56.940     0925288      GSK_L       350,936.00        8,109,148.25
+GPE BRUX LAMBERT                             2.932     7097328      GBL_B        25,439.00        1,236,003.91
+GREAT UNIV STORES                            6.137     0384704      GUS_L        66,504.00          606,117.94
+GROUP DANONE ORD                             2.361     5981810      BN_FP         8,450.00        1,078,025.17
+GRUPO DRAGADOS                               0.971     5687000      DRC_S        12,000.00          214,230.99
+HAGEMEYER NLG2.5                            11.218     5209073      HAGN_           674.00           13,751.32
+HANG SENG BANK HK                            0.097     6408374      11_HK        30,700.00          329,876.44
+HAW PAW CORP LTD S                           1.530     6415523      HPAR_         4,701.00            9,630.65
+HBOS PLC                                    29.733     3058750      HBOS_       187,431.00        2,480,031.65

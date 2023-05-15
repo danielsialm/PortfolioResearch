@@ -1,0 +1,98 @@
+Instrument - COM       COMMON STOCK
+
+24/7 REAL MEDIA INC                        0.000 TFSM    901314203      7.3400       164,300.00        889,249.38      1,205,962.00
+ACTUATE CORPORATION                        0.000 ACTU    00508B102      3.1400       126,600.00        454,439.91        397,524.00
+ALBANY MOLECULAR RESEARCH                  0.000 AMRI    012423109     12.1500        61,400.00        563,491.34        746,010.00
+ALLOY INC                                  0.000 ALOY    019855105      2.8900       143,600.00        360,236.85        415,004.00
+AMERICAN SCIENCE & ENGINEERING             0.000 ASEI    029429107     62.3700        20,900.00        904,021.14      1,303,533.00
+BLUE COAT SYSTEMS INC                      0.000 BCSI    09534T508     45.7200        27,700.00        442,827.20      1,266,444.00
+BRUKER BIOSCIENCES CORP                    0.000 BRKR    116794108      4.8600       156,900.00        735,165.98        762,534.00
+BTU INTERNATIONAL INC                      0.000 BTUI    056032105     12.6099        54,500.00        767,910.11        687,239.55
+BUCA INC.                                  0.000 BUCA    117769109      5.4500       154,100.00        880,606.52        839,845.00
+CALIFORNIA MICRO DEVICES CORP              0.000 CAMD    130439102      6.5100        31,000.00        272,255.35        201,810.01
+CAPTARIS INC.                              0.000 CAPA    14071N104      3.6900       117,200.00        614,539.47        432,468.00
+CASUAL MALE RETAIL GROUP INC               0.000 CMRG    148711104      6.1300       155,500.00        801,849.69        953,215.00
+CELLEGY PHARMACEUTICALS INC                0.000 CLGY    15115L103      0.5600       111,700.00        712,474.47         62,552.00
+CENTILLIUM COMMUNICATIONS INC              0.000 CTLM    152319109      3.5000       203,767.00        595,005.45        713,184.50
+CHARLOTTE RUSSE HOLDING INC                0.000 CHIC    161048103     20.8300        67,200.00        707,423.46      1,399,776.00
+CROWN MEDIA HLDGS IN                       0.000 CRWN    228411104      9.1700        92,700.00        666,154.07        850,059.00
+CUTERA INC                                 0.000 CUTR    232109108     26.3600        48,500.00        853,748.07      1,278,460.00
+CYBERSOURCE CORP                           0.000 CYBS    23251J106      6.6000       117,700.00        823,747.35        776,820.00
+DELIA*S INC                                0.000 DLIA    246911101      8.3000        71,800.00        522,721.29        595,940.00
+DENDREON CORP                              0.000 DNDN    24823Q107      5.4200        92,200.00        550,905.88        499,724.00
+DESIGN WITHIN REACH INC                    0.000 DWRI    250557105      5.3000       114,700.00        689,867.08        607,910.00
+DIAMONDCLUSTER INTERNATIONAL I             0.000 DTPI    25278P106      7.9400        83,033.00        264,224.54        659,282.02
+DISTRIBUTED ENERGY SYSTEMS COR             0.000 DESC    25475V104      7.5600       112,600.00        625,768.58        851,256.00
+EMERSON RADIO CORP                         0.000 MSN     291087203      3.0600       179,800.00        539,400.00        550,188.00
+FREIGHTCAR AMERICA INC                     0.249 RAIL    357023100     48.0800        23,700.00        753,317.08      1,139,496.00
+GENERAL CABLE CORP                         1.015 BGC     369300108     19.7000        61,800.00        172,653.71      1,217,460.00
+GRAY TELEVISION INC                        1.222 GTN     389375106      9.8200        96,000.00        878,243.79        942,720.00
+GTX INC.                                   0.000 GTXI    40052B108      7.5600        70,000.00        880,269.99        529,200.00
+HAYES LEMMERZ INTERNATIONAL IN             0.000 HAYZ    420781304      3.5200        78,800.00        463,018.95        277,376.00
+HOUSEVALUES INC                            0.000 SOLD    44183Y102     13.0300        47,300.00        633,963.77        616,319.00
+HURCO COMPANIES INC                        0.000 HURC    447324104     30.8200        33,300.00        904,074.53      1,026,306.00
+IBASIS INC                                 0.000 IBAS    450732102      1.8300       153,600.00        325,632.00        281,088.00
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     39.2100        26,600.00        863,837.66      1,042,986.00
+INTEVAC INC                                0.000 IVAC    461148108     13.2000        63,164.00        882,724.25        833,764.80
+J. JILL GROUP INC                          0.000 JILL    466189107     19.0300        47,500.00        858,293.08        903,925.00
+JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108     17.0100        52,900.00        884,325.39        899,829.00
+LADISH INC                                 0.000 LDSH    505754200     22.3500        39,400.00        613,456.45        880,590.00
+LIFECORE BIOMEDICAL                        0.000 LCBM    532187101     16.2300        51,700.00        758,400.91        839,091.00
+LOJACK CORP                                0.000 LOJN    539451104     24.1300        38,500.00        817,230.11        929,005.00
+
+Instrument - COM       COMMON STOCK
+
+MADDEN STEVEN LTD                          0.000 SHOO    556269108     29.2300        39,500.00        860,612.05      1,154,585.00
+MANUGISTICS GROUP INC.                     0.000 MANU    565011103      1.7500       247,300.00        490,855.64        432,775.00
+MCF CORP                                   0.000 MEM     580395101      1.0500       152,400.00        249,058.76        160,020.00
+MDU COMMUNICATIONS INC                     0.000 MDTV    582828109      1.4700       224,500.00        556,760.00        330,015.00
+MERIDIAN BIOSCIENCE INC                    1.588 VIVO    589584101     20.1400        49,350.00        813,604.31        993,909.00
+MESA AIR GROUP INC                         0.000 MESA    590479101     10.4600        98,400.00        813,920.72      1,029,264.00
+MONOLITHIC POWER SYSTEMS INC               0.000 MPWRE   609839105     14.9900        67,000.00        851,223.91      1,004,330.00
+MULTIMEDIA GAMES, INC.                     0.000 MGAM    625453105      9.2500        85,900.00        693,461.50        794,575.00
+NAPSTER INC                                0.000 NAPS    630797108      3.5200       179,900.00        666,299.84        633,248.00
+NATUS MEDICAL INC                          0.000 BABY    639050103     16.1400        55,800.00        316,299.24        900,612.00
+NEOSE TECHNOLOGIES I                       0.000 NTEC    640522108      1.9300       125,900.00        807,019.00        242,987.00
+NEOWARE SYSTEMS INC                        0.000 NWRE    64065P102     23.3000        58,300.00        780,403.23      1,358,390.00
+OMNICELL INC                               0.000 OMCL    68213N109     11.9500       114,000.00        837,749.50      1,362,300.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108     10.9100        68,500.00        583,043.38        747,335.00
+ORASURE TECHNOLOGIES                       0.000 OSUR    68554V108      8.8200        82,100.00        690,497.93        724,122.00
+PETROQUEST ENERGY INC                      0.000 PQ      716748108      8.2800        87,000.00        755,886.81        720,360.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     32.2600        29,400.00        380,489.62        948,444.00
+PRIME MONEY MARKET - 6FT                   0.000 IT-FUL  IT-FUL         1.0000        44,628.92         44,628.90         44,628.91
+RACKABLE SYSTEMS INC                       0.000 RACK    750077109     28.4800        52,300.00        871,759.16      1,489,504.00
+RADYNE COMSTREAM INC                       0.000 RADN    750611402     14.5700        86,700.00        823,268.52      1,263,219.00
+REDBACK NETWORKS                           0.000 RBAK    757209507     14.0600       114,200.00        475,229.36      1,605,652.00
+REWARDS NETWORK INC                        0.000 IRN     761557107      6.4000        92,700.00        494,159.99        593,280.00
+RITA MED SYS INC DEL                       0.000 RITA    76774E103      3.9100       150,800.00        465,297.54        589,628.00
+SABA SOFTWARE INC                          0.000 SABA    784932600      4.0800       140,724.00        539,584.39        574,153.92
+SAFEGUARD SCIENTIFIC                       0.000 SFE     786449108      1.9300       274,700.00        352,099.93        530,171.00
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107      7.9000       142,300.00        950,986.40      1,124,170.00
+SELECTICA INC                              0.000 SLTC    816288104      2.8500       105,850.00        333,697.68        301,672.50
+SHARPER IMAGE CORP                         0.000 SHRP    820013100      9.7400        58,400.00        812,727.23        568,816.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      5.7500        49,800.00         67,401.23        286,350.00
+STAMPS COM INC                             0.000 STMP    852857200     22.9600        36,300.00        699,081.49        833,448.00
+SUPERTEX INC                               0.000 SUPX    868532102     44.2500        34,800.00        866,524.04      1,539,900.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103     13.3700        81,100.00        685,689.17      1,084,307.00
+TALK AMERICA HOLDINGS INC                  0.000 TALK    87426R202      8.6300        87,700.00        728,139.04        756,851.00
+THE SPORTSMAN'S GUIDE INC                  0.000 SGDE    848907200     23.8500        36,500.00        803,271.19        870,525.00
+TOPPS INC                                  2.153 TOPP    890786106      7.4300        39,000.00        288,749.90        289,770.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      1.8300       383,500.00        493,145.56        701,805.00
+UNIFI INC                                  0.000 UFI     904677101      3.0400       208,500.00        657,292.29        633,840.00
+VALUEVISION MEDIA INC                      0.000 VVTV    92047K107     12.6000        75,400.00        683,901.78        950,040.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104     23.6200        50,500.00        493,065.12      1,192,810.00
+WATCHGUARD TECHNOLOGIES INC                0.000 WGRD    941105108      3.7000       136,200.00        665,351.37        503,940.00
+
+
+Instrument - COM       COMMON STOCK
+
+Instrument Total            79                                                     7,641,516.92     50,369,711.57     62,281,648.21
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ECC CAPITAL CORP                          31.858 ECR     26826M108      2.2600       239,000.00        729,727.80        540,140.00
+
+Instrument Total             1                                                       239,000.00        729,727.80        540,140.00
+
+Portfolio Total             80                                                     7,880,516.92     51,099,439.37     62,821,788.21
+

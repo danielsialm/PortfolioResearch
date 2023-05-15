@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:23   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 036
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+PNC FINANCIAL SERVICES GROUP                 4.582     693475105 Q PNC            578,044       29,342,094.38       24,220,043.60
+POGO PRODUCING CO                            0.322     730448107   PPP             67,700        2,116,190.38        2,521,825.00
+POLARIS INDUSTRIES INC.                      1.911     731068102   PII             42,009        1,950,642.81        2,461,727.40
+POLYCOM INC.                                 0.000     73172K104   PLCM           235,600        5,243,100.65        2,242,912.00
+POLYMEDICA CORP                              0.000     731738100   PLMD            43,130        1,225,665.75        1,330,129.20
+POLYONE CORPORATION                          6.377     73179P106   POL            123,100        1,313,804.46          482,552.01
+POMEROY COMPUTER RESOURCES                   0.000     731822102   PMRY             2,900           34,724.02           33,930.00
+POPE & TALBOT INC                            4.207     732827100   POP             14,500          226,332.31          206,770.00
+POTLATCH CORP.                               2.512     737628107 Q PCH              4,200          174,758.99          100,296.00
+POWER INTEGRATIONS INC                       0.000     739276103   POWI            41,610          776,420.84          707,370.00
+POWER ONE INC.                               0.000     739308104   PWER            53,713        3,321,793.95          304,552.71
+POWERWAVE TECHNOLOGIES                       0.000     739363109   PWAV           183,700        1,287,055.48          991,980.00
+PPG INDUSTRIES INC.                          3.429     693506107 Q PPG            319,175       16,449,213.17       16,006,626.25
+PPL CORPORATION                              4.152     69351T106 Q PPL            304,061        8,607,401.15       10,544,835.48
+PRAXAIR INC.                                 1.315     74005P104 Q PX             334,169       15,250,936.20       19,304,943.13
+PRE-PAID LEGAL SVCS                          0.000     740065107   PPD             22,500          509,068.75          589,500.00
+PRECISION CASTPARTS CORP                     0.494     740189105   PCP            150,900        4,099,836.88        3,659,325.00
+PRESIDENTIAL LIFE                            4.028     740884101   PLFE            31,800          643,936.64          315,774.00
+PRG-SCHULTZ INTL INC                         0.000     69357C107   PRGX            69,900        1,409,691.71          622,110.00
+PRICE COMMUNICATIONS CORP                    0.000     741437305   PR               8,000          168,063.42          110,640.00
+PRIDE INTERNATIONAL INC.                     0.000     74153Q102   PDE            449,630        7,980,660.62        6,699,487.00
+PRIMA ENERGY CORP                            0.000     741901201   PENG            13,900          308,366.98          310,804.00
+PRIME HOSPITALITY CORP                       0.000     741917108   PDQ             74,100          995,559.81          603,915.00
+PRIME MEDICAL SVCS INC                       0.000     74156D108   PMSI            27,100          144,965.10          234,957.00
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-JAC      IT-JA          578,223          578,223.27          578,223.26
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-PIM      IT-PI        2,035,622        2,035,622.63        2,035,622.71
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-LOR      IT-LO        3,604,371        3,604,371.44        3,604,371.31
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-DUN      IT-DU          623,365          623,365.83          623,365.73
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-DAV      IT-DA          587,890          587,890.84          587,890.88
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-FUL      IT-FU          470,399          470,399.30          470,399.33
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-NEX      IT-NE          544,824          544,824.84          544,824.83
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-GOL      IT-GO        1,086,600        1,086,600.46        1,086,600.46
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-INT      IT-IN        1,230,538        1,230,539.02        1,230,538.99
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-JAC4     IT-JA          453,988          453,988.33          453,988.33
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-JAC5     IT-JA        9,331,452        9,331,452.89        9,331,452.87
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-BAR      IT-BA        2,433,440        2,433,440.42        2,433,440.30
+PRIME MONEY MARKET ACCOUNT                   0.000     IT-MAW      IT-MA          800,541          800,541.51          800,541.47
+PRINCIPAL FINANCIAL GROUP                    0.829     74251V102   PFG            487,257       13,637,818.31       14,681,053.41
+PRIORITY HEALTHCARE CORPORATION              0.000     74264T102   PHCC            67,600        1,394,206.57        1,568,320.00
+PROCTER & GAMBLE CO                          1.908     742718109 Q PG           2,758,017      163,514,158.33      237,023,980.97

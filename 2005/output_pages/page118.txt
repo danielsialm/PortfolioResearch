@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 085
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+ALEXANDRIA REAL ESTATE                     3.478 ARE     015271109     80.5000        23,600.00      1,305,117.61      1,899,800.00
+AMERICAN CAMPUS COMMUNITIES IN             5.443 ACC     024835100     24.8000        14,600.00        323,989.78        362,080.00
+AMLI RESIDENTIAL PROP                      5.046 AML     001735109     38.0500        13,000.00        377,900.22        494,650.00
+ARBOR REALTY TRUST INC                    10.802 ABR     038923108     25.9200        25,000.00        617,021.82        648,000.00
+BIOMED REALTY TRUST                        4.426 BMR     09063H107     24.4000        44,000.00        958,522.10      1,073,600.00
+BOYKIN LODGING CO                          5.892 BOY     103430104     12.2200        44,900.00        592,033.14        548,678.00
+BRANDYWINE REALTY                          0.286 BDN     105368203     27.9100        56,400.00      1,540,092.49      1,574,124.00
+CAPITAL TRUST-CL A                         8.196 CT      14052H506     29.2800        21,200.00        603,044.36        620,736.00
+CEDAR SHOPPING CENTERS INC                 6.396 CDR     150602209     14.0700        22,500.00        321,545.06        316,575.00
+CENTRACORE PROPERTIES TRUST                6.698 CPV     15235H107     26.8700        21,200.00        608,367.10        569,644.00
+COLONIAL PROPERTIES                        6.431 CLP     195872106     41.9800        47,124.00      1,852,593.99      1,978,265.52
+COLUMBIA EQUITY TRUST INC                  3.467 COE     197627102     16.1500        12,200.00        178,364.00        197,030.00
+COMMERCIAL NET LEASE RE                    6.381 NNN     202218103     20.3700        55,000.00      1,012,937.04      1,120,350.00
+CORPORATE OFFICE PROPERTY                  3.151 OFC     22002T108     35.5400        32,600.00        728,978.08      1,158,604.00
+COUSINS PROPERTIES INC                     5.229 CUZ     222795106     28.3000        52,600.00      1,642,549.03      1,488,580.00
+DEERFIELD TRIARC CAPITAL CORP             10.219 DFR     244572301     13.7000        26,400.00        366,432.00        361,680.00
+DIAMONDROCK HOSPITALITY                    5.769 DRH     252784301     11.9600        46,400.00        552,141.52        554,944.00
+DIGITAL REALTY TRUST INC                   4.684 DLR     253868103     22.6300        29,900.00        540,212.04        676,637.00
+EASTGROUP PROPERTY INC                     3.281 EGP     277276101     45.1600        23,200.00        773,833.04      1,047,712.00
+EDUCATION REALTY TRUST INC                 9.309 EDR     28140H104     12.8900        19,200.00        321,733.47        247,488.00
+ENTERTAINMENT PPTYS                        6.135 EPR     29380T105     40.7500        27,000.00        962,857.05      1,100,250.00
+EQUITY INNS INC                            5.018 ENN     294703103     13.5500        56,900.00        571,279.75        770,995.00
+EQUITY LIFESTYLE PROPERTIES IN             0.224 ELS     29472R108     44.5000         9,700.00        347,289.80        431,650.00
+EQUITY ONE INC                             5.190 EQY     294752100     23.1200        39,000.00        754,818.66        901,680.00
+EXTRA SPACE STORAGE INC                    5.909 EXR     30225T102     15.4000        39,500.00        568,411.77        608,300.00
+FELCOR LODGING TRUST                       3.486 FCH     31430F101     17.2100        52,900.00        559,386.86        910,409.00
+FIELDSTONE INVESTMENT CORP                17.537 FICC    31659U300     11.8600        80,700.00      1,180,150.29        957,102.00
+FIRST INDUSTRIAL RE                        1.337 FR      32054K103     38.5000        34,200.00      1,100,593.99      1,316,700.00
+FIRST POTOMAC REALTY TRUST                 1.804 FPO     33610F109     26.6000         3,300.00         83,688.00         87,780.00
+GETTY RLTY CORP                            6.770 GTY     374297109     26.2900        28,100.00        719,332.37        738,749.00
+GLENBOROUGH REALTY                         7.734 GLB     37803P105     18.1000        29,900.00        587,087.45        541,190.00
+GLIMCHER REALTY TRUST                      2.158 GRT     379302102Q    24.3200        20,100.00        463,148.76        488,832.00
+GMH COMMUNITIES TRUST                      5.867 GCT     36188G102     15.5100        41,800.00        596,995.91        648,318.00
+GOVERNMENT PROPERTIES TRUST IN             6.430 GPT     38374W107      9.3300        21,800.00        211,919.93        203,394.00
+HERITAGE PROPERTY INV TRUST                6.287 HTG     42725M107     33.4000        29,000.00        843,935.47        968,600.00
+HIGHWOODS PROP INC.                        2.309 HIW     431284108Q    28.4500        56,700.00      1,347,156.77      1,613,115.00
+HOME PROPERTIES OF NY INC.                 2.696 HME     437306103     40.8000        22,000.00        829,338.75        897,600.00
+HOMEBANC CORP                             14.973 HMB     43738R109      7.4800        59,500.00        556,070.91        445,060.00
+IMPAC MTG HLDGS INC                        8.501 IMH     45254P102      9.4100       106,400.00      1,968,326.24      1,001,224.00

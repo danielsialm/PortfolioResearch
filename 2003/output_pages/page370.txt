@@ -1,0 +1,33 @@
+ASOF11   Date 01/20/2004 Time 18:59:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+UPM-KYMMENE CORP F                         101.148     5051252      UPM1V       133,960.00        1,812,224.32
+VA TECHNOLOGIE AG                            2.462     4921635      VATC_        18,900.00        1,068,056.72
+VESTAS WIND SYSTEMS A/S                      0.132     5964651      VWS_D        20,000.00          619,920.48
+VIVENDI UNIVERSAL EUR                        6.544     4834777      EX_FP        11,615.00          481,942.91
+VODAFONE GROUP                             252.487     0719210      VOD_L     2,350,520.00        7,997,857.34
+WIENERBERGER BAUST                           3.929     5699373      WIE_A       137,300.00        2,946,133.26
+ZURICH FINANCIAL SERVICES CHF10              0.454     5983816      ZURN_         3,287.00        1,579,272.57
+
+Instrument Total             124                                             20,720,679.99      267,698,916.72
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+PANAGORA - LQR                               0.000     IL-PAN                    23,098.79        2,309,879.37
+
+Instrument Total               1                                                 23,098.79        2,309,879.37
+
+Portfolio Total              125                                             20,743,778.79      270,008,796.09        275,562,433.45
+
+Group Total                1,035                                          9,146,297,180.02    9,154,671,578.38     11,465,956,668.05
+
+
+Grand Total                9,206                                         44,032,933,567.03   44,911,359,651.24     52,845,202,810.39

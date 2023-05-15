@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:18   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 054
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+DRIL-QUIP INC                              0.000 DRQ     262037104     47.2000         7,500.00        140,412.07        354,000.00
+DRS TECHNOLOGIES INC                       0.233 DRS     23330X100     51.4200        28,812.00        966,629.06      1,481,513.04
+DSP GROUP INC.                             0.000 DSPG    23332B106     25.0600        40,900.00        881,780.06      1,024,954.00
+DSW INC-CLASS A                            0.000 DSW     23334L102     26.2200        12,100.00        256,762.00        317,262.00
+DTS INC                                    0.000 DTSI    23335C101     14.8000        15,200.00        264,779.86        224,960.00
+DUQUESNE LIGHT HOLDINGS INC                6.127 DQE     266233105Q    16.3200        82,100.00      1,586,759.40      1,339,872.00
+DUSA PHARMACEUTICALS INC                   0.000 DUSA    266898105     10.7700        17,800.00        163,219.81        191,706.00
+DYCOM INDUSTRIES INC.                      0.000 DY      267475101     22.0000        46,700.00        601,693.93      1,027,400.00
+DYNAMEX INC                                0.000 DDMX    26784F103     19.0600        12,200.00        208,947.06        232,532.00
+EAGLE MATERIALS INC                        0.980 EXP     26969P108    122.3600        22,237.00      1,196,936.74      2,720,919.32
+EARTHLINK INC                              0.000 ELNK    270321102     11.1100       156,960.00      1,353,366.25      1,743,825.60
+ECHELON CORP                               0.000 ELON    27874N105      7.8300        71,500.00        767,680.01        559,845.00
+ECLIPSYS CORP                              0.000 ECLP    278856109     18.9300        40,423.00        528,229.41        765,207.39
+ECOLLEGE.COM INC                           0.000 ECLG    27887E100     18.0300        39,900.00        500,453.73        719,397.00
+EDGE PETROLEUM CORP                        0.000 EPEX    279862106     24.9100        18,100.00        291,773.57        450,871.00
+EDO CORP                                   0.443 EDO     281347104     27.0600        14,000.00        378,573.68        378,840.00
+EDUCATE INC                                0.000 EEEE    28138P100     11.8000        16,100.00        242,575.47        189,980.00
+EFUNDS CORP                                0.000 EFD     28224R101     23.4400        47,700.00        840,609.81      1,118,088.00
+EGL, INC.                                  0.000 EAGL    268484102     37.5700        17,300.00        410,227.16        649,961.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     21.0400        50,300.00        691,662.85      1,058,312.00
+ELECTRO RENT CORP                          0.000 ELRC    285218103     14.9100        18,900.00        240,000.17        281,799.00
+ELECTRO SCIENTIFIC INDS INC.               0.000 ESIO    285229100     24.1500        30,126.00        602,360.15        727,542.90
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.6100        57,100.00      1,259,530.84      1,519,431.00
+ELIZABETH ARDEN INC                        0.000 RDEN    28660G106     20.0600         6,600.00        136,890.37        132,396.00
+ELKCORP                                    0.594 ELK     287456107     33.6600        21,200.00        612,958.73        713,592.00
+EMAGEON INC                                0.000 EMAG    29076V109     15.9000        12,600.00        170,393.89        200,340.00
+EMC INS GROUP INC                          3.209 EMCI    268664109     19.9400         6,700.00        120,868.00        133,598.00
+EMCOR GROUP INC                            0.000 EME     29084Q100     67.5300        22,000.00        956,306.81      1,485,660.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     19.9100        30,002.00        657,943.50        597,339.82
+EMPIRE DIST ELEC CO                        6.296 EDE     291641108     20.3300        27,200.00        594,980.45        552,976.00
+EMULEX CORP                                0.000 ELX     292475209     19.7900       101,300.00      2,090,783.68      2,004,727.00
+ENCORE ACQUISITION CO                      0.000 EAC     29255W100     32.0400        51,950.00      1,080,826.38      1,664,478.00
+ENCORE CAPITAL GROUP INC                   0.000 ECPG    292554102     17.3500        15,500.00        280,093.41        268,925.00
+ENCORE WIRE CORP                           0.000 WIRE    292562105     22.7600        16,850.00        215,721.95        383,506.00
+ENCYSIVE PHARMACEUTICALS INC               0.000 ENCY    29256X107      7.8900        21,437.00        201,293.47        169,137.93
+ENERGY CONVERSION DE                       0.000 ENER    292659109     40.7500        21,300.00        440,554.77        867,975.00
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     21.7900        35,250.00        532,280.49        768,097.50
+ENERGYSOUTH INC                            3.211 ENSI    292970100     26.7800         7,150.00        163,087.57        191,477.00
+ENERSYS                                    0.000 ENS     29275Y102     13.0400        48,500.00        629,765.25        632,440.00

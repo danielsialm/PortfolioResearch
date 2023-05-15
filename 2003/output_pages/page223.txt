@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:14   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 193
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6CO       COMPLETION FUND
+Instrument - COM       COMMON STOCK
+
+AAR CORPORATION                            0.668 AIR     000361105Q    14.9500        24,795.00        258,828.66        370,685.25
+ADVANTA CORP                               2.374 ADVNB   007942204     12.7200        20,231.00        262,884.64        257,338.32
+ALLEGHENY ENERGY INC.                     13.479 AYE     017361106Q    12.7600        24,127.00        259,744.04        307,860.52
+ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100      7.1100        31,211.00        251,940.71        221,910.21
+ALLMERICA FINANCIAL CORP.                  0.812 AFC     019754100     30.7700         9,483.00        259,739.37        291,791.91
+AMERICAN HOME MTG HL                       9.773 AHH     02660R107     22.5100        17,782.53        424,121.74        400,284.75
+AMERICAN MED SEC GRO                       0.000 AMZ     02744P101     22.4200        11,532.00        257,040.84        258,547.44
+AMERICAN PHYSICIANS                        0.000 ACAP    028884104     18.4000        15,719.00        264,388.98        289,229.60
+AMERICAN REALTY INVESTORS INC              0.000 ARL     029174109      9.1300         2,500.00         26,727.37         22,825.00
+AMERON INTERNATIONAL CORP                  2.306 AMN     030710107     34.6900         8,000.00        266,614.00        277,520.00
+AMERUS GROUP CO                            1.143 AMH     03072M108     34.9700         7,214.00        264,322.40        252,273.58
+ANAREN MICROWAVE INC                       0.000 ANEN    032744104     14.1200        17,291.00        257,227.88        244,148.92
+APPLICA                                    0.000 APN     03815A106      7.6000        35,529.00        259,460.17        270,020.40
+AQUILA INC                                20.649 ILA     03840P102      3.3900        73,200.00        249,988.98        248,148.00
+ARENA PHARMACEUTICALS INC                  0.000 ARNA    040047102      6.2000        36,657.00        282,570.61        227,273.40
+ARGONAUT GROUP INC                         0.000 AGII    040157109     15.5400        16,210.00        263,419.32        251,903.40
+ASIAINFO HLDGS INC                         0.000 ASIA    04518A104      6.6800        34,300.00        238,607.52        229,124.00
+ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105      9.9000        23,578.00        267,020.85        233,422.20
+AUDIOVOX CORP                              0.000 VOXX    050757103     12.8400        18,565.00        283,629.10        238,374.60
+BALLY TOTAL FITNESS HLDGS                  0.000 BFT     05873K108      7.0000        37,051.00        252,690.79        259,357.00
+BANCFIRST CORP                             1.703 BANF    05945F103     58.7020         4,608.00        266,641.26        270,498.82
+BANK MUT CORP                              1.229 BKMU    063750103     11.3900        22,475.00        264,989.24        255,990.25
+BEAZER HOMES USA INC                       0.409 BZH     07556Q105     97.6600         2,431.00        264,657.62        237,411.46
+BENCHMARK ELECTRONICS INC                  0.000 BHE     08160H101     34.8100         7,061.00        267,538.47        245,793.41
+BRUSH ENGINEERED MATERIALS                 3.135 BW      117421107     15.3100        19,240.00        268,590.36        294,564.40
+BRYN MAWR BK CORP                          1.633 BMTC    117665109     24.4900        10,807.00        262,205.92        264,663.43
+CABLE DESIGN TECHNOLOGIES                  0.000 CDT     126924109      8.9900        25,528.00        262,217.54        229,496.72
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     13.9100        22,500.00        260,808.86        312,975.00
+CHESAPEAKE CORP                            3.323 CSK     165159104     26.4800        11,277.00        265,655.61        298,614.96
+CHIQUITA BRANDS                            0.000 CQB     170032809Q    22.5300        12,240.00        263,468.07        275,767.20
+COMPUTER HORIZONS CO                       0.000 CHRZ    205908106      3.9300        69,720.00        258,864.67        273,999.60
+CROWN MEDIA HLDGS IN                       0.000 CRWN    228411104      8.2700             7.99             67.48             66.16
+CSS INDS INC                               1.031 CSS     125906107     31.0100        10,100.00        256,571.93        313,201.00
+DEPARTMENT 56 INC                          0.000 DFS     249509100     13.1000        18,355.00        259,616.17        240,450.50
+DOMINION HOMES INC                         0.000 DHOM    257386102     30.3300         8,546.00        283,531.08        259,200.18
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     24.1400        11,200.00        260,961.12        270,368.00
+ELECTRO RENT CORP                          0.000 ELRC    285218103     13.3400        20,600.00        283,629.40        274,804.00
+ENPRO INDUSTRIES INC                       0.000 NPO     29355X107     13.9500        26,172.00        277,844.46        365,099.40
+ESB FINANCIAL CORP                         2.440 ESBF    26884F102     16.3900         4,664.00         71,058.05         76,442.96

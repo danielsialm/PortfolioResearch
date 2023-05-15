@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 155
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+GREAT AMERN FINL RES                       0.575 GFR     389915109     17.3700        34,000.00        549,348.24        590,580.00
+GRIFFON CORPORATION                        0.000 GFF     398433102     27.0000        19,000.00        339,497.95        513,000.00
+GUILFORD PHARMACEUTICALS INC               0.000 GLFD    401829106      4.9500        88,275.00        491,940.80        436,961.25
+GUITAR CENTER INC                          0.000 GTRC    402040109     52.6900        14,900.00        664,167.50        785,081.00
+HEALTH NET                                 0.000 HNT     42222G108     28.8700        18,100.00        437,429.34        522,547.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q    14.8500        34,700.00        411,991.65        515,295.00
+HUDSON HIGHLAND GROUP INC                  0.000 HHGP    443792106     28.8000        21,100.00        552,645.13        607,680.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     46.6200        18,700.00        720,857.06        871,794.00
+IMPERIAL SUGAR COMPANY                     1.049 IPSU    453096208     19.0500        19,700.00        269,941.20        375,285.00
+INFORMATICA CORP.                          0.000 INFA    45666Q102      8.1200        75,100.00        576,159.57        609,812.00
+INFOSPACE INC                              0.000 INSP    45678T201     47.5500        26,000.00        759,277.04      1,236,300.00
+INTEGRATED ALARM SERVICES GROU             0.000 IASG    45890M109      5.4700        69,600.00        367,153.51        380,712.00
+INTERFACE INC                              0.601 IFSIA   458665106      9.9700        63,300.00        365,998.84        631,101.00
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     23.2500        22,200.00        409,657.94        516,150.00
+INTUITIVE SURGICAL INC                     0.000 ISRG    46120E602     40.0200        32,100.00        719,829.68      1,284,642.00
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     20.0000        30,800.00        504,131.08        616,000.00
+JACK IN THE BOX INC.                       0.000 JBX     466367109     36.8700        31,000.00        864,695.72      1,142,970.00
+JACUZZI BRANDS INC                         0.000 JJZ     469865109      8.7000        45,700.00        293,045.09        397,590.00
+KBNT BANCORP INC                           1.183 KNBT    482921103     16.9000        24,200.00        411,207.45        408,980.00
+KNIGHT TRADING GROUP                       0.000 NITE    499063105     10.9500        46,000.00        511,404.46        503,700.00
+KOS PHARMACEUTICALS                        0.000 KOSP    500648100     37.6400        17,100.00        609,338.31        643,644.00
+KYPHON INC                                 0.000 KYPH    501577100     25.7600        34,400.00        954,762.58        886,144.00
+LA-Z-BOY INC.                              2.862 LZB     505336107     15.3700        33,700.00        606,714.24        517,969.00
+LAM RESEARCH CORP                          0.000 LRCX    512807108     28.9100        34,400.00        796,667.02        994,504.00
+LANDRY'S RESTAURANTS INC.                  0.688 LNY     51508L103     29.0600        24,600.00        762,542.09        714,876.00
+LONGVIEW FIBRE CO                          0.441 LFB     543213102     18.1400        64,800.00        651,940.59      1,175,472.00
+MACROMEDIA INC                             0.000 MACR    556100105     31.1200        36,000.00        849,286.44      1,120,320.00
+MARVEL ENTERPRISES I                       0.000 MVL     57383M108     20.4800        37,300.00        550,634.88        763,904.00
+MAYTAG COMPANY                             3.412 MYG     578592107Q    21.1000        31,200.00        542,827.40        658,320.00
+MCDERMOTT INTERNATIONAL                    0.000 MDR     580037109Q    18.3600        45,000.00        331,312.47        826,200.00
+MERCANTILE BANK CORP                       1.012 MBWM    587376104     39.5000         8,315.00        287,380.27        328,442.50
+METALS USA INC                             0.000 MUSA    591324207     18.5500        38,800.00        540,290.98        719,740.00
+MGI PHARMA INC                             0.000 MOGN    552880106     28.0100        30,300.00        821,357.50        848,703.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     78.0600        10,200.00        624,886.25        796,212.00
+MICROSTRATEGY INC-CL A                     0.000 MSTR    594972408     60.2500         9,900.00        590,483.49        596,475.00
+MIDWEST BANC HOLDING                       2.194 MBHI    598251106     21.8700        13,400.00        318,021.56        293,058.00
+NEOSE TECHNOLOGIES I                       0.000 NTEC    640522108      6.7200        29,900.00        213,526.17        200,928.00
+NETIQ CORP                                 0.000 NTIQ    64115P102     12.2100        42,500.00        496,991.14        518,925.00
+NEWALLIANCE BANCSHARES INC                 1.045 NAL     650203102     15.3000        57,300.00        791,116.45        876,690.00

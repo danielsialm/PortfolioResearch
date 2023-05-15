@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 068
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     23.2500        42,600.00        628,153.95        990,450.00
+INTERVIDEO INC                             0.000 IVII    46114Y101     13.2300        24,900.00        283,891.22        329,427.00
+INTERVOICE INC.                            0.000 INTV    461142101     13.3500        20,000.00        202,267.40        267,000.00
+INTERWOVEN INC                             0.000 IWOV    46114T508     10.8800        44,875.00        434,517.90        488,240.00
+INTRALASE CORP                             0.000 ILSE    461169104     23.4800         8,500.00        155,738.01        199,580.00
+INTUITIVE SURGICAL INC                     0.000 ISRG    46120E602     40.0200        37,277.00        715,703.97      1,491,825.54
+INVACARE CORP.                             0.108 IVC     461203101     46.2600        33,100.00      1,060,772.36      1,531,206.00
+INVERNESS MED INNOVA                       0.000 IMA     46126P106     25.1000        14,900.00        240,012.03        373,990.00
+INVESTMENT TECHNOLOGY GROUP IN             0.000 ITG     46145F105     20.0000        33,900.00        546,809.46        678,000.00
+IOMEGA CORP.                               0.000 IOM     462030305      5.5400        57,300.00        520,515.54        317,442.00
+IONICS INC                                 0.000 ION     462218108     43.3400        20,500.00        610,741.88        888,470.00
+IOWA TELECOMMUNICATIONS SERVIC             3.245 IWA     462594201     21.5700        21,200.00        439,325.00        457,284.00
+IPASS INC                                  0.000 IPAS    46261V108      7.4000        11,400.00         85,636.36         84,360.00
+IPAYMENT INC                               0.000 IPMT    46262E105     49.5200        11,700.00        481,159.99        579,384.00
+IRWIN FINANCIAL CORP                       1.127 IFC     464119106     28.3900        27,300.00        658,157.65        775,047.00
+ISIS PHARMACEUTICALS INC                   0.000 ISIS    464330109      5.9000        12,700.00         69,078.56         74,930.00
+ISLE OF CAPRI CASINOS                      0.000 ISLE    464592104     25.6500         3,600.00         65,098.50         92,340.00
+ISOLAGEN INC                               0.000 ILE     46488N103      7.8700        24,600.00        228,587.54        193,602.00
+ITC DELTACOM INC                           0.000 ITCD    45031T401      1.7100        13,900.00         81,980.08         23,769.00
+ITLA CAPITAL CORPORATION                   0.000 ITLA    450565106     58.7900        10,000.00        447,033.43        587,900.00
+ITRON INC.                                 0.000 ITRI    465741106     23.9100        10,436.00        237,000.06        249,524.76
+IVAX DIAGNOSTICS INC                       0.000 IVD     45070W109      4.3500         7,500.00         51,439.47         32,625.00
+IVILLAGE INC                               0.000 IVIL    46588H105      6.1800        34,900.00        181,631.84        215,682.00
+IXIA                                       0.000 XXIA    45071R109     16.8100         6,200.00         53,806.73        104,222.00
+IXYS CORP                                  0.000 SYXI    46600W106     10.3200        20,900.00        170,695.73        215,688.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     49.0300         6,700.00        155,118.91        328,501.00
+J. JILL GROUP INC                          0.000 JILL    466189107     14.8900        19,700.00        442,849.45        293,333.00
+J2 GLOBAL COMMUNICAT                       0.000 JCOM    46626E205     34.5000        20,900.00        518,742.73        721,050.00
+JACK IN THE BOX INC.                       0.000 JBX     466367109     36.8700        46,900.00      1,052,649.62      1,729,203.00
+JACKSON HEWITT TAX SERVICE INC             1.108 JTX     468202106     25.2500        41,800.00        852,720.00      1,055,450.00
+JACUZZI BRANDS INC                         0.000 JJZ     469865109      8.7000        83,700.00        537,497.89        728,190.00
+JAKKS PACIFIC INC.                         0.000 JAKK    47012E106     22.1100        28,139.00        460,162.66        622,153.29
+JAMDAT MOBILE INC                          0.000 JMDT    47023T100     20.6500         6,800.00        142,327.31        140,420.00
+JARDEN CORP                                0.000 JAH     471109108     43.4400        24,100.00        621,508.28      1,046,904.00
+JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108     13.6200        28,567.00        571,330.49        389,082.54
+JLG INDUSTIRES, INC.                       0.101 JLG     466210101     19.6300        48,500.00        665,762.93        952,055.00
+JO-ANN STORES INC                          0.000 JAS     47758P307     27.5400        28,120.00        635,573.47        774,424.80
+JONES LANG LASALLE I                       0.000 JLL     48020Q107     37.4100        35,400.00        649,108.61      1,324,314.00
+JOS. A. BANK CLOTHIERS INC.                0.000 JOSB    480838101     28.3000        11,375.00        306,739.04        321,912.50

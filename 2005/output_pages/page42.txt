@@ -1,0 +1,31 @@
+ASOF02   Date 01/19/2006 Time 18:24:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - LCA       LARGE-CAP CORE ANALY
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+ISTAR FINANCIAL INC                        8.218 SFI     45031U101     35.6500        18,100.00        712,187.73        645,265.00
+KIMCO REALTY CORP                          4.114 KIM     49446R109Q    32.0800        32,400.00        719,225.47      1,039,392.00
+LIBERTY PROPERTY TRUST                     5.741 LRY     531172104Q    42.8500        14,000.00        532,796.31        599,900.00
+MACERICH CO                                4.051 MAC     554382101     67.1400         9,700.00        512,914.77        651,258.00
+MACK-CALI RE CORP.                         5.833 CLI     554489104     43.2000        10,000.00        368,432.58        432,000.00
+MILLS CORP.                                5.984 MLS     601148109     41.9400         8,800.00        428,570.33        369,072.00
+NEW PLAN EXCEL RE TRUST                    5.392 NXL     648053106Q    23.1800        16,600.00        402,391.30        384,788.00
+PROLOGIS TRUST                             3.167 PLD     743410102Q    46.7200        40,161.00      1,255,947.26      1,876,321.92
+RECKSON ASSOCIATES RE                      4.719 RA      75621K106Q    35.9800        12,500.00        392,507.39        449,750.00
+REGENCY CENTERS CORP                       2.948 REG     758849103     58.9500         6,400.00        283,207.76        377,280.00
+SIMON PROP GROUP INC.                      3.134 SPG     828806109Q    76.6300        14,001.00        630,134.83      1,072,896.63
+TRIZEC PROPERTIES INC                      3.490 TRZ     89687P107     22.9200         5,700.00         86,848.22        130,644.00
+VENTAS INC.                                4.497 VTR     92276F100     32.0200        13,900.00        336,098.75        445,078.00
+VORNADO REALTY TRUST                       3.833 VNO     929042109     83.4700        15,900.00        815,842.95      1,327,173.00
+WEINGARTEN RE INVST                        3.779 WRI     948741103     37.8100        12,699.00        399,761.00        480,149.19
+
+Instrument Total            25                                                       465,661.00     13,302,471.82     17,023,884.74
+
+Portfolio Total            322                                                    53,434,811.50  1,644,938,326.05  2,037,877,681.30
+

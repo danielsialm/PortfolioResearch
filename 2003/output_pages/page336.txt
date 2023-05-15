@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 008
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_       856,000.00        4,310,866.54
+COMPAL ELECTRONICS                           0.000     6225744      2324_     3,485,000.00        2,454,488.41
+CONSORCIO ARA S.A.                           0.000     2209731      ARA*_        50,000.00           71,215.70
+DAEWOO SHIPBUILDING & MARINE                 0.000     6211732      04266       100,000.00          782,000.00
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     2,215,611.30        2,392,972.23
+DHANA SIAM FINANCE                           0.000     6268716      DS/F_        98,200.00                0.00
+ECI TELECOM ORD IL                           3.490     2310150      ECIL        140,000.00        1,423,613.22
+FINANCE ONE THB10(                           0.000     6336925      FIN1/        13,800.00                0.00
+FISKARAGUNG PERK I                           0.000     6342535      FISK_       301,500.00                0.00
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    80,000,000.00          167,563.34
+FORMOSA PLASTICS CORP                        0.007     6348544      73829       270,621.18          330,947.45
+GEDEON RICHTER RT                            0.000     4042387      RICHT        12,000.00          658,925.37
+GIGABYTE TECHNOLOGY CO.                      0.003     6129181      2376_     1,250,000.00        2,292,660.67
+GOLD FIELDS LIMITE                           0.001     6280215      GFI_S       300,000.00        3,495,166.91
+GPO FINANCIERO BBV                           0.000     2968786      GFBBB     2,500,000.00        2,283,687.80
+GPO IND BIMBO SER'                           0.000     2392471      BIMBO       500,000.00        1,227,879.52
+GUJARAT AMBUJA CEMENT GDR                    2.275     4393074      GJAD_        70,000.00          102,350.21
+HARMONY GOLD MINING CO                       0.000     6410562      HAR_S       280,000.00        2,481,570.55
+HINDALCO INDUSTRIES LIMITED                  0.000     6100142      HNDL_        20,000.00          326,343.14
+HINDUSTAN LEVER                              0.001     6261674      HLVR_       464,000.00        1,392,215.66
+HYUNDAI MARINE AND FIRE INS. CO              0.000     6451077      00145        70,000.00        1,523,014.04
+HYUNDAI MOTOR CO K                           0.000     6451055      00538        88,000.00        1,956,384.03
+ICL-ISRAEL CHEM OR                           0.862     6455530      CHIM_       250,000.00          278,177.01
+IDB HOLDING CORP O                           0.000     6456726      IDBH_       100,000.00        2,365,686.40
+IMPALA PLATINUM HL                           0.000     6457804      IMP_S        24,000.00        1,200,021.04
+INFOSYS TECHNOLOGIES LTD                     0.000     6205122      INFO_        20,000.00        1,193,631.74
+IOI CORPORATION BERHAD                       0.045     6464514      IOI_M     1,000,000.00        1,370,988.31
+ISRAEL CORP ORD SH                           0.009     6889678      ILCO_         1,000.00          140,456.12
+KASIKORNBANK                                 0.000     6888794      KBANK     1,600,000.00          816,002.07
+KGHM POLSKA MIEDZ                            0.000     5263251      KGH_P        80,000.00          296,963.46
+KIMBERLEY CLARK DE                           0.000     2491914      KIMBE       790,000.00        2,233,573.48
+KOMERCNI BANKA                               0.000     4519449      KOMB_        15,000.00          791,148.44
+KOOKMIN BANK KRW50                           0.001     6419365      06000       148,728.00        4,572,789.77
+KOOR INDS ORD ILS0                           0.022     6481698      KOR_I        20,000.00          772,482.00
+KOREA ELEC POWER K                           0.000     6495730      01576       120,000.00        3,307,710.69
+KOREA TELECOM CORPORATION                    0.000     6505316      03020        70,000.00        2,726,223.78
+LAND + HOUSES THBH                           0.000     6581930      LH/F_     2,000,000.00          489,783.90
+LIBERTY GROUP LIMITED                        0.002     6515047      LGL_S       280,000.00        2,508,342.79
+LUKOIL HOLDING-ADR 144A                      2.391     2538822      LUKFY        12,000.00          744,000.00

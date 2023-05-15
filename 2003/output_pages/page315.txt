@@ -1,0 +1,34 @@
+ASOF10   Date 01/20/2004 Time 18:59:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - COM       COMMON STOCK
+
+AKAMAI TECHNOLOGIES                          0.000     00971T101   AKAM           327,314        1,217,608.08        3,518,625.50
+AMERICAN MEDICAL SYS HLDINGS                 0.000     02744M108   AMMD           114,375        2,418,273.38        2,493,375.00
+ARADIGM CORP                                 0.000     038505103   ARDM            60,268          125,796.59          103,058.28
+CORINTHIAN COLLEGES INC                      0.000     218868107   COCO           139,160                0.00        7,731,729.60
+CORVIS                                       0.000     221009103   CORV           307,584        7,391,643.38          522,892.80
+COVENTRY HEALTH CARE INC.                    0.000     222862104   CVH             75,000        4,192,605.00        4,836,750.00
+EXACT SCIENCES CORP                          0.000     30063P105   EXAS            26,276          435,657.00          265,913.12
+HEWLETT-PACKARD CO                           1.393     428236103 Q HPQ             29,726          535,662.52          682,806.22
+JUNIPER NETWORKS INC                         0.000     48203R104   JNPR            43,049          786,173.37          804,155.32
+MELLON FINANCIAL CORP.                       1.993     58551A108 Q MEL             40,200        1,527,238.20        1,290,822.00
+NDC HEALTH CORP                              0.624     639480102   NDC             43,228          988,840.50        1,107,501.36
+NETSCREEN TECHNOLOGIES INC                   0.000     64117V107   NSCN             6,585          168,576.00          162,978.75
+NEW FOCUS INC                                0.000     644383101   NUFO            99,000        5,352,188.00          496,980.00
+NUANCE COMMUNICATIONS INC                    0.000     669967101   NUAN            20,715                0.00          158,262.60
+PAIN THERAPEUTICS INC.                       0.000     69562K100   PTIE             7,191           70,112.25           49,977.45
+RADWARE LTD                                  0.000     M81873107   RDWR            17,656          318,691.00          481,126.00
+SONICWALL INC                                0.000     835470105   SNWL            32,019          602,350.92          249,748.20
+TIVO INC                                     0.000     888706108   TIVO            33,214          295,970.38          245,783.60
+US INTERNETWORKING INC                       0.000     917311805   USIXQ          186,422                0.00               18.64
+WRIGHT MEDICAL GROUP INC                     0.000     98235T107   WMGI           112,500        2,754,371.25        3,424,500.00
+
+Instrument Total                     20                                         1,721,482       29,181,757.82       28,627,004.44
+
+Group Total                         104                                     1,195,096,990    1,222,557,243.28    1,098,663,472.43

@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 123
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+TRIDENT MICROSYSTEMS INC                   0.000 TRID    895919108     18.0000           200.00          2,761.70          3,600.00
+TRIPATH IMAGING INC                        0.000 TPTH    896942109      6.0400           100.00            828.41            604.00
+TRIQUENT SEMICONDUCTOR                     0.000 TQNT    89674K103      4.4500         4,800.00         25,202.12         21,360.00
+TRIUMPH GROUP INC                          0.000 TGI     896818101     36.6100           200.00          7,210.63          7,322.00
+TRIZETTO GROUP INC                         0.000 TZIX    896882107     16.9900           300.00          3,161.37          5,097.00
+TRONOX INC CL A                            1.530 TRX     897051108     13.0700         3,100.00         37,231.00         40,517.00
+TRUSTCO BANK CORP. NY                      5.153 TRST    898349105     12.4200           300.00          3,176.21          3,726.00
+TRUSTMARK CORP                             3.057 TRMK    898402102     27.4700           200.00          5,339.72          5,494.00
+TTM TECHNOLOGIES                           0.000 TTMI    87305R109      9.4000         2,700.00         24,812.90         25,380.00
+TUESDAY MORNING CORP                       3.107 TUES    899035505     20.9200           100.00          2,980.08          2,092.00
+TYLER TECHNOLOGIES I                       0.000 TYL     902252105      8.7800           100.00            781.99            878.00
+U S PHYSICAL THERAPY                       0.000 USPH    90337L108     18.4700           300.00          5,610.04          5,541.00
+UCBH HOLDINGS INC                          0.559 UCBH    90262T308     17.8800           300.00          5,200.67          5,364.00
+UICI                                       1.408 UCI     902737105     35.5100           100.00          1,859.14          3,551.00
+UIL HOLDINGS CORPORATION                   6.262 UIL     902748102     45.9900           100.00          4,219.61          4,599.00
+ULTICOM INC.                               0.000 ULCM    903844108      9.8100           100.00          1,301.77            981.00
+ULTRALIFE BATTERIES INC                    0.000 ULBI    903899102     12.0000         4,600.00         73,594.95         55,200.00
+ULTRATECH INC                              0.000 UTEK    904034105     16.4200           100.00          2,044.43          1,642.00
+UMB FINL CORP                              1.564 UMBF    902788108     63.9100         1,200.00         53,452.19         76,692.00
+UMPQUA HLDGS CORP                          1.682 UMPQ    904214103     28.5300           200.00          4,410.56          5,706.00
+UNICA CORP                                 0.000 UNCA    904583101     12.0500           900.00          9,900.00         10,845.00
+UNIFIRST CORP                              0.482 UNF     904708104Q    31.1000         1,700.00         50,617.76         52,870.00
+UNISOURCE ENERGY CORP                      2.435 UNS     909205106     31.2000         2,500.00         50,921.08         78,000.00
+UNITED AUTO GROUP INC                      1.256 UAG     909440109     38.2000           500.00         13,923.09         19,100.00
+UNITED CMNTY BKS BLA                       1.050 UCBI    90984P105     26.6600           100.00          2,518.07          2,666.00
+UNITED FINANCIAL BANCORP INC               0.000 UBNK    91030R103     11.5300         1,400.00         15,582.00         16,142.00
+UNITED NATURAL FOODS INC.                  0.000 UNFI    911163103     26.4000         2,900.00         67,072.34         76,560.00
+UNITED ONLINE INC                          5.625 UNTD    911268100     14.2200           800.00         11,842.80         11,376.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     23.3900           200.00          3,677.61          4,678.00
+UNITED STATIONERS INC                      0.000 USTR    913004107     48.5000           300.00         11,000.74         14,550.00
+UNITED SURGICAL PARTNERS                   0.000 USPI    913016309     32.1500           200.00          3,892.62          6,430.00
+UNITED THERAPEUTICS CORP                   0.000 UTHR    91307C102     69.1200           100.00          2,725.01          6,912.00
+UNIVERSAL AMERN FINL                       0.000 UHCO    913377107     15.0800         4,700.00         47,414.32         70,876.00
+UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     41.1200           200.00          4,858.21          8,224.00
+UNIVERSAL FOREST PRODUCTS                  0.199 UFPI    913543104     55.2500         1,100.00         35,782.53         60,775.00
+UNIVERSAL TECHNICAL INSTITUTE              0.000 UTI     913915104     30.9400           100.00          3,452.35          3,094.00
+URS CORPORATION                            0.000 URS     903236107     37.6100           100.00          3,049.58          3,761.00
+USA TRUCK INC                              0.000 USAK    902925106     29.1300         1,100.00         26,439.33         32,043.00
+USANA HEALTH SCIENCES INC                  0.000 USNA    90328M107     38.3600         3,000.00        113,265.24        115,080.00

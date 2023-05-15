@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 067
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+JACOBS ENGINEERING GROUP                   0.000 JEC     469814107     35.6000         8,000.00        113,503.16        284,800.00
+JM SMUCKER CO                              2.009 SJM     832696405     39.8100         7,302.00        173,185.22        290,692.62
+KAYDON CORP                                2.263 KDN     486587108Q    21.2100         4,400.00        138,499.84         93,324.00
+KEANE INC.                                 0.000 KEA     486665102      8.9900        10,500.00        328,738.95         94,395.00
+KELLY SERVICES INC CL-A                    1.618 KELYA   488152208     24.7100         5,200.00        160,436.30        128,492.00
+KEMET CORP.                                0.000 KEM     488360108      8.7400        12,700.00        162,981.95        110,998.00
+KENNAMETAL INC                             1.972 KMT     489170100     34.4800         5,200.00        235,217.60        179,296.00
+KORN/FERRY INTERNATIONAL                   0.000 KFY     500643200      7.4800         5,600.00        220,484.00         41,888.00
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     33.7700         8,200.00        293,960.00        276,914.00
+L-3 COMMUNICATIONS HOLDINGS IN             0.000 LLL     502424104     44.9100        13,900.00        391,023.90        624,249.00
+LABRANCHE & CO., INC.                      1.201 LAB     505447102     26.6400         8,800.00        396,371.00        234,432.00
+LAM RESEARCH CORP                          0.000 LRCX    512807108     10.8000        18,500.00        412,082.31        199,800.00
+LANCASTER COLONY CORP                      2.047 LANC    513847103     39.0800         5,450.00        191,103.16        212,986.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      8.7700        16,500.00        266,189.55        144,705.00
+LEAR CORP.                                 0.000 LEA     521865105     33.2800         9,700.00        442,196.44        322,816.00
+LEE ENTERPRISES                            2.028 LEE     523768109     33.5200         6,500.00        174,927.47        217,880.00
+LEGATO SYSTEMS INC.                        0.000 LGTO    524651106      5.0300        17,100.00        446,877.73         86,013.00
+LEGG MASON INC.                            0.906 LM      524901105     48.5400         9,500.00        251,284.96        461,130.00
+LENNAR CORPORATION                         0.096 LEN     526057104     51.6000         9,500.00        263,394.68        490,200.00
+LEUCADIA NATIONAL CORP                     0.670 LUK     527288104     37.3100         8,100.00        267,786.00        302,211.00
+LIFEPOINT HOSPITALS INC.                   0.000 LPNT    53219L109     29.9310         5,800.00        229,397.00        173,599.80
+LINCARE HOLDINGS INC.                      0.000 LNCR    532791100     31.6200        15,600.00        219,064.38        493,272.00
+LONGS DRUG STORES INC                      2.700 LDG     543162101Q    20.7400         5,600.00        119,643.20        116,144.00
+LONGVIEW FIBRE CO                          6.639 LFB     543213102      7.2300         7,500.00        121,047.35         54,225.00
+LTX CORP                                   0.000 LTXX    502392103      6.0300         7,300.00        203,099.00         44,019.00
+LUBRIZOL CORP                              3.409 LZ      549271104     30.5000         7,600.00        288,383.59        231,800.00
+LYONDELL CHEMICAL COMPANY                  7.120 LYO     552078107Q    12.6400        23,500.00        502,408.36        297,040.00
+M&T BANK CORPORATION                       1.512 MTB     55261F104     79.3500        13,500.00        741,819.52      1,071,225.00
+MACROMEDIA INC                             0.000 MACR    556100105     10.6500         8,900.00        233,586.83         94,785.00
+MACROVISION CORP                           0.000 MVSN    555904101     16.0400         7,100.00        494,893.67        113,884.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     30.6100        10,100.00        213,703.23        309,161.00
+MANPOWER INC                               0.627 MAN     56418H100     31.9000        11,300.00        416,829.96        360,470.00
+MARTIN MARIETTA MATERIALS                  1.956 MLM     573284106     30.6600         7,200.00        268,061.48        220,752.00
+McCORMICK & CO                             1.896 MKC     579780206Q    23.2000        20,600.00        277,360.54        477,920.00
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      7.1000        16,700.00        416,154.00        118,570.00
+MDU RESOURCES GROUP                        3.719 MDU     552690109     25.8100        10,500.00        354,804.64        271,005.00
+MEDIA GENERAL INC - CL A                   1.201 MEG     584404107     59.9500         3,400.00        138,293.32        203,830.00
+MENTOR GRAPHICS CORP.                      0.000 MENT    587200106      7.8600         9,800.00         97,344.38         77,028.00
+MERCANTILE BANC.                           3.109 MRBK    587405101Q    38.5900        10,100.00        339,783.70        389,759.00

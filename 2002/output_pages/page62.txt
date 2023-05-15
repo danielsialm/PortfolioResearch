@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - MV4       MID-CAP VALUE
+Instrument - COM       COMMON STOCK
+
+INSITUFORM TECHNOLOGIES CL A               0.000 INSU    457667103     17.0500        70,000.00      1,608,266.50      1,193,500.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106      8.3700       232,000.00      6,776,077.71      1,941,840.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     18.4600       138,000.00      3,963,154.23      2,547,480.00
+INTERSIL HOLDINGS CORP                     0.000 ISIL    46069S109     13.9400       282,000.00      6,822,435.64      3,931,080.01
+JDS UNIPHASE CORP                          0.000 JDSU    46612J101      2.4700       200,000.00        513,800.00        494,000.00
+JM SMUCKER CO                              2.009 SJM     832696405     39.8100        67,000.00      2,288,663.56      2,667,270.00
+JOY GLOBAL INC                             0.000 JOYG    481165108     11.2600       150,000.00      2,457,752.90      1,689,000.00
+KAYDON CORP                                2.263 KDN     486587108Q    21.2100        93,000.00      2,250,365.98      1,972,530.00
+KEANE INC.                                 0.000 KEA     486665102      8.9900       136,000.00      3,135,437.75      1,222,640.00
+KEMET CORP.                                0.000 KEM     488360108      8.7400       148,000.00      2,058,015.59      1,293,520.00
+KENNAMETAL INC                             1.972 KMT     489170100     34.4800        90,000.00      2,942,502.91      3,103,200.00
+L-3 COMMUNICATIONS HOLDINGS IN             0.000 LLL     502424104     44.9100       183,000.00      8,264,900.37      8,218,530.01
+LABRANCHE & CO., INC.                      1.201 LAB     505447102     26.6400       118,000.00      4,444,992.75      3,143,520.00
+LAMAR ADVERTISING CO                       0.000 LAMR    512815101     33.6500        25,000.00        933,767.50        841,250.00
+LATTICE SEMICON. CORP.                     0.000 LSCC    518415104      8.7700       150,000.00        962,878.00      1,315,500.00
+LEAR CORP.                                 0.000 LEA     521865105     33.2800       114,000.00      4,459,207.24      3,793,920.00
+LEE ENTERPRISES                            2.028 LEE     523768109     33.5200        50,000.00      1,705,108.80      1,676,000.00
+LEGATO SYSTEMS INC.                        0.000 LGTO    524651106      5.0300       219,000.00      1,034,854.99      1,101,570.00
+LENNAR CORPORATION                         0.096 LEN     526057104     51.6000        55,000.00      2,031,172.35      2,838,000.00
+LEUCADIA NATIONAL CORP                     0.670 LUK     527288104     37.3100        90,000.00      2,866,212.11      3,357,900.00
+LONGS DRUG STORES INC                      2.700 LDG     543162101Q    20.7400        43,000.00        962,531.93        891,820.00
+LTX CORP                                   0.000 LTXX    502392103      6.0300       112,000.00        702,533.00        675,360.00
+LUBRIZOL CORP                              3.409 LZ      549271104     30.5000        96,000.00      2,734,805.42      2,928,000.00
+LYONDELL CHEMICAL COMPANY                  7.120 LYO     552078107Q    12.6400       347,000.00      5,091,452.03      4,386,080.00
+MACROMEDIA INC                             0.000 MACR    556100105     10.6500        82,000.00        920,140.40        873,300.00
+MANDALAY RESORT GROUP                      0.000 MBG     562567107     30.6100        25,000.00        563,222.19        765,250.00
+MARTIN MARIETTA MATERIALS                  1.956 MLM     573284106     30.6600       150,000.00      7,326,649.10      4,599,000.00
+MASTEC INC                                 0.000 MTZ     576323109      2.9500       290,000.00      2,828,806.62        855,500.00
+MCDATA CORPORATION-A                       0.000 MCDTA   580031201      7.1000       175,000.00      1,365,435.62      1,242,500.00
+MDU RESOURCES GROUP                        3.719 MDU     552690109     25.8100       100,000.00      3,444,582.36      2,581,000.00
+MEDIA GENERAL INC - CL A                   1.201 MEG     584404107     59.9500        45,000.00      2,246,991.26      2,697,750.00
+MERCANTILE BANC.                           3.109 MRBK    587405101Q    38.5900       128,000.00      2,108,896.96      4,939,520.00
+METRIS COMPANIES INC.                      1.619 MXT     591598107      2.4700       300,000.00      4,577,835.37        741,000.00
+METTLER-TOLEDO INTERNATIONAL               0.000 MTD     592688105     32.0600        45,000.00      1,923,667.00      1,442,700.00
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103      7.9400       535,000.00     12,547,854.82      4,247,900.00
+MINERALS TECHNOLOGIES INC                  0.231 MTX     603158106     43.1500        50,000.00      1,838,851.58      2,157,500.00
+MODINE MANUFACTURING CO                    2.828 MODI    607828100     17.6800        90,000.00      2,065,602.46      1,591,200.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     56.9500       110,000.00      4,368,605.74      6,264,500.00
+MPS GROUP INC                              0.000 MPS     553409103      5.5400        71,000.00        375,894.71        393,340.00

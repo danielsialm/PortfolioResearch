@@ -1,0 +1,42 @@
+ASOF02   Date 01/21/2003 Time 18:53:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 132
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 60
+Instrument - COM       COMMON STOCK
+
+NEOFORMA INC                               0.000 NEOF    640475505     11.9500        29,020.00        380,473.88        346,789.00
+NETSOLVE INC                               0.000 NTSL    64115J106      6.7500        36,700.00        286,960.85        247,725.00
+OMI CORPORATION                            0.000 OMM     Y6476W104      4.1100       107,800.00        665,029.36        443,058.00
+OVERLAND STORAGE INC                       0.000 OVRL    690310107     14.5810        27,400.00        402,237.48        399,519.40
+PERRY ELLIS INTERNATIONAL                  0.000 PERY    288853104     16.1000        37,100.00        643,885.47        597,310.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     13.4300        24,500.00        297,017.88        329,035.00
+PRIME MEDICAL SVCS INC                     0.000 PMSI    74156D108      8.6700        27,100.00        144,965.10        234,957.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-FUL  IT-FUL         1.0000       470,399.33        470,399.30        470,399.33
+RAWLINGS SPORTING GOODS CO                 0.000 RAWL    754459105      8.8100        43,410.00        207,707.76        382,442.10
+RED ROBIN GOURMET BURGERS                  0.000 RRGB    75689M101     12.7400        31,000.00        380,694.62        394,940.00
+REPUBLIC FIRST BANCORP INC                 0.000 FRBK    760416107      6.5010        34,200.00        186,667.50        222,334.20
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     10.1000        51,000.00        725,674.37        515,100.00
+RUBIO'S RESTAURANTS INC                    0.000 RUBO    78116B102      6.1900        40,000.00        220,519.04        247,600.00
+SAFENET INC                                0.000 SFNT    78645R107     25.3500        29,300.00        501,193.12        742,755.00
+SCOTTISH ANNUITY & LIFE HLDG               1.432 SCT     G7885T104     17.4500        31,900.00        524,109.35        556,655.00
+SFBC INTERNATIONAL INC                     0.000 SFCC    784121105     12.9800        30,400.00        443,288.76        394,592.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      1.5210       259,300.00        350,946.59        394,395.30
+SRS LABS INC                               0.000 SRSL    78464M106      3.0900       101,400.00        249,132.09        313,326.00
+TENNECO AUTOMOTIVE INC                     0.000 TEN     880349105Q     4.0400        88,200.00        470,106.00        356,328.00
+THE 3DO CO                                 0.000 THDO    88553W204      2.0310        50,162.00        282,959.77        101,879.02
+TIVO INC                                   0.000 TIVO    888706108      5.2300        97,700.00        420,726.12        510,971.00
+U.S. INDUSTRIES INC.                       0.000 USI     912080108      2.6300       128,400.00        331,272.00        337,692.00
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105      9.8390        35,500.00        357,904.51        349,284.50
+UNIVERSAL ELECTRONICS INC                  0.000 UEIC    913483103      9.7400        30,000.00        276,348.51        292,200.00
+WATER PIK TECHNOLOGIES INC                 0.000 PIK     94113U100      7.3500        32,300.00        262,619.00        237,405.00
+WESTELL TECHNOLOGIES INC-A                 0.000 WSTL    957541105      1.2000       110,400.00        150,750.25        132,480.00
+
+Instrument Total            65                                                     4,856,924.33     24,271,660.42     26,019,375.34
+
+Portfolio Total             65                                                     4,856,924.33     24,271,660.42     26,019,375.34
+

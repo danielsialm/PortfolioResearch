@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     27.2300        34,100.00      1,111,525.50        928,542.99
+ABERCROMBIE & FITCH CO                     0.000 ANF     002896207     24.7100       123,900.00      3,791,014.77      3,061,569.00
+ACXIOM CORP.                               0.000 ACXM    005125109     18.5700        75,200.00      1,265,666.64      1,396,464.00
+ADC COMMUNICATIONS INC                     0.000 ADCT    000886101      2.9700       959,300.00     10,755,336.66      2,849,120.98
+ADOBE SYSTEMS INC.                         0.127 ADBE    00724F101Q    39.3000       420,300.00     12,358,913.97     16,517,790.00
+ADTRAN INC.                                0.967 ADTN    00738A106     31.0000        67,000.00      1,099,308.81      2,077,000.01
+ADVANCE AUTO PARTS INC                     0.000 AAP     00751Y106     81.4000        41,200.00      2,632,637.86      3,353,680.00
+ADVANCE PCS                                0.000 ADVP    00790K109     52.6600       114,900.00      2,950,194.94      6,050,634.00
+ADVANCED FIBRE COMMUNICATION               0.000 AFCI    00754A105     20.1500        48,100.00      1,174,656.31        969,214.98
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107     14.9000       275,000.00      3,892,544.75      4,097,499.98
+AES CORP                                   0.000 AES     00130H105      9.4400       713,500.00     22,053,587.50      6,735,440.00
+AETNA INC.                                 0.059 AET     00817Y108     67.5800       107,900.00      4,164,734.02      7,291,882.02
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100     54.4600       214,100.00      8,443,870.45     11,659,885.99
+AFFYMETRIX INC                             0.000 AFFX    00826T108     24.6100       100,200.00      2,199,144.66      2,465,922.00
+AGERE SYSTEMS INC-CL B                     0.000 AGR.B   00845V209      2.9000     2,794,400.00      7,527,329.26      8,103,760.00
+AGILENT TECHNOLOGIES INC                   0.000 A       00846U101     29.2400        41,800.00      1,356,602.97      1,222,232.00
+ALBERTO CULVER CL-B                        0.665 ACV     013068101Q    63.0800         5,700.00        258,615.72        359,556.00
+ALLERGAN PHARMACEUTICALS INC.              0.468 AGN     018490102Q    76.8100       197,100.00     11,423,286.04     15,139,251.00
+ALLIANCE DATA SYSTEM                       0.000 ADS     018581108     27.6800        25,800.00        692,525.30        714,144.00
+ALLIANT TECHSYSTEMS INC.                   0.000 ATK     018804104     57.7600        51,100.00      1,929,196.29      2,951,535.99
+ALTERA CORP                                0.000 ALTR    021441100     22.7000       652,800.00     11,818,666.73     14,818,559.98
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     33.6000        31,199.99        826,427.58      1,048,320.00
+AMERICAN STANDARD COMPANIES                0.000 ASD     029712106    100.7000        94,400.00      6,126,587.77      9,506,080.00
+AMERICAN TOWER CORP                        0.000 AMT     029912201     10.8200       157,900.00      1,528,121.58      1,708,478.00
+AMERICREDIT CORP.                          0.000 ACF     03060R101     15.9300        79,000.00        916,300.00      1,258,470.01
+AMERISOURCEBERGEN CORP                     0.178 ABC     03073E105     56.1500        88,600.00      5,575,958.42      4,974,890.01
+AMERITRADE HLDG CORP                       0.000 AMTD    03074K100     14.0700       469,100.00      4,349,511.34      6,600,236.98
+AMETEK INC.                                0.497 AME     031100100Q    48.2600        30,600.00      1,001,407.30      1,476,756.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100     18.2100       146,100.00      2,295,674.80      2,660,481.00
+AMPHENOL CORP-CL A                         0.000 APH     032095101     63.9300        67,700.00      3,592,856.82      4,328,061.00
+AMYLIN PHARMACEUTICALS INC                 0.000 AMLN    032346108     22.2200       178,200.00      4,088,412.43      3,959,603.99
+ANDRX GROUP                                0.000 ADRX    034553107     24.0400        94,300.00      2,277,705.66      2,266,972.02
+APPLEBEES INT'L. INC.                      0.178 APPB    037899101     39.2700       115,700.00      2,655,045.73      4,543,539.00
+APPLERA CORP - APPLIED BIOSYST             0.820 ABI     038020103Q    20.7100       342,100.00      8,226,701.69      7,084,890.99
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109      5.9800        50,000.00        335,210.00        299,000.00
+APRIA HEALTHCARE GP. INC.                  0.000 AHG     037933108     28.4700        87,000.00      2,047,215.33      2,476,890.01
+ARAMARK CORP. - CL B                       0.729 RMK     038521100     27.4200       120,200.00      2,677,312.73      3,295,884.01
+ARROW ELECTRONICS                          0.000 ARW     042735100     23.1400        33,200.00        662,449.20        768,248.00
+ATMEL CORP                                 0.000 ATML    049513104      6.0100       312,000.00      1,644,702.81      1,875,120.00

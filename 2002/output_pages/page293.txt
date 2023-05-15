@@ -1,0 +1,32 @@
+ASOF11   Date 01/21/2003 Time 18:53:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 043
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+UCB ORD BEF                                  1.993     5596991      UCB_B        60,388.00        2,311,054.53
+UNICREDITO ITALIAN                           4.904     4232445      UC_IM       122,000.00          543,558.29
+UNILEVER NV CERT.                            2.885     5640898      UNA_N        10,966.00          640,093.17
+UNITED OVERSEAS BA                           1.954     6916781      UOB_S       419,726.00        2,765,689.84
+UPM-KYMMENE CORP F                           7.559     5051252      UPM1V        66,980.00        1,812,224.32
+VA TECHNOLOGIE AG                            3.384     4921635      VATC_        18,900.00        1,068,056.72
+VESTAS WIND SYSTEMS A/S                      0.300     5964651      VWS_D        20,000.00          619,920.48
+VIVENDI UNIVERSAL EUR                        6.818     4834777      EX_FP        11,615.00          481,942.91
+VODAFONE GROUP                              79.645     0719210      VOD_L     2,350,520.00        7,997,857.34
+WIENERBERGER BAUST                           3.714     5699373      WIE_A       137,300.00        2,946,133.26
+ZURICH FINANCIAL SERVICES CHF10              4.486     5983816      ZURN_         3,287.00        1,579,272.57
+
+Instrument Total             128                                             20,741,886.00      276,631,769.37
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+PANAGORA - LQR                               0.000     IL-PAN                    44,046.72        4,404,672.69
+
+Instrument Total               1                                                 44,046.72        4,404,672.69
+
+Portfolio Total              129                                             20,785,932.72      281,036,442.06        215,952,491.31

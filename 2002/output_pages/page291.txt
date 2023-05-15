@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+FORTIS                                       5.773     7266139      FORB_       298,487.00        8,566,101.60
+GKN ORSH 0.5GBP                              8.820     3064650      GKN_L        42,431.00          453,733.72
+GLAXOSMITHKLINE                              5.267     0925288      GSK_L       230,279.00        5,296,791.48
+GPE BRUX LAMBERT                             2.662     7097328      GBL_B        52,956.00        2,446,772.54
+GROUP DANONE ORD                             1.686     5981810      BN_FP         5,831.00          747,235.07
+HANG SENG BANK HK                            0.757     6408374      11_HK        33,800.00          421,926.71
+HAW PAW CORP LTD S                           2.653     6415523      HPAR_        17,159.00           33,668.22
+HITACHI Y50                                  0.000     6429104      6501_       380,000.00        3,640,545.01
+HONDA MOTOR CO COM                           0.006     6435145      7267_        92,600.00        3,134,644.60
+HONG KONG ELECTRIC HKD1                      0.000     6435327      6_HK        122,000.00          390,526.60
+HSBC HOLDINGS ORD                           11.724     0540528      HSBA_       330,611.00        3,298,820.82
+HUTCHISON WHAMPOA                            0.454     6448068      13_HK        68,000.00          655,574.26
+INDEPENDENT NEWS & MEDIA                     6.173     0461481      INWS_       266,112.00        1,021,733.98
+ING GROEP NV NLG1                            6.685     7154182      INGA_        35,265.00        1,164,320.52
+INTERBREW                                    1.026     4755317      INTB_        78,059.00        2,601,360.43
+IRISH LIFE & PERMANENT                       4.713     0467865      IPM_I       133,281.00        1,261,382.00
+ISS INTERNATIONAL                            0.000     5952816      ISS_D         8,100.00          458,963.13
+KBC BANKVERZEKERIN                           3.832     4497749      KBC_B       124,533.00        6,118,670.93
+KEPPEL CORP ORD SG                           1.887     6490263      KEP_S       268,100.00          592,651.92
+KERRY GROUP PLC-A                            0.877     0490656      KYG_I        74,102.00          932,857.58
+L''OREAL FRF10                               0.781     4057808      OR_FP         9,268.00          447,798.63
+LLOYDS TSB GROUP O                          12.272     0870612      LLOY_       179,923.00        1,950,096.13
+MATSUSHITA ELC IND                           0.000     6572707      6752_       233,000.00        4,870,895.67
+MAYR-MELNHOF KARTO                           2.679     4563640      MAYR_        15,900.00          761,315.45
+MITSUBISHI TOKYO F JPY50000                  0.005     6335171      8306_           434.00        6,402,421.75
+MIZUHO HLDGS JPY50000                        0.000     6286280      8305_           536.00        5,364,704.60
+MUNCHENER RUCKVS                             1.151     5294121      MUV2_         3,100.00          650,776.30
+NESTLE SA CHF                                1.580     7123870      NESN_        10,718.00        1,887,967.69
+NIPPON TEL+TEL CP                            0.000     6641373      9432_           267.00        2,530,596.42
+NOKIA(AB)OY EUR0.2                           1.962     5902941      NOK1V     1,183,976.00       16,472,410.26
+NOMURA HOLDINGS, INC.                        0.009     6643108      8604_       221,000.00        4,149,560.04
+NORSK HYDRO AS NOK                           0.000     4645805      NHY_N        63,980.00        2,710,407.14
+NORSKE SKOGINDUSTRIER ASA                    0.884     7070396      NSG_N        26,435.00          400,663.30
+NOVARTIS AG CHF 20                           0.185     7103065      NOVN_        76,799.00        2,812,071.77
+NOVO NORDISK A/S-B                           0.231     7077524      NOVOB       118,285.00        2,833,243.79
+NOVOZYMES A/S-B                              0.190     4658535      NZYMB        15,000.00          175,584.54
+NTT DOCOMO INC                               0.000     6129277      9437_         1,945.00        7,521,209.48
+OEST ELEKTRIZITATS                           1.616     4661607      OEEW_        35,600.00        4,788,089.02
+OMV AG AUSH100                               4.821     4651459      OMV_A        47,500.00        4,069,913.60

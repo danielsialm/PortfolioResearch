@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 076
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+CIBER INC.                                 0.000 CBR     17163B102      5.1500        70,900.00      1,050,847.62        365,135.00
+CIMA LABS INC                              0.000 CIMA    171796105     24.1910        16,700.00        467,193.01        403,989.70
+CIMAREX ENERGY                             0.000 XEC     171798101     17.9000        44,997.00        809,984.81        805,446.30
+CLARCOR INC.                               1.518 CLC     179895107Q    32.2700        28,300.00        544,937.48        913,241.00
+CLEVELAND-CLIFFS INC                       2.015 CLF     185896107Q    19.8500        11,200.00        270,416.47        222,320.00
+COACHMEN INDUSTRIES INC                    1.519 COA     189873102     15.8000        19,900.00        311,944.89        314,420.00
+COCA-COLA BOTTLING                         1.550 COKE    191098102     64.5100        10,100.00        517,250.66        651,551.00
+COGNEX CORP.                               0.000 CGNX    192422103     18.4300        48,400.00      1,224,597.70        892,012.00
+COHERENT INC.                              0.000 COHR    192479103     19.9500        29,900.00        669,925.02        596,504.99
+COHU INC.                                  1.360 COHU    192576106     14.7000        22,700.00      1,025,371.46        333,690.00
+COMMERCIAL FEDERAL CORP.                   1.541 CFB     201647104     23.3500        50,000.00      1,253,544.12      1,167,500.00
+COMMERCIAL METALS CO.                      1.970 CMC     201723103     16.2400        31,400.00        500,180.37        509,936.00
+COMMUNITY FIRST BANKSHARES                 3.174 CFBX    203902101     26.4600        44,700.00      1,005,361.85      1,182,762.00
+CONCERTO SOFTWARE INC                      0.000 CRTO    20602T106      6.7500        25,100.00        228,789.07        169,425.00
+CONCORD CAMERA CORP                        0.000 LENS    206156101      5.4300        23,000.00        174,286.01        124,890.00
+CONCORD COMMUNICATIONS INC                 0.000 CCRD    206186108      8.9900        18,700.00        284,744.00        168,113.00
+CONMED CORPORATION                         0.000 CNMD    207410101     19.5900        31,750.00        600,815.73        621,982.50
+CONSOLIDATED GRAPHICS INC.                 0.000 CGX     209341106     22.2500        14,600.00        772,331.25        324,850.00
+COOPER COMPANIES INC.                      0.479 COO     216648402     25.0200        34,000.00        545,651.53        850,680.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     37.8600        49,800.00      1,086,484.31      1,885,428.00
+CORN PRODUCTS INT'L INC.                   1.327 CPO     219023108     30.1300        39,600.00        887,409.08      1,193,148.00
+COST PLUS INC                              0.000 CPWM    221485105     28.6700        24,800.00        872,907.08        711,016.00
+COVENTRY HEALTH CARE INC.                  0.000 CVH     222862104     29.0300        68,500.00        999,784.47      1,988,555.00
+CPI CORP                                   3.864 CPY     125902106     14.4900        11,950.00        162,757.55        173,155.50
+CRYOLIFE INC                               0.000 CRY     228903100      6.8300        15,100.00        111,975.56        103,133.00
+CTS CORP.                                  1.548 CTS     126501105      7.7500        32,100.00        771,636.38        248,775.00
+CULLEN/FROST BANKERS INC                   2.691 CFR     229899109     32.7000        57,400.00      1,606,134.82      1,876,980.00
+CUNO INCORPORATED                          0.000 CUNO    126583103     33.1200        18,300.00        516,396.27        606,096.00
+CURATIVE HEALTH SERVICES INC.              0.000 CURE    231264102     17.2500        12,600.00        151,254.53        217,350.00
+CURTISS-WRIGHT CORP.                       0.940 CW      231561101     63.8200        11,300.00        598,833.33        721,166.00
+CYMER INC                                  0.000 CYMI    232572107     32.2500        37,400.00      1,070,711.16      1,206,150.00
+DATASCOPE CORP                             0.806 DSCP    238113104     24.8010        16,300.00        428,212.26        404,256.30
+DELPHI FINANCIAL GROUP CL-A                0.843 DFG     247131105     37.9600        22,700.00        861,986.46        861,692.00
+DELTA & PINE LAND CO.                      0.979 DLP     247357106     20.4100        45,200.00      1,289,930.63        922,532.00
+DELTIC TIMBER CORP                         0.936 DEL     247850100     26.7000        11,900.00        264,644.17        317,730.00
+DENDRITE INTERNATIONAL INC.                0.000 DRTE    248239105      7.4700        43,900.00        723,852.87        327,933.00
+DEPARTMENT 56 INC                          0.000 DFS     249509100     12.9000        18,700.00        210,259.19        241,230.01
+DIAGNOSTIC PRODUCTS CORP                   0.621 DP      252450101     38.6200        31,700.00        533,992.41      1,224,254.00
+DIANON SYSTEMS INC                         0.000 DIAN    252826102     47.7100        12,400.00        816,287.01        591,604.00

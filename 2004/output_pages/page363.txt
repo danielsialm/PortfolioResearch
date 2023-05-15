@@ -1,0 +1,36 @@
+ASOF11   Date 01/21/2005 Time 18:35:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 046
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+UNILEVER NV CERT.                            4.904     5640898      UNA_N        10,966.00          640,093.17
+UNITED OVERSEAS BA                           2.663     6916781      UOB_S       419,726.00        2,765,689.84
+UPM-KYMMENE CORP F                           6.230     5051252      UPM1V       133,960.00        1,812,224.32
+VA TECHNOLOGIE AG                            1.161     4921635      VAT_A        18,900.00        1,068,056.72
+VESTAS WIND SYSTEMS A/S                      0.201     5964651      VWS_D        20,000.00          619,920.48
+VIVENDI UNIVERSAL EUR                        2.892     4834777      EX_FP        11,615.00          481,942.91
+VODAFONE GROUP                               4.061     0719210      VOD_L     2,350,520.00        7,997,857.34
+WIENERBERGER BAUST                           2.977     5699373      WIE_A       137,300.00        2,946,133.26
+YARA INTERNATIONAL ASA                       0.000     7751259      YAR_N        63,980.00          283,841.40
+ZURICH FINANCIAL SERVICES CHF10              1.159     5983816      ZURN_         3,287.00        1,579,272.57
+
+Instrument Total             127                                             21,466,686.99      267,537,521.78
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+PANAGORA - LQR                               0.000     IL-PAN                     4,099.77          409,977.48
+
+Instrument Total               1                                                  4,099.77          409,977.48
+
+Portfolio Total              128                                             21,470,786.77      267,947,499.26        343,704,556.30
+
+Group Total                1,185                                          9,708,016,012.69    9,738,951,252.82     12,990,709,691.61
+
+
+Grand Total                8,850                                         46,717,020,059.46   47,665,867,668.99     58,237,750,985.66

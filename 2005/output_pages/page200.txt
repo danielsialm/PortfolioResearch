@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 167
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+NEWPARK RESOURCES INC.                     0.000 NR      651718504      7.6300        91,400.00        529,552.80        697,382.00
+NVIDIA CORP                                0.000 NVDA    67066G104     36.5600        56,900.00        842,753.43      2,080,264.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108      4.2600        59,400.00        368,533.96        253,044.00
+OAKLEY INC.                                1.089 OO      673662102     14.6900        34,200.00        487,489.93        502,398.00
+OHIO CASUALTY CORP.                        0.847 OCAS    677240103Q    28.3200        20,300.00        321,737.84        574,896.00
+OMNIVISION TECHNOLOGIES INC                0.000 OVTI    682128103     19.9600        37,300.00        814,607.06        744,508.00
+ORTHOLOGIC CORP                            0.000 OLGC    68750J107      4.9000        72,700.00        425,068.17        356,230.00
+PARK NATL CORP                             3.585 PRK     700658107    102.6400         5,250.00        591,539.12        538,860.00
+PARKER DRILLING CO                         0.000 PKD     701081101     10.8300       102,200.00        267,895.42      1,106,826.00
+PARTNERS TRUST FINL                        2.323 PRTR    70213F102     12.0500        46,200.00        485,130.80        556,710.00
+PAYLESS SHOESOURCE INC                     0.000 PSS     704379106     25.1000        45,800.00      1,038,042.30      1,149,580.00
+PENN NATIONAL GAMING INC                   0.000 PENN    707569109     32.9500        41,000.00        493,331.93      1,350,950.00
+PEP BOYS MM & J                            1.813 PBY     713278109Q    14.8900        32,700.00        639,931.34        486,903.00
+PER-SE TECHNOLOGIES                        0.000 PSTI    713569309     23.3600        30,900.00        447,739.62        721,824.00
+PHARMION CORP                              0.000 PHRM    71715B409     17.7700        31,300.00        778,329.47        556,201.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109     24.7100        31,300.00        753,744.44        773,423.00
+PLACER SIERRA BANCSHARES                   1.732 PLSB    726079106     27.7100        24,100.00        478,885.00        667,811.00
+POLYCOM INC.                               0.000 PLCM    73172K104     15.3000        28,900.00        502,962.47        442,170.00
+POWER ONE INC.                             0.000 PWER    739308104      6.0200       102,000.00        551,128.00        614,040.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109     12.5700        75,900.00        696,377.35        954,063.00
+PRESIDENTIAL LIFE                          2.100 PLFE    740884101     19.0400        15,700.00        245,611.57        298,928.00
+PRESTIGE BRANDS HOLDINGS INC               0.000 PBH     74112D101     12.5000        50,700.00        598,981.68        633,750.00
+PRICELINE.COM INC                          0.000 PCLN    741503403     22.3200        42,100.00      1,002,283.12        939,672.00
+PRIME MONEY MARKET - 6FC                   0.000 IT-FUL6 IT-FUL6        1.0000     2,375,695.36      2,375,695.42      2,375,695.38
+PROVIDENT NEW YORK BANCORP                 1.816 PBNY    744028101     11.0100        35,400.00        441,779.88        389,754.00
+QUEST SOFTWARE INC                         0.000 QSFT    74834T103     14.5900        51,200.00        770,331.72        747,008.00
+REALNETWORKS INC                           0.000 RNWK    75605L104      7.7600       106,000.00        756,184.15        822,560.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      6.0200       112,700.00        565,528.09        678,454.00
+S1 CORPORATION                             0.000 SONE    78463B101      4.3500        97,312.00        451,908.20        423,307.20
+SABA SOFTWARE INC                          0.000 SABA    784932600      4.0800        63,600.00        272,961.40        259,488.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     68.1000         8,800.00        484,606.90        599,280.00
+SELECTICA INC                              0.000 SLTC    816288104      2.8500       103,300.00        429,103.76        294,405.00
+SERVICE CORP INTERNATIONAL                 1.222 SCI     817565104Q     8.1800        74,900.00        367,531.45        612,682.00
+SIRF TECHNOLOGY HOLDINGS                   0.000 SIRF    82967H101     29.8000        36,000.00        767,389.34      1,072,800.00
+SONICWALL INC                              0.000 SNWL    835470105      7.9200        77,400.00        457,674.72        613,008.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     23.6300        18,157.65        288,975.72        429,065.27
+SPARTECH CORP                              2.277 SEH     847220209     21.9500        27,200.00        501,024.00        597,040.00
+SPORTS AUTHORITY INC                       0.000 TSA     84917U109     31.1300        24,700.00        804,165.77        768,911.00
+STEAK N SHAKE COMPANY                      0.000 SNS     857873103     16.9500        18,500.00        296,992.34        313,575.00

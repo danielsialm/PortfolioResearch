@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 031
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAFEVAL EAFE VALUE
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+77TH BANK Y50                                0.000     6804165      8341_     1,900,000.00       10,055,739.42
+ABN AMRO HLDGS NV                            8.489     5250769      AABA_       660,300.00       12,693,594.04
+AIOI INSURANCE CO LTD                        0.000     6251169      8761_     1,454,100.00        4,910,612.64
+AISIN SEIKI                                  0.000     6010702      7259_       540,000.00        5,936,519.49
+ALLIANCE & LEICESTER                        34.208     0038614      AL/_L       342,700.00        3,663,750.24
+ALUMINA LTD                                  2.068     6954985      AWC_A     1,450,000.00        3,688,305.40
+AMADA CO Y50                                 0.000     6022105      6113_     2,066,000.00        9,942,431.22
+ARUZE CORP                                   0.000     6126892      6425_       124,500.00        2,271,939.25
+ASTRAZENECA GBP 0.                          54.875     0989529      AZN_L       240,000.00        9,842,436.66
+BAA ORD GBP1                               105.615     0067340      BAA_L       949,981.00        8,556,240.96
+BASF AG DEM ORD SH                           4.833     5086577      BAS_G       201,000.00        8,445,397.49
+BCO SANTANDER CENTAL HISP                    4.898     5705946      SAN_S     1,547,996.00       12,924,280.37
+BEKAERT SA NPV                               3.714     5827431      BEKB_       108,090.00        4,246,531.06
+BHP LIMITED                                  1.331     6144690      BHP_A       714,588.00        3,348,019.69
+BILLITON PLC                                17.604     0056650      BLT_L       939,730.10        4,687,280.87
+BPB ORD 50P                                383.667     0068707      BPB_L     1,400,000.00        4,842,958.20
+BRIT AMER TOBACCO                           13.782     0287580      BATS_       209,201.00        1,508,639.97
+BRITISH AEROSPACE                          327.337     0263494      BA/_L     2,650,000.00       12,817,199.78
+CABLE + WIRELESS O                      80,599.039     0162557      CW/_L     3,757,000.00       13,585,217.95
+CARTER HOLT HARVEY LIMITED                   0.896     6178406      CAH_N       666,400.00          489,181.72
+CASIO COMPUTER CO                            0.000     6178967      6952_     1,668,000.00        8,577,417.87
+CHEUNG KONG(HLDGS)                           0.000     6190273      1_HK        785,000.00        8,101,093.99
+CHINA RESOURCES ENTERPRISES                  0.000     6972459      291_H     1,250,000.00        1,332,315.52
+CHUBU ELECTRIC POWER CO INC                  0.000     6195609      9502_       222,600.00        3,848,474.19
+CHUGAI PHARMACEUTI                           0.011     6196408      4519_       731,500.00        9,359,607.09
+CIE DE ST. GOBAIN                            5.660     7380482      SGO_F       288,200.00        9,467,704.17
+CORUS GROUP                                 39.673     0828053      CS/_L     5,500,000.00        5,127,950.16
+DAI NIPPON PRINTNG                           0.000     6250906      7912_       599,000.00        7,414,494.64
+DAIMLERCHRYSLER AG                           4.363     5529027      DCX_G       186,679.00       10,300,289.30
+DSM NV                                       4.890     5773987      DSMA_        82,900.00        2,976,060.12
+E.ON AG                                      4.813     4942904      EOA_G       141,000.00        7,182,238.93
+ENEL SPA                                     9.687     7144569      ENEL_     1,112,000.00        7,553,267.02
+ENI SPA                                      5.719     7145056      ENI_I       745,000.00        8,744,949.58
+EUROPEAN AERONAUTIC DEFENCE                  7.109     4012250      EAD_F       500,000.00        8,506,469.60
+EXEDY CORPORATION                            0.000     6250412      7278_       892,800.00        4,860,371.12
+FAIRFAX HOLDINGS LTD (JOHN)                  0.000     6467074      FXJ_A     4,750,000.00        8,033,439.56
+FIRST PACIFIC CO LTD                         0.000     6339872      142_H    20,000,000.00        2,584,566.34
+FLUGHAFEN WIEN AG                           27.694     4359690      FLUG_       216,214.00        7,130,000.76
+FORTIS                                       5.502     7266139      FORB_       600,000.00       15,531,747.06

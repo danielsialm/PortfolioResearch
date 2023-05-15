@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+AMERICAN ELECTRIC POWER                      8.781     025537101 Q AEP            793,122       27,176,211.79       21,676,024.26
+AMERICAN EXPRESS CO.                         0.905     025816109 Q AXP          2,468,363       76,793,748.88       87,256,632.05
+AMERICAN FINANCIAL GROUP INC.                2.167     025932104 Q AFG            159,200        4,029,770.55        3,672,744.00
+AMERICAN FINANCIAL HLDGS INC.                2.409     026075101   AMFH            24,000          565,915.60          717,120.00
+AMERICAN GREETING CL A                       2.531     026375105 Q AM              89,043        1,686,399.05        1,406,879.40
+AMERICAN INTL GROUP                          0.328     026874107 Q AIG          5,414,674      237,681,723.00      313,238,890.90
+AMERICAN ITALIAN PASTA COMPANY               0.000     027070101   PLB             19,100          470,044.45          687,218.00
+AMERICAN MANAGEMENT SYSTEMS                  0.000     027352103   AMSY            49,500        1,229,675.44          593,505.00
+AMERICAN PHARMACEUTICAL PART                 0.000     02886P109   APPX            44,710          769,722.64          795,838.00
+AMERICAN POWER CONVERSION                    0.000     029066107   APCC           538,979        8,818,507.14        8,165,531.85
+AMERICAN STANDARD COMPANIES                  0.000     029712106   ASD             57,693        2,733,977.57        4,104,280.02
+AMERICAN STATES WATER CO.                    3.801     029899101   AWR             16,050          397,270.93          371,557.50
+AMERICAN WATER WORKS                         2.154     030411102 Q AWK            265,700       11,785,348.00       12,084,036.00
+AMERICAN WOODMARK CORP.                      0.421     030506109   AMWD             2,800          140,770.80          133,000.00
+AMERICREDIT CORP.                            0.000     03060R101   ACF            355,800        4,911,147.91        2,753,892.00
+AMERIGROUP CORPORATION                       0.000     03073T102   AGP             32,290        1,022,320.79          978,709.90
+AMERIPATH INC                                0.000     03071D109   PATH            33,200          964,894.06          713,800.00
+AMERISOURCEBERGEN CORP                       0.184     03073E105   ABC            207,600       13,212,804.63       11,274,756.00
+AMERUS GROUP CO                              1.414     03072M108   AMH             69,700        2,636,727.59        1,970,419.00
+AMETEK INC.                                  0.623     031100100 Q AME             72,500        1,756,058.94        2,790,525.00
+AMGEN INC                                    0.000     031162100   AMGN         2,644,455       91,742,306.94      127,832,954.70
+AMKOR TECHNOLOGY INC                         0.000     031652100   AMKR           129,286          641,352.58          615,401.36
+AMN HEALTHCARE SERVICES INC                  0.000     001744101   AHS             11,400          202,293.19          192,774.00
+AMR CORP.                                    0.000     001765106   AMR            514,023       14,020,491.26        3,392,551.80
+AMSOUTH BANCORPORATION                       4.791     032165102   ASO            665,004       13,679,104.08       12,768,076.80
+AMSURG CORP                                  0.000     03232P405   AMSG            29,400          782,561.73          600,642.00
+AMYLIN PHARMACEUTICALS INC                   0.000     032346108   AMLN            15,700          196,691.88          253,398.00
+ANADARKO PETROLEUM CORP                      0.835     032511107 Q APC            460,444       20,167,850.05       22,055,267.60
+ANALOG DEVICES                               0.000     032654105   ADI            321,707       11,368,613.78        7,679,146.09
+ANALOGIC CORP.                               0.636     032657207   ALOG            50,500        2,278,605.82        2,539,544.00
+ANALYSTS INTERNATIONAL CORP                  2.020     032681108 Q ANLY            63,900          268,159.22          126,522.00
+ANCHOR BANCORP WISCONSIN INC.                1.734     032839102   ABCW            37,900          657,570.40          786,425.00
+ANDREW CORP.                                 0.000     034425108   ANDW           130,615        1,960,429.16        1,342,722.20
+ANDRX GROUP                                  0.000     034553107   ADRX            42,000        1,594,615.50          616,140.00
+ANGELICA CORP                                1.937     034663104   AGL             18,400          255,546.26          379,960.00
+ANHEUSER-BUSCH                               1.611     035229103 Q BUD          1,571,551       43,723,302.46       76,063,068.40
+ANIXTER INTERNATIONAL INC.                   0.000     035290105   AXE             42,800          849,882.26          995,100.00
+ANNALY MORTGAGE MANAGEMENT                  14.468     035710409   NLY              4,000           79,392.00           75,200.00
+ANNTAYLOR STORES CORP                        0.000     036115103   ANN             94,750        2,005,047.58        1,934,795.00
+ANSWERTHINK INC                              0.000     036916104   ANSR            51,400          144,511.00          128,500.00

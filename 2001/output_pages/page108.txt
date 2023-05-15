@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 079
+ASOF02   Date 01/24/2002 Time 21:29:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 081
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - SP6       S&P 600 PASSIVE
 Instrument - COM       COMMON STOCK
 
-HOLOGIC INC.                               0.000 HOLX    436440101      9.2900        18,000.00        168,524.63        167,220.00
-HOOPER HOLMES INC                          0.335 HH      439104100      8.9500        60,600.00        659,552.29        542,370.00
-HOT TOPIC INC                              0.000 HOTT    441339108     31.3900        21,400.00        710,259.00        671,746.00
-HUDSON UNITED BANCORP                      3.623 HU      444165104     28.7000        48,898.00      1,446,410.52      1,403,372.60
-HUFFY CORP                                 0.000 HUF     444356109      6.4000        39,900.00        296,238.60        255,360.00
-HUGHES SUPPLY INC.                         1.101 HUG     444482103     30.8700        21,600.00        612,844.16        666,792.00
-HUTCHINSON TECH.                           0.000 HTCH    448407106     23.2200        20,700.00        357,192.71        480,654.00
-HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     19.8600        34,200.00        905,377.77        679,212.00
-IDEX CORPORATION                           1.623 IEX     45167R104     34.5000        31,100.00        854,750.93      1,072,950.00
-IDEXX LABS INC.                            0.000 IDXX    45168D104     28.5100        33,500.00        560,951.14        955,085.00
-IHOP CORP.                                 0.000 IHP     449623107     29.3000         1,500.00         24,900.72         43,950.00
-IMAGISTICS INTERNATIONAL INC               0.000 IGI     45247T104     12.3500        19,500.00        237,558.54        240,825.01
-IMCO RECYCLING INC.                        0.000 IMR     449681105      7.1500           700.00          4,057.55          5,005.01
-IMPATH INC                                 0.000 IMPH    45255G101     44.5100        14,900.00        759,661.95        663,199.00
-INAMED CORP                                0.000 IMDC    453235103     30.0700        19,600.00        467,950.00        589,372.00
-INFORMATION HOLDINGS INC.                  0.000 IHI     456727106     28.3100        21,300.00        730,164.00        603,003.00
-INFORMATION RESOURCES INC                  0.000 IRIC    456905108      8.3000        28,700.00        171,002.50        238,210.00
-INPUT/OUTPUT INC.                          0.000 IO      457652105      8.2100        46,300.00        897,971.18        380,123.00
-INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103     24.6000        39,200.00        774,921.82        964,320.00
-INSITUFORM TECHNOLOGIES CL A               0.000 INSUA   457667103     25.5800        24,100.00        476,947.59        616,478.00
-INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     14.5100           500.00         10,036.85          7,255.00
-INTER-TEL INC.                             0.208 INTL    458372109     19.2200        23,800.00        341,145.75        457,436.00
-INTERFACE INC                              1.069 IFSIA   458665106      5.6100        48,900.00        688,552.29        274,329.00
-INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     25.9000        14,892.00        355,134.15        385,702.80
-INTERVOICE-BRITE INC.                      0.000 INTV    461142101     12.8000        33,500.00        483,615.54        428,800.00
-INTL MULTIFOODS CORP                       3.347 IMC     460043102     23.9000        18,000.00        361,145.39        430,200.00
-INVACARE CORP.                             0.148 IVC     461203101     33.7100        31,100.00        714,474.97      1,048,381.00
-IONICS INC                                 0.000 ION     462218108     30.0300        18,300.00        770,369.25        549,549.00
-ITRON INC.                                 0.000 ITRI    465741106     30.3000        19,100.00        223,626.91        578,730.00
-ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     36.8700        25,900.00        770,507.37        954,933.00
-J & J SNACK FOODS CORP                     0.000 JJSF    466032109     24.4500        11,200.00        202,108.56        273,840.00
-JACK IN THE BOX INC.                       0.000 JBX     466367109     27.5400        38,100.00        593,506.25      1,049,274.00
-JAKKS PACIFIC INC.                         0.000 JAKK    47012E106     18.9500        24,200.00        388,743.44        458,590.00
-JEFFRIES GROUP INC                         0.472 JEF     472319102     42.3100        24,600.00        594,580.32      1,040,826.00
-JLG INDUSTIRES, INC.                       0.187 JLG     466210101     10.6500        40,500.00        580,629.89        431,325.00
-JO-ANN STORES, INC.                        0.000 JAS.A   47758P109      7.1500         9,700.00        115,453.91         69,355.00
-K-SWISS INC CL-A                           0.180 KSWS    482686102     33.2500        27,300.00        815,004.82        907,725.00
-K2 INC.                                    0.000 KTO     482732104      7.2100        15,500.00        106,658.60        111,755.00
-KAMAN CORP CL-A                            2.820 KAMNA   483548103     15.6000        23,600.00        381,956.95        368,160.00
+MERCURY COMPUTER SYSTEMS INC               0.000 MRCY    589378108     39.1100        22,200.00        995,836.31        868,242.00
+MESA AIR GROUP INC                         0.000 MESA    590479101      7.5200        33,500.00        268,532.71        251,920.00
+METHODE ELECTRONICS CL-A                   2.500 METHA   591520200      8.0000        38,200.00        381,670.18        305,600.00
+METRO ONE TELECOMMUNICATIONS               0.000 MTON    59163F105     30.2500        24,600.00        547,918.50        744,150.00
+MGI PHARMA INC                             0.000 MOGN    552880106     15.2800         2,200.00         38,704.71         33,616.01
+MICHAELS STORES                            0.000 MIK     594087108     32.9500        65,600.00        966,666.07      2,161,520.00
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     25.1000        19,000.00        550,485.59        476,900.00
+MICROSEMI CORP                             0.000 MSCC    595137100     29.7000        28,800.00        861,577.02        855,360.00
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     22.7000        49,500.00        752,381.66      1,123,650.00
+MIDAS INC.                                 2.782 MDS     595626102     11.5000        11,900.00        274,290.97        136,850.00
+MIDWAY GAMES INC.                          0.000 MWY     598148104     15.0100        41,900.00        637,778.32        628,919.00
+MIDWEST EXPRESS HOLDINGS INC               0.000 MEH     597911106     14.6000        15,900.00        376,300.56        232,140.00
+MILACRON, INC.                             0.253 MZ      598709103Q    15.8100        36,400.00        584,589.11        575,484.00
+MOBILE MINI INC.                           0.000 MINI    60740F105     39.1200        13,800.00        398,268.00        539,856.00
+MONACO COACH CORPORATION                   0.000 MNC     60886R103     21.8700        32,550.00        405,594.02        711,868.50
+MRO SOFTWARE INC                           0.000 MROI    55347W105     23.3800        21,800.00        790,911.63        509,684.00
+MUELLER INDUSTRIES INC.                    0.000 MLI     624756102     33.2500        32,600.00        808,875.57      1,083,950.00
+MUTUAL RISK MANAGEMENT LTD                 0.547 MM      628351108      7.3000        41,100.00        891,649.15        300,030.00
+MYERS INDUSTRIES INC.                      1.758 MYE     628464109Q    13.6500        23,430.00        325,268.96        319,819.50
+NASH FINCH CO.                             1.157 NAFC    631158102     31.1000        12,800.00        242,847.55        398,080.00
+NATIONAL PRESTO INDS INC                   7.207 NPK     637215104     27.7500         6,500.00        242,578.58        180,375.00
+NATURES SUNSHINE PRODS INC.                1.107 NATR    639027101     11.7400        22,600.00        186,283.13        265,324.00
+NAUTICA ENTERPRISES INC.                   0.000 NAUT    639089101     12.7900        38,200.00        923,486.66        488,578.00
+NBTY INC.                                  0.000 NBTY    628782104     11.7000        66,900.00        641,794.46        782,730.00
+NDC HEALTH CORP                            0.463 NDC     639480102     34.5500        33,000.00        821,526.11      1,140,150.00
+NETEGRITY INC                              0.000 NETE    64110P107     19.3600        33,500.00        649,405.00        648,560.00
+NETWORK EQUIPMENT TECH. INC.               0.000 NWK     641208103      5.4500           600.00          9,831.13          3,270.00
+NEW ENGLAND BUSINESS SERVICE               4.177 NEB     643872104     19.1500        13,300.00        388,924.85        254,695.00
+NEWFIELD EXPLORATION COMPANY               0.000 NFX     651290108     35.5100        43,100.00        929,691.08      1,530,481.00
+NJ RESOURCES CORP. COMMON                  3.846 NJR     646025106     46.8000        18,100.00        602,988.19        847,080.00
+NORTHWEST NATURAL GAS CO.                  4.941 NWN     667655104     25.5000        25,600.00        677,431.81        652,800.00
+NORTHWESTERN CORPORATION                   6.033 NOR     668074107     21.0500        23,400.00        515,214.24        492,570.00
+NOVEN PHARMACEUTICALS INC                  0.000 NOVN    670009109     17.7500        23,000.00        421,841.23        408,250.00
+NUEVO ENERGY COMPANY                       0.000 NEV     670509108     15.0000        16,200.00        305,070.30        243,000.00
+NVR INC                                    0.000 NVR     62944T105    204.0000         7,800.00        468,046.74      1,591,200.00
+NYFIX INCORPORATED                         0.000 NYFX    670712108     20.0200        25,300.00        920,973.09        506,506.00
+O’REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     36.4700        52,700.00        736,700.51      1,921,969.00
+OCEANEERING INT’L. INC.                    0.000 OII     675232102     22.1200        21,500.00        378,558.33        475,580.00
+OFFSHORE LOGISTICS                         0.000 OLOG    676255102     17.7600        22,600.00        414,499.47        401,376.00

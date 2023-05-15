@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+JOURNAL REGISTER CO                          0.535     481138105   JRC             65,200        1,201,158.10          974,740.00
+JOY GLOBAL INC                               1.125     481165108   JOYG           555,460       12,089,922.74       22,218,400.00
+JPMORGAN CHASE & CO.                         3.426     46625H100 Q JPM          8,032,533      271,549,872.94      318,811,234.78
+JUNIPER NETWORKS INC                         0.000     48203R104   JNPR         1,101,420       24,106,372.96       24,561,666.00
+JUPITERMEDIA CORP                            0.000     48207D101   JUPM            21,400          371,142.86          316,292.00
+K V PHARMACEUTICAL C                         0.000     482740206   KV.A            12,500          249,311.04          257,500.00
+K-SWISS INC CL-A                             0.616     482686102   KSWS            37,900          686,713.93        1,229,476.00
+K.C.S. ENERGY INC.                           0.330     482434206   KCS            127,800        1,577,178.59        3,095,316.00
+K&F INDUSTRIES HOLDINGS INC                  0.000     482241106   KFI             17,700          296,475.00          271,872.00
+K2 INC.                                      0.000     482732104   KTO             87,950        1,121,743.27          889,174.50
+KADANT INC                                   0.000     48282T104   KAI             51,875        1,009,707.15          959,687.50
+KAMAN CORP CL-A                              2.539     483548103   KAMN            62,451        1,018,530.26        1,229,660.19
+KANBAY INTERNATIONAL INC                     0.000     48369P207   KBAY            35,380          590,898.40          562,188.20
+KANSAS CITY LIFE INS                         2.156     484836101   KCLI            11,800          539,420.66          590,944.00
+KANSAS CITY SOUTHERN INDS                    0.000     485170302 Q KSU            116,600        1,807,429.62        2,848,538.00
+KAYDON CORP                                  1.493     486587108 Q KDN             29,800          791,697.19          957,772.00
+KB HOME                                      1.376     48666K109 Q KBH             54,527        3,460,495.26        3,961,931.82
+KBNT BANCORP INC                             1.718     482921103   KNBT            73,760        1,232,730.07        1,201,550.40
+KEANE INC.                                   0.000     486665102   KEA             50,600          918,447.39          557,106.00
+KEITHLEY INSTRUMENTS INC                     1.073     487584104   KEI             13,500          444,457.12          188,730.00
+KELLOGG CO.                                  2.568     487836108 Q K              430,196       15,780,393.74       18,593,071.12
+KELLWOOD CO.                                 2.680     488044108   KWD             12,300          402,894.29          293,724.00
+KELLY SERVICES INC CL-A                      1.525     488152208   KELYA           19,400          508,161.33          508,668.00
+KEMET CORP.                                  0.000     488360108   KEM             91,500        1,090,594.55          646,905.00
+KENEXA CORP                                  0.000     488879107   KNXA             6,100           76,494.00          128,710.00
+KENNAMETAL INC                               1.489     489170100   KMT             40,200        1,526,851.78        2,051,808.00
+KENNETH COLE PRODUCTIONS                     2.823     193294105   KCP              9,600          241,298.32          244,800.00
+KENSEY NASH CORP                             0.000     490057106   KNSY            91,460        2,628,214.78        2,014,863.80
+KERR MCGEE CORP.                             0.220     492386107 Q KMG             22,812        1,400,500.20        2,072,698.32
+KERYX BIOPHARMACEUTICALS INC                 0.000     492515101   KERX            29,200          459,462.55          427,488.00
+KEY ENERGY SERVICES INC                      0.000     492914106   KEGS           308,825        3,431,283.98        4,159,872.75
+KEYCORP                                      3.947     493267108 Q KEY             66,800        1,845,746.55        2,199,724.00
+KEYNOTE SYSTEMS INC                          0.000     493308100   KEYN           119,800        1,322,450.02        1,539,430.00
+KEYSPAN CORPORATION                          5.211     49337W100   KSE              3,500          129,889.16          124,915.00
+KEYSTONE AUTOMOTIVE                          0.000     49338N109   KEYS            64,900        1,633,416.36        2,043,052.00
+KFORCE INC                                   0.000     493732101   KFRC            67,200          535,027.30          749,952.00
+KFX INC                                      0.000     48245L107   KFX             36,000          377,223.69          615,960.00
+KIMBALL INTL INC                             6.020     494274103   KBALB           52,400          747,045.24          557,012.00
+KIMBERLY-CLARK CORP                          3.017     494368103 Q KMB            819,668       43,810,967.51       48,893,196.19
+KINDER MORGAN INC.                           3.262     49455P101   KMI             48,300        2,796,511.56        4,441,185.00

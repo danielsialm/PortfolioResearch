@@ -1,0 +1,43 @@
+ASOF02   Date 01/21/2005 Time 18:34:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 019
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMG       MID-CAP GROWTH (F)
+Instrument - COM       COMMON STOCK
+
+TELEPHONE & DATA                           0.857 TDS     879433100     76.9500        26,400.00      1,746,142.89      2,031,480.00
+TEVA PHARMACEUTICAL INDUSTRIES             0.532 TEVA    2883878       29.8600       154,800.00      3,763,996.85      4,622,328.02
+TEXAS INSTRS INC                           0.406 TXN     882508104Q    24.6200       325,000.00      7,615,725.00      8,001,500.00
+THERMO ELECTRON CORP.                      0.000 TMO     883556102     30.1900        87,000.00      2,108,267.49      2,626,530.00
+TIFFANY & CO                               0.750 TIF     886547108     31.9700        98,700.00      3,277,193.33      3,155,439.00
+TIMBERLAND CO CL-A                         0.000 TBL     887100105     62.6700        77,100.00      3,975,186.41      4,831,857.00
+TJX COS. INC.                              0.716 TJX     872540109Q    25.1300       104,200.00      2,539,559.26      2,618,546.00
+UCBH HOLDINGS INC                          0.349 UCBH    90262T308     45.8200        29,800.00        867,523.97      1,365,436.00
+UNITRIN INC.                               3.652 UTR     913275103     45.4500        23,400.00        995,189.32      1,063,530.00
+UNIVERSAL HEALTH SERVICES CL B             0.719 UHS     913903100     44.5000        69,000.00      3,056,706.87      3,070,500.00
+UNIVISION COMMUNICATIONS                   0.000 UVN     914906102     29.2700        82,600.00      2,562,803.72      2,417,702.00
+UTSTARCOM, INC                             0.000 UTSI    918076100     22.1500       299,400.00      8,388,963.96      6,631,710.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     43.2400       250,700.00      7,142,596.60     10,840,268.00
+VERISIGN INC                               0.000 VRSN    92343E102     33.5200       184,700.00      2,780,991.09      6,191,144.00
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     28.5500       648,400.00     17,895,629.60     18,511,820.00
+WASHINGTON POST CL. B                      0.752 WPO     939640108Q   983.0200         6,800.00      5,713,087.33      6,684,536.00
+WATERS CORPORATION                         0.000 WAT     941848103     46.7900       220,000.00      6,693,031.03     10,293,800.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     32.8100        95,100.00      3,052,614.90      3,120,231.00
+WELLPOINT INC.                             0.000 WLP     94973V107    115.0000       226,800.00     17,435,771.18     26,082,000.00
+WESTERN DIGITAL CORP                       0.000 WDC     958102105     10.8400       481,100.00      4,730,276.29      5,215,124.00
+WESTERN WIRELESS COR                       0.000 WWCA    95988E204     29.3000       101,200.00      2,104,228.80      2,965,160.00
+WHOLE FOODS MARKET INC                     0.797 WFMI    966837106     95.3500        19,600.00      1,207,118.27      1,868,860.00
+WYNN RESORTS LTD                           0.000 WYNN    983134107     66.9200        40,900.00      1,900,689.83      2,737,028.00
+XEROX CORP                                 0.000 XRX     984121103Q    17.0100       322,800.00      5,105,997.71      5,490,828.00
+XM SATELLITE RADIO HOLD-CL A               0.000 XMSR    983759101     37.6200       198,500.00      4,238,374.91      7,467,570.00
+XTO ENERGY INC.                            0.565 XTO     98385X106     35.3800       131,000.00      2,952,765.18      4,634,780.00
+YUM BRANDS, INC.                           0.847 YUM     988498101     47.1800       265,400.00      6,866,386.31     12,521,572.00
+
+Instrument Total           300                                                    52,999,418.50  1,410,027,640.30  1,766,516,628.42
+
+Portfolio Total            300                                                    52,999,418.50  1,410,027,640.30  1,766,516,628.42
+

@@ -1,0 +1,34 @@
+ASOF09   Date 01/21/2005 Time 18:35:30   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+MONUMENTAL GLOBAL FDG II       AA3   1.811 615322AM6        Q                25,000,000.00       25,036,883.22
+MORGAN STANLEY                 AA3   2.305 61746SAZ2        Q                35,000,000.00       35,000,000.00
+NATL CITY BK OF INDIANA        Aa3   1.166 634906DS7        Q                40,000,000.00       40,000,000.00
+PACCAR FINANCIAL CORP          A1    1.217 69371RWG7        Q                40,000,000.00       39,982,803.56
+PFIZER INC                     AAA   2.099 717081CT8        Q                30,000,000.00       30,000,000.00
+PNC BANK NA                    A1    1.837 69347KHN5        M                40,000,000.00       39,970,628.32
+ROYAL BK OF SCOTLAND PLC       AA1   2.352 78010JAA0        Q                40,000,000.00       40,002,848.26
+SLM CORP                       A2    1.184 78442FAC2        Q                35,765,000.00       35,813,146.84
+SOUTHTRUST BANK NA             A1    0.050 8447HACL6        Q                40,000,000.00       39,980,850.46
+STATE STREET BANK & TR         AA2   2.425 8574P0RR1        Q                40,000,000.00       39,984,719.09
+SUNTRUST BANK                  AA2   1.301 86787EAF4        Q                40,000,000.00       39,974,980.21
+WAL-MART STORES                AA2   1.877 931142BW2        Q                40,000,000.00       39,946,934.39
+WELLS FARGO & COMPANY          AA1   1.539 949746FH9        Q                40,000,000.00       40,061,544.75
+
+Instrument Total              46                                          1,551,033,000.00    1,551,455,986.20
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP - LIQUDITY RESERVE       0.000 IL-EQS                               288,107.87       28,810,787.32
+
+Instrument Total               1                                                288,107.87       28,810,787.32
+
+Portfolio Total               48                                          1,562,221,107.87    1,591,142,827.02      1,804,020,405.13

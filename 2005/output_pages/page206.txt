@@ -1,0 +1,51 @@
+ASOF02   Date 01/19/2006 Time 18:24:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 173
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+QUANEX CORP                                1.240 NX      747620102     49.9700       120,400.00      3,347,941.81      6,016,388.00
+QUANTA SERVICES INC.                       0.000 PWR     74762E102     13.1700        33,600.00        302,132.28        442,512.00
+RANGE RES CORP                             0.303 RRC     75281A109     26.3400        24,200.00        232,047.35        637,428.00
+RAYMOND JAMES FINANCIAL INC                1.274 RJF     754730109     37.6700        16,200.00        404,093.01        610,254.00
+ROGERS CORP.                               0.000 ROG     775133101     39.1800        61,000.00      2,361,510.53      2,389,980.00
+RUBY TUESDAY INC                           0.173 RI      781182100     25.8900        38,800.00        995,157.35      1,004,532.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103     10.0700        47,500.00        470,376.39        478,325.00
+SCANSOURCE INC                             0.000 SCSC    806037107     54.6800        24,400.00      1,137,323.43      1,334,192.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     36.4400        19,710.00        726,737.45        718,232.40
+SEACOAST BKG CORP FL                       2.614 SBCF    811707306     22.9500        17,620.00        363,963.02        404,379.00
+SELECTIVE INSURANCE GROUP                  1.657 SIGI    816300107     53.1000        17,500.00        470,856.02        929,250.00
+SHAW GROUP                                 0.000 SGR     820280105     29.0900        78,800.00      1,320,663.07      2,292,292.00
+SIGNATURE BANK                             0.000 SBNY    82669G104     28.0700        69,500.00      1,704,762.40      1,950,865.00
+SIMPSON MANUFACTURING CO                   0.880 SSD     829073105     36.3500        90,300.00      2,367,785.12      3,282,405.01
+STEEL DYNAMICS INC                         1.126 STLD    858119100     35.5100       115,600.00      3,517,516.93      4,104,956.00
+STEEL TECHNOLOGIES INC                     1.071 STTX    858147101     27.9900        75,100.00      1,493,136.80      2,102,049.00
+SUPERIOR ENERGY SVCS                       0.000 SPN     868157108     21.0500        66,100.00      1,446,870.71      1,391,405.00
+SYNIVERSE HOLDINGS INC                     0.000 SVR     87163F106     20.9000       111,000.00      1,548,850.57      2,319,900.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.1000        18,310.00        523,574.61        532,821.00
+TENNECO INC.                               0.000 TEN     880349105Q    19.6100       148,700.00      2,271,131.43      2,916,007.00
+TEXAS REGIONAL BANCSHARES INC              1.696 TRBS    882673106     28.3000        53,500.00      1,591,658.88      1,514,050.00
+TRC COS INC                                0.000 TRR     872625108     10.9500        35,600.00        538,424.94        389,820.00
+TRINITY INDUSTRIES                         0.635 TRN     896522109     44.0700       160,480.00      4,893,248.81      7,072,353.60
+U S CONCRETE INC                           0.000 RMIX    90333L102      9.4800        57,000.00        454,253.97        540,360.00
+UNITED CMNTY BKS BLA                       1.050 UCBI    90984P105     26.6600        21,800.00        569,224.95        581,188.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     23.3900        26,700.00        627,696.39        624,513.00
+UNIVERSAL FOREST PRODUCTS                  0.199 UFPI    913543104     55.2500        61,600.00      2,190,591.99      3,403,400.00
+URS CORPORATION                            0.000 URS     903236107     37.6100        70,600.00      1,943,240.59      2,655,266.00
+VALMONT INDUSTRIES                         1.016 VMI     920253101     33.4600        56,200.00      1,378,216.02      1,880,452.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     13.7600       102,200.00      1,198,190.80      1,406,272.00
+WABTEC                                     0.148 WAB     929740108     26.9000        51,300.00        888,861.22      1,379,970.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     26.7200       123,900.00      2,412,725.44      3,310,608.00
+WEBSTER FINANCIAL CORPORATION              2.132 WBS     947890109     46.9000        35,600.00      1,271,041.93      1,669,640.00
+WERNER ENTERPRISES INC                     0.812 WERN    950755108     19.7000       261,100.00      4,818,840.42      5,143,670.00
+WEST PHARMACEUTICAL SERVICES               1.917 WST     955306105     25.0300        76,200.00      1,961,468.56      1,907,286.00
+WILLIAMS SCOTSMAN INTL                     0.000 WLSC    96950G102     17.3100        12,000.00        200,730.66        207,720.00
+WOODWARD GOVERNOR CO.                      1.395 WGOV    980745103     86.0100        27,400.00      1,404,780.69      2,356,674.00
+
+Instrument Total           115                                                    14,520,386.25    161,353,126.71    197,140,299.62
+

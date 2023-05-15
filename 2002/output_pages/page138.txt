@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 110
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 500
+Instrument - COM       COMMON STOCK
+
+CATERPILLAR INC.                           3.062 CAT     149123101Q    45.7200         7,800.00        398,323.68        356,616.00
+CENDANT CORP.                              0.000 CD      151313103     10.4800        54,200.00        847,267.08        568,016.00
+CENTEX CORP                                0.318 CTX     152312104Q    50.2000         2,700.00        107,474.59        135,540.00
+CENTURYTEL, INC.                           0.714 CTL     156700106     29.3800        20,800.00        622,455.96        611,104.00
+CHARTER ONE FNCL INC.                      3.063 CF      160903100Q    28.7300         7,885.00        196,856.20        226,536.05
+CHEVRONTEXACO CORP                         4.211 CVX     166764100Q    66.4800        16,500.00      1,284,555.96      1,096,920.00
+CHIRON CORP                                0.000 CHIR    170040109     37.6000        12,400.00        413,418.95        466,240.00
+CHUBB CORP                                 2.682 CB      171232101Q    52.2000         6,500.00        321,795.05        339,300.00
+CIGNA CORP.                                3.210 CI      125509109Q    41.1200         2,400.00        177,631.05         98,688.00
+CINCINNATI FINANCIAL CORP.                 2.370 CINF    172062101Q    37.5500        11,500.00        444,439.05        431,825.00
+CINERGY CORP                               5.456 CIN     172474108Q    33.7200         7,800.00        244,846.34        263,016.00
+CINTAS CORP                                0.546 CTAS    172908105     45.7500         4,000.00        172,947.18        183,000.00
+CIRCUIT CITY STORES                        0.943 CC      172737108Q     7.4200        16,000.00        235,336.77        118,720.00
+CISCO SYSTEMS                              0.000 CSCO    17275R102     13.1000        67,000.00      1,792,866.92        877,700.01
+CITIGROUP INC.                             2.046 C       172967101Q    35.1900        81,900.00      2,474,065.67      2,882,061.00
+CITRIX SYSTEMS INC                         0.000 CTXS    177376100     12.3200         4,200.00         55,206.48         51,744.00
+CLEAR CHANNEL COMMUNICATIONS               0.000 CCU     184502102     37.2900        12,900.00        892,610.49        481,041.00
+CLOROX COMPANY                             2.133 CLX     189054109Q    41.2500        19,900.00        807,182.91        820,875.00
+COCA COLA CO.                              1.825 KO      191216100Q    43.8200        31,000.00      1,732,017.42      1,358,420.00
+COCA-COLA ENTERPRISE                       0.736 CCE     191219104     21.7200        37,500.00        955,102.92        814,500.00
+COLGATE PALMOLIVE                          1.373 CL      194162103Q    52.4300        16,300.00        713,916.12        854,609.00
+COMCAST CORP - CL A                        0.000 CMCSA   20030N101     23.5700        47,965.00      1,502,182.02      1,130,535.04
+COMERICA INC.                              4.440 CMA     200340107Q    43.2400         6,500.00        300,813.46        281,060.00
+COMPUTER ASSOCIATE INTL. INC.              0.592 CA      204912109S    13.5000         6,500.00        230,295.70         87,750.00
+COMPUTER SCIENCES                          0.000 CSC     205363104     34.4500        12,600.00        489,917.92        434,070.00
+CONAGRA FOODS, INC.                        3.958 CAG     205887102Q    25.0100        29,800.00        714,455.91        745,298.00
+CONCORD EFS INC.                           0.000 CE      206197105     15.7400         5,700.00        105,295.86         89,718.00
+CONOCOPHILLIPS                             3.306 COP     20825C104Q    48.3900        12,801.00        621,345.90        619,440.39
+CONSOLIDATED EDISON INC.                   5.231 ED      209115104Q    42.8200        11,900.00        417,660.77        509,558.00
+CONSTELLATION ENERGY GROUP INC             3.450 CEG     210371100Q    27.8200         5,800.00        145,305.07        161,356.00
+CONVERGYS CORPORATION                      0.000 CVG     212485106     15.1500         3,700.00         88,365.54         56,055.00
+COOPER INDUSTRIES LTD - CLASS              3.840 CBE     G24182100Q    36.4500         1,000.00         40,314.39         36,450.00
+COOPER TIRE & RUBBER                       2.737 CTB     216831107Q    15.3400         8,100.00        139,816.68        124,253.99
+COORS (ADOLPH) CL-B                        1.338 RKY     217016104Q    61.2500         7,100.00        421,987.87        434,875.00
+COSTCO WHOLESALE CORP.                     0.000 COST    22160K105     28.0600         7,400.00        277,577.91        207,644.00
+COUNTRYWIDE FINANCIAL CORP                 0.929 CFC     222372104Q    51.6500        14,700.00        729,041.35        759,255.00
+CSX CORP.                                  1.412 CSX     126408103Q    28.3100        10,200.00        418,212.70        288,762.00
+CUMMINS INC.                               4.265 CUM     231021106Q    28.1300         2,600.00        106,067.98         73,138.00
+CVS CORP.                                  0.921 CVS     126650100Q    24.9700        12,800.00        413,966.45        319,616.00

@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 034
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CHINATRUST FINANCIAL HOLDING CO.             0.000     6527666      2891_     1,815,351.11        1,127,728.76
+CIA DE MINAS BUENAVENTURA-B                  0.052     2894988      CMB/C        55,000.00          586,171.67
+CIA DE PETROLEOS DE CHILE                    0.000     2196026      COPEC        75,000.00          525,138.86
+CIPLA LIMITED                                0.000     6099972      CIPLA        37,747.00          678,927.57
+COFCO INTERNATIONAL LTD.                     0.000     6105738      506_H     2,000,000.00          532,126.58
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_        80,000.00          342,147.56
+COMPAL ELECTRONICS                           0.000     6225744      2324_     2,339,100.00        2,017,280.70
+CREDICORP LTD                                1.877     2232878      BAP          40,000.00          393,570.50
+DAEWOO SHIPBUILDING & MARINE                 0.000     6211732      04266       130,400.00        1,035,142.26
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     2,451,246.70        3,401,701.56
+DIMENSION DATA HLDGS PLC                     0.000     6264639      DDT_S     1,500,000.00        1,479,835.48
+DR REDDY'S LABORATORIES                      0.000     6410959      DRRD_        16,000.00          300,518.73
+ECI TELECOM ORD IL                           3.490     2310150      ECIL         29,113.00          240,248.99
+ELECTRICITY GENRTG                           0.065     6304643      EGCOM        86,500.00          120,506.81
+EMPRESAS CMPC S.A.                           0.000     2196015      CMPC_        50,000.00          444,888.25
+ENERSIS                                      0.000     2299453      ENERS     3,250,000.00          435,934.90
+FOMENTO ECON MEXIC                           0.000     2242059      FEMSA       500,000.00        1,588,226.27
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    50,000,000.00          236,492.87
+FUBON FINL HOLDING CO.                       0.000     6411673      2881_     1,200,000.00          857,257.01
+GAMUDA BERHAD                                0.174     6359881      GAM_M       300,000.00          410,938.45
+GEDEON RICHTER RT                            0.000     4042387      RICHT        19,000.00        1,083,312.92
+GENTING BERHAD                               0.000     6366676      GENT_       640,097.00        1,493,497.90
+GIGABYTE TECHNOLOGY CO.                      0.000     6129181      2376_     1,681,966.24        3,025,166.21
+GOLD FIELDS LIMITE                           0.000     6280215      GFI_S       200,000.00        2,374,170.13
+GPO FINANCIERO BBV                           0.000     2968786      GFBBB     2,900,000.00        2,359,776.04
+GPO IND BIMBO SER'                           0.000     2392471      BIMBO       125,000.00          214,629.93
+GRUPO MODELO S.A.                            0.000     2380539      GMODE       300,000.00          682,171.58
+GUJARAT AMBUJA CEMENTS LTD                   0.000     6100119      YGAMB        65,534.00          261,181.33
+HACI OMER SABANCI HOLDING                    0.000     5268568      SAHOL   168,387,171.00          447,825.74
+HANSSEM CO LTD                               0.000     6536684      00924       144,000.00        1,125,089.30
+HERO HONDA MOTORS LIMITED                    0.000     6327327      HH_IN        47,050.00          195,623.22
+HINDUSTAN LEVER                              0.000     6261674      HLVR_       366,000.00        1,442,209.12
+HINDUSTAN PETROLEUM CORP                     0.000     6100476      HPCL_        59,000.00          335,466.51
+HOUSING DEVELOPMENT FINANCE                  0.000     6171900      HDFC_       100,000.00          707,562.83
+HURRIYET GAZETECILIK                         0.000     4445276      HURGZ    71,989,600.00          108,688.84
+HYOSUNG CORPORATION                          0.000     6896838      00480       146,640.00        1,443,837.51
+HYUNDAI MARINE AND FIRE INS. CO              0.000     6451077      00145        26,000.00          561,545.92
+HYUNDAI MOTOR CO K                           0.000     6451055      00538        99,116.00        1,950,615.23
+ICICI BANK LTD                               0.000     6100368      ICICI       231,000.00          661,888.17

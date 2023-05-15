@@ -1,0 +1,18 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 061
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SNP       S&P 500 PASSIVE
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+EQUITY RESIDENTIAL PROP                    7.038 EQR     29476L107Q    24.5800       122,281.00      2,755,152.25      3,005,666.99
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700        84,770.00      3,042,192.06      2,888,113.90
+
+Instrument Total             3                                                       392,947.00     11,019,587.85     10,537,462.95
+
+Portfolio Total            501                                                   127,092,314.62  4,647,520,753.50  4,617,465,756.92
+

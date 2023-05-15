@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 026
+ASOF11   Date 01/24/2002 Time 21:29:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 028
 
 Monthly Market Portfolio
 
@@ -9,42 +9,35 @@ Group - INTERNATIONAL
 Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-REED INTERNATIONAL                           2.558     0730835      REED_        56,473.00          481,776.96
-REPSOL - YPF, SA                             0.914     5669354      REP_S       108,632.00        1,641,275.12
-REUTERS GROUP ORD                            3.096     0236913      RTR_L       101,787.00        1,100,936.82
-RHONE POULENC ORD                            0.378     4736817      AVE_F        25,193.00        1,647,597.43
-RICOH CO Y50                                 0.000     6738220      7752_        39,000.00          665,439.87
-RIO TINTO LIMITED                            0.759     6220103      RIO_A        79,274.00        1,420,918.96
-RIO TINTO PLC                                9.240     0718875      RIO_L       112,893.00        1,843,742.27
-ROCHE HLDGS AG CHF                           0.300     7108918      RO_SW         3,814.00          431,534.79
-ROCHE HLDGS AG GEN                           0.005     7110388      ROG_V        13,687.00        1,133,679.52
-ROHM CO JPY50                                0.000     6747204      6963_         7,500.00        1,033,669.08
-ROYAL BK SCOT GBP                            9.210     0754783      RBOS_       188,850.00        3,316,086.93
-ROYAL DUTCH PETROL                           2.213     5202704      RDA_N        11,502.00          662,792.09
-RWE AG                                       3.229     4768962      RWE_G        10,600.00          399,879.89
-RYANAIR HOLDINGS                             0.000     3111761      RYA_I         5,000.00           51,933.38
-SAINSBURY(J) GBP0.                           5.524     0767640      SBRY_        58,327.00          309,906.15
-SAMPO-LEONIA INSURANCE COMPANY PLC           4.844     5226038      SAMAS        47,200.00          353,748.18
-SANOFI SYNTHELABO                            0.359     5671735      SAN_F        11,870.00          797,714.97
-SAP AG NPV(SWISS C                           0.206     4846288      SAP_G         4,800.00          513,527.83
-SCHERING AG DEM NP                           1.467     4845757      SCH_G         3,000.00          150,586.49
-SCHNEIDER ELECTRIC                           1.392     4834108      SU_FP         8,281.00          375,246.16
-SCOT POWER PLC 0.5                         288.703     0690070      SPW_L       109,782.00          679,239.39
-SHARP CORP JPY50                             0.000     6800602      6753_        64,000.00          857,194.59
-SHELL TRANSPORTATION & TRADING              13.886     0803414      SHEL_       338,857.00        2,635,033.17
-SHIN-ETSU CHEMICAL                           0.000     6804585      4063_        33,700.00        1,054,995.64
-SIEMENS AG DEM 5.0                           0.487     5727973      SIE_G        15,900.00          799,237.29
-SIX CONTINENTS                              10.565     0243195      SXC_L       118,519.00        1,210,759.39
-SKY CITY LIMITED                             4.141     6823193      SKC_N       249,100.00          595,826.46
-SMURFIT (JEFFERSON) GROUP                    0.811     0819143      SMFT_       157,600.00          333,434.81
-SOCIETE GENERALE                             2.597     5966516      GLE_F         8,636.00          438,011.55
-SOLVAY SA NPV                                1.953     4821100      SOLB_         9,100.00          518,905.00
-SONERA GROUP PLC 0                           0.842     5556586      SRA1V        91,200.00          455,842.38
-SONY CORP JPY50                              0.000     6821506      6758_        45,452.00        2,120,757.99
-SPAR HANDELS                                 0.000     5106709      SPA_G           200.00            3,721.58
-STATOIL ASA                                  0.000     7133608      STL_N       265,600.00        1,784,850.52
-STMICROELECTRONICS NV                        0.097     5962332      STM_F        14,984.00          323,416.78
-STORA ENSO OY J-R                            1.667     5072673      STERV        42,400.00          562,281.85
-STOREBRAND ASA NOK                           0.025     4852832      STB_N       100,600.00          569,080.19
-SUEZ EUR                                     1.330     7118047      SZE_F        24,032.00          775,931.78
-SUMITOMO BAKELITE CO.                        0.000     6858504      4203_        88,000.00          509,117.24
+VNU NV EUR                                   1.328     4970950      VNUN_           609.00           27,365.52
+VODAFONE GROUP                              22.621     0719210      VOD_L     3,970,604.00       11,145,111.60
+VOEST-ALPINE                                 3.296     4943402      VAST_        20,000.00          561,500.90
+VOLKSWAGEN AG                                1.783     5497102      VOW_G         4,700.00          182,300.72
+WAREHOUSE GROUP LTD                          0.009     6939625      WHS_N       618,800.00        1,717,833.03
+WESFARMERS LTD                               0.370     6948836      WES_A        93,850.00        1,529,279.76
+WESTPAC BANKING CO                           1.020     6076146      WBC_A       273,949.00        2,086,773.32
+WHARF(HLDGS) HKD1                            0.525     6435576      64355       155,100.00          357,420.17
+WIENERBERGER BAUST                           3.948     5699373      WBST_        62,300.00          853,540.27
+WMC NPV                                      0.253     6954985      WMC_A       135,300.00          663,143.01
+WOLTERS KLUWER NV                            1.338     5671519      WLSNC         5,447.00          126,165.22
+WOOLWORTHS LIMITED                           0.317     6981239      WOW_A       297,400.00        1,713,290.28
+WPP GROUP                                    0.766     0974042      WPP_L        82,233.00          800,157.84
+YAMANOUCHI PHARM J                           0.000     6985383      4503_        43,000.00        1,228,112.87
+ZELTIA SA                                    0.177     4370839      ZEL_S        17,200.00          139,266.85
+ZURICH FINANCIAL SERVICES CHF10              0.932     5983816      ZURN_         2,015.00          796,270.07
+
+Instrument Total             289                                             40,205,946.00      327,237,822.14
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   13,338.72        1,333,872.16
+
+Instrument Total               1                                                 13,338.72        1,333,872.16
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP                0.000     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              291                                             40,282,068.72      328,571,694.30        327,099,528.73

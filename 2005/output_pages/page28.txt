@@ -1,0 +1,24 @@
+ASOF01   Date 01/19/2006 Time 18:24:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME - EXTERNALLY MANAGED
+Portfolio  - HUFF      W.R. HUFF ASSET MANA
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+HUFF - FIXED INCOME                0.0000  0.000 IF-HUFF            00/00/0000     3,086,195.43    308,619,543.53
+HUFF - LIQUIDITY                   0.0000  0.000 IL-HUFF            00/00/0000       123,060.61     12,306,061.40
+
+Instrument Total               2                                                   3,209,256.04    320,925,604.93
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+SECURITY LENDING INCOME - EXT.     0.0000  0.000 SL-EXFI            00/00/0000             0.00              0.01
+
+Instrument Total             1                                                             0.00              0.01
+
+Portfolio Total              3                                                     3,209,256.04    320,925,604.94    318,918,893.44
+

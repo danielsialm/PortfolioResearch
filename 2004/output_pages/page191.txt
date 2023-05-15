@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 159
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+BERKSHIRE HILLS BANC                       1.292 BHL     084680107     37.1500           500.00         16,591.00         18,575.00
+BISYS GROUP INC.                           0.000 BSG     055472104     16.4500        63,200.00        909,437.50      1,039,639.99
+BLOUNT INTERNATIONAL                       0.000 BLT     095180105     17.4200        10,100.00        168,215.50        175,942.00
+BRUSH ENGINEERED MATERIALS                 2.594 BW      117421107     18.5000         6,200.00        118,620.26        114,700.00
+BUCKLE INC                                 1.627 BKE     118440106     29.5000         4,400.00         88,977.75        129,800.00
+BUILDING MATERIALS HLDG. CORP.             0.835 BMHC    120113105     38.2900        12,200.00        166,894.78        467,138.00
+C&D TECHNOLOGIES INC.                      0.322 CHP     124661109     17.0400        22,200.00        366,096.54        378,288.00
+CAPITAL CITY BK GROU                       1.818 CCBG    139674105     41.8000         2,100.00         75,444.60         87,780.00
+CAPITAL CORP OF THE WEST                   0.425 CCOW    140065103     47.0010         3,700.00        120,657.34        173,903.70
+CARDIAC SCIENCE INC                        0.000 DFIB    141410209      2.1400        20,100.00         42,288.39         43,014.00
+CARMIKE CINEMAS INC                        1.917 CKEC    143436400     36.5000        13,800.00        458,620.92        503,700.00
+CARPENTER TECHNOLOGY                       0.684 CRS     144285103     58.4600        18,200.00        564,556.85      1,063,972.00
+CATO CORP CL A                             2.428 CTR     149205106     28.8200        19,100.00        397,118.98        550,462.00
+CELERA GENOMICS GROUP                      0.000 CRA     038020202     13.7500        81,500.00      1,111,513.93      1,120,625.00
+CELL GENESYS INC                           0.000 CEGE    150921104      8.1000        29,400.00        223,639.92        238,140.00
+CENTRAL PACIFIC FINANCIAL CORP             1.769 CPF     154760102     36.1700         1,000.00         25,396.97         36,170.00
+CHARMING SHOPPES                           0.000 CHRS    161133103      9.3700       108,800.00        918,230.20      1,019,456.00
+CHARTERMAC                                 6.710 CHC     160908109     24.4400        13,100.00        266,557.35        320,164.00
+CHESAPEAKE UTILITIES CORP                  4.194 CPK     165303108     26.7000         2,700.00         57,781.27         72,090.00
+CHITTENDEN CORPORATION                     2.506 CHZ     170228100     28.7300        35,500.00        807,038.37      1,019,915.00
+COHU INC.                                  1.077 COHU    192576106     18.5600         1,800.00         32,739.84         33,408.00
+COLLAGENEX PHARMACEUTICALS INC             0.000 CGPI    19419B100      7.3400         9,400.00         56,472.38         68,996.00
+COLUMBIA BANCORP                           1.988 CBMD    197227101     34.1900           800.00         19,310.80         27,352.00
+COMMERCE GROUP INC M                       2.162 CGI     200641108     61.0400        11,300.00        538,027.53        689,752.00
+COMMERCIAL FEDERAL CORP.                   1.817 CFB     201647104     29.7100        29,100.00        720,796.07        864,561.00
+COMMERCIAL METALS CO.                      0.474 CMC     201723103     50.5600         8,800.00        436,407.04        444,928.00
+COMMUNITY BANK SYSTEM INC                  2.548 CBU     203607106     28.2500         9,600.00        141,850.67        271,200.00
+COMMUNITY HEALTH SYS                       0.000 CYH     203668108     27.8800        15,500.00        469,494.31        432,140.00
+COMMUNITY TR BANCORP                       2.966 CTBI    204149108     32.3600         2,420.00         58,660.00         78,311.20
+COMPUCREDIT CORP                           0.000 CCRT    20478N100     27.3400        19,800.00        443,118.95        541,332.00
+COMPUTER NETWORK TECH CORP                 0.000 CMNT    204925101      7.1000        16,500.00         94,749.60        117,150.00
+CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204      2.8600        31,300.00         74,209.17         89,518.00
+CONSOLIDATED GRAPHICS INC.                 0.000 CGX     209341106     45.9000         5,100.00        121,179.45        234,090.00
+CORN PRODUCTS INT'L INC.                   1.045 CPO     219023108     53.5600        24,500.00      1,035,291.17      1,312,220.00
+CREDENCE SYSTEMS CORP                      0.000 CMOS    225302108      9.1500        10,000.00         94,540.00         91,500.00
+CT COMMUNICATIONS IN                       2.113 CTCI    126426402     12.3000         6,995.00         84,388.98         86,038.50
+CTS CORP.                                  0.902 CTS     126501105     13.2900        33,600.00        249,144.43        446,544.00
+CYTEC INDUSTRIES                           0.777 CYT     232820100Q    51.4200         8,200.00        363,622.44        421,644.00
+DATASCOPE CORP                             0.705 DSCP    238113104     39.6900         6,500.00        259,217.08        257,985.00

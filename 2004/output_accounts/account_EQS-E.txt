@@ -1,0 +1,17 @@
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+FREDDIE MAC DISCOUNT NOTE            2.315 313397CM1                          8,100,000.00        8,068,986.49
+GENERAL ELEC CO                      2.189 36959HP92                         11,400,000.00       11,373,424.75
+GENERAL ELEC CO                      2.360 36959HQH3                          5,520,000.00        5,492,949.18
+GENERAL ELECTRIC CAP CORP.           2.196 36959HNQ6                          7,100,000.00        7,090,247.83
+PROCTER & GAMBLE CO                  2.370 74271TQ89                         11,400,000.00       11,350,374.70
+
+Instrument Total               5                                             43,520,000.00       43,375,982.95
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQS-E                                0.000 IL-EQSE                                6,721.29          672,129.32
+
+Instrument Total               1                                                  6,721.29          672,129.32
+
+Portfolio Total                6                                             43,526,721.29       44,048,112.27         47,919,712.44

@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 100
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+BANK MUTUAL CORP                           2.452 BKMU    063750103     10.6000           100.00          1,129.08          1,060.00
+BANK OF GRANITE CORP                       3.022 GRAN    062401104     18.5300           100.00          1,993.11          1,853.00
+BANKATLANTIC BANCORP INC                   1.085 BBX     065908501     14.0000           200.00          2,268.64          2,800.00
+BANKFINANCIAL CORP                         0.000 BFIN    06643P104     14.6800         4,400.00         62,568.00         64,592.00
+BANTA CORP                                 1.445 BN      066821109     49.8000           200.00          7,674.02          9,960.00
+BARNES GROUP INC.                          2.666 B       067806109     33.0000           100.00          2,475.04          3,300.00
+BEACON ROOFING SUPPLY INC                  0.000 BECN    073685109     28.7300         2,400.00         74,308.15         68,952.00
+BEARINGPOINT INC                           0.000 BE      074002106      7.8600           600.00          4,387.53          4,716.00
+BEASLEY BROADCAST GR                       1.850 BBGI    074014101     13.5100         1,300.00         18,766.54         17,563.00
+BEL FUSE INC-CL B                          0.628 BELFB   077347300     31.8000         1,600.00         51,673.44         50,880.00
+BELL MICROPRODUCTS INC                     0.000 BELM    078137106      7.6500         5,800.00         55,891.60         44,370.00
+BENTLEY PHARMACEUTIC                       0.000 BNT     082657107     16.4100         1,700.00         19,278.02         27,897.00
+BERKSHIRE HILLS BANC                       1.671 BHLB    084680107     33.5000         1,400.00         49,592.91         46,900.00
+BEVERLY ENTERPRISES                        0.000 BEV     087851309     11.6700           500.00          3,666.92          5,835.00
+BEVERLY HILLS BANCORP INC                  4.821 BHBC    087866109     10.3700           200.00          2,054.41          2,074.00
+BFC FINANCIAL CORP                         0.000 BFCF    055384200      5.5200         4,300.00         37,220.31         23,736.00
+BIG 5 SPORTING GOODS CORP                  1.279 BGFV    08915P101     21.8900           100.00          2,374.44          2,189.00
+BIG LOTS, INC.                             0.000 BLI     089302103     12.0100           400.00          5,391.58          4,804.00
+BIO RAD LABS INC                           0.000 BIO     090572207     65.4400           300.00         17,318.30         19,632.00
+BIOMARIN PHARMACEUTI                       0.000 BMRN    09061G101     10.7800         6,800.00         46,172.73         73,304.00
+BIOSCRIP INC                               0.000 BIOS    09069N108      7.5400           100.00            609.68            754.00
+BIOSITE INC.                               0.000 BSTE    090945106     56.2900           100.00          4,711.97          5,629.00
+BKF CAP GROUP INC                          2.638 BKF     05548G102     18.9500         1,200.00         41,214.26         22,740.00
+BLACK BOX CORPORATION                      0.506 BBOX    091826107     47.3800           300.00         13,182.92         14,214.00
+BLACK HILLS CORP                           3.698 BKH     092113109     34.6100         1,200.00         38,056.14         41,532.00
+BLACKBOARD INC                             0.000 BBBB    091935502     28.9800           500.00         11,010.90         14,490.00
+BLAIR CORP.                                3.081 BL      092828102Q    38.9400           200.00          6,957.06          7,788.00
+BLOCKBUSTER INC. CLASS A                   2.133 BBI     093679108Q     3.7500         4,500.00         41,930.66         16,875.00
+BLUE COAT SYSTEMS INC                      0.000 BCSI    09534T508     45.7200         1,200.00         51,254.03         54,864.00
+BLUE NILE INC                              0.000 NILE    09578R103     40.3100           100.00          3,213.85          4,031.00
+BLUEGREEN CORP                             0.000 BXG     096231105     15.8000           100.00          1,312.97          1,580.00
+BOB EVANS FARMS                            2.081 BOBE    096761101Q    23.0600           100.00          2,909.59          2,306.00
+BON-TON STORES                             0.522 BONT    09776J101     19.1300           400.00          5,764.18          7,652.00
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101      6.5300           300.00          2,954.60          1,959.00
+BOSTON PRIVATE FINL HOLDING                0.920 BPFH    101119105     30.4200           100.00          2,415.78          3,042.00
+BOTTOMLINE TECHNOLOGIES INC                0.000 EPAY    101388106     11.0200         2,700.00         40,284.21         29,754.00
+BOWATER INC.                               2.604 BOW     102183100Q    30.7200           200.00          6,813.71          6,144.00
+BRADY CORPORATION                          1.437 BRC     104674106     36.1800           100.00          1,675.16          3,618.00
+BRIGGS & STRATTON                          2.268 BGG     109043109Q    38.7900           200.00          6,851.29          7,758.00

@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 020
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CLEAN HARBORS INC                            0.000     184496107   CLHB            16,000          359,299.20          460,960.00
+CLEAR CHANNEL COMMUNICATIONS                 2.384     184502102   CCU            987,200       43,232,212.95       31,047,440.00
+CLECO CORP. HOLDING CO.                      4.316     12561W105   CNL             64,800        1,268,258.36        1,351,080.00
+CLEVELAND-CLIFFS INC                         0.903     185896107 Q CLF             74,200        4,226,376.99        6,571,894.00
+CLICK COMMERCE INC                           0.000     18681D208   CKCM             8,700          188,599.47          182,874.00
+CLOROX COMPANY                               2.039     189054109 Q CLX            115,992        6,077,039.74        6,598,784.88
+CMGI INC                                     0.000     125750109   CMGI           240,900          399,337.07          366,168.00
+CMS ENERGY CORP                              4.962     125896100 Q CMS            670,800        9,175,513.14        9,733,308.00
+CNA FINANCIAL CORP                           0.000     126117100   CNA             19,900          481,503.82          651,327.00
+CNA SURETY CORP                              0.000     12612L108   SUR             59,035          723,656.91          860,139.95
+CNET NETWORKS INC                            0.000     12613R104   CNET           103,500          793,540.47        1,520,415.00
+CNF TRANSPORTATION                           0.715     12612W104 Q CNF             24,100        1,142,832.29        1,346,949.00
+CNH GLOBAL N.V.                              1.014     N20935206   CNH             51,900          749,645.93          962,226.00
+CNS INC                                      1.095     126136100   CNXS            28,000          639,365.61          613,480.00
+COACH INC                                    0.000     189754104   COH          1,237,492       23,097,215.59       41,257,983.28
+COACHMEN INDUSTRIES INC                      2.032     189873102   COA             15,000          232,177.30          177,150.00
+COASTAL FINL CORP DE                         1.555     19046E105   CFCP            16,874          187,558.18          216,999.64
+COCA COLA CO.                                2.778     191216100 Q KO           4,292,928      196,139,825.52      173,047,927.68
+COCA-COLA ENTERPRISE                         0.834     191219104   CCE            586,400       12,394,091.87       11,241,288.00
+COEUR D'ALENE MINES CORP.                    0.000     192108108   CDE          1,150,400        3,622,571.65        4,601,600.00
+COGENT COMMUNICATIONS GROUP                  0.000     19239V302   COI              7,600           53,651.44           41,724.00
+COGENT INC                                   0.000     19239Y108   COGT             7,200          200,089.33          163,296.00
+COGNEX CORP.                                 1.063     192422103   CGNX           137,198        3,538,111.71        4,128,287.82
+COGNIZANT TECH SOLUTIONS CORP                0.000     192446102   CTSH             6,200          283,938.99          312,170.00
+COHERENT INC.                                0.000     192479103   COHR            43,700        1,172,085.19        1,297,016.00
+COHU INC.                                    1.049     192576106   COHU            39,000        1,161,275.40          891,930.00
+COINSTAR INC                                 0.000     19259P300   CSTR             3,000           63,902.96           68,490.00
+COLDWATER CREEK INC.                         0.000     193068103   CWTR            89,442        1,739,488.25        2,730,664.26
+COLEY PHARMACEUTICAL GROUP                   0.000     19388P106   COLY             7,000          127,540.00          106,120.00
+COLGATE PALMOLIVE                            2.114     194162103 Q CL             963,614       41,390,025.77       52,854,227.90
+COLLEGIATE FUNDING SERVICES                  0.000     19458M108   CFSI            36,900          541,054.36          728,775.00
+COLONY BANKCORP                              1.201     19623P101   CBAN             5,800          177,572.80          144,884.00
+COLUMBIA BANCORP                             1.842     197227101   CBMD             5,865          197,785.25          241,931.25
+COLUMBIA BANKING SYSTEM INC                  1.681     197236102   COLB            16,529          380,012.80          471,902.95
+COMCAST CORP - CL A                          0.000     20030N101   CMCSA        5,108,802      152,213,386.60      132,624,499.92
+COMCAST CP CL A SPL                          0.000     20030N200 Q CMCSK            6,582          207,056.04          169,091.58
+COMERICA INC.                                3.876     200340107 Q CMA             48,557        2,546,661.75        2,756,095.32
+COMFORT SYS USA INC                          1.087     199908104   FIX             82,200          635,445.83          756,240.00
+COMMERCE BANCORP INC                         1.394     200519106   CBH             21,100          681,132.05          726,051.00
+COMMERCE BANCSHARES                          1.841     200525103   CBSH            10,461          460,451.20          545,227.32

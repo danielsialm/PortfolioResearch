@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 053
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+BROOKS AUTOMATION INC                      0.000 BRKS    114340102     17.2200        33,700.00        832,685.03        580,314.00
+BROOKSTONE INC                             0.000 BKST    114537103     19.5500        22,317.00        343,715.70        436,297.35
+BROWN SHOE COMPANY INC                     1.340 BWS     115736100Q    29.8300        28,300.00        780,310.07        844,189.00
+BRUKER BIOSCIENCES CORP                    0.000 BRKR    116794108      4.0300        23,800.00        113,441.84         95,914.00
+BRUSH ENGINEERED MATERIALS                 2.594 BW      117421107     18.5000        10,500.00        114,084.94        194,250.00
+BUCKEYE TECHNOLOGIES INC.                  0.000 BKI     118255108     13.0100        32,600.00        394,229.14        424,126.00
+BUCKLE INC                                 1.627 BKE     118440106     29.5000        15,800.00        404,362.62        466,100.00
+BUCYRUS INTERNATIONAL INC-A                0.565 BUCY    118759109     40.6400        13,700.00        467,585.11        556,768.00
+BUFFALO WILD WINGS INC                     0.000 BWLD    119848109     34.8100         6,300.00        178,608.37        219,303.00
+BUILD-A-BEAR WORKSHOP INC                  0.000 BBW     120076104     35.1500         9,900.00        313,718.13        347,985.00
+BUILDING MATERIALS HLDG. CORP.             0.835 BMHC    120113105     38.2900        22,432.00        353,658.00        858,921.28
+BURLINGTON COAT FACTORY WAREHO             0.176 BCF     121579106     22.7000        29,800.00        538,162.42        676,460.00
+C-COR INC                                  0.000 CCBL    125010108      9.3000        47,809.00        327,903.99        444,623.70
+C&D TECHNOLOGIES INC.                      0.322 CHP     124661109     17.0400        28,200.00        563,690.30        480,528.00
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     40.0500        21,378.00        815,169.83        856,188.90
+CABOT OIL & GAS CORP.                      0.361 COG     127097103Q    44.2500        36,600.00      1,262,378.44      1,619,550.00
+CACHE INC                                  0.000 CACH    127150308     18.0200        10,600.00        157,191.91        191,012.00
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     68.1300        32,400.00        967,279.37      2,207,412.00
+CAL DIVE INTERNATIONAL INC                 0.000 CDIS    127914109     40.7500        42,500.00        958,916.32      1,731,875.00
+CAL-MAINE FOODS INC                        0.413 CALM    128030202     12.0900        35,500.00        491,379.35        429,195.00
+CALAMOS ASSET MANAGEMENT-A                 0.000 CLMS    12811R104     27.0000        22,200.00        532,065.35        599,400.00
+CALGON CARBON CORP.                        1.321 CCC     129603106Q     9.0800        37,700.00        255,036.31        342,316.00
+CALIFORNIA PIZZA KITCHEN INC               0.000 CPKI    13054D109     23.0000        21,200.00        408,491.50        487,600.00
+CALIFORNIA WTR SVC G                       3.001 CWT     130788102     37.6500        18,900.00        521,187.32        711,585.00
+CALLAWAY GOLF COMPANY                      2.074 ELY     131193104     13.5000        74,700.00      1,067,350.03      1,008,450.00
+CALLON PETROLEUM CORP                      0.000 CPE     13123X102     14.4600        13,900.00        195,234.13        200,994.00
+CALLWAVE INC                               0.000 CALL    13126N101     15.4400         4,400.00         57,720.50         67,936.00
+CALPINE CORPORATION                        0.000 CPN     131347106      3.9400       493,200.00      3,673,679.26      1,943,208.00
+CAMBREX CORP.                              0.442 CBM     132011107     27.1000        29,000.00        710,691.59        785,900.00
+CAMCO FINANCIAL CORP                       3.766 CAFI    132618109     15.4000             1.00             16.51             15.40
+CAMDEN NATL CORP                           2.029 CAC     133034108     39.4100        14,400.00        452,580.04        567,504.00
+CANCERVAX CORP                             0.000 CNVX    13738Y107     10.8500        18,400.00        158,305.83        199,640.00
+CANDELA CORP                               0.000 CLZR    136907102     11.3600        21,400.00        247,345.83        243,104.00
+CAPITAL CITY BK GROU                       1.818 CCBG    139674105     41.8000         4,757.00        189,677.26        198,842.60
+CAPITAL CORP OF THE WEST                   0.425 CCOW    140065103     47.0010         5,600.00        188,812.91        263,205.60
+CAPITAL CROSSING BANK                      0.000 CAPX    140071101     30.6900        12,600.00        359,573.18        386,694.00
+CAPITAL SOUTHWEST CORP                     1.018 CSWC    140501107     78.5200         3,000.00        235,193.47        235,560.00
+CAPITOL BANCORP LTD                        1.930 CBC     14056D105     35.2200        11,300.00        308,080.86        397,986.00
+CAPSTONE TURBINE CORP                      0.000 CPST    14067D102      1.8300       228,100.00        455,225.51        417,423.00

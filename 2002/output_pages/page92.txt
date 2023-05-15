@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 064
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+CIRRUS LOGIC INC                           0.000 CRUS    172755100      2.8800        12,300.00        198,249.59         35,424.00
+CITY NATIONAL CORP                         1.773 CYN     178566105     43.9900         7,300.00        234,408.16        321,127.00
+CLAIRE'S STORES INC                        0.725 CLE     179584107     22.0700         7,200.00        143,755.50        158,904.00
+CLAYTON HOMES INC.                         0.492 CMH     184190106Q    12.1800        19,975.00        262,517.70        243,295.50
+CLECO CORP. HOLDING CO.                    6.428 CNL     12561W105     14.0000         6,900.00        100,524.42         96,600.00
+CNF TRANSPORTATION                         1.203 CNF     12612W104Q    33.2400         7,300.00        282,706.46        242,652.00
+COACH INC                                  0.000 COH     189754104     32.9200        13,100.00        192,006.40        431,252.00
+COLONIAL BANCGROUP INC.                    4.694 CNB     195493309     11.9300        18,200.00        267,288.94        217,126.00
+COMMERCE BANCORP INC                       1.528 CBH     200519106     43.1900         9,900.00        234,406.93        427,581.00
+COMMSCOPE INC.                             0.000 CTV     203372107      7.9000         8,700.00        122,836.09         68,730.00
+COMPASS BANCSHARES INC                     3.198 CBSS    20449H109     31.2700        18,900.00        539,480.62        591,003.00
+CONSTELLATION BRANDS INC-A                 0.000 STZ     21036P108     23.7100        13,300.00        194,855.58        315,343.00
+COOPER CAMERON CORP.                       0.000 CAM     216640102     49.8200         8,000.00        610,166.19        398,560.00
+COPART INC                                 0.000 CPRT    217204106     11.8400        13,600.00        235,390.57        161,024.00
+COVANCE INC                                0.000 CVD     222816100     24.5900         8,800.00        178,459.49        216,392.00
+CREDENCE SYSTEMS CORP                      0.000 CMOS    225302108      9.3300         9,000.00        378,746.29         83,970.00
+CREE INC                                   0.000 CREE    225447101     16.3500        10,700.00        317,683.00        174,945.00
+CROMPTON CORPORATION                       3.361 CK      227116100Q     5.9500        16,717.00        544,193.85         99,466.15
+CSG SYSTEMS INTL. INC.                     0.000 CSGS    126349109     13.6500         7,600.00        462,377.54        103,740.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109      5.7200        18,200.00        290,683.90        104,104.00
+CYTEC INDUSTRIES                           0.000 CYT     232820100Q    27.2800         5,800.00        238,116.91        158,224.00
+CYTYC CORPORATION                          0.000 CYTC    232946103     10.2000        17,100.00        456,689.36        174,420.00
+D.R. HORTON INC.                           1.383 DHI     23331A109     17.3500        21,650.00        316,998.21        375,627.50
+DEAN FOODS CO                              0.000 DF      242370104     37.1000        13,362.00        377,666.59        495,730.20
+DENTSPLY INTERNATIONAL INC.                0.483 XRAY    249030107Q    37.2000        11,450.00        236,901.52        425,940.00
+DEVRY INC.                                 0.000 DV      251893103     16.6100        10,300.00        164,030.05        171,083.00
+DIAL CORP/AZ                               0.785 DL      25247D101Q    20.3700        14,000.00        268,346.81        285,180.00
+DIEBOLD INC                                1.601 DBD     253651103     41.2200        10,600.00        454,703.32        436,932.00
+DOLE FOOD COMPANY INC                      1.841 DOL     256605106Q    32.5800         8,300.00        374,038.27        270,414.00
+DOLLAR TREE STORES INC                     0.000 DLTR    256747106     24.5700        16,850.00        378,746.33        414,004.50
+DONALDSON CO INC                           1.000 DCI     257651109     36.0000         6,500.00        145,606.52        234,000.00
+DPL INC                                    6.127 DPL     233293109Q    15.3400        18,599.00        353,061.13        285,308.66
+DREYER'S GRAND ICE CREAM INC               0.338 DRYR    261878102     70.9600         5,100.00        124,466.54        361,896.00
+DST SYSTEMS INC                            0.000 DST     233326107     35.5500        17,600.00        577,885.63        625,680.00
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     34.4900        10,900.00        157,261.48        375,941.00
+DUQUESNE LIGHT COMPANY                     6.561 DQE     23329J104Q    15.2400        10,900.00        356,476.44        166,116.00
+DYCOM INDUSTRIES INC.                      0.000 DY      267475101     13.2500         7,000.00        198,188.81         92,750.00
+E*TRADE GROUP INC.                         0.000 ET      269246104      4.8600        53,200.00        547,119.38        258,552.00
+EATON VANCE CORP.                          1.132 EV      278265103     28.2500        10,200.00         84,398.26        288,150.00

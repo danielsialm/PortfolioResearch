@@ -1,0 +1,67 @@
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+GENERAL ELEC CO                      2.173 36959HP76                         10,900,000.00       10,876,053.50
+
+Instrument Total               1                                             10,900,000.00       10,876,053.50
+
+Instrument -FRBES     FLOATING RATE CORPORATE BOND
+
+AIG (ASIF GLOBAL FINANCING XV) AAA   1.217 045183AA8        Q                40,000,000.00       40,035,074.97
+ALLSTATE GLOBAL FUNDING II     AA3   1.568 02003EAF9        Q                25,000,000.00       25,001,399.94
+ALLSTATE LIFE GLOB FD TR       AA2   1.913 02003MAD6        Q                15,000,000.00       15,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.170 02580EAB9        M                25,000,000.00       25,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.417 02580EAC7        M                15,000,000.00       15,000,000.00
+AMERICAN EXPRESS CREDIT ACCOUN AAA   1.275 02582JBL3        M                10,000,000.00       10,016,329.91
+AMERICAN EXPRESS MASTER TRUST  AAA   1.109 025928AM4        M                14,343,000.00       14,349,781.08
+AMERICAN HONDA FINANCE         A1    1.286 02666QTC7        Q                40,000,000.00       40,000,000.00
+BANK OF AMERICA CORP           AA2   1.732 06050MAU1        Q                12,865,000.00       12,888,964.29
+BANK OF NEW YORK CO INC        AA3   1.910 06406HAX7        Q                40,000,000.00       40,010,241.04
+BANK ONE CORP                  AA3   1.579 06422NHH2        Q                20,460,000.00       20,484,838.88
+CATERPILLAR FINANCE SERVICE    A2    1.374 14912LZ95        Q                14,000,000.00       13,999,413.42
+CHAMT 2002-4 A                 AAA   1.918 16151RBR3        M                20,000,000.00       20,000,000.00
+CHASE CREDIT CARD MASTER TRUST AAA   1.121 16151RCG6        M                12,600,000.00       12,609,166.62
+CITIGROUP GLOBAL MARKETS       AA1   1.234 17307EAU7        Q                40,000,000.00       40,000,000.00
+DEUTSCHE BANK FINANCIAL              1.196 25153WAJ0        Q                40,000,000.00       40,000,000.00
+FEDERAL HOME LOAN BANK         AAA+  1.164 3133MXKQ1        Q                70,000,000.00       70,000,000.00
+FEDERAL HOME LOAN BANK         AAA   1.458 3133X1A31        Q                55,000,000.00       54,997,974.75
+FREDDIE MAC                    AAA+  1.114 3128X0T41        Q                60,000,000.00       60,000,000.00
+FREDDIE MAC                    AAA   1.156 3128X1H83        Q                60,000,000.00       60,000,000.00
+GOLDMAN SACHS GROUP INC        AA3   2.049 38141EJT7        Q                40,000,000.00       40,000,000.00
+HBOS TREASURY SRVCS PLC        AA2   1.156 4041A0AH1        Q                40,000,000.00       40,000,000.00
+HOUSEHOLD FINANCE CORP         A1    1.086 44181KR22        Q                10,000,000.00       10,006,417.36
+HSBC BANK USA                  AA2   1.518 40428AFF9        Q                30,000,000.00       30,004,382.05
+JACKSON NATL LIFE FUND         A1    1.301 46849EAC1        Q                30,000,000.00       30,004,936.04
+JOHN HANCOCK GLOB FDG II       AA3   1.523 41011WAP5        Q                30,000,000.00       30,079,276.53
+JOHNSON CONTROLS INC           A2    1.219 478366AL1        Q                14,000,000.00       14,000,757.98
+MASSMUTUAL GLOB FNDG II        AA1   1.209 57629WAG5        Q                40,000,000.00       40,064,876.86
+MBIA GLOBAL FUNDING LLC        AAA   1.567 55266LBQ8        Q                40,000,000.00       40,000,000.00
+MBNA CREDIT CARD MASTER NOTE T AAA   1.113 55264TBR1        M                75,000,000.00       75,040,876.80
+MBNA MASTER CREDIT CARD TRUST  AAA   1.175 55262TFY4        M                12,000,000.00       12,028,485.12
+MERRILL LYNCH & CO             AA3   2.007 59018YRY9        Q                35,000,000.00       35,077,453.46
+MET LIFE GLOB FUNDING I        AA2   1.092 59217EAH7        Q                40,000,000.00       40,000,000.00
+
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+MONUMENTAL GLOBAL FDG II       AA3   1.811 615322AM6        Q                25,000,000.00       25,036,883.22
+MORGAN STANLEY                 AA3   2.305 61746SAZ2        Q                35,000,000.00       35,000,000.00
+NATL CITY BK OF INDIANA        Aa3   1.166 634906DS7        Q                40,000,000.00       40,000,000.00
+PACCAR FINANCIAL CORP          A1    1.217 69371RWG7        Q                40,000,000.00       39,982,803.56
+PFIZER INC                     AAA   2.099 717081CT8        Q                30,000,000.00       30,000,000.00
+PNC BANK NA                    A1    1.837 69347KHN5        M                40,000,000.00       39,970,628.32
+ROYAL BK OF SCOTLAND PLC       AA1   2.352 78010JAA0        Q                40,000,000.00       40,002,848.26
+SLM CORP                       A2    1.184 78442FAC2        Q                35,765,000.00       35,813,146.84
+SOUTHTRUST BANK NA             A1    0.050 8447HACL6        Q                40,000,000.00       39,980,850.46
+STATE STREET BANK & TR         AA2   2.425 8574P0RR1        Q                40,000,000.00       39,984,719.09
+SUNTRUST BANK                  AA2   1.301 86787EAF4        Q                40,000,000.00       39,974,980.21
+WAL-MART STORES                AA2   1.877 931142BW2        Q                40,000,000.00       39,946,934.39
+WELLS FARGO & COMPANY          AA1   1.539 949746FH9        Q                40,000,000.00       40,061,544.75
+
+Instrument Total              46                                          1,551,033,000.00    1,551,455,986.20
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP - LIQUDITY RESERVE       0.000 IL-EQS                               288,107.87       28,810,787.32
+
+Instrument Total               1                                                288,107.87       28,810,787.32
+
+Portfolio Total               48                                          1,562,221,107.87    1,591,142,827.02      1,804,020,405.13

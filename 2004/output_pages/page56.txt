@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - COM       COMMON STOCK
+
+FRIEDMAN BILLINGS RAMSEY -A                7.013 FBR     358434108     19.3900        97,800.00      2,087,523.45      1,896,342.00
+FULTON FINANCIAL CORP                      2.831 FULT    360271100     23.3100        62,435.00      1,294,786.78      1,455,359.85
+GALLAGHER (ARTHUR) J & CO.                 3.446 AJG     363576109Q    32.5000         8,200.00        274,634.27        266,500.00
+GENUINE PARTS CO                           2.723 GPC     372460105Q    44.0600       283,000.00      9,471,186.38     12,468,980.00
+GENWORTH FINANCIAL INC-CL A                0.963 GNW     37247D106     27.0000       299,600.00      7,259,781.90      8,089,200.00
+GEORGIA PACIFIC                            1.334 GP      373298108Q    37.4800       482,200.00     12,864,887.31     18,072,856.00
+GOODRICH CORP.                             2.451 GR      382388106Q    32.6400        95,300.00      2,474,567.34      3,110,592.00
+GRAINGER W W INC                           1.200 GWW     384802104Q    66.6200       149,300.00      7,409,981.39      9,946,366.00
+GREAT PLAINS ENERGY INC                    5.482 GXP     391164100     30.2800        21,700.00        639,432.26        657,076.00
+HARRAH'S ENTERTAINMENT INC.                1.973 HET     413619107     66.8900        28,800.00      1,229,838.83      1,926,432.00
+HARRIS CORP.                               0.776 HRS     413875105Q    61.7900        60,200.00      2,984,606.24      3,719,758.00
+HARSCO CORP                                2.152 HSC     415864107Q    55.7400        43,800.00      1,246,641.88      2,441,412.00
+HARTE-HANKS INC.                           0.615 HHS     416196103     25.9800        11,600.00        276,879.62        301,368.00
+HASBRO INC                                 1.238 HAS     418056107Q    19.3800       251,500.00      4,883,966.46      4,874,070.00
+HAWAIIAN ELECTRIC INDS                     4.253 HE      419870100     29.1500       130,400.00      3,007,577.85      3,801,160.00
+HCC INSURANCE HOLDINGS INC.                1.026 HCC     404132102     33.1200        77,000.00      2,390,494.45      2,550,240.00
+HEALTH MGMT ASSOCIATES CL A                0.704 HMA     421933102     22.7200        44,500.00        882,182.31      1,011,040.00
+HEALTH NET                                 0.000 HNT     42222G108     28.8700       183,000.00      5,076,514.83      5,283,210.00
+HEARST-ARGYLE TELEVI                       1.061 HTV     422317107     26.3800        50,000.00      1,230,030.35      1,319,000.00
+HERSHEY FOODS CORP.                        1.584 HSY     427866108Q    55.5400        61,700.00      2,646,737.73      3,426,818.00
+HIBERNIA CORP CL-A                         2.710 HIB     428656102     29.5100       251,700.00      4,705,242.74      7,427,667.00
+HILLENBRAND IND.                           2.016 HB      431573104Q    55.5400        10,600.00        665,331.99        588,724.00
+HORMEL FOODS CORP                          1.658 HRL     440452100     31.3500       120,800.00      2,740,728.44      3,787,080.00
+HOSPIRA INC                                0.000 HSP     441060100     33.5000       253,100.00      6,035,726.08      8,478,850.00
+HOVNANIAN ENTERPRISES-A                    0.000 HOV     442487203     49.5200        12,500.00        458,001.70        619,000.00
+HUBBELL INC                                2.523 HUB.B   443510201Q    52.3000        98,200.00      3,500,641.45      5,135,860.00
+HUDSON UNITED BANCORP                      3.555 HU      444165104     39.3800        72,800.00      2,723,065.96      2,866,864.00
+HUGHES SUPPLY INC.                         0.803 HUG     444482103     32.3500        60,600.00      1,491,732.75      1,960,410.00
+HUMANA INC.                                0.000 HUM     444859102     29.6900       332,700.00      6,339,078.33      9,877,863.00
+HUNTINGTON BANCSHARES                      3.228 HBAN    446150104     24.7800       372,100.00      7,964,384.05      9,220,638.00
+IKON OFFICE SOLUTIONS INC.                 1.384 IKN     451713101Q    11.5600       363,900.00      3,517,326.28      4,206,684.00
+INDEPENDENCE COMMUNITY BANK                2.348 ICBC    453414104     42.5800        59,877.00      1,981,747.92      2,549,562.66
+INDYMAC BANCORP INC                        3.947 NDE     456607100     34.4500        51,400.00      1,852,754.06      1,770,730.00
+INGRAM MICRO INC CL A                      0.000 IM      457153104     20.8000       252,600.00      3,401,900.88      5,254,080.00
+INTERNATIONAL SPEEDWAY CORPORA             0.113 ISCA    460335201     52.8000         6,300.00        318,907.89        332,640.00
+INTERNATL FLAVORS & FRAGRANCES             1.634 IFF     459506101Q    42.8400        22,600.00        847,354.41        968,184.00
+INTERSIL HOLDINGS CORP                     0.955 ISIL    46069S109     16.7400       201,300.00      3,924,582.48      3,369,762.00
+ITT INDUSTRIES INC                         0.805 ITT     450911102     84.4500        94,900.00      5,609,837.87      8,014,305.00
+J C PENNEY INC                             1.207 JCP     708160106Q    41.4000       450,200.00     12,835,346.91     18,638,280.00

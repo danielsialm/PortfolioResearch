@@ -1,0 +1,24 @@
+ASOF02   Date 01/21/2005 Time 18:35:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 011
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - REAL ESTATE
+Portfolio  - RER       RE REIT
+Instrument - N         LODGING/RESORTS
+
+HOSPITALITY PROPERTIES                     6.260 HPT     44106M102     46.0000       127,700.00      4,111,554.02      5,874,200.00
+HOST MARRIOTT CORP                         1.156 HMT     44107P104     17.3000       751,700.00      7,472,901.49     13,004,410.00
+INNKEEPERS USA TRUST                       1.690 KPA     4576J0104     14.2000        20,000.00        269,994.00        284,000.00
+LASALLE HOTEL PROPERTIES                   3.016 LHO     517942108     31.8300        65,100.00      1,187,137.57      2,072,133.00
+MERISTAR HOSPITALITY CORP.                 0.479 MHX     58984Y103      8.3500       305,400.00      2,034,240.49      2,550,090.00
+STARWOOD RESORTS                           1.438 HOT     85590A203     58.4000        26,000.00      1,226,987.40      1,518,400.00
+SUNSTONE HOTEL INVESTORS INC               0.000 SHO     867892101     20.7800        63,000.00      1,244,687.54      1,309,140.00
+WINSTON HOTELS INC                         5.080 WXH     97563A102     11.8100        54,699.00        624,286.35        645,995.19
+
+Instrument Total             9                                                    1,605,599.00      20,122,943.12     29,512,448.19
+
+Portfolio Total             73                                                   11,142,645.00     290,707,627.63    440,213,976.34
+

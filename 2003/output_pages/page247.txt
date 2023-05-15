@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:20   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 015
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+BEAZER HOMES USA INC                         0.409     07556Q105   BZH             19,631        1,768,431.66        1,917,163.46
+BEBE STORES INC                              0.000     075571109   BEBE             5,700          151,227.68          148,143.00
+BECKMAN COULTER INC.                         0.865     075811109   BEC            122,957        4,465,097.46        6,249,904.30
+BECTON DICKINSON & COMPANY                   1.458     075887109 Q BDX            384,808       11,241,987.62       15,831,001.14
+BED BATH & BEYOND INC                        0.000     075896100   BBBY           644,900       16,687,739.58       27,956,415.02
+BEI TECHNOLOGIES INC                         0.200     05538P104   BEIQ           178,300        2,444,712.17        3,566,000.00
+BEL FUSE INC-CL B                            0.612     077347300   BELFB           12,000          348,385.92          391,560.00
+BELDEN INC.                                  0.948     077459105   BWC             27,100          689,921.45          571,539.00
+BELLSOUTH                                    3.533     079860102 Q BLS          3,599,689      115,595,301.87      101,871,198.72
+BELO CORP                                    1.340     080555105 Q BLC            210,600        3,818,880.10        5,968,404.01
+BEMIS CO.                                    2.240     081437105 Q BMS             79,000        3,286,548.52        3,950,000.02
+BENCHMARK ELECTRONICS INC                    0.000     08160H101   BHE             72,036        1,812,961.75        2,507,573.16
+BENTLEY PHARMACEUTIC                         0.000     082657107   BNT             16,800          236,042.53          223,440.00
+BERKLEY (WR) CORP                            0.801     084423102   BER            212,805        6,780,306.77        7,437,569.74
+BERKSHIRE HILLS BANC                         1.326     084680107   BHL              7,000          201,935.83          253,400.00
+BERRY PETE CO                                2.172     085789105   BRY             19,100          345,189.12          386,775.00
+BEST BUY COMPANY INC                         0.765     086516101   BBY            637,200       24,789,294.36       33,287,328.00
+BEVERLY ENTERPRISES                          0.000     087851309   BEV            158,000        1,003,174.17        1,357,220.00
+BHA GROUP HOLDINGS INC                       1.988     055446108   BHAG             4,700          113,898.47          118,205.00
+BIG 5 SPORTING GOODS CORP                    0.000     08915P101   BGFV            47,300          797,951.43          990,935.00
+BIG LOTS, INC.                               0.000     089302103   BLI            470,408        8,104,785.90        6,684,497.70
+BIO RAD LABS INC                             0.000     090572207   BIO             44,200        2,474,012.02        2,549,014.01
+BIO-REFERENCE LABS I                         0.000     09057G602   BRLI            66,400          651,111.70          869,840.00
+BIOGEN IDEC INC                              0.000     09062X103   BIIB           542,635       19,391,931.33       19,958,115.31
+BIOLASE TECHNOLOGY INC                       0.000     090911108   BLTI            22,800          301,027.43          378,480.00
+BIOMARIN PHARMACEUTI                         0.000     09061G101   BMRN            55,300          569,562.78          429,625.70
+BIOMET INC.                                  0.412     090613100   BMET           505,500       11,968,247.10       18,405,254.99
+BIORELIANCE CORP                             0.000     090951104   BREL             6,100          136,666.99          291,702.00
+BIOSITE INC.                                 0.000     090945106   BSTE             6,600          196,418.94          191,070.00
+BISYS GROUP INC.                             0.000     055472104   BSG            173,000        3,132,175.43        2,574,240.01
+BJ SERVICES CO                               0.000     055482103   BJS            257,800        6,726,611.92        9,255,020.02
+BJ'S WHOLESALE CLUB INC.                     0.000     05548J106   BJ             290,600        6,857,724.83        6,672,176.00
+BLACK & DECKER                               1.703     091797100 Q BDK            159,400        6,432,490.06        7,861,607.98
+BLACK BOX CORPORATION                        0.434     091826107   BBOX            22,700        1,036,095.93        1,045,789.00
+BLACK HILLS CORP                             4.022     092113109   BKH             33,900        1,005,538.10        1,011,237.00
+BLACKROCK INC                                1.506     09247X101   BLK             42,845        1,960,539.30        2,275,497.93
+BLAIR CORP.                                  2.465     092828102 Q BL               8,000          179,531.44          194,720.00
+BLOCKBUSTER INC. CLASS A                     0.445     093679108 Q BBI            219,400        3,865,016.11        3,938,230.01
+BLUE RHINO CORP                              0.000     095811105   RINO               800           10,040.10           11,112.00
+BLYTH INC.                                   0.931     09643P108   BTH            104,538        2,884,399.67        3,368,214.37

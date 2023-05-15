@@ -1,0 +1,34 @@
+ASOF02   Date 01/21/2005 Time 18:35:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 172
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+VARIAN INC.                                0.000 VARI    922206107     41.0100        22,100.00        831,469.87        906,321.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     15.0200        66,400.00        789,703.20        997,328.00
+W HLDG CO INC                              0.828 WHI     929251106     22.9400       125,241.72      2,141,102.25      2,873,045.06
+WABTEC                                     0.187 WAB     929740108     21.3200        95,300.00      1,650,685.38      2,031,796.00
+WARNACO GROUP INC/THE                      0.000 WRNC    934390402     21.6000        71,900.00      1,263,151.66      1,553,040.00
+WATSCO INC.                                1.590 WSO     942622200     35.2200        14,200.00        475,087.06        500,124.00
+WEBSTER FINANCIAL CORPORATION              1.816 WBS     947890109     50.6400        26,000.00        819,142.39      1,316,640.00
+WEST PHARMACEUTICAL SERVICES               1.757 WST     955306105     25.0300         3,700.00         92,148.82         92,611.00
+WESTLAKE CHEMICAL CORP.                    0.254 WLK     960413102     33.4000        32,500.00        525,964.90      1,085,500.00
+WOODHEAD INDUSTRIES                        2.495 WDHD    979438108     16.0300        24,100.00        385,484.02        386,323.00
+WOODWARD GOVERNOR CO.                      1.340 WGOV    980745103     71.6100        32,000.00      1,554,291.18      2,291,520.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     33.1800        28,000.00        621,237.11        929,040.00
+
+Instrument Total           129                                                    14,326,447.32    126,952,943.40    165,030,168.00
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+NATIONWIDE HEALTH PP                       6.231 NHP     638620104     23.7500        98,600.00      1,847,801.19      2,341,750.00
+
+Instrument Total             1                                                        98,600.00      1,847,801.19      2,341,750.00
+
+Portfolio Total            130                                                    14,425,047.32    128,800,744.59    167,371,918.00
+

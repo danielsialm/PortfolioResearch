@@ -1,0 +1,31 @@
+ASOF10   Date 01/19/2006 Time 18:24:57   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+PRIMUS CAPITAL FUND III-A PFD                0.000     VEA06130    PCFZ             1,000              999.99        1,559,388.65
+PRIMUS CAPITAL FUND III-B                    0.000     VEA06129    PCFY             1,000            1,000.00        1,781,788.84
+PRIMUS CAPITAL FUND IV                       0.000     VEA02451    PCF4        10,074,826       10,074,826.06        9,133,738.38
+PRIMUS CAPITAL FUND V                        0.000     AVPRIMUS5   99404       22,770,000       22,769,999.86       20,704,352.22
+PRISM VENTURE PARTNERS IV                    0.000     AVPRISM4    99406       12,247,787       12,247,787.23        7,393,665.27
+PROVIDENCE EQUITY PARTNERS IV                0.000     ABPROV4     99404       28,804,407       28,804,404.39       65,113,687.00
+PROVIDENCE EQUITY PARTNERS V                 0.000     ABPROV5     99408       47,257,201       47,257,200.96       47,127,895.00
+SILVER LAKE PARTNERS                         0.000     ASILLAKE    ASILL              999              999.10       11,550,894.48
+SILVER LAKE PARTNERS II                      0.000     ABSLP2      99408       11,058,657       11,058,657.41       10,810,450.13
+SKM EQUITY FUND III                          0.000     ABSKM3      99404       26,348,988       26,348,987.09       22,843,381.98
+SPACEVEST II                                 0.000     VEASPVE     VEASP       12,610,923       12,610,923.22        6,765,471.00
+SUNRISE CAPITAL PARTNERS                     0.000     ASUNRISE    ASUNR       27,025,964       27,025,963.81       12,622,985.00
+TPG PARTNERS IV                              0.000     ABTPG4      99407       38,441,115       38,441,114.65       51,298,722.00
+TUCKER ANTHONY PRIVATE EQITY FUND III        0.000     AVTAPE3     AVTAP        5,050,000        5,049,999.04        5,961,943.97
+TUCKER ANTHONY PRIVATE EQUITY FUND IV        0.000     AVTAPE4     99406        7,462,500        7,462,499.80        8,220,286.97
+WARBURG PINCUS EQUITY PARTNERS               0.000     AWARBURG    99404            1,000            1,000.10       25,127,603.26
+WARBURG PINCUS PRIVATE EQUITY IV             0.000     AVWPPE9     AVWPP       13,875,000       13,875,000.00       13,801,978.00
+WARBURG PINCUS VIII                          0.000     AWARBURG8   AWARB       35,243,175       35,243,173.96       42,538,236.02
+
+Instrument Total                     98                                     1,331,276,312    1,331,276,288.86    1,614,540,199.97
+

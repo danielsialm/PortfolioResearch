@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 159
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+ACTUANT CORP CL A                          0.143 ATU     00508X203     55.8000         7,430.00        290,579.87        414,594.00
+ADE CORP MASS                              0.000 ADEX    00089C107     24.0600        24,873.00        565,546.05        598,444.38
+AFFILIATED MANAGERS GROUP                  0.000 AMG     008252108     80.2500        13,920.00        720,993.53      1,117,080.00
+ALKERMES INC.                              0.000 ALKS    01642T108     19.1200        12,775.00        236,820.40        244,258.00
+ALLIANCE ATLANTIS COMMUN                   0.000 AACB    01853E204     28.7500        12,270.00        359,111.33        352,762.50
+ALLIANT TECHSYSTEMS INC.                   0.000 ATK     018804104     76.1700        10,160.00        772,952.96        773,887.20
+AMCOL INTERNATIONAL CORP.                  1.949 ACO     02341W103     20.5200        22,345.00        435,010.05        458,519.40
+AMERICAN MEDICAL SYS HLDINGS               0.000 AMMD    02744M108     17.8300        44,960.00        761,004.45        801,636.80
+AMERICAN REPROGRAPHICS CO                  0.000 ARP     029263100     25.4100        43,765.00        791,903.38      1,112,068.65
+AMERUS GROUP CO                            0.705 AMH     03072M108     56.6700         6,815.00        385,483.28        386,206.05
+AMETEK INC.                                0.564 AME     031100100Q    42.5400        24,540.00        574,968.83      1,043,931.60
+AMPHENOL CORP-CL A                         0.271 APH     032095101     44.2600        35,740.00        939,767.71      1,581,852.40
+ANSYS INC                                  0.000 ANSS    03662Q105     42.6900        29,320.00        714,382.44      1,251,670.80
+ARCH CAPITAL GROUP LTD                     0.000 ACGL    G0450A105     54.7500        20,790.00      1,011,142.09      1,138,252.50
+AVOCENT CORPORATION                        0.000 AVCT    053893103     27.1900        23,895.00        768,087.09        649,705.05
+BALCHEM CORP                               0.301 BCP     057665200     29.8100        19,985.00        442,267.08        595,752.85
+BANK OF HAWAII CORP                        2.561 BOH     062540109     51.5400        15,085.00        705,450.07        777,480.90
+BIRCH MOUNTAIN RESOURCES LTD               0.000 BMD     09066X109      7.1700        39,790.00        220,923.57        285,294.30
+BLACKBAUD INC                              1.171 BLKB    09227Q100     17.0800        80,750.00      1,064,833.40      1,379,210.00
+BROWN & BROWN INC                          0.654 BRO     115236101     30.5400        12,605.00        254,361.38        384,956.70
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     57.3800         8,210.00        455,621.64        471,089.80
+CHICAGO BRIDGE & IRON COMPANY              0.357 CBI     167250109     25.2100        30,365.00        714,061.16        765,501.65
+CNA SURETY CORP                            0.000 SUR     12612L108     14.5700        59,035.00        723,656.91        860,139.95
+COGNEX CORP.                               1.063 CGNX    192422103     30.0900        19,945.00        591,951.86        600,145.05
+CORE LABORATORIES N.V.                     0.000 CLB     N22717107     37.3600        10,945.00        372,897.42        408,905.20
+CRA INTERNATIONAL INC                      0.000 CRAI    12618T105     47.6900        19,525.00        884,780.61        931,147.25
+CYTYC CORPORATION                          0.000 CYTC    232946103     28.2300        27,340.00        727,273.38        771,808.20
+DAKTRONICS INC                             0.338 DAKT    234264109     29.5700        29,175.00        634,524.36        862,704.75
+DELTIC TIMBER CORP                         0.578 DEL     247850100     51.8600        19,095.00        805,903.54        990,266.70
+DIGENE CORP                                0.000 DIGE    253752109     29.1700        14,065.00        370,961.69        410,276.05
+DIODES INC                                 0.000 DIOD    254543101     31.0500        16,117.00        326,868.75        500,432.85
+DIONEX CORP.                               0.000 DNEX    254546104     49.0800         6,080.00        293,595.76        298,406.40
+DOBSON COMMUNICATIONS CORP                 0.000 DCEL    256069105      7.5000        40,680.00        294,551.32        305,100.00
+DOLBY LABORATORIES INC-CL A                0.000 DLB     25659T107     17.0500        40,425.00        706,388.75        689,246.25
+DRIL-QUIP INC                              0.000 DRQ     262037104     47.2000        26,140.00      1,054,185.64      1,233,808.01
+EATON VANCE CORP.                          1.462 EV      278265103     27.3600        29,965.00        573,256.04        819,842.40
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     41.6100        33,545.00      1,250,839.92      1,395,807.45
+ENTEGRIS INC                               0.000 ENTG    29362U104      9.4200       101,262.00      1,048,046.93        953,888.04
+ESCO TECHNOLOGIES INC                      0.000 ESE     296315104     44.4900        29,830.00        843,240.20      1,327,136.70

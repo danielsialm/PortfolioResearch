@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 068
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP4       S&P 400 PASSIVE
+Instrument - COM       COMMON STOCK
+
+METRIS COMPANIES INC.                      1.619 MXT     591598107      2.4700         8,500.00        237,013.91         20,995.00
+MICHAELS STORES                            0.000 MIK     594087108     31.3000         9,900.00        172,899.99        309,870.00
+MICREL INCORPORATED                        0.000 MCRL    594793101      8.9800        13,450.00        210,026.13        120,781.00
+MICROCHIP TECHNOLOGY INC.                  0.327 MCHP    595017104     24.4500        29,851.00        338,724.42        729,856.95
+MILLENNIUM PHARMACEUTICALS                 0.000 MLNM    599902103      7.9400        42,395.00        977,679.74        336,616.30
+MILLER (HERMAN) INC                        0.815 MLHR    600544100     18.4000        11,000.00        267,769.48        202,400.00
+MINERALS TECHNOLOGIES INC                  0.231 MTX     603158106     43.1500         3,000.00        127,897.31        129,450.00
+MODINE MANUFACTURING CO                    2.828 MODI    607828100     17.6800         5,000.00        157,866.73         88,400.00
+MOHAWK INDUSTRIES INC.                     0.000 MHK     608190104     56.9500         9,800.00        295,987.86        558,110.00
+MPS GROUP INC                              0.000 MPS     553409103      5.5400        15,100.00        316,927.47         83,654.00
+MURPHY OIL CORP                            1.867 MUR     626717102Q    42.8500        13,400.00        350,954.64        574,190.00
+MYLAN LABS                                 0.573 MYL     628530107Q    34.9000        18,000.00        379,758.63        628,200.00
+NATIONAL COMMERCE FINANCIAL                2.851 NCF     63545P104     23.8500        30,150.00        703,289.21        719,077.50
+NATIONAL FUEL & GAS                        5.016 NFG     636180101Q    20.7300        11,800.00        262,056.77        244,614.00
+NATIONAL INSTRUMENTS CORP.                 0.000 NATI    636518102     32.4900         7,500.00        144,628.01        243,675.00
+NATIONAL-OILWELL INC.                      0.000 NOI     637071101     21.8400        11,900.00        415,623.64        259,896.00
+NEIMAN MARCUS GROUP INC-CLASS              0.000 NMG.A   640204202     30.3900         7,100.00        188,461.20        215,769.00
+NETWORKS ASSOCIATES INC.                   0.000 NET     640938106     16.0900        23,050.00        738,272.49        370,874.50
+NEUBERGER BERMAN INC                       0.895 NEU     641234109     33.4900        10,300.00        447,191.66        344,947.00
+NEW YORK COMMUNITY BANCORP                 2.770 NYB     649445103     28.8800        15,800.00        314,767.53        456,304.00
+NEWPORT CORP                               0.159 NEWP    651824104     12.5600         5,700.00        265,771.50         71,592.00
+NOBLE ENERGY INC                           0.426 NBL     655044105     37.5500         8,400.00        308,967.99        315,420.00
+NORDSON CORP                               2.416 NDSN    655663102     24.8300         4,900.00        130,639.69        121,667.00
+NORTHEAST UTILITIES                        3.625 NU      664397106     15.1700        20,000.00        252,202.95        303,400.00
+NSTAR CO.                                  4.866 NST     67019E107     44.3900         7,800.00        328,030.56        346,242.00
+OCEAN ENERGY INC                           0.801 OEI     67481E106     19.9700        25,900.00        571,565.59        517,223.00
+OGE ENERGY CORP                            7.556 OGE     670837103     17.6000        11,500.00        282,532.40        202,400.00
+OHIO CASUALTY CORP.                        0.000 OCAS    677240103Q    12.9500         8,900.00        157,697.32        115,255.00
+OLD REPUBLIC INT'L CORP.                   2.285 ORI     680223104     28.0000        17,700.00        429,780.15        495,600.00
+OLIN CORP                                  5.144 OLN     680665205Q    15.5500         8,400.00        211,979.93        130,620.00
+ONEOK INC.                                 3.229 OKE     682680103Q    19.2000         8,900.00        116,520.79        170,880.00
+ONMICARE INC.                              0.377 OCR     681904108     23.8300        13,900.00        414,405.44        331,237.00
+OUTBACK STEAKHOUSE INC                     1.393 OSI     689899102     34.4400        11,150.00        215,345.17        384,006.00
+OVERSEAS SHIPHOLDING GROUP                 3.352 OSG     690368105     17.9000         5,100.00        112,903.45         91,290.00
+OVERTURE SERVICES INC                      0.000 OVER    69039R100     27.3100         8,600.00        245,358.00        234,866.00
+OXFORD HEALTH PLANS                        0.000 OHP     691471106     36.4500        12,900.00        531,925.60        470,205.00
+PACIFICARE HEALTH SYSTEM                   0.000 PHSY    695112102     28.1000         5,300.00        319,348.06        148,930.00
+PACKAGING CORP OF AMERICA                  0.000 PKG     695156109     18.2400        15,400.00        303,378.54        280,896.00
+PAPA JOHN'S INTERNATIONAL                  0.000 PZZA    698813102     27.8800         2,700.00        117,753.85         75,276.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 054
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+INGRAM MICRO INC CL A                      0.000 IM      457153104     15.9000        59,900.00        913,175.50        952,410.00
+INSTINET GROUP INCORPORATED                0.000 INGP    457750107      5.1500        23,000.00        112,306.70        118,450.00
+INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     28.4900        11,400.00        337,005.10        324,786.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700        51,400.00        934,069.81        882,538.00
+INTEL CORP.                                0.248 INTC    458140100Q    32.2000     1,233,600.00     26,184,862.12     39,721,920.00
+INTERACTIVE CORP                           0.000 IACI    45840Q101     33.9300        45,919.00      1,850,512.17      1,558,031.67
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     16.5600         6,600.00        108,488.95        109,296.00
+INTERDIGITAL COMM CORP                     0.000 IDCC    45866A105     20.6400        10,400.00        201,105.87        214,656.01
+INTERNATIONAL BANCSH                       2.120 IBOC    459044103     47.1500         4,800.00        175,916.44        226,320.00
+INTERNATIONAL PAPER                        2.319 IP      460146103Q    43.1100        64,800.00      2,361,176.38      2,793,528.00
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     49.4100        23,400.00        807,972.58      1,156,194.00
+INTERNATIONAL SPEEDWAY CORPORA             0.134 ISCA    460335201     44.6600         5,700.00        254,414.37        254,562.00
+INTERPUBLIC GROUP                          2.435 IPG     460690100Q    15.6000        72,500.00      1,303,841.73      1,131,000.00
+INTERSIL HOLDINGS CORP                     0.482 ISIL    46069S109     24.8500        25,300.00        640,327.56        628,705.01
+INTL BUS MACH CORP                         0.690 IBM     459200101Q    92.6800       300,600.00     21,848,783.34     27,859,608.00
+INTL GAME TECHNOLOGY                       1.120 IGT     459902102     35.7000        63,400.00      1,061,432.19      2,263,380.00
+INTUIT INC.                                0.000 INTU    461202103     52.9100        34,100.00      1,169,464.97      1,804,231.00
+INVITROGEN CORP                            0.000 IVGN    46185R100     70.0000        17,700.00        943,138.70      1,239,000.01
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     46.9700         7,800.00        167,239.17        366,366.00
+ITT INDUSTRIES INC                         0.862 ITT     450911102     74.2100        17,100.00        748,037.30      1,268,990.99
+IVAX CORP                                  0.000 IVX     465823102     23.8800        25,300.00        484,529.61        604,164.00
+J C PENNEY INC                             1.902 JCP     708160106Q    26.2800        50,400.00      1,450,352.56      1,324,512.00
+JABIL CIRCUIT INC                          0.000 JBL     466313103     28.3000        28,900.00        737,906.32        817,870.00
+JACOBS ENGINEERING GROUP                   0.000 JEC     469814107     48.0100         8,900.00        233,219.21        427,288.99
+JEFFERSON PILOT                            2.606 JP      475070108Q    50.6500        26,300.00      1,032,559.37      1,332,095.00
+JEFFRIES GROUP INC                         0.969 JEF     472319102     33.0200         7,800.00        133,529.06        257,556.00
+JETBLUE AIRWAYS CORP                       0.000 JBLU    477143101     26.5200        16,500.00        483,435.00        437,580.00
+JM SMUCKER CO                              2.031 SJM     832696405     45.2900         9,200.00        331,965.81        416,668.00
+JOHN HANCOCK FINANCIAL SRVCS               0.933 JHF     41014S106     37.5000        53,600.00      1,908,713.94      2,010,000.00
+JOHNSON & JOHNSON                          1.858 JNJ     478160104Q    51.6600       552,400.00     18,758,215.53     28,536,983.99
+JOHNSON CONTROLS                           0.775 JCI     478366107Q   116.1200        16,500.00      1,155,612.90      1,915,980.00
+JONES APPAREL GROUP INC                    0.908 JNY     480074103     35.2300        22,300.00        650,274.22        785,629.00
+JP MORGAN CHASE & CO.                      3.702 JPM     46625H100Q    36.7300       394,800.00     13,607,455.48     14,501,004.00
+JUNIPER NETWORKS INC                       0.000 JNPR    48203R104     18.6800        95,100.00      1,460,246.93      1,776,467.99
+KB HOME                                    1.378 KBH     48666K109Q    72.5200        16,000.00        849,891.59      1,160,320.00
+KELLOGG CO.                                2.652 K       487836108Q    38.0800        19,000.00        643,271.44        723,519.99
+KEY ENERGY SERVICES INC                    0.000 KEG     492914106     10.3100            99.99          1,030.35          1,031.00
+KEYCORP                                    4.229 KEY     493267108Q    29.3200        78,500.00      2,003,915.24      2,301,620.00
+KEYSPAN CORPORATION                        4.837 KSE     49337W100     36.8000        29,200.00        973,109.67      1,074,560.00

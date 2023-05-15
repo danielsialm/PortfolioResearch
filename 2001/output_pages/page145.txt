@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 116
+ASOF02   Date 01/24/2002 Time 21:29:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 118
 
 Monthly Market Portfolio
 
@@ -6,45 +6,45 @@ Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK - EXTERNALLY MANAGED
-Portfolio  - 6PI       PIMCO - GROWTH
+Portfolio  - 6NC       NEXT CENTURY GROWTH
 Instrument - COM       COMMON STOCK
 
-FREEMARKETS INC                            0.000 FMKT    356602102     23.9700        23,200.00        289,812.14        556,104.01
-FRONTIER AIRLINES INC                      0.000 FRNT    359065109     17.0000        48,450.00        600,922.93        823,650.01
-FURNITURE BRANDS INTERNATIONAL             0.000 FBN     360921100     32.0200        14,774.00        349,260.30        473,063.48
-GALLAGHER (ARTHUR) J & CO.                 1.507 AJG     363576109Q    34.4900        12,500.00        328,006.30        431,125.00
-GENESCO INC.                               0.000 GCO     371532102     20.7600        41,478.00        921,102.17        861,083.28
-GETTY IMAGES INC.                          0.000 GETY    374276103     22.9800        34,100.00        572,699.98        783,618.00
-GLOBAL POWER EQUIPMENT GROUP               0.000 GEG     37941P108     15.0600        25,700.00        641,240.05        387,042.01
-GLOBESPAN VIRATA INC                       0.000 GSPN    37957V106     12.9500        38,964.00        500,251.99        504,583.80
-HANOVER COMPRESSOR COMPANY                 0.000 HC      410768105     25.2600        23,500.00        551,894.79        593,610.01
-HARMONIC INC.                              0.000 HLIT    413160102     12.0200        27,200.00        339,808.38        326,944.00
-HEALTH NET                                 0.000 HNT     42222G108     21.7800        22,194.00        430,223.62        483,385.32
-HEALTHSOUTH CORP                           0.000 HRC     421924101     14.8200        34,907.00        458,311.88        517,321.74
-HPL TECHNOLOGIES                           0.000 HPLA    40426C105     17.8500        20,300.00        224,090.31        362,355.00
-ILEX ONCOLOGY INC                          0.000 ILXO    451923106     27.0400        17,600.00        338,075.31        475,904.00
-INSIGHT COMMUNICATIONS CO                  0.000 ICCI    45768V108     24.1600        26,485.00        560,475.57        639,877.60
-INTEGRATED CIRCUIT SYSTEMS                 0.000 ICST    45811K208     22.5900        19,300.00        324,883.27        435,987.00
-INTERMUNE INC                              0.000 ITMN    45884X103     49.2600         9,800.00        423,515.48        482,748.00
-INTERNET SECURITY SYSTEMS                  0.000 ISSX    46060X107     32.0600        17,500.00        516,094.97        561,049.99
-INTRADO INC                                0.000 TRDO    46117A100     26.8000        13,300.00        354,166.00        356,440.00
-INVESTORS FINANCIAL SERVICES C             0.120 IFIN    461915100     66.2100        13,487.00        890,043.50        892,974.27
-ISIS PHARMACEUTICALS INC                   0.000 ISIP    464330109     22.1900        12,700.00        256,489.90        281,813.00
-JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108     22.3500        21,900.00        415,222.09        489,465.00
-KNIGHT TRANSPORTATION INC                  0.000 KNGT    499064103     18.7800        14,100.00        230,300.00        264,798.00
-LATTICE SEMICON. CORP.                     0.000 LSCC    518415104     20.5700        18,800.00        397,612.57        386,716.00
-LAWSON SOFTWARE                            0.000 LWSN    520780107     15.7500        18,000.00        279,599.89        283,500.00
-LINES ’N THINGS INC.                       0.000 LIN     535679104     25.5000        33,274.00        766,989.67        848,486.99
-MACROVISION CORP                           0.000 MVSN    555904101     35.2200        16,000.00        511,684.25        563,520.00
-MANHATTAN ASSOCIATES INC                   0.000 MANH    562750109     29.1500         9,800.00        284,733.48        285,670.01
-MATRIXONE, INC.                            0.000 MONE    57685P304     12.9900        45,400.00        259,360.98        589,745.99
-MEDCATH CORPORATION                        0.000 MDTH    58404W109     16.7800        19,700.00        398,493.84        330,565.99
-MEDIACOM COMMUNICATIONS CORP               0.000 MCCC    58446K105     18.2600        54,500.00        841,423.85        995,170.01
-METRIS COMPANIES INC.                      0.155 MXT     591598107     25.7100        25,100.00        504,475.98        645,321.00
-MICROCHIP TECHNOLOGY INC.                  0.000 MCHP    595017104     38.7400        12,700.00        351,429.58        491,998.00
-MICROTUNE INC                              0.000 TUNE    59514P109     23.4600        23,200.00        323,687.68        544,272.00
-MIDWAY GAMES INC.                          0.000 MWY     598148104     15.0100        31,200.00        344,685.73        468,312.00
-MILLICOM INTL CELLULAR S.A.                0.000 MICC    L6388F102     12.1500        39,600.00        957,312.60        481,140.00
-NBTY INC.                                  0.000 NBTY    628782104     11.7000        34,900.00        268,726.05        408,330.00
-NETEGRITY INC                              0.000 NETE    64110P107     19.3600        30,600.00        548,469.36        592,416.01
-OAKLEY INC.                                0.000 OO      673662102     16.2600        23,700.00        296,157.07        385,361.99
+99 CENTS ONLY STORES                       0.000 NDN     65440K106     38.1000        23,795.00        636,545.33        906,589.50
+ADMINISTAFF INC                            0.000 ASF     007094105     27.4100        23,800.00        644,879.23        652,358.01
+ADVANCE PCS                                0.000 ADVP    00790K109     29.3500        58,400.00      1,616,571.87      1,714,040.00
+ADVANCED NEUROMODULATION SYSTE             0.000 ANSI    00757T101     35.2500        43,700.00        798,804.86      1,540,425.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     49.9500        37,500.00      1,516,526.00      1,873,125.01
+AEROFLEX INC                               0.000 ARXX    007768104     18.9300        31,900.00        615,148.85        603,867.00
+AGILE SOFTWARE CORP.                       0.000 AGIL    00846X105     17.2200        39,860.00        533,901.86        686,389.20
+ALLEGIANCE TELECOM INC                     0.000 ALGX    01747T102      8.2900       182,640.00      1,336,624.82      1,514,085.60
+ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000        34,395.00        949,837.63        749,810.99
+AMERICAN PHARMACEUTICAL PART               0.000 APPX    02886P109     20.8000        30,120.00        583,318.02        626,496.00
+ANSOFT CORP                                0.000 ANST    036384105     14.6000        49,430.00        771,146.47        721,678.00
+AUGUST TECHNOLOGY INC                      0.000 AUGT    05106U105     11.0400        66,900.00        711,267.70        738,576.00
+BUCA INC.                                  0.000 BUCA    117769109     16.2100        71,420.00      1,189,067.45      1,157,718.20
+C.H.ROBINSON WORLDWIDE INC                 0.691 CHRW    12541W100     28.9150        19,700.00        559,204.10        569,625.50
+CABOT MICROELECTRONICS CORPORA             0.000 CCMP    12709P103     79.2500        24,055.00      1,431,219.18      1,906,358.74
+CACI INTERNATIONAL INC._CL A               0.000 CACI    127190304     39.4850        15,600.00        614,310.66        615,966.00
+CELL GENESYS INC                           0.000 CEGE    150921104     23.2400        25,900.00        570,638.63        601,916.00
+CEPHALON INC                               0.000 CEPH    156708109     75.5850        18,410.00      1,000,848.04      1,391,519.85
+CHEESECAKE FACTORY (THE)                   0.000 CAKE    163072101     34.7700        40,400.00      1,022,282.19      1,404,708.00
+CHICO’S FAS INC                            0.000 CHS     168615102     39.7000        23,800.00        804,242.60        944,860.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     40.8900        33,285.00      1,187,236.79      1,361,023.65
+CORPORATE EXECUTIVE BOARD CO               0.000 EXBD    21988R102     36.7000        45,350.00      1,427,999.64      1,664,345.01
+CYTYC CORPORATION                          0.000 CYTC    232946103     26.1000        19,750.00        469,819.63        515,475.00
+DDI CORP                                   0.000 DDIC    233162106      9.8400        94,400.00        959,043.37        928,896.00
+DIGITAL RIVER INC                          0.000 DRIV    25388B104     15.9200        48,500.00        752,603.52        772,120.00
+EMULEX CORP                                0.000 EMLX    292475209     39.5100        17,700.00        577,228.86        699,327.00
+EVEREST RE GROUP LTD.                      0.396 RE      G3223R108     70.7000         9,150.00        597,547.63        646,905.00
+FINISAR CORPORATION                        0.000 FNSR    31787A101     10.1700        45,350.00        567,823.30        461,209.50
+FRED’S INC                                 0.390 FRED    356108100     40.9600        34,200.00      1,013,439.79      1,400,832.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    371933102     66.1200        27,680.00      1,039,021.08      1,830,201.60
+GLOBESPAN VIRATA INC                       0.000 GSPN    37957V106     12.9500        43,800.00        613,857.00        567,210.00
+HOTEL RESERVATIONS INC - CL A              0.000 ROOM    441451101     46.0000        37,655.00      1,067,780.29      1,732,130.00
+INTERCEPT GROUP INC                        0.000 ICPT    45845L107     40.9000        20,700.00        665,436.75        846,630.00
+INVESTORS FINANCIAL SERVICES C             0.120 IFIN    461915100     66.2100        26,180.00      1,663,712.67      1,733,377.80
+KRISPY KREME DOUGHNUTS INC                 0.000 KKD     501014104     44.2000        15,240.00        350,523.95        673,608.00
+MAGMA DESIGN AUTOMATION                    0.000 LAVA    559181102     30.2800        28,740.00        548,690.83        870,247.20
+MICROSEMI CORP                             0.000 MSCC    595137100     29.7000        35,500.00      1,145,143.16      1,054,350.00
+MICROTUNE INC                              0.000 TUNE    59514P109     23.4600        34,900.00        647,465.02        818,754.00
+NASSDA CORP                                0.000 NSDA    63172M101     22.4900        34,940.00        581,919.23        785,800.60

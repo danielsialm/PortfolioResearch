@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 054
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+OLIN CORP                                    3.988     680665205 Q OLN             56,200          994,245.90        1,127,372.01
+OM GROUP, INC.                               2.138     670872100 Q OMG            116,513        1,832,142.15        3,051,475.47
+OMEGA FINL CORP                              3.117     682092101   OMEF             9,800          344,817.46          377,202.00
+OMEGA PROTEIN CORP                           0.000     68210P107   OME              7,300           40,171.02           56,356.00
+OMI CORPORATION                              0.000     Y6476W104   OMM             82,100          507,464.99          733,153.00
+OMNICELL INC                                 0.000     68213N109   OMCL            28,500          332,838.79          461,700.00
+OMNICOM GROUP                                0.916     681919106   OMC            197,600       12,335,706.62       17,256,408.00
+OMNIVISION TECHNOLOGIES INC                  0.000     682128103   OVTI            55,490        1,710,603.81        3,065,822.51
+OMNOVA SOLUTIONS INC                         0.000     682129101   OMN                499            2,113.03            2,400.01
+ON ASSIGNMENT INC                            0.000     682159108   ASGN            85,000          494,070.29          442,850.00
+ON SEMICONDUCTOR COR                         0.000     682189105   ONNN            43,100          262,228.30          277,995.01
+ONEIDA FINANCIAL CORP                        2.532     682478102   ONFC             2,000           43,360.50           44,222.00
+ONEIDA LTD                                   0.000     682505102   OCQ            109,300          482,862.39          643,777.00
+ONEOK INC.                                   3.260     682680103 Q OKE             14,000          241,444.19          309,120.00
+ONMICARE INC.                                0.222     681904108   OCR            155,800        3,618,263.36        6,292,762.00
+ONYX PHARMACEUTICALS                         0.000     683399109   ONXX            40,900          698,757.35        1,154,607.00
+ONYX SOFTWARE CORP                           0.000     683402200   ONXS           122,700          476,126.79          483,438.00
+OPENWAVE SYS INC                             0.000     683718308   OPWV            80,999          616,261.71          890,989.00
+OPLINK COMMUNICATION                         0.000     68375Q106   OPLK           123,000          210,485.65          293,970.00
+OPNET TECHNOLOGIES INC.                      0.000     683757108   OPNT            13,200          155,991.81          217,272.00
+OPSWARE INC                                  0.000     68383A101   OPSW            57,800          324,051.55          427,720.00
+OPTICAL COMMUNICATIO                         0.000     68382T101   OCPI            19,100           37,188.85           70,670.00
+OPTIMAL ROBOTICS CORP.                       0.000     68388R208   OPMR            20,800          220,793.86          166,192.00
+OPTION CARE INC                              0.000     683948103   OPTN           140,000        1,367,336.06        1,495,200.00
+ORACLE SYS. CORP.                            0.000     68389X105   ORCL         7,883,300       80,642,650.87      104,059,560.04
+ORASURE TECHNOLOGIES                         0.000     68554V108   OSUR            46,700          379,834.21          371,732.00
+ORBITAL SCIENCES CORP.                       0.000     685564106   ORB            317,500        2,256,607.29        3,816,350.00
+ORBITZ INC-CLASS A                           0.000     68556Y100   ORBZ            17,953          490,587.45          416,509.60
+ORIENTAL FINL GROUP                          2.179     68618W100   OFG             23,430          556,536.18          602,151.00
+ORLEANS HOMEBUILDERS INC                     0.000     686588104   OHB              2,000           53,526.99           56,660.00
+ORTHODONTIC CENTERS OF AMER                  0.000     68750P103   OCA            118,181        1,233,143.96          951,357.05
+ORTHOFIX INTERNATIONAL N.V.                  0.000     N6748L102   OFIX            12,995          472,691.54          636,495.10
+ORTHOLOGIC CORP                              0.000     68750J107   OLGC           188,319          932,926.01        1,154,395.47
+OSHKOSH B'GOSH CL-A                          2.050     688222207 Q GOSHA            2,400           70,034.47           51,504.00
+OSHKOSH TRUCK CORPORATION                    0.450     688239201   OSK             49,700        1,331,254.19        2,536,190.99
+OSI PHARMACEUTICALS INC                      0.000     671040103   OSIP            46,800        1,560,067.98        1,507,428.01
+OSI SYSTEMS INC                              0.000     671044105   OSIS            15,600          245,004.16          299,676.00
+OTTER TAIL CORP                              4.040     689648103   OTTR            25,300          706,511.62          676,269.00
+OUTBACK STEAKHOUSE INC                       1.176     689899102   OSI            134,733        4,174,904.64        5,956,545.92
+OVERLAND STORAGE INC                         0.000     690310107   OVRL             3,200           67,366.39           60,159.99

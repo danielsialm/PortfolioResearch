@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 163
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+PEC SOLUTIONS INC                          0.000 PECS    705107100     14.1700        34,000.00        400,550.52        481,780.00
+PEOPLES BK BRIDGEPOR                       2.982 PBCT    710198102     38.8900         7,800.00        227,836.44        303,342.00
+PERINI CORP                                0.000 PCR     713839108     16.6900        23,100.00        240,286.69        385,539.00
+PEROT SYSTEMS COPR. CL. A                  0.000 PER     714265105     16.0300        59,500.00        973,722.00        953,785.00
+PETROQUEST ENERGY INC                      0.000 PQUE    716748108      4.9500        25,700.00         81,752.23        127,215.00
+PFF BANCORP INC                            1.726 PFB     69331W104     46.3300        12,300.00        431,279.50        569,859.00
+POLO RALPH LAUREN CORP                     0.469 RL      731572103     42.6000         6,300.00        162,744.12        268,380.00
+POLYONE CORPORATION                        2.759 POL     73179P106      9.0600        67,000.00        493,863.18        607,020.00
+POMEROY COMPUTER RESOURCES                 0.000 PMRY    731822102     15.2100         8,700.00         92,118.22        132,327.00
+POPE & TALBOT INC                          1.870 POP     732827100     17.1100         5,400.00         89,874.36         92,394.00
+PRAECIS PHARMACEUTICALS INC                0.000 PRCS    739421105      1.9000        48,400.00        232,753.18         91,960.00
+PRIME MONEY MARKET - 6JL                   0.000 IT-JAC  IT-JAC         1.0000     2,298,858.86      2,298,858.88      2,298,858.87
+PROVIDENT BANKSHARES CORPORATI             2.914 PBKS    743859100     36.3700        15,750.00        328,166.88        572,827.50
+PROVIDENT FINANCIAL SERVICES               1.239 PFS     74386T105     19.3700        33,400.00        574,432.01        646,958.00
+QUANEX CORP                                0.787 NX      747620102     68.5700        13,500.00        659,902.68        925,695.00
+QUICKLOGIC CORP                            0.000 QUIK    74837P108      2.8410         6,600.00         21,571.44         18,750.60
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    41.9300        20,200.00        730,407.18        846,986.00
+RELIANCE STEEL & ALUMINUM                  0.718 RS      759509102     38.9600        12,200.00        395,968.38        475,312.00
+RES-CARE INC                               0.000 RSCR    760943100     15.2200        15,600.00        236,246.40        237,432.00
+RPC INC                                    0.477 RES     749660106     25.1200         4,400.00         63,816.28        110,528.00
+RUDDICK CORP.                              2.028 RDK     781258108Q    21.6900        18,500.00        360,931.42        401,265.00
+RUSS BERRIE & CO INC                       5.253 RUS     782233100     22.8400         2,400.00         53,119.44         54,816.00
+RUSSELL CORP                               0.821 RML     782352108Q    19.4800        31,600.00        557,780.86        615,568.00
+RYANS RESTAURANT GROUP INC                 0.000 RYAN    783520109     15.4200        21,900.00        338,103.15        337,698.00
+RYERSON TULL, INC.                         1.269 RT      78375P107Q    15.7500        38,700.00        471,959.09        609,525.00
+SAFETY INSURANCE GROUP INC                 1.540 SAFT    78648T100     31.1500         6,200.00        127,255.25        193,130.00
+SANTANDER BANCORP                          2.122 SBP     802809103     30.1600         4,730.00        101,516.83        142,656.80
+SELECTIVE INSURANCE GROUP                  1.717 SIGI    816300107     44.2400         6,265.00        204,635.02        277,163.60
+SILGAN HOLDINGS INC                        0.984 SLGN    827048109     60.9600        10,000.00        414,100.00        609,600.00
+SIMPLETECH INC                             0.000 STEC    828823104      4.6000        24,600.00        122,151.30        113,160.00
+SIX FLAGS INC.                             0.000 PKS     83001P109      5.3700         9,100.00         45,843.98         48,867.00
+SKYWEST INC                                0.598 SKYW    830879102     20.0600        56,900.00      1,099,948.94      1,141,414.00
+SMART & FINAL INC                          0.000 SMF     831683107     14.3900         5,900.00         94,636.00         84,901.00
+SOURCE CORP                                0.000 SRCPE   836167106     19.1100        14,100.00        338,115.27        269,451.00
+SOUTHWEST GAS CORP                         3.228 SWX     844895102Q    25.4000           800.00         17,892.72         20,320.00
+SPHERION CORPORATION                       0.000 SFN     848420105      8.4000        37,400.00        326,645.40        314,160.00
+STANDARD REGISTER CO                       6.515 SR      853887107     14.1200        13,800.00        147,108.00        194,856.00
+STANDARD-PACIFIC CORP                      0.498 SPF     85375C101     64.1400         1,900.00         53,848.35        121,866.00
+STANLEY FURNITURE CO INC                   0.889 STLY    854305208     44.9500         3,600.00         98,409.60        161,820.00

@@ -1,0 +1,24 @@
+ASOF02   Date 01/19/2006 Time 18:24:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 152
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+REGENCY CENTERS CORP                       2.948 REG     758849103     58.9500         4,900.00        274,247.24        288,855.00
+SHURGARD STORAGE CTRS                      3.949 SHU     82567D104     56.7100         3,000.00        122,798.85        170,130.00
+SIMON PROP GROUP INC.                      3.134 SPG     828806109Q    76.6300         4,779.00        237,952.05        366,214.77
+SL GREEN RE CORP                           3.141 SLG     78440X101     76.3900         1,100.00         57,808.58         84,029.00
+THORNBURG MTG INC                         10.381 TMA     885218107     26.2000         2,600.00         75,850.06         68,120.00
+TRIZEC PROPERTIES INC                      3.490 TRZ     89687P107     22.9200         2,200.00         34,991.46         50,424.00
+UNITED DOMINION RE TRUST                   5.119 UDR     910197102     23.4400         6,200.00        132,411.35        145,328.00
+VORNADO REALTY TRUST                       3.833 VNO     929042109     83.4700         3,400.00        228,671.95        283,798.00
+
+Instrument Total            32                                                       141,114.00      4,461,109.93      5,237,274.97
+
+Portfolio Total            666                                                    10,324,806.05    289,137,287.89    331,912,301.05
+

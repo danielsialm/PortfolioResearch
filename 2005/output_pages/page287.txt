@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:56   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 070
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+VIRGINIA COMMERCE BANCORP                    0.000     92778Q109   VCBI             9,700          239,676.74          282,173.00
+VIRGINIA FINL CORP                           2.442     927810101   VFGI             7,627          256,919.86          274,800.81
+VIROPHARMA INC                               0.000     928241108   VPHM            72,327        1,045,215.25        1,341,665.85
+VISHAY INTERTECHNOLOGY INC.                  0.000     928298108   VSH          1,902,200       23,791,765.31       26,174,272.00
+VISTACARE INC-CL A                           0.000     92839Y109   VSTA            11,700          283,048.35          146,250.00
+VISTAPRINT LTD                               0.000     G93762204   VPRT            40,025          597,929.20          910,728.85
+VISTEON CORP                                 3.833     92839U107   VC             194,500        1,613,719.11        1,217,570.00
+VITAL IMAGES INC                             0.000     92846N104   VTAL            13,000          229,184.80          339,950.00
+VITAL SIGNS INC                              0.653     928469105   VITL            13,098          460,698.71          560,856.36
+VITESSE SEMICONDUCTOR CORP                   0.000     928497106   VTSS           231,900          780,156.35          445,248.00
+VITRAN CORP INC-A                            0.000     92850E107   VTNC            93,911        1,462,850.03        1,850,046.70
+VNUS MEDICAL TECHNOLOGIES                    0.000     928566108   VNUS             5,500           65,795.37           46,090.00
+VODAFONE GROUP PLC-ADR                       3.539     92857W100   VOD          1,470,500       35,445,384.35       31,571,635.00
+VOLCOM INC                                   0.000     92864N101   VLCM             5,000          140,150.00          170,050.00
+VOLT INFO. SCIENCES INC.                     0.000     928703107   VOL              8,500          208,440.89          161,670.00
+VULCAN MATERIALS CO                          1.712     929160109   VMC             23,700        1,057,019.34        1,605,675.00
+W HLDG CO INC                                2.308     929251106   WHI            152,700        1,503,815.89        1,256,721.00
+W-H ENERGY SERVICES INC                      0.000     92925E108   WHQ             67,400        1,209,358.02        2,229,592.00
+W&T OFFSHORE INC                             0.408     92922P106   WTI             25,300          563,786.91          743,820.00
+WABASH NATIONAL CORP                         0.944     929566107   WNC            161,800        3,496,215.31        3,082,290.00
+WABTEC                                       0.148     929740108   WAB            100,900        1,835,117.96        2,714,210.00
+WACHOVIA CORP.                               3.859     929903102 Q WB           3,416,477      139,514,489.12      180,594,974.22
+WADDELL & REED FINANCIAL-CL A                2.861     930059100   WDR             57,400        1,048,301.14        1,203,678.00
+WAL MART STORES INC                          1.282     931142103 Q WMT          5,359,471      187,523,263.89      250,823,242.81
+WALGREEN CO.                                 0.587     931422109 Q WAG          1,478,900       34,426,216.82       65,456,114.00
+WALTER INDS INC                              0.321     93317Q105   WLT             38,400        1,302,101.28        1,909,248.00
+WARNACO GROUP INC/THE                        0.000     934390402   WRNC           321,850        6,695,696.04        8,599,832.00
+WARWICK VALLEY TELEPHONE CO                  4.190     936750108   WWVY             7,765          194,822.61          148,233.85
+WASHINGTON GROUP INTERNATIONAL               0.000     938862208   WGII            27,508          851,447.56        1,457,098.76
+WASHINGTON MUTUAL INC.                       4.505     939322103   WM           1,649,858       56,898,819.83       71,768,822.99
+WASHINGTON POST CL. B                        0.967     939640108 Q WPO                400          342,309.08          306,000.00
+WASHINGTON TR BANCORP                        2.750     940610108   WASH            12,500          310,522.10          327,250.00
+WASTE CONNECTIONS INC                        0.000     941053100   WCN            137,472        4,111,262.69        4,737,285.12
+WASTE INDUSTRIES USA INC                     2.484     941057101   WWIN             6,200           86,671.78           79,856.00
+WASTE MANAGEMENT INC.                        2.899     94106L109   WMI            812,700       26,289,893.86       24,665,445.00
+WASTE SERVICES INC                           0.000     941075103   WSII            67,500          271,768.50          224,775.00
+WATCHGUARD TECHNOLOGIES INC                  0.000     941105108   WGRD           194,200          863,618.57          718,540.00
+WATER PIK TECHNOLOGIES INC                   0.000     94113U100   PIK             31,200          538,205.98          669,864.00
+WATERS CORPORATION                           0.000     941848103   WAT             19,900          953,641.53          752,220.00
+WATSCO INC.                                  1.337     942622200   WSO             22,700          436,089.73        1,357,687.00

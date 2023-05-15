@@ -1,0 +1,40 @@
+ASOF02   Date 01/19/2006 Time 18:24:15   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN1       QUANTITATIVE 1000 (Q
+Instrument - COM       COMMON STOCK
+
+WALGREEN CO.                               0.587 WAG     931422109Q    44.2600        35,800.00        943,394.86      1,584,508.00
+WASHINGTON MUTUAL INC.                     4.505 WM      939322103     43.5000       338,100.00     13,207,133.29     14,707,349.98
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     32.5100       225,500.00      7,430,257.43      7,331,005.00
+WEIGHT WATCHERS INTL                       0.000 WTW     948626106     49.4300       146,900.00      7,598,184.42      7,261,267.00
+WELLPOINT INC.                             0.000 WLP     94973V107     79.7900       209,938.62      9,022,907.18     16,751,002.49
+WELLS FARGO COMPANY                        3.310 WFC     949746101     62.8300       189,400.00      6,630,946.76     11,900,002.00
+WESTCORP INC                               1.921 WES     957907108     66.6100         7,700.00        395,350.81        512,897.00
+WFS FINL INC                               0.183 WFSI    92923B106     76.1500        10,100.00        767,652.52        769,115.00
+WHIRLPOOL CORP                             2.053 WHR     963320106Q    83.7600        92,200.00      7,655,048.42      7,722,672.00
+WILEY JOHN & SONS IN                       0.922 JW.A    968223206     39.0400       122,400.00      4,783,150.20      4,778,496.00
+WPS RESOURCES CORP.                        4.086 WPS     92931B106     55.3100       129,700.00      7,282,814.10      7,173,707.00
+WYETH                                      2.170 WYE     983024100Q    46.0700       393,100.00     15,760,197.87     18,110,117.01
+YAHOO INC                                  0.000 YHOO    984332106     39.1800        45,500.00      1,587,609.92      1,782,690.00
+YELLOW ROADWAY CORP                        0.000 YRCW    984249102     44.6100       160,700.00      7,412,573.22      7,168,827.00
+
+Instrument Total           248                                                    63,471,438.62  1,882,844,803.97  2,182,368,575.53
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+ARDEN REALTY GROUP INC                     4.505 ARI     039793104Q    44.8300       161,700.00      7,311,950.36      7,249,011.00
+CRESCENT RE EQT. CO.                       7.568 CEI     225756105     19.8200       351,600.00      6,667,882.47      6,968,712.00
+DEVELOPERS DIVERSIFIED RE                  4.593 DDR     251591103Q    47.0200       168,200.00      7,779,007.67      7,908,764.00
+PUBLIC STORAGE INC                         2.953 PSA     74460D109     67.7200        17,600.00      1,244,490.88      1,191,872.00
+THORNBURG MTG INC                         10.381 TMA     885218107     26.2000       270,000.00      7,330,410.12      7,074,000.00
+
+Instrument Total             5                                                       969,100.00     30,333,741.50     30,392,359.00
+
+Portfolio Total            253                                                    64,440,538.62  1,913,178,545.47  2,212,760,934.53
+

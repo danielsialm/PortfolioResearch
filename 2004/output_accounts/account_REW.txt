@@ -1,0 +1,53 @@
+Instrument - A         APARTMENT
+
+CHARTER APARTMENTS             ORANGE COUNTY CA                7.880         RCHART                 31,433,300.00     72,000,000.00
+COURTYARD AT 65TH ST.          EMERYVILLE, CA                  0.000         RCTYRD                 92,026,750.00     92,026,750.00
+ELLIOTT BAY PLAZA              SEATTLE WA                      5.960         RELBAY                 19,587,164.88     29,300,000.00
+HEIGHTS AT BEAR CREEK          SEATTLE, WA                     0.077         RHBCRK                 29,581,086.92     25,500,000.00
+OVERLOOK APARTMENTS            SAN DIEGO CA                    7.720         ROVRLK                 23,534,580.00     53,500,000.00
+OVERLOOK AT FOUNTAINGROVE      SANTA ROSA, CA                  0.000         ROFGRV                 19,509,027.50     19,509,027.50
+RELATED - THE PARAMOUNT        SAN FRANCISCO  CA               0.000         RMISSN                          0.01     31,100,000.00
+
+Instrument Total             7                                                                     215,671,909.31    322,935,777.50
+
+Instrument -I      INDUSTRIAL
+
+FLEMING BUSINESS PARK          SAN JOSE CA                     6.900         RFLMNG                 45,943,997.27     35,999,999.98
+HORIZON DISTRIBUTION CENTER    MIRA LOMA, CA                   0.000         RHORIZ                 18,009,261.00     18,009,261.00
+THOROUGHBRED PHASE 1           RIVERSIDE CA                    9.200         RTHORO                 18,000,000.00     28,000,000.00
+THOROUGHBRED PHASE 2           RIVERSIDE CA                    0.000         RTHOR2                 19,070,686.00     28,800,000.01
+THOROUGHBRED PHASE III         RIVERSIDE, CA                   0.000         RTHOR3                 19,414,595.69     26,999,999.99
+
+Instrument Total             5                                                                     120,438,539.96    137,809,260.98
+
+Instrument -O      OFFICE
+
+2030 MAIN STREET               IRVINE, CA                      0.000         RMAINS                 89,848,635.63     87,000,000.00
+44 MONTGOMERY                  SAN FRANCISCO CA                7.080         RMON44                 35,738,268.21     79,900,000.00
+555 TWELFTH STREET VENTURE (T- OAKLAND, CA                     0.000         ROAKT9                 44,274,435.17     43,000,000.00
+900 E. HAMILTON AVE.           CAMPBELL CA                     0.000         RHMLTN                 87,179,191.99     63,900,000.00
+CALIFORNIA CASUALTY CENTER     SAN FRANSISCO, CA               0.000         RCACAS                 66,422,311.54     48,500,000.01
+DOUGLAS EMMETT REALTY FUND     LOS ANGELES CA                  7.000         RDERF1                  1,651,083.79     12,011,000.00
+MARINA VILLAGE                 SAN FRANCISCO CA               10.000         RMNAVL                 34,244,683.11     58,405,000.00
+OAKLAND CITY CENTER            OAKLAND, CA                     7.900         ROAKCC                 25,444,328.13     53,800,000.30
+ONE CALIFORNIA                 SAN FRANCISCO CA               11.030         RONECA                 42,794,517.64     83,900,000.00
+USA MOBILITY INC                                               0.000         90341G103                       0.00          2,683.56
+
+Instrument Total            10                                                                     427,597,455.21    530,418,683.87
+
+Instrument -R      RETAIL
+
+ANAHEIM HILLS                  ANAHEIM                         9.000         RANAHL                 52,321,063.81     71,100,000.01
+CLAIREMONT SQ. SHOP. CTR.      SAN DIEGO                       9.800         RCMSQ1                 52,686,112.41     79,200,000.01
+
+Instrument Total             2                                                                     105,007,176.22    150,300,000.02
+
+
+Instrument - X         OTHER
+
+GLENDALE CITY CENTER           GLENDALE, CA                    2.215         RGLNDC                  7,199,521.29      8,099,521.32
+
+Instrument Total             1                                                                       7,199,521.29      8,099,521.32
+
+Portfolio Total             25                                                                     875,914,601.99  1,149,563,243.69
+

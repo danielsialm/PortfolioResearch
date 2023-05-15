@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+GUJARAT AMBUJA CEMENT GDR                    3.478     4393074      GJAD_       133,000.00                0.00
+GUJARAT AMBUJA CEMENTS LTD                   0.000     6100119      YGAMB     1,575,000.00        5,739,789.32
+HARMONY GOLD MINING CO                       0.000     6410562      HAR_S       397,434.00        2,766,977.72
+HINDALCO INDUSTRIES LIMITED                  0.000     6100142      HNDL_        75,000.00        1,223,786.76
+HUANENG POWER INTL ADR                       4.498     2441737      HNP          50,000.00          824,474.99
+HYUNDAI MOTOR CO K                           0.000     6451055      0538_       223,190.00        4,970,683.64
+HYUNDAI PRECISION                            0.002     6449544      1233_        20,000.00          449,775.66
+ICL-ISRAEL CHEM OR                           0.956     6455530      CHIM_       257,590.00          286,622.46
+IDB HOLDING CORP O                           0.000     6456726      IDBH_       183,226.00        4,334,552.57
+IMPALA PLATINUM HL                           0.000     6457804      IMP_S        92,500.00        4,311,792.64
+ISRAEL CORP ORD SH                           0.015     6889678      ILCO_        15,000.00        2,106,841.77
+KGHM POLSKA MIEDZ                            0.000     5263251      KGH_P     1,000,000.00        3,712,043.16
+KIMBERLEY CLARK DE                           0.000     2491914      KIMBE     1,400,000.00        3,958,231.47
+KOMERCNI BANKA                               0.000     4519449      KOMB_        10,000.00          265,182.04
+KOOKMIN BANK ADR                             0.198     2811697      KB           50,000.00        1,863,890.00
+KOOKMIN BANK KRW50                           0.000     6419365      6000_       191,645.00        4,969,923.15
+KOOKMIN CREDIT CARD                          0.000     6263799      3115_        80,000.00        2,141,377.26
+KOOR INDS ORD ILS0                           6.201     6481698      KOR_I         6,293.00          365,824.42
+KOREA ELEC POWER K                           0.000     6495730      1576_       108,958.00        3,199,673.67
+KOREA ELEC. POWER ADR                        2.235     2480495      KEP         600,000.00        6,703,242.14
+KUMBA RESOURCES LTD                          0.000     6418801      KMB_S       600,000.00        2,132,993.90
+LARSEN & TOUBRO LIMITED                      0.000     6100164      LT_IN       450,000.00        1,906,460.63
+LAZARD BIRLA INDIA                           0.000     0506014      LBI_L     1,152,265.00                0.00
+LG ELECTRONICS INC                           0.004     6375779      0261_         1,334.00           50,983.34
+LG ELECTRONICS/NEW                           0.000     6520739      6657_        12,006.00          458,850.04
+LIBERTY GROUP LIMITED                        0.001     6515047      LGL_S       360,012.00        3,225,119.67
+LUKOIL 144A.MSNY ADR                         0.000     3188464      LKOC_        12,000.00          744,000.00
+LUKOIL HLDGS SPND                            2.571     2537432      LUKOY       100,200.00        5,249,212.92
+MAGYAR OLAJ-ES GAZIPARE RESZVENYTAR          0.000     4742494      MOL_H       420,557.00        6,679,679.29
+MAHANAGAR TELEPHONE NIGAM                    0.000     6117807      ZMTNL     1,199,470.00        3,707,919.90
+MALAYSIAN PACIFIC INDUSTRIES                 1.135     6556693      MPI_M       200,000.00        1,178,925.20
+MANILA ELECTRIC CO                           0.000     6574833      MERB_     2,500,000.00        1,666,002.55
+MATAV RT                                     0.000     4577469      MATAV     1,000,000.00        4,503,499.99
+METRO BANK + TR CO                           0.000     6514442      MBT_P       656,145.00          541,155.78
+MIGROS TRL1000                               0.000     4593034      MIGRS   146,148,000.00        1,521,692.68
+MOBILE TELESYSTEMS ADR                       0.350     2603225      MBT          40,000.00        1,146,314.95
+MOBINIL-EGYPTIAN MOBILE SERV                 0.000     6103925      EMPN_       425,000.00        4,107,627.44
+MOSENERGO                                   63.694     5467031      MSNG$   132,063,280.00        4,231,302.10
+MTN GROUP LIMITED                            0.000     6563206      MTN_S     2,000,000.00        2,189,144.88

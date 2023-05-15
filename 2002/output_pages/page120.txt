@@ -1,0 +1,36 @@
+ASOF02   Date 01/21/2003 Time 18:53:03   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 092
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 4JL       JACOBS LEVY - 400
+Instrument - COM       COMMON STOCK
+
+TELEPHONE & DATA                           1.233 TDS     879433100     47.0200         6,400.00        316,356.48        300,928.00
+THE JOHN NUVEEN CO - CLASS A               2.051 JNC     478035108     25.3500        30,200.00        676,895.43        765,570.00
+THE MONY GROUP INC.                        1.879 MNY     615337102     23.9400        24,100.00        767,828.75        576,954.00
+TRIAD HOSPITALS INC                        0.000 TRI     89579K109     29.8300        35,700.00      1,204,934.66      1,064,931.00
+TYSON FOODS INC. CL-A                      1.426 TSN     902494103     11.2200       100,400.00      1,329,953.89      1,126,488.00
+UNITED RENTALS INCORPORATED                0.000 URI     911363109     10.7600        52,700.00        851,325.26        567,052.00
+UNIVERSAL CORP-VA                          3.896 UVV     913456109Q    36.9600        17,400.00        565,553.48        643,104.00
+UNIVERSAL HEALTH SERVICES CL B             0.000 UHS     913903100     45.1000        18,700.00        822,384.45        843,370.00
+VALERO ENERGY CORP.                        1.082 VLO     91913Y100Q    36.9400        43,100.00      1,151,755.05      1,592,114.00
+VARIAN MEDICAL SYSTEMS                     0.000 VAR     92220P105     49.6000        29,400.00      1,043,349.17      1,458,240.00
+VISHAY INTERTECHNOLOGY INC.                0.000 VSH     928298108     11.1800        62,400.00        995,492.84        697,632.00
+WEBSTER FINANCIAL CORPORATION              2.183 WBS     947890109     34.8000        23,200.00        767,075.56        807,360.00
+WILLIAMS-SONOMA INC                        0.000 WSM     969904101     27.1500        46,000.00      1,176,252.65      1,248,900.00
+XEROX CORP                                 0.000 XRX     984121103Q     8.0500         5,600.00         54,812.51         45,080.00
+
+Instrument Total           131                                                     5,403,088.33    103,246,292.12    103,398,000.03
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+NEW PLAN EXCEL RE TRUST                    8.643 NXL     648053106Q    19.0900         4,500.00         85,287.38         85,904.99
+
+Instrument Total             1                                                         4,500.00         85,287.38         85,904.99
+
+Portfolio Total            132                                                     5,407,588.33    103,331,579.50    103,483,905.02
+

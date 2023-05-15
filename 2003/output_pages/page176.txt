@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 146
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+YUM BRANDS, INC.                           0.000 YUM     988498101     34.4000         1,900.00         64,407.53         65,360.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     66.3700         3,750.00        182,497.50        248,887.50
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     70.4000         8,200.00        316,391.13        577,280.00
+ZIONS BANCORPORATION                       1.956 ZION    989701107     61.3300         1,800.00        108,332.73        110,394.00
+
+Instrument Total           628                                                     7,956,153.67    213,230,220.93    258,372,897.93
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMB PROPERTY CORP.                         5.048 AMB     00163T109     32.8800         1,900.00         52,098.00         62,472.00
+ARDEN REALTY GROUP INC                     6.657 ARI     039793104Q    30.3400         5,500.00        157,393.06        166,870.00
+AVALONBAY COMMUNITIES                      5.857 AVB     053484101Q    47.8000         1,100.00         50,355.47         52,580.00
+BOSTON PROPERTIES INC                      5.229 BXP     101121101     48.1900         6,400.00        268,352.00        308,416.00
+CAMDEN PROPERTY TRUST                      5.733 CPT     133131102     44.3000         1,300.00         56,990.96         57,590.00
+CARRAMERICA RE CORP                        6.715 CRE     144418100     29.7800           800.00         22,232.00         23,824.00
+CATELLUS DEVELOP CORP                      2.363 CDX     149113102     24.1200         2,400.00         56,094.00         57,888.00
+CBL & ASSOC PROP                           5.132 CBL     124830100     56.5000         2,100.00        114,642.99        118,650.00
+CENTERPOINT PROP CORP.                     4.165 CNT     151895109     74.9000         2,000.00        118,920.00        149,800.00
+CHELSEA PROP GROUP INC                     3.904 CPG     163421100     54.8100         3,300.00        170,495.89        180,873.00
+DEVELOPERS DIVERSIFIED RE                  5.481 DDR     251591103Q    33.5700        12,200.00        346,774.15        409,554.00
+DUKE RE CORPORATION                        5.935 DRE     264411505     31.0000         6,500.00        184,535.00        201,500.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500        17,400.00        457,727.13        498,510.02
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100         8,500.00        215,351.87        250,835.00
+FEDERAL REALTY INV.                        5.105 FRT     313747206Q    38.3900         3,000.00        112,512.96        115,170.00
+GENERAL GROWTH PROP                        4.324 GGP     370021107Q    27.7500        27,800.00        566,686.00        771,450.00
+ISTAR FINANCIAL INC                        6.812 SFI     45031U101     38.9000        14,100.00        487,995.96        548,490.00
+KIMCO REALTY CORP                          5.095 KIM     49446R109Q    44.7500        14,600.00        552,738.00        653,350.00
+LIBERTY PROPERTY TRUST                     6.221 LRY     531172104Q    38.9000         6,600.00        219,648.00        256,740.00
+MACK-CALI RE CORP.                         6.054 CLI     554489104     41.6200         6,000.00        221,300.02        249,720.00
+MILLS CORP.                                5.136 MLS     601148109     44.0000         2,700.00        114,381.40        118,800.00
+NEW PLAN EXCEL RE TRUST                    6.688 NXL     648053106Q    24.6700        18,500.00        390,036.50        456,395.00
+PROLOGIS TRUST                             4.487 PLD     743410102Q    32.0900        10,200.00        274,380.00        327,318.00
+PUBLIC STORAGE INC                         4.148 PSA     74460D109     43.3900         1,600.00         69,416.00         69,424.00
+ROUSE CO                                   4.000 RSE     779273101     47.0000         9,100.00        358,783.79        427,700.00
+SIMON PROP GROUP INC.                      5.179 SPG     828806109Q    46.3400        11,500.00        428,528.46        532,909.98
+THE MACERICH CO                            5.483 MAC     554382101     44.5000         2,900.00        121,007.47        129,050.00
+THORNBURG MTG INC                          9.411 TMA     885218107     27.2000         4,000.00        100,606.45        108,800.00
+UNITED DOMINION RE TRUST                   5.937 UDR     910197102     19.2000         5,400.00         92,394.00        103,680.00
+VORNADO REALTY TRUST                       5.187 VNO     929042109     54.7500         4,800.00        224,744.45        262,800.00

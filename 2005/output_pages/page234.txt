@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 017
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CARLISLE COS INC                             1.446     142339100   CSL             59,500        3,679,706.95        4,114,425.00
+CARMAX INC.                                  0.000     143130102   KMX              2,700           75,995.62           74,736.00
+CARMIKE CINEMAS INC                          2.760     143436400   CKEC            32,755        1,093,148.49          830,666.80
+CARNIVAL CORP                                1.870     143658300 Q CCL            132,900        7,342,561.60        7,106,163.00
+CARPENTER TECHNOLOGY                         0.851     144285103   CRS            117,700        6,668,873.36        8,294,319.00
+CARRIZO OIL & GAS INC                        0.000     144577103   CRZO            44,240          766,805.30        1,093,170.40
+CARTERS INC                                  0.000     146229109   CRI             19,500          997,836.23        1,147,575.00
+CASCADE BANCORP                              1.564     147154108   CACB            17,800          341,543.33          409,578.00
+CASCADE CORP.                                1.279     147195101 Q CAE             20,400          658,307.19          956,964.00
+CASCADE NATURAL GAS CORP.                    4.920     147339105   CGC             12,000          262,425.10          234,120.00
+CASELLA WASTE SYS IN                         0.000     147448104   CWST            50,450          599,355.13          645,255.50
+CASEY'S GENERAL STORES INC.                  0.725     147528103   CASY           107,100        1,533,632.99        2,656,080.00
+CASH AMERICAN INT'L. INC.                    0.431     14754D100   CSH             31,000          635,426.51          718,890.00
+CASTLE (A.M.) & CO.                          1.098     148411101   CAS             30,700          451,359.32          670,488.00
+CASUAL MALE RETAIL GROUP INC                 0.000     148711104   CMRG           232,500        1,330,564.53        1,425,225.00
+CATALINA MARKETING CORP                      1.183     148867104   POS             73,139        1,473,348.87        1,854,073.65
+CATAPULT COMMUNICATIONS CORP                 0.000     149016107   CATT            10,335          203,834.11          152,854.65
+CATERPILLAR INC.                             1.731     149123101 Q CAT          1,172,400       39,060,552.09       67,729,548.00
+CATHAY GENERAL BANCORP                       1.001     149150104   CATY            48,086        1,313,732.95        1,728,210.84
+CATO CORP CL A                               2.424     149205106   CTR             71,700        1,146,988.10        1,537,965.00
+CB RICHARD ELLIS GROUP INC-A                 0.000     12497T101   CBG            320,780       14,321,811.49       18,877,903.00
+CBEYOND COMMUNICATIONS INC                   0.000     149847105   CBEY             6,500           77,350.00           66,950.00
+CBIZ INC.                                    0.000     124805102   CBIZ           131,853          540,829.94          793,755.06
+CBRL GROUP INC.                              1.479     12489V106 Q CBRL            24,042          969,549.38          845,076.30
+CBS CORP. CL. B                              0.858     124857202   CBS          3,485,812      131,749,466.05      113,637,471.20
+CCC INFORMATION SVCS                         0.000     12487Q109   CCCG            20,818          434,419.66          545,847.96
+CDI CORP.                                    1.605     125071100   CDI             13,200          288,815.24          361,680.00
+CDW CORP                                     0.746     12512N105   CDWC            20,870        1,245,015.83        1,201,485.90
+CEC ENTERTAINMENT, INC.                      0.000     125137109   CEC             50,750        1,395,054.83        1,727,530.00
+CELADON GROUP INC                            0.000     150838100   CLDN           192,408        3,976,208.37        5,541,350.40
+CELANESE CORP-SERIES A                       0.836     150870103   CE               5,600          107,866.44          107,072.00
+CELERA GENOMICS GROUP                        0.000     038020202   CRA            212,600        2,626,426.83        2,330,096.00
+CELGENE CORP                                 0.000     151020104   CELG           493,845       15,425,127.77       32,001,156.00
+CELLEGY PHARMACEUTICALS INC                  0.000     15115L103   CLGY           111,700          712,474.47           62,552.00
+CENDANT CORP.                                2.550     151313103   CD           1,835,511       35,766,056.98       31,662,564.75
+CENTENE CORP                                 0.000     15135B101   CNC             44,300          645,625.66        1,164,647.00
+CENTENNIAL BANK HOLDINGS                     0.000     151345303   CBHI            64,500          832,695.00          797,865.00
+CENTENNIAL COMMUNCTN                         0.000     15133V208   CYCL            23,300          318,563.74          361,616.00
+CENTER FINANCIAL CORP                        0.635     15146E102   CLFC            11,784          187,335.52          296,485.44
+CENTERPOINT ENERGY INC                       1.867     15189T107 Q CNP            113,800        1,332,179.08        1,462,330.00

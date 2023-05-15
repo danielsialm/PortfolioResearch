@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:52:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 013
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - VAP       LARGE CAP VALUE PASS
+Instrument - COM       COMMON STOCK
+
+HARTFORD FINL SERVICES                     2.377 HIG     416515104     45.4300        56,200.00      2,798,640.45      2,553,166.00
+HASBRO BRADLEY                             1.039 HAS     418056107Q    11.5500        38,200.00        634,873.42        441,210.00
+HEALTH MGMT ASSOCIATES CL A                0.446 HMA     421933102     17.9000        52,500.00        891,817.60        939,750.00
+HEALTHSOUTH CORP                           0.000 HRC     421924101      4.2000        87,300.00      1,165,489.04        366,660.00
+HERCULES INCORPORATED                      0.000 HPC     427056106Q     8.8000        24,100.00        218,105.00        212,080.00
+HEWLETT-PACKARD CO                         1.843 HPQ     428236103Q    17.3600       672,300.00     17,505,920.63     11,671,128.00
+HILTON HOTELS CORP.                        0.629 HLT     432848109Q    12.7100        82,900.00        875,998.59      1,053,659.00
+HOME DEPOT INC.                            1.001 HD      437076102Q    23.9600       512,400.00     17,626,363.74     12,277,104.00
+HONEYWELL INTERNATIONAL INC                3.125 HON     438516106Q    24.0000       180,900.12      8,193,100.05      4,341,603.00
+HOUSEHOLD INTL. INC.                       3.595 HI      441815107Q    27.8100       104,300.00      3,954,357.65      2,900,583.00
+HUMANA INC.                                0.000 HUM     444859102     10.0000        35,700.00        501,669.46        357,000.00
+HUNTINGTON BANCSHARES                      3.420 HBAN    446150104     18.7100        51,900.00      1,061,744.92        971,049.00
+ILLINOIS TOOL WORKS                        1.418 ITW     452308109Q    64.8600        67,500.00      4,397,123.65      4,378,050.00
+INGERSOLL-RAND CO-A                        1.579 IR      G4776G101Q    43.0600        37,300.00      1,838,674.06      1,606,138.00
+INTERNATIONAL PAPER                        2.859 IP      460146103Q    34.9700       105,700.00      3,483,919.81      3,696,329.00
+INTERPUBLIC GROUP                          2.698 IPG     460690100Q    14.0800        85,000.00      2,424,287.31      1,196,800.00
+ITT INDUSTRIES INC                         0.988 ITT     450911102     60.6900        20,200.00        671,803.17      1,225,938.00
+J C PENNEY INC                             2.173 JCP     708160106Q    23.0100        59,000.00      2,825,858.71      1,357,590.00
+JABIL CIRCUIT INC                          0.000 JBL     466313103     17.9200        43,600.00      1,613,219.18        781,312.00
+JANUS CAPITAL GROUP INC                    0.306 JNS     47102X105     13.0700        49,000.00      1,116,203.49        640,430.00
+JDS UNIPHASE CORP                          0.000 JDSU    46612J101      2.4700       311,700.00     30,659,397.04        769,899.00
+JEFFERSON PILOT                            3.175 JP      475070108Q    38.1100        31,600.50      1,226,397.55      1,204,295.06
+JOHN HANCOCK FINANCIAL SRVCS               1.147 JHF     41014S106     27.9000        63,500.00      2,537,460.00      1,771,650.00
+JOHNSON CONTROLS                           1.796 JCI     478366107Q    80.1700        19,600.00      1,115,842.06      1,571,332.00
+JONES APPAREL GROUP INC                    0.000 JNY     480074103     35.4400        28,400.00        731,518.13      1,006,496.00
+JP MORGAN CHASE & CO.                      5.666 JPM     46625H100Q    24.0000       439,900.00     16,109,269.40     10,557,600.00
+KB HOME                                    0.700 KBH     48666K109Q    42.8500        10,500.00        252,799.74        449,925.00
+KERR MCGEE CORP.                           4.063 KMG     492386107Q    44.3000        22,100.00      1,234,154.91        979,030.00
+KEYCORP                                    4.852 KEY     493267108Q    25.1400        93,600.00      2,558,526.96      2,353,104.00
+KEYSPAN CORPORATION                        5.051 KSE     49337W100     35.2400        31,300.00        916,577.22      1,103,012.00
+KINDER MORGAN INC.                         0.946 KMI     49455P101     42.2700        26,800.00        791,391.24      1,132,836.00
+KING PHARMACEUTICALS                       0.000 KG      495582108     17.1900        53,000.00      1,748,233.23        911,070.00
+KNIGHT RIDDER                              1.707 KRI     499040103Q    63.2500        18,100.00        975,278.53      1,144,825.00
+KROGER CO.                                 0.000 KR      501044101     15.4500       170,400.00      3,213,217.28      2,632,680.00
+LEGGETT & PLATT INC                        2.317 LEG     524660107     22.4400        42,900.00        874,793.57        962,676.00
+LEHMAN BROTHERS HOLDING                    0.675 LEH     524908100Q    53.2900        52,300.00      1,647,209.77      2,787,067.00
+LIMITED BRANDS INC.                        2.153 LTD     532716107Q    13.9300       115,200.00      2,045,798.18      1,604,736.00
+LINCOLN NATIONAL CORP                      4.243 LNC     534187109Q    31.5800        39,000.00      1,598,702.43      1,231,620.00
+LIZ CLAIBORNE                              0.775 LIZ     539320101Q    29.6500        23,500.00        498,369.22        696,775.00

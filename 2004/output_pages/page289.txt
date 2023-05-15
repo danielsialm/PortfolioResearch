@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 070
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+TEKELEC                                      0.000     879101103   TKLC            96,318        1,495,366.31        1,968,739.92
+TEKTRONIX, INC.                              0.794     879131100 Q TEK            370,512       10,551,418.51       11,193,167.53
+TELEDYNE TECHNOLOGIES INC                    0.000     879360105   TDY            154,220        2,679,999.06        4,538,694.60
+TELEFLEX INC                                 1.694     879369106 Q TFX             57,700        2,545,851.08        2,996,938.00
+TELEPHONE & DATA                             0.857     879433100   TDS            116,400        7,885,623.04        8,956,980.00
+TELETECH HOLDINGS INC                        0.000     879939106   TTEC            80,500          566,913.01          780,045.00
+TELIK INC                                    0.000     87959M109   TELK            81,400        1,533,401.77        1,557,996.00
+TELLABS INC.                                 0.000     879664100   TLAB         1,393,245       14,261,087.76       11,967,974.55
+TEMPLE-INLAND INC.                           2.105     879868107 Q TIN             96,800        5,791,410.98        6,621,120.00
+TEMPUR-PEDIC INTERNATIONAL INC               0.000     88023U101   TPX              5,800           71,834.60          122,960.00
+TENET HEALTHCARE CORP                        0.000     88033G100   THC            941,038       13,964,410.23       10,332,597.24
+TENNANT COMPANY                              2.219     880345103   TNC             46,300        1,907,499.70        1,835,795.00
+TENNECO AUTOMOTIVE INC                       0.000     880349105 Q TEN             46,600          241,750.54          803,384.00
+TERADYNE INC                                 0.000     880770102   TER            443,400       11,816,150.39        7,568,838.00
+TERCICA INC                                  0.000     88078L105   TRCA             6,300           51,487.79           63,063.00
+TEREX CORP                                   0.000     880779103   TEX             81,445        2,106,564.68        3,880,854.25
+TERRA INDS INC                               0.000     880915103   TRA             67,700          431,673.57          601,176.00
+TESORO CORP                                  0.000     881609101   TSO            102,900        1,189,095.96        3,278,394.00
+TESSERA TECHNOLOGIES INC                     0.000     88164L100   TSRA           139,635        4,109,797.89        5,195,818.35
+TETRA TECH INC.                              0.000     88162G103   TTEK            85,700        1,329,163.74        1,434,618.01
+TETRA TECHNOLOGIES INC.                      0.000     88162F105   TTI             24,750          434,809.15          700,425.00
+TEVA PHARMACEUTICAL INDUSTRIES ADR           0.532     2883878     TEVA           154,800        3,763,996.85        4,622,328.02
+TEXAS CAPITAL BANCSHARES                     0.000     88224Q107   TCBI            23,700          394,536.69          512,394.00
+TEXAS INDUSTRIES INC                         0.480     882491103   TXI             38,700        1,373,690.79        2,414,106.00
+TEXAS INSTRS INC                             0.406     882508104 Q TXN          5,320,453      146,516,664.18      130,989,552.86
+TEXAS REGIONAL BANCSHARES INC                1.224     882673106   TRBS            57,450        1,536,365.47        1,877,466.00
+TEXAS ROADHOUSE INC-CLASS A                  0.000     882681109   TXRH            56,775        1,295,299.45        1,677,701.25
+TEXAS UNITED BANCSHARES INC                  1.417     882838105   TXUI            23,200          395,523.73          458,200.00
+TEXTRON INC.                                 1.897     883203101 Q TXT            202,100       10,994,137.28       14,914,980.00
+THE BANCORP INC                              0.000     05969A105   TBBKD           20,470          296,107.26          327,520.00
+THE DIRECTV GROUP INC                        0.000     25459L106   DTV            604,565        8,396,826.42       10,120,429.48
+THE FINISH LINE-CL A                         0.546     317923100   FINL            41,800          549,755.44          764,940.00
+THE FIRST MARBLEHEAD CORP                    0.000     320771108   FMD             13,600          545,972.00          765,000.00
+THE GEO GROUP INC                            0.000     36159R103   GGI             25,400          509,803.62          675,132.00
+THE MEN'S WEARHOUSE INC.                     0.000     587118100   MW              35,100          890,337.44        1,121,796.00
+THE ST. JOE COMPANY                          0.872     790148100   JOE             45,600        2,530,653.44        2,927,520.00
+THERAGENICS CORPORATION                      0.000     883375107   TGX            378,000        1,786,661.54        1,534,680.00
+THERMO ELECTRON CORP.                        0.000     883556102   TMO            246,600        5,828,688.54        7,444,854.00
+THERMOGENESIS CORP                           0.000     883623209   KOOL            49,600          186,813.73          314,464.00
+THIRD WAVE TECHNOLOGIES INC                  0.000     88428W108   TWTI            61,800          289,444.23          531,480.00

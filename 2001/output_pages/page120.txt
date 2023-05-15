@@ -1,4 +1,4 @@
-ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 091
+ASOF02   Date 01/24/2002 Time 21:29:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 093
 
 Monthly Market Portfolio
 
@@ -9,42 +9,42 @@ Group - COMMON STOCK
 Portfolio  - TEC       TECHNOLOGY
 Instrument - COM       COMMON STOCK
 
-3COM CORP.                                 0.000 COMS    885535104      6.3800         8,700.00         71,564.58         55,506.00
-ACTEL CORPORATION                          0.000 ACTL    004934105     19.9100           700.00         17,309.50         13,937.00
-ACXIOM CORP.                               0.000 ACXM    005125109     17.4700         2,300.00         53,912.50         40,181.00
-ADAPTEC INC                                0.000 ADPT    00651F108     14.5000         2,500.00         23,723.74         36,250.00
-ADC COMMUNICATIONS INC                     0.000 ADCT    000886101      4.6000        20,400.00        350,517.45         93,840.00
-ADOBE SYSTEMS INC.                         0.161 ADBE    00724F101Q    31.0500         6,300.00        268,281.50        195,615.00
-ADTRAN INC.                                0.000 ADTN    00738A106     25.5200         1,000.00         29,618.64         25,520.00
-ADVANCED FIBRE COMMUNICATION               0.000 AFCI    00754A105     17.6700         2,200.00         47,185.25         38,874.00
-ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107     15.8600         9,000.00        119,138.92        142,740.00
-ADVENT SOFTWARE INC                        0.000 ADVS    007974108     49.9500           840.00         50,479.20         41,958.00
-AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100    106.1300         1,500.00        102,953.00        159,195.00
-AGILENT TECHNOLOGIES INC                   0.000 A       00846U101     28.5100        12,000.00        530,076.35        342,120.00
-ALLEN TELECOM INC.                         0.000 ALN     018091108      8.5000           800.00         12,518.00          6,800.00
-ALLIANCE SEMICONDUCTOR CORP                0.000 ALSC    01877H100     12.0800         1,100.00         16,337.25         13,288.00
-ALPHA INDUSTRIES INC                       0.000 AHAA    020753109     21.8000         1,100.00         32,417.44         23,980.00
-ALTERA CORP                                0.000 ALTR    021441100     21.2200         9,900.00        282,523.96        210,078.00
-AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     18.0800         1,100.00         22,920.50         19,888.00
-ANALOG DEVICES                             0.000 ADI     032654105     44.3900         9,300.00        414,035.22        412,827.00
-ANALOGIC CORP.                             0.727 ALOG    032657207     38.5100           300.00         12,731.00         11,553.00
-ANALYSTS INTERNATIONAL CORP                0.968 ANLY    032681108Q     4.1300           700.00          3,774.25          2,891.00
-ANDREW CORP.                               0.000 ANDW    034425108     21.8900         2,000.00         39,701.00         43,780.00
-ANIXTER INTERNATIONAL INC.                 0.000 AXE     035290105     29.0100         1,000.00         23,832.50         29,010.00
-APPLE COMPUTER INC.                        0.000 AAPL    037833100     21.9000         9,100.00        166,253.25        199,290.00
-APPLIED MATERIALS INC.                     0.000 AMAT    038222105     40.1000        21,200.00        841,053.09        850,120.00
-APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109     11.3200         7,000.00         93,732.57         79,240.00
-ARROW ELECTRONICS                          0.000 ARW     042735100     29.9000         2,500.00         69,264.00         74,750.00
-ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P108      4.0500         7,600.00         36,505.25         30,780.00
-ASPECT COMMUNICATIONS CORP                 0.000 ASPT    04523Q102      3.8800         1,400.00         11,035.25          5,432.00
-ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     16.8000           800.00         20,176.25         13,440.00
-ATMEL CORP                                 0.000 ATML    049513104      7.3700        12,100.00        154,554.72         89,177.00
-ATMI INC                                   0.000 ATMI    00207R101     23.8500           800.00         15,678.00         19,080.00
-AUDIOVOX CORP                              0.000 VOXX    050757103      7.4600           700.00          6,979.75          5,222.00
-AUSPEX SYSTEMS INC.                        0.000 ASPX    052116100      1.8000         1,100.00          6,170.88          1,980.00
-AUTODESK INC.                              0.643 ADSK    052769106Q    37.2700         1,400.00         48,210.70         52,178.00
-AVANT] CORPORATION                         0.000 AVNT    053487104     20.4900         1,000.00         20,084.51         20,490.00
-AVAYA INC                                  0.000 AV      053499109     12.1500         7,700.00        105,342.56         93,554.99
-AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     12.1500           700.00         11,370.75          8,505.00
-AVNET INC.                                 1.177 AVT     053807103Q    25.4700         3,122.00         71,393.25         79,517.34
-AVOCENT CORPORATION                        0.000 AVCT    053893103     24.2500         1,100.00         30,602.75         26,675.00
+CONEXANT SYSTEMS INC.                      0.000 CNXT    207142100     14.3600         6,500.00         99,561.00         93,340.00
+CORNING INC                                0.000 GLW     219350105Q     8.9200        24,200.00        897,252.00        215,864.01
+CREDENCE SYSTEMS CORP                      0.000 CMOS    225302108     18.5700         2,100.00         46,645.20         38,997.00
+CREE INC                                   0.000 CREE    225447101     29.4600         1,900.00         56,411.00         55,974.00
+CTS CORP.                                  0.754 CTS     126501105     15.9000           800.00         23,070.00         12,720.00
+CYMER INC                                  0.000 CYMI    232572107     26.7300           800.00         22,371.56         21,384.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     19.9300         3,300.00         73,097.89         65,769.00
+DAVOX CORP                                 0.000 DAVX    239208101      9.6700           300.00          3,468.50          2,901.00
+DELL COMPUTER CORP.                        0.000 DELL    247025109     27.1800        68,100.00      1,394,851.44      1,850,958.00
+DENDRITE INTERNATIONAL INC.                0.000 DRTE    248239105     14.0300         1,000.00         18,097.00         14,030.00
+DIEBOLD INC                                1.582 DBD     253651103     40.4400         1,900.00         60,469.25         76,836.00
+DIGI INTERNATIONAL INC                     0.000 DGII    253798102      6.3700           300.00          2,087.25          1,911.00
+DMC STRATEX NETWORKS, INC.                 0.000 STXN    23322L106      7.7800         1,900.00         23,245.32         14,782.00
+DSP GROUP INC.                             0.000 DSPG    23332B106     23.2600           800.00         16,306.00         18,608.00
+DUPONT PHOTOMASKS INC                      0.000 DPMI    26613X101     43.4500           500.00         25,379.00         21,725.00
+ELANTEC SEMICONDUCTOR INC                  0.000 ELNT    284155108     38.4000           700.00         16,808.25         26,880.00
+ELECTROGLAS INC.                           0.000 EGLS    285324109     14.7700           500.00          8,535.75          7,385.00
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     59.9500         3,500.00        154,956.00        209,825.00
+ELECTRONIC DATA SYSTEMS                    0.875 EDS     285661104Q    68.5500        12,600.00        732,572.03        863,730.00
+EMC CORP                                   0.000 EMC     268648102     13.4400        57,600.00      2,726,029.53        774,144.00
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      8.8500         5,100.00         47,962.29         45,134.99
+EPRESENCE INC.                             0.000 EPRE    294348107      4.1900           700.00          3,040.88          2,933.00
+ESS TECHNOLOGY                             0.000 ESST    269151106     21.2600         1,100.00          7,522.78         23,386.00
+EXAR CORP                                  0.000 EXAR    300645108     20.8500         1,000.00         20,397.00         20,850.00
+FAIR ISAAC & COMPANY INC.                  0.126 FIC     303250104     63.0200           600.00         26,079.61         37,811.99
+FEI COMPANY                                0.000 FEIC    30241L109     31.5100           800.00         23,010.00         25,208.00
+FILENET CORP                               0.000 FILE    316869106     20.2900           900.00         17,336.00         18,261.00
+GARTNER INC-CL B                           0.000 IT.B    366651206     11.2000         2,300.00         17,415.00         25,760.00
+GATEWAY INC.                               0.000 GTW     367626108      8.0400         8,600.00        133,404.00         69,144.00
+GERBER SCIENTIFIC                          3.440 GRB     373730100Q     9.3000           700.00          5,924.25          6,510.00
+HARMONIC INC.                              0.000 HLIT    413160102     12.0200         1,500.00         12,671.76         18,030.00
+HARRIS CORP.                               0.655 HRS     413875105Q    30.5100         1,700.00         55,361.00         51,867.00
+HELIX TECHNOLOGY                           1.419 HELX    423319102     22.5500           700.00         17,290.00         15,785.00
+HENRY (JACK) & ASSOCIATES                  0.549 JKHY    426281101     21.8400         2,300.00         64,284.00         50,232.00
+HEWLETT-PACKARD CO                         1.557 HWP     428236103Q    20.5400        50,900.00      1,381,802.94      1,045,485.99
+HNC SOFTWARE                               0.000 HNCS    40425P107     20.6000           900.00         21,537.50         18,540.00
+HUTCHINSON TECH.                           0.000 HTCH    448407106     23.2200           700.00         12,364.00         16,254.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     19.8600           900.00         16,743.50         17,874.00
+IMATION CORP                               0.000 IMN     45245A107     21.5800           900.00         16,408.50         19,422.00

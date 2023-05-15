@@ -1,33 +1,24 @@
-ASOF02   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 011
+ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 013
 
 Monthly Market Portfolio
 
-Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - RER       RE REIT
-Instrument - J         REGIONAL MALLS
+Portfolio  - REO       RE OTHER
+Instrument - I         INDUSTRIAL
 
-GENERAL GROWTH PROPERTIES                  6.701 GGP     370021107Q    38.8000       208,228.00      7,084,709.64      8,079,246.40
-SIMON PROPERTY GROUP INC.                  7.159 SPG     828806109Q    29.3300       598,670.00     14,227,547.29     17,558,991.13
+OPUS (OIRE) R/E FUND           VARIOUS                         7.162         ROPFND                 42,395,671.00     38,000,000.00
+PROLOGIS PORTFOLIO             MISC  US                        0.000         RPRLOG                 75,387,638.28     69,691,109.89
 
-Instrument Total             2                                                      806,898.00      21,312,256.93     25,638,237.53
+Instrument Total             2                                                                     117,783,309.28    107,691,109.89
 
-Instrument -K      STRIP CENTERS
+Instrument -R      RETAIL
 
-KIMCO REALTY CORP                          9.544 KIM     49446R109Q    32.6900       412,539.00      8,362,078.03     13,485,899.90
-REGENCY CENTERS CORP                       7.207 REG     758849103     27.7500       120,300.00      3,032,727.90      3,338,325.00
-WEINGARTEN REALTY INVST                    6.583 WRI     948741103     48.0000        92,889.00      3,824,248.68      4,458,671.96
+MIDLAND                                                        5.568         RMIDLN                        125.00            125.00
 
-Instrument Total             3                                                      625,728.00      15,219,054.61     21,282,896.86
+Instrument Total             1                                                                             125.00            125.00
 
-Instrument -N      LODGING/RESORTS
-
-FELCOR LODGING TRUST, INC.                13.165 FCH     31430F101     16.7100       125,000.00      2,042,677.50      2,088,750.00
-HOST MARRIOTT CORP                        11.555 HMT     44107P104      9.0000       569,100.00      4,719,287.39      5,121,900.00
-
-Instrument Total             2                                                      694,100.00       6,761,964.89      7,210,650.00
-
-Portfolio Total             24                                                   14,490,584.00     359,932,760.94    435,333,683.44
+Portfolio Total              3                                                                     117,783,434.28    107,691,234.89
 

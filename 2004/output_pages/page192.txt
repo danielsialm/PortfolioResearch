@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 160
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+DDI CORP                                   0.000 DDIC    233162304      3.1800        25,800.00        144,652.86         82,044.00
+DIMON INC.                                 4.464 DMN     254394109      6.7200        25,400.00        165,781.68        170,688.00
+DOMINION HOMES INC                         0.000 DHOM    257386102     25.2230         6,900.00        151,863.37        174,038.70
+DOVER MOTORSPORTS IN                       0.698 DVD     260174107      5.7300         2,900.00         12,983.33         16,617.00
+DRIL-QUIP INC                              0.000 DRQ     262037104     24.2600        10,400.00        167,594.77        252,304.00
+DRS TECHNOLOGIES INC                       0.000 DRS     23330X100     42.7100        24,800.00      1,004,278.48      1,059,208.00
+DUCOMMUN INC DEL                           0.000 DCO     264147109     20.8500         3,700.00         60,544.70         77,145.00
+DURA AUTOMOTIVE SYST                       0.000 DRRA    265903104     10.8300        21,500.00        203,679.38        232,845.00
+E.PIPHANY INC                              0.000 EPNY    26881V100      4.8300        50,000.00        227,070.33        241,500.00
+EFUNDS CORP                                0.000 EFD     28224R101     24.0100        49,500.00        625,499.37      1,188,495.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     18.9400         7,100.00         84,072.52        134,474.00
+EMS TECHNOLOGIES INC                       0.000 ELMG    26873N108     16.6200         7,593.00        142,214.69        126,195.66
+ENCORE ACQUISITION CO                      0.000 EAC     29255W100     34.9100         5,600.00        125,063.75        195,496.00
+ENERGEN CORP.                              1.306 EGN     29265N108     58.9500        20,000.00        584,615.52      1,179,000.00
+ENNIS BUSINESS FORMS                       3.220 EBF     293389102     19.2500        12,200.00        232,440.13        234,850.00
+ENPRO INDUSTRIES INC                       0.000 NPO     29355X107     29.5700        23,400.00        524,218.79        691,938.00
+ENTERASYS NETWORKS INC.                    0.000 ETS     293637104      1.8000       171,694.00        285,994.43        309,049.20
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      8.3500        36,700.00        286,440.40        306,445.00
+EXAR CORP                                  0.000 EXAR    300645108     14.1900        29,800.00        428,012.56        422,862.00
+EXPRESSJET HOLDINGS INC                    0.000 XJT     30218U108     12.8800        71,300.00        776,144.30        918,344.00
+FBL FINANCIAL GROUP INC.-CL A              1.401 FFG     30239F106     28.5500         3,200.00         91,353.28         91,360.00
+FIDELITY BANKSHARES                        0.748 FFFL    31604Q107     42.7600         5,000.00        166,301.36        213,800.00
+FIRST AMERICAN CORP.                       1.707 FAF     318522307     35.1400         8,000.00        273,200.00        281,120.00
+FIRST BANCORP PR                           0.755 FBP     318672102     63.5100        14,600.00        845,898.49        927,246.00
+FIRST CMNTY BANCORP                        2.060 FCBP    31983B101     42.7000         3,200.00        136,990.08        136,640.00
+FIRST COMWLTH FINL C                       4.288 FCF     319829107     15.3900        31,900.00        412,260.67        490,941.00
+FIRST FINANCIAL HOLDINGS INC               2.810 FFCH    320239106     32.7400         2,600.00         63,127.74         85,124.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     22.8900         6,200.00        151,229.78        141,918.00
+FIRST MERCHANTS CORP                       3.250 FRME    320817109     28.3000         3,900.00         94,749.33        110,370.00
+FIRST NIAGARA FINL G                       2.293 FNFG    33582V108     13.9500           600.00          8,061.78          8,370.00
+FIRST REPUBLIC BANK                        1.132 FRC     336158100     53.0000        15,100.00        332,955.00        800,300.00
+FLUSHING FINL CORP                         1.794 FFIC    343873105     20.0600        10,700.00        197,724.16        214,642.00
+FMC CORP.                                  0.000 FMC     302491303     48.3000         8,200.00        383,960.90        396,060.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     11.4100        59,200.00        679,063.00        675,472.00
+FSI INTL INC.                              0.000 FSII    302633102      4.6700        10,000.00         76,838.54         46,700.00
+G & K SERV. CL-A                           0.161 GKSRA   361268105Q    43.4200        12,100.00        513,129.54        525,382.00
+GARDNER DENVER MACHINERY                   0.000 GDI     365558105Q    36.2900        19,800.00        588,236.68        718,542.00
+GATEWAY INC.                               0.000 GTW     367626108      6.0100       183,800.00      1,028,189.76      1,104,638.00
+GENE LOGIC INC                             0.000 GLGC    368689105      3.6800         5,100.00         17,808.69         18,768.00

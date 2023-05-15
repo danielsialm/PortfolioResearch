@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:15   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 042
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+TUPPERWARE BRANDS CORP                    3.928 TUP     899896104     22.4000        68,300.00      1,191,387.48      1,529,920.00
+1ST SOURCE CORP                            2.067 SRCE    336901103     25.1500        12,400.00        287,468.36        311,860.00
+21ST CENTY INS GROUP                       0.988 TW      90130N103     16.1800        50,300.00        725,178.95        813,854.00
+3COM CORP.                                 0.000 COMS    885535104      3.6000       404,700.00      1,514,063.64      1,456,920.00
+4KIDS ENTERTAINMENT INC.                   0.000 KDE     350865101     15.6900        14,000.00        291,129.11        219,660.00
+AAI CORP                                   0.966 UIC     910671106     41.3700        10,400.00        252,813.84        430,248.00
+AAON INC                                   0.000 AAON    000360206     17.9200         9,300.00        150,941.49        166,656.00
+AAR CORPORATION                            0.417 AIR     000361105Q    23.9500        34,200.00        436,036.92        819,090.00
+AARON RENTS INC                            0.265 RNT     002535201     21.0800        41,100.00        373,640.06        866,388.00
+ABAXIS INC                                 0.000 ABAX    002567105     16.4800        20,900.00        288,849.31        344,432.00
+ABGENIX INC                                0.000 ABGX    00339B107     21.5100        58,800.00        699,048.46      1,264,788.00
+ABM INDUSTRIES INC.                        2.250 ABM     000957100     19.5500        41,800.00        678,218.51        817,190.00
+ABX AIR INC                                0.000 ABXA    00080S101      7.8300        61,500.00        499,669.05        481,545.00
+ACADIA PHARMACEUTICALS INC                 0.000 ACAD    004225108      9.8500        17,200.00        157,295.72        169,420.00
+ACCREDITED HOME LENDERS HOLDIN             0.000 LEND    00437P107     49.5800        26,950.00        886,143.71      1,336,181.00
+ACE CASH EXPRESS INC                       0.000 AACE    004403101     23.3500        27,700.00        542,547.13        646,795.00
+ACTEL CORPORATION                          0.000 ACTL    004934105     12.7300        26,500.00        659,067.73        337,345.00
+ACTUANT CORP CL A                          0.143 ATU     00508X203     55.8000        17,550.00        596,382.39        979,290.00
+ACUITY BRANDS INC                          1.886 AYI     00508Y102     31.8000        46,500.00        776,684.51      1,478,700.00
+ACXIOM CORP.                               0.869 ACXM    005125109     23.0000        69,500.00      1,350,202.91      1,598,500.00
+ADAMS RESPIRATORY THERAPEUTICS             0.000 ARXT    00635P107     40.6600         8,400.00        271,404.00        341,544.00
+ADAPTEC INC                                0.000 ADPT    00651F108      5.8200       117,700.00      1,488,827.26        685,014.00
+ADE CORP MASS                              0.000 ADEX    00089C107     24.0600        26,100.00        574,682.91        627,966.00
+ADEZA BIOMEDICAL CORP                      0.000 ADZA    006864102     21.0500         4,400.00         57,779.79         92,620.00
+ADMINISTAFF INC                            0.665 ASF     007094105     42.0500        28,300.00        501,410.93      1,190,015.00
+ADOLOR CORP                                0.000 ADLR    00724X102     14.6000        41,296.00        434,982.03        602,921.60
+ADTRAN INC.                                1.210 ADTN    00738A106     29.7400        69,600.00      1,766,928.24      2,069,904.00
+ADVANCE AMERICA CASH ADVANCE C             3.548 AEA     00739W107     12.4000        91,300.00      1,368,311.01      1,132,120.00
+ADVANCED ANALOGIC TECHNOLOGIES             0.000 AATI    00752J108     13.8500         9,800.00        109,858.00        135,730.00
+ADVANCED DIGITAL INFO CORP                 0.000 ADIC    007525108      9.7900       102,800.00      1,022,237.70      1,006,412.00
+ADVANCED ENERGY INDUSTRIES                 0.000 AEIS    007973100     11.8300        29,300.00        271,001.07        346,619.00
+ADVANTA CORP                               1.676 ADVNB   007942204     32.4400        30,758.00        431,931.71        997,789.52
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     28.9100        29,800.00        506,337.38        861,518.00
+ADVISORY BOARD CO/THE                      0.000 ABCO    00762W107     47.6700        20,200.00        886,409.04        962,934.00
+ADVO INC.                                  1.561 AD      007585102     28.1800        18,650.00        527,495.58        525,557.00
+AEROFLEX INC                               0.000 ARXX    007768104     10.7500        78,639.00      1,059,868.72        845,369.25
+AEROPOSTALE INC                            0.000 ARO     007865108     26.3000        74,150.00      1,617,914.24      1,950,145.00
+AFFIRMATIVE INSURANCE HOLDINGS             0.548 AFFM    008272106     14.5900        30,400.00        443,873.65        443,536.00
+AFTERMARKET TECHNOLOGY                     0.000 ATAC    008318107     19.4400        22,400.00        367,409.98        435,456.00

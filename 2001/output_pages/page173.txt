@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 018
+ASOF10   Date 01/24/2002 Time 21:29:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 020
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-ENTERGY CORP.                                3.375     29364G103 Q ETR            516,779       14,813,962.99       20,211,226.69
-ENZO BIOCHEM INC.                            0.000     294100102   ENZ             58,400        1,080,567.79        1,372,400.00
-ENZON INC                                    0.000     293904108   ENZN             7,400          394,641.68          416,472.00
-EOG RESOURCES INC                            0.409     26875P101   EOG            167,084        7,052,112.80        6,534,655.23
-EPICOR SOFTWARE CORPORATION                  0.000     29426L108   EPIC            49,900           97,652.85           74,351.00
-EPRESENCE INC.                               0.000     294348107   EPRE            73,100          501,627.13          306,289.00
-EQUIFAX INC                                  0.331     294429105   EFX            133,454        2,499,436.90        3,222,914.10
-EQUITABLE RESOURCES INC                      1.878     294549100   EQT            137,900        4,790,595.17        4,698,253.00
-ESCO TECHNOLOGIES INC                        0.000     296315104   ESE             27,600          618,558.08          951,924.00
-ESS TECHNOLOGY                               0.000     269151106   ESST            87,800        1,101,005.13        1,866,628.00
-ESTERLINE TECHNOLOGIES CORP                  0.000     297425100   ESL             37,700          786,119.09          603,577.00
-ETHAN ALLEN INTERIORS INC.                   0.384     297602104   ETH             37,900          920,904.78        1,576,261.00
-EVEREST RE GROUP LTD.                        0.396     G3223R108   RE             108,650        4,258,653.45        7,681,555.00
-EVERGREEN RESOURCES INC                      0.000     299900308   EVG             18,200          659,587.11          702,702.00
-EXAR CORP                                    0.000     300645108   EXAR            39,300          811,675.00          819,405.00
-EXELEON CORP                                 3.529     30161N101 Q EXC            688,978       24,222,285.09       32,988,266.64
-EXPEDITORS INT’L. WASH INC.                  0.351     302130109   EXPD           100,700        2,927,595.74        5,734,865.00
-EXPRESS SCRIPTS                              0.000     302182100   ESRX           169,600        4,832,120.18        7,930,496.00
-EXTENDED STAY AMERICA INC                    0.000     30224P101   ESA            187,800        3,174,360.40        3,079,920.00
-EXXON MOBIL CORPORATION                      2.341     30231G102 Q XOM         13,516,576      335,642,645.19      531,201,436.80
-F.Y.I. INCORPORATED                          0.000     302712104   FYII            14,500          452,244.04          485,750.00
-F5 NETWORKS INC                              0.000     315616102   FFIV            22,600          499,080.53          486,804.00
-FACTORY 2-U STORES INC                       0.000     303072102   FTUS            12,300          491,671.02          246,492.00
-FACTSET RESEARCH SYSTEMS INC.                0.457     303075105   FDS             32,500          787,748.17        1,135,875.00
-FAIR ISAAC & COMPANY INC.                    0.126     303250104   FIC             32,250        1,048,965.23        2,032,394.99
-FAIRCHILD SEMICONDUTOR CORP                  0.000     303726103   FCS            261,400        6,603,849.79        7,371,480.00
-FAMILY DOLLAR STORES                         0.800     307000109 Q FDO            350,300        7,739,661.74       10,501,994.00
-FASTENAL CO                                  0.135     311900104   FAST            74,900        4,317,003.20        4,975,607.00
-FED. NATL. MTG. ASSN.                        1.509     313586109 Q FNM          2,106,027       96,526,544.77      167,429,146.51
-FEDERAL SIGNAL CORP                          3.502     313855108   FSS             91,000        1,694,723.99        2,026,569.99
-FEDERATED DEPARTMENT STORES                  0.000     31410H101   FD             496,769       17,648,782.57       20,317,852.12
-FEDEX CORPORATION                            0.000     31428X106   FDX            488,944       17,457,611.34       25,366,414.72
-FEI COMPANY                                  0.000     30241L109   FEIC            63,900        2,408,384.72        2,013,489.00
-FERRO CORP                                   2.248     315405100 Q FOE             95,950        2,056,109.62        2,475,510.00
-FIDELITY NATIONAL FINL INC                   1.612     316326107   FNF            172,700        3,845,467.75        4,282,960.00
-FIFTH THIRD BANCORP                          1.304     316773100 Q FITB         1,274,929       57,056,769.21       78,191,395.57
-FILENET CORP                                 0.000     316869106   FILE            56,700        1,129,589.25        1,150,443.00
-FINANCIAL FEDERAL CORP.                      0.000     317492106   FIF             81,300        2,044,569.11        2,540,625.00
-FINISAR CORPORATION                          0.000     31787A101   FNSR            45,350          567,823.30          461,209.50
-FINOVA GROUP INC.                            0.000     317928109   FNV            104,500          378,614.74           63,745.00
+FREEPORT MCMORAN CLASS B                     0.000     35671D857   FCX            462,386        6,577,136.20        6,191,348.53
+FREMONT GENERAL CORP.                        1.023     357288109   FMT             68,600          324,092.81          536,452.00
+FRONTIER AIRLINES INC                        0.000     359065109   FRNT            96,650        1,645,093.33        1,643,050.01
+FULLER H B CO                                1.494     359694106 Q FULL            50,200        1,007,201.95        1,444,254.00
+FURNITURE BRANDS INTERNATIONAL INC.          0.000     360921100   FBN            146,794        2,725,156.43        4,700,343.88
+G & K SERV. CL-A                             0.216     361268105 Q GKSRA           20,200          778,600.64          652,460.00
+GADZOOKS INC                                 0.000     362553109   GADZ            15,800          322,447.98          217,092.00
+GALLAGHER (ARTHUR) J & CO.                   1.507     363576109 Q AJG            157,700        2,783,339.11        5,439,073.00
+GANNETT INC                                  1.368     364730101 Q GCI            550,702       28,523,182.96       37,023,695.46
+GAP INC                                      0.645     364760108 Q GPS          1,812,701       42,468,570.06       25,269,051.95
+GARDNER DENVER MACHINERY                     0.000     365558105 Q GDI             14,800          190,916.12          330,336.00
+GARTNER INC-CL A                             0.000     366651107   IT             117,400        1,168,614.07        1,372,406.00
+GARTNER INC-CL B                             0.000     366651206   IT.B           180,704        2,039,428.60        2,023,884.80
+GATEWAY INC.                                 0.000     367626108   GTW            675,392       26,254,896.72        5,430,151.68
+GATX CORP                                    3.813     361448103   GMT            161,200        6,514,234.42        5,242,224.00
+GBC BANCORP/CALIFORNIA                       1.627     361475106   GBCB            13,700          439,760.79          404,150.00
+GENAISSANCE PHARMACEUTICALS                  0.000     36867W105   GNSC            25,000          113,416.67          116,250.00
+GENCORP INC                                  0.850     368682100 Q GY              76,400          866,524.81        1,078,004.00
+GENENCOR INTERNATIONAL INC                   0.000     368709101   GCOR            61,000          694,914.40          973,560.00
+GENERAL COMMUNICATION                        0.000     369385109   GNCMA           45,200          310,749.75          385,556.00
+GENERAL DYNAMICS CORP.                       1.406     369550108 Q GD             359,012       18,984,761.06       28,591,715.69
+GENERAL ELECTRIC CO                          1.596     369604103 Q GE          19,807,474      450,687,560.06      793,883,557.94
+GENERAL MILLS INC                            2.115     370334104 Q GIS            872,961       35,490,677.23       45,402,701.60
+GENERAL MOTORS CORP                          4.115     370442105 Q GM           1,102,152       60,034,037.69       53,564,587.21
+GENESCO INC.                                 0.000     371532102   GCO            117,278        2,528,010.40        2,434,691.28
+GENESIS MICROCHIP INC.                       0.000     371933102   GNSS            27,680        1,039,021.08        1,830,201.60
+GENTA INC                                    0.000     37245M207   GNTA            16,400          256,939.78          233,372.00
+GENTEX CORP.                                 0.000     371901109   GNTX           148,100        3,713,347.16        3,958,713.00
+GENUINE PARTS CO                             3.106     372460105 Q GPC            348,464       11,028,248.52       12,788,628.80
+GENUITY INC                                  0.000     37248E103   GENU           726,500        2,339,201.95        1,147,870.00
+GENZYME CORP. GEN. DIV.                      0.000     372917104   GENZ           424,900       13,408,883.63       25,434,514.02
+GEORGIA GULF CORP                            1.729     373200203   GGC             31,300          596,412.35          579,050.00
+GEORGIA PACIFIC                              1.810     373298108 Q GP             318,225       10,475,427.96        8,786,192.25
+GERBER SCIENTIFIC                            3.440     373730100 Q GRB             28,500          412,085.56          265,050.00
+GETTY IMAGES INC.                            0.000     374276103   GETY            34,100          572,699.98          783,618.00
+GILEAD SCIENCES INC.                         0.000     375558103   GILD           200,600        7,350,584.86       13,183,431.99
+GILLETTE CO                                  1.946     375766102 Q G            2,172,348       77,037,182.62       72,556,423.20
+GLATFELTER                                   4.492     377316104   GLT             65,300          906,587.93        1,017,374.00
+GLOBAL PAYMENTS INC-W/I                      0.465     37940X102   GPN             35,600          722,086.61        1,224,640.00
+GLOBAL POWER EQUIPMENT GROUP                 0.000     37941P108   GEG             25,700          641,240.05          387,042.01

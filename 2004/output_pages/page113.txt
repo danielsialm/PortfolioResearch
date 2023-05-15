@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 081
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+RADISYS CORPORATION                        0.000 RSYS    750459109     19.5500        20,800.00        444,027.74        406,640.00
+RAILAMERICA INC                            0.000 RRA     750753105     13.0500        40,800.00        410,024.00        532,440.00
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    41.9300        26,300.00        738,464.38      1,102,759.00
+RANGE RES CORP                             0.391 RRC     75281A109     20.4600        62,250.00        483,048.91      1,273,635.00
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     31.8600        37,800.00        742,255.18      1,204,308.00
+RAVEN INDUSTRIES INC                       1.032 RAVN    754212108     21.3100        17,200.00        244,838.77        366,532.00
+RAYOVAC CORP                               0.000 ROV     755081106     30.5600        38,300.00        669,450.26      1,170,448.00
+RC2 CORP                                   0.000 RCRC    749388104     32.6000        24,500.00        587,661.69        798,700.00
+READERS DIGEST ASSOCIATION                 1.437 RDA     755267101     13.9100       110,000.00      1,774,808.90      1,530,100.00
+READING INTERNATIONAL INC                  0.000 RDI     755408101      8.3600        16,000.00        108,729.47        133,760.00
+REALNETWORKS INC                           0.000 RNWK    75605L104      6.6200       125,000.00        807,912.38        827,500.00
+RED ROBIN GOURMET BURGERS                  0.000 RRGB    75689M101     53.4700        13,300.00        373,318.84        711,151.00
+REDBACK NETWORKS                           0.000 RBAK    757209507      5.3600        34,675.00        177,967.95        185,858.00
+REGAL BELOIT                               1.678 RBC     758750103     28.6000        35,600.00        838,335.65      1,018,160.00
+REGENERATION TECHNOLOGIES INC              0.000 RTIX    75886N100     10.4800        25,800.00        224,469.25        270,384.00
+REGENERON PHARMACEUTICAL                   0.000 REGN    75886F107      9.2100        17,200.00        194,559.19        158,412.00
+REGENT COMMUNICATIONS INC                  0.000 RGCI    758865109      5.3000        38,700.00        232,961.02        205,110.00
+REHABCARE GROUP INC                        0.000 RHB     759148109     27.9900        26,600.00        654,751.94        744,534.00
+RELIANCE STEEL & ALUMINUM                  0.718 RS      759509102     38.9600        31,300.00        751,813.82      1,219,448.00
+REMEC IN                                   0.000 REMC    759543101      7.2100        20,728.00        153,412.80        149,448.88
+REMINGTON OIL & GAS CORP                   0.000 REM     759594302     27.2500        32,100.00        596,860.81        874,725.00
+RENAISSANCE LEARNING INC                   0.862 RLRN    75968L105     18.5600         8,500.00        191,542.05        157,760.00
+RENOVIS INC                                0.000 RNVS    759885106     14.3800         6,600.00         51,218.64         94,908.00
+RENT-WAY INC                               0.000 RWY     76009U104      8.0100        29,150.00        156,475.61        233,491.50
+REPUBLIC AIRWAYS HOLDINGS INC              0.000 RJET    760276105     13.2700        27,700.00        264,411.23        367,579.00
+REPUBLIC BANCORP INC                       2.879 RBNC    760282103     15.2800        78,188.00        868,305.33      1,194,712.64
+REPUBLIC BANCORP KY                        1.198 RBCAA   760281204     25.7000        17,764.00        327,179.25        456,534.80
+RES-CARE INC                               0.000 RSCR    760943100     15.2200        36,000.00        458,902.35        547,920.00
+RESOURCE AMERICA INC                       0.615 REXI    761195205     32.5000        25,508.00        402,121.99        829,010.00
+RESOURCES CONNECTION INC                   0.000 RECN    76122Q105     54.3100        20,100.00        686,869.49      1,091,631.00
+RESTORATION HARDWARE INC                   0.000 RSTO    760981100      5.7400        29,200.00        145,799.88        167,608.00
+RETAIL VENTURES INC                        0.000 RVI     76128Y102      7.1000        43,000.00        331,256.56        305,300.00
+RETEK INC                                  0.000 RETK    76128Q109      6.1500        14,600.00         62,926.14         89,790.00
+REVLON INC - CL A                          0.000 REV     761525500      2.3000        75,600.00        209,204.37        173,880.00
+RF MICRO-DEVICES                           0.000 RFMD    749941100      6.8400       169,400.00      1,138,863.52      1,158,696.00
+RIGEL PHARMACEUTICALS INC                  0.000 RIGL    766559603     24.4200         2,800.00         58,676.94         68,376.00
+RIGGS NATL CORP WASH DC                    0.940 RIGS    766570105     21.2600        28,300.00        617,540.32        601,658.00
+RIGHTNOW TECHNOLOGIES INC                  0.000 RNOW    76657R106     16.1500         7,000.00         87,820.60        113,050.00
+RLI CORP                                   1.347 RLI     749607107     41.5700        30,200.00        884,759.02      1,255,414.00

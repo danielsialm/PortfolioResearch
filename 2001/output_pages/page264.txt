@@ -1,4 +1,4 @@
-ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 043
+ASOF11   Date 01/24/2002 Time 21:30:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 045
 
 Monthly Market Portfolio
 
@@ -9,42 +9,26 @@ Group - INTERNATIONAL
 Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
 Instrument - ICOM      INTERNATIONAL COMMON STOCKS
 
-ERSTE BANK DER OESTER SPARK                  1.831     5289837      DESC_        42,400.00        2,273,847.93
-FLUGHAFEN WIEN AG                            6.171     4359690      FLUG_        19,601.00          757,238.63
-FORTIS                                       0.937     7266139      FORB_       298,487.00        8,566,101.60
-GKN ORSH 0.5GBP                             11.520     3064650      GKN_L        42,431.00          453,733.72
-GLAXOSMITHKLINE                              3.111     0925288      GSK_L       230,279.00        5,296,791.48
-GPE BRUX LAMBERT                             1.343     7097328      GBL_B        52,956.00        2,446,772.54
-GROUP DANONE ORD                             1.222     5981810      BN_FP         5,831.00          747,235.07
-HANG SENG BANK HK                            0.732     6408374      11_HK        33,800.00          421,926.71
-HITACHI Y50                                  0.000     6429104      6501_       380,000.00        3,640,545.01
-HONDA MOTOR CO COM                           0.003     6435145      7267_        92,600.00        3,134,644.60
-HONG KONG ELECTRIC HKD1                      0.001     6435327      6_HK        122,000.00          390,526.60
-HSBC HOLDINGS ORD                            8.635     0540528      HSBA_       330,611.00        3,298,820.82
-HUTCHISON WHAMPOA                            0.294     6448068      13_HK        68,000.00          655,574.26
-INDEPENDENT NEWS & MEDIA                     4.935     0461481      INWS_       266,112.00        1,021,733.98
-ING GROEP NV NLG1                            2.714     7154182      INGA_        35,265.00        1,164,320.52
-INTERBREW                                    0.458     4755317      INTB_        78,059.00        2,601,360.43
-IRISH LIFE & PERMANENT                       4.537     0467865      IPM_I       133,281.00        1,261,382.00
-ISS INTERNATIONAL                            0.000     5952816      ISS_D         8,100.00          458,963.13
-KBC BANKVERZEKERIN                           2.502     4497749      KBC_B       124,533.00        6,118,670.93
-KEPPEL CORP ORD SG                           1.337     6490263      KEP_S       268,100.00          592,651.92
-KERRY GROUP PLC-A                            0.831     0490656      KYG_I        74,102.00          932,857.58
-L’’OREAL FRF10                               0.479     4057808      OR_FP         9,268.00          447,798.63
-LLOYDS TSB GROUP O                           6.237     0870612      LLOY_       179,923.00        1,950,096.13
-MATSUSHITA ELC IND                           0.000     6572707      6752_       233,000.00        4,870,895.67
-MAYR-MELNHOF KARTO                           2.736     4563640      MAYR_        15,900.00          761,315.45
-MITSUBISHI TOKYO F JPY50000                  0.000     6335171      8306_           434.00        6,402,421.75
-MIZUHO HLDGS JPY50000                        0.000     6286280      8305_           536.00        5,364,704.60
-MUNCHENER RUCKVS                             0.361     5294121      MUV2_         3,100.00          650,776.30
-NESTLE SA CHF                                0.926     7123870      NESN_        10,718.00        1,887,967.69
-NIPPON TEL+TEL CP                            0.000     6641373      9432_           267.00        2,530,596.42
-NOKIA(AB)OY EUR0.2                           0.751     5902941      NOK1V     1,183,976.00       16,472,410.26
-NOMURA HOLDINGS, INC.                        0.006     6643108      8604_       221,000.00        4,149,560.04
-NORSK HYDRO AS NOK                           0.000     4645805      NHY_N        63,980.00        2,710,407.14
-NORSKE SKOGINDUSTRIER ASA                    0.394     7070396      NSG_N        26,435.00          400,663.30
-NOVARTIS AG CHF 20                           0.037     7103065      NOVN_        76,799.00        2,812,071.77
-NOVO NORDISK A/S-B                           0.092     7077524      NOVO_       118,285.00        2,833,243.79
-NOVOZYMES A/S-B                              0.116     4658535      NZYMB        15,000.00          175,584.54
-NTT DOCOMO INC                               0.000     6129277      9437_           389.00        7,521,209.48
-OEST ELEKTRIZITATS                           1.217     4661607      OEEW_        35,600.00        4,788,089.02
+TOYOTA MOTOR CORP                            0.006     6900643      7203_       287,700.00        8,454,596.09
+UBS AG-REG                                   0.028     7126114      UBSN_        47,773.00        2,224,757.63
+UCB ORD BEF                                  0.930     5596991      UCB_B        60,388.00        2,311,054.53
+UNICREDITO ITALIAN                           1.354     4232445      UC_IM       122,000.00          543,558.29
+UNILEVER NV CERT.                            1.941     5640898      UN_NA        10,966.00          640,093.17
+UNITED OVERSEAS BA                           0.920     6916781      UOB_S       419,726.00        2,759,690.36
+UPM-KYMMENE CORP F                           1.668     5051252      UPM1V        66,980.00        1,812,224.32
+VA TECHNOLOGIE AG                            4.285     4921635      VATC_        18,900.00        1,068,056.72
+VESTAS WIND SYSTEMS A/S                      0.052     5964651      VWS_D        20,000.00          619,920.48
+VIVENDI UNIVERSAL EUR                        1.433     4834777      EX_FP        11,615.00          481,942.91
+VODAFONE GROUP                               7.446     0719210      VOD_L     2,350,520.00        7,997,857.34
+WIENERBERGER BAUST                           4.478     5699373      WBST_       137,300.00        2,946,133.26
+ZURICH FINANCIAL SERVICES CHF10              2.624     5983816      ZURN_         3,287.00        1,579,272.57
+
+Instrument Total             130                                             21,318,802.00      278,906,658.98
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+PANAGORA - LQR                               0.000     IL-PAN                    29,328.70        2,932,870.25
+
+Instrument Total               1                                                 29,328.70        2,932,870.25
+
+Portfolio Total              131                                             21,348,130.70      281,839,529.23        259,998,137.14

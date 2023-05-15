@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 142
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+GOOGLE INC - CL A                          0.000 GOOG    38259P508    414.8600           400.00        108,992.94        165,944.00
+GRAINGER W W INC                           1.350 GWW     384802104Q    71.1000         1,100.00         64,280.94         78,210.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     44.1200         3,900.00        149,619.75        172,068.00
+GREAT PLAINS ENERGY INC                    5.937 GXP     391164100     27.9600        12,700.00        382,403.20        355,092.00
+GTECH HOLDINGS CORP                        1.071 GTK     400518106     31.7400        22,600.00        692,210.10        717,324.00
+GUIDANT CORP.                              0.617 GDT     401698105Q    64.7500        16,700.00      1,006,726.69      1,081,325.00
+H & R BLOCK INC.                           2.036 HRB     093671105Q    24.5500         2,700.00         63,984.87         66,285.00
+HALLIBURTON COMPANY                        0.807 HAL     406216101Q    61.9600         8,700.00        190,126.91        539,052.00
+HARRAH'S ENTERTAINMENT INC.                2.033 HET     413619107     71.2900        16,667.00      1,043,523.15      1,188,190.43
+HARTE-HANKS INC.                           0.757 HHS     416196103     26.3900         6,800.00        159,693.82        179,452.00
+HARTFORD FINL SERVICES                     1.397 HIG     416515104     85.8900         7,700.00        507,000.37        661,353.00
+HCA INC                                    1.188 HCA     404119109     50.5000        29,500.00      1,496,216.39      1,489,750.00
+HCC INSURANCE HOLDINGS INC.                1.010 HCC     404132102     29.6800        20,800.00        562,415.94        617,344.00
+HEALTH MGMT ASSOCIATES CL A                1.092 HMA     421933102     21.9600        29,400.00        723,613.98        645,624.00
+HEALTH NET                                 0.000 HNT     42222G108     51.5500        14,400.00        582,345.72        742,320.00
+HEINZ H. J. CO.                            3.558 HNZ     423074103Q    33.7200         1,400.00         53,159.62         47,208.00
+HELMERICH & PAYNE, INC                     0.533 HP      423452101Q    61.9100         3,700.00        202,285.50        229,067.00
+HENRY SCHEIN INC                           0.000 HSIC    806407102     43.6400         7,100.00        288,280.86        309,844.00
+HERSHEY FOODS CORP.                        1.773 HSY     427866108Q    55.2500        24,100.00        988,303.92      1,331,525.00
+HEWLETT-PACKARD CO                         1.117 HPQ     428236103Q    28.6300        48,400.00      1,220,938.92      1,385,692.00
+HILLENBRAND IND.                           2.287 HB      431573104Q    49.4100         5,900.00        288,473.98        291,519.00
+HILTON HOTELS CORP.                        0.663 HLT     432848109Q    24.1100         5,300.00        106,716.78        127,783.00
+HNI CORP                                   1.128 HNI     404251100     54.9300         4,800.00        256,813.03        263,664.00
+HONEYWELL INTERNATIONAL INC                2.214 HON     438516106Q    37.2500         2,200.00         76,732.46         81,950.00
+HORMEL FOODS CORP                          1.713 HRL     440452100     32.6800        13,200.00        413,943.96        431,376.00
+HOSPIRA INC                                0.000 HSP     441060100     42.7800         9,590.00        337,847.23        410,260.20
+HOVNANIAN ENTERPRISES-A                    0.000 HOV     442487203     49.6400         4,200.00        247,732.42        208,488.00
+HUBBELL INC                                2.925 HUB.B   443510201Q    45.1200           500.00         21,101.07         22,560.00
+HUMANA INC.                                0.000 HUM     444859102     54.3300         7,500.00        263,830.63        407,475.00
+IAC/INTERACTIVE CORP                       0.000 IACI    44919P300     28.3100        11,600.00        315,554.22        328,396.00
+IDEXX LABS INC.                            0.000 IDXX    45168D104     71.9800         6,100.00        391,668.19        439,078.00
+IMCLONE SYSTEMS                            0.000 IMCL    45245W109     34.2400         2,400.00         77,358.00         82,176.00
+IMS HEALTH INC.                            0.321 RX      449934108     24.9200         5,800.00        141,337.97        144,536.00
+INAMED CORP                                0.000 IMDC    453235103     87.6800           500.00         30,197.38         43,840.00
+INDYMAC BANCORP INC                        4.305 NDE     456607100     39.0200         7,200.00        277,496.92        280,944.00
+INTEL CORP.                                1.282 INTC    458140100Q    24.9600        98,200.00      2,578,235.08      2,451,072.00
+INTERNATIONAL BANCSH                       2.179 IBOC    459044103     29.3600         4,300.00        129,927.14        126,248.00
+INTERNATL FLAVORS & FRAGRANCES             2.209 IFF     459506101Q    33.5000         4,300.00        144,301.54        144,050.00
+INTERPUBLIC GROUP                          3.937 IPG     460690100Q     9.6500        16,900.00        193,847.85        163,085.00

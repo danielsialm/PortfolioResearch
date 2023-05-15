@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:34   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 024
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+HEINEKEN NV NLG5                             1.435     7108048      HEIA_        11,425.00          433,892.32
+HENDERSON LAND DEVELOPMENT                   0.438     6420538      12_HK        26,000.00           85,474.44
+HITACHI Y50                                  0.000     6429104      6501_       177,000.00        1,296,054.36
+HOLDERBK FN GLARUS                           0.545     7110764      HOL_V         2,902.00          602,825.77
+HONDA MOTOR CO COM                           0.000     6435145      7267_        32,020.00        1,215,383.43
+HONG KONG ELECTRIC HKD1                      0.000     6435327      6_HK         71,000.00          279,354.48
+HONGKONG+CHINA GAS                           0.419     6436557      3_HK        176,000.00          235,257.32
+HSBC HOLDINGS ORD                           78.738     0540528      HSBA_       528,295.00        5,480,426.64
+HUTCHISON WHAMPOA                            0.058     6448068      13_HK        84,000.00          567,626.08
+IBERDROLA SA                                 4.206     4424640      IBE_S        54,400.00          731,291.05
+IMPERIAL TOBACCO GROUP                       5.340     0454492      IMT_L        57,543.00          909,117.19
+INDITEX                                      0.419     7111314      ITX_S        24,000.00          481,774.84
+ING GROEP NV NLG1                            8.503     7154182      INGA_        92,810.00        1,821,767.44
+INSTRUMENTARIUM OY                           1.649     4434166      INS1V         4,900.00          138,967.39
+INSURANCE AUSTRALIA GROUP                    2.260     6271026      IAG_A       320,613.00          559,883.30
+INTERBREW                                    1.185     4755317      INTB_        58,900.00        1,444,421.44
+INTESABCI SPA                                3.655     4076836      BIN_I        74,500.00          251,835.02
+INVENSYS ORD 25P                           106.220     0807041      ISYS_       260,689.00          250,765.78
+ISHARES MSCI EAFE INDEX FUND                 1.898     2801290      EFA          20,000.00        1,980,646.10
+ITO-YOKADO CO JPY5                           0.000     6467944      8264_        19,000.00          957,999.70
+ITOCHU CORP Y50                              0.000     6467803      8001_        93,000.00          351,270.21
+JAPAN DIGITAL CONTENTS                       0.000     6470986      4185_        31,400.00          180,849.27
+JOHNSON ELECTRIC HLDINGS                     0.165     6281939      179_H        72,000.00           74,106.35
+JUSCO CO JPY50                               0.000     6480048      8267_        13,700.00          286,715.26
+KANSAI ELEC POWER                            0.023     6483489      9503_        85,100.00        1,240,742.58
+KAO CORP Y50                                 0.000     6483809      4452_        27,768.00          685,765.72
+KBC BANKVERZEKERIN                           4.427     4497749      KBC_B        31,200.00          947,282.32
+KEYENCE CORPORATION                          0.000     6490995      6861_         2,500.00          351,918.49
+KINGFISHER PLC                              20.624     3073850      KGF_L       196,129.00          862,278.37
+KOMATSU Y50                                  0.013     6496584      6301_        57,200.00          371,987.21
+KONINKLIJKE AHOLD NV                         7.674     5252602      AHLN_        37,474.00          549,354.72
+KONINKLIJKE KRN                             11.409     5956078      KPN_N        91,838.00          609,709.51
+KONINKLIJKE NUMICO                           7.677     5402601      NUTV_        15,529.00          205,554.90
+KVAERNER ASA NWKR1                           0.000     4502029      KVI_N       169,100.00          131,539.52
+KYOCERA CORP JPY50                           0.000     6499260      6971_         8,200.00          628,947.59
+KYUSHU ELECTRIC POWER                        0.000     6499806      9508_        74,000.00        1,206,562.37
+L''OREAL FRF10                               1.147     4057808      OR_FP        20,999.00        1,493,321.39
+LAFARGE FF25(REGD)                           3.883     4502706      LG_FP         9,593.00          815,515.64
+LAND SECURITIES GP                           6.972     3180943      LAND_        39,714.50          574,633.72

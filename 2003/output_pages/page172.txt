@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 142
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+POPULAR INC                                2.403 BPOP    733174106     44.9400         7,900.00        312,057.90        355,026.00
+PPG INDUSTRIES INC.                        2.749 PPG     693506107Q    64.0200         6,800.00        337,411.12        435,336.01
+PPL CORPORATION                            3.520 PPL     69351T106Q    43.7500         7,500.00        273,130.08        328,125.00
+PRAXAIR INC.                               1.413 PX      74005P104Q    38.2000        10,600.00        272,770.65        404,920.00
+PRECISION CASTPARTS CORP                   0.264 PCP     740189105     45.4100         8,200.00        287,928.18        372,362.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-INT  IT-INT         1.0000     1,276,804.65      1,276,804.71      1,276,804.62
+PRINCIPAL FINANCIAL GROUP                  1.360 PFG     74251V102     33.0700        10,300.00        287,749.10        340,621.01
+PROCTER & GAMBLE CO                        1.822 PG      742718109Q    99.8800        12,300.00        783,565.61      1,228,524.00
+PROGRESSIVE CORP                           0.119 PGR     743315103     83.5900        11,400.00        554,778.62        952,926.00
+PROTEIN DESIGN LABS INC                    0.000 PDLI    74369L103     17.9000         4,700.00         55,261.66         84,130.00
+PROVIDIAN FINANCIAL CORP                   1.030 PVN     74406A102     11.6400        11,500.00        139,939.16        133,860.00
+PRUDENTIAL FINANCIAL INC                   1.197 PRU     744320102     41.7700         6,000.00        185,791.74        250,620.00
+PUBLIC SVC ENTERPRISES                     4.931 PEG     744573106Q    43.8000         1,900.00         70,681.10         83,220.00
+PUGET ENERGY INC                           4.207 PSD     745310102Q    23.7700        10,200.00        239,292.00        242,454.00
+PULTE HOMES, INC.                          0.213 PHM     745867101Q    93.6200         3,200.00        162,790.24        299,584.00
+QLOGIC CORPORATION                         0.000 QLGC    747277101     51.6000         4,700.00        165,785.64        242,519.99
+QUALCOMM INC                               0.519 QCOM    747525103     53.9300         8,600.00        456,911.45        463,798.00
+QUESTAR CORP                               2.332 STR     748356102Q    35.1500        14,200.00        459,769.19        499,130.00
+RADIAN GROUP INC.                          0.164 RDN     750236101     48.7500         2,200.00         96,857.80        107,250.00
+RADIOSHACK CORP                            0.814 RSH     750438103Q    30.6800         2,300.00         71,428.72         70,564.00
+RAMBUS INC DEL                             0.000 RMBS    750917106     30.7000         5,400.00         96,856.70        165,780.00
+RAYMOND JAMES FINANCIAL INC                0.954 RJF     754730109     37.7000         2,800.00         97,790.00        105,560.00
+RAYONIER INC.                              2.601 RYN     754907103Q    41.5100         3,086.00        107,597.02        128,099.86
+RAYTHEON COMPANY                           2.663 RTN     755111507Q    30.0400         1,200.00         41,484.59         36,048.00
+RED HAT INC                                0.000 RHAT    756577102     18.7700         4,500.00         53,984.70         84,465.00
+REEBOK INTERNATIONAL LTD.                  0.763 RBK     758110100Q    39.3200         5,800.00        158,792.01        228,056.01
+REGIONS FINANCIAL CORP.                    3.440 RF      758940100Q    37.2000        10,400.00        319,718.23        386,880.00
+RENT-A-CENTER INC                          0.000 RCII    76009N100     29.8800        14,700.00        401,108.57        439,236.00
+REPUBLIC SERVICES INC                      0.936 RSG     760759100     25.6300         3,700.00         88,504.00         94,831.00
+RESMED INC                                 0.000 RMD     761152107     41.5400         2,500.00        103,251.92        103,850.00
+REYNOLDS & REYNOLDS CL-A                   1.514 REY     761695105     29.0500         2,900.00         85,869.00         84,245.00
+ROCKWELL AUTOMATION INC                    1.853 ROK     773903109Q    35.6000        24,600.00        509,280.73        875,759.99
+ROHM & HAAS CO                             2.060 ROH     775371107Q    42.7100         3,500.00        119,293.33        149,485.00
+ROSS STORES INC                            0.435 ROST    778296103     26.4300        20,600.00        434,866.00        544,458.00
+ROWAN COS.                                 0.000 RDC     779382100     23.1700         1,100.00         21,989.93         25,487.00
+RUBY TUESDAY INC                           0.158 RI      781182100     28.4900         4,200.00        106,099.38        119,658.00
+RYDER SYS. INC.                            1.757 R       783549108Q    34.1500         5,100.00        136,501.25        174,165.00
+RYLAND GROUP INC                           0.451 RYL     783764103     88.6400         4,900.00        367,527.46        434,336.00
+SABRE HOLDINGS CORP.                       1.296 TSG     785905100     21.5900         2,200.00         47,474.90         47,498.00

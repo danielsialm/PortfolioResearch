@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 168
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+21ST CENTY INS GROUP                       0.581 TW      90130N103     13.7500        16,200.00        228,248.97        222,750.00
+4KIDS ENTERTAINMENT INC.                   0.000 KDE     350865101     26.0200        15,700.00        445,162.40        408,514.00
+ACTIVISION INC                             0.000 ATVI    004930202     18.2000        26,000.00        340,328.82        473,200.00
+ADTRAN INC.                                0.967 ADTN    00738A106     31.0000        18,400.00        502,924.83        570,400.00
+ADVANCED FIBRE COMMUNICATION               0.000 AFCI    00754A105     20.1500        23,700.00        526,325.61        477,555.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     17.4300        11,600.00        184,922.69        202,188.00
+AEROPOSTALE INC                            0.000 ARO     007865108     27.4200        16,500.00        375,127.08        452,430.00
+ALLEGIANT BANCORP IN                       1.568 ALLE    017476102     28.0500         9,200.00        192,165.63        258,060.00
+AMERICAN CAPITAL STRATEGIES                9.283 ACAS    024937104     29.7300        14,400.00        358,602.47        428,111.99
+AMERICAN FINANCIAL GROUP INC.              1.889 AFG     025932104Q    26.4600        12,400.00        312,843.72        328,104.00
+AMERICAN WEST HOLDINGS CORP.               0.000 AWA     023657208     12.4000        32,200.00        436,445.25        399,280.00
+AMERITRADE HLDG CORP                       0.000 AMTD    03074K100     14.0700        19,600.00        153,640.15        275,772.00
+ANDRX GROUP                                0.000 ADRX    034553107     24.0400        30,900.00        674,687.34        742,836.00
+ARQULE INC                                 0.000 ARQL    04269E107      4.8800        30,800.00        135,164.87        150,304.00
+ARTHROCARE CORP                            0.000 ARTC    043136100     24.5000        17,900.00        294,021.34        438,550.01
+ASCENTIAL SOFTWARE CORP                    0.000 ASCL    04362P207     25.9300        26,200.00        566,005.52        679,366.00
+AUTODESK INC.                              0.488 ADSK    052769106Q    24.5800        19,500.00        441,253.02        479,310.00
+AZTAR CORP.                                0.000 AZR     054802103     22.5000        19,600.00        449,719.60        441,000.00
+BANNER CORP                                2.544 BANR    06652V109     25.1500        12,200.00        257,351.66        306,830.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101      5.4000        27,500.00        104,964.61        148,500.00
+BEVERLY ENTERPRISES                        0.000 BEV     087851309      8.5900        53,900.00        449,956.52        463,001.00
+CASH AMERICAN INT'L. INC.                  0.330 PWN     14754D100     21.1800        21,800.00        455,470.92        461,724.00
+CENTURY BUSINESS SVC                       0.000 CBIZ    156490104      4.4700        54,600.00        188,486.18        244,062.00
+CHECKPOINT SYSTEMS INC.                    0.000 CKP     162825103     18.9100        22,300.00        416,623.52        421,693.00
+CHILDREN'S PLACE                           0.000 PLCE    168905107     26.7300        18,000.00        438,299.59        481,140.00
+CHIQUITA BRANDS                            0.000 CQB     170032809Q    22.5300        14,600.00        222,551.00        328,938.00
+CITY HLDG CO                               2.285 CHCO    177835105     35.0000        10,400.00        310,003.40        364,000.00
+COACH INC                                  0.000 COH     189754104     37.7500        30,300.00        771,603.73      1,143,825.00
+COPART INC                                 0.000 CPRT    217204106     16.5000        24,200.00        303,679.42        399,300.00
+CORINTHIAN COLLEGES INC                    0.000 COCO    218868107     55.5600         9,300.00        470,528.35        516,708.00
+CORRECTIONS CORP OF                        0.000 CXW     22025Y407     28.8300         5,000.00        130,366.00        144,150.00
+CRAY INC                                   0.000 CRAY    225223106      9.9300        35,700.00        402,033.28        354,501.00
+CSG SYSTEMS INTL. INC.                     0.000 CSGS    126349109     12.4900        18,000.00        255,767.67        224,820.00
+CURAGEN CORP                               0.000 CRGN    23126R101      7.3300        27,000.00        145,259.13        197,910.00
+CYPRESS SEMICONDUCTOR CORP                 0.000 CY      232806109     21.3600        42,900.00        528,703.29        916,344.00
+DORAL FINANCIAL CORP.                      1.155 DRL     25811P100     32.2800        10,600.00        322,018.68        342,168.00
+DSP GROUP INC.                             0.000 DSPG    23332B106     24.9100        16,300.00        359,248.91        406,033.00
+EARTHLINK INC                              0.000 ELNK    270321102     10.0000        50,100.00        421,675.12        501,000.00
+EDGEWATER TECHNOLOGIN INC.                 0.000 EDGW    280358102      4.8600        56,500.00        267,432.16        274,590.00

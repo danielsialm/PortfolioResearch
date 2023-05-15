@@ -1,0 +1,16 @@
+ASOF09   Date 01/21/2003 Time 18:53:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 003
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS-E     EMERGING SWAP
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+FNMA DISCOUNT NOTES                  1.578 313588AX3                          5,000,000.00        4,995,473.85
+
+Instrument Total               1                                              5,000,000.00        4,995,473.85
+
+Portfolio Total                1                                              5,000,000.00        4,995,473.85          4,978,155.57

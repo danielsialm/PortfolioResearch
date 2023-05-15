@@ -1,0 +1,47 @@
+ASOF02   Date 01/20/2004 Time 18:59:06   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 154
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5JL       JACOBS LEVY - 1000
+Instrument - COM       COMMON STOCK
+
+UNIVERSAL CORP-VA                          3.531 UVV     913456109Q    44.1700        17,400.00        565,553.48        768,558.00
+UNIVERSITY OF PHOENIX ONLINE               0.000 UOPX    037604204     68.9300         4,200.00        288,755.88        289,506.00
+UNOVA INC.                                 0.000 UNA     91529B106     22.9500        52,800.00      1,206,464.28      1,211,760.00
+URBAN OUTFITTERS INC                       0.000 URBN    917047102     37.0500        12,300.00        393,239.91        455,714.99
+VALERO ENERGY CORP.                        1.035 VLO     91913Y100Q    46.3400        51,800.00      1,339,875.90      2,400,411.99
+VERITAS SOFTWARE CORPORATION               0.000 VRTS    923436109     37.1600       128,200.00      3,918,099.68      4,763,912.00
+VERIZON COMMUNICATIONS                     4.390 VZ      92343V104Q    35.0800       370,200.00     13,046,665.56     12,986,616.00
+VIACOM INC-CLASS B                         0.540 VIA.B   925524308     44.3800       346,400.00     13,859,768.59     15,373,232.00
+WACHOVIA CORP.- NEW                        3.434 WB      929903102Q    46.5900       317,200.00     11,968,012.35     14,778,348.00
+WATSON PHARMACEUTICALS INC.                0.000 WPI     942683103     46.0000       167,900.00      6,599,479.84      7,723,400.00
+WEBSTER FINANCIAL CORPORATION              1.831 WBS     947890109     45.8600        17,300.00        572,000.31        793,378.00
+WELLS FARGO COMPANY                        3.056 WFC     949746101     58.8900       215,600.00     10,365,494.62     12,696,684.00
+WENDY'S INTL                               0.611 WEN     950590109Q    39.2400        41,600.00      1,617,824.00      1,632,384.00
+WGL HOLDINGS, INC.                         4.606 WGL     92924F106     27.7900        33,700.00        857,368.62        936,523.00
+WINN-DIXIE STORES INC.                     2.010 WIN     974280109M     9.9500        65,200.00        639,618.42        648,740.00
+WMS INDUSTRIES INC                         0.000 WMS     929297109     26.2000        29,300.00        758,818.50        767,660.00
+XCEL ENERGY INC                            4.417 XEL     98389B100Q    16.9800        90,800.00      1,394,370.20      1,541,784.00
+XILINX INC                                 0.000 XLNX    983919101     38.7400        78,200.00      2,906,029.30      3,029,468.00
+YAHOO INC                                  0.000 YHOO    984332106     45.1700       158,300.00      6,692,736.13      7,150,411.00
+YANKEE CANDLE CO                           0.000 YCC     984757104     27.3300        10,200.00        248,802.12        278,766.00
+
+Instrument Total           254                                                    41,522,632.07    931,618,298.06  1,059,017,765.30
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+BRANDYWINE REALTY                          6.574 BDN     105368203     26.7700         9,800.00        250,996.62        262,346.00
+EQUITY OFFICE PROP                         6.980 EOP     294741103     28.6500        99,200.00      2,799,182.12      2,842,080.00
+HEALTH CARE REIT INC                       6.500 HCN     42217K106     36.0000        22,500.00        776,571.33        810,000.00
+IMPAC MTG HLDGS INC                       12.081 IMH     45254P102     18.2100        63,500.00      1,149,327.04      1,156,335.00
+KIMCO REALTY CORP                          5.095 KIM     49446R109Q    44.7500        41,700.00      1,783,000.26      1,866,075.00
+REDWOOD TR INC                             5.113 RWT     758075402     50.8500        11,400.00        541,400.19        579,690.00
+
+Instrument Total             6                                                       248,100.00      7,300,477.56      7,516,526.00
+
+Portfolio Total            260                                                    41,770,732.07    938,918,775.62  1,066,534,291.30
+

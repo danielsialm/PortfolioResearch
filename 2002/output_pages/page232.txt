@@ -1,0 +1,26 @@
+ASOF10   Date 01/21/2003 Time 18:53:26   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 049
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+YAHOO INC                                    0.000     984332106   YHOO         1,342,463      137,247,371.95       21,949,270.05
+YANKEE CANDLE CO                             0.000     984757104   YCC             17,210          329,735.71          275,360.00
+YELLOW CORP                                  0.000     985509108   YELL            62,539        1,223,609.83        1,575,419.95
+YORK INTERNATIONAL CORP                      2.346     986670107   YRK             84,600        2,343,544.64        2,163,222.00
+YUM BRANDS, INC.                             0.000     988498101   YUM            596,398       12,144,275.49       14,444,759.56
+ZALE CORP.                                   0.000     988858106   ZLC             61,000        2,068,366.74        1,945,900.00
+ZEBRA TECHNOLOGIES CORP CL-A                 0.000     989207105   ZBRA            81,895        3,450,262.58        4,692,583.50
+ZENITH NATIONAL INSURANCE CP                 4.251     989390109   ZNT             20,600          562,112.46          484,512.00
+ZIMMER HOLDINGS INC                          0.000     98956P102   ZMH            382,637        8,502,308.40       15,887,088.24
+ZIONS BANCORPORATION                         2.033     989701107   ZION           103,566        5,935,891.41        4,075,218.53
+ZIXIT CORP                                   0.000     98974P100   ZIXI            33,000          149,389.65          145,530.00
+ZORAN CORP                                   0.000     98975F101   ZRAN            35,620          576,545.39          501,173.39
+
+Instrument Total                  1,812                                       744,866,248   20,226,225,509.04   19,034,949,698.53
+
+Group Total                       1,835                                       746,988,977   21,252,774,186.67   20,039,190,159.59

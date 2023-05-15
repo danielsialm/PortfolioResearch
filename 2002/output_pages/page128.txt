@@ -1,0 +1,18 @@
+ASOF02   Date 01/21/2003 Time 18:53:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 100
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 500
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+CATELLUS DEVELOP CORP                      0.000 CDX     149111106     19.8500         2,845.00         57,496.31         56,473.25
+SIMON PROP GROUP INC.                      6.457 SPG     828806109Q    34.0700         7,800.00        266,315.80        265,746.01
+
+Instrument Total             2                                                        10,645.00        323,812.11        322,219.26
+
+Portfolio Total            264                                                    18,388,756.28    518,673,064.18    478,028,806.57
+

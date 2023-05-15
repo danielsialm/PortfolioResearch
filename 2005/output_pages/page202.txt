@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 169
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LC       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+ACTUANT CORP CL A                          0.143 ATU     00508X203     55.8000       121,400.00      4,910,816.81      6,774,120.00
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     13.0200        80,400.00      1,036,775.34      1,046,808.00
+AMEDISYS INC                               0.000 AMED    023436108     42.2400        98,266.00      3,523,456.53      4,150,755.84
+ARCH COAL INC.                             0.402 ACI     039380100Q    79.5000        19,200.00      1,397,211.78      1,526,400.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     54.7600        39,600.00      1,699,732.62      2,168,496.00
+BEACON ROOFING SUPPLY INC                  0.000 BECN    073685109     28.7300        78,600.00      1,605,848.34      2,258,178.00
+BROOKLINE BANCORP IN                       2.399 BRKL    11373M107     14.1700       141,646.00      2,121,301.71      2,007,123.82
+CACI INTERNATIONAL INC._CL A               0.000 CAI     127190304     57.3800        47,800.00      2,586,102.10      2,742,764.00
+CARPENTER TECHNOLOGY                       0.851 CRS     144285103     70.4700        35,900.00      2,502,366.57      2,529,873.00
+CENTEX CORP                                0.223 CTX     152312104Q    71.4900        45,800.00      2,035,581.27      3,274,242.00
+CHEMED CORP                                0.483 CHE     16359R103     49.6800        22,200.00        907,049.40      1,102,896.00
+CLEVELAND-CLIFFS INC                       0.903 CLF     185896107Q    88.5700        47,100.00      3,463,913.78      4,171,647.00
+COMMERCIAL METALS CO.                      0.639 CMC     201723103     37.5400       107,000.00      3,202,929.97      4,016,780.00
+COPART INC                                 0.000 CPRT    217204106     23.0600        19,405.00        444,901.05        447,479.30
+DIGENE CORP                                0.000 DIGE    253752109     29.1700        34,000.00        949,040.75        991,780.00
+EDUCATION MANAGEMENT COPR                  0.000 EDMC    28139T101     33.5100        75,995.00      2,572,215.05      2,546,592.45
+ELKCORP                                    0.594 ELK     287456107     33.6600       102,400.00      2,664,599.16      3,446,784.00
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      7.1200       421,400.00      3,356,517.04      3,000,368.00
+EXCEL MARITIME CARRIERS LTD                0.000 EXM     V3267N107     11.4500        47,800.00        969,082.16        547,310.00
+FIRST ACCEPTANCE CORP                      0.000 FAC     318457108     10.2900        58,100.00        538,866.63        597,849.00
+GENLYTE GROUP INC                          0.000 GLYT    372302109     53.5700        55,180.00      2,316,467.36      2,955,992.60
+GIBRALTAR INDUSTRIES INC                   0.871 ROCK    374689107     22.9400        75,100.00      1,784,821.09      1,722,794.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     34.6300        74,306.00      2,488,403.95      2,573,216.78
+GREENBRIER COS INC                         1.126 GBX     393657101     28.4000        37,100.00        971,312.75      1,053,640.00
+GREY WOLF INC                              0.000 GW      397888108      7.7300        62,300.00        272,890.16        481,579.00
+HANMI FINL CORP                            1.119 HAFC    410495105     17.8600        52,500.00        615,613.37        937,650.00
+HARRIS INTERACTIVE INC                     0.000 HPOL    414549105      4.3100       380,330.00      1,891,777.46      1,639,222.30
+HCC INSURANCE HOLDINGS INC.                1.010 HCC     404132102     29.6800       220,950.00      4,815,884.73      6,557,796.00
+HEXCEL CORP                                0.000 HXL     428291108     18.0500       226,500.00      3,336,822.74      4,088,325.00
+HILB ROGAL & HOBBS CO                      1.194 HRH     431294107Q    38.5100       147,800.00      4,978,332.94      5,691,778.00
+HUGHES SUPPLY INC.                         1.004 HUG     444482103     35.8500       104,500.00      2,919,832.98      3,746,325.00
+ICON PLC - ADR                             0.000 ICLR    45103T107     41.1400        89,600.00      3,166,344.44      3,686,144.00
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103     19.6100       136,003.00      2,634,129.69      2,667,018.83
+INVESTORS FINANCIAL SERVICES C             0.217 IFIN    461915100     36.8300        19,600.00        652,917.93        721,868.00
+J & J SNACK FOODS CORP                     0.252 JJSF    466032109     59.4100        64,909.00      2,612,762.68      3,856,243.69
+JOY GLOBAL INC                             1.125 JOYG    481165108     40.0000        22,050.00        533,302.38        882,000.00
+KANBAY INTERNATIONAL INC                   0.000 KBAY    48369P207     15.8900        32,580.00        532,671.21        517,696.20
+KENSEY NASH CORP                           0.000 KNSY    490057106     22.0300        48,360.00      1,478,524.99      1,065,370.80
+KEY ENERGY SERVICES INC                    0.000 KEGS    492914106     13.4700        71,550.00        728,694.35        963,778.50

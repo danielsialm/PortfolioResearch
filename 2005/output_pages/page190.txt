@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:37   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 157
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6DG       DAVID J. GREENE - 20
+Instrument - COM       COMMON STOCK
+
+LEAPFROG ENTERPRISES INC                   0.000 LF      52186N106     11.6500        62,100.00      1,147,891.10        723,465.00
+MAGELLAN HEALTH SERVICES INC               0.000 MGLN    559079207     31.4500        38,600.00      1,263,506.02      1,213,970.00
+MANITOWOC COMPANY INC.                     0.557 MTW     563571108     50.2200        16,400.00        474,672.71        823,608.00
+MAXTOR CORP                                0.000 MXO     577729205      6.9400       341,800.00      1,768,912.76      2,372,092.00
+MAXWELL TECHNOLOGIES INC                   0.000 MXWL    577767106     14.1700        21,600.00        160,667.72        306,072.00
+MILACRON, INC.                             3.174 MZ      598709103Q     1.2600       199,148.00        561,672.16        250,926.48
+MOLSON COORS BREWING CO                    1.910 TAP     60871R209Q    66.9900        29,600.00      1,790,254.76      1,982,904.00
+MOSAIC COMPANY                             0.546 MOS     61945A107Q    14.6300        54,400.00        726,468.75        795,872.00
+MYRIAD GENETICS INC                        0.000 MYGN    62855J104     20.8000        60,700.00        956,170.50      1,262,560.00
+NATIONAL OILWELL VARCO INC                 0.000 NOV     637071101     62.7000        16,000.00        321,371.14      1,003,200.00
+NAVISTAR INTL. CORP.                       0.000 NAV     63934E108     28.6200        58,300.00      1,680,212.76      1,668,546.00
+ORBITAL SCIENCES CORP.                     0.000 ORB     685564106     12.8400        59,200.00        264,418.52        760,128.00
+ORMAT TECHNOLOGIES INC                     0.459 ORA     686688102     26.1400        22,000.00        491,677.14        575,080.00
+PALL CORPORATION                           1.489 PLL     696429307Q    26.8600        88,100.00      2,181,385.58      2,366,366.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     20.2600        39,000.00        553,647.21        790,140.00
+PATHMARK STORES INC                        0.000 PTMK    70322A101      9.9900        67,500.00        721,756.06        674,325.00
+PHARMACOPEIA DRUG DISCOVERY IN             0.000 PCOP    7171EP101      3.5600        66,000.00        393,746.78        234,960.00
+PIER 1 IMPORTS INC/DEL                     4.581 PIR     720279108      8.7300       139,600.00      1,875,199.72      1,218,708.00
+POWERDSINE LTD                             0.000 PDSN    M41415106      6.8700        20,200.00        128,053.04        138,774.00
+PRIME MONEY MARKET - 6DG                   0.000 IT-DAV  IT-DAV         1.0000     3,039,367.55      3,039,368.18      3,039,367.59
+QUANTUM CORPORATION- DLT & STO             0.000 DSS     747906204      3.0500       437,800.00      2,944,275.52      1,335,290.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     13.8400        64,200.00        840,101.14        888,528.00
+RADIOSHACK CORP                            1.188 RSH     750438103Q    21.0300        58,400.00      1,469,880.75      1,228,152.00
+RADWARE LTD                                0.000 RDWR    M81873107     18.1600        24,000.00        401,021.56        435,840.00
+RSA SECURITY INC.                          0.000 RSAS    749719100     11.2300       116,100.00      1,429,316.13      1,303,803.00
+RYDER SYS. INC.                            1.560 R       783549108Q    41.0200        41,700.00      1,394,757.89      1,710,534.00
+SCHOLASTIC CORP                            0.000 SCHL    807066105     28.5100        24,400.00        696,953.47        695,644.00
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107      7.9000        73,300.00        508,730.23        579,070.00
+SOLECTRON CORP                             0.000 SLR     834182107      3.6600       501,200.00      1,886,131.75      1,834,392.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     23.6300        24,900.00        600,027.24        588,387.00
+SYBRON DENTAL SPECIALTIES                  0.000 SYD     871142105     39.8100        27,500.00        657,908.09      1,094,775.00
+TECUMSEH PRODUCTS CO CL-A                  5.587 TECUA   878895200     22.9100        63,200.00      1,990,458.11      1,447,912.00
+TEKELEC                                    0.000 TKLC    879101103     13.9000        44,300.00        590,260.46        615,770.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.1000        28,300.00        497,543.35        823,530.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103      7.4700       215,200.00      1,410,174.65      1,607,544.00
+ULTRATECH INC                              0.000 UTEK    904034105     16.4200        13,600.00        197,800.76        223,312.00
+UNIFI INC                                  0.000 UFI     904677101      3.0400        41,200.00        251,905.65        125,248.00
+UNISYS CORP.                               0.000 UIS     909214108      5.8300       304,700.00      2,749,726.73      1,776,401.00
+UTSTARCOM, INC                             0.000 UTSI    918076100      8.0600       121,300.00      1,533,265.33        977,678.00

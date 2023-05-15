@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 009
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+AMERICA SERVICE GROUP INC                    0.000     02364L109   ASGRE           31,000          595,390.88          491,660.00
+AMERICAN AXLE & MFG HOLDINGS                 3.273     024061103   AXL          1,483,083       35,966,946.72       27,184,911.39
+AMERICAN CAPITAL STRATEGIES                  8.726     024937104   ACAS           213,400        7,855,179.85        7,727,214.01
+AMERICAN COMMERCIAL LINES INC                0.000     025195207   ACLI            20,425          548,819.42          618,673.25
+AMERICAN DENTAL PARTNERS INC                 0.000     025353103   ADPI            27,300          466,876.29          493,584.00
+AMERICAN EAGLE OUTFITTERS                    1.305     02553E106   AEOS            80,990        2,038,528.02        1,861,150.22
+AMERICAN ECOLOGY CORP                        4.158     025533407   ECOL            12,800          226,833.95          184,704.00
+AMERICAN ELECTRIC POWER                      3.990     025537101 Q AEP            391,900       13,537,909.20       14,535,571.00
+AMERICAN EQUITY INVESTMENT LIFE HOLDING      0.306     025676206   AEL             62,500          685,497.70          815,625.00
+AMERICAN EXPRESS CO.                         0.932     025816109 Q AXP          1,654,300       57,865,197.28       85,130,278.00
+AMERICAN FINANCIAL GROUP INC.                1.435     025932104 Q AFG            681,900       20,079,520.01       26,123,589.00
+AMERICAN GREETING CL A                       1.456     026375105 Q AM             268,200        5,989,211.80        5,892,354.00
+AMERICAN HEALTHWAYS                          0.000     02649V104   AMHC            79,352        2,071,970.38        3,590,678.00
+AMERICAN HOME MTG HL                        11.175     02660R107   AHM             56,895        1,398,927.58        1,853,070.15
+AMERICAN INTL GROUP                          0.879     026874107 Q AIG          4,704,497      223,795,281.35      320,987,830.29
+AMERICAN MEDICAL SYS HLDINGS                 0.000     02744M108   AMMD           120,946        1,669,781.38        2,156,467.18
+AMERICAN PHYSICIANS                          0.000     028884104   ACAP            14,100          418,451.35          645,639.00
+AMERICAN POWER CONVERSION                    1.818     029066107   APCC           471,700       11,457,855.51       10,377,400.00
+AMERICAN REPROGRAPHICS CO                    0.000     029263100   ARP            179,222        2,947,044.31        4,554,031.02
+AMERICAN RETIREMENT CORP                     0.000     028913101   ACR             46,500          740,434.56        1,168,545.00
+AMERICAN SCIENCE & ENGINEERING               0.000     029429107   ASEI            34,700        1,604,485.57        2,164,239.00
+AMERICAN STANDARD COMPANIES                  1.501     029712106   ASD              9,300          345,735.47          371,535.00
+AMERICAN STATES WATER CO.                    2.922     029899101   AWR             17,700          566,186.89          545,160.00
+AMERICAN TOWER CORP                          0.000     029912201   AMT             76,200        1,113,054.61        2,065,020.00
+AMERICAN VANGUARD CORP                       0.255     030371108   AVD             11,200          228,633.54          263,200.00
+AMERICAN WOODMARK CORP.                      0.484     030506109   AMWD            12,000          389,602.23          297,480.00
+AMERICANWEST BANCORP                         0.000     03058P109   AWBC            11,010          181,101.55          260,166.30
+AMERICAS CAR-MART INC                        0.000     03062T105   CRMT             9,500          204,098.87          156,940.00
+AMERICREDIT CORP.                            0.000     03060R101   ACF            199,900        4,249,400.22        5,123,437.00
+AMERIPRISE FINANCIAL INC                     1.073     03076C106   AMP            920,580       29,708,755.30       37,743,779.99
+AMERIS BANCORP                               2.822     03076K108   ABCB            12,560          174,918.33          249,190.40
+AMERISOURCEBERGEN CORP                       0.241     03073E105   ABC            425,500       12,635,191.99       17,615,700.00
+AMERISTAR CASINOS IN                         1.378     03070Q101   ASCA            35,346          538,715.04          802,354.20
+AMERITRADE HLDG CORP                         0.000     03074K100   AMTD           141,900        3,053,259.61        3,405,600.00
+AMERON INTERNATIONAL CORP                    1.755     030710107   AMN             16,400          577,711.33          747,512.00
+AMERUS GROUP CO                              0.705     03072M108   AMH            147,265        6,833,544.91        8,345,507.55
+AMES NATIONAL CORP                           3.889     031001100   ATLO             8,900          327,245.29          228,819.00
+AMETEK INC.                                  0.564     031100100 Q AME            240,940        7,321,701.60       10,249,587.60
+AMGEN INC                                    0.000     031162100   AMGN         2,500,262      101,537,644.68      197,170,661.34
+AMICAS INC                                   0.000     001712108   AMCS            47,500          217,117.75          235,600.00

@@ -1,0 +1,7 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP II - LIQUIDITY RES       0.000 IL-EQS2                               15,072.02        1,507,202.02
+
+Instrument Total               1                                                 15,072.02        1,507,202.02
+
+Portfolio Total                1                                                 15,072.02        1,507,202.02          2,123,166.87

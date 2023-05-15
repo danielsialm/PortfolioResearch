@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 084
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+ROBBINS & MYERS INC.                       1.195 RBN     770196103     18.4000        13,500.00        424,831.46        248,400.00
+ROCK-TENN COMPANY CL A                     2.373 RKT     772739207     13.4800        38,200.00        615,475.00        514,936.00
+ROGERS CORP.                               0.000 ROG     775133101     22.2500        18,400.00        679,832.25        409,400.00
+ROPER INDUSTRIES INC                       0.956 ROP     776696106     36.6000        33,600.00        998,948.07      1,229,760.00
+ROXIO INC                                  0.000 ROXI    780008108      4.7700        35,652.80        799,673.40        170,063.85
+ROYAL APPLIANCE MFG CO                     0.000 RAM     780076105      7.2700        22,300.00        157,168.54        162,121.00
+RTI INTERNATIONAL METALS                   0.000 RTI     74973W107     10.1000        28,600.00        366,247.71        288,860.00
+RUBY TUESDAY INC                           0.289 RI      781182100     17.2900        70,700.00        616,932.25      1,222,403.00
+RUDOLPH TECHNOLOGIES INC                   0.000 RTEC    781270103     19.1600        17,800.00        674,767.76        341,048.00
+RUSS BERRIE & CO INC                       3.078 RUS     782233100     33.7800        24,400.00        645,275.84        824,232.00
+RUSSELL CORP                               0.955 RML     782352108Q    16.7400        36,900.00        591,580.84        617,706.00
+RYANS FAMILY STEAK HOUSES                  0.000 RYAN    783519101     11.3500        47,500.00        363,732.57        539,125.00
+RYERSON TULL, INC.                         3.278 RT      78375P107Q     6.1000        27,173.00        305,325.94        165,755.30
+RYLAND GROUP INC                           0.239 RYL     783764103     33.3500        29,200.00        439,262.90        973,820.00
+SALTON INC                                 0.000 SFP     795757103      9.6200        11,900.00        139,439.44        114,478.00
+SBS TECHNOLOGIES INC                       0.000 SBSE    78387P103      9.1600        22,400.00        353,772.64        205,184.00
+SCHOOL SPECIALTY INC.                      0.000 SCHS    807863105     19.9800        18,600.00        360,829.23        371,628.00
+SCHWEITZER-MAIDUIT INTL INC                2.449 SWM     808541106     24.5000        18,100.00        334,545.14        443,450.00
+SCOTTS COMPANY                             0.000 SMG     810186106     49.0400        33,000.00        886,472.45      1,618,320.00
+SCP POOL CORPORATION                       0.000 POOL    784028102     29.2000        25,800.00        448,694.20        753,360.00
+SEACOAST FINL SERVICES COPR                2.198 SCFS    81170Q106     20.0110        28,000.00        623,655.92        560,308.00
+SEACOR SMIT INC.                           0.000 CKH     811904101     44.5000        22,900.00      1,022,859.05      1,019,050.00
+SELECTIVE INSURANCE GROUP                  2.382 SIGI    816300107     25.1800        30,100.00        730,644.68        757,918.00
+SERENA SOFTWARE INC                        0.000 SRNA    817492101     15.7900        47,100.00        656,716.95        743,709.00
+SHAW GROUP                                 0.000 SGR     820280105     16.4500        41,000.00        944,499.90        674,450.00
+SHOPKO STORES INC                          0.000 SKO     824911101     12.4500        31,500.00        465,470.00        392,175.00
+SHUFFLE MASTER INC                         0.000 SHFL    825549108     19.1100        22,400.00        513,218.88        428,064.00
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109     12.0100        34,400.00        200,633.27        413,144.00
+SIMPSON MANUFACTURING CO                   0.000 SSD     829073105     32.9000        28,900.00        748,882.66        950,810.00
+SKYLINE CORP.                              2.440 SKY     830830105Q    29.5000         9,200.00        274,648.70        271,400.00
+SKYWEST INC                                0.612 SKYWE   830879102     13.0700        65,300.00      1,143,455.33        853,471.00
+SKYWORKS SOLUTIONS INC                     0.000 SWKS    83088M102      8.6200       154,900.00     11,617,850.56      1,335,238.00
+SMITH (A.O.) CORP                          2.073 AOS     831865209     27.0100        32,200.00        842,153.58        869,722.00
+SOLA INTERNATIONAL INC                     0.000 SOL     834092108     13.0000        24,300.00        686,338.48        315,900.00
+SONIC CORP                                 0.000 SONC    835451105     20.4900        41,350.00        378,536.43        847,261.50
+SOURCE CORP                                0.000 SRCP    836167106     18.5900        19,200.00        567,685.57        356,928.00
+SOUTH FINANCIAL GROUP, INC                 2.710 TSFG    837841105     20.6600        50,000.00        933,756.59      1,033,000.00
+SOUTHERN UNION COMPANY                     0.000 SUG     844030106     16.5000        62,031.00        888,238.19      1,023,511.50
+SOUTHWEST BANCORP OF TEXAS                 0.000 SWBT    84476R109     28.8100        38,300.00        997,811.39      1,103,423.00

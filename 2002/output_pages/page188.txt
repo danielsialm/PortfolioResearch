@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:16   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+AFFILIATED COMPUTER SERVICES                 0.000     008190100   ACS            324,800       11,784,226.73       17,100,720.00
+AFFILIATED MANAGERS GROUP                    0.000     008252108   AMG             13,490          724,001.62          678,547.00
+AFLAC INC                                    0.796     001055102   AFL            564,990       11,655,709.72       17,017,498.80
+AGCO CORP.                                   0.000     001084102   AG             185,640        3,860,828.69        4,102,644.00
+AGERE SYSTEMS INC-CL A                       0.000     00845V100   AGR/A          723,000        1,387,750.54        1,041,120.00
+AGILENT TECHNOLOGIES INC                     0.000     00846U101   A              841,881       28,422,899.28       15,120,182.76
+AGL RESOURCES INC                            4.444     001204106   ATG             86,300        1,810,707.13        2,097,090.00
+AIR PROD. & CHEM.                            1.964     009158106 Q APD            421,649       14,618,368.06       18,025,494.75
+AIRBORNE INC.                                1.078     009269101 Q ABF             46,400          624,253.34          688,112.00
+AIRGAS INC                                   0.000     009363102   ARG            251,783        3,286,351.04        4,343,256.75
+AK STEEL HOLDING CORP                        3.125     001547108   AKS            295,900        3,145,475.39        2,367,200.00
+ALASKA AIRGROUP INC                          0.000     011659109   ALK             23,200          638,218.46          502,280.00
+ALBANY INTL CL-A                             1.064     012348108 Q AIN             37,313          867,704.80          770,886.58
+ALBEMARLE CORP                               1.968     012653101   ALB             38,100          977,167.62        1,083,945.00
+ALBERTO CULVER CL-B                          0.714     013068101 Q ACV             42,783        1,309,389.93        2,156,263.20
+ALBERTSON'S, INC.                            3.414     013104104 Q ABS            594,273       20,388,731.05       13,228,516.98
+ALCOA INC.                                   2.633     013817101 Q AA           1,786,234       46,342,522.80       40,690,410.52
+ALDILA INC                                   0.000     014384200   ALDA            68,099          135,799.75          115,770.00
+ALEXANDER & BALDWIN INC                      3.489     014482103   ALEX           156,100        4,041,706.27        4,025,819.00
+ALLEGHENY ENERGY INC.                       22.751     017361106 Q AYE            223,629        6,370,151.64        1,690,635.24
+ALLEGHENY TECHNOLOGIES INC                   3.852     01741R102   ATI             77,316        1,571,678.20          481,678.68
+ALLEN TELECOM INC.                           0.000     018091108   ALN            178,400        2,110,763.31        1,689,448.00
+ALLERGAN PHARMACEUTICALS INC.                0.624     018490102 Q AGN            498,473       28,874,852.61       28,722,014.26
+ALLETE, INC.                                 4.850     018522102   ALE            242,600        5,201,199.31        5,502,168.00
+ALLIANCE GAMING CORP                         0.000     01859P609   AGI             84,000          809,346.92        1,430,520.00
+ALLIANCE SEMICONDUCTOR CORP                  0.000     01877H100   ALSC            36,500          805,856.45          143,445.00
+ALLIANT ENERGY CORPORATION                  12.084     018802108   LNT             63,454        1,205,778.08        1,050,163.70
+ALLIANT TECHSYSTEMS INC.                     0.000     018804104   ATK             41,725        1,093,636.36        2,601,553.74
+ALLIED WASTE INDUSTRIES                      0.000     019589308   AW             222,534        3,277,660.52        2,225,340.00
+ALLMERICA FINANCIAL CORP.                    2.475     019754100   AFC            163,300        5,287,566.11        1,649,330.00
+ALLSTATE CORP                                2.270     020002101 Q ALL          1,381,998       44,177,933.59       51,120,106.02
+ALLTEL CORP                                  2.745     020039103 Q AT             697,932       38,717,225.94       35,594,532.00
+ALPHARMA, INC.-CL A                          1.511     020813101 Q ALO            136,100        2,834,738.19        1,620,951.00
+ALTERA CORP                                  0.000     021441100   ALTR           862,107       17,375,457.99       10,629,779.32
+AMBAC FINANCIAL GROUP INC.                   0.711     023139108 Q ABK            120,553        4,865,480.47        6,779,900.72
+AMCOL INTERNATIONAL CORP.                    2.069     02341W103   ACO             12,100           73,083.70           70,180.00
+AMERADA HESS CORP.                           2.179     023551104 Q AHC            196,725       12,632,019.85       10,829,711.25
+AMEREN CORP.                                 6.110     023608102 Q AEE            239,223        9,494,198.08        9,944,500.11
+AMERICAN AXLE & MFG HOLDINGS                 0.000     024061103   AXL              8,830          208,899.67          206,798.60
+AMERICAN EAGLE OUTFITTERS                    0.000     02553E106   AEOS           188,150        4,777,608.26        2,592,707.00

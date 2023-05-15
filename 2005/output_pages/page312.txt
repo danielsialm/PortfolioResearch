@@ -1,0 +1,27 @@
+ASOF09   Date 01/19/2006 Time 18:25:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS-QUAN  QUANTITATIVE SWAP
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+CATERPILLAR FIN SERV CRP       A2    2.970 14912LX55        Q                 1,000,000.00        1,000,304.52
+FEDERAL HOME LOAN BANK         AAA   3.351 3133XCAB9        Q                10,000,000.00        9,997,652.82
+IBM CORP                       A1    3.516 45920QEU4        Q                 5,000,000.00        5,000,000.00
+SLM CORP                       A2    3.197 78442FAM0        Q                 2,255,000.00        2,255,318.25
+US BANK NA                     AA1   3.197 90331HKD4        Q                 1,865,000.00        1,865,313.19
+WORLD SAVINGS BANK FSB         AA3   3.403 98153BAF1        Q                 8,000,000.00        8,002,478.81
+
+Instrument Total               6                                             28,120,000.00       28,121,067.59
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQS-QUAN                             0.000 IL-EQSQUAN                             9,039.84          903,984.71
+
+Instrument Total               1                                                  9,039.84          903,984.71
+
+Portfolio Total                7                                             28,129,039.84       29,025,052.30         30,896,059.61

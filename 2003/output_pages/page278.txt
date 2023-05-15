@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:29   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 046
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+MACATAWA BK CORP                             1.695     554225102   MCBC            10,100          240,235.54          285,931.00
+MACDERMID INC.                               0.350     554273102   MRD             25,800          810,969.78          883,392.00
+MACROMEDIA INC                               0.000     556100105   MACR           187,900        2,903,953.41        3,352,136.01
+MACROVISION CORP                             0.000     555904101   MVSN            49,500          888,370.34        1,118,204.99
+MADDEN STEVEN LTD                            0.000     556269108   SHOO            12,100          259,122.51          246,840.00
+MAF BANCORP INC                              1.718     55261R108   MAFB            35,187        1,096,976.35        1,474,335.29
+MAGMA DESIGN AUTOMATION                      0.000     559181102   LAVA            68,445        1,304,045.05        1,597,506.30
+MAGNA ENTERTAINMENT-CL A                     0.000     559211107   MECA           193,400          970,515.87          980,538.00
+MAGNUM HUNTER RESOURCES INC                  0.000     55972F203   MHR             81,200          629,488.40          772,212.00
+MAIN STR BKS INC NEW                         2.037     56034R102   MSBK            10,500          260,280.77          278,250.00
+MAINSOURCE FINANCIAL                         2.347     56062Y102   MSFG             7,560          183,287.06          231,865.20
+MAIR HOLDINGS INC                            0.000     560635104   MAIR            13,500          101,642.79           98,280.00
+MANDALAY RESORT GROUP                        2.415     562567107   MBG            124,300        4,190,390.65        5,558,696.01
+MANHATTAN ASSOCIATES INC                     0.000     562750109   MANH            26,300          836,796.08          726,932.00
+MANITOWOC COMPANY INC.                       0.897     563571108   MTW             39,300          925,263.54        1,226,160.00
+MANOR CARE INC.                              1.446     564055101   HCR            263,400        6,718,543.13        9,105,737.98
+MANPOWER INC                                 0.424     56418H100   MAN            147,000        5,009,938.69        6,920,760.00
+MANTECH INTERNATIONAL CORP-A                 0.000     564563104   MANT            10,200          217,280.72          254,490.00
+MANUFACTURERS SVCS L                         0.000     565005105   MSV             19,600           96,858.28          119,168.00
+MANUGISTICS GROUP INC.                       0.000     565011103   MANU            73,300          372,945.26          458,125.01
+MAPICS INC                                   0.000     564910107   MAPX            97,500          877,491.88        1,276,275.00
+MARATHON OIL CORP                            3.022     565849106 Q MRO            870,118       20,780,744.22       28,792,204.62
+MARCUS CORPORATION                           1.341     566330106   MCS             56,500          895,646.10          926,600.00
+MARINE PRODS CORP                            0.851     568427108   MPX              6,800          104,589.10          127,840.00
+MARINEMAX INC                                0.000     567908108   HZO             33,000          549,889.31          641,190.00
+MARITRANS INC                                2.633     570363101   TUG             19,614          309,879.52          327,749.94
+MARKEL CORP                                  0.000     570535104   MKL             17,800        4,404,587.07        4,512,478.03
+MARKETWATCH.COM INC                          0.000     570619106   MKTW             7,200           63,411.46           61,984.80
+MARRIOTT INT'L INC CL-A                      0.649     571903202   MAR            348,300       10,458,441.81       16,091,460.00
+MARSH & MCLENNAN COS.                        2.589     571748102 Q MMC          1,109,676       42,432,543.32       53,142,383.64
+MARSHALL & ILSLEY CORP                       1.882     571834100   MI             355,300       10,585,768.87       13,590,224.99
+MARTEK BIOSCIENCES CORP                      0.000     572901106   MATK            77,557        2,840,968.19        5,038,878.28
+MARTHA STEWART LIVING OMNIMEDIA INC          0.000     573083102   MSO             14,600          130,933.96          143,810.00
+MARTIN MARIETTA MATERIALS                    1.532     573284106   MLM             92,600        4,370,452.96        4,349,421.99
+MARVEL ENTERPRISES I                         0.000     57383M108   MVL             62,300        1,203,904.17        1,813,552.99
+MASCO CORP.                                  2.334     574599106 Q MAS          1,124,400       25,798,600.70       30,819,803.99
+MASSBANK CORP READ M                         2.159     576152102   MASB             4,500          162,845.29          191,700.00
+MASSEY ENERGY CO                             0.769     576206106 Q MEE             74,300          880,672.24        1,545,440.00
+MASTEC INC                                   0.000     576323109   MTZ             11,500           97,583.97          170,314.99
+MATERIAL SCIENCES CORP.                      0.000     576674105   MSC              9,500           97,430.90           96,045.00

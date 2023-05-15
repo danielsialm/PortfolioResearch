@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 086
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+TETRA TECH INC.                            0.000 TTEK    88162G103     12.2000        57,500.00        841,956.15        701,500.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     21.3700        16,600.00        391,568.99        354,741.99
+TEXAS INDUSTRIES INC                       1.234 TXI     882491103     24.3000        23,400.00        831,821.23        568,620.00
+THE MEN'S WEARHOUSE INC.                   0.000 MW      587118100     17.1500        46,900.00      1,208,812.35        804,335.00
+THERAGENICS CORPORATION                    0.000 TGX     883375107      4.0300        40,500.00        400,012.60        163,215.00
+THOMAS INDUSTRIES INC                      1.304 TII     884425109     26.0600        18,900.00        431,284.48        492,534.00
+THOMAS NELSON INC                          1.596 TNM     640376109Q    10.0200        22,775.00        255,693.36        228,205.50
+THOR INDUSTRIES INC                        0.116 THO     885160101     34.4300        31,700.00        396,520.66      1,091,431.00
+THQ INC                                    0.000 THQI    872443403     13.2500        43,850.00        882,487.59        581,012.49
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108      6.4500        22,800.00        817,269.78        147,060.00
+TIMKEN CO.                                 2.722 TKR     887389104Q    19.1000        70,304.00      1,218,079.18      1,342,806.40
+TOLL BROTHERS INC                          0.000 TOL     889478103     20.2000        78,100.00        984,176.65      1,577,620.00
+TOLLGRADE COMMUNICATIONS INC               0.000 TLGD    889542106     11.7300        17,600.00        479,993.73        206,448.01
+TOM BROWN INC                              0.000 TBI     115660201     25.1000        44,900.00      1,230,824.54      1,126,990.00
+TOO INC                                    0.000 TOO     890333107     23.5200        36,700.00        994,712.74        863,184.00
+TORO CO                                    0.751 TTC     891092108     63.9000        14,100.00        540,133.27        900,990.00
+TOWER AUTOMOTIVE INC                       0.000 TWR     891707101      4.5000        56,100.00        893,888.83        252,450.00
+TREDEGAR CORPORATION                       1.066 TG      894650100     15.0000        40,200.00        847,685.17        603,000.00
+TRIARC COM                                 0.000 TRY     895927101     26.2400        22,400.00        602,916.32        587,776.00
+TRIMBLE NAVIGATION LTD                     0.000 TRMB    896239100     12.4900        28,900.00        490,011.64        360,961.00
+TRIUMPH GROUP INC                          0.000 TGI     896818101     31.9400        17,400.00        808,234.94        555,756.00
+TRUSTCO BANK CORP. NY                      5.565 TRST    898349105     10.7800        82,145.00        794,974.85        885,523.10
+UCBH HOLDINGS INC                          0.471 UCBH    90262T308     42.4500        23,800.00        633,362.18      1,010,310.00
+UGI CORP                                   4.412 UGI     902681105     37.3900        30,700.00        669,306.36      1,147,873.00
+UICI                                       0.000 UCI     902737105     15.5500        53,100.00        954,554.59        825,705.00
+UIL HOLDINGS CORPORATION                   8.259 UIL     902748102     34.8700        16,200.00        623,627.56        564,894.00
+ULTIMATE ELECTRONICS INC                   0.000 ULTE    903849107     10.1500        12,600.00        345,833.08        127,890.00
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105      9.8390        23,500.00        475,043.43        231,216.50
+UNISOURCE ENERGY CORP                      2.891 UNS     909205106     17.2900        35,200.00        552,852.62        608,608.00
+UNIT CORP                                  0.000 UNT     909218109     18.5500        49,800.00        691,078.48        923,790.00
+UNITED BANKSHARES INC.                     3.441 UBSI    909907107     29.0610        46,700.00      1,257,598.40      1,357,148.70
+UNITED NATURAL FOODS INC.                  0.000 UNFI    911163103     25.3500        21,000.00        355,676.76        532,350.00
+UNITED STATIONERS INC                      0.000 USTR    913004107     28.8010        36,000.00      1,005,165.00      1,036,836.00
+UNIVERSAL FOREST PRODUCTS                  0.422 UFPI    913543104     21.3210        18,900.00        302,649.55        402,966.90
+URS CORPORATION                            0.000 URS     903236107     14.2300        30,600.00        706,708.88        435,438.00
+US FREIGHTWAYS CORP                        1.287 USFC    916906100     28.7500        28,700.00        831,656.83        825,125.00
+US ONCOLOGY INC.                           0.000 USON    90338W103      8.6700       102,300.00      1,095,362.73        886,941.00
+VALMONT INDUSTRIES                         1.546 VMI     920253101     19.4000        28,100.00        550,622.77        545,140.00
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     23.7610        37,300.00        879,258.10        886,285.30

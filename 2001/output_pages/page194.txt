@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 039
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 041
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-SCIENTIFIC ATLANTA INC.                      0.167     808655104 Q SFA            208,427        7,481,394.99        4,989,742.39
-SCIOS INC                                    0.000     808905103   SCIO            23,248          547,527.15          552,604.96
-SCM MICROSYSTEMS INC                         0.000     784018103   SCMM             1,300           14,851.00           19,032.00
-SCOTTISH ANNUITY & LIFE HLDG                 1.033     G7885T104   SCOT            31,800          512,612.82          615,330.00
-SCOTTS COMPANY                               0.000     810186106   SMG             28,200          667,252.34        1,342,320.00
-SCP POOL CORPORATION                         0.000     784028102   POOL            23,800          339,613.50          653,310.00
-SCPIE HOLDINGS INC.                          1.367     78402P104   SKP              8,900          267,014.97          260,325.00
-SEACHANGE INTERNATIONAL                      0.000     811699107   SEAC             7,800          255,842.70          266,136.00
-SEACOR SMIT INC.                             0.000     811904101   CKH             13,200          534,776.65          612,480.00
-SEALED AIR CORP.                             0.000     81211K100   SEE            103,855        4,053,194.32        4,239,361.10
-SEARS ROEBUCK & CO.                          1.931     812387108 Q S              607,941       26,039,095.44       28,962,309.24
-SECURE COMPUTING CORP                        0.000     813705100   SCUR            11,800          263,819.26          242,490.00
-SEI INVESTMENTS CO                           0.110     784117103   SEIC           221,800        4,035,482.66       10,005,398.00
-SEITEL INC                                   0.000     816074306   SEI             30,300          455,373.21          412,080.00
-SELECTIVE INSURANCE GROUP                    2.761     816300107   SIGI            35,300          814,110.42          767,069.00
-SEMPRA ENERGY                                4.073     816851109   SRE            478,890       10,512,341.96       11,756,749.49
-SEMTECH CORPORATION                          0.000     816850101   SMTC           140,600        4,616,593.21        5,018,014.00
-SENSIENT TECHNOLOGIES                        2.546     81725T100 Q SXT            103,200        1,798,755.65        2,147,592.00
-SEPRACOR INC.                                0.000     817315104   SEPR           168,100        8,989,218.21        9,591,785.98
-SEQUA CORP - CL A                            0.000     817320104   SQA.A           13,500          656,392.57          641,520.00
-SHAW GROUP                                   0.000     820280105   SGR             62,900        1,399,932.29        1,478,150.00
-SHERWIN-WILLIAMS CO                          2.109     824348106 Q SHW            160,442        3,771,940.98        4,412,155.01
-SHOPKO STORES INC                            0.000     824911101   SKO              4,800          128,207.05           45,600.00
-SICOR INC                                    0.000     825846108   SCRI            20,800          371,320.06          326,144.00
-SIEBEL SYSTEMS INC.                          0.000     826170102   SEBL         1,008,317       24,583,856.26       28,212,709.65
-SIERRA HEALTH SERVICES                       0.000     826322109   SIE            209,800        1,079,492.70        1,699,380.00
-SIERRA PACIFIC RESOURCES                     5.315     826428104   SRP            195,127        3,700,014.17        2,936,661.35
-SIGMA-ALDRICH                                0.862     826552101 Q SIAL           140,480        3,535,138.94        5,536,316.80
-SILICON VALLEY BANCSHARES                    0.000     827064106   SIVB           129,000        3,511,864.47        3,448,170.00
-SIMPSON MANUFACTURING CO                     0.000     829073105   SSD             45,600        2,291,178.78        2,612,880.01
-SINCLAIR BROADCAST GROUP-A                   0.000     829226109   SBGI            50,000          457,001.00          473,000.00
-SIX FLAGS INC.                               0.000     83001P109   PKS            213,700        4,756,267.07        3,286,706.00
-SKYLINE CORP.                                2.232     830830105 Q SKY             25,900          773,195.79          835,275.00
-SKYWEST INC                                  0.314     830879102   SKYW            75,300        1,323,778.01        1,916,385.00
-SL GREEN REALTY CORP                         5.047     78440X101-  SLG-O           29,100          889,577.14          893,661.00
-SLI INC                                      7.662     78442T108   SLI              4,000           10,480.00           10,440.00
-SMARTFORCE PLC - SPONSORED ADR               0.000     83170A206   SMTF            43,700        1,144,673.23        1,081,575.00
-SMITH (A.O.) CORP                            2.666     831865209   AOS             22,400          592,252.19          436,800.00
-SMITH INTERNATIONAL INC                      0.000     832110100   SII            101,300        5,312,328.91        5,431,706.00
-SMITHFIELD FOODS INC                         0.000     832248108   SFD            258,200        4,972,880.31        5,690,728.00
+STAPLES INC                                  0.000     855030102   SPLS           796,657       15,598,637.51       14,897,485.91
+STARBUCKS CORP.                              0.000     855244109   SBUX           623,050       10,435,763.97       11,869,102.53
+STARTEK INC                                  0.000     85569C107   SRT             13,600          742,509.93          257,720.00
+STARWOOD HOTELS & RESORTS                    2.680     85590A203   HOT            319,526       10,204,222.25        9,537,851.09
+STATE STREET CORP                            0.765     857477103   STT            583,702       22,765,184.33       30,498,429.50
+STATEN ISLAND BANCORP                        2.207     857550107   SIB             99,900          991,984.44        1,629,369.00
+STATION CASINOS INC                          0.000     857689103   STN             37,700          326,672.02          421,863.00
+STEAK N SHAKE COMPANY                        0.000     857873103   SNS             77,100          870,509.84          851,184.00
+STEEL DYNAMICS INC                           0.000     858119100   STLD            47,300          771,682.08          549,153.00
+STEEL TECHNOLOGIES INC                       1.762     858147101   STTX            35,200          276,298.00          319,616.00
+STEIN MART INC.                              0.000     858375108   SMRT            46,700          642,105.61          390,412.00
+STELLENT INC                                 0.000     85856W105   STEL            20,893          638,959.74          617,597.08
+STERICYCLE INC                               0.000     858912108   SRCL            17,319          667,343.82        1,054,380.72
+STERIS CORP                                  0.000     859152100 Q STE            211,984        4,625,298.33        3,872,947.68
+STERLING BANCSHARES INC                      1.198     858907108   SBIB            41,700          570,430.65          522,084.00
+STEWART & STEVENSON SERVICES                 1.807     860342104 Q SSSS            74,200        1,771,575.74        1,395,702.00
+STEWART INFO SVCS                            0.000     860372101   STC             30,300          617,662.66          598,425.00
+STILLWATER MINING COMPANY                    0.000     86074Q102   SWC             38,000          569,599.16          703,000.00
+STILLWELL FINANCIAL INC                      0.147     860831106   SV             582,041       13,767,518.58       15,843,156.03
+STMICROELECTRONICS NV-NY SHS                 0.094     861012102   STM             23,600          657,424.60          747,411.99
+STONE ENERGY CORP                            0.000     861642106   SGY             67,529        3,066,605.26        2,667,395.50
+STORAGE TECHNOLOGY CORP                      0.000     862111200   STK            236,000        5,272,564.02        4,878,120.00
+STRATOS LIGHTWAVE INC.                       0.000     863100103   STLW            63,144          332,703.46          388,335.60
+STRIDE RITE CORP                             3.053     863314100 Q SRR             48,300          620,595.94          316,365.00
+STRYKER CORP.                                0.137     863667101   SYK            331,247        9,507,752.11       19,334,887.41
+STURM RUGER & CO INC                         6.677     864159108   RGR             32,000          299,957.18          383,360.00
+SUN MICROSYSTEMS INC.                        0.000     866810104   SUNW         6,600,721      102,346,211.35       81,188,868.27
+SUNGARD DATA SYSTEMS                         0.000     867363103   SDS            584,200       11,834,650.43       16,900,906.00
+SUNOCO, INC.                                 2.678     86764P109 Q SUN             54,332        1,613,071.09        2,028,756.88
+SUNRISE ASSISTED LIVING INC                  0.000     86768K106   SRZ             12,800          327,639.33          372,608.02
+SUNTRUST BANKS INC.                          2.551     867914103 Q STI            553,481       32,734,790.71       34,703,258.68
+SUPER VALU STORES INC.                       2.531     868536103 Q SVU             92,132        1,543,860.46        2,037,959.83
+SUPERIOR INDUSTRIES INTL                     1.093     868168105   SUP            105,800        3,275,600.48        4,258,450.00
+SUPERTEX INC                                 0.000     868532102   SUPX            10,500          264,480.63          183,855.00
+SURMODICS INC                                0.000     868873100   SRDX            32,810        1,491,134.33        1,196,252.60
+SUSQUEHANNA BANCSHARES INC.                  3.836     869099101   SUSQ            43,500          794,985.40          906,975.00
+SWIFT ENERGY COMPANY                         0.000     870738101   SFY             38,000        1,138,419.76          767,600.00
+SWIFT TRANSPORTATION CO.                     0.000     870756103   SWFT           258,100        4,547,195.17        5,551,730.99
+SWS GROUP INC                                1.571     78503N107   SWS             34,420          832,231.98          875,989.00
+SYBASE INC.                                  0.000     871130100   SY             224,250        4,746,415.78        3,534,180.00

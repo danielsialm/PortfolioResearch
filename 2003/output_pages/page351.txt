@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 023
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+LAND SECURITIES GP                           6.478     3180943      LAND_        39,714.00          574,626.48
+LEGAL + GENERAL OR                          15.408     0560399      LGEN_       443,499.00          983,867.12
+LIFECO SERIES E                              3.408     2805623      28056         2,962.00           55,730.24
+LIFECO SERIES F                              4.154     2805690      GWOCN           965.00           18,000.33
+LINDE AG                                     8.438     5740817      00340        10,800.00          509,300.88
+LLOYDS TSB GROUP O                         140.360     0870612      LLOY_       392,394.00        3,436,244.38
+LOBLAW COMPANIES LTD                         0.695     2521800      L_CN         14,300.00          652,665.12
+LVMH MOET-HENNESSY                           5.575     4061412      MC_FP        12,374.00          567,423.71
+MAGNA INTERNATIONAL INC-CL A                 1.011     2554475      MG/A_        11,300.00          664,557.66
+MAN AG ORSH NPV                             31.991     5563520      MAN_G         9,100.00          243,312.85
+MANULIFE FINANCIAL CORP                      0.930     2492519      MFC_C        73,600.00        2,161,322.80
+MARKS+ SPENCER ORD                          12.087     3127489      MKS_L       194,681.00        1,072,138.36
+MATSUSHITA ELC IND                           0.000     6572707      6752_       200,200.00        2,240,651.15
+MATSUSHITA ELECTRIC WORKS                    0.012     6572729      6991_        98,000.00          844,555.64
+METRO AG NPV                                14.778     5041413      MEO_G        30,160.00        1,254,480.00
+MI DEVELOPMENTS                              0.000     2014140      CA553         5,650.00           90,273.61
+MILLEA HOLDINGS INC                          0.000     6513126      8766_           230.00        2,306,269.59
+MITCHELLS & BUTLERS                          7.558     3383991      MAB_L        50,079.99          275,221.51
+MITSUBISHI CORP Y5                           0.000     6596785      8058_       115,800.00          890,440.24
+MITSUBISHI ELEC CP                           0.000     6597045      6503_       196,700.00          777,833.96
+MITSUBISHI ESTATE                            0.000     6596729      8802_        88,817.00          704,478.29
+MITSUBISHI HVY IND                           0.000     6597067      7011_       359,400.00        1,206,160.26
+MITSUBISHI TOKYO F JPY50000                  0.000     6335171      8306_           312.00        1,917,664.61
+MITSUI + CO JPY50                            0.000     6597302      8031_       202,600.00        1,242,385.46
+MITSUI MARINE AND                            0.000     6870122      8752_       141,000.00          870,221.36
+MIZUHO FINANCIAL GROUP                       0.000     6591014      8411_           443.00        1,098,936.92
+MM02 PL                                      0.000     3087271      OOM_L       457,443.00          999,654.15
+MUNCHENER RUCKVS                            10.410     5294121      MUV2_        24,200.00        2,867,737.26
+MURATA MFG CO JPY5                           0.000     6610403      6981_        19,701.00        1,109,725.68
+NATIONAL BANK OF CANADA                      2.368     2077303      NA_CN        24,500.00          664,722.33
+NATIONAL BANK OF GREECE                      2.736     4625959      ETE_G        62,300.00        1,417,642.06
+NATIONAL GRID GROU                          14.612     3122387      NGT_L       210,255.00        1,436,001.57
+NEC CORP ORD JPY50                           0.000     6640400      6701_       157,056.00        1,461,716.55
+NESTLE SA CHF                                0.336     7123870      NESN_         9,375.00        2,041,555.78
+NEXT PLC                                     5.101     3208986      NXT_L        30,200.00          388,135.24
+NINTENDO CO LTD                              0.000     6639550      7974_        13,800.00        1,364,684.47
+NIPPON KAYAKU  CO. LTD.                      0.000     6640422      4272_       104,300.00          464,393.60
+NIPPON MITSUBISHI                            0.000     6641403      5001_       132,000.00          703,911.24
+NIPPON SANSO CORPORATION                     0.000     6640541      4091_        73,100.00          200,096.84

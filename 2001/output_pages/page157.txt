@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+ASOF10   Date 01/24/2002 Time 21:29:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 004
 
 Monthly Market Portfolio
 
@@ -6,9 +6,45 @@ Investment Desc                              Yield     Identifier F Ticker      
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - COMMON STOCK
-Instrument - FUTURES5  FUTURES EXPOSURE
+Instrument - COM       COMMON STOCK
 
-S&P FUTURES INDEX 03/02                      0.000     CD:SP02H0   CD:SP              500      142,843,750.00      143,650,000.00
-
-Instrument Total                      1                                               500      142,843,750.00      143,650,000.00
-
+1-800 CONTRACTS INC                          0.000     681977104   CTAC            18,000          253,554.92          223,920.00
+3COM CORP.                                   0.000     885535104   COMS           706,209        7,207,675.83        4,505,613.42
+4KIDS ENTERTAINMENT INC.                     0.000     350865101   KDE             11,900          224,946.88          238,357.00
+99 CENTS ONLY STORES                         0.000     65440K106   NDN             75,894        1,616,602.30        2,891,561.40
+A.T. CROSS CO.                               0.000     227478104 Q ATX            109,400          731,456.12          645,460.00
+AAR CORPORATION                              1.109     000361105 Q AIR             26,600          604,480.78          239,666.00
+AARON RENTS INC                              0.245     002535201   RNT             19,400          272,104.75          316,220.00
+ABAXIS INC                                   0.000     002567105   ABAX            56,300          302,534.07          321,473.00
+ABBOTT LABORATORIES                          1.506     002824100 Q ABT          3,131,533       91,363,070.20      174,582,964.75
+ABERCROMBIE & FITCH CO                       0.000     002896207   ANF            240,200        5,976,620.87        6,372,506.01
+ABM INDUSTRIES INC.                          2.105     000957100   ABM             23,300          567,048.50          730,455.00
+ACCREDO HEALTH INC                           0.000     00437V104   ACDO            43,419        1,309,549.09        1,723,734.30
+ACTEL CORPORATION                            0.000     004934105   ACTL            22,800          712,245.98          453,948.00
+ACTION PERFORMANCE CO                        0.000     004933107   ACTN            37,000          439,116.65        1,132,570.00
+ACTIVISION INC                               0.000     004930202   ATVI            16,650          256,023.72          433,066.50
+ACUITY BRANDS INC                            0.000     00508Y102   AYI             40,700          554,741.00          492,470.00
+ACXIOM CORP.                                 0.000     005125109   ACXM           175,200        3,509,005.25        3,060,744.00
+ADAPTEC INC                                  0.000     00651F108   ADPT           155,131        3,308,976.50        2,249,399.50
+ADC COMMUNICATIONS INC                       0.000     000886101   ADCT         1,732,469       30,076,131.17        7,969,357.40
+ADMINISTAFF INC                              0.000     007094105   ASF             50,600        1,425,893.28        1,386,946.01
+ADOBE SYSTEMS INC.                           0.161     00724F101 Q ADBE           434,632       11,390,392.29       13,495,323.58
+ADTRAN INC.                                  0.000     00738A106   ADTN            86,800        2,367,829.34        2,215,136.00
+ADVANCE PCS                                  0.000     00790K109   ADVP           155,800        3,571,223.12        4,572,730.00
+ADVANCED ENERGY INDUSTRIES                   0.000     007973100   AEIS            30,900          787,950.00          823,176.00
+ADVANCED FIBRE COMMUNICATION                 0.000     00754A105   AFCI           171,300        4,483,600.44        3,026,871.00
+ADVANCED MARKETING SERVICES                  0.219     00753T105   MKT             18,800          341,071.80          343,100.00
+ADVANCED MICRO DEVICES INC.                  0.000     007903107   AMD            565,213       10,836,841.86        8,964,278.18
+ADVANCED NEUROMODULATION SYSTEMS             0.000     00757T101   ANSI            43,700          798,804.86        1,540,425.00
+ADVANCED TISSUE SCIENCES INC.                0.000     00755F103   ATIS            63,600          329,124.27          277,296.00
+ADVENT SOFTWARE INC                          0.000     007974108   ADVS            97,540        5,298,472.12        4,872,123.01
+ADVO INC.                                    0.000     007585102   AD              20,100          405,234.93          864,300.00
+AEROFLEX INC                                 0.000     007768104   ARXX           175,000        2,854,003.67        3,312,749.99
+AES CORP                                     0.000     00130H105   AES          1,980,449       61,692,182.98       32,380,357.47
+AETNA INC.                                   0.121     00817Y108   AET            224,066        5,323,753.38        7,391,937.32
+AFC ENTERPRISES                              0.000     00104Q107   AFCE            16,819          332,939.06          477,491.41
+AFFILIATED COMPUTER SERVICES                 0.000     008190100   ACS            131,400        8,509,104.62       13,945,482.00
+AFFILIATED MANAGERS GROUP                    0.000     008252108   AMG              5,600          325,419.42          394,688.00
+AFLAC INC                                    0.814     001055102   AFL            982,566       22,228,794.24       24,131,820.96
+AGCO CORP.                                   0.000     001084102   AG             250,500        4,398,053.32        3,952,890.00
+AGILE SOFTWARE CORP.                         0.000     00846X105   AGIL            39,860          533,901.86          686,389.20

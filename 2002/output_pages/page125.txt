@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 097
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 500
+Instrument - COM       COMMON STOCK
+
+MORGAN STANLEY DEAN WITTER & C             2.304 MWD     617446448Q    39.9200       168,565.00      8,306,557.89      6,729,114.80
+NATIONAL CITY CORP                         4.465 NCC     635405103Q    27.3200         8,900.00        243,932.74        243,148.00
+NEWMONT MNG. CORP. HLDG CO                 0.413 NEM     2636607  Q    29.0300        16,770.00        459,403.55        486,833.10
+NOBLE CORP                                 0.000 NE      G65422100     35.1500        33,500.00      1,004,763.09      1,177,525.00
+NVR INC                                    0.000 NVR     62944T105    325.5000         3,345.00      1,098,235.67      1,088,797.50
+OCCIDENTAL PETROLEUM CORP.                 3.655 OXY     674599105Q    28.4500       189,616.00      5,315,406.82      5,394,575.20
+OLD REPUBLIC INT'L CORP.                   2.285 ORI     680223104     28.0000        22,200.00        688,231.08        621,600.00
+ORACLE SYS. CORP.                          0.000 ORCL    68389X105     10.8000       494,475.00      5,753,897.77      5,340,330.00
+OXFORD HEALTH PLANS                        0.000 OHP     691471106     36.4500        45,380.00      1,733,116.66      1,654,101.00
+PACCAR INC                                 1.734 PCAR    693718108Q    46.1300         8,843.00        417,842.95        407,927.59
+PACIFIC GAS & ELEC. CO.                    0.000 PCG     69331C108Q    13.9000        21,700.00        640,550.12        301,630.00
+PACTIV CORPORATION                         0.000 PTV     695257105     21.8600        61,224.00      1,183,134.13      1,338,356.64
+PARK PLACE ENTERTAINMENT CORPO             0.000 PPE     700690100      8.4000         3,800.00         35,944.96         31,920.00
+PENTAIR INC.                               2.199 PNR     709631105Q    34.5500           206.00          6,911.42          7,117.30
+PEOPLESOFT INC                             0.000 PSFT    712713106     18.3000         4,181.00         88,525.95         76,512.30
+PEPSI BOTTLING GROUP INC                   0.155 PBG     713409100     25.7000        63,347.00      1,725,731.67      1,628,017.90
+PEPSIAMERICAS INC                          0.297 PAS     71343P200Q    13.4300         3,000.00         42,986.10         40,290.00
+PEPSICO INC.                               1.421 PEP     713448108Q    42.2200       218,985.00      8,586,996.69      9,245,546.70
+PETSMART INC                               0.000 PETM    716768106     17.1300        11,622.00        221,208.06        199,084.86
+PFIZER INC.                                1.962 PFE     717081103Q    30.5700       414,978.00     10,169,201.59     12,685,877.46
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     29.2700         3,725.00         87,383.90        109,030.75
+PHARMACIA CORPORATION                      1.291 PHA     71713U102     41.8000       133,618.00      5,451,081.43      5,585,232.40
+PHILIP MORRIS COS                          6.316 MO      718154107Q    40.5300       121,896.00      4,186,114.61      4,940,444.88
+PINNACLE WEST CAPITAL CORP                 4.986 PNW     723484101Q    34.0900        19,940.00        643,961.77        679,754.60
+PITNEY-BOWES, INC.                         3.613 PBI     724479100Q    32.6600        15,570.00        605,714.47        508,516.20
+PITTSTON BRINK'S GROUP                     0.541 PZB     725701106Q    18.4800         1,200.00         28,842.00         22,176.00
+PMI GROUP INC.                             0.332 PMI     69344M101     30.0400        10,893.00        367,933.95        327,225.72
+PNC FINANCIAL SERVICES GROUP               4.582 PNC     693475105Q    41.9000        32,400.00      1,570,974.45      1,357,560.00
+PPG INDUSTRIES INC.                        3.429 PPG     693506107Q    50.1500         3,400.00        198,208.77        170,510.00
+PRAXAIR INC.                               1.315 PX      74005P104Q    57.7700         4,826.00        241,883.39        278,798.02
+PRECISION CASTPARTS CORP                   0.494 PCP     740189105     24.2500        19,700.00        456,662.52        477,725.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-BAR  IT-BAR         1.0000     2,433,440.28      2,433,440.42      2,433,440.30
+PROCTER & GAMBLE CO                        1.908 PG      742718109Q    85.9400       132,670.00      9,995,184.21     11,401,659.79
+PROTECTIVE LIFE CORP                       2.180 PL      743674103     27.5200           900.00         29,441.97         24,768.00
+PROVIDIAN FINANCIAL CORP W/I               1.849 PVN     74406A102      6.4900         6,227.00        157,504.07         40,413.23
+PRUDENTIAL FINANCIAL INC                   1.260 PRU     744320102     31.7400         2,140.00         67,621.43         67,923.60
+PUBLIC SVC ENTERPRISES                     6.729 PEG     744573106Q    32.1000        38,513.00      1,260,192.37      1,236,267.30
+QUALCOMM INC                               0.000 QCOM    747525103     36.3900        32,159.00      1,207,638.64      1,170,266.01
+QUINTILES TRANSNATIONAL CORP.              0.000 QTRN    748767100     12.1000         6,830.00         82,386.19         82,643.00

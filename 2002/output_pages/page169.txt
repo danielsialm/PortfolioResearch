@@ -1,0 +1,52 @@
+ASOF02   Date 01/21/2003 Time 18:53:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 141
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT & CO -
+Instrument - COM       COMMON STOCK
+
+PRIDE INTERNATIONAL INC.                   0.000 PDE     74153Q102     14.9000        88,000.00      1,474,890.95      1,311,200.00
+PRIME MONEY MARKET ACCOUNT                 0.000 IT-LOR  IT-LOR         1.0000     3,604,371.30      3,604,371.44      3,604,371.31
+PROQUEST COMPANY                           0.000 PQE     74346P102     19.6000        19,700.00        523,098.49        386,120.02
+QUAKER CHEM CORP                           3.620 KWR     747316107Q    23.2000         6,500.00        130,096.30        150,800.00
+QUANEX CORP                                1.910 NX      747620102     33.5000        36,700.00      1,321,606.20      1,229,450.00
+RAYOVAC CORP                               0.000 ROV     755081106     13.3300        46,400.00        631,261.32        618,512.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     31.6400        24,100.00        612,077.73        762,524.00
+ROGERS CORP.                               0.000 ROG     775133101     22.2500        72,800.00      2,384,789.96      1,619,800.00
+RUSS BERRIE & CO INC                       3.078 RUS     782233100     33.7800        12,600.00        344,191.11        425,628.00
+RUSSELL CORP                               0.955 RML     782352108Q    16.7400        59,200.00        992,870.39        991,008.00
+SCANSOURCE INC                             0.000 SCSC    806037107     49.3000        22,300.00      1,098,637.33      1,099,390.01
+SELECTIVE INSURANCE GROUP                  2.382 SIGI    816300107     25.1800        42,700.00        930,062.56      1,075,186.00
+SIERRA HEALTH SERVICES                     0.000 SIE     826322109     12.0100        92,200.00        960,180.62      1,107,322.00
+SIMPSON MANUFACTURING CO                   0.000 SSD     829073105     32.9000        15,100.00        371,084.76        496,790.00
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     19.8400        87,600.00      1,596,814.74      1,737,984.00
+SPINNAKER EXPLORATION CO                   0.000 SKE     84855W109     22.0500         2,100.00         54,224.88         46,305.01
+STERIS CORP                                0.000 STE     859152100Q    24.2500         7,700.00        121,202.14        186,725.00
+STEWART ENTERPRISES INC. CL-A              0.000 STEI    860370105      5.5710        30,000.00        168,479.78        167,130.00
+STONE ENERGY CORP                          0.000 SGY     861642106     33.3600        31,029.00      1,288,889.60      1,035,127.45
+SUPERIOR INDUSTRIES INTL                   1.208 SUP     868168105     41.3600        31,600.00      1,072,838.70      1,306,976.00
+SWIFT TRANSPORTATION CO.                   0.000 SWFT    870756103     20.0180        18,300.00        306,709.69        366,329.40
+SYMBOL TECHNOLOGIES INC                    0.243 SBL     871508107      8.2200       196,100.00      1,624,601.37      1,611,942.00
+TBC CORP                                   0.000 TBCC    872180104     12.0100        43,200.00        550,869.96        518,832.00
+TELEFLEX INC                               1.678 TFX     879369106Q    42.8900         5,500.00        215,511.15        235,895.00
+TENNANT COMPANY                            2.576 TNC     880345103     32.6000        38,500.00      1,609,091.51      1,255,100.00
+TEXAS REGIONAL BANCSHARES INC              1.350 TRBS    882673106     35.5410         8,400.00        260,398.82        298,544.40
+TITAN CORP                                 0.000 TTN     888266103     10.4000        68,000.00        696,428.29        707,200.00
+TRIZETTO GROUP INC                         0.000 TZIX    896882107      6.1400        17,400.00        185,745.92        106,836.00
+TWEETER HOME ENTERTAINMENT GRO             0.000 TWTR    901167106      5.8600        34,900.00        276,757.92        204,514.00
+UNIVERSAL COMPRESSION HLDGS                0.000 UCO     913431102     19.1300        15,300.00        477,468.76        292,689.00
+VALSPAR CORP                               1.358 VAL     920355104     44.1800         6,700.00        189,118.42        296,006.00
+WEBSTER FINANCIAL CORPORATION              2.183 WBS     947890109     34.8000        30,800.00        953,623.54      1,071,840.00
+WEST MARINE INC                            0.000 WMAR    954235107     13.6900        26,000.00        321,347.13        355,940.00
+WESTPORT RESOURCES CORP                    0.000 WRC     961418100     20.8000        26,700.00        556,202.05        555,360.00
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     57.3000        29,700.00      1,287,297.57      1,701,810.00
+
+Instrument Total           113                                                     7,890,785.30     79,434,652.50     80,574,361.68
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+EASTGROUP PROPERTY INC                     7.372 EGP     277276101     25.5000        19,600.00        486,487.21        499,800.00

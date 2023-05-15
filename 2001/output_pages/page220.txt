@@ -1,22 +1,32 @@
-ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 014
+ASOF04   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 001
 
 Monthly Market Portfolio
 
-Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+Portfolio ID                                                                          Par/Shares      Book Value      Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - REAL ESTATE
-Portfolio  - REU       RE OPPORTUNITY FUND
-Instrument - U         OPPORTUNITY FUNDS
+Group - INTERNATIONAL
 
-AEW PARTNERS II                                                0.000         RAEWII                 21,861,379.30     28,639,868.01
-DLJ R.E. CAPITAL PARTNERS                                      0.000         RDLJRE                 11,423,642.90     12,677,263.01
-WESTBROOK FUND I               MISC                           11.000         RTGRRE                 10,455,779.26     19,379,418.99
-WESTBROOK FUND II              MISC, USA                       0.000         RWSTBK                  7,470,150.84      8,319,976.99
-WESTBROOK FUND III                                             0.000         RWSTB3                 63,293,733.33     73,111,790.00
-WESTBROOK FUND IV              MISC, US                        0.000         RWSTB4                 11,220,000.00     10,685,564.00
+EQS       EQUITY SWAPS                                                                           1,711,487,708.42    1,644,578,442.14
+I-ACT     INTERNAL EMERGING                                                                        635,550,673.50      570,912,375.94
+I-ARROW   ARROWSTREET CAPITAL                                                                      850,023,172.29      794,086,949.59
+I-BABS    COLONIAL FIRST STATE                                                                     365,303,873.25      343,608,738.88
+I-BERNS   SANFORD BERNSTEIN EA                                                                   1,215,040,446.74    1,109,718,934.20
+I-SANF    BERSTEIN EMERGING MA                                                                     408,405,971.56      336,077,261.34
+I-CASTLE  BLACKROCK INTERNATIO                                                                          20,455.23           20,487.45
+I-EAFE    INTERNAL EAFE INDEX                                                                      796,042,090.66      683,354,004.88
+I-EAFEVAL EAFE VALUE                                                                               860,672,245.03      797,379,219.56
+I-EAP     EMERGING ANALYST POR                                                                     256,559,826.97      248,216,380.28
+I-PROVEAFESTATE STREET PROVISI                                                                     766,476,747.55      713,341,075.00
+I-FORCO   FOREIGN & COLONIAL                                                                       455,741,254.66      421,473,010.47
+I-JPMOR   JP MORGAN                                                                                    117,273.11          451,899.88
+I-GEN     GENESIS                                                                                  540,300,831.65      480,369,033.74
+I-LAZAR   EAFE TRANSITION ACCO                                                                       9,244,146.13        3,707,268.81
+I-MARVIN  MARVIN & PALMER_EAFE                                                                   1,306,485,499.80    1,310,294,592.58
+I-MARVEM  MARVIN & PALMER EMER                                                                     236,762,136.17      264,379,927.53
+I-PAN     INTERNAL EAFE TOPDOW                                                                     281,839,529.23      259,998,137.14
+I-QUAN    EAFE QUANTITATIVE PO                                                                     328,571,694.30      327,099,528.73
+I-SCHR    SCHRODER CAPITAL                                                                         433,087,021.32      423,788,756.41
 
-Instrument Total             6                                                                     125,724,685.63    152,813,881.00
-
-Portfolio Total              6                                                                     125,724,685.63    152,813,881.00
+Group Total                                                 1,700,113,730.91 / 7,918,663,469.66 11,457,732,597.57   10,732,856,024.55
 

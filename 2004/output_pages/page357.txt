@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 040
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+MALAYSIA INTL SHIPPING-FRGN                  0.602     6558031      MISF_       400,832.00          722,134.11
+MATAV RT                                     0.044     4577469      MATAV       400,000.00        1,578,229.69
+MAXIS COMMUNICATIONS BHD                     0.586     6530523      MAXIS       530,000.00          683,211.84
+MIGROS TRL1000                               0.000     4593034      MIGRS    31,865,000.00          137,406.93
+MOBINIL-EGYPTIAN MOBILE SERV                 1.014     6103925      EMPN_        28,000.00          412,226.16
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.002     4742494      MOL_H        64,000.00        1,015,125.98
+MTN GROUP LIMITED                            0.167     6563206      MTN_S       500,000.00          524,616.44
+NASPERS ZAR 0.02 S                           0.090     6622691      NPN_S        60,000.00          398,085.69
+NATIONAL PETROCHEMICAL-FOREI                 0.120     6627298      NPC/F       150,000.00          495,376.38
+NATURA COSMETICOS                            0.497     B014K55      NATU3        20,000.00          231,305.45
+NIEN HSING TEXTILE CO LTD                    0.215     6591928      1451_     2,784,400.00        2,172,974.95
+OAO GAZPROM-GDR                              0.513     5140989      OGZD_        34,000.00          763,976.28
+OIL & NATURAL GAS CORP LTD                   0.084     6139362      ONGC_        70,000.00        1,367,837.07
+OLD MUTUAL                                   0.060     6155131      OML_S     1,150,000.00        1,640,220.94
+ORASCOM CONSTRUCTIONS INDUS                  0.170     B03BN88      ORCI_        40,000.00          122,061.07
+ORBIS PLN2                                   0.458     5349173      ORB_P        98,089.00          495,729.75
+OTP BANK                                     0.006     7320154      OTP_H       100,000.00          483,782.02
+PETROCHINA CO                                0.605     6226576      857_H    10,302,000.00        2,496,921.47
+PHOENIXTEC POWER                             0.208     6685508      2411_     2,615,000.00        1,937,826.94
+PICC PROPERTY & CASUALTY                     0.000     6706250      2328_     2,600,000.00          984,255.45
+POHANG IRON+STEEL                            0.004     6693233      00549        37,989.00        3,321,263.93
+POLSKI KONCERN NAFTOWY ORLEN                 0.574     5810066      PKN_P       264,000.00        1,256,217.79
+POONGSAN CORPORATION                         0.004     6694474      00581       137,000.00        1,189,634.78
+PREMIER IMAGE TECHNOLOGY                     0.216     6143330      2394_     3,600,000.00        3,513,436.92
+PRESIDENT CHAIN STORE CORP                   0.153     6704986      2912_     1,200,000.00        1,847,742.40
+PROKOM SOFTWARE SA                           0.340     5372878      PKM_P         5,000.00          173,667.67
+PT ANEKA TAMBANG TBK                         0.000     6053859      ANTM_       391,375.00           31,438.87
+PT ASTRA INTERNATIONAL INC                   0.000     6291712      ASII_     1,041,000.00          535,527.97
+PT BANK CENTRAL ASIA                         0.000     B01C1P6      BBCA_     1,908,000.00          334,622.85
+PT BANK PAN INDONESIA                        0.000     6545248      PNBN_     3,644,285.00           64,222.51
+PT BHAKTI INVESTAMA                          0.000     6211516      BHIT_       527,500.00           39,499.81
+PT INDOFOOD SUKSES MAK                       0.000     6283979      INDF_     2,341,000.00          255,621.95
+PT KALBE FARMA IDR                           0.000     6728102      KLBF_     4,873,000.00          120,127.67
+PT MATAHARI PUTRA PRIMA                      0.000     6291701      MPPA_       613,500.00          111,005.26
+PT RAMAYANA LESTARI SENTOSA                  0.000     B03CPL8      RALS_     1,787,500.00           15,512.42
+PT TELEKOMUNIKASI                            0.000     B02ZK79      TLKM_     5,154,000.00        1,590,179.60
+PTT EXPLORATION & PROD-FOR                   0.060     6290333      PTTEP        87,600.00          263,150.60
+PTT PCL/FOREIGN                              0.059     6420390      PTT/F       330,000.00        1,152,759.48
+PUBLIC BANK BHD                              1.211     B012W53      PBKF_     1,210,175.00        1,062,895.51

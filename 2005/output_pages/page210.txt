@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 177
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6NC       NEXT CENTURY - 2000
+Instrument - COM       COMMON STOCK
+
+ADAMS RESPIRATORY THERAPEUTICS             0.000 ARXT    00635P107     40.6600        25,335.00      1,133,024.11      1,030,121.10
+ALLION HEALTHCARE INC                      0.000 ALLI    019615103     11.6500        54,135.00        839,747.60        630,672.75
+AMERICAN HEALTHWAYS                        0.000 AMHC    02649V104     45.2500        44,263.00      1,299,805.94      2,002,900.75
+AQUANTIVE INC                              0.000 AQNT    03839G105     25.2400        48,890.00        951,546.87      1,233,983.60
+ASPECT MEDICAL SYSTEMS INC                 0.000 ASPM    045235108     34.3500        29,200.00        797,235.37      1,003,020.00
+ASV INC                                    0.000 ASVI    001963107     24.9800        86,025.00      1,462,001.62      2,148,904.50
+BJ'S RESTAURANTS INC                       0.000 BJRI    09180C106     22.8600        58,145.00        428,336.45      1,329,194.70
+BUCYRUS INTERNATIONAL INC-A                0.436 BUCY    118759109     52.7000        33,905.00        901,124.61      1,786,793.50
+CARBO CERAMICS, INC.                       0.707 CRR     140781105     56.5200        16,820.00        869,979.57        950,666.40
+CARRIZO OIL & GAS INC                      0.000 CRZO    144577103     24.7100        23,140.00        407,554.30        571,789.40
+CHICAGO BRIDGE & IRON COMPANY              0.357 CBI     167250109     25.2100        39,200.00        552,100.59        988,232.00
+COLDWATER CREEK INC.                       0.000 CWTR    193068103     30.5300        25,405.00        653,825.48        775,614.65
+CORPORATE EXECUTIVE BOARD CO               0.445 EXBD    21988R102     89.7000         8,000.00        252,585.63        717,600.00
+COSI INC                                   0.000 COSI    22122P101      8.3000        67,170.00        649,850.83        557,511.00
+COSTAR GROUP INC                           0.000 CSGP    22160N109     43.1700        38,470.00      1,542,531.11      1,660,749.90
+DRIL-QUIP INC                              0.000 DRQ     262037104     47.2000        19,970.00      1,038,440.00        942,584.00
+EQUINIX INC                                0.000 EQIX    29444U502     40.7600        45,020.00      1,716,261.53      1,835,015.20
+ESSEX CORP                                 0.000 KEYW    296744105     17.0500        36,090.00        802,966.90        615,334.50
+FREIGHTCAR AMERICA INC                     0.249 RAIL    357023100     48.0800        15,000.00        610,448.47        721,200.00
+HEALTHEXTRAS INC                           0.000 HLEX    422211102     25.1000        64,665.00        985,719.61      1,623,091.50
+HIBBETT SPORTING GOO                       0.000 HIBB    428565105     28.4800        32,088.00        509,001.44        913,866.24
+HOLOGIC INC.                               0.000 HOLX    436440101     37.9200        53,600.00        900,514.04      2,032,512.00
+HORNBECK OFFSHORE SERVICES INC             0.000 HOS     440543106     32.7000        20,405.00        672,718.97        667,243.50
+HYDRIL                                     0.000 HYDL    448774109     62.6000        14,780.00        994,138.01        925,228.00
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     31.9000        20,465.00        702,806.13        652,833.50
+JLG INDUSTIRES, INC.                       0.043 JLG     466210101     45.6600        35,240.00        596,018.58      1,609,058.40
+JOY GLOBAL INC                             1.125 JOYG    481165108     40.0000        49,717.00        626,852.46      1,988,680.00
+KNIGHT TRANSPORTATION INC                  0.385 KNX     499064103     20.7300        36,757.50        318,801.17        761,982.98
+KYPHON INC                                 0.000 KYPH    501577100     40.8300        44,240.00        537,989.04      1,806,319.20
+LANDSTAR SYSTEM INC.                       0.239 LSTR    515098101     41.7400        23,785.00        592,536.39        992,785.90
+LAUREATE EDUCATION INC                     0.000 LAUR    518613104     52.5100        27,475.00      1,212,152.19      1,442,712.25
+LCA-VISION INC.                            1.010 LCAV    501803308     47.5100        26,292.00        311,439.13      1,249,132.92
+LIFECELL CORPORATION                       0.000 LIFC    531927101     19.0700        35,355.00        488,792.50        674,219.85
+MATRIA HEALTHCARE IN                       0.000 MATR    576817209     38.7600        29,672.00        862,906.26      1,150,086.72
+MICROS SYSTEMS INC.                        0.000 MCRS    594901100     48.3200        19,295.00        893,213.64        932,334.40
+NEUROMETRIX INC                            0.000 NURO    641255104     27.2800        20,645.00        606,201.67        563,195.60
+NEUSTAR INC-CLASS A                        0.000 NSR     64126X201     30.4900        21,445.00        667,353.23        653,858.05
+NUTRI/SYSTEM INC                           0.000 NTRI    67069D108     36.0200        39,875.00      1,015,421.44      1,436,297.50
+PDF SOLUTIONS INC                          0.000 PDFS    693282105     16.2500        40,055.00        624,139.22        650,893.75

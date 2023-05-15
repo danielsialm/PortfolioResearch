@@ -1,0 +1,45 @@
+ASOF02   Date 01/21/2003 Time 18:53:11   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 138
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 600 VA
+Instrument - COM       COMMON STOCK
+
+ULTIMATE ELECTRONICS INC                   0.000 ULTE    903849107     10.1500        22,900.00        288,479.44        232,435.00
+ULTRATECH STEPPER INC                      0.000 UTEK    904034105      9.8390        17,684.00        172,976.05        173,992.88
+UNIT CORP                                  0.000 UNT     909218109     18.5500        42,900.00        814,294.24        795,795.00
+UNITED AUTO GROUP INC                      0.000 UAG     909440109     12.4700         5,600.00        136,865.97         69,832.00
+UNITED DEFENSE INDUSTRIES INC              0.000 UDI     91018B104     23.3000        10,200.00        230,826.00        237,660.00
+UNIVERSAL FOREST PRODUCTS                  0.422 UFPI    913543104     21.3210        22,000.00        466,369.00        469,062.00
+US FREIGHTWAYS CORP                        1.287 USFC    916906100     28.7500        30,500.00        882,379.70        876,875.00
+US ONCOLOGY INC.                           0.000 USON    90338W103      8.6700        16,000.00        129,680.00        138,720.00
+VERITAS DGC INC.                           0.000 VTS     92343P107      7.9000        74,600.00        842,242.51        589,340.00
+VERITY INC.                                0.000 VRTY    92343C106     13.3910        19,600.00        408,856.00        262,463.60
+VIASYS HEALTHCARE INC                      0.000 VAS     92553Q209     14.8900        19,800.00        296,911.00        294,822.00
+VICOR CORP                                 0.000 VICR    925815102      8.2510           200.00          1,649.80          1,650.20
+VINTAGE PETROLEUM INC.                     1.516 VPI     927460105Q    10.5500        55,500.00        620,128.44        585,525.00
+WASHINGTON FEDERAL INC.                    3.702 WFSL    938824109     24.8500        34,027.00        805,399.01        845,570.95
+WATSCO INC.                                0.976 WSO     942622200     16.3800         8,500.00        104,541.00        139,230.00
+WELLMAN INC                                2.668 WLM     949702104     13.4900        15,900.00        234,207.00        214,491.00
+WHITNEY HOLDING CORP                       3.600 WTNY    966612103     33.3300        11,401.00        379,575.05        379,995.33
+WOLVERINE TUBE CO.                         0.000 WLV     978093102      5.7100        15,500.00        133,681.92         88,505.00
+WOLVERINE WORLD WIDE                       1.191 WWW     978097103     15.1100        33,900.00        469,196.15        512,229.00
+YELLOW CORP                                0.000 YELL    985509108     25.1910        20,200.00        500,067.07        508,858.20
+ZALE CORP.                                 0.000 ZLC     988858106     31.9000        23,400.00        893,586.88        746,460.00
+
+Instrument Total           216                                                     5,780,594.26     75,134,385.20     69,725,122.25
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+LASALLE HOTEL PROPERTIES                   6.000 LHO     517942108     14.0000         2,600.00         36,179.00         36,400.00
+PARKWAY PROPERTYS INC                      7.411 PKY     70159Q104     35.0800         1,700.00         61,297.06         59,636.00
+WINSTON HOTELS INC                         7.692 WXH     97563A102      7.8000         5,400.00         47,262.19         42,120.00
+
+Instrument Total             3                                                         9,700.00        144,738.25        138,156.00
+
+Portfolio Total            219                                                     5,790,294.26     75,279,123.45     69,863,278.25
+

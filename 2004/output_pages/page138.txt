@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:50   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 106
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+MOTOROLA INC                               0.930 MOT     620076109Q    17.2000       310,569.00      4,888,404.23      5,341,786.80
+NATIONWIDE FINANCIAL SERVICE               1.883 NFS     638612101     38.2300        10,940.00        397,107.87        418,236.20
+NISOURCE INCORPORATED                      4.038 NI      65473P105Q    22.7800        27,300.00        580,749.34        621,894.00
+NORFOLK SOUTHERN CORP.                     1.105 NSC     655844108Q    36.1900        12,720.00        334,082.49        460,336.80
+NORTH FORK BANK                            3.050 NFB     659424105     28.8500        25,509.00        556,133.97        735,934.65
+NSTAR CO.                                  4.274 NST     67019E107     54.2800         2,940.00        144,822.82        159,583.20
+NUCOR CORP                                 0.993 NUE     670346105Q    52.3400        19,208.00        879,540.60      1,005,346.72
+NVR INC                                    0.000 NVR     62944T105    769.4000         7,643.00      2,919,027.82      5,880,524.20
+OCCIDENTAL PETROLEUM CORP.                 1.884 OXY     674599105Q    58.3600       128,883.00      3,659,149.44      7,521,611.88
+ODYSSEY HOLDINGS CORP                      0.495 ORH     67612W108     25.2100           365.00          8,980.35          9,201.65
+OUTBACK STEAKHOUSE INC                     1.135 OSI     689899102     45.7800         7,160.00        305,438.42        327,784.80
+OVERSEAS SHIPHOLDING GROUP                 1.268 OSG     690368105     55.2000         3,500.00        158,023.22        193,200.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     22.2600         4,291.00         91,413.88         95,517.66
+PACTIV CORPORATION                         0.000 PTV     695257105     25.2900        47,897.00        947,643.11      1,211,315.13
+PARKER-HANNIFIN CORP.                      1.003 PH      701094104Q    75.7400         3,038.00        174,725.05        230,098.12
+PEPSI BOTTLING GROUP INC                   0.739 PBG     713409100     27.0400       149,733.00      3,467,072.71      4,048,780.32
+PEPSIAMERICAS INC                          1.412 PAS     71343P200Q    21.2400        40,763.00        672,057.77        865,806.12
+PETCO ANIMAL SUPPLIES INC                  0.000 PETC    716016209     39.4800         6,864.00        236,643.29        270,990.72
+PFIZER INC.                                2.826 PFE     717081103Q    26.8900       249,274.00      6,807,418.78      6,702,977.86
+PHELPS DODGE CORP.                         1.010 PD      717265102Q    98.9200        68,720.00      5,653,955.46      6,797,782.40
+PILGRIMS PRIDE CORP                        0.195 PPC     721467108     30.6800        25,245.00        728,523.40        774,516.60
+POGO PRODUCING CO                          0.515 PPP     730448107     48.4900        51,081.00      2,290,752.63      2,476,917.69
+POLARIS INDUSTRIES INC.                    1.352 PII     731068102     68.0200         2,001.00        133,417.66        136,108.02
+POLYCOM INC.                               0.000 PLCM    73172K104     23.3200        10,689.00        216,048.15        249,267.48
+POPULAR INC                                2.219 BPOP    733174106     28.8300         1,655.00         43,159.30         47,713.65
+PPG INDUSTRIES INC.                        2.640 PPG     693506107Q    68.1600         9,131.00        565,601.54        622,368.96
+PREMCOR INC                                0.000 PCO     74045Q104     42.1700        25,020.00        886,146.06      1,055,093.40
+PRIME MONEY MARKET - 5BA                   0.000 IT-BAR  IT-BAR         1.0000     3,025,350.56      3,025,350.59      3,025,350.64
+PROCTER & GAMBLE CO                        1.815 PG      742718109Q    55.0800        37,064.00      1,677,740.41      2,041,485.12
+PUGET ENERGY INC                           4.048 PSD     745310102Q    24.7000         5,567.00        127,224.93        137,504.90
+QLOGIC CORPORATION                         0.000 QLGC    747277101     36.7300         7,678.00        271,068.33        282,012.94
+QUALCOMM INC                               0.660 QCOM    747525103     42.4000        99,514.00      3,623,450.62      4,219,393.60
+RADIOSHACK CORP                            0.760 RSH     750438103Q    32.8800         9,003.00        253,459.61        296,018.64
+REGAL ENTERTAINMENT GROUP                  5.783 RGC     758766109     20.7500        49,161.00      1,017,647.60      1,020,090.75
+REGIS CORP                                 0.346 RGS     758932107     46.1500         6,084.00        245,957.85        280,776.60
+REINSURANCE GROUP AM                       0.743 RGA     759351109     48.4500        10,216.00        471,392.34        494,965.20
+RENAISSANCERE HOLDINGS LTD                 1.459 RNR     G7496G103     52.0800         1,917.00         95,124.76         99,837.36
+RENT-A-CENTER INC                          0.000 RCII    76009N100     26.5000        38,040.00      1,047,417.56      1,008,060.00
+RESPIRONICS INC                            0.000 RESP    761230101     54.3600         4,315.00        203,816.13        234,563.40

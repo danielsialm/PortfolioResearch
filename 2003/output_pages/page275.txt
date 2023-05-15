@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:28   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 043
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+KFX INC                                      0.000     48245L107   KFX             12,000           53,774.17           90,600.00
+KIMBALL INTL INC                             4.115     494274103   KBALB           26,600          404,662.07          413,630.00
+KIMBERLY-CLARK CORP                          2.301     494368103 Q KMB            969,000       48,547,953.40       57,258,210.01
+KINDER MORGAN INC.                           2.707     49455P101   KMI            149,099        5,974,207.19        8,811,810.00
+KINDRED HEALTHCARE I                         0.000     494580103   KIND            42,338        1,369,942.64        2,200,729.24
+KING PHARMACEUTICALS                         0.000     495582108   KG             505,343       12,626,595.36        7,711,534.18
+KIRBY CORP.                                  0.000     497266106   KEX             66,500        1,743,522.50        2,319,520.00
+KIRKLANDS INC                                0.000     497498105   KIRK            13,000          230,747.12          229,580.01
+KLA-TENCOR CORP.                             0.000     482480100   KLAC           382,900       18,854,839.67       22,464,742.99
+KLAMATH FIRST BANCORP INC                    1.959     49842P103   KFBI             1,200           21,573.05           31,848.00
+KNIGHT RIDDER                                1.654     499040103 Q KRI            159,700        8,411,196.28       12,355,989.01
+KNIGHT TRADING GROUP                         0.000     499063105   NITE            87,700          786,380.34        1,283,928.00
+KNIGHT TRANSPORTATION INC                    0.000     499064103   KNGT            79,480        1,677,417.16        2,038,662.00
+KOHLS CORP                                   0.000     500255104   KSS            724,200       35,210,585.22       32,545,548.00
+KOMAG INC                                    0.000     500453204   KOMG            38,300          539,599.47          560,329.00
+KOPIN CORP                                   0.000     500600101   KOPN            99,043        1,061,122.98          664,578.53
+KORN/FERRY INTERNATIONAL                     0.000     500643200   KFY             38,300          361,993.89          510,922.00
+KOS PHARMACEUTICALS                          0.000     500648100   KOSP            19,600          664,846.69          843,584.00
+KOSAN BIOSCIENCES IN                         0.000     50064W107   KOSN            23,900          187,119.38          235,654.00
+KRAFT FOODS INC - A                          2.234     50075N104   KFT            856,800       26,096,590.93       27,606,096.00
+KRISPY KREME DOUGHNUTS INC                   0.000     501014104   KKD             54,900        1,890,549.44        2,009,340.01
+KROGER CO.                                   0.000     501044101   KR           1,476,755       26,198,782.42       27,334,735.03
+KROLL INC                                    0.000     501049100   KROL            51,878        1,252,692.93        1,348,828.00
+KRONOS INC.                                  0.000     501052104   KRON            35,900          841,789.81        1,421,999.00
+KRONOS WORLDWIDE INC                         0.000     50105F105   KRO                 50              801.17            1,110.00
+KULICKE & SOFFA INDUSTRIES                   0.000     501242101   KLIC            50,300          347,346.90          723,314.00
+KVH INDUSTRIES INC                           0.000     482738101   KVHI            13,990          355,426.04          384,305.30
+KYPHON INC                                   0.000     501577100   KYPH           108,895        1,865,004.99        2,703,862.84
+L S B BANCSHARES N C                         3.678     502158108   LXBK            10,300          187,377.63          179,220.00
+L-3 COMMUNICATIONS HOLDINGS INC              0.000     502424104   LLL            139,500        5,889,963.29        7,164,720.00
+LA JOLLA PHARMACEUTICAL                      0.000     503459109   LJPC             9,500           32,510.39           40,755.00
+LA QUINTA INNS INC                           1.092     50419U202   LQI            517,100        2,800,225.63        3,314,611.00
+LA-Z-BOY INC.                                1.906     505336107   LZB            195,400        3,683,266.05        4,099,492.00
+LABONE INC                                   0.000     50540L105   LABS            10,100          260,031.13          327,947.00
+LABOR READY INC                              0.000     505401208   LRW             48,300          325,093.56          632,730.00
+LABORATORY CRP OF AMER HLDGS                 0.000     50540R409   LH             254,100        7,964,411.10        9,388,994.99
+LABRANCHE & CO., INC.                        2.742     505447102   LAB            525,300        4,312,175.95        6,130,251.00
+LACLEDE GROUP HLDG. CO.                      4.693     505597104   LG              29,300          742,555.47          836,515.00
+LAFARGE NORTH AMERICA INC.                   1.974     505862102   LAF            146,638        5,352,115.17        5,941,771.76
+LAKELAND BANCORP INC                         2.490     511637100   LBAI            14,510          232,665.10          233,030.60

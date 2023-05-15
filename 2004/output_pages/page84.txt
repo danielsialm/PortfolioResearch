@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 052
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+BIG 5 SPORTING GOODS CORP                  0.960 BGFV    08915P101     29.1400        12,627.00        265,766.37        367,950.78
+BIO RAD LABS INC                           0.000 BIO     090572207     57.3700        19,300.00      1,117,203.76      1,107,241.00
+BIOLASE TECHNOLOGY INC                     0.276 BLTI    090911108     10.8700        22,265.00        322,332.96        242,020.55
+BIOMARIN PHARMACEUTI                       0.000 BMRN    09061G101      6.3900        28,679.00        197,120.00        183,258.81
+BIOSITE INC.                               0.000 BSTE    090945106     61.5400        18,419.00        833,291.19      1,133,505.26
+BIOVERIS CORP                              0.000 BIOV    090676107      7.3100        22,800.00        168,064.65        166,668.00
+BISYS GROUP INC.                           0.000 BSG     055472104     16.4500       118,400.00      2,097,079.28      1,947,680.00
+BJ'S RESTAURANTS INC                       0.000 BJRI    09180C106     14.0000        11,913.00        147,008.02        166,782.00
+BKF CAP GROUP INC                          1.142 BKF     05548G102     37.9000         6,800.00        196,241.88        257,720.00
+BLACK BOX CORPORATION                      0.499 BBOX    091826107     48.0200        22,834.00      1,057,858.76      1,096,488.68
+BLACK HILLS CORP                           4.041 BKH     092113109     30.6800        36,000.00      1,087,896.39      1,104,480.00
+BLACKBAUD INC                              0.000 BLKB    09227Q100     14.6400         9,000.00         90,843.30        131,760.00
+BLACKBOARD INC                             0.000 BBBB    091935502     14.8100         7,200.00        125,254.80        106,632.00
+BLAIR CORP.                                1.682 BL      092828102Q    35.6600        16,100.00        407,028.37        574,126.00
+BLOUNT INTERNATIONAL                       0.000 BLT     095180105     17.4200        22,600.00        282,171.56        393,692.00
+BLUE NILE INC                              0.000 NILE    09578R103     27.6200        10,200.00        330,913.20        281,724.00
+BLUEGREEN CORP                             0.000 BXG     096231105     19.8300        37,500.00        492,551.36        743,625.00
+BLYTH INC.                                 1.285 BTH     09643P108     29.5600        31,900.00        857,475.62        942,964.00
+BOB EVANS FARMS                            1.836 BOBE    096761101Q    26.1400        46,368.00      1,356,147.21      1,212,059.52
+BOMBAY COMPANY                             0.000 BBA     097924104      5.5300        39,500.00        252,232.59        218,435.00
+BON-TON STORES                             0.634 BONT    09776J101     15.7500        22,400.00        296,308.81        352,800.00
+BONE CARE INTL INC                         0.000 BCII    098072101     27.8500        17,350.00        324,659.35        483,197.50
+BORLAND SOFTWARE CORPORATION               0.000 BORL    099849101     11.6800       112,100.00      1,104,037.16      1,309,328.00
+BOSTON BEER INC                            0.000 SAM     100557107     21.2700         9,350.00        146,020.37        198,874.50
+BOSTON COMMUNICATIONS GROUP                0.000 BCGI    100582105      9.2400        44,206.00        545,936.75        408,463.44
+BOSTON PRIVATE FINL HOLDING                0.852 BPFH    101119105     28.1700        21,454.00        483,774.46        604,359.18
+BOWNE & CO INC.                            1.353 BNE     103043105     16.2600        38,900.00        615,220.29        632,514.00
+BOYD GAMING COPR                           0.816 BYD     103304101     41.6500        50,600.00      1,158,776.65      2,107,490.00
+BOYDS COLLECTION LTD                       0.000 FOB     103354106      4.4000             1.00              2.86              4.40
+BRADLEY PHARMACEUTIC                       0.000 BDY     104576103     19.4000        15,000.00        339,638.14        291,000.00
+BRADY CORPORATION                          0.703 BRC     104674106     62.5700        20,200.00        623,167.30      1,263,914.00
+BRIGHAM EXPLORATION CO                     0.000 BEXP    109178103      9.0000         2,200.00         18,888.50         19,800.00
+BRIGHT HORIZON FAMIL                       0.000 BFAM    109195107     64.7600        14,700.00        523,047.12        951,972.00
+BRIGHTPOINT INC.                           0.000 CELL    109473405     19.5400        19,900.00        268,184.58        388,846.00
+BRISTOL WEST HOLDINGS INC                  1.000 BRW     11037M105     20.0000         3,600.00         61,979.51         72,000.00
+BROADWING CORP                             0.000 BWNG    11161E101      9.1100        74,400.00        869,017.38        677,784.00
+BROCADE COMMUNICATIONS SYSTEM              0.000 BRCD    111621108      7.6400       288,200.00      1,893,148.32      2,201,848.00
+BROOKFIELD HOMES CORP                      0.472 BHS     112723101     33.9000        16,600.00        384,104.88        562,740.00
+BROOKLINE BANCORP IN                       2.083 BRKL    11373M107     16.3200        51,316.00        746,991.34        837,477.12

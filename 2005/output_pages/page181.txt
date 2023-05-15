@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 148
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+RYLAND GROUP INC                           0.665 RYL     783764103     72.1300           400.00         25,154.29         28,852.00
+SABRE HOLDINGS CORP.                       1.493 TSG     785905100     24.1100         3,200.00         78,496.96         77,152.00
+SAFECO CORP.                               1.769 SAFC    786429100Q    56.5000        20,500.00        950,010.84      1,158,250.00
+SAFEWAY INC                                0.845 SWY     786514208     23.6600        21,500.00        504,788.81        508,690.00
+SAKS INCORPORATED                          0.000 SKS     79377W108     16.8600        14,100.00        255,593.76        237,726.00
+SALESFORCE.COM INC                         0.000 CRM     79466L302     32.0500         9,100.00        241,795.54        291,655.00
+SANDISK CORP                               0.000 SNDK    80004C101     62.8200         3,700.00        137,275.13        232,434.00
+SARA LEE CORP.                             4.179 SLE     803111103Q    18.9000        19,200.00        403,618.46        362,880.00
+SCANA CORP                                 3.961 SCG     80589M102Q    39.3800        11,100.00        408,854.01        437,118.00
+SCHERING-PLOUGH                            1.055 SGP     806605101Q    20.8500        45,500.00        866,291.82        948,675.00
+SCHWAB (CHARLES) CORP                      0.681 SCHW    808513105     14.6700        42,400.00        510,633.37        622,008.00
+SCIENTIFIC ATLANTA INC.                    0.092 SFA     808655104Q    43.0700         1,900.00         80,473.55         81,833.00
+SCOTTS COMPANY                             1.105 SMG     810186106     45.2400         8,800.00        345,014.72        398,112.00
+SCRIPPS CO. E.W. CL A                      0.916 SSP     811054204Q    48.0200        13,300.00        621,095.03        638,666.00
+SEALED AIR CORP.                           0.000 SEE     81211K100     56.1700         5,500.00        263,554.35        308,935.00
+SEARS HOLDINGS CORP                        0.000 SHLD    812350106    115.5300         3,471.00        426,657.77        401,004.63
+SEMPRA ENERGY                              2.587 SRE     816851109     44.8400        12,400.00        423,498.93        556,016.00
+SEPRACOR INC.                              0.000 SEPR    817315104     51.6000         3,700.00        203,380.79        190,920.00
+SERVICEMASTER COMPANY                      3.682 SVM     81760N109     11.9500        25,200.00        318,085.92        301,140.00
+SHERWIN-WILLIAMS CO                        1.805 SHW     824348106Q    45.4200        12,300.00        456,291.50        558,666.00
+SIEBEL SYSTEMS INC.                        0.945 SEBL    826170102     10.5800        37,200.00        383,128.86        393,576.00
+SIGMA-ALDRICH                              1.200 SIAL    826552101Q    63.2900         1,200.00         75,543.52         75,948.00
+SKY FINL GROUP INC                         3.307 SKYF    83080P103     27.8200        15,400.00        435,667.53        428,428.00
+SLM CORP                                   1.597 SLM     78442P106     55.0900        16,900.00        767,205.15        931,021.00
+SMITH INTERNATIONAL INC                    0.646 SII     832110100     37.1100         2,400.00         89,989.71         89,064.00
+SMITHFIELD FOODS INC                       0.000 SFD     832248108     30.6000        14,000.00        401,733.45        428,400.00
+SNAP-ON TOOLS CORP.                        2.662 SNA     833034101Q    37.5600        12,300.00        442,305.58        461,988.00
+SONIC CORP                                 0.000 SONC    835451105     29.5000         7,800.00        237,189.71        230,100.00
+SONOCO PRODUCTS CO                         3.129 SON     835495102     29.4000         6,100.00        166,438.02        179,340.00
+SOUTHERN CO                                4.315 SO      842587107Q    34.5300        13,300.00        383,702.52        459,249.00
+SOVEREIGN BANCORP INC                      1.110 SOV     845905108     21.6200         5,600.00        112,516.53        121,072.00
+SPRINT NEXTEL CORP                         0.428 S       852061100Q    23.3600        38,956.00        728,925.87        910,012.16
+SPX CORP.                                  2.184 SPW     784635104Q    45.7700         1,500.00         58,347.00         68,655.00
+ST JUDE MED. INC.                          0.000 STJ     790849103     50.2000        12,700.00        456,607.38        637,540.00
+ST PAUL TRAVELERS COS INC                  2.059 STA     792860108Q    44.6700        26,646.00      1,144,293.12      1,190,276.82
+STANDARD-PACIFIC CORP                      0.434 SPF     85375C101     36.8000        13,500.00        574,766.65        496,800.00
+STANLEY WORKS                              2.414 SWK     854616109Q    48.0400         1,200.00         49,586.62         57,648.00
+STARBUCKS CORP.                            0.000 SBUX    855244109     30.0100         7,000.00        148,754.37        210,070.00
+STARWOOD RESORTS                           1.315 HOT     85590A203     63.8600         5,900.00        290,086.97        376,774.00

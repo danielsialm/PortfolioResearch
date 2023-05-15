@@ -1,0 +1,8 @@
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BERNSTEIN EMERGING - EQUITIES                0.000     IE-SAN                 3,790,071.95      379,007,195.30
+BERNSTEIN EMERGING - LIQUIDITY               0.000     IL-SAN                   105,595.42       10,559,542.80
+
+Instrument Total               2                                              3,895,667.38      389,566,738.10
+
+Portfolio Total                2                                              3,895,667.38      389,566,738.10        354,591,847.96

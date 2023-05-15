@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:31   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 122
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+SYKES ENTERPRISES                          0.000 SYKE    871237103     13.3700           700.00          4,107.13          9,359.00
+SYMBION INC                                0.000 SMBI    871507109     23.0000         2,100.00         44,748.32         48,300.00
+SYNTEL INC                                 1.152 SYNT    87162H103     20.8300         3,000.00         53,095.01         62,490.00
+SYNTROLEUM CORP.                           0.000 SYNM    871630109      9.0300         1,900.00         27,849.74         17,157.00
+TALBOTS INC                                1.725 TLB     874161102Q    27.8200         2,000.00         62,030.48         55,640.00
+TALEO CORP CL A                            0.000 TLEO    87424N104     13.2800         1,300.00         18,096.00         17,264.00
+TALX CORP                                  0.291 TALX    874918105     45.7100           100.00          1,558.96          4,571.00
+TECHNOLOGY INVSTMT CAP CORP                7.947 TICC    878717305     15.1000           100.00          1,493.06          1,510.00
+TECUMSEH PRODUCTS CO CL-A                  5.587 TECUA   878895200     22.9100           100.00          3,852.19          2,291.00
+TEJON RANCH CO DEL                         0.000 TRC     879080109     39.9200         1,500.00         73,061.55         59,880.00
+TEKELEC                                    0.000 TKLC    879101103     13.9000         5,500.00         91,213.57         76,450.00
+TELEDYNE TECHNOLOGIES INC                  0.000 TDY     879360105     29.1000           100.00          1,560.51          2,910.00
+TELETECH HOLDINGS INC                      0.000 TTEC    879939106     12.0500           100.00            783.02          1,205.00
+TELIK INC                                  0.000 TELK    87959M109     16.9900           100.00          1,742.97          1,699.00
+TENNANT COMPANY                            1.692 TNC     880345103     52.0000           500.00         20,091.23         26,000.00
+TESSERA TECHNOLOGIES INC                   0.000 TSRA    88164L100     25.8500         3,000.00         87,737.66         77,550.00
+TETRA TECH INC.                            0.000 TTEK    88162G103     15.6700           200.00          3,350.88          3,134.00
+TETRA TECHNOLOGIES INC.                    0.000 TTI     88162F105     30.5200           100.00          2,283.63          3,052.00
+TEXAS CAPITAL BANCSHARES                   0.000 TCBI    88224Q107     22.4100           100.00          1,802.99          2,241.00
+TEXAS INDUSTRIES INC                       0.601 TXI     882491103     49.8400         1,600.00         43,040.75         79,744.00
+TEXAS REGIONAL BANCSHARES INC              1.696 TRBS    882673106     28.3000           100.00          2,578.18          2,830.00
+THE FINISH LINE-CL A                       0.574 FINL    317923100     17.4200         1,300.00         19,817.40         22,646.00
+THE GEO GROUP INC                          0.000 GGI     36159R103     22.9300         3,800.00         85,058.37         87,134.00
+THOR INDUSTRIES INC                        0.499 THO     885160101     40.0700           500.00         10,099.07         20,035.00
+THORATEC CORP                              0.000 THOR    885175307     20.6900           200.00          2,928.54          4,138.00
+THQ INC                                    0.000 THQI    872443403     23.8500           200.00          2,754.46          4,770.00
+TIBCO SOFTWARE INC                         0.000 TIBX    88632Q103      7.4700           700.00          4,991.63          5,229.00
+TIERONE CORP                               0.816 TONE    88650R108     29.4100           100.00          2,062.64          2,941.00
+TITAN INT'L INC.                           0.115 TWI     88830M102Q    17.2500           100.00          1,359.17          1,725.00
+TITANIUM METALS CORP                       0.000 TIE     888339207     63.2600           700.00          7,692.44         44,282.00
+TODCO                                      0.000 THE     88889T107     38.0600           200.00          4,695.70          7,612.00
+TOOTSIE ROLL INDUSTRIES, INC.              1.106 TR      890516107Q    28.9300           100.00          3,002.03          2,893.00
+TOPPS INC                                  2.153 TOPP    890786106      7.4300         6,300.00         57,347.02         46,809.00
+TOREADOR RESOURCES CORP                    0.000 TRGL    891050106     21.0700           400.00         14,276.98          8,428.00
+TRACTOR SUPPLY COMPANY                     0.000 TSCO    892356106     52.9400           100.00          3,046.82          5,294.00
+TRAMMELL CROW CO                           0.000 TCC     89288R106     25.6500           100.00          1,417.76          2,565.00
+TRANSACTION SYSTEMS ARCHITECTS             0.000 TSAI    893416107     28.7900         2,200.00         37,599.07         63,338.00
+TREDEGAR CORPORATION                       1.241 TG      894650100     12.8900           100.00          1,735.51          1,289.00
+TRIARC COMPANIES, INC.-B                   2.424 TRY.B   895927309     14.8500           100.00          1,244.49          1,485.00

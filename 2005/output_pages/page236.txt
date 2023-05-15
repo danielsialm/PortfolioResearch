@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 019
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CHICAGO MERCANTILE EXCHANGE                  0.500     167760107   CME             60,500       11,869,378.86       22,233,145.00
+CHICO'S FAS INC                              0.000     168615102   CHS            536,600       15,112,603.51       23,572,838.00
+CHILDREN'S PLACE                             0.000     168905107   PLCE            31,750        1,115,048.27        1,569,085.00
+CHIQUITA BRANDS                              1.999     170032809 Q CQB             83,400        1,618,890.96        1,668,834.00
+CHIRON CORP                                  0.000     170040109   CHIR           122,900        5,458,238.34        5,464,134.00
+CHITTENDEN CORPORATION                       2.589     170228100   CHZ             49,124        1,158,344.17        1,366,138.44
+CHOICE HOTELS INTL INC                       1.245     169905106   CHH            150,088        4,866,993.24        6,267,674.88
+CHOICEPOINT INC.                             0.000     170388102   CPS              1,600           67,814.93           71,216.00
+CHRISTOPHER & BANKS CORP                     0.852     171046105   CBK             37,850          798,248.19          710,823.00
+CHUBB CORP                                   1.761     171232101 Q CB             603,500       38,418,698.19       58,931,775.00
+CHURCH & DWIGHT INC                          0.726     171340102 Q CHD             40,850        1,296,733.37        1,349,275.50
+CIBER INC.                                   0.000     17163B102   CBR            101,000          977,510.62          666,600.00
+CIENA CORP.                                  0.000     171779101   CIEN           453,100        1,053,732.78        1,345,707.00
+CIGNA CORP.                                  0.089     125509109 Q CI             177,979       12,377,842.73       19,880,254.30
+CIMAREX ENERGY                               0.372     171798101   XEC             86,026        1,877,745.26        3,699,978.26
+CINCINNATI BELL INC                          0.000     171871106   CBB            159,800        1,029,707.37          560,898.00
+CINCINNATI FINANCIAL CORP.                   2.730     172062101 Q CINF            68,145        2,387,335.51        3,044,718.60
+CINERGY CORP                                 4.521     172474108 Q CIN            667,100       24,999,061.16       28,325,066.00
+CINTAS CORP                                  0.777     172908105   CTAS           231,577        9,473,576.74        9,536,340.86
+CIRCOR INTERNATIONAL INC                     0.584     17273K109   CIR             29,800          626,173.17          764,668.00
+CIRCUIT CITY STORES                          0.309     172737108 Q CC             152,400        2,770,985.77        3,442,716.00
+CIRRUS LOGIC INC                             0.000     172755100   CRUS           240,000        1,709,426.78        1,603,200.00
+CISCO SYSTEMS                                0.000     17275R102   CSCO        13,091,790      267,884,378.49      224,131,444.80
+CIT GROUP INC                                1.545     125581108   CIT            116,707        3,773,978.16        6,043,088.46
+CITADEL BROADCASTING CORP                    5.357     17285T106   CDL            507,100        7,071,578.54        6,815,424.00
+CITI TRENDS INC                              0.000     17306X102   CTRN             4,300           70,282.64          183,567.00
+CITIGROUP INC.                               3.626     172967101 Q C           10,528,120      284,855,461.13      510,929,663.60
+CITIZENS & NORTHERN CORP                     3.745     172922106   CZNC             8,787          281,672.94          225,210.81
+CITIZENS BKG CORP MI                         4.108     174420109   CBCF            69,636        2,058,593.13        1,932,399.00
+CITIZENS COMMUNICATIONS CO                   8.176     17453B101   CZN          1,001,800       13,405,686.88       12,252,014.00
+CITIZENS INC                                 0.000     174740100   CIA             35,845          205,400.73          195,355.25
+CITRIX SYSTEMS INC                           0.000     177376100   CTXS           841,900       23,295,162.34       24,229,882.00
+CITY BK LYNNWOOD WAS                         2.249     17770A109   CTBK             8,200          264,013.37          291,674.00
+CITY HLDG CO                                 2.781     177835105   CHCO            33,200        1,048,716.64        1,193,540.00
+CITY NATIONAL CORP                           1.987     178566105   CYN                500           31,002.56           36,220.00
+CKE RESTARUANTS INC.                         1.184     12561E105   CKR             62,400          662,045.11          843,024.00
+CLAIRE'S STORES INC                          1.368     179584107   CLE            281,800        7,552,766.23        8,234,196.00
+CLARCOR INC.                                 0.908     179895107 Q CLC             54,500          759,644.43        1,619,195.00
+CLARK INC                                    1.811     181457102   CLK             38,000          569,881.39          503,500.00
+CLAYTON WILLIAMS ENERGY INC                  0.000     969490101   CWEI             6,000          184,259.64          250,440.00

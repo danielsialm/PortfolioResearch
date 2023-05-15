@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 121
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+DTE ENERGY COMPANY                         4.776 DTE     233331107Q    43.1300         6,300.00        253,186.73        271,719.00
+DUKE ENERGY CORPORATION                    4.342 DUK     264399106Q    25.3300        12,400.00        273,567.07        314,092.00
+DUN & BRADSTREET CORP                      0.000 DNB     26483E100     59.6500         3,800.00        200,945.21        226,670.00
+E I DUPONT DE NEM.                         2.854 DD      263534109Q    49.0500        17,200.00        936,643.44        843,660.00
+EASTMAN CHEMICAL CO.                       3.048 EMN     277432100Q    57.7300        14,100.00        609,065.49        813,993.00
+EASTMAN KODAK                              1.550 EK      277461109Q    32.2500         8,900.00        277,112.86        287,025.00
+EATON CORP.                                1.492 ETN     278058102Q    72.3600        13,400.00        624,311.36        969,624.00
+EBAY INC                                   0.000 EBAY    278642103    116.2800         9,700.00        382,732.35      1,127,916.00
+ECHOSTAR COMMUNICATIONS - A                0.000 DISH    278762109     33.2400           900.00         30,997.31         29,916.00
+ECOLAB INC                                 0.996 ECL     278865100Q    35.1300        24,300.00        665,459.19        853,659.00
+EDISON INTERNATIONAL                       3.122 EIX     281020107Q    32.0300        27,100.00        565,321.46        868,013.00
+EDWARDS LIFESCIENCES                       0.000 EW      28176E108     41.2600         7,000.00        242,555.92        288,820.00
+ELECTRONIC ARTS, INC                       0.000 ERTS    285512109     61.6800         3,100.00        109,747.74        191,208.00
+ELECTRONIC DATA SYSTEMS                    0.865 EDS     285661104Q    23.1000         2,900.00         65,151.11         66,990.00
+ELI LILLY & COMPANY                        2.678 LLY     532457108Q    56.7500        16,900.00        938,930.45        959,075.00
+EMC CORP                                   0.000 EMC     268648102     14.8700         2,400.00         32,136.48         35,688.00
+EMERSON ELECTRIC CO                        2.368 EMR     291011104Q    70.1000         6,300.00        316,159.75        441,630.00
+ENERGIZER HOLDINGS INC.                    0.000 ENR     29266R108     49.6900         3,500.00        138,275.80        173,915.00
+ENERGY EAST CORP.                          4.122 EAS     29266M109     26.6800         5,100.00        114,035.93        136,068.00
+ENTERCOM COMMUNICATIONS CORP               0.000 ETM     293639100     35.8900         1,800.00         58,483.08         64,602.00
+ENTERGY CORP.                              3.195 ETR     29364G103Q    67.5900         3,800.00        139,916.60        256,842.00
+EOG RESOURCES INC                          0.336 EOG     26875P101     71.3600         9,800.00        618,538.24        699,328.00
+EQUIFAX INC                                0.427 EFX     294429105     28.1000         2,800.00         73,277.68         78,680.00
+EQUITABLE RESOURCES INC                    2.505 EQT     294549100     60.6600         9,900.00        415,888.30        600,534.00
+ERIE INDTY CO                              2.472 ERIE    29530P102     52.5700         3,700.00        175,835.59        194,509.00
+ESTEE LAUDER CO.                           0.873 EL      518439104     45.7700         4,300.00        184,492.18        196,811.00
+EXELON CORP                                3.630 EXC     30161N101Q    44.0700         8,800.00        238,678.23        387,816.00
+EXPEDITORS INT'L. WASH INC.                0.393 EXPD    302130109     55.8800         5,200.00        265,719.60        290,576.00
+EXXON MOBIL CORPORATION                    2.106 XOM     30231G102Q    51.2600       118,100.00      3,734,671.94      6,053,806.00
+FASTENAL CO                                1.007 FAST    311900104     61.5600         3,500.00        192,527.78        215,460.00
+FED. NATL. MTG. ASSN.                      1.460 FNM     313586109Q    71.2100        13,600.00        807,279.34        968,456.00
+FEDERATED DEPARTMENT STORES                0.934 FD      31410H101     57.7900         2,900.00        135,623.71        167,591.00
+FEDERATED INVESTORS INC.-CL B              1.644 FII     314211103     30.4000         3,800.00        111,715.06        115,520.00
+FEDEX CORPORATION                          0.284 FDX     31428X106     98.4900         5,900.00        281,366.82        581,091.00
+FIDELITY NATIONAL FINL INC                 2.189 FNF     316326107     45.6700        12,030.00        352,188.54        549,410.10
+FIFTH THIRD BANCORP                        2.961 FITB    316773100Q    47.2800           400.00         22,456.18         18,912.00
+FIRST DATA CORP                            0.188 FDC     319963104Q    42.5400        29,100.00      1,124,184.89      1,237,914.00
+FIRST ENERGY CORP.                         4.176 FE      337932107Q    39.5100        15,700.00        535,080.87        620,307.00
+FIRST HORIZON NATIONAL CORPORA             3.989 FHN     320517105     43.1100         1,400.00         60,495.54         60,354.00

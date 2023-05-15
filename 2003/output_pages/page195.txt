@@ -1,0 +1,46 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 165
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6EA       EAGLE ASSET - 2000 C
+Instrument - COM       COMMON STOCK
+
+PATTERSON-UTI ENERGY INC                   0.000 PTEN    703481101     32.9200        19,995.00        601,429.71        658,235.40
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     48.8300         6,300.00        261,648.66        307,629.00
+PLATINUM UNDERWRITERS HOLDINGS             1.066 PTP     G7127P100     30.0000        19,235.00        538,687.50        577,050.00
+PRIME MONEY MARKET - 6EA                   0.000 IT-EAG  IT-EAG         1.0000     1,786,170.77      1,786,170.83      1,786,170.79
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     20.4600        32,560.00        673,976.43        666,177.60
+QUICKSILVER RESOURCE                       0.000 KWK     74837R104     32.3000        13,435.00        445,858.41        433,950.50
+RESPIRONICS INC                            0.000 RESP    761230101     45.0900        12,305.00        576,740.65        554,832.45
+RIMAGE CORP                                0.000 RIMG    766721104     15.8310        23,305.00        315,816.81        368,941.45
+RLI CORP                                   1.174 RLI     749607107     37.4600        10,525.00        364,861.78        394,266.50
+ROPER INDUSTRIES INC                       0.781 ROP     776696106     49.2600         5,825.00        259,895.81        286,939.50
+SALEM COMMUNICATIONS -CL A                 0.000 SALM    794093104     27.1200        22,865.00        554,773.85        620,098.80
+SEI INVESTMENTS CO                         0.590 SEIC    784117103     30.4700        18,690.00        560,469.66        569,484.30
+STANCORP FINANCIAL GROUP                   1.113 SFG     852891100     62.8800         9,250.00        523,108.36        581,640.00
+STANDARD MICROSYSTEMS CORP                 0.000 SMSC    853626109     25.3000        11,565.00        291,175.78        292,594.50
+STERICYCLE INC                             0.000 SRCL    858912108     46.7000        12,440.00        567,884.38        580,948.00
+STUDENT LN CORP                            2.109 STU     863902102    146.0000         1,995.00        259,906.69        291,270.00
+TALBOTS INC                                1.299 TLB     874161102Q    30.7800        16,990.00        542,528.40        522,952.20
+TEKTRONIX, INC.                            0.506 TEK     879131100Q    31.6000        23,500.00        517,168.98        742,600.00
+THOMAS INDUSTRIES INC                      1.096 TII     884425109     34.6600         9,100.00        251,025.32        315,406.00
+TRIARC COM                                 2.199 TRY     895927101     11.8200        19,400.00        173,485.05        229,308.00
+TRIARC COMPANIES, INC.-B                   2.782 TRY.B   895927309     10.7800        38,800.00        415,460.94        418,264.00
+UTAH MEDICAL PRODUCTS INC                  0.000 UTMD    917488108     25.9200         6,420.00        149,452.75        166,406.40
+VARIAN INC.                                0.000 VARI    922206107     41.7300        14,050.00        495,541.86        586,306.51
+VARIAN SEMICONDUCTOR EQUIPMENT             0.000 VSEA    922207105     43.6900         6,945.00        297,477.27        303,427.05
+VCA ANTECH INC                             0.000 WOOF    918194101     30.9800         9,250.00        277,526.82        286,565.00
+WARWICK VALLEY TELEPHONE CO                2.568 WWVY    936750108     29.5900         6,380.00        175,616.16        188,784.20
+WATSON WYATT & CO HOLDINGS                 0.000 WW      942712100     24.1500        26,390.00        617,246.70        637,318.50
+WATTS WATER TECHNOLOGIES INC.              1.261 WTS     942749102Q    22.2000        14,100.00        284,361.28        313,020.00
+WILEY JOHN & SONS IN                       0.998 JW.A    968223206     26.0300        11,355.00        300,647.28        295,570.65
+ZEBRA TECHNOLOGIES CORP CL-A               0.000 ZBRA    989207105     66.3700         4,545.00        234,291.08        301,651.65
+
+Instrument Total           108                                                     4,038,423.77     52,337,193.32     58,941,402.12
+
+Portfolio Total            108                                                     4,038,423.77     52,337,193.32     58,941,402.12
+

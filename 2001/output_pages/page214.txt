@@ -1,27 +1,51 @@
-ASOF03   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 008
+ASOF02   Date 01/24/2002 Time 21:29:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 010
 
 Monthly Market Portfolio
 
-Investment Desc                                               Yield         Identifier  Maturity    Book Value        Market Value
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - RES       RE SOUTH REGION
-Instrument - R         RETAIL
+Portfolio  - RER       RE REIT
+Instrument - A         DIVERSIFIED
 
-WAL-MART #56                   NEDERLAND                      10.000         RWAL56                  3,367,000.00      3,300,000.00
-WAL-MART #65                   LEITCHFIELD                    10.000         RWAL65                  1,132,000.00      1,700,000.00
-WAL-MART #66                   ALVIN                          10.000         RWAL66                  1,710,000.00      1,400,000.00
-WAL-MART #67                   ROCKPORT                       10.000         RWAL67                  1,522,000.00      2,000,000.00
+COUSINS PROPERTIES INC                     6.075 CUZ     222795106     24.3600       100,000.00      2,485,123.00      2,436,000.00
+VORNADO REALTY TRUST                       6.346 VNO     929042109     41.6000       682,345.00     26,739,206.38     28,385,552.01
 
-Instrument Total            76                                                                     226,651,705.51    240,010,950.19
+Instrument Total             2                                                      782,345.00      29,224,329.38     30,821,552.01
 
-Instrument -X      OTHER
+Instrument -C      INDUSTRIAL
 
-CROWN POINTE LAND              ATLANTA GA                      9.000         RCPTE4                    547,718.15      2,250,000.00
-GALLERIA LAND                  ATLANTA GA                     11.000         RGALD1                  1,843,199.00      5,339,999.99
+AMB PROPERTY CORP.                         6.076 AMB     00163T109     26.0000       908,837.00     21,081,212.15     23,629,761.98
+PROLOGIS TRUST                             6.415 PLD     743410102Q    21.5100     1,815,220.00     30,344,810.58     39,045,382.22
 
-Instrument Total             2                                                                       2,390,917.15      7,589,999.99
+Instrument Total             2                                                    2,724,057.00      51,426,022.73     62,675,144.20
 
-Portfolio Total            108                                                                     822,662,578.11    881,794,780.81
+Instrument -D      MIXED INDUST/OFFICE
+
+DUKE-WEEKS REALTY CORPORATION              7.398 DRE     264411505     24.3300       551,883.00     12,462,845.98     13,427,313.38
+RECKSON ASSOCIATES REALTY CORP             7.277 RA      75621K106Q    23.3600       209,431.00      3,153,475.48      4,892,308.16
+
+Instrument Total             2                                                      761,314.00      15,616,321.46     18,319,621.54
+
+Instrument -F      OFFICE
+
+BOSTON PROPERTIES INC                      6.105 BXP     101121101     38.0000       793,984.00     26,891,919.82     30,171,391.98
+EQUITY OFFICE PROPERTIES TRUST             6.648 EOP     294741103     30.0800     1,947,696.00     46,387,306.11     58,586,695.74
+KILROY REALTY CORP                         7.308 KRC     49427F108     26.2700       127,600.00      3,071,178.59      3,352,052.00
+MACK-CALI REALTY CORP.                     7.994 CLI     554489104     31.0200       302,118.00      9,680,274.27      9,371,700.34
+
+Instrument Total             4                                                    3,171,398.00      86,030,678.79    101,481,840.06
+
+Instrument -G      APARTMENTS
+
+APARTMENT INVT & MGMT                      6.822 AIV     03748R101     45.7300       514,804.00     20,145,900.51     23,541,986.92
+ARCHSTONE COMMUNITIES TRUST                6.235 ASN     039583109Q    26.3000     1,587,680.00     33,325,095.37     41,755,983.96
+AVALONBAY COMMUNITIES INC.                 5.411 AVB     053484101Q    47.3100       891,598.00     30,516,178.95     42,181,501.39
+BRE PROPERTIES  -CL A                      6.007 BRE     05564E106     30.9600       659,635.00     18,501,668.42     20,422,299.58
+CAMDEN PROPERTY TRUST                      6.648 CPT     133131102     36.7000       303,376.00      9,037,293.15     11,133,899.20
+EQUITY RESIDENTIAL PROPERTIES              6.025 EQR     29476L107Q    28.7100       807,826.00     16,519,864.98     23,192,684.45
+POST PROPERTIES,INC.                       8.786 PPS     737464107Q    35.5100       159,825.00      6,296,130.77      5,675,385.74
+
+Instrument Total             7                                                    4,924,744.00     134,342,132.15    167,903,741.24
 

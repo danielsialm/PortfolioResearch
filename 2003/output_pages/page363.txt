@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+IDB HOLDING CORP O                           0.000     6456726      IDBH_        50,790.00        1,321,928.63
+IMPALA PLATINUM HL                           0.000     6457804      IMP_S        35,000.00        1,655,355.88
+INFOSYS TECHNOLOGIES LTD                     0.000     6205122      INFO_        15,777.00        1,106,782.84
+INVENTEC CO LTD                              0.002     6459930      2356_     2,035,000.00        1,161,754.37
+IOI CORPORATION BERHAD                       0.011     6464514      IOI_M       553,180.00          416,482.43
+IOI OLEOCHEMICAL INDUSTRIES                  0.475     6668446      IOIO_        45,965.00           28,868.20
+ISRAEL CORP ORD SH                           0.000     6889678      ILCO_         6,048.00          654,832.37
+JSC NORILSK NICEL                           97.927     7131431      GMKN$        40,000.00          751,500.00
+KASIKORNBANK                                 0.000     6888794      KBANK       467,800.00          566,602.38
+KEUMKANG KRW5000                             0.003     6490917      00238        15,000.00        1,112,041.02
+KGHM POLSKA MIEDZ                            0.000     5263251      KGH_P        62,000.00          277,193.17
+KOC HOLDING                                  0.000     4491484      KCHOL    36,735,544.80          340,363.28
+KOMERCNI BANKA                               0.000     4519449      KOMB_        20,000.00        1,471,016.05
+KOOKMIN BANK KRW50                           0.000     6419365      06000       196,949.00        5,265,852.53
+KOOR INDS ORD ILS0                           0.005     6481698      KOR_I           781.00           16,755.80
+KOREA ELEC POWER K                           0.000     6495730      01576       166,000.00        2,998,071.23
+KOREA TELECOM CORPORATION                    0.000     6505316      03020        64,400.00        2,476,810.00
+KOREA TELECOM FREETEL                        0.002     6201421      03290        51,395.00        1,302,876.36
+KRUNG THAI BANK PUB CO - FOREIGN             0.053     6492838      KTB/F     1,541,000.00          400,172.74
+LAND + HOUSES THBH                           0.000     6581930      LH/F_       754,000.00          184,648.14
+LARSEN & TOUBRO LIMITED                      0.000     6100164      LT_IN        58,029.00          223,168.80
+LARSEN + TOUBRO GDR                          3.494     4544344      LTO_L        38,000.00          430,350.00
+LG CABLE +MCHY KSW                           0.005     6375780      00626       172,860.00        1,656,339.99
+LG ELECTRONICS/NEW                           0.000     6520739      06657         7,000.00          205,032.69
+LITE-ON TECHNOLOGY CORP                      0.098     6519481      2301_     2,146,000.00        1,752,604.50
+LUKOIL-US$                                  83.871     4560588      LKOH$        95,000.00        1,582,700.00
+MAHANAGAR TELEPHONE NIGAM                    0.000     6117807      ZMTNL        92,000.00          253,157.27
+MALAKOFF BERHAD                              0.000     6555924      MAL_M     1,064,505.00          867,507.29
+MALAYAN BANKING BERHAD                       0.025     6556325      MAY_M     1,120,000.00        2,463,739.40
+MALAYSIA INTL SHIPPING-FRGN                  0.012     6558031      MISF_       560,832.00        1,010,388.19
+MALAYSIAN PACIFIC INDUSTRIES                 0.000     6556693      MPI_M        85,046.00          275,773.15
+MATAV RT                                     0.000     4577469      MATAV       415,370.00        1,638,873.18
+MAXIS COMMUNICATIONS BHD                     0.644     6530523      MAXIS       530,000.00          683,211.84
+METRO CASH + CARRY                           0.429     6526986      MTC_S       559,356.00          209,632.25
+MIGROS TRL1000                               0.000     4593034      MIGRS    12,746,008.00          137,407.02
+MOBINIL-EGYPTIAN MOBILE SERV                 0.038     6103925      EMPN_        28,000.00          412,226.16
+MOL MAGYAR OLAJ-EX GAZIPARI                  0.000     4742494      MOL_H        70,000.00        1,110,294.05
+MOSENERGO                                   27.295     5467031      MSNG$     3,000,000.00          112,418.54
+MTN GROUP LIMITED                            0.000     6563206      MTN_S     1,100,000.00        1,130,576.63

@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 036
+ASOF10   Date 01/24/2002 Time 21:29:48   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 038
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-PROGRESS ENERGY, INC                         4.708     743263105 Q PGN            346,413       12,450,156.09       15,598,977.39
-PROGRESS SOFTWARE                            0.000     743312100   PRGS            38,400          314,620.05          663,552.00
-PROGRESSIVE CORP                             0.187     743315103   PGR             76,533        8,376,982.61       11,426,376.89
-PROTECTIVE LIFE CORP                         1.935     743674103   PL             135,100        3,102,248.70        3,908,443.01
-PROTEIN DESIGN LABS INC                      0.000     74369L103   PDLI           200,700        5,915,065.21        6,582,960.01
-PROVIDENT BANKSHARES CORPORATION             3.292     743859100   PBKS            43,735        1,000,129.72        1,062,760.50
-PROVIDENT FINANCIAL GROUP                    3.653     743866105   PFGI           107,300        3,483,020.81        2,819,844.00
-PROVIDIAN FINANCIAL CORP W/I                 3.380     74406A102   PVN          1,385,921       43,658,852.70        4,920,019.58
-PROVINCE HEALTHCARE COMPANY                  0.000     743977100   PRHC            26,300          953,703.18          811,618.00
-PROXIM INC                                   0.000     744284100   PROX            69,300        1,566,442.43          687,456.00
-PRUDENTIAL FINANCIAL INC                     0.000     744320102   PRU             77,100        2,131,516.50        2,558,949.00
-PSS WORLD MEDICAL INC.                       0.000     69366A100   PSSI            68,300          439,014.61          557,328.00
-PUBLIC SERVICE CO OF N MEX                   2.862     69349H107   PNM            101,900        2,679,637.20        2,848,105.00
-PUBLIC SVC ENTERPRISES                       5.119     744573106 Q PEG            455,340       15,859,301.71       19,210,794.60
-PUGET ENERGY INC                             8.405     745310102 Q PSD            167,800        4,206,074.30        3,673,142.00
-PULTE HOMES, INC.                            0.358     745867101 Q PHM             40,788        1,024,323.71        1,821,999.95
-QLOGIC CORPORATION                           0.000     747277101   QLGC           187,270        9,031,114.44        8,335,387.69
-QRS CORPORATION                              0.000     74726X105   QRSI            14,600          902,724.90          205,860.00
-QUAKER CHEM CORP                             3.980     747316107 Q KWR              8,900          155,791.02          183,340.00
-QUALCOMM INC                                 0.000     747525103   QCOM         1,560,192       86,718,384.47       78,789,696.03
-QUANEX CORP                                  2.261     747620102   NX              21,700          606,714.04          614,110.00
-QUANTA SERVICES INC.                         0.000     74762E102   PWR            162,500        6,258,331.82        2,507,374.99
-QUANTUM CORPORATION- DLT & STORAGE           0.000     747906204   DSS            531,700        6,516,648.88        5,237,245.00
-QUEST DIAGNOSTICS INC                        0.000     74834L100   DGX            205,100        9,731,466.57       14,707,721.00
-QUESTAR CORP                                 2.874     748356102 Q STR            152,100        3,507,207.92        3,810,105.00
-QUICKSILVER INC                              0.000     74838C106   ZQK             42,100          950,835.35          724,120.00
-QUINTILES TRANSNATIONAL CORP.                0.000     748767100   QTRN            88,970        2,703,436.79        1,427,968.49
-QUOVADX INC                                  0.000     74913K106   QVDX            23,295          284,455.65          213,149.25
-QWEST COMMUNICATIONS INTL.                   0.353     749121109   Q            3,530,460      137,300,208.00       49,885,399.79
-R.H. DONNELLEY CORP.                         0.000     74955W307 Q RHD             10,600          288,620.51          307,930.00
-R.J. REYNOLDS TOBACCO HOLDINGS INC.          6.216     76182K105   RJR            207,200        6,488,099.20       11,665,360.00
-RACING CHAMPIONS CORP                        0.000     750069106   RACN            43,900          138,162.09          539,970.00
-RADIAN GROUP INC.                            0.186     750236101   RDN            185,898        5,613,158.36        7,984,319.10
-RADIANT SYSTEMS INC                          0.000     75025N102   RADS            28,100          620,203.43          323,150.00
-RADIO ONE INC CL-D                           0.000     75040P405   ROIAK           19,000          292,082.44          342,190.00
-RADIOSHACK CORP                              0.730     750438103 Q RSH            320,450        8,944,523.32        9,645,544.99
-RADISYS CORPORATION                          0.000     750459109   RSYS            14,600          849,227.07          287,036.00
-RAINBOW TECHNOLOGIES INC                     0.000     750862104   RNBO            10,700           57,825.75           79,180.00
-RALCORP HOLDINGS                             0.000     751028101 Q RAH             28,900          554,365.77          656,030.00
-RARE HOSPITALITY INTL INC.                   0.000     753820109   RARE            64,100        1,439,652.19        1,444,814.00
+ROPER INDUSTRIES INC                         0.666     776696106   ROP             30,900          810,246.24        1,529,550.00
+ROSLYN BANCORP INC                           2.685     778162107   RSLN           128,450        2,046,347.18        2,247,875.01
+ROSS STORES INC                              0.529     778296103   ROST           145,300        3,659,790.96        4,661,224.00
+ROWAN COS.                                   0.000     779382100   RDC            144,868        2,850,035.48        2,806,093.17
+ROXIO INC                                    0.000     780008108   ROXI            15,281          718,154.82          252,913.79
+ROYAL DUTCH PETE                             2.448     780257804 S RD           4,549,085      204,848,379.90      222,996,146.72
+RPM INC. OHIO                                3.457     749685103 Q RPM            179,175        1,032,610.46        2,590,870.50
+RSA SECURITY INC.                            0.000     749719100   RSAS           139,800        3,521,129.19        2,440,908.00
+RTI INTERNATIONAL METALS                     0.000     74973W107   RTI             57,900          878,691.45          576,105.00
+RUBY TUESDAY INC                             0.242     781182100   RI              62,600          431,009.30        1,291,438.00
+RUDDICK CORP.                                2.251     781258108 Q RDK             94,900          681,272.74        1,517,451.00
+RUDOLPH TECHNOLOGIES INC                     0.000     781270103   RTEC            16,300          608,153.00          559,416.00
+RUSS BERRIE & CO INC                         3.200     782233100   RUS             64,000        1,664,358.56        1,920,000.00
+RUSSELL CORP                                 1.066     782352108 Q RML             11,000          191,523.21          165,110.00
+RYANS FAMILY STEAK HOUSES                    0.000     783519101   RYAN            66,000          744,262.64        1,428,900.00
+RYDER SYS. INC.                              2.708     783549108 Q R              140,621        3,001,606.02        3,114,755.15
+RYERSON TULL, INC.                           1.818     78375P107 Q RT              24,773          298,133.99          272,502.99
+RYLAND GROUP INC                             0.218     783764103   RYL             26,473          803,955.01        1,937,823.59
+SABRE HOLDINGS CORP.                         0.000     785905100   TSG            127,099        4,112,476.04        5,382,642.66
+SAFECO CORP.                                 2.375     786429100 Q SAFC           266,942        7,714,101.12        8,315,243.30
+SAFEWAY INC                                  0.000     786514208   SWY          1,077,420       41,796,602.26       44,982,284.98
+SAKS INCORPORATED                            0.000     79377W108   SKS            311,044        9,563,015.99        2,905,150.96
+SALEM COMMUNICATIONS -CL A                   0.000     794093104   SALM             7,200          113,300.64          165,600.00
+SALTON INC                                   0.000     795757103   SFP             24,500          707,567.30          462,560.00
+SANDISK CORP                                 0.000     80004C101   SNDK           148,900        5,026,101.14        2,144,160.00
+SANGSTAT MEDICAL CORP                        0.000     801003104   SANG            28,769          503,195.19          565,023.15
+SANMINA-SCI CORP                             0.000     800907107   SANM         1,349,214       23,807,445.26       26,849,358.58
+SAPIENT CORP                                 0.000     803062108   SAPE           238,121        4,414,093.92        1,838,294.12
+SARA LEE CORP.                               2.699     803111103 Q SLE          1,999,637       35,438,591.72       44,451,930.53
+SBC COMMUNICATIONS INC.                      2.629     78387G103 Q SBC          6,794,617      234,464,940.26      266,145,147.89
+SBS TECHNOLOGIES INC                         0.000     78387P103   SBSE            25,000          462,196.00          364,250.00
+SCANA CORP                                   4.311     80589M102 Q SCG            207,498        5,560,766.21        5,774,669.34
+SCANSOURCE INC                               0.000     806037107   SCSC             4,300          199,987.89          204,680.00
+SCHERING-PLOUGH                              1.787     806605101 Q SGP          2,640,772       61,815,359.17       94,566,045.34
+SCHLUMBERGER                                 1.364     806857108 Q SLB          1,082,713       57,940,719.25       59,495,079.35
+SCHOLASTIC CORP                              0.000     807066105   SCHL            61,500        2,342,520.49        3,095,295.00
+SCHOOL SPECIALTY INC.                        0.000     807863105   SCHS            29,800          697,718.40          681,824.00
+SCHULMAN (A.) INC.                           3.956     808194104 Q SHLM            59,300          802,569.08          809,445.00
+SCHWAB (CHARLES) CORP                        0.258     808513105   SCH          2,527,184       47,888,340.40       39,095,536.47
+SCHWEITZER-MAIDUIT INTL INC                  2.526     808541106   SWM             24,300          429,825.00          577,125.00

@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:33   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 021
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+AUTOPISTAS CESA                              3.223     4065663      ACE_S        44,400.00          930,603.52
+AXA EUR 2.29                                 2.840     7088429      CS_FP        59,287.00        1,143,153.59
+BAA ORD GBP1                                 6.673     0067340      BAA_L        95,876.00          829,790.92
+BANCO BILBAO - BBVA                          3.664     5501906      BBVA_       494,300.00        8,337,615.35
+BANCO POPULAR                                4.001     5857836      POP_S        26,300.00        1,681,114.79
+BANK AUSTRIA CREDITANSTALT                   2.084     7621363      BACA_        49,093.00        2,672,503.43
+BANK OF IRELAND                              4.792     3060625      BKIR_       494,113.00        7,056,702.59
+BANK OF MONTREAL                             2.543     2076009      BMO_C         9,400.00          374,481.11
+BANK OF NOVA SCOTIA                          2.625     2076281      BNS_C        17,900.00          464,942.10
+BARCLAYS PLC ORD G                           7.109     3134865      BARC_       449,067.00        2,851,957.82
+BARRICK GOLD CORP                            0.633     2024644      ABX_C         9,600.00          189,284.75
+BASF AG DEM ORD SH                           3.595     5086577      BAS_G        90,200.00        4,325,990.78
+BAYER AG COM NPV                             2.729     5069211      BAY_G       106,300.00        2,712,534.03
+BAYERISCHE HYPO UN                           6.905     4325419      HVM_G        55,100.00        1,252,350.92
+BCE INC                                      3.463     2089933      BCE_C         7,400.00          155,370.01
+BCO SANTANDER CENTAL HISP                    4.041     5705946      SAN_S       913,400.00       11,090,042.01
+BG GROUP ORD                                 1.946     0876289      BG/_L       244,245.00          931,118.32
+BHP LIMITED                                  1.838     6144690      BHP_A       510,400.00        6,028,679.50
+BHP STEEL LTD                                2.849     6533232      BSL_A       113,400.00          749,235.04
+BILLITON PLC                                 8.175     0056650      BLT_L       180,584.00          875,245.02
+BIOVAIL CORPORATION                          0.000     2098199      BVF_C         2,900.00           56,090.40
+BK OF EAST ASIA HK                           0.479     6075648      23_HK        76,600.00          218,188.10
+BK OF YOKOHAMA Y50                           0.007     6986449      8332_        75,000.00          438,515.29
+BNP PARIBAS                                  3.697     7309681      BNP_F        37,268.00        1,876,675.65
+BOC GROUP GBP0.25                            7.806     0108120      BOC_L        28,598.00          414,451.86
+BOC HONG KONG HOLDINGS LTD                   0.554     6536112      2388_       200,700.00          356,265.30
+BOOTS GROUP PLC                              8.815     3231078      BOOT_        60,549.00          574,313.01
+BORAL LIMITED                                3.422     6218670      BLD_A       109,100.00          587,979.40
+BOUYGUES                                     1.998     4002121      EN_FP         8,614.00          275,371.15
+BP AMOCO                                     5.763     0798059      BP/_L     1,593,245.00       11,551,583.40
+BRAMBLES INDS LTD                            2.255     6120009      BIL_A       145,900.00          789,490.84
+BRASCAN CORPORATION                          1.083     2092599      BNN/A         4,800.00          132,120.99
+BRIDGESTONE CORP J                           0.007     6132101      5108_        41,000.00          544,783.44
+BRIT AMER TOBACCO                            8.491     0287580      BATS_       120,879.00        1,037,081.99
+BRITISH AEROSPACE                            7.662     0263494      BA/_L       246,594.00          934,322.67
+BRITISH SKY BROADC                           2.049     0141192      BSY_L        85,854.00          800,159.90
+BT GROUP                                     8.700     3091357      BT/A_       662,354.00        3,570,320.78
+CABLE + WIRELESS O                           6.938     0162557      CW/_L        97,270.00          470,219.90
+CADBURY SCHWEPPES                            4.809     0610700      CBRY_       169,022.00        1,027,850.01

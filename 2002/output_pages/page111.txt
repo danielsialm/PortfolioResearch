@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 083
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+PLAINS RESOURCES INC.                      0.000 PLX     726540503     11.8500        26,300.00        316,795.10        311,655.00
+PLANAR SYSTEMS INC.                        0.000 PLNR    726900103     20.6300        12,800.00        251,464.09        264,064.00
+POGO PRODUCING CO                          0.322 PPP     730448107     37.2500        67,700.00      2,116,190.38      2,521,825.00
+POLARIS INDUSTRIES INC.                    1.911 PII     731068102     58.6000        26,300.00      1,024,383.69      1,541,180.00
+POLYMEDICA CORP                            0.000 PLMD    731738100     30.8400        14,700.00        530,958.84        453,348.00
+POLYONE CORPORATION                        6.377 POL     73179P106      3.9200       101,400.00      1,067,244.72        397,488.01
+POPE & TALBOT INC                          4.207 POP     732827100     14.2600        14,300.00        223,828.31        203,918.00
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     17.0000        32,700.00        613,286.40        555,900.00
+PRE-PAID LEGAL SVCS                        0.000 PPD     740065107     26.2000        22,500.00        509,068.75        589,500.00
+PRESIDENTIAL LIFE                          4.028 PLFE    740884101      9.9300        31,800.00        643,936.64        315,774.00
+PRG-SCHULTZ INTL INC                       0.000 PRGX    69357C107      8.9000        69,900.00      1,409,691.71        622,110.00
+PRIMA ENERGY CORP                          0.000 PENG    741901201     22.3600        13,900.00        308,366.98        310,804.00
+PRIME HOSPITALITY CORP                     0.000 PDQ     741917108      8.1500        45,000.00        758,976.81        366,750.00
+PRIORITY HEALTHCARE CORPORATIO             0.000 PHCC    74264T102     23.2000        49,200.00        904,625.57      1,141,440.00
+PROGRESS SOFTWARE                          0.000 PRGS    743312100     12.9500        37,700.00        350,819.07        488,214.99
+PROVIDENT BANKSHARES CORPORATI             3.807 PBKS    743859100     23.1110        28,585.00        690,799.74        660,627.94
+PROVINCE HEALTHCARE COMPANY                0.000 PRV     743977100      9.7300        49,500.00      1,140,300.11        481,635.01
+QRS CORPORATION                            0.000 QRSI    74726X105      6.6000        20,472.00        118,447.79        135,115.20
+QUAKER CHEM CORP                           3.620 KWR     747316107Q    23.2000        11,200.00        206,207.78        259,840.00
+QUANEX CORP                                1.910 NX      747620102     33.5000        18,800.00        571,011.00        629,800.00
+QUICKSILVER INC                            0.000 ZQK     74838C106     26.6600        27,000.00        689,422.75        719,820.00
+RADIANT SYSTEMS INC                        0.000 RADS    75025N102      9.6300        30,800.00        599,324.25        296,604.00
+RADISYS CORPORATION                        0.000 RSYS    750459109      7.9800        18,400.00        566,194.95        146,832.00
+RAINBOW TECHNOLOGIES INC                   0.000 RNBO    750862104      7.1700        27,500.00        175,430.26        197,175.00
+RALCORP HOLDINGS                           0.000 RAH     751028101Q    25.1400        33,600.00        668,070.02        844,703.99
+RARE HOSPITALITY INTL INC.                 0.000 RARE    753820109     27.6200        25,200.00        630,123.35        696,024.00
+RAYMOND JAMES FINANCIAL INC                1.217 RJF     754730109     29.5800        55,000.00      1,315,805.44      1,626,900.00
+REGAL BELOIT                               2.318 RBC     758750103     20.7000        27,800.00        734,422.89        575,460.00
+REGENERON PHARMACEUTICAL                   0.000 REGN    75886F107     18.5100        46,900.00        881,486.11        868,119.00
+REGIS CORP                                 0.461 RGIS    758932107     25.9900        47,400.00        879,565.46      1,231,926.00
+REHABCARE GROUP INC                        0.000 RHB     759148109     19.0800        19,000.00        696,781.14        362,520.00
+RELIANCE STEEL & ALUMINUM                  1.151 RS      759509102     20.8400        35,200.00        699,340.33        733,568.00
+REMINGTON OIL & GAS CORP                   0.000 REM     759594302     16.4100        28,100.00        435,495.72        461,121.00
+RENAL CARE GROUP INC.                      0.000 RCI     759930100     31.6400        55,600.00      1,331,511.32      1,759,184.00
+RESMED INC                                 0.000 RMD     761152107     30.5700        36,100.00      1,082,845.90      1,103,577.00
+RESPIRONICS INC                            0.000 RESP    761230101     30.4310        37,000.00        864,222.18      1,125,947.00
+RIGGS NATL CORP WASH DC                    1.291 RIGS    766570105     15.4900        33,700.00        550,159.69        522,013.00
+RLI CORP                                   1.290 RLI     749607107     27.9000        27,100.00        606,493.29        756,090.00
+ROADWAY CORPORATION                        0.543 ROAD    769742107     36.8100        22,000.00        539,012.23        809,820.00

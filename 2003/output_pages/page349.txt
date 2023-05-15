@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:43   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 021
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+DBS GROUP HOLDINGS                           0.416     6175203      DBS_S       107,000.00          685,050.82
+DELHAIZE-LE LION N                           6.508     4262118      DELB_        38,300.00        1,218,575.66
+DEN NORSKE BANK NO                           0.000     4263304      DNB_N       604,060.00        3,038,947.16
+DENSO CORP Y50                               0.000     6640381      6902_        52,900.00          850,434.53
+DEUTSCHE BANK AG O                          15.907     5750355      DBK_G        77,500.00        5,111,548.76
+DEUTSCHE POST AG                             6.197     4617859      DPW_G        79,300.00        1,401,630.45
+DEUTSCHE TELEKOM D                          25.876     5842359      DTE_G       300,800.00        4,787,333.90
+DEXIA                                        8.404     7147610      DEXB_       316,800.00        3,895,737.60
+DIAGEO ORD GBP 28.                          35.772     0237400      DGE_L       251,383.00        2,564,255.02
+DUTY FREE SHOPS S.A.                         3.241     5440247      HDF_G         8,200.00          144,713.53
+E.ON AG                                     54.493     4942904      EOA_G        95,634.00        5,238,197.26
+EAST JAPAN RAILWAY                           0.000     6298542      9020_           436.00        2,058,010.00
+EFG EUROBANK ERGASIS                         3.838     5654316      EUROB        52,200.00          886,047.28
+EISAI CO JPY50                               0.000     6307200      4523_        26,700.00          593,157.17
+ELECTRABEL ORD NPV                          17.508     4294791      ELEB_        15,200.00        3,639,762.99
+ELECTROLUX AB - SER B                        0.528     5466782      ELUXB        58,600.00        1,352,941.51
+ENBRIDGE INC                                 2.392     2466149      ENB_C        20,400.00          722,193.09
+ENCANA CORP                                  0.469     2793193      ECA_C        75,400.00        2,852,819.44
+ENDESA SA                                   12.130     5271782      ELE_S       218,700.00        3,006,427.51
+ERICSSON LM-B                                0.074     5959378      ERICB     1,028,700.00        1,671,887.30
+ERSTE BANK DER OESTER SPARK                  2.012     5289837      DESC_        56,700.00        6,533,408.40
+F & P HEALTHCARE                             1.737     6340250      FPH_N        50,000.00          383,301.75
+FANUC JPY50                                  0.000     6356934      6954_        15,300.00          993,930.97
+FISHER & PAYKEL APPLIANCES                   1.683     6421791      FPA_N       287,469.00          705,594.93
+FLETCHER BUILDING LTD                        2.941     6341606      FBU_N       621,200.00        1,608,266.82
+FORTIS                                     134.263     7266139      FORB_       448,800.00        7,810,373.83
+FRANCE TELECOM FRF                          44.875     5176177      FTE_F        52,712.00        1,312,922.44
+FRASER + NEAVE LTD                           0.053     6689458      FNV1_        24,300.00          119,361.47
+FRONTLINE LTD                                0.000     5561052      FRO_N        32,200.00          500,901.08
+FUJI PHOTO FILM CO                           0.000     6356525      4901_        44,524.00        1,436,780.93
+FUJITSU NEW JPY50                            0.000     6356945      6702_       160,097.00        1,047,460.42
+GAS NATURAL SDG-E                            6.465     5650422      GAS_S        52,400.00          990,231.37
+GIVAUDAN                                     0.540     5980613      GIVN_           415.00          168,188.30
+GKN ORSH 0.5GBP                         99,457.222     3064650      GKN_L        79,423.00          359,468.45
+GLAXOSMITHKLINE                            184.138     0925288      GSK_L       397,636.00        8,795,448.58
+GN STORE NORD A/S                            0.000     4501093      GN_DC       158,200.00        1,007,059.43
+GPE BRUX LAMBERT                             7.638     7097328      GBL_B        36,839.00        1,626,186.74
+GREAT UNIV STORES                            5.647     0384704      GUS_L        66,504.00          606,117.94
+GREEK ORG OF FOOTBALL PROGNO                 7.743     7107250      OPAP_        54,800.00          716,099.95

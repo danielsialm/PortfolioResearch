@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:27   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 105
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - 2TR       RUSSELL TRANSITION 2
+Instrument - COM       COMMON STOCK
+
+DUSA PHARMACEUTICALS INC                   0.000 DUSA    266898105     10.7700           100.00            916.97          1,077.00
+DYCOM INDUSTRIES INC.                      0.000 DY      267475101     22.0000         5,000.00         64,421.19        110,000.00
+DYNAMEX INC                                0.000 DDMX    26784F103     19.0600           100.00          1,712.68          1,906.00
+EAGLE MATERIALS INC                        0.980 EXP     26969P108    122.3600           100.00          5,382.64         12,236.00
+EARTHLINK INC                              0.000 ELNK    270321102     11.1100         1,100.00          9,484.60         12,221.00
+ECLIPSYS CORP                              0.000 ECLP    278856109     18.9300           100.00          1,306.75          1,893.00
+ECOLLEGE.COM INC                           0.000 ECLG    27887E100     18.0300           800.00         10,034.16         14,424.00
+EDO CORP                                   0.443 EDO     281347104     27.0600         2,800.00         75,714.74         75,768.00
+EDUCATE INC                                0.000 EEEE    28138P100     11.8000         3,300.00         49,720.44         38,940.00
+EFUNDS CORP                                0.000 EFD     28224R101     23.4400           200.00          3,524.57          4,688.00
+EL PASO ELECTRIC COMPANY                   0.000 EE      283677854     21.0400           200.00          2,750.15          4,208.00
+ELECTRO RENT CORP                          0.000 ELRC    285218103     14.9100           100.00          1,269.84          1,491.00
+ELECTRO SCIENTIFIC INDS INC.               0.000 ESIO    285229100     24.1500           100.00          1,999.47          2,415.00
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.6100           200.00          4,411.67          5,322.00
+ELIZABETH ARDEN INC                        0.000 RDEN    28660G106     20.0600           400.00          8,296.39          8,024.00
+ELKCORP                                    0.594 ELK     287456107     33.6600           100.00          2,891.31          3,366.00
+EMAGEON INC                                0.000 EMAG    29076V109     15.9000         2,600.00         35,160.65         41,340.00
+EMCOR GROUP INC                            0.000 EME     29084Q100     67.5300           300.00         13,040.55         20,259.00
+EMMIS COMMUNICATIONS CL A                  0.000 EMMS    291525103     19.9100         3,800.00         83,333.96         75,658.00
+EMPIRE DIST ELEC CO                        6.296 EDE     291641108     20.3300           100.00          2,187.43          2,033.00
+EMULEX CORP                                0.000 ELX     292475209     19.7900         3,000.00         61,918.57         59,370.00
+ENCORE ACQUISITION CO                      0.000 EAC     29255W100     32.0400           200.00          4,161.03          6,408.00
+ENCORE WIRE CORP                           0.000 WIRE    292562105     22.7600           100.00          1,280.25          2,276.00
+ENCYSIVE PHARMACEUTICALS INC               0.000 ENCY    29256X107      7.8900         3,400.00         31,926.01         26,826.00
+ENERGY CONVERSION DE                       0.000 ENER    292659109     40.7500           100.00          2,068.33          4,075.00
+ENERGY PARTNERS LTD                        0.000 EPL     29270U105     21.7900           100.00          1,510.02          2,179.00
+ENERSYS                                    0.000 ENS     29275Y102     13.0400           200.00          2,596.97          2,608.00
+ENGINEERED SUPPORT SYSTEMS                 0.086 EASI    292866100     41.6400           200.00          5,202.47          8,328.00
+ENSTAR GROUP INC                           0.000 ESGR    29358R107     66.2500           600.00         31,451.92         39,750.00
+ENTEGRIS INC                               0.000 ENTG    29362U104      9.4200         8,200.00         85,458.17         77,244.00
+ENTERCOM COMMUNICATIONS CORP               0.000 ETM     293639100     29.6700           100.00          3,392.30          2,967.00
+ENTRAVISION COMMUNIC                       0.000 EVC     29382R107      7.1200           300.00          2,435.55          2,136.00
+ENTRUST INC                                0.000 ENTU    293848107      4.8400           200.00          1,129.89            968.00
+ENZO BIOCHEM INC.                          0.000 ENZ     294100102     12.4200           100.00          1,478.27          1,242.00
+ENZON PHARMACEUTICALS INC                  0.000 ENZN    293904108      7.4000         7,800.00         98,498.71         57,720.00
+EPIQ SYSTEMS INC                           0.000 EPIQ    26882D109     18.5400           100.00          1,626.89          1,854.00
+EQUINIX INC                                0.000 EQIX    29444U502     40.7600           100.00          4,008.33          4,076.00
+ERESEARCH TECHNOLOGY                       0.000 ERES    29481V108     15.1000           800.00         11,638.04         12,080.00
+ESCALA GROUP INC                           0.000 ESCL    29605W107     20.2800         1,000.00         15,686.91         20,280.00

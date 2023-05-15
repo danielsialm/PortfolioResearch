@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:22   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 021
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+CITIZENS BKG CORP MI                         3.484     174420109   CBCF            52,300        1,412,519.54        1,711,256.00
+CITIZENS COMMUNICATIONS CO                   0.000     17453B101   CZN            495,500        6,463,545.48        6,154,110.02
+CITIZENS FIRST BANCO                         1.578     17461R106   CTZN            12,622          269,570.61          287,781.60
+CITIZENS INC                                 0.000     174740100   CIA             17,655          129,787.07          166,486.65
+CITIZENS SOUTH BANKING CORP                  1.720     176682102   CSBC            10,800          145,425.38          150,660.00
+CITRIX SYSTEMS INC                           0.000     177376100   CTXS           496,300       10,509,956.13       10,526,523.03
+CITY BK LYNNWOOD WAS                         2.461     17770A109   CTBK             9,700          274,961.23          315,250.00
+CITY HLDG CO                                 2.285     177835105   CHCO            30,500          923,918.77        1,067,500.00
+CITY NATIONAL CORP                           1.803     178566105   CYN             75,800        2,966,987.18        4,708,696.00
+CKE RESTARUANTS INC.                         0.000     12561E105   CKR             33,300          221,576.31          212,787.00
+CLAIRE'S STORES INC                          1.273     179584107   CLE            286,122        4,154,048.34        5,390,538.49
+CLARCOR INC.                                 1.133     179895107 Q CLC             54,135        1,610,676.77        2,387,353.50
+CLARK INC                                    7.484     181457102   CLK             43,500          652,646.04          836,940.00
+CLAYTON WILLIAMS ENERGY INC                  0.000     969490101   CWEI            10,600          239,499.72          308,142.00
+CLEAN HARBORS INC                            0.000     184496107   CLHB            39,100          300,354.79          348,381.00
+CLEAR CHANNEL COMMUNICATIONS                 0.854     184502102   CCU          1,212,800       65,764,451.92       56,795,424.01
+CLECO CORP. HOLDING CO.                      5.005     12561W105   CNL            100,000        1,525,852.26        1,798,000.00
+CLEVELAND-CLIFFS INC                         0.785     185896107 Q CLF             11,000          246,586.44          560,450.00
+CLOROX COMPANY                               2.224     189054109 Q CLX            326,800       13,636,267.57       15,869,408.01
+CLOSURE MEDICAL CORP                         0.000     189093107   CLSR            12,300          370,479.89          417,339.00
+CMGI INC                                     0.000     125750109   CMGI           445,900          742,376.88          793,702.00
+CMS ENERGY CORP                              8.450     125896100 Q CMS            245,800        3,956,429.49        2,094,216.00
+CNA FINANCIAL CORP                           0.000     126117100   CNA            129,000        2,988,395.26        3,108,900.00
+CNA SURETY CORP                              0.000     12612L108   SUR             34,400          335,592.54          327,144.00
+CNB FINANCIAL CORP/PA                        3.041     126128107   CCNE             4,400          191,888.29          185,152.00
+CNET NETWORKS INC                            0.000     12613R104   CNET           142,300        1,007,002.49          970,486.00
+CNF TRANSPORTATION                           1.179     12612W104 Q CNF             91,800        2,885,512.78        3,112,019.99
+CNH GLOBAL N.V.                              1.132     N20935206   CNH             62,200          871,602.82        1,032,520.00
+COACH INC                                    0.000     189754104   COH            835,300       14,917,095.91       31,532,574.99
+COACHMEN INDUSTRIES INC                      1.325     189873102   COA              7,400          110,601.42          134,014.00
+COASTAL BANCORP INC                          1.459     19041P105   CBSA             4,900          142,792.80          201,439.00
+COASTAL FINL CORP DE                         1.247     19046E105   CFCP            12,470          153,330.07          219,970.80
+COBIZ INC                                    1.302     190897108   COBZ            10,000          150,772.10          184,200.00
+COCA COLA CO.                                1.734     191216100 Q KO           4,122,600      191,725,208.61      209,221,950.01
+COCA-COLA BOTTLING                           1.869     191098102   COKE             1,600           82,541.88           85,584.00
+COCA-COLA ENTERPRISE                         0.731     191219104   CCE            313,747        8,200,542.51        6,861,646.86
+COEUR D'ALENE MINES CORP.                    0.000     192108108   CDE            215,200          400,545.44        1,243,856.01
+COGNEX CORP.                                 0.849     192422103   CGNX           170,885        3,987,993.30        4,825,792.41
+COGNIZANT TECH SOLUTIONS CORP                0.000     192446102   CTSH            95,100        2,915,847.99        4,340,364.00
+COHERENT INC.                                0.000     192479103   COHR            68,700        1,644,194.53        1,635,060.00

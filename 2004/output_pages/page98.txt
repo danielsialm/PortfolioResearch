@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 066
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+HEXCEL CORP                                0.000 HXL     428291108     14.5000        23,200.00         98,365.33        336,400.00
+HIBBETT SPORTING GOO                       0.000 HIBB    428565105     26.6100        25,950.00        472,248.20        690,529.50
+HIGHLAND HOSPITALITY CORP                  3.202 HIH     430141101     11.2400        57,300.00        629,999.13        644,052.00
+HILB ROGAL & HOBBS CO                      1.158 HRH     431294107Q    36.2400        39,800.00      1,051,933.65      1,442,352.00
+HOLLINGER INTERNATIONAL INC                1.275 HLR     435569108     15.6800        50,900.00        633,905.44        798,112.00
+HOLLY CORP                                 1.148 HOC     435758305     27.8700        31,200.00        449,405.29        869,544.00
+HOLLYWOOD ENTERTAINMENT CORP               0.000 HLYW    436141105     13.0900        79,000.00      1,215,624.98      1,034,110.00
+HOLOGIC INC.                               0.000 HOLX    436440101     27.4700        33,000.00        524,246.89        906,510.00
+HOMESTORE INC                              0.000 HOMS    437852106      3.0300        32,800.00        115,478.74         99,384.00
+HOOKER FURNITURE CORP                      1.233 HOFT    439038100     22.7000        15,000.00        332,500.71        340,500.00
+HOOPER HOLMES INC                          1.013 HH      439104100      5.9200       105,700.00        759,741.94        625,744.00
+HORACE MANN EDUCATORS                      2.201 HMN     440327104Q    19.0800        59,100.00        974,586.43      1,127,628.00
+HORIZON FINANCIAL CORP                     2.623 HRZB    44041F105     20.5800        22,387.00        407,440.61        460,724.46
+HOT TOPIC INC                              0.000 HOTT    441339108     17.1900        53,550.00        926,132.23        920,524.50
+HOUSTON EXPL CO                            0.000 THX     442120101     56.3100        17,600.00        645,016.59        991,056.00
+HUB GROUP INC                              0.000 HUBG    443320106     52.2200         8,000.00        295,380.54        417,760.00
+HUDSON HIGHLAND GROUP INC                  0.000 HHGP    443792106     28.8000         3,500.00        102,950.33        100,800.00
+HUDSON RIV BANCORP I                       1.819 HRBT    444128102     19.7900        33,752.00        544,087.79        667,952.08
+HUMAN GENOME SCIENCE                       0.000 HGSI    444903108     12.0200       144,200.00      1,712,820.30      1,733,284.00
+HURON CONSULTING GROUP INC                 0.000 HURN    447462102     22.2000         6,400.00        139,256.96        142,080.00
+HUTCHINSON TECH.                           0.000 HTCH    448407106     34.5700        35,800.00        967,973.50      1,237,606.00
+HYDRIL                                     0.000 HYDL    448774109     45.5100        17,657.00        465,957.75        803,570.07
+HYPERCOM CORP                              0.000 HYC     44913M105      5.9200        85,000.00        614,109.57        503,200.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     46.6200        43,300.00      1,293,038.95      2,018,646.00
+I-FLOW CORP                                0.000 IFLO    449520303     18.2300        20,186.00        283,699.25        367,990.78
+IBERIABANK CORP                            1.687 IBKC    450828108     66.3600         6,945.00        394,498.00        460,870.20
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     27.3400        11,700.00        379,423.24        319,878.00
+IDACORP, INC.                              3.925 IDA     451107106     30.5700        49,500.00      1,938,174.14      1,513,215.00
+IDENIX PHARMACEUTICALS INC                 0.000 IDIX    45166R204     17.1500         6,400.00        103,325.44        109,760.00
+IDENTIX INC                                0.000 IDNX    451906101      7.3800        98,000.00        644,823.55        723,240.00
+IDEX CORPORATION                           1.185 IEX     45167R104     40.5000        55,700.00      1,233,952.92      2,255,850.00
+IDX SYSTEMS CORP                           0.000 IDXC    449491109     34.4600        23,000.00        455,187.73        792,580.00
+IHOP CORP.                                 2.387 IHP     449623107     41.8900        22,500.00        679,698.52        942,525.00
+II VI INC                                  0.000 IIVI    902104108     42.4900        17,700.00        480,726.49        752,073.00
+IMAGISTICS INTERNATIONAL INC               0.000 IGI     45247T104     33.6600        18,500.00        398,420.24        622,710.00
+IMATION CORP                               1.256 IMN     45245A107     31.8300        44,600.00      1,530,894.19      1,419,618.00
+IMMUCOR INC                                0.000 BLUD    452526106     23.5100        49,650.00        340,708.19      1,167,271.50
+IMMUNICON CORP                             0.000 IMMC    45260A107      6.9800         6,700.00         54,872.35         46,766.00
+IMMUNOGEN INC                              0.000 IMGN    45253H101      8.8400        40,705.00        202,265.43        359,832.20

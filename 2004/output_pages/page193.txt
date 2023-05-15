@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:02   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 161
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+GENERAL MARITIME CORP                      0.000 GMR     Y2692M103     39.9500         5,500.00        210,351.35        219,725.00
+GENESEE & WYO INC                          0.000 GWR     371559105     28.1300         6,900.00        163,756.40        194,097.00
+GENESIS HEALTHCARE CORP                    0.000 GHCI    37184D101     35.0300        20,200.00        631,769.48        707,606.00
+GENLYTE GROUP INC                          0.000 GLYT    372302109     85.6800        10,200.00        681,687.63        873,936.00
+GIBRALTAR INDUSTRIES INC                   0.846 ROCK    374689107     23.6200        30,200.00        634,753.99        713,324.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      8.2900        71,900.00        590,324.77        596,051.00
+GRANITE CONSTRUCTION INC                   1.503 GVA     387328107     26.6000        40,500.00        816,419.29      1,077,300.00
+GREENBRIER COS INC                         0.709 GBX     393657101     33.8500         2,000.00         49,520.00         67,700.00
+GREIF INC                                  1.142 GEF     397624107     56.0000         9,600.00        536,089.36        537,600.00
+GUILFORD PHARMACEUTICALS INC               0.000 GLFD    401829106      4.9500        36,800.00        164,783.04        182,160.00
+HANCOCK HLDG CO                            1.972 HBHC    410120109     33.4600         9,200.00        243,450.19        307,832.00
+HOOKER FURNITURE CORP                      1.233 HOFT    439038100     22.7000         1,800.00         38,007.54         40,860.00
+HOUSTON EXPL CO                            0.000 THX     442120101     56.3100        17,200.00        651,032.70        968,532.00
+HUB GROUP INC                              0.000 HUBG    443320106     52.2200         5,900.00        229,453.36        308,098.00
+HUGHES SUPPLY INC.                         0.803 HUG     444482103     32.3500        17,400.00        490,714.80        562,890.00
+HUMANA INC.                                0.000 HUM     444859102     29.6900        44,200.00        718,882.06      1,312,298.00
+HYDRIL                                     0.000 HYDL    448774109     45.5100        11,700.00        510,798.60        532,467.00
+IBERIABANK CORP                            1.687 IBKC    450828108     66.3600         2,800.00        153,458.20        185,808.00
+INCYTE CORP                                0.000 INCY    45337C102      9.9900        21,000.00        218,013.00        209,790.00
+INFINITY PROPERTY & CASUALTY C             0.625 IPCC    45665Q103     35.2000        23,300.00        674,237.87        820,160.00
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103     20.5200        10,062.00        198,830.15        206,472.24
+INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     22.4200         5,600.00        105,358.49        125,552.00
+INTERLAND INC                              0.000 INLD    458727203      3.2700        15,500.00         53,935.35         50,685.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     49.0300         3,500.00        109,516.75        171,605.00
+JACK IN THE BOX INC.                       0.000 JBX     466367109     36.8700        32,400.00        926,388.72      1,194,588.00
+JO-ANN STORES INC                          0.000 JAS     47758P307     27.5400         2,300.00         63,849.80         63,342.00
+JONES LANG LASALLE I                       0.000 JLL     48020Q107     37.4100        20,700.00        529,240.26        774,387.00
+JOURNAL COMMUNICATIONS INC                 1.438 JRN     481130102     18.0700        16,500.00        265,723.36        298,155.00
+KENNAMETAL INC                             1.366 KMT     489170100     49.7700        10,900.00        505,858.08        542,493.00
+KEYNOTE SYSTEMS INC                        0.000 KEYN    493308100     13.9200         9,600.00        119,653.44        133,632.00
+LA QUINTA INNS INC                         0.770 LQI     50419U202      9.0900       144,200.00      1,003,171.47      1,310,778.00
+LACLEDE GROUP HLDG. CO.                    4.366 LG      505597104     31.1500         6,300.00        181,470.38        196,245.00
+LAIDLAW INTERNATIONAL INC                  0.000 LI      50730R102     21.4000        57,100.00        905,917.59      1,221,940.00
+LANCE INC                                  3.363 LNCE    514606102Q    19.0300        27,600.00        301,751.04        525,228.00
+LANDAMERICA FINANCIAL GROUP                1.112 LFG     514936103     53.9300        20,900.00        815,304.99      1,127,137.00
+LAYNE CHRISTENSEN COMPANY                  0.000 LAYN    521050104     18.1500         5,500.00         81,131.60         99,825.00
+LECROY CORP                                0.000 LCRY    52324W109     23.3400         7,600.00        153,703.92        177,384.00
+LIGHTBRIDGE INC                            0.000 LTBG    532226107      6.0400        10,234.00         50,024.81         61,813.36
+LITHIA MOTORS INC - CL A                   1.193 LAD     536797103     26.8200        22,300.00        474,709.71        598,086.00

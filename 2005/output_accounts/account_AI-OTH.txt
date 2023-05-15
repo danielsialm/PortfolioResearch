@@ -1,0 +1,13 @@
+Instrument - AIF       ALTERNATIVE INVESTMENT FUNDS
+
+ARES CORPORATE OPPORTUNITES FU             0.000 9940740XAOARES         0.0000    31,414,933.41     31,414,932.85     51,763,247.66
+BEACON GROUP ENERGY FUND II                0.000 9940482GABEACONGR      0.0000           999.34            999.34      3,028,796.00
+BROOKSIDE CAPITAL PARTNERS FUN             0.000 9940737YAOBROOKSI      0.0000    50,000,000.00     50,000,000.00     59,215,739.00
+LIME ROCK PARTNERS II                      0.000 9940667TAOLIMEROC      0.0000    16,425,533.00     16,425,532.57     37,342,704.02
+LIME ROCK PARTNERS III                     0.000 AOLIMEROAOLIMEROC      0.0000     5,347,776.00      5,347,776.00      5,090,697.00
+SUNRISE CAPITAL PARTNERS                   0.000 ASUNRISEASUNRISE       0.0000    27,025,964.00     27,025,963.81     12,622,985.00
+
+Instrument Total             6                                                   130,215,205.75    130,215,204.57    169,064,168.68
+
+Portfolio Total              6                                                   130,215,205.75    130,215,204.57    169,064,168.68
+

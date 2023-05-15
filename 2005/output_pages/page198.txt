@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:39   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 165
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FC       FULLER THALER - 2000
+Instrument - COM       COMMON STOCK
+
+3COM CORP.                                 0.000 COMS    885535104      3.6000       190,200.00        629,184.31        684,720.00
+ADTRAN INC.                                1.210 ADTN    00738A106     29.7400        33,300.00        986,123.68        990,342.00
+ADVENT SOFTWARE INC                        0.000 ADVS    007974108     28.9100        16,400.00        280,220.99        474,124.00
+ALLEGHENY ENERGY INC.                      5.434 AYE     017361106Q    31.6500        29,100.00        393,111.27        921,015.00
+ALLIANCE GAMING CORP                       0.000 AGI     01859P609     13.0200        42,200.00        480,547.36        549,444.00
+ALPHARMA, INC.-CL A                        0.631 ALO     020813101Q    28.5100        40,000.00        796,873.83      1,140,400.00
+ANDREW CORP.                               0.000 ANDW    034425108     10.7300        41,900.00        540,490.72        449,587.00
+AQUANTIVE INC                              0.000 AQNT    03839G105     25.2400        48,500.00        674,308.82      1,224,140.00
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      9.4700        72,100.00        813,813.05        682,787.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     54.7600        19,900.00        974,222.83      1,089,724.00
+AVOCENT CORPORATION                        0.000 AVCT    053893103     27.1900        29,200.00        994,377.06        793,948.00
+AXCELIS TECHNOLOGIES INC                   0.000 ACLS    054540109      4.7700        80,200.00        595,002.66        382,554.00
+BANNER CORP                                2.307 BANR    06652V109     31.2000        16,700.00        389,330.18        521,040.00
+BOMBAY COMPANY                             0.000 BBA     097924104      2.9600        73,300.00        518,868.00        216,968.00
+BOWNE & CO INC.                            1.482 BNE     103043105     14.8400        31,800.00        441,708.36        471,912.00
+CATALINA MARKETING CORP                    1.183 POS     148867104     25.3500        18,000.00        469,079.25        456,300.00
+CATO CORP CL A                             2.424 CTR     149205106     21.4500        21,750.00        444,580.74        466,537.50
+CEC ENTERTAINMENT, INC.                    0.000 CEC     125137109     34.0400        13,600.00        531,799.97        462,944.00
+CHIQUITA BRANDS                            1.999 CQB     170032809Q    20.0100        28,400.00        558,952.88        568,284.00
+CHURCH & DWIGHT INC                        0.726 CHD     171340102Q    33.0300        29,600.00        907,090.25        977,688.00
+CIRRUS LOGIC INC                           0.000 CRUS    172755100      6.6800       104,200.00        780,318.79        696,056.00
+CITY HLDG CO                               2.781 CHCO    177835105     35.9500        14,200.00        432,777.75        510,490.00
+COLDWATER CREEK INC.                       0.000 CWTR    193068103     30.5300        26,400.00        789,352.31        805,992.00
+COMMERCIAL METALS CO.                      0.639 CMC     201723103     37.5400        21,400.00        530,329.60        803,356.00
+CONVERGYS CORPORATION                      0.000 CVG     212485106     15.8500        38,200.00        548,603.51        605,470.00
+CSK AUTO CORP                              0.000 CAO     125965103     15.0800         9,200.00        135,892.28        138,736.00
+DADE BEHRING HOLDINGS INC                  0.293 DADE    23342J206     40.8900        32,000.00        787,375.14      1,308,480.00
+DEL MONTE FOODS CO                         1.534 DLM     24522P103     10.4300        47,300.00        516,304.58        493,339.00
+DOMINO'S PIZZA INC                         1.652 DPZ     25754A201     24.2000        41,600.00        884,923.87      1,006,720.00
+DRESS BARN INC.                            0.000 DBRN    261570105     38.6100        22,700.00        777,414.04        876,447.00
+DYCOM INDUSTRIES INC.                      0.000 DY      267475101     22.0000        25,700.00        540,559.18        565,400.00
+EDGEWATER TECHNOLOGIN INC.                 0.000 EDGW    280358102      5.9000        60,000.00        303,650.19        354,000.00
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.6100        40,400.00        987,088.86      1,075,044.00
+EMULEX CORP                                0.000 ELX     292475209     19.7900        52,900.00        891,236.39      1,046,891.00
+ENTERCOM COMMUNICATIONS CORP               0.000 ETM     293639100     29.6700        14,400.00        508,541.02        427,248.00
+ESPEED INC                                 0.000 ESPD    296643109      7.7100        51,900.00        466,202.91        400,149.00
+FILENET CORP                               0.000 FILE    316869106     25.8500        24,800.00        671,492.36        641,080.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     17.2500        26,400.00        322,316.50        455,400.00
+FOUNDRY NETWORKS INC                       0.000 FDRY    35063R100     13.8100        80,900.00        992,575.67      1,117,229.00

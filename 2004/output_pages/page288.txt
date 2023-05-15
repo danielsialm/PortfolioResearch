@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 069
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SWIFT TRANSPORTATION CO.                     0.000     870756103   SWFT           123,589        2,172,237.48        2,654,691.72
+SWS GROUP INC                                1.824     78503N107   SWS              3,100           44,125.75           67,952.00
+SYBASE INC.                                  0.000     871130100   SY             252,902        4,182,306.81        5,045,394.90
+SYBRON DENTAL SPECIALTIES                    0.000     871142105   SYD             78,500        1,733,931.65        2,777,330.00
+SYCAMORE NETWORKS INC                        0.000     871206108   SCMR           320,471        1,339,485.10        1,301,112.26
+SYKES ENTERPRISES                            0.000     871237103   SYKE           122,175          689,461.58          849,116.25
+SYMANTEC CORP                                0.000     871503108   SYMC         1,231,800       14,317,756.55       31,731,168.00
+SYMBION INC                                  0.000     871507109   SMBI            65,800        1,121,119.90        1,452,864.00
+SYMBOL TECHNOLOGIES INC                      0.115     871508107   SBL            331,430        5,538,139.88        5,733,739.00
+SYMMETRICOM INC                              0.000     871543104   SYMM            49,889          380,666.82          484,422.19
+SYMMETRY MEDICAL INC                         0.000     871546206   SMA              6,000           90,000.00          126,300.00
+SYMYX TECHNOLOGIES INC.                      0.000     87155S108   SMMX            38,556          880,337.31        1,159,764.48
+SYNAPTICS INC                                0.000     87157D109   SYNA            80,740        1,757,968.63        2,469,029.20
+SYNNEX CORP                                  0.000     87162W100   SNX             30,700          572,429.04          738,642.00
+SYNOPSYS INC.                                0.000     871607107   SNPS           646,363       14,726,461.04       12,681,642.06
+SYNOVUS FINANCIAL CORP                       2.424     87161C105   SNV            345,500        8,520,603.49        9,874,390.00
+SYNTEL INC                                   1.368     87162H103   SYNT             8,100          165,562.05          142,074.00
+SYNTROLEUM CORP.                             0.000     871630109   SYNM               400            2,771.99            3,212.00
+SYPRIS SOLUTIONS INC                         0.783     871655106   SYPR             7,454          102,262.49          114,120.74
+SYSCO CORP.                                  1.571     871829107 Q SYY            981,100       24,377,732.50       37,448,587.00
+SYSTEMAX INC                                 0.000     871851101   SYX             10,700           67,584.62           78,538.00
+T ROWE PRICE GROUP INC.                      1.479     74144T108 Q TROW           202,800        7,330,825.69       12,614,160.00
+TAIWAN SEMICONDUCTOR ADR                     0.306     874039100   TSM            949,100        7,770,042.52        8,057,859.00
+TAKE-TWO INTERACTIVE SOFTWARE                0.000     874054109   TTWO           131,100        3,742,639.54        4,560,968.99
+TALK AMERICA HOLDINGS INC                    0.000     87426R202   TALK            96,600          684,053.97          639,492.00
+TALX CORP                                    0.930     874918105   TALX            15,200          336,470.35          392,008.00
+TANOX INC                                    0.000     87588Q109   TNOX            38,200          636,131.06          580,640.00
+TARGET CORP                                  0.616     87612E106 Q TGT          1,812,300       53,069,353.93       94,112,739.00
+TARO PHARMACEUTICAL INDUS                    0.000     M8737E108   TARO            21,600          491,799.18          735,048.00
+TASER INTERNATIONAL INC                      0.000     87651B104   TASR            41,400          808,695.44        1,307,826.00
+TAYLOR CAPITAL GROUP INC                     0.716     876851106   TAYC             4,324          102,007.70          144,854.00
+TBC CORP                                     0.000     872183108   TBCC            29,900          395,354.74          831,220.00
+TCF FINANCIAL CORP                           2.644     872275102   TCB            384,200        9,943,586.83       12,348,188.00
+TECH DATA CORP                               0.000     878237106   TECD           199,700        7,494,744.37        9,066,380.00
+TECHNE CORPORATION                           0.000     878377100   TECH            58,600        2,067,869.94        2,279,540.00
+TECHNICAL OLYMPIC US                         0.236     878483106   TOA             29,300          716,304.26          743,634.00
+TECHNITROL INC.                              0.769     878555101   TNL             44,800          983,913.46          815,360.00
+TECO ENERGY                                  4.954     872375100 Q TE             327,700        4,548,443.62        5,026,918.00
+TECUMSEH PRODUCTS CO CL-A                    2.677     878895200   TECUA           58,454        2,405,563.75        2,794,101.20
+TEJON RANCH CO DEL                           0.000     879080109   TRC              2,500           83,514.84          102,000.00

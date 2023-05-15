@@ -1,0 +1,54 @@
+ASOF02   Date 01/21/2005 Time 18:35:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 153
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+MIPS TECHNOLOGIES IN                       0.000 MIPS    604567107      9.8500        95,400.00        725,548.66        939,690.00
+NANOMETRICS INC                            0.000 NANO    630077105     16.1190        68,500.00        759,037.04      1,104,151.50
+NATUS MEDICAL INC                          0.000 BABY    639050103      8.0000        84,700.00        480,117.32        677,600.00
+NAVARRE CORP                               0.000 NAVR    639208107     17.6000        57,000.00        732,518.26      1,003,200.00
+NEW FRONTIER MEDIA INC                     0.000 NOOF    644398109      7.9190        88,800.00        647,729.44        703,207.20
+NOVAVAX INC                                0.000 NVAX    670002104      3.2500       143,000.00        539,348.55        464,750.00
+ONYX SOFTWARE CORP                         0.000 ONXS    683402200      3.2000       122,700.00        476,126.79        392,640.00
+OREGON STEEL MILLS INC                     0.000 OS      686079104Q    20.2900        80,800.00        661,683.53      1,639,432.00
+PALOMAR MEDICAL TECHNOLOGIES I             0.000 PMTI    697529303     26.0700        34,400.00        562,810.36        896,808.00
+PC MALL INC                                0.000 MALL    69323K100     22.3800        40,300.00        770,003.09        901,914.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     20.7700        29,800.00        385,666.35        618,946.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      6.1000       134,300.00        582,862.00        819,230.00
+PRIME MONEY MARKET - 6FT                   0.000 IT-FUL  IT-FUL         1.0000     1,276,644.77      1,276,644.75      1,276,644.78
+RADYNE COMSTREAM INC                       0.000 RADN    750611402      7.4700        88,000.00        835,612.80        657,360.00
+REDBACK NETWORKS                           0.000 RBAK    757209507      5.3600       186,700.00        776,929.26      1,000,712.00
+REPUBLIC FIRST BANCORP INC                 0.000 FRBK    760416107     15.3000        44,770.00        264,258.96        684,981.00
+ROFIN-SINAR TECHNOLOGIES INC               0.000 RSTI    775043102     42.4500        24,800.00        636,415.72      1,052,760.00
+SABA SOFTWARE INC                          0.000 SABA    784932600      4.0000       141,224.00        541,501.56        564,896.00
+SANTANDER BANCORP                          2.122 SBP     802809103     30.1600        33,660.00        461,373.63      1,015,185.60
+SELECTICA INC                              0.000 SLTC    816288104      3.5800       107,850.00        340,002.78        386,103.00
+SIRENZA MICRODEVICES INC                   0.000 SMDI    82966T106      6.5600       102,900.00        471,486.95        675,024.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      4.7100       226,700.00        306,824.50      1,067,757.00
+THREE-FIVE SYSTEMS INC                     0.000 TFS     88554L108      2.4200        88,500.00        505,692.54        214,170.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      1.5400       387,300.00        498,032.01        596,442.00
+TWEETER HOME ENTERTAINMENT GRO             0.000 TWTR    901167106      6.8500       103,000.00        651,990.00        705,550.00
+UBIQUITEL INC                              0.000 UPCS    903474302      7.1200       127,900.00        367,320.57        910,648.00
+UNIFI INC                                  0.000 UFI     904677101      3.8300       165,900.00        552,496.29        635,397.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104     20.3200        67,600.00        660,023.81      1,373,632.00
+VIRAGE LOGIC CORPORATION                   0.000 VIRL    92763R104     18.5700        49,600.00        797,616.34        921,072.00
+WATCHGUARD TECHNOLOGIES INC                0.000 WGRD    941105108      4.4300       120,700.00        598,536.04        534,701.00
+WESTMORELAND COAL CO                       0.000 WLB     960878106     30.4600        32,900.00        547,605.43      1,002,134.00
+WITNESS SYS INC                            0.000 WITS    977424100     17.4600        84,100.00        713,340.56      1,468,386.00
+
+Instrument Total            71                                                     8,071,773.77     42,992,788.94     58,136,219.83
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMERICAN LAND LEASE INC                    4.436 ANL     027118108     22.5400        27,900.00        536,209.04        628,866.00
+
+Instrument Total             1                                                        27,900.00        536,209.04        628,866.00
+
+Portfolio Total             72                                                     8,099,673.77     43,528,997.98     58,765,085.83
+

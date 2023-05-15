@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 086
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+INLAND REAL ESTATE CORP                    6.490 IRC     457461200     14.7900        70,900.00      1,131,393.84      1,048,611.00
+INNKEEPERS USA TRUST                       3.750 KPA     4576J0104     16.0000        45,100.00        538,859.39        721,600.00
+INVESTORS REAL ESTAT                       7.085 IRETS   461730103      9.2300        39,200.00        378,772.12        361,816.00
+JER INVESTORS TRUST INC                    7.787 JRT     46614H301     16.9500        12,900.00        233,232.00        218,655.00
+KILROY RE CORP                             3.295 KRC     49427F108     61.9000        30,500.00        866,871.90      1,887,950.00
+KITE REALTY GROUP TRUST                    4.848 KRG     49803T102     15.4700         7,500.00        110,618.25        116,025.00
+LASALLE HOTEL PROPERTIES                   3.268 LHO     517942108     36.7200        34,300.00        861,897.40      1,259,496.00
+LEXINGTON CORP PPTYS                       5.028 LXP     529043101     21.3000        51,200.00        997,811.29      1,090,560.00
+MAGUIRE PROPERTIES INC                     5.178 MPG     559775101     30.9000        21,800.00        542,263.64        673,620.00
+MEDICAL PROPERTIES TRUST INC               7.362 MPW     58463J304      9.7800        11,300.00        110,966.00        110,514.00
+MERISTAR HOSPITALITY CORP.                 0.425 MHX     58984Y103      9.4000       129,200.00        967,041.26      1,214,480.00
+MID-AMERICAN APARTMENT                     4.907 MAA     59522J103     48.5000        19,900.00        798,318.07        965,150.00
+NATIONAL HEALTH REAL                       7.162 NHR     635905102     18.5700         7,700.00        148,185.00        142,989.00
+NATIONWIDE HEALTH PP                       6.915 NHP     638620104     21.4000        70,800.00      1,320,621.55      1,515,120.00
+NEWCASTLE INVESTMENT CORP                 10.060 NCT     65105M108     24.8500        57,900.00      1,555,412.51      1,438,815.00
+NOVASTAR FINL INC                         19.921 NFI     669947400     28.1100        38,000.00      1,531,315.98      1,068,180.00
+OMEGA HEALTHCARE INV                       7.307 OHI     681936100     12.5900        54,000.00        571,482.81        679,860.00
+PARKWAY PROPERTYS INC                      5.291 PKY     70159Q104     40.1400        13,000.00        592,332.87        521,820.00
+PENNSYLVANIA RI                            5.629 PEI     709102107     37.3600        36,528.00      1,243,394.61      1,364,686.08
+POST PROPERTIES,INC.                       4.505 PPS     737464107Q    39.9500        42,200.00      1,224,955.98      1,685,890.00
+PRENTISS PROPERTIES TRUST                  0.245 PP      740706106     40.6800        47,600.00      1,625,257.99      1,936,368.00
+PS BUSINESS PARKS INC/CA                   2.357 PSB     69360J107     49.2000        17,400.00        673,147.66        856,080.00
+RAIT INVT TR                               9.413 RAS     749227104     25.9200        40,900.00      1,104,105.55      1,060,128.00
+RAMCO-GERSHENSON PPT                       3.591 RPT     751452202     26.6500        15,300.00        452,972.17        407,745.00
+REDWOOD TR INC                             5.206 RWT     758075402     41.2600        27,500.00      1,408,575.61      1,134,650.00
+SAUL CENTERS INC                           4.653 BFS     804395101     36.1000        11,500.00        389,594.34        415,150.00
+SAXON CAPITAL INC                         17.652 SAX     80556T106     11.3300        82,100.00      1,346,379.57        930,193.00
+SIZELER PPTY INVS IN                       3.112 SIZ     830137105     12.8500        19,400.00        253,438.21        249,290.00
+SOVRAN SELF STORAGE                        5.237 SSS     84610H108     46.9700        17,100.00        589,017.21        803,187.00
+SPIRIT FINANCE CORP                        7.400 SFC     848568309     11.3500        71,400.00        795,109.56        810,390.00
+STRATEGIC HOTEL CAPITAL INC                4.276 SLH     86272T106     20.5800        43,600.00        795,445.82        897,288.00
+SUN COMMUNITIES INC                        8.025 SUI     866674104     31.4000         3,100.00        119,795.55         97,340.00
+SUNSTONE HOTEL INVESTORS INC               4.516 SHO     867892101     26.5700        43,200.00        916,929.91      1,147,824.00
+TANGER FACTORY OUTLET                      4.488 SKT     875465106     28.7400        16,100.00        373,711.02        462,714.00
+TARRAGON CORP                              0.000 TARR    876287103     20.6200        29,443.00        452,860.23        607,114.66
+TAUBMAN CENTERS INC                        2.204 TCO     876664103Q    34.7500        39,500.00        822,809.14      1,372,625.00
+TOWN & COUNTRY TRUST                       2.863 TCT     892081100     33.8100         2,900.00         75,269.18         98,049.00
+TRUSTREET PROPERTIES INC                   9.028 TSY     898404108     14.6200        33,100.00        523,529.49        483,922.00
+U-STORE-IT TRUST                           5.510 YSI     91274F104     21.0500        57,700.00      1,165,275.56      1,214,585.00

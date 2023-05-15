@@ -1,4 +1,4 @@
-ASOF03   Date 01/24/2002 Time 21:29:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 004
+ASOF03   Date 01/24/2002 Time 21:29:53   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 006
 
 Monthly Market Portfolio
 
@@ -6,20 +6,45 @@ Investment Desc                                               Yield         Iden
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Group - REAL ESTATE
-Portfolio  - REM       RE MIDWEST REGION
-Instrument - R         RETAIL
+Portfolio  - RES       RE SOUTH REGION
+Instrument - O         OFFICE
 
-OLENTANGY PLAZA                COLUMBUS                       10.000         ROPL01                 15,818,833.15     23,100,000.00
-STRATFORD SQUARE MALL          CHICAGO                         9.000         RSFSQ1                 34,219,150.29     31,250,000.00
-VILLAGE CROSSING               SKOKIE/NILES                    9.600         RVLCR1                 37,893,105.51     23,500,000.00
+SOUTHPARK ONE                  AUSTIN                         11.500         RSPK01                 10,408,643.00     18,100,000.00
 
-Instrument Total             6                                                                     289,644,867.69    306,950,000.01
+Instrument Total            10                                                                     264,511,386.06    288,153,205.80
 
-Instrument -X      OTHER
+Instrument -R      RETAIL
 
-WESTBELT WEST PK               COLUMBUS                       10.000         RWSBT1                    787,645.14        424,999.99
-
-Instrument Total             1                                                                         787,645.14        424,999.99
-
-Portfolio Total             28                                                                     833,094,643.46    890,910,714.00
-
+BRADLEES #02                   GREENBELT                       9.750         RMEM04                  4,900,000.00      5,600,000.00
+BRADLEES #03                   COLUMBIA                        8.875         RMEM05                  4,300,000.00      4,400,000.00
+BRADLEES #04                   BURKE                          11.250         RMEM06                  5,512,600.00      5,600,000.00
+CREEKSIDE                      FT. WORTH, TX                   0.000         RCRKSD                  2,671,263.60      2,450,000.00
+EAGLE #10                      URBANA, IL                      9.000         REAG10                  1,202,351.04        600,000.00
+GEMCO #05                      YUBA CITY                       8.875         RGEM05                  4,000,000.00      4,400,000.00
+GEMCO #08                      SANTA MARIA                     8.875         RGEM08                  4,400,000.00      5,000,000.00
+GEMCO #11                      BAKERSFIELD                     9.320         RGEM11                  4,900,000.00      5,400,000.00
+GEMCO #12                      CATHEDRAL CITY                  9.382         RGEM12                  5,500,000.00      5,800,000.00
+GEMCO #13                      VALLEJO                         8.875         RGEM13                  3,200,000.00      5,000,000.00
+K MART #06                     AMARILLO                        9.550         RKM006                  2,800,000.00      2,200,000.00
+K MART #08 PM1                 KIMBERLY                       11.580         RKM081                  2,218,359.68      1,559,769.83
+K MART #34 PM1                 MILLIARD                       11.650         RKM341                  2,281,903.87      2,562,475.22
+K MART #37 PM1                 HOUSTON                        11.630         RKM371                  2,102,632.89      1,099,999.99
+K MART #41                     INDIANAPOLIS                    9.700         RKM041                  2,964,122.00      3,700,000.00
+K MART #44                     S PASADENA                      9.550         RKM044                  3,000,000.00      3,300,000.00
+K MART #47 PM1                 ROCHESTER                      11.530         RKM471                  3,040,185.37      3,434,420.76
+K MART #50                     SPRINGFIELD                     9.550         RKM050                  3,468,664.00      4,000,000.00
+K MART #57                     MILWAUKEE                       9.550         RKM057                  3,100,000.00      2,400,000.00
+KILLEEN MALL                   KILLEEN, TX                    10.120         ROGW01                  1,319,903.55      1,319,903.58
+KROGER #02                     COVINGTON                      10.000         RKR002                  2,252,581.00      2,100,000.00
+KROGER #03                     LOUISVILLE                     10.000         RKR003                  1,959,115.00      2,000,000.00
+KROGER #04                     CARTERSVILLE                   10.000         RKR004                  2,254,876.00      2,400,000.00
+KROGER #09                     FAYETTEVILLE                   10.000         RKR009                  1,351,062.00      1,800,000.00
+KROGER #11                     DALTON                         10.250         RKR011                  2,390,956.10      2,100,000.00
+KROGER #13                     DUNCANVILLE                    10.250         RKR013                  2,545,346.34      2,000,000.00
+KROGER #15                     ARLINGTON                      10.250         RKR015                  4,723,707.32      4,600,000.00
+KROGER #16                     LANETT                         10.250         RKR016                  2,360,976.00      1,575,000.00
+KROGER #17                     W COLUMBIA                     10.250         RKR017                  2,527,800.50      1,900,000.00
+KROGER #19                     COLLIERVILLE                   10.250         RKR019                  4,532,260.79      5,600,000.00
+KROGER #21                     SPARTA                         10.250         RKR021                  1,500,000.00      1,700,000.00
+KROGER #22                     WINCHESTER                     10.000         RKR022                  1,839,030.00      1,500,000.00
+KROGER #25                     PADUCAH                        10.250         RKR025                  2,305,000.00      2,400,000.00

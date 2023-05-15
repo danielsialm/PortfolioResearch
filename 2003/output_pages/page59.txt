@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 029
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - COM       COMMON STOCK
+
+HILLENBRAND IND.                           1.740 HB      431573104Q    62.0600        12,100.00        651,229.54        750,926.00
+HILTON HOTELS CORP.                        0.467 HLT     432848109Q    17.1300       128,500.00      1,500,247.10      2,201,205.01
+HON INDUSTRIES                             1.200 HNI     438092108     43.3200        56,500.00      1,646,587.90      2,447,580.01
+HORMEL FOODS CORP                          1.743 HRL     440452100     25.8100       125,100.00      2,715,897.91      3,228,831.01
+HOVNANIAN ENTERPRISES-A                    0.000 HOV     442487203     87.0600        40,200.00      3,394,270.91      3,499,812.00
+HUBBELL INC                                2.993 HUB.B   443510201Q    44.1000        84,000.00      2,603,134.39      3,704,399.99
+HUDSON CITY BANCORP INC                    1.571 HCBK    443683107     38.1800        72,400.00      1,912,679.90      2,764,232.01
+HUDSON UNITED BANCORP                      3.247 HU      444165104     36.9500        68,400.00      2,162,915.82      2,527,380.00
+HUMAN GENOME SCIENCE                       0.000 HGSI    444903108     13.2500       108,300.00      1,293,002.64      1,434,975.00
+HUMANA INC.                                0.000 HUM     444859102     22.8500       365,800.00      7,024,227.06      8,358,530.01
+HUNT (JB) TRANSPRT SVCS INC                0.000 JBHT    445658107     27.0100        51,800.00      1,257,874.31      1,399,118.00
+HUNTINGTON BANCSHARES                      3.111 HBAN    446150104     22.5000       384,800.00      7,891,373.91      8,658,000.00
+ICOS CORPORATION                           0.000 ICOS    449295104     41.2800        50,700.00      2,268,597.03      2,092,896.00
+IDT CORP                                   0.000 IDT.C   448947101     22.1500        51,400.00        934,505.29      1,138,509.99
+IKON OFFICE SOLUTIONS INC.                 1.349 IKN     451713101Q    11.8600       489,500.00      4,031,695.64      5,805,470.00
+IMATION CORP                               0.910 IMN     45245A107     35.1500        60,000.00      2,055,737.46      2,108,999.99
+INDEPENDENCE COMMUNITY BANK                2.224 ICBC    453414104     35.9700        81,900.00      1,888,537.99      2,945,943.02
+INGRAM MICRO INC CL A                      0.000 IM      457153104     15.9000       315,500.00      4,150,607.65      5,016,450.02
+INSTINET GROUP INCORPORATED                0.000 INGP    457750107      5.1500       545,000.00      2,825,573.00      2,806,750.00
+INTEGRATED DEVICE TECH INC                 0.000 IDTI    458118106     17.1700       104,800.00      2,387,427.23      1,799,416.01
+INTERACTIVE DATA CORP                      0.000 IDC     45840J107     16.5600        31,100.00        511,213.10        515,016.00
+INTERNATIONAL BANCSH                       2.120 IBOC    459044103     47.1500        43,900.00      1,608,902.45      2,069,884.98
+INTERNATIONAL RECTIFIER CORP               0.000 IRF     460254105     49.4100        95,500.00      3,359,848.40      4,718,654.99
+INTERPUBLIC GROUP                          2.435 IPG     460690100Q    15.6000       619,600.00     14,464,456.25      9,665,760.01
+INTERSIL HOLDINGS CORP                     0.482 ISIL    46069S109     24.8500       126,700.00      2,841,373.27      3,148,495.00
+INVITROGEN CORP                            0.000 IVGN    46185R100     70.0000        93,000.00      5,697,217.02      6,510,000.00
+J C PENNEY INC                             1.902 JCP     708160106Q    26.2800       538,200.00     14,523,983.06     14,143,896.00
+JABIL CIRCUIT INC                          0.000 JBL     466313103     28.3000        28,900.00        748,101.78        817,869.98
+JACOBS ENGINEERING GROUP                   0.000 JEC     469814107     48.0100        56,600.00      2,261,906.61      2,717,365.98
+JANUS CAPITAL GROUP INC                    0.243 JNS     47102X105     16.4100       402,700.00      8,292,943.98      6,608,307.00
+JEFFERSON PILOT                            2.606 JP      475070108Q    50.6500       239,100.00      9,387,260.35     12,110,415.00
+JM SMUCKER CO                              2.031 SJM     832696405     45.2900        83,700.00      3,020,167.34      3,790,772.99
+JOHN HANCOCK FINANCIAL SRVCS               0.933 JHF     41014S106     37.5000       486,300.00     17,317,305.74     18,236,250.01
+JOHNSON CONTROLS                           0.775 JCI     478366107Q   116.1200       168,200.00     12,362,483.21     19,531,384.02
+JONES APPAREL GROUP INC                    0.908 JNY     480074103     35.2300       202,100.00      5,893,292.31      7,119,983.00
+KB HOME                                    1.378 KBH     48666K109Q    72.5200        95,700.00      5,124,990.72      6,940,164.00
+KERR MCGEE CORP.                           3.871 KMG     492386107Q    46.4900       106,400.00      5,457,025.20      4,946,535.99
+KEYSPAN CORPORATION                        4.837 KSE     49337W100     36.8000       264,700.00      8,821,305.78      9,740,960.02
+KING PHARMACEUTICALS                       0.000 KG      495582108     15.2600       292,500.00      7,435,288.58      4,463,549.99

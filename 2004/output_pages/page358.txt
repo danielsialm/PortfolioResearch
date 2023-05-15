@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 041
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-EAP     EMERGING ANALYST POR
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+RANBAXY LABORATORIES LTD                     0.031     6101071      RBXY_        28,000.00          235,276.97
+RATCHABURI ELEC GEN HODG-FOR                 0.129     6294249      RATCH       290,000.00          304,555.64
+REALTEK SEMICONDUCTOR                        0.147     6051422      2379_     1,102,785.00        1,793,790.66
+RELIANCE INDUSTRIES                          0.022     6099626      RIL_I       280,000.00        2,295,086.09
+RESORTS WORLD BERHAD                         0.486     6731962      RNB_M       550,000.00        1,259,594.80
+S P SETIA BERHAD GROUP                       1.218     6868774      SPSB_       800,000.00          767,669.05
+SAMPO CORP                                   0.209     6771924      1604_     4,200,000.00        1,775,333.76
+SAMSUNG ELEC MECH                            0.001     6771689      00915        55,200.00        1,701,343.14
+SAMSUNG ELECTRONIC                           0.002     6771720      00593        48,222.00        9,000,164.36
+SAMSUNG FIRE + MAR                           0.001     6155250      00081        40,708.00        1,264,159.48
+SAMSUNG HEAVY INDUSTRIES                     0.002     6772217      01014       181,154.00          552,680.96
+SANLAM LTD ORD ZAR                           0.546     6134022      SLM_S     2,000,000.00        2,679,038.49
+SANSUI ELECTRIC CO LTD                       0.000     6776402      6793_       500,000.00          162,094.16
+SAPPI ZARI(SICOVAM                           0.412     6777007      SAP_S       185,000.00        2,422,631.83
+SASOL NPV                                    0.660     6777450      SOL_S       200,000.00        2,111,241.78
+SATYAM COMPUTER SERVICES                     0.027     6241858      SCS_I       140,000.00          371,384.86
+SEMEN GRESIK(PERS)                           0.000     6795236      SMGR_       151,500.00          168,584.26
+SHIN CORPORATION PCL-FOR                     0.118     6397546      SHIN/       398,000.00          376,490.81
+SHINHAN FINANCIAL GROUP LTD                  0.002     6397502      05555        93,109.00          885,047.14
+SIAM CEMENT CO THB                           0.102     6609906      SCC/F       153,000.00          300,186.96
+SIAM COMMERCIAL BK                           0.073     6889935      SCB/F       532,700.00          484,098.27
+SIME DARBY BERHAD                            1.140     6808769      SDY_M     1,000,000.00        1,453,181.07
+SINOPAC HOLDINGS                             0.080     6525875      2890_     4,089,068.70        1,694,804.57
+SINOTRANS LTD                                0.339     6579010      598_H     2,500,000.00          801,509.24
+SK TELECOM CO LTD                            0.002     6224871      01767        24,251.00        3,982,326.00
+SPAR GROUP LTD                               0.000     B038WK4      SPP_S       265,000.00          836,304.15
+STANDARD BANK GROUP                          0.432     B030GJ7      SBK_S       715,000.00        2,531,234.07
+STATE BK OF INDIA GDR                        1.241     5131091      SBID_        16,000.00          221,929.50
+SUN PHARMACEUTICAL INDUSTRIES                0.020     6582483      SUNP_        28,000.00           87,109.84
+SUN PHARMACEUTICAL NPV - PREFERRED          13.958     6581145      65811        28,000.00                0.00
+SURGUTNEFTEGAS PREFERRED                    29.357     5005884      SNGSP     1,250,000.00          501,746.25
+SURGUTNEFTEGAZ-$US                          18.666     4851732      SNGS_     1,600,000.00          639,929.63
+T IS BANKASI SER C                           0.000     4869939      ISCTR   262,199,999.99          572,587.35
+T.GARANTI BANASI T                           0.000     4361617      GARAN   175,174,000.00          184,603.62
+TAIWAN CELLULAR CORP                         0.211     6290496      3045_     2,578,431.20        2,512,428.24
+TAIWAN SECOM                                 0.162     6877811      9917_     1,017,000.00          763,321.34
+TAIWAN SEMICONDUCTOR MANUFACTURING           0.036     6889106      27933     3,267,501.00        4,605,475.94
+TANJONG PLC                                  1.063     6872526      TJN_M       325,377.00          560,859.70
+TATA MOTORS LTD                              0.036     6101509      TTMT_        64,000.00           94,712.56

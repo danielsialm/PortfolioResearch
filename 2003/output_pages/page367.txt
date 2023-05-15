@@ -1,0 +1,50 @@
+ASOF11   Date 01/20/2004 Time 18:59:47   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 039
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-PAN     INTERNAL EAFE TOPDOW
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+A P MOLLER MAERSK A/S                        0.000     4253048      MAERS           529.00        2,525,067.97
+AEGON NV                                     4.300     5927375      AGN_N        18,523.00          715,133.42
+ALLIANZ AG NPV(REG                           2.382     5231485      ALV_G         9,500.00        2,586,325.08
+ALLIED IRISH BANKS                           6.362     0019783      ALBK_       497,464.00        5,023,169.33
+ASSIC GENERALI SPA                           1.681     4056719      G_IM         22,275.00          572,623.94
+ASTRAZENECA GBP 0.                         285.361     0989529      AZN_L        65,334.00        2,428,919.26
+BARCLAYS PLC ORD G                           6.844     3134865      BARC_       256,040.00        1,614,543.87
+BAYER AG COM NPV                             4.850     5069211      BAY_G        25,500.00        1,062,326.04
+BNP PARIBAS                                  3.822     7309681      BNP_F        24,624.00          885,754.62
+BOEHLER-UDDEHOLM A                           4.710     4121305      BOEH_        15,000.00          625,738.19
+BP AMOCO                                     6.096     0798059      BP/_L       742,115.00        5,507,129.66
+BT GROUP                                     7.084     3091357      BT/A_       200,304.00        1,608,236.05
+CANON INC JPY50                              0.009     6172323      7751_        65,000.00        1,728,924.45
+CAPITALAND LIMITED                           1.118     6309303      CAPL_       631,469.00          896,190.79
+CARLSBERG A/S                                0.311     4169219      CARLB         7,400.00          295,775.97
+CARREFOUR EUR 2.5                            1.854     5641567      CA_FP        16,848.00          964,330.49
+CHARTERED SEMICONDUCTOR                      0.000     6180917      CSM_S       301,834.00          755,413.30
+CHEUNG KONG(HLDGS)                           0.000     6190273      1_HK         62,000.00          682,926.32
+CIA VALE DO RIO DO                           0.000     9993145      VALE_         8,684.00                0.00
+CITY DEVELOPMENTS                            0.429     6197928      CIT_S       407,300.00        1,833,354.29
+CREDIT SUISSE GROUP                          0.178     7171589      CSGN_        20,883.00          949,566.60
+CRH                                          2.556     0182704      CRH_I       250,583.00        3,371,008.76
+DAIMLERCHRYSLER AG                          16.258     5529027      DCX_G        25,500.00        1,770,876.93
+DANISCO A/S                                  0.403     4155586      DCO_D        14,200.00          601,763.75
+DANSKE BANK                                  0.581     4588825      DANSK       126,000.00        1,414,017.79
+DBS GROUP HOLDINGS                           0.707     6175203      DBS_S       491,359.00        3,736,406.99
+DELHAIZE-LE LION N                           2.040     4262118      DELB_        26,089.00        1,518,024.11
+DEN NORSKE BANK NO                           0.813     4263304      DNB_N       187,000.00          811,223.34
+DEUTSCHE BANK AG O                           2.487     5750355      DBK_G        10,500.00          665,174.76
+DEUTSCHE TELEKOM D                           3.209     5842359      DTE_G        63,300.00        2,908,340.22
+DIAGEO ORD GBP 28.                           6.235     0237400      DGE_L        84,362.00          846,695.96
+E.ON AG                                      8.521     4942904      EOA_G        22,400.00        1,205,422.74
+EAST JAPAN RAILWAY                           0.011     6298542      9020_           309.00        1,679,776.91
+ELECTRABEL ORD NPV                           5.490     4294791      ELEB_        24,800.00        6,202,914.71
+ENI SPA                                     20.160     7145056      ENI_I        64,500.00          747,769.60
+ERSTE BANK DER OESTER SPARK                  1.596     5289837      DESC_        42,400.00        2,273,847.93
+FLUGHAFEN WIEN AG                       11,336.316     4359690      FLUG_        19,601.00          757,238.63
+FORTIS                                      26.477     7266139      FORB_       298,487.00        8,566,101.60
+GKN ORSH 0.5GBP                         63,776.804     3064650      GKN_L        42,431.00          453,733.72

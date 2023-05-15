@@ -1,0 +1,80 @@
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+EXPORT DEVELOPMENT CORP              4.162 30215HB17                          8,500,000.00        8,470,148.16
+FNMA DISCOUNT NOTES                  4.212 313589RZ8                         25,000,000.00       24,948,735.03
+
+Instrument Total               2                                             33,500,000.00       33,418,883.19
+
+Instrument -FRB       FLOATING RATE CORPORATE BOND
+
+AMERICAN HONDA FINANCE         A1    3.496 02666QWS8        Q                20,000,000.00       20,010,877.22
+
+Instrument Total               1                                             20,000,000.00       20,010,877.22
+
+Instrument -FRBES     FLOATING RATE CORPORATE BOND
+
+ABBEY NATL TREASURY SERV       AA3   3.483 002799AG9        Q                40,000,000.00       40,009,250.85
+ABN AMRO BANK NV               AA3   3.930 00080QAC9        Q                20,000,000.00       20,020,982.03
+ALLSTATE GLOBAL FUNDING II     AA2   1.568 02003EAF9        Q                25,000,000.00       25,000,239.67
+ALLSTATE LIFE GLOB FD TR       AA2   1.913 02003MAD6        Q                15,000,000.00       15,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.170 02580EAB9        M                25,000,000.00       25,000,000.00
+AMER EXPRESS BANK FSB          AA3   2.417 02580EAC7        M                15,000,000.00       15,000,000.00
+AMERICAN EXPRESS CREDIT ACCOUN AAA   1.275 02582JBL3        M                10,000,000.00       10,003,716.08
+AMERICAN HONDA FINANCE         A1    3.417 02666QWE9        Q                20,000,000.00       20,001,342.43
+ASIF GLOBAL FINAN XXV          AA2   3.812 045193AA7        Q                40,000,000.00       40,037,032.72
+BANK OF NEW YORK               AA2   4.377 06420AFA9        Q                40,000,000.00       39,989,083.68
+BANK OF NOVA SCOTIA            AA3   2.906 06416LNS3        Q                40,000,000.00       39,980,290.38
+BANK ONE CORP                  AA3   1.874 06422NHH2        Q                25,460,000.00       25,473,036.07
+BANK ONE ISSUANCE TRUST (EXPEC AAA   4.230 06423RBF2        M                25,000,000.00       25,071,430.21
+BELLSOUTH CORP                 A2    4.041 079860AH5        Q                39,450,000.00       39,504,108.41
+BRANCH BANKING & TRUST         AA2   4.364 10513QBG5        Q                35,000,000.00       35,000,000.00
+CATERPILLAR FIN SERV CRP       A2    2.967 14912LZ87        Q                25,000,000.00       25,008,701.08
+CATERPILLAR FINANCE SERVICE    A2    1.374 14912LZ95        Q                14,000,000.00       13,999,911.75
+CHASE CREDIT CARD MASTER TRUST AAA   4.228 16151RCX9        M                28,350,000.00       28,433,631.99
+CITIGROUP INC                  AA1   4.289 172967CR0        Q                26,585,000.00       26,617,828.76
+CITIGROUP INC                  AA1   4.484 172967CL3        Q                13,000,000.00       13,013,392.82
+FANNIE MAE                     AAA   0.064 31359MYD9        Q                24,000,000.00       23,988,830.15
+FEDERAL HOME LOAN BANK         AAA   3.351 3133XCAB9        Q                60,000,000.00       59,985,916.89
+GOLDMAN SACHS GROUP INC        AA3   2.049 38141EJT7        Q                40,000,000.00       40,000,000.00
+HBOS TREASURY SRVCS PLC        AA2   3.820 4041A0BH0        Q                40,000,000.00       40,013,634.26
+HSBC BANK USA                  AA2   1.518 40428AFF9        Q                30,000,000.00       30,001,381.42
+HSBC FINANCE CORP              A1    3.817 40429JAC1        Q                10,000,000.00       10,002,665.70
+
+Instrument - FRBES     FLOATING RATE CORPORATE BOND
+
+IBM CORP                       A1    3.515 45920QEU4        Q                35,000,000.00       35,003,277.88
+JOHN HANCOCK GLOB FDG II       AA3   1.523 41011WAP5        Q                30,000,000.00       30,033,096.43
+KEY BANK NA                    A1    3.080 49306BNX7        Q                40,000,000.00       40,000,000.00
+LEHMAN BROTHERS HOLDINGS       A1    3.167 52517PZQ7        M                 3,000,000.00        3,001,170.93
+MBIA GLOBAL FUNDING LLC        AAA   1.567 55266LBQ8        Q                40,000,000.00       40,000,000.00
+MBNA CREDIT CARD MASTER NOTE T AAA   1.113 55264TBR1        M                75,000,000.00       75,007,077.15
+MBNA MASTER CREDIT CARD TRUST  AAA   1.175 55262TFY4        M                12,000,000.00       12,020,668.24
+MERRILL LYNCH & CO             AA3   2.007 59018YRY9        Q                35,000,000.00       35,032,844.66
+MET LIFE GLOB FUNDING I        AA2   1.092 59217EAH7        Q                40,000,000.00       40,000,000.00
+MONUMENTAL GLOBAL FDG II       AA3   2.998 61532NAC2        Q                15,000,000.00       15,000,000.00
+MONUMENTAL GLOBAL FDG II             4.161 615322AZ7        Q                25,000,000.00       25,006,467.08
+MORGAN STANLEY                 AA3   2.305 61746SAZ2        Q                35,000,000.00       35,000,000.00
+NATL CITY BK CLEVELAND         AA3   3.387 63534XDU1        Q                40,000,000.00       40,000,000.00
+PACCAR FINANCIAL CORP          A1    3.911 69371RWT9        Q                40,000,000.00       39,980,439.28
+PNC BANK NA                    A1    1.837 69347KHN5        M                40,000,000.00       39,994,564.60
+ROYAL BK OF SCOTLAND PLC       AA1   2.352 78010JAA0        Q                40,000,000.00       40,001,368.28
+SLM CORP                       A2    3.782 78442FAW8        Q                27,995,000.00       28,076,392.00
+STATE STREET BANK & TR         AA2   2.425 8574P0RR1        Q                40,000,000.00       39,992,424.35
+SUNTRUST BANK                        4.409 86787AQD0        M                40,000,000.00       39,987,680.94
+TOYOTA MOTOR CREDIT            AAA   3.002 89233PTA4        Q                40,000,000.00       39,979,829.59
+US BANK NA                     AA1   3.410 90331HKH5        Q                38,000,000.00       38,028,400.93
+VODAFONE GROUP PLC                   4.594 92857WAJ9        Q                40,000,000.00       40,000,000.00
+WACHOVIA BANK NA               AA2   4.060 92976EFJ0        Q                40,000,000.00       40,000,000.00
+WAL-MART STORES                AA2   1.877 931142BW2        Q                40,000,000.00       39,990,812.42
+WELLS FARGO & COMPANY          AA1   1.539 949746FH9        Q                40,000,000.00       40,025,811.47
+WORLD SAVINGS BANK FSB         AA3   3.405 98153BAF1        Q                32,000,000.00       32,009,687.74
+
+Instrument Total              52                                          1,648,840,000.00    1,649,328,421.32
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP - LIQUIDITY RESERV       0.000 IL-EQS                                13,660.87        1,366,087.08
+
+Instrument Total               1                                                 13,660.87        1,366,087.08
+
+Portfolio Total               56                                          1,702,353,660.87    1,704,124,268.81      1,871,576,642.36

@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2003 Time 18:53:24   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 038
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+RAYONIER INC.                                3.182     754907103 Q RYN             76,100        3,131,776.98        3,443,525.00
+RAYOVAC CORP                                 0.000     755081106   ROV             46,400          631,261.32          618,512.00
+RAYTHEON COMPANY                             2.601     755111507 Q RTN          1,192,382       40,464,054.92       36,665,746.50
+READERS DIGEST ASSOCIATION                   1.324     755267101   RDA            142,200        4,904,607.13        2,147,220.00
+RED ROBIN GOURMET BURGERS                    0.000     75689M101   RRGB            31,000          380,694.62          394,940.00
+REEBOK INTERNATIONAL LTD.                    0.000     758110100 Q RBK            129,365        3,165,484.95        3,803,331.00
+REGAL BELOIT                                 2.318     758750103   RBC             27,800          734,422.89          575,460.00
+REGAL ENTERTAINMENT GROUP                    2.801     758766109   RGC             25,500          502,425.30          546,209.99
+REGENERON PHARMACEUTICAL                     0.000     75886F107   REGN            46,900          881,486.11          868,119.00
+REGIONS FINANCIAL CORP.                      3.597     758940100 Q RF             430,095       13,064,466.37       14,347,969.20
+REGIS CORP                                   0.461     758932107   RGIS            53,710        1,054,341.12        1,395,922.90
+REHABCARE GROUP INC                          0.000     759148109   RHB             19,000          696,781.14          362,520.00
+RELIANCE STEEL & ALUMINUM                    1.151     759509102   RS              35,200          699,340.33          733,568.00
+REMINGTON OIL & GAS CORP                     0.000     759594302   REM             38,230          623,933.53          627,354.30
+RENAL CARE GROUP INC.                        0.000     759930100   RCI             80,500        1,969,549.05        2,547,020.00
+RENT-A-CENTER INC                            0.000     76009N100   RCII             8,600          406,538.34          429,570.00
+REPUBLIC FIRST BANCORP INC                   0.000     760416107   FRBK            34,200          186,667.50          222,334.20
+REPUBLIC SERVICES INC                        0.000     760759100   RSG            437,800        8,400,298.08        9,185,044.00
+RESMED INC                                   0.000     761152107   RMD             58,020        1,766,257.19        1,773,671.40
+RESOURCES CONNECTION INC                     0.000     76122Q105   RECN             8,500          147,216.35          197,285.00
+RESPIRONICS INC                              0.000     761230101   RESP            37,000          864,222.18        1,125,947.00
+RETEK INC                                    0.000     76128Q109   RETK           163,692          773,253.93          445,242.24
+REYNOLDS & REYNOLDS CL-A                     1.727     761695105   REY            117,000        2,894,119.38        2,979,990.00
+RF MICRO-DEVICES                             0.000     749941100   RFMD           472,600        6,939,108.73        3,464,157.98
+RIGGS NATL CORP WASH DC                      1.291     766570105   RIGS            33,700          550,159.69          522,013.00
+RLI CORP                                     1.290     749607107   RLI             44,200        1,056,418.89        1,233,180.00
+ROADWAY CORPORATION                          0.543     769742107   ROAD            25,300          661,986.43          931,293.00
+ROBBINS & MYERS INC.                         1.195     770196103   RBN             13,500          424,831.46          248,400.00
+ROBERT HALF INTL INC                         0.000     770323103   RHI            237,237        5,013,300.71        3,821,888.07
+ROCK-TENN COMPANY CL A                       2.373     772739207   RKT             38,200          615,475.00          514,936.00
+ROCKWELL AUTOMATION INC                      3.186     773903109 Q ROK            460,579        9,794,670.50        9,538,591.09
+ROCKWELL COLLINS                             1.547     774341101   COL            363,515        7,010,657.68        8,455,358.90
+ROGERS CORP.                                 0.000     775133101   ROG             91,200        3,064,622.21        2,029,200.00
+ROHM & HAAS CO                               2.586     775371107 Q ROH            408,370       13,449,836.17       13,263,857.60
+ROLLINS INC                                  0.785     775711104   ROL             18,300          372,679.34          465,735.00
+ROPER INDUSTRIES INC                         0.956     776696106   ROP             33,600          998,948.07        1,229,760.00
+ROSLYN BANCORP INC                           3.105     778162107   RSLN           146,250        2,620,504.75        2,636,887.50
+ROSS STORES INC                              0.448     778296103   ROST           215,500        6,631,557.17        9,135,045.00
+ROWAN COS.                                   0.000     779382100   RDC            219,877        4,421,174.38        4,991,207.90
+ROXIO INC                                    0.000     780008108   ROXI            66,452          939,910.28          316,979.85

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 166
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+ANACOMP INC-CL A                           0.000 ANCPA   03237E108     22.5000        52,700.00        845,835.00      1,185,750.00
+ANSWERTHINK INC                            0.000 ANSR    036916104      5.5500       163,200.00        903,015.92        905,760.00
+APPLIED SIGNAL TECHNOLOGY INC              2.173 APSG    038237103     23.0100        32,100.00        760,160.10        738,621.00
+ASK JEEVES INC                             0.000 ASKJ    045174109     18.1200        57,000.00        254,972.40      1,032,840.00
+ASPECT COMMUNICATIONS CORP                 0.000 ASPT    04523Q102     15.7600        59,553.00        189,675.18        938,555.29
+AUGUST TECHNOLOGY INC                      0.000 AUGT    05106U105     18.5500        54,600.00        978,131.28      1,012,830.00
+AVID TECHNOLOGY INC.                       0.000 AVID    05367P100     48.0000        16,750.00        219,462.80        804,000.00
+BIO-REFERENCE LABS I                       0.000 BRLI    09057G602     13.1000        66,400.00        651,111.70        869,840.00
+BON-TON STORES                             0.900 BONT    09776J101     11.1000        21,000.00         60,378.10        233,100.00
+BRIGHTPOINT INC.                           0.000 CELL    109473405     17.2500        44,900.00        555,636.12        774,525.00
+BROOKTROUT INC                             0.000 BRKT    114580103     12.5800        54,700.00        752,477.05        688,126.00
+BUCA INC.                                  0.000 BUCA    117769109      6.8100       122,100.00        685,977.38        831,501.00
+CALIFORNIA AMPLIFIER INC                   0.000 CAMP    129900106     14.0700        44,900.00        650,229.28        631,743.00
+CALIFORNIA MICRO DEVICES CORP              0.000 CAMD    130439102      9.1300        99,800.00        755,197.72        911,174.00
+CANDELA CORP                               0.000 CLZR    136907102     18.1800        42,900.00        388,691.19        779,922.00
+CARMIKE CINEMAS INC                        0.000 CKEC    143436400     34.8500        20,000.00        419,812.50        697,000.00
+CARRIER ACCESS CORP                        0.000 CACS    144460102     12.5200        84,000.00        812,221.20      1,051,680.00
+CENTILLIUM COMMUNICATIONS INC              0.000 CTLM    152319109      5.6300        96,900.00        323,832.17        545,547.00
+CONNETICS CORP                             0.000 CNCT    208192104     18.1600        47,600.00        557,586.36        864,416.00
+COVANSYS CORP                              0.000 CVNS    22281W103     11.0000        78,800.00        766,852.31        866,800.00
+CROWN MEDIA HLDGS IN                       0.000 CRWN    228411104      8.2700       100,400.00        721,487.27        830,308.00
+CULP INC                                   0.000 CFI     230215105     10.9000        47,600.00        315,731.96        518,840.00
+DIAMONDCLUSTER INTERNATIONAL I             0.000 DTPI    25278P106     10.2000       166,433.00        529,617.02      1,697,616.58
+DITECH COMMUNICATIONS CORP                 0.000 DITC    25500M103     19.1000        58,700.00        671,069.34      1,121,170.00
+ENCORE WIRE CORP                           0.000 WIRE    292562105     17.7100        58,800.00        593,582.62      1,041,348.00
+FIRST HORIZON PHARMACEUTICAL               0.000 FHRX    32051K106     11.2000        92,500.00        948,797.38      1,036,000.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     14.2600        66,800.00        903,386.17        952,568.00
+GADZOOKS INC                               0.000 GADZ    362553109      1.5500       139,200.00        624,739.18        215,760.00
+GENERAL CABLE CORP                         2.454 BGC     369300108      8.1500        93,100.00        260,098.06        758,765.00
+GREAT AMERN FINL RES                       0.616 GFR     389915109     16.2200         5,800.00         93,315.30         94,076.00
+GSI COMMERCE INC                           0.000 GSIC    36238G102      9.7610        73,100.00        470,601.96        713,529.10
+IMPERIAL SUGAR COMPANY                     0.000 IPSU    453096208     14.1300        68,500.00        504,378.79        967,905.00
+INTERVOICE INC.                            0.000 INTV    461142101     11.8700        68,400.00        103,633.70        811,908.00
+LANTRONIX INC                              0.000 LTRX    516548104      1.1700       372,799.00        298,957.45        436,174.83
+LCA-VISION INC.                            0.000 LCAV    501803308     21.1700        45,550.00        234,766.94        964,293.50
+MAGNA ENTERTAINMENT-CL A                   0.000 MECA    559211107      5.0700       114,600.00        607,039.96        581,022.00
+MAPICS INC                                 0.000 MAPX    564910107     13.0900        64,800.00        560,158.04        848,232.00
+MATRIXX INITIATIVES INC                    0.000 MTXX    57685L105     17.7390        35,600.00        514,079.24        631,508.40
+MEASUREMENT SPECIALITIES INC               0.000 MSS     583421102     20.4300        38,700.00        213,280.80        790,641.01

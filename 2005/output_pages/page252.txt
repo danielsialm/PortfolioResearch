@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 035
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+HONEYWELL INTERNATIONAL INC                  2.214     438516106 Q HON          1,283,000       50,082,435.16       47,791,750.00
+HOOKER FURNITURE CORP                        1.632     439038100   HOFT            32,000          584,713.07          548,800.00
+HOOPER HOLMES INC                            2.352     439104100   HH             152,600          944,973.01          389,130.00
+HORACE MANN EDUCATORS                        2.215     440327104 Q HMN            596,500       10,597,660.30       11,309,640.00
+HORIZON FINANCIAL CORP                       2.655     44041F105   HRZB            10,687          197,074.13          233,404.08
+HORIZON HEALTH CORP                          0.000     44041Y104   HORC            11,100          245,944.25          251,193.00
+HORIZON LINES INC - CL A                     0.906     44044K101   HRZ             15,200          192,432.00          184,376.00
+HORMEL FOODS CORP                            1.713     440452100   HRL             23,081          723,141.35          754,287.08
+HORNBECK OFFSHORE SERVICES INC               0.000     440543106   HOS             40,105        1,210,319.50        1,311,433.50
+HOSPIRA INC                                  0.000     441060100   HSP              9,590          337,847.23          410,260.20
+HOT TOPIC INC                                0.000     441339108   HOTT           148,500        2,452,618.35        2,116,125.00
+HOUSEVALUES INC                              0.000     44183Y102   SOLD            54,100          730,907.35          704,923.00
+HOUSTON EXPL CO                              0.000     442120101   THX             52,700        2,566,004.17        2,782,560.00
+HOVNANIAN ENTERPRISES-A                      0.000     442487203   HOV              4,200          247,732.42          208,488.00
+HUB GROUP INC                                0.000     443320106   HUBG            20,600          703,618.53          728,210.00
+HUB INTERNATIONAL LIMITED                    0.930     44332P101   HBG             84,800        1,820,805.34        2,187,840.00
+HUBBELL INC                                  2.925     443510201 Q HUB.B              500           21,101.07           22,560.00
+HUDSON CITY BANCORP INC                      2.475     443683107   HCBK           291,336        3,435,770.96        3,530,992.32
+HUDSON HIGHLAND GROUP INC                    0.000     443792106   HHGP            67,600        1,173,503.60        1,173,536.00
+HUDSON UNITED BANCORP                        3.550     444165104   HU              54,700        1,937,514.72        2,279,896.00
+HUGHES SUPPLY INC.                           1.004     444482103   HUG            279,300        7,416,625.69       10,012,905.00
+HUMAN GENOME SCIENCE                         0.000     444903108   HGSI           138,200        1,641,551.77        1,182,992.00
+HUMANA INC.                                  0.000     444859102   HUM            633,958       18,189,738.64       34,442,938.15
+HUNGARIAN TELEPHONE & CABLE                  0.000     445542103   HTC              4,100           71,941.47           63,755.00
+HUNT (JB) TRANSPRT SVCS INC                  1.060     445658107   JBHT            55,795        1,160,367.47        1,263,198.80
+HUNTSMAN CORP                                0.000     447011107   HUN            245,800        4,670,914.79        4,232,676.00
+HURCO COMPANIES INC                          0.000     447324104   HURC            33,300          904,074.53        1,026,306.00
+HUTCHINSON TECH.                             0.000     448407106   HTCH            62,325        1,836,558.71        1,773,146.25
+HUTTIG BUILDING PRODUCTS INC.                0.000     448451104   HBP             14,900          164,715.66          125,160.00
+HYDRIL                                       0.000     448774109   HYDL            56,245        2,804,304.69        3,520,937.00
+HYPERCOM CORP                                0.000     44913M105   HYC             55,700          363,405.73          355,923.00
+IAC/INTERACTIVE CORP                         0.000     44919P300   IACI           510,804        9,181,249.91       14,460,861.24
+IBASIS INC                                   0.000     450732102   IBAS           153,600          325,632.00          281,088.00
+IBERIABANK CORP                              2.195     450828108   IBKC             1,906           91,319.81           97,225.06
+ICON PLC - ADR                               0.000     45103T107   ICLR            89,600        3,166,344.44        3,686,144.00
+ICOS CORPORATION                             0.000     449295104   ICOS            67,600        1,553,429.70        1,867,788.00
+ICU MEDICAL INC.                             0.000     44930G107   ICUI            41,200        1,333,336.50        1,615,452.00
+IDACORP, INC.                                4.095     451107106   IDA            116,200        3,829,175.53        3,404,660.00
+IDENIX PHARMACEUTICALS INC                   0.000     45166R204   IDIX            15,200          309,097.60          260,072.00
+IDEX CORPORATION                             1.167     45167R104   IEX             38,700        1,190,414.77        1,590,957.00

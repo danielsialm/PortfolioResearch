@@ -1,0 +1,51 @@
+Instrument - A         APARTMENT
+
+AMLI AT DANADA FARMS           WHEATON, IL                     8.800         RAMLID                 21,257,711.88     31,500,000.00
+ARBORS OF ANDERSON I           CINCINNATI                      9.000         RANBR1                 19,795,548.07     21,100,000.00
+PARK GLEN                      MINNEAPOLIS                     6.900         RPKGNW                 15,712,000.00     25,500,000.00
+
+Instrument Total             3                                                                      56,765,259.95     78,100,000.00
+
+Instrument -I      INDUSTRIAL
+
+ADDISON BUSINESS               ADDISON, IL                     9.660         RSHAPE                  3,211,109.49      3,500,000.00
+ALBRECHT                       LAKE BLUFF, IL                  8.800         RALBCT                 12,800,318.60     13,650,000.00
+CAROL POINT                    CAROL STREAM, IL                7.990         RCAROL                 12,428,504.97     12,200,000.00
+ENTERPRISE                     AURORA, IL                      8.500         RENTPR                  6,995,995.00      7,300,000.00
+ST. CHARLES BUSINESS PARK      ST. CHARLES                     5.000         RSTCHP                  3,606,062.31      4,200,000.00
+
+Instrument Total             5                                                                      39,041,990.37     40,850,000.00
+
+Instrument -O      OFFICE
+
+77 W. WACKER                   CHICAGO, IL                     0.000         RDONBD                 88,087,250.00    101,800,000.00
+ATRIUM II                      CINCINNATI OH                  13.500         RATRM2                 27,138,104.00     42,100,000.00
+CAMPUS VIEW PLAZA              COLUMBUS                       11.400         RCVPL1                 12,000,000.00     12,200,000.00
+CORPORATE HILL I               WORTHINGTON                     9.000         RCORP1                  7,282,000.00      5,800,000.00
+CORPORATE HILL II              WORTHINGTON                    10.000         RCORP2                  4,718,000.00      5,900,000.00
+HUNTINGTON BANK CENTER         COLUMBUS, OH                    6.100         RHUNT2                 48,932,998.15     44,900,000.00
+KEY CENTER                     CLEVELAND, OH                   9.200         RKEYCT                 71,000,000.00     79,300,000.00
+LAKEPOINT OFFICE               CLEVELAND, OH                   8.210         RLAKPT                 12,836,780.37     13,900,000.00
+MERIDIAN CROSSINGS             RICHFIELD, MN                   0.000         RMERCR                 13,398,144.00     12,500,000.00
+MERIDIAN CROSSINGS PHASE II    77TH ST. RICHFIELD, MN          0.000         RMERC2                 14,261,603.69     13,500,000.00
+
+Instrument Total            10                                                                     299,654,880.21    331,900,000.00
+
+Instrument -R      RETAIL
+
+MACEDONIA COMMONS              MACEDONIA, OH                   9.300         RMACDN                  5,999,050.03      6,700,000.00
+OLENTANGY PLAZA                COLUMBUS                       10.000         ROPL01                 15,818,833.15     23,200,000.00
+STRATFORD SQUARE MALL          CHICAGO                         9.000         RSFSQ1                 34,219,150.29     30,250,000.00
+VILLAGE CROSSING               SKOKIE/NILES                    9.600         RVLCR1                 37,893,105.51     25,000,000.00
+
+Instrument Total             4                                                                      93,930,138.98     85,150,000.00
+
+
+Instrument - X         OTHER
+
+WESTBELT WEST PK               COLUMBUS                       10.000         RWSBT1                    371,027.04        200,199.94
+
+Instrument Total             1                                                                         371,027.04        200,199.94
+
+Portfolio Total             23                                                                     489,763,296.55    536,200,199.94
+

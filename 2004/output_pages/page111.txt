@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 079
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+PHARMION CORP                              0.000 PHRM    71715B409     42.2100        12,170.00        564,731.07        513,695.70
+PHARMOS CORP                               0.000 PARS    717139208      1.4200        22,400.00         82,539.29         31,808.00
+PHASE FORWARD INC                          0.000 PFWD    71721R406      8.1700         6,100.00         53,085.25         49,837.00
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     66.1400        23,400.00      1,128,361.62      1,547,676.00
+PHILLIPS-VAN HEUSEN                        0.555 PVH     718592108     27.0000        26,900.00        429,622.09        726,300.00
+PHOENIX COMPANIES INC.                     1.280 PNX     71902E109     12.5000       105,100.00      1,095,907.69      1,313,750.00
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     24.2800         7,400.00        236,922.91        179,672.00
+PHOTRONICS INC.                            0.000 PLAB    719405102     16.5000        36,100.00        655,078.29        595,650.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     20.7700         8,900.00        145,119.07        184,853.00
+PIEDMONT NATURAL GAS CO INC NO             3.700 PNY     720186105     23.2400        84,600.00      1,791,412.03      1,966,104.00
+PINNACLE AIRLINES CORP                     0.000 PNCL    723443107     13.9400        21,600.00        268,685.73        301,104.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109     19.7800        39,500.00        439,735.44        781,310.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107      6.1000        76,500.00        740,110.70        466,650.00
+PIPER JAFFRAY COMPANIES INC                0.000 PJC     724078100     47.9500        27,100.00        831,335.83      1,299,445.00
+PIXELWORKS INC                             0.000 PXLW    72581M107     11.3400        45,000.00        449,974.43        510,300.00
+PLACER SIERRA BANCSHARES                   0.703 PLSB    726079106     28.4400         6,400.00        137,856.00        182,016.00
+PLAINS EXPLORATION & PR                    0.000 PXP     726505100     26.0000        76,039.00      1,010,033.15      1,977,014.00
+PLANAR SYSTEMS INC.                        0.000 PLNR    726900103     11.2300        32,800.00        454,767.55        368,344.00
+PLANETOUT INC                              0.000 LGBT    727058109     13.6000         6,400.00         72,528.13         87,040.00
+PLATO LEARNING INC                         0.000 TUTR    72764Y100      7.4500           800.00          8,167.46          5,960.00
+PLAYTEX PRODUCTS INC                       0.000 PYX     72813P100      7.9900         2,600.00         17,126.32         20,774.00
+PLEXUS CORP                                0.000 PLXS    729132100     13.0100        27,900.00        476,266.11        362,979.00
+PLUG POWER INC                             0.000 PLUG    72919P103      6.1100        18,406.00        133,461.50        112,460.66
+PLX TECHNOLOGY INC                         0.000 PLXT    693417107     10.4000        23,900.00        364,892.98        248,560.00
+PMA CAP CORP                               4.058 PMACA   693419202     10.3500        56,300.00        448,915.27        582,705.00
+PNM RESOURCES INC                          2.926 PNM     69349H107     25.2900        76,150.00      1,371,064.27      1,925,833.50
+POLYMEDICA CORP                            1.609 PLMD    731738100     37.2900        29,200.00        629,237.16      1,088,868.00
+POLYONE CORPORATION                        2.759 POL     73179P106      9.0600       101,800.00        588,902.66        922,308.00
+POPE & TALBOT INC                          1.870 POP     732827100     17.1100        17,500.00        235,535.48        299,425.00
+PORTALPLAYER INC                           0.000 PLAY    736187204     24.6800         6,900.00        185,840.46        170,292.00
+PORTFOLIO RECOVERY ASSOCIATES              0.000 PRAA    73640Q105     41.2200        13,500.00        363,375.65        556,470.00
+POSSIS MEDICAL INC                         0.000 POSS    737407106     13.4800        17,800.00        353,886.84        239,944.00
+POTLATCH CORP.                             1.186 PCH     737628107Q    50.5800        37,300.00      1,156,359.00      1,886,634.00
+POWELL INDS INC                            0.000 POWL    739128106     18.4900        19,370.00        336,376.00        358,151.30
+POWER INTEGRATIONS INC                     0.000 POWI    739276103     19.7800        30,600.00        668,815.94        605,268.00
+POWER ONE INC.                             0.000 PWER    739308104      8.9200        71,000.00      1,374,036.93        633,320.00
+POWERWAVE TECHNOLOGIES                     0.000 PWAV    739363109      8.4800       115,800.00        765,913.59        981,984.00
+POZEN INC                                  0.000 POZN    73941U102      7.2700        26,600.00        238,273.61        193,382.00
+PRA INTERNATIONAL                          0.000 PRAI    69353C101     24.7800         9,100.00        204,536.98        225,498.00

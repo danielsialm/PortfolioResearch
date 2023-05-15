@@ -1,0 +1,50 @@
+ASOF10   Date 01/20/2004 Time 18:59:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 016
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+BMC SOFTWARE                                 0.000     055921100   BMC            938,183       20,007,466.05       17,497,112.95
+BOB EVANS FARMS                              1.478     096761101 Q BOBE            44,600        1,272,136.91        1,447,716.00
+BOCA RESORTS INC                             0.000     09688T106   RST             30,100          401,188.79          450,296.00
+BOEING CO                                    1.613     097023105 Q BA           1,394,600       50,296,442.79       58,768,444.01
+BOISE CASCADE CORP                           1.825     097383103 Q BCC            224,188        6,472,268.78        7,366,817.68
+BOK FINL CORP                                0.000     05561Q201   BOKF            31,901        1,217,275.13        1,235,206.73
+BOMBAY COMPANY                               0.000     097924104   BBA             26,500          321,665.92          215,710.00
+BON-TON STORES                               0.900     09776J101   BONT            21,000           60,378.10          233,100.00
+BONE CARE INTL INC                           0.000     098072101   BCII            11,300          160,655.22          143,962.00
+BORDERS GROUP INC                            1.459     099709107   BGP            247,215        4,976,432.03        5,418,952.79
+BORG WARNER INC.                             1.175     099724106   BWA             65,400        3,876,807.60        5,563,578.01
+BORLAND SOFTWARE CORPORATION                 0.000     099849101   BORL            85,500          871,271.75          831,915.00
+BOSTON BEER INC                              0.000     100557107   SAM              8,400          125,141.06          152,376.00
+BOSTON COMMUNICATIONS GROUP                  0.000     100582105   BCGI            19,300          318,401.39          179,297.00
+BOSTON PRIVATE FINL HOLDING                  0.805     101119105   BPFH            34,500          760,347.10          856,980.00
+BOSTON SCIENTIFIC CORP.                      0.000     101137107   BSX          1,359,069       19,497,328.21       49,959,376.43
+BOWATER INC.                                 1.727     102183100 Q BOW             86,900        3,944,973.39        4,024,338.99
+BOWNE & CO INC.                              1.622     103043105   BNE             40,600          641,863.39          550,536.00
+BOYD GAMING COPR                             1.858     103304101   BYD             29,200          504,242.20          471,288.00
+BOYDS COLLECTION LTD                         0.000     103354106   FOB             22,900          111,904.33           97,325.00
+BRADLEY PHARMACEUTIC                         0.000     104576103   BDY             13,600          292,915.01          345,848.00
+BRADY CORPORATION                            2.061     104674106   BRC             17,200          492,259.62          700,900.00
+BRIGGS & STRATTON                            1.958     109043109 Q BGG            101,600        4,979,571.23        6,847,839.98
+BRIGHT HORIZON FAMIL                         0.000     109195107   BFAM            25,554          953,115.67        1,073,268.00
+BRIGHTPOINT INC.                             0.000     109473405   CELL            44,900          555,636.12          774,525.00
+BRINKER INTERNATIONAL INC                    0.000     109641100   EAT            190,092        5,091,680.72        6,303,450.73
+BRINKS COMPANY                               0.442     109696104 Q BCO            111,300        2,146,114.03        2,516,493.00
+BRISTOL-MYERS SQUIBB                         3.916     110122108 Q BMY          3,866,200      127,300,711.49      110,573,320.01
+BROADCOM CORP CL A                           0.000     111320107   BRCM           398,500       51,134,916.66       13,584,865.00
+BROADVISION INC                              0.000     111412607   BVSN            31,000          178,866.10          132,060.00
+BROCADE COMMUNICATIONS SYSTEM                0.000     111621108   BRCD           297,600        2,265,639.96        1,720,128.00
+BROOKFIELD HOMES CORP                        0.620     112723101   BHS             19,000          327,898.62          489,630.00
+BROOKLINE BANCORP IN                         2.216     11373M107   BRKL           166,727        2,431,176.45        2,557,592.18
+BROOKS AUTOMATION INC                        0.000     114340102   BRKS            52,200        1,426,588.52        1,261,674.00
+BROOKSTONE INC                               0.000     114537103   BKST            51,800          720,498.01        1,103,858.00
+BROOKTROUT INC                               0.000     114580103   BRKT            59,000          803,002.05          742,220.00
+BROWN & BROWN INC                            0.858     115236101   BRO             91,770        2,977,553.42        2,992,619.70
+BROWN SHOE COMPANY INC                       1.054     115736100 Q BWS             21,500          518,035.76          815,495.00
+BROWN-FORMAN -CL B                           1.819     115637209 Q BF.B            30,400        2,142,664.59        2,840,879.99
+BRUNSWICK CORP                               1.570     117043109 Q BC             185,400        4,166,038.73        5,901,281.99

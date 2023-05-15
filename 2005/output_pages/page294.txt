@@ -1,0 +1,37 @@
+ASOF10   Date 01/19/2006 Time 18:24:58   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 004
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - ALTERNATIVE INVESTMENTS
+Instrument - COM       COMMON STOCK
+
+ADVANCE AUTO PARTS INC                       0.000     00751Y106   AAP            105,024          539,791.60        4,564,343.04
+AMERICAN MEDICAL SYS HLDINGS                 0.000     02744M108   AMMD           115,500        2,188,905.15        2,059,365.00
+ARADIGM CORP                                 0.000     038505301   ARDMD           60,268          125,796.59           43,995.64
+AVAYA INC                                    0.000     053499109   AV             604,500        5,909,355.01        6,450,015.00
+BOOKHAM INC                                  0.000     09856E105   BKHM            11,894        5,351,805.53           68,033.68
+BROADWING CORP                               0.000     11161E101   BWNG            30,758        7,391,547.25          186,085.90
+CIENA CORP.                                  0.000     171779101   CIEN           726,572        2,572,826.15        2,157,918.84
+ENCORE ACQUISITION CO                        0.000     29255W100   EAC             65,587        1,461,431.40        2,101,407.48
+EXACT SCIENCES CORP                          0.000     30063P105   EXAS            26,276          435,657.00           58,069.96
+MELLON FINANCIAL CORP.                       2.335     58551A108 Q MEL             40,200        1,527,238.20        1,376,850.00
+MOMENTA PHARMACEUTICALS INC                  0.000     60877T100   MNTA           432,462       12,372,737.82        9,531,462.48
+MYOGEN INC                                   0.000     62856E104   MYOG            36,193        1,011,628.00        1,091,580.88
+NETWORK APPLIANCE INC.                       0.000     64120L104   NTAP            11,649          319,532.00          314,523.00
+NUANCE COMMUNICATIONS                        0.000     67020Y100   NUAN            15,950                0.00          121,698.50
+PAIN THERAPEUTICS INC.                       0.000     69562K100   PTIE             7,191           70,112.25           48,611.16
+PANTRY INC/THE                               0.000     698657103   PTRY            37,150          245,901.36        1,745,678.50
+PDL BIOPHARMA INC.                           0.000     69329Y104   PDLI            14,574          273,714.29          414,193.08
+PHARMION CORP                                0.000     71715B409   PHRM            12,458          672,184.00          221,378.66
+SALESFORCE.COM INC                           0.000     79466L302   CRM             27,982          483,033.78          896,823.10
+SONICWALL INC                                0.000     835470105   SNWL            32,019          602,350.92          253,590.48
+TIVO INC                                     0.000     888706108   TIVO            18,214          162,305.19           93,255.68
+VOLTERRA SEMICONDUCTOR CORP                  0.000     928708106   VLTR            68,063        1,118,002.84        1,020,945.00
+WRIGHT MEDICAL GROUP INC                     0.000     98235T107   WMGI            40,000        1,118,587.08          815,999.99
+
+Instrument Total                     23                                         2,540,484       45,954,443.41       35,635,825.05
+
+Group Total                         121                                     1,333,816,796    1,377,230,732.27    1,650,176,025.02

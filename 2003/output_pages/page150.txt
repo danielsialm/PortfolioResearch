@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:59   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 120
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5BA       BARCLAYS - 1000
+Instrument - COM       COMMON STOCK
+
+INTERSTATE BAKERIES                        1.967 IBC     46072H108     14.2300        27,474.00        493,296.96        390,955.02
+INTL BUS MACH CORP                         0.690 IBM     459200101Q    92.6800        89,507.00      7,718,120.13      8,295,508.78
+INTUIT INC.                                0.000 INTU    461202103     52.9100        30,921.00      1,504,789.18      1,636,030.16
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     46.9700        19,282.00        850,189.16        905,675.54
+JOHN HANCOCK FINANCIAL SRVCS               0.933 JHF     41014S106     37.5000        16,440.00        488,602.03        616,500.01
+JOHNSON & JOHNSON                          1.858 JNJ     478160104Q    51.6600       236,038.00     11,353,131.18     12,193,723.08
+JONES APPAREL GROUP INC                    0.908 JNY     480074103     35.2300        46,633.00      1,612,065.72      1,642,880.59
+JP MORGAN CHASE & CO.                      3.702 JPM     46625H100Q    36.7300       282,919.00      8,549,764.88     10,391,614.88
+KERR MCGEE CORP.                           3.871 KMG     492386107Q    46.4900         9,275.00        412,536.91        431,194.75
+KING PHARMACEUTICALS                       0.000 KG      495582108     15.2600        54,043.00      1,154,644.13        824,696.18
+KROGER CO.                                 0.000 KR      501044101     18.5100       192,955.00      3,258,747.71      3,571,597.03
+LAFARGE NORTH AMERICA INC.                 1.974 LAF     505862102     40.5200        19,738.00        618,802.31        799,783.77
+LEXMARK INTERNATIONAL INC.                 0.000 LXK     529771107     78.6400        86,090.00      5,515,509.41      6,770,117.57
+LIBERTY MEDIA CORP-A                       0.000 L       530718105     11.8900       469,965.00      5,063,655.88      5,587,883.85
+LINCOLN NATIONAL CORP                      3.467 LNC     534187109Q    40.3700        14,865.00        524,304.41        600,100.04
+LOUISIANNA PACIFIC                         0.000 LPX     546347105Q    17.8800        30,841.00        370,433.19        551,437.05
+MARATHON OIL CORP                          3.022 MRO     565849106Q    33.0900       199,518.00      4,935,803.62      6,602,050.62
+MARSH & MCLENNAN COS.                      2.589 MMC     571748102Q    47.8900        74,776.00      3,569,173.06      3,581,022.64
+MATTEL INC.                                2.075 MAT     577081102Q    19.2700       312,048.00      6,172,937.06      6,013,164.97
+MAXIM INTGRTD PRDCTS INC.                  0.642 MXIM    57772K101     49.8000       134,170.00      5,056,415.24      6,681,666.01
+MAY DEPT STORES                            3.302 MAY     577778103Q    29.0700       170,515.00      4,895,975.29      4,956,871.07
+MBNA CORP                                  1.609 KRB     55262L100Q    24.8500       127,515.00      2,752,873.18      3,168,747.75
+MCDONALDS CORPORATION                      1.611 MCD     580135101Q    24.8300        47,967.00      1,158,661.75      1,191,020.61
+MCGRAW HILL INC                            1.544 MHP     580645109Q    69.9200       100,370.00      6,060,111.77      7,017,870.40
+MEDIA GENERAL INC - CL A                   1.167 MEG     584404107     65.1000           611.00         35,325.09         39,776.10
+MERCK & CO INC                             3.203 MRK     589331107Q    46.2000       260,444.00     12,304,124.50     12,032,512.81
+MERRILL LYNCH & CO. INC.                   1.091 MER     590188108Q    58.6500       106,170.00      4,530,166.50      6,226,870.53
+METLIFE INC                                0.683 MET     59156R108     33.6700        14,543.00        448,159.39        489,662.80
+METRO GOLDWYN MAYER                        0.000 MGM     591610100     17.0900        54,378.00        874,025.94        929,320.02
+MICHAELS STORES                            0.905 MIK     594087108     44.2000         4,570.00        195,768.14        201,994.00
+MICROSOFT CORP.                            0.581 MSFT    594918104     27.5400       284,097.00      9,458,843.05      7,824,031.38
+MID ATLANTIC MEDICAL SERVICES              0.000 MME     59523C107     64.8000         2,641.00        128,363.50        171,136.76
+MONSANTO COMPANY                           1.806 MON     61166W101     28.7800       132,831.00      2,679,990.58      3,822,876.17
+MORGAN STANLEY DEAN WITTER & C             1.728 MWD     617446448Q    57.8700       136,638.00      6,808,665.64      7,907,241.02
+MOTOROLA INC                               1.137 MOT     620076109Q    14.0700        61,520.00        809,409.38        865,586.40
+MPS GROUP INC                              0.000 MPS     553409103      9.3500        31,981.00        252,205.56        299,022.35
+NICOR INC.                                 5.464 GAS     654086107Q    34.0400         1,890.00         67,333.23         64,335.60
+NVR INC                                    0.000 NVR     62944T105    466.0000         8,795.00      3,359,001.68      4,098,469.99
+OCCIDENTAL PETROLEUM CORP.                 2.462 OXY     674599105Q    42.2400       172,971.00      4,882,930.27      7,306,295.02

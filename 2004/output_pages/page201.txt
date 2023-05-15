@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:35:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 169
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+ALABAMA NATL BANCORP                       1.938 ALAB    010317105     64.5000         7,600.00        400,616.60        490,200.00
+ALASKA AIRGROUP INC                        0.000 ALK     011659109     33.4900         9,400.00        209,440.47        314,806.00
+ALEXANDER & BALDWIN INC                    2.121 ALEX    014482103     42.4200        18,300.00        673,269.31        776,286.00
+AMCORE FINL INC                            2.113 AMFI    023912108     32.1800         9,700.00        279,521.88        312,146.00
+AMETEK INC.                                0.672 AME     031100100Q    35.6700        43,300.00        969,333.89      1,544,511.00
+ANALOGIC CORP.                             0.714 ALOGE   032657207     44.7900        18,200.00        833,665.46        815,178.00
+ANNTAYLOR STORES CORP                      0.000 ANN     036115103     21.5300        55,100.00      1,219,324.52      1,186,303.00
+AQUA AMERICA INC                           2.114 WTR     03836W103     24.5900        11,675.00        186,458.63        287,088.25
+ATWOOD OCEANICS                            0.000 ATW     050095108     52.1000        39,900.00      1,341,470.40      2,078,790.00
+AVIALL INC.                                0.174 AVL     05366B102Q    22.9700        12,300.00        259,624.63        282,531.00
+BALDOR ELECTRIC                            2.179 BEZ     057741100     27.5300        45,000.00      1,225,883.93      1,238,850.00
+BANK MUTUAL CORP                           1.643 BKMU    063750103     12.1700        54,343.00        630,337.29        661,354.31
+BARNES & NOBLE INC.                        0.000 BKS     067774109     32.2700        34,500.00        830,901.84      1,113,315.00
+BE AEROSPACE INC.                          0.000 BEAV    073302101     11.6400        51,500.00        484,236.84        599,460.00
+BISYS GROUP INC.                           0.000 BSG     055472104     16.4500        81,800.00      1,266,047.29      1,345,610.00
+BLOUNT INTERNATIONAL                       0.000 BLT     095180105     17.4200        45,200.00        455,127.56        787,384.00
+BRIGGS & STRATTON                          1.635 BGG     109043109Q    41.5800        59,800.00      1,433,484.35      2,486,484.00
+BROOKSTONE INC                             0.000 BKST    114537103     19.5500        85,450.00      1,066,598.21      1,670,547.50
+BRUSH ENGINEERED MATERIALS                 2.594 BW      117421107     18.5000        11,400.00        215,080.50        210,900.00
+CABOT OIL & GAS CORP.                      0.361 COG     127097103Q    44.2500         1,900.00         84,379.00         84,075.00
+CAMBREX CORP.                              0.442 CBM     132011107     27.1000        20,500.00        456,102.59        555,550.00
+CAPITAL SENIOR LIVING CORP                 0.000 CSU     140475104      5.6600        88,000.00        535,486.70        498,080.00
+CARLISLE COS INC                           1.417 CSL     142339100     64.9200        35,000.00      2,143,218.99      2,272,200.00
+CASEY'S GENERAL STORES INC.                0.881 CASY    147528103     18.1500        76,300.00        995,881.81      1,384,845.00
+CLARCOR INC.                               0.931 CLC     179895107Q    54.7700         8,500.00        213,163.98        465,545.00
+COMMERCIAL VEHICLE GROUP INC               0.000 CVGI    202608105     21.8300        52,100.00        807,692.82      1,137,343.00
+CORUS BANKSHARES INC                       2.603 CORS    220873103     48.0100        21,600.00        695,141.56      1,037,016.00
+COST PLUS INC                              0.000 CPWM    221485105     32.1300        24,600.00        845,263.94        790,398.00
+COVANCE INC                                0.000 CVD     222816100     38.7500        20,800.00        401,028.75        806,000.00
+CUBIC CORP                                 0.715 CUB     229669106     25.1700        32,100.00        774,407.56        807,957.00
+CULLEN/FROST BANKERS INC                   2.181 CFR     229899109     48.6000        48,600.00      1,645,963.60      2,361,960.00
+CURTISS-WRIGHT CORP.                       0.627 CW      231561101     57.4100        50,600.00      2,498,596.48      2,904,946.00
+CYTEC INDUSTRIES                           0.777 CYT     232820100Q    51.4200        44,100.00      1,735,979.69      2,267,622.00
+DORAL FINANCIAL CORP.                      1.461 DRL     25811P100     49.2500        39,400.00        487,721.85      1,940,450.00
+ENPRO INDUSTRIES INC                       0.000 NPO     29355X107     29.5700        76,200.00      1,517,880.15      2,253,234.00
+ETHAN ALLEN INTERIORS INC.                 1.499 ETH     297602104     40.0200        25,300.00        981,066.10      1,012,506.00
+FMC TECHNOLOGIES INC                       0.000 FTI     30249U101     32.2000        43,800.00      1,133,375.42      1,410,360.00
+FRONTIER AIRLINES INC                      0.000 FRNT    359065109     11.4100       122,500.00      1,175,056.74      1,397,725.00
+GENESEE & WYO INC                          0.000 GWR     371559105     28.1300        15,650.00        332,473.47        440,234.50

@@ -1,0 +1,17 @@
+ASOF11   Date 01/21/2005 Time 18:35:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 014
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-BERNS   SANFORD BERNSTEIN EA
+Instrument - INTF      INTERNATIONAL FUNDS
+
+BERNSTEIN - EQUITIES                         0.000     IE-BER                10,462,752.91    1,046,275,291.95
+BERNSTEIN - LQR                              0.000     IL-BER                   632,453.61       63,245,361.62
+
+Instrument Total               2                                             11,095,206.53    1,109,520,653.57
+
+Portfolio Total                2                                             11,095,206.53    1,109,520,653.57      1,531,851,522.51

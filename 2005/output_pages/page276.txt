@@ -1,0 +1,50 @@
+ASOF10   Date 01/19/2006 Time 18:24:54   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 059
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+SCANA CORP                                   3.961     80589M102 Q SCG             11,100          408,854.01          437,118.00
+SCANSOURCE INC                               0.000     806037107   SCSC            37,800        1,624,195.39        2,066,904.00
+SCBT FINANCIAL CORP                          2.034     78401V102   SCBT             8,530          223,023.74          285,072.60
+SCHAWK INC                                   0.626     806373106   SGK             31,610          710,851.00          655,907.50
+SCHERING-PLOUGH                              1.055     806605101 Q SGP          2,690,430       53,410,163.57       56,095,465.53
+SCHNITZER STL INDS                           0.222     806882106   SCHN            33,800          842,667.08        1,033,942.00
+SCHOLASTIC CORP                              0.000     807066105   SCHL            68,400        2,047,479.96        1,950,084.00
+SCHOOL SPECIALTY INC.                        0.000     807863105   SCHS            50,136        1,704,920.10        1,826,955.84
+SCHULMAN (A.) INC.                           2.695     808194104 Q SHLM            32,400          551,258.75          697,248.00
+SCHWAB (CHARLES) CORP                        0.681     808513105   SCHW         1,221,600       16,406,632.74       17,920,872.00
+SCHWEITZER-MAIDUIT INTL INC                  2.421     808541106   SWM             16,100          450,053.17          398,958.00
+SCIENTIFIC ATLANTA INC.                      0.092     808655104 Q SFA             15,364          412,039.13          661,727.48
+SCOTTISH RE GROUP LTD                        0.814     G7885T104   SCT            900,000       21,022,674.18       22,095,000.00
+SCOTTS COMPANY                               1.105     810186106   SMG            153,160        5,455,386.67        6,928,958.40
+SCP POOL CORPORATION                         0.967     784028102   POOL            16,151          501,059.72          601,140.22
+SCRIPPS CO. E.W. CL A                        0.916     811054204 Q SSP             13,300          621,095.03          638,666.00
+SCS TRANSPORTATION INC                       0.000     81111T102   SCST            36,700          640,728.23          779,875.00
+SEABOARD CORP                                0.198     811543107   SEB                600          201,614.08          906,600.00
+SEABRIGHT INSURANCE HOLDINGS                 0.000     811656107   SEAB             8,500          108,038.40          141,355.00
+SEACHANGE INTERNATIONAL                      0.000     811699107   SEAC           215,600        1,459,716.63        1,703,240.00
+SEACOAST BKG CORP FL                         2.614     811707306   SBCF            17,620          363,963.02          404,379.00
+SEACOR SMIT INC.                             0.000     811904101   CKH             48,875        2,538,331.92        3,328,387.50
+SEAGATE TECHNOLOGY                           1.600     G7945J104   STX             33,902          579,435.42          677,700.97
+SEALED AIR CORP.                             0.000     81211K100   SEE            216,600        9,745,490.12       12,166,422.00
+SEARS HOLDINGS CORP                          0.000     812350106   SHLD           139,671       18,511,450.16       16,136,190.63
+SEATTLE GENETICS INC                         0.000     812578102   SGEN            28,100          143,627.53          132,632.00
+SECURE COMPUTING CORP                        0.000     813705100   SCUR            38,013          367,721.44          466,039.38
+SECURITY BANK CORP                           1.116     814047106   SBKC            11,100          246,565.17          258,519.00
+SELECT COMFORT CORP                          0.000     81616X103   SCSS           328,007        5,881,398.42        8,970,991.45
+SELECTICA INC                                0.000     816288104   SLTC           209,150          762,801.44          596,077.50
+SELECTIVE INSURANCE GROUP                    1.657     816300107   SIGI            62,995        1,906,821.10        3,345,034.50
+SEMITOOL INC                                 0.000     816909105   SMTL            17,600          177,423.80          191,488.00
+SEMPRA ENERGY                                2.587     816851109   SRE            139,218        5,118,805.04        6,242,535.11
+SEMTECH CORPORATION                          0.000     816850101   SMTC           180,957        3,116,679.29        3,304,274.82
+SENIOR HOUSING PROP TRUST                    7.569     81721M109   SNH             63,200          913,033.43        1,068,712.00
+SENOMYX INC                                  0.000     81724Q107   SNMX            22,300          365,842.65          270,276.00
+SENSIENT TECHNOLOGIES                        3.352     81725T100 Q SXT             50,000        1,009,383.72          895,000.00
+SEPRACOR INC.                                0.000     817315104   SEPR           543,700       25,861,815.77       28,054,920.00
+SEQUA CORP - CL A                            0.000     817320104   SQA.A            6,700          337,808.33          462,635.00
+SERENA SOFTWARE INC                          0.000     817492101   SRNA             7,500          139,543.85          175,800.00

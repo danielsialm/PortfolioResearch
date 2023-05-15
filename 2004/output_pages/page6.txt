@@ -1,0 +1,51 @@
+ASOF01   Date 01/21/2005 Time 18:34:21   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - FIXED INCOME
+Portfolio  - FI        FIXED INCOME
+Instrument - AGC       AGENCY BONDS WITH COUPONS
+
+FREDDIE MAC                    AAA 7.0000  4.169 3134A33L8        S 03/15/2010    30,000,000.00     33,933,951.33     34,856,733.33
+FREDDIE MAC (06 CALL)          AAA 3.8750  3.875 3128X2ME2        S 01/12/2009    15,000,000.00     15,000,000.00     15,205,514.58
+FREDDIE MAC (07 CALL)          AAA 5.0000  4.887 3128X2TM7        S 01/30/2014    25,000,000.00     25,204,129.43     25,588,555.56
+
+Instrument Total              33                                               1,044,300,000.00  1,059,907,254.38  1,094,751,596.99
+
+Instrument -ASB       ASSET BACKED NOTES AND BONDS
+
+CMAOT 2004-A A3                AAA 2.0800  2.093 161581DJ9        M 05/15/2008     5,000,000.00      4,999,768.63      4,941,372.22
+CMAOT 2004-A A4                AAA 2.8300  2.847 161581DK6        M 09/15/2010    25,000,000.00     24,999,831.57     24,586,694.44
+TAOT 2003-B A4                 AAA 2.7900  2.812 89232YAD0        M 00/00/0000    15,000,000.00     14,998,642.05     14,889,600.00
+VALET 2003-1 A2                AAA 1.1100  1.122 92866XAB3        M 00/00/0000     1,036,604.77      1,036,604.77      1,036,406.95
+VALET 2003-1 A4                AAA 1.9300  1.938 92866XAD9        M 00/00/0000    20,000,000.00     19,999,936.88     19,551,794.44
+
+Instrument Total               5                                                  66,036,604.77     66,034,783.90     65,005,868.05
+
+Instrument -CAN       CANADIAN BONDS
+
+ONTARIO PROVINCE GLOBAL        AA2 5.5000  6.351 683234MF2        S 10/01/2008    23,500,000.00     22,841,047.36     25,309,265.00
+QUEBEC PROVINCE GLOBAL         A1  5.7500  6.566 748148QQ9        S 02/15/2009    15,000,000.00     14,563,418.22     16,409,433.33
+
+Instrument Total               2                                                  38,500,000.00     37,404,465.58     41,718,698.33
+
+Instrument -CDS       CREDIT DEFAULT SWAP
+
+DJ CDX SERIES II IG 125NAME        0.0000  0.000 IBOXX0909          09/20/2009   165,000,000.00         -3,530.12      1,383,633.29
+IBOXX NA 09/14 IG 125 SERIES 2     0.0000  0.000 IBOXX0914          09/20/2014   145,000,000.00       -105,037.69      1,594,760.79
+
+Instrument Total               2                                                 310,000,000.00       -108,567.81      2,978,394.08
+
+Instrument -CMBB      COMMERCIAL MORTGAGE BACKED - AMORTIZING
+
+CSFB 2004-C4 A2                AAA 3.8800  3.759 22541SH43        M 00/00/0000    14,607,000.00     14,678,097.37     14,544,092.52
+FULBA 1998-C2 A1               AAA 6.2800  6.153 337367AA4        M 11/15/2035     3,813,340.49      3,818,881.76      3,855,681.29
+LBCMT 1999-C1 A2               AAA 6.7800 99.999 501773CS2        M 10/15/2030    30,000,000.00     31,172,764.61     33,181,800.00
+LBUBS 2003-C5 A2               AAA 3.4780 99.999 52108HSY1        M 07/15/2027    20,000,000.00     20,074,737.02     19,784,444.44
+MLMT 2004-MKB1 A2              AAA 4.3530  4.254 59022HCT7        M 02/12/2042    20,000,000.00     20,097,935.62     20,182,550.00
+
+Instrument Total               5                                                  88,420,340.49     89,842,416.38     91,548,568.25
+

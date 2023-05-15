@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2003 Time 18:53:32   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 006
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-ACT     INTERNAL EMERGING
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+CLAL INSURANCE ENT                           0.718     6200600      CLIS_         8,730.00           95,190.42
+CNOOC ADR                                    2.572     2494764      CEO          75,000.00        1,379,865.57
+COMMERCIAL INTERNATIONAL BANK                0.000     6243898      CMIB_       720,000.00        7,251,924.98
+COMPAL ELECTRONICS                           0.000     6225744      2324_     3,900,000.00        3,158,789.25
+COMPANHIA BRASILEIRE ADR                     1.241     2228532      CBD         182,000.00        3,702,201.39
+COMPANHIA DE BEBIDAS ADR                     1.542     2634797      ABV         360,000.00        6,803,865.22
+COMPANIA CERVECERI ADR                       1.780     2217596      CU           75,000.00        1,278,976.78
+COMPANIA DE MINAS ADR                        1.136     2210476      BVN          50,000.00        1,094,449.15
+CONSORCIO ARA S.A.                           0.000     2209731      ARA*_     1,044,400.00        1,487,553.54
+COPEL ADR                                    3.558     2209656      ELP         800,000.00        4,658,459.60
+COSCO PACIFIC LIMITED                        0.001     6354251      1199_     5,000,000.00        3,033,252.54
+DAYA GUNA SAMUDERA                           0.041     6253488      DGSA_       128,815.00                0.00
+DELTA ELECTRONICS INC                        0.000     6260734      2308_     2,110,106.73        2,392,973.08
+DHANA SIAM FINANCE                           0.000     6268716      DS/F_        98,200.00                0.00
+DIMENSION DATA HLDGS PLC                     0.000     6264639      DDT_S     3,000,000.00        2,615,438.28
+DOCTOR REDDY'S LAB - ADR                     0.258     2748881      RDY          40,000.00          658,503.84
+ECI TELECOM ORD IL                           9.852     2310150      ECIL        238,700.00        2,427,260.50
+EGIS RT                                      0.000     4040499      EGIS_        43,000.00        1,517,729.90
+EMBRAER-EMPRESA ADR                          7.295     2611916      ERJ          50,000.00          730,110.00
+EMPRESAS NACIONAL ADR                        0.390     2311131      EOC         172,800.00        1,851,826.99
+FINANCE ONE THB10(                           0.000     6336925      FIN1/        13,800.00                0.00
+FIRSTRAND ZAR0.01                            0.000     6606996      FSR_S     2,050,000.00        1,368,372.52
+FISKARAGUNG PERK I                           0.000     6342535      FISK_       301,500.00                0.00
+FOMENTO ECON MEXIC                           0.168     2242059      FEMSA        61,600.00          199,747.08
+FOMENTO ECONOMICO MEX SP ADR                 1.922     2246039      FMX         170,000.00        5,931,819.66
+FORD OTOMOTIV SAN                            0.000     4663562      FROTO    51,150,000.00          432,444.99
+FORMOSA PLASTICS CORP                        0.041     6348544      73829       255,303.07          330,947.54
+GAIL INDIA LTD GDR 144A                      5.584     5179251      GAYIY       375,000.00        3,626,250.00
+GEDEON RICHTER RT                            0.000     4042387      RICHT        97,361.00        5,346,136.27
+GOLD FIELDS LIMITE                           0.000     6280215      GFI_S       300,000.00        3,495,166.91
+GPO ELEKTRAN ADR                             1.314     2983046      EKT         285,000.00        4,479,691.12
+GPO FIN BANORTE SE                           0.003     2421041      GFNOR       500,000.00        1,196,463.25
+GPO FINANCIERO BBV                           0.000     2968786      GFBBB     6,700,000.00        6,262,315.62
+GPO IND BIMBO SER'                           0.001     2392471      BIMBO       500,000.00        1,227,879.52
+GRUPO ELEKTRA                                0.014     2967084      ELEKT        12,799.00           90,496.34
+GRUPO FINANCIERO GALICIA-ADR                13.930     2613570      GGAEC       455,720.00        2,458,356.84
+GRUPO IUSACELL - ADR                         0.000     2444178      CEL         700,000.00        2,447,897.41
+GRUPO MODELO S.A.                            0.123     2380539      GMODE       800,000.00        1,983,825.34
+GUDANG GARAM(PERUS                           0.000     6366999      GGRM_       716,500.00          810,576.92

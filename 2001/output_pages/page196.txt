@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 041
+ASOF10   Date 01/24/2002 Time 21:29:49   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 043
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-STAPLES INC                                  0.000     855030102   SPLS           796,657       15,598,637.51       14,897,485.91
-STARBUCKS CORP.                              0.000     855244109   SBUX           623,050       10,435,763.97       11,869,102.53
-STARTEK INC                                  0.000     85569C107   SRT             13,600          742,509.93          257,720.00
-STARWOOD HOTELS & RESORTS                    2.680     85590A203   HOT            319,526       10,204,222.25        9,537,851.09
-STATE STREET CORP                            0.765     857477103   STT            583,702       22,765,184.33       30,498,429.50
-STATEN ISLAND BANCORP                        2.207     857550107   SIB             99,900          991,984.44        1,629,369.00
-STATION CASINOS INC                          0.000     857689103   STN             37,700          326,672.02          421,863.00
-STEAK N SHAKE COMPANY                        0.000     857873103   SNS             77,100          870,509.84          851,184.00
-STEEL DYNAMICS INC                           0.000     858119100   STLD            47,300          771,682.08          549,153.00
-STEEL TECHNOLOGIES INC                       1.762     858147101   STTX            35,200          276,298.00          319,616.00
-STEIN MART INC.                              0.000     858375108   SMRT            46,700          642,105.61          390,412.00
-STELLENT INC                                 0.000     85856W105   STEL            20,893          638,959.74          617,597.08
-STERICYCLE INC                               0.000     858912108   SRCL            17,319          667,343.82        1,054,380.72
-STERIS CORP                                  0.000     859152100 Q STE            211,984        4,625,298.33        3,872,947.68
-STERLING BANCSHARES INC                      1.198     858907108   SBIB            41,700          570,430.65          522,084.00
-STEWART & STEVENSON SERVICES                 1.807     860342104 Q SSSS            74,200        1,771,575.74        1,395,702.00
-STEWART INFO SVCS                            0.000     860372101   STC             30,300          617,662.66          598,425.00
-STILLWATER MINING COMPANY                    0.000     86074Q102   SWC             38,000          569,599.16          703,000.00
-STILLWELL FINANCIAL INC                      0.147     860831106   SV             582,041       13,767,518.58       15,843,156.03
-STMICROELECTRONICS NV-NY SHS                 0.094     861012102   STM             23,600          657,424.60          747,411.99
-STONE ENERGY CORP                            0.000     861642106   SGY             67,529        3,066,605.26        2,667,395.50
-STORAGE TECHNOLOGY CORP                      0.000     862111200   STK            236,000        5,272,564.02        4,878,120.00
-STRATOS LIGHTWAVE INC.                       0.000     863100103   STLW            63,144          332,703.46          388,335.60
-STRIDE RITE CORP                             3.053     863314100 Q SRR             48,300          620,595.94          316,365.00
-STRYKER CORP.                                0.137     863667101   SYK            331,247        9,507,752.11       19,334,887.41
-STURM RUGER & CO INC                         6.677     864159108   RGR             32,000          299,957.18          383,360.00
-SUN MICROSYSTEMS INC.                        0.000     866810104   SUNW         6,600,721      102,346,211.35       81,188,868.27
-SUNGARD DATA SYSTEMS                         0.000     867363103   SDS            584,200       11,834,650.43       16,900,906.00
-SUNOCO, INC.                                 2.678     86764P109 Q SUN             54,332        1,613,071.09        2,028,756.88
-SUNRISE ASSISTED LIVING INC                  0.000     86768K106   SRZ             12,800          327,639.33          372,608.02
-SUNTRUST BANKS INC.                          2.551     867914103 Q STI            553,481       32,734,790.71       34,703,258.68
-SUPER VALU STORES INC.                       2.531     868536103 Q SVU             92,132        1,543,860.46        2,037,959.83
-SUPERIOR INDUSTRIES INTL                     1.093     868168105   SUP            105,800        3,275,600.48        4,258,450.00
-SUPERTEX INC                                 0.000     868532102   SUPX            10,500          264,480.63          183,855.00
-SURMODICS INC                                0.000     868873100   SRDX            32,810        1,491,134.33        1,196,252.60
-SUSQUEHANNA BANCSHARES INC.                  3.836     869099101   SUSQ            43,500          794,985.40          906,975.00
-SWIFT ENERGY COMPANY                         0.000     870738101   SFY             38,000        1,138,419.76          767,600.00
-SWIFT TRANSPORTATION CO.                     0.000     870756103   SWFT           258,100        4,547,195.17        5,551,730.99
-SWS GROUP INC                                1.571     78503N107   SWS             34,420          832,231.98          875,989.00
-SYBASE INC.                                  0.000     871130100   SY             224,250        4,746,415.78        3,534,180.00
+THE MONY GROUP INC.                          1.301     615337102   MNY            105,000        3,891,812.57        3,629,850.00
+THERAGENICS CORPORATION                      0.000     883375107   TGX             58,700          610,684.34          578,782.00
+THERASENSE INC                               0.000     883381105   THER            14,300          297,993.94          354,640.00
+THERMA-WAVE INC                              0.000     88343A108   TWAV            24,500          373,807.40          365,540.00
+THERMO ELECTRON CORP.                        0.000     883556102   TMO            253,958        5,673,972.82        6,059,437.88
+THOMAS & BETTS CORP.                         0.000     884315102 Q TNB             79,446        2,335,196.92        1,680,282.90
+THOMAS INDUSTRIES INC                        1.360     884425109   TII             17,300          376,510.85          432,500.00
+THOR INDUSTRIES INC                          0.215     885160101   THO             14,400          307,971.86          533,520.00
+THQ INC                                      0.000     872443403   THQI            73,730        2,852,390.36        3,573,693.10
+THREE-FIVE SYSTEMS INC                       0.000     88554L108   TFS             33,900        1,091,569.14          539,349.00
+TIDEWATER INC                                1.769     886423102 Q TDW            114,000        4,423,487.90        3,864,599.99
+TIER TECHNOLOGIES INC-CL B                   0.000     88650Q100   TIER            19,200          403,381.01          413,952.00
+TIFFANY & CO                                 0.508     886547108   TIF            291,928        8,338,271.52        9,186,974.16
+TIMBERLAND CO CL-A                           0.000     887100105   TBL             86,900        2,358,936.78        3,222,252.00
+TIMKEN CO.                                   3.213     887389104 Q TKR             85,504        1,435,401.75        1,383,454.72
+TITAN CORP                                   0.000     888266103   TTN            123,800        2,790,737.60        3,088,810.01
+TITAN PHARMACEUTICALS INC                    0.000     888314101   TTP             30,000          877,470.04          294,300.00
+TJX COS. INC.                                0.451     872540109 Q TJX            541,912       14,035,862.83       21,600,612.31
+TMP WORLDWIDE INC                            0.000     872941109   TMPW           296,500       16,114,091.43       12,719,850.00
+TOLL BROTHERS INC                            0.000     889478103   TOL             36,000          808,324.93        1,580,400.00
+TOLLGRADE COMMUNICATIONS INC                 0.000     889542106   TLGD            13,300          416,423.00          443,555.00
+TOM BROWN INC                                0.000     115660201   TMBR            57,100        1,569,432.78        1,542,271.00
+TOO INC                                      0.000     890333107   TOO             30,600          814,572.00          841,500.00
+TOOTSIE ROLL INDUSTRIES, INC.                0.716     890516107 Q TR              70,778        3,254,886.77        2,766,004.24
+TORCHMARK CORP                               0.915     891027104 Q TMK             85,963        2,314,001.68        3,380,924.80
+TORO CO                                      1.066     891092108   TTC             21,600          759,657.53          972,000.00
+TOWER AUTOMOTIVE INC                         0.000     891707101   TWR             35,300          674,784.18          318,759.00
+TOYS R US INC.                               0.000     892335100   TOY            271,490        6,371,032.71        5,630,702.62
+TRANSACTION SYSTEMS ARCHITECTS               0.000     893416107   TSAI            61,400        2,061,728.88          752,764.00
+TRANSKARYOTIC THERAPIES INC.                 0.000     893735100   TKTX            33,983        1,169,546.23        1,454,472.40
+TRANSOCEAN SEDCO FOREX INC.                  0.354     G90078109   RIG            535,691       23,793,977.97       18,117,069.63
+TRANSWITCH CORP                              0.000     894065101   TXCC           185,700        4,634,112.72          835,650.02
+TREDEGAR CORPORATION                         0.842     894650100   TG              36,600          776,657.49          695,400.00
+TRENWICK GROUP LTD                           1.573     G9032C109   TWK             32,600          936,585.40          331,542.00
+TRIAD HOSPITALS INC                          0.000     89579K109   TRI            142,653        4,716,130.64        4,186,865.55
+TRIARC COM                                   0.000     895927101   TRY              1,400           30,778.73           34,020.00
+TRIBUNE CO                                   1.175     896047107 Q TRB            545,819       18,666,604.49       20,430,005.18
+TRICON GLOBAL RESTAURANTS-WI                 0.000     895953107   YUM            279,038        9,229,973.58       13,728,669.58
+TRIGON HEALTHCARE CORP.                      0.000     89618L100   TGH             78,500        4,098,967.91        5,451,825.00
+TRIMBLE NAVIGATION LTD                       0.000     896239100   TRMB            19,600          336,798.60          317,716.00

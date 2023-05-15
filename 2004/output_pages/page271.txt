@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:19   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 052
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+NEW YORK & CO                                0.000     649295102   NWY             11,100          219,461.13          183,372.00
+NEW YORK COMMUNITY BANCORP                   4.861     649445103   NYB            287,700        5,397,203.89        5,917,989.00
+NEW YORK TIMES CO. CL A                      1.519     650111107 Q NYT            208,400        8,824,687.26        8,502,720.00
+NEWALLIANCE BANCSHARES INC                   1.045     650203102   NAL            184,845        2,611,360.97        2,828,128.50
+NEWELL RUBBERMAID INC.                       3.472     651229106 Q NWL            292,400        7,249,816.44        7,073,156.00
+NEWFIELD EXPLORATION COMPANY                 0.000     651290108   NFX            122,800        6,263,114.79        7,251,340.00
+NEWMARKET CORP                               0.000     651587107   NEU             35,600          636,937.24          708,440.00
+NEWMONT MNG. CORP. HLDG CO                   0.900     651639106 Q NEM            673,400       22,838,202.03       29,905,694.00
+NEWPARK RESOURCES INC.                       0.000     651718504   NR             184,500        1,060,646.35          950,175.00
+NEWPORT CORP                                 0.141     651824104   NEWP            63,600        1,003,117.32          896,760.00
+NEXTEL COMMUNICATIONS CL-A                   0.000     65332V103   NXTL         2,196,600       43,441,241.52       65,898,000.00
+NEXTEL PARTNERS INC                          0.000     65333F107   NXTP           151,400        1,947,596.02        2,958,356.00
+NGP CAPITAL RESOURCES CO                     0.000     62912R107   NGPC            17,700          260,879.93          272,049.00
+NICOR INC.                                   5.035     654086107 Q GAS             49,000        1,636,637.06        1,810,060.00
+NII HOLDINGS INC                             0.000     62913F201   NIHD           121,420        4,035,745.20        5,761,379.00
+NIKE INC. -CL B                              1.102     654106103 Q NKE            148,700        7,540,932.71       13,485,603.00
+NISOURCE INCORPORATED                        4.038     65473P105 Q NI             575,000       11,401,104.48       13,098,500.00
+NITROMED INC                                 0.000     654798503   NTMD            10,900          196,923.76          290,485.00
+NJ RESOURCES CORP. COMMON                    3.138     646025106   NJR             41,900        1,252,244.78        1,815,946.00
+NL INDS INC                                  3.619     629156407   NL              19,500          257,557.09          430,950.00
+NMS COMMUNICATIONS CORP                      0.000     629248105   NMSS             5,800           34,803.50           36,598.00
+NN INC                                       2.422     629337106   NNBR            51,400          623,504.05          678,994.00
+NOBLE ENERGY INC                             0.324     655044105   NBL             95,800        5,087,233.29        5,907,028.00
+NOBLE INTERNATIONAL LTD                      1.961     655053106   NOBL             7,100          187,130.80          144,769.00
+NOKIA CORP - ADR                             1.946     654902204 A NOK            262,200        4,154,919.64        4,108,674.00
+NORDSON CORP                                 1.597     655663102   NDSN            38,555        1,200,087.12        1,544,898.85
+NORDSTROM INC                                1.112     655664100 Q JWN            355,700       13,024,378.44       16,621,861.00
+NORFOLK SOUTHERN CORP.                       1.105     655844108 Q NSC            937,720       23,143,955.75       33,936,086.80
+NORTEL NETWORKS CORP. HOLDING CO.            0.000     656568102 Q NT           2,000,000       21,991,057.72        6,980,000.00
+NORTH FORK BANK                              3.050     659424105   NFB            746,522       15,953,348.04       21,537,159.71
+NORTH PITTSBURGH SYS                         2.911     661562108   NPSI            16,700          288,655.95          412,991.00
+NORTHEAST UTILITIES                          3.448     664397106   NU             572,700       10,930,153.24       10,795,395.00
+NORTHERN TRUST CORP                          1.729     665859104   NTRS           151,400        7,092,237.95        7,355,012.00
+NORTHFIELD LABORATORIES INC                  0.000     666135108   NFLD            21,100          278,088.70          475,805.00
+NORTHROP GRUMMAN CORP.                       1.692     666807102 Q NOC          1,621,206       74,717,311.91       88,128,758.16
+NORTHWEST AIRLINES CORP                      0.000     667280101   NWAC           265,500        2,741,380.54        2,901,915.00
+NORTHWEST BANCORP IN                         1.913     667328108   NWSB            28,100          628,144.28          705,029.00
+NORTHWEST NATURAL GAS CO.                    3.853     667655104   NWN             55,925        1,615,928.72        1,886,909.50
+NOVATEL WIRELESS INC                         0.000     66987M604   NVTL            39,400          856,308.96          763,572.00
+NOVAVAX INC                                  0.000     670002104   NVAX           143,000          539,348.55          464,750.00

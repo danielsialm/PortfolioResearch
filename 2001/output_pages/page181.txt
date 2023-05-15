@@ -1,4 +1,4 @@
-ASOF10   Date 01/24/2002 Time 21:29:45   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 026
+ASOF10   Date 01/24/2002 Time 21:29:46   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 028
 
 Monthly Market Portfolio
 
@@ -8,43 +8,43 @@ Investment Desc                              Yield     Identifier F Ticker      
 Group - COMMON STOCK
 Instrument - COM       COMMON STOCK
 
-KEYSPAN CORPORATION                          5.137     49337W100   KSE            182,733        5,601,212.13        6,331,698.46
-KIMBERLY-CLARK CORP                          1.872     494368103 Q KMB          1,181,578       57,294,515.21       70,658,364.40
-KINDER MORGAN INC.                           0.359     49455P101   KMI            182,063        6,125,977.61       10,139,088.46
-KING PHARMACEUTICALS                         0.000     495582108   KG             569,294       19,396,046.86       23,984,356.22
-KIRBY CORP.                                  0.000     497266106   KEX             29,200          621,514.69          804,460.00
-KLA-TENCOR CORP.                             0.000     482480100   KLAC           230,121        8,962,838.20       11,404,846.31
-KNIGHT RIDDER                                1.540     499040103 Q KRI            174,205        8,808,570.42       11,311,130.65
-KNIGHT TRANSPORTATION INC                    0.000     499064103   KNGT            14,100          230,300.00          264,798.00
-KOHLS CORP                                   0.000     500255104   KSS            694,987       28,740,248.46       48,954,884.28
-KOPIN CORP                                   0.000     500600101   KOPN            99,500        1,410,702.23        1,393,000.00
-KORN/FERRY INTERNATIONAL                     0.000     500643200   KFY             55,600        1,169,902.68          592,140.00
-KRAFT FOODS INC - A                          1.528     50075N104   KFT            234,500        7,315,124.22        7,980,035.00
-KRISPY KREME DOUGHNUTS INC                   0.000     501014104   KKD             30,945          699,050.93        1,367,769.00
-KROGER CO.                                   0.000     501044101   KR           1,693,568       29,070,245.56       35,344,764.15
-KROLL INC                                    0.000     501049100   KROL            21,700          535,800.29          327,670.00
-KRONOS INC.                                  0.000     501052104   KRON            30,400          495,910.21        1,470,752.01
-KULICKE & SOFFA INDUSTRIES                   0.000     501242101   KLIC            81,600        1,318,114.05        1,399,440.00
-L-3 COMMUNICATIONS HOLDINGS INC              0.000     502424104   LLL             81,700        5,731,385.20        7,353,000.00
-LA-Z-BOY INC.                                1.649     505336107   LZB             59,000          822,566.08        1,287,380.00
-LABOR READY INC                              0.000     505401208   LRW             44,300          183,454.98          226,373.00
-LABRANCHE & CO., INC.                        0.000     505447102   LAB            128,700        5,082,497.51        4,435,002.00
-LACLEDE GROUP HLDG. CO.                      5.606     505597104   LG              26,800          558,320.64          640,520.00
-LAM RESEARCH CORP                            0.000     512807108   LRCX           282,500        6,522,303.91        6,559,650.01
-LANCASTER COLONY CORP                        2.027     513847103   LANC            73,050        2,132,468.60        2,594,005.50
-LANCE INC                                    4.478     514606102 Q LNCE            28,600          402,941.32          408,694.00
-LAND’S END INC                               0.000     515086106   LE              50,900        2,070,938.41        2,553,144.00
-LANDAMERICA FINANCIAL GROUP                  0.696     514936103   LFG             26,800          941,971.15          769,160.00
-LANDRY’S RESTAURANTS INC.                    0.536     51508L103   LNY             41,900          656,259.03          781,435.00
-LANDSTAR SYSTEM INC.                         0.000     515098101   LSTR             8,300          282,657.28          601,833.00
-LATTICE SEMICON. CORP.                       0.000     518415104   LSCC           237,400        3,994,319.56        4,883,318.00
-LAWSON PRODUCTS                              2.461     520776105 Q LAWS            11,300          282,374.91          293,800.00
-LAWSON SOFTWARE                              0.000     520780107   LWSN            18,000          279,599.89          283,500.00
-LEAR CORP.                                   0.000     521865105   LEA            134,500        5,092,443.98        5,129,830.00
-LEE ENTERPRISES                              1.869     523768109   LEE             78,500        2,630,284.14        2,855,045.00
-LEGATO SYSTEMS INC.                          0.000     524651106   LGTO           206,200        4,415,502.95        2,674,414.00
-LEGG MASON INC.                              0.800     524901105   LM             139,200        5,550,002.61        6,957,216.00
-LEGGETT & PLATT INC                          2.087     524660107   LEG            261,052        5,169,925.65        6,004,196.01
-LEHMAN BROTHERS HOLDING                      0.419     524908100 Q LEH            488,308       20,911,937.90       32,618,974.40
-LENDINGTREE INC                              0.000     52602Q105   TREE            60,700          344,907.36          358,130.00
-LENNAR CORPORATION                           0.106     526057104   LEN            116,500        4,214,948.16        5,454,530.00
+MANITOWOC COMPANY INC.                       2.893     563571108   MTW             26,200          615,605.25          814,820.00
+MANOR CARE INC.                              0.000     564055101   HCR            201,751        3,821,827.23        4,783,516.20
+MANPOWER INC                                 0.593     56418H100   MAN            164,100        5,514,385.76        5,531,811.00
+MANUGISTICS GROUP INC.                       0.000     565011103   MANU            21,500          364,685.42          453,220.00
+MAPINFO CORP                                 0.000     565105103   MAPS            14,200          372,892.00          222,798.00
+MARATHON OIL CORP                            3.066     565849106 Q MRO            472,810       10,237,522.18       14,184,300.01
+MARCUS CORPORATION                           1.554     566330106   MCS             28,200          477,996.53          399,030.00
+MARKEL CORP                                  0.000     570535104   MKL              5,700          985,492.38        1,024,005.00
+MARRIOTT INT’L INC CL-A                      0.639     571903202   MAR            465,183       13,623,874.20       18,909,688.94
+MARSH & MCLENNAN COS.                        1.973     571748102 Q MMC            560,496       41,138,744.60       60,225,295.19
+MARSHALL & ILSLEY CORP                       1.833     571834100   MI             216,600       11,252,234.58       13,706,448.00
+MARTIN MARIETTA MATERIALS                    1.201     573284106   MLM            106,200        5,374,334.98        4,948,920.00
+MASCO CORP.                                  2.204     574599106 Q MAS            804,468       19,098,304.66       19,709,466.01
+MASSEY ENERGY CO                             0.771     576206106 Q MEE             72,500          711,652.12        1,502,925.00
+MASTEC INC                                   0.000     576323109   MTZ            100,000        2,133,151.36          695,000.00
+MATERIAL SCIENCES CORP.                      0.000     576674105   MSC                600            8,119.92            6,072.00
+MATRIXONE, INC.                              0.000     57685P304   MONE            45,400          259,360.98          589,745.99
+MATTEL INC.                                  0.290     577081102 Q MAT            863,274       14,582,197.65       14,848,312.80
+MAVERICK TUBE CORP                           0.000     577914104   MVK             85,000        1,574,201.07        1,100,750.00
+MAXIM INTGRTD PRDCTS INC.                    0.000     57772K101   MXIM           403,796       12,503,652.16       21,203,327.93
+MAXIMUS INC                                  0.000     577933104   MMS             29,439        1,125,467.79        1,238,204.35
+MAXTOR CORP                                  0.000     577729205   MXO            236,400        1,428,843.29        1,498,776.00
+MAXWELL TECHNOLOGIES INC                     0.000     577767106   MXWL            41,200          306,458.80          403,760.00
+MAY DEPT STORES                              2.541     577778103 Q MAY            425,192       14,924,936.85       15,723,600.16
+MAYTAG COMPANY                               2.320     578592107 Q MYG            243,276        7,924,812.01        7,548,854.28
+MBIA INC.                                    1.118     55262C100 Q MBI            276,952       10,711,844.46       14,852,935.76
+MBNA CORP                                    1.022     55262L100 Q KRB          1,273,716       27,946,207.17       44,834,803.20
+McCORMICK & CO                               2.001     579780206 Q MKC            145,300        4,694,900.48        6,098,241.00
+MCAFEE.COM CORPORATION                       0.000     579062100   MCAF            16,300          267,679.57          552,733.00
+MCDATA CORPORATION-A WI                      0.000     580031201   MCDTA          179,700        4,497,767.00        4,402,650.00
+MCDERMOTT INTERNATIONAL                      0.000     580037109 Q MDR             80,891        1,081,032.04          992,532.56
+MCDONALDS CORPORATION                        0.868     580135101 Q MCD          2,903,872       85,879,558.54       76,865,491.85
+MCGRAW HILL INC                              1.607     580645109 Q MHP            312,911       13,790,017.12       19,081,312.78
+MCKESSON CORP                                0.641     58155Q103 Q MCK            486,517       21,381,204.80       18,195,735.81
+MDC HOLDINGS INC                             0.740     552676108   MDC             39,633          755,713.03        1,497,731.07
+MDU RESOURCES GROUP                          3.268     552690109   MDU            129,200        4,445,833.74        3,636,980.00
+MEAD CORPORATION                             2.201     582834107 Q MEA            162,933        4,896,619.16        5,033,000.37
+MEDCATH CORPORATION                          0.000     58404W109   MDTH            19,700          398,493.84          330,565.99
+MEDIA GENERAL INC - CL A                     1.364     584404107   MEG             53,400        2,634,950.28        2,660,922.00
+MEDIACOM COMMUNICATIONS CORP                 0.000     58446K105   MCCC            54,500          841,423.85          995,170.01

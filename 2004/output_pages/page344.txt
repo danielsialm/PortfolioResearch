@@ -1,0 +1,50 @@
+ASOF11   Date 01/21/2005 Time 18:35:35   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+PCCW LTD                                     0.143     6574071      8_HK        183,500.00          125,714.86
+PEARSON ORD 25P                              7.483     0677608      PSON_        70,263.00        1,073,212.13
+PERNOD-RICARD FF20                           2.363     4682329      RI_FP         2,800.00          297,781.29
+PETRO-CANADA                                 0.818     2684316      PCA_C         5,200.00          230,620.45
+PEUGEOT SA FF35                              3.928     7103526      UG_FP        10,998.00          497,531.80
+PIN-PRINTEMPS-REDO                           4.428     5505072      PP_FP         3,845.00          415,042.66
+PLACER DOME INC                              0.369     2691714      PDG_C         8,300.00          136,878.19
+POTASH CORP OF SASKATCHEWAN                  0.502     2696980      POT_C         2,000.00          116,022.47
+POWER CORP OF CANADA                         1.548     2697701      POW_C         6,900.00          136,657.60
+POWER FINANCIAL CORP                         2.113     2697864      PWF_C         5,800.00          121,799.81
+PREUSSAG AG NPV                              5.997     5666292      TUI_G         9,000.00          185,336.99
+PROMISE 8574                                 0.013     6703295      8574_         7,900.00          511,418.98
+PRUDENTIAL CORP GB                           6.823     0709954      PRU_L       128,920.00        1,448,076.72
+QBE INS GROUP A 1                            2.348     6715740      QBE_A        96,700.00        1,063,120.75
+RECKITT BENCKISER PLC                        3.659     0727871      RB/_L        46,254.00          856,429.71
+REED INTERNATIONAL                           4.834     0730835      REL_L        97,860.00          823,228.99
+RENAULT SA                                   3.091     4712798      RNO_F         9,497.00          522,851.67
+REPSOL - YPF, SA                             3.014     5669354      REP_S       145,200.00        3,525,773.77
+RESONA HOLDINGS INC                          0.000     6421553      8308_       363,000.00          583,870.98
+REUTERS GROUP ORD                            5.085     0236913      RTR_L        85,787.00          927,879.47
+RICOH CO Y50                                 0.009     6738220      7752_        60,000.00        1,061,813.48
+RINKER GROUP LTD                             1.103     6599386      RIN_A       153,900.00        1,175,706.67
+RIO TINTO LIMITED                            1.807     6220103      RIO_A        45,800.00        1,415,186.95
+RIO TINTO PLC                                4.535     0718875      RIO_L        79,193.00        1,293,361.69
+ROCHE HLDGS AG GEN                           1.108     7110388      ROG_V        18,987.00        1,760,483.22
+ROGERS COMMUNICATIONS -CL B                  0.265     2169051      RCI/B         4,400.00           78,853.71
+ROHM CO JPY50                                0.007     6747204      6963_         8,400.00        1,139,424.54
+ROYAL BANK OF CANADA                         2.858     2754383      RY_CN        12,000.00          535,167.77
+ROYAL BK SCOT GBP                            5.752     0754783      RBS_L       198,639.00        3,768,064.75
+RWE AG                                       4.184     4768962      RWE_G        72,300.00        2,283,043.60
+SABMILLER PLC                                4.282     0483548      SAB_L        91,965.00          643,313.06
+SAINSBURY(J) GBP0.                           5.535     B019KW7      SBRY_       127,524.00          593,820.48
+SANDVIK AB                                   0.589     5963108      SAND_        42,700.00        1,337,312.10
+SANKYO CO JPY50                              0.012     6775283      4501_        23,800.00          499,868.43
+SANOFI-AVENTIS                               2.357     5671735      SAN_F        30,066.00        1,754,747.29
+SANYO ELECTRIC CO                            0.016     6776769      6764_       149,800.00          611,913.23
+SAP AG NPV(SWISS C                           0.828     4846288      SAP_G        29,200.00        4,232,258.32
+SCANIA B                                     0.343     5038943      SCVB_        18,900.00          586,143.48
+SCHERING AG DEM NP                           2.298     4845757      SCH_G        35,800.00        1,786,104.10

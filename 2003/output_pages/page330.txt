@@ -1,0 +1,52 @@
+ASOF09   Date 01/20/2004 Time 18:59:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 002
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS       EQUITY SWAPS
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+CARGIL INC                           1.064 14178LB66                          7,019,000.00        7,011,633.14
+FEDERAL HOME LOAN DISCOUNT NOT       1.004 313384UH0                         19,000,000.00       18,960,784.35
+
+Instrument Total               2                                             26,019,000.00       25,972,417.49
+
+Instrument -FRBES     FLOATING RATE CORPORATE BOND
+
+AIG (ASIF GLOBAL FINANCING XV) AAA   1.217 045183AA8        Q                40,000,000.00       40,087,224.56
+AMERICAN EXPRESS CREDIT        AA3   1.559 0258M0AT6        M                40,000,000.00       40,000,000.00
+AMERICAN HONDA FINANCE         A1    1.286 02666QTC7        Q                40,000,000.00       40,000,000.00
+BAYERISCHE LANDESBANK          AAA   1.472 0727M5F49        Q                40,000,000.00       39,984,617.43
+CARCO AUTO LOAN MASTER TRUST   AAA   2.252 141389BM7        M                75,000,000.00       74,990,124.63
+CCCIT 2001-A5 A5               AAA   4.008 17305EAN5        Q                75,000,000.00       75,010,637.09
+CHAMT 2001-3 A                 AAA   4.138 16151RAU7        M                30,000,000.00       30,000,102.30
+CHAMT 2002-4 A                 AAA   1.918 16151RBR3        M                20,000,000.00       20,000,000.00
+CITIGROUP GLOBAL MARKETS       AA1   1.234 17307EAU7        Q                40,000,000.00       40,000,000.00
+DEUTSCHE BANK FINANCIAL              1.196 25153WAJ0        Q                40,000,000.00       40,000,000.00
+FEDERAL HOME LOAN BANK         AAA   1.833 3133MMGW7        Q               120,000,000.00      120,000,000.00
+FEDERAL HOME LOAN BANK         AAA+  1.164 3133MXKQ1        Q                70,000,000.00       70,000,000.00
+FIRST USA CREDIT CARD MASTER T AAA   3.749 337435BW0        M                62,500,000.00       62,538,599.11
+FORD CREDIT FLOORPLAN MASTER O AAA   3.888 34528PAA4        M                62,500,000.00       62,522,378.41
+FREDDIE MAC                    AAA   1.711 312925SA9        Q                55,000,000.00       55,000,000.00
+FREDDIE MAC                    AAA+  1.114 3128X0T41        Q                60,000,000.00       60,000,000.00
+FREDDIE MAC                    AAA   1.156 3128X1H83        Q                60,000,000.00       60,000,000.00
+GENERAL ELEC CAP CORP          AAA   2.035 36962GYX6        Q                40,000,000.00       40,000,000.00
+HBOS TREASURY SRVCS PLC        AA2   1.156 4041A0AH1        Q                40,000,000.00       40,000,000.00
+IBM CORP                       A1    1.926 459200AY7        Q                35,000,000.00       35,000,000.00
+JACKSON NATL LIFE FUND         A1    1.301 46849EAC1        Q                30,000,000.00       30,029,810.33
+JOHN HANCOCK GLOB FDG II       AA2   1.994 41011WAU4        Q                40,000,000.00       39,994,540.42
+JOHNSON CONTROLS INC           A2    1.219 478366AL1        Q                14,000,000.00       14,001,823.34
+MASSMUTUAL GLOB FNDG II        AA1   1.209 57629WAG5        Q                40,000,000.00       40,132,724.85
+MERRILL LYNCH & CO             AA3   1.810 59018YPK1        Q                40,000,000.00       40,000,000.00
+NATL CITY BK OF INDIANA        Aa3   1.166 634906DS7        Q                40,000,000.00       40,000,000.00
+PACCAR FINANCIAL CORP          A1    1.217 69371RWG7        Q                40,000,000.00       39,958,816.36
+SUNTRUST BANK                  AA2   1.301 86787EAF4        Q                40,000,000.00       39,949,031.40
+TOYOTA MOTOR CREDIT            AAA   1.118 89233PRK4        Q                40,000,000.00       40,000,000.00
+WAL-MART STORES                AA2   1.381 931142BS1        Q                40,000,000.00       39,971,418.39
+Wells Fargo & Co.              AA2   1.845 949746CP4        Q                25,000,000.00       25,000,000.00
+
+Instrument Total              31                                          1,434,000,000.00    1,434,171,848.62
+

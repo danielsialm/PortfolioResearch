@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:10   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 172
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6JL       JACOBS LEVY - 2000 V
+Instrument - COM       COMMON STOCK
+
+ACTIVCARD CORP                             0.000 ACTI    00506J107      7.8800        37,300.00        299,556.66        293,924.00
+ACTIVISION INC                             0.000 ATVI    004930202     18.2000        55,500.00      1,009,208.10      1,010,100.00
+ADC COMMUNICATIONS INC                     0.000 ADCT    000886101      2.9700        17,000.00         47,720.70         50,490.00
+ADVANCED MARKETING SERVICES                0.350 MKT     00753T105     11.4000        10,600.00        108,472.19        120,840.00
+ADVO INC.                                  1.385 AD      007585102     31.7600        13,012.00        369,966.28        413,261.12
+AGL RESOURCES INC                          3.848 ATG     001204106     29.1000        23,100.00        610,883.03        672,210.00
+ALBANY INTL CL-A                           0.826 AIN     012348108Q    33.9000        28,000.00        762,435.18        949,200.00
+ALDERWOODS GROUP INC                       0.000 AWGI    014383103      9.4200        15,000.00        101,385.79        141,300.00
+ALLIANCE IMAGING INC                       0.000 AIQ     018606202      3.7000        24,500.00        119,124.50         90,650.00
+ALLOS THERAPEUTICS I                       0.000 ALTH    019777101      3.5900         4,900.00         14,602.00         17,591.00
+AMC ENTMT INC                              0.000 AEN     001669100     15.2100        37,700.00        361,128.44        573,417.00
+AMERICAN MED SEC GRO                       0.000 AMZ     02744P101     22.4200         9,500.00        194,873.37        212,990.00
+AMERICAN WEST HOLDINGS CORP.               0.000 AWA     023657208     12.4000        47,300.00        340,242.27        586,520.00
+ANALOGIC CORP.                             0.780 ALOG    032657207     41.0000         3,200.00        143,009.28        131,200.00
+ANNTAYLOR STORES CORP                      0.000 ANN     036115103     39.0000        17,500.00        504,345.51        682,499.99
+ANTHRACITE CAPITAL INC                    10.117 AHR     037023108     11.0700        66,100.00        682,834.19        731,727.00
+ANWORTH MORTGAGE ASS                       9.476 ANH     037347101     13.9300        10,000.00        139,100.00        139,300.00
+APPLIED INDUSTRIAL TECH INC.               2.011 AIT     03820C105     23.8600        16,700.00        311,327.05        398,462.00
+APTAR GROUP INC.                           0.717 ATR     038336103Q    39.0000         5,600.00        165,886.16        218,400.00
+ARCH CHEMICALS INC.                        3.117 ARJ     03937R102     25.6600        19,500.00        406,606.44        500,370.00
+ASBURY AUTOMOTIVE GROUP                    0.000 ABG     043436104     17.9100        10,700.00        186,352.31        191,637.00
+ASIAINFO HLDGS INC                         0.000 ASIA    04518A104      6.6800        18,600.00        129,155.36        124,248.00
+ASTEC INDUSTRIES INC                       0.000 ASTE    046224101     12.2700        12,600.00        215,700.26        154,602.00
+ATARI INC                                  0.000 ATAR    04651M105      4.2000        11,500.00         47,873.35         48,300.00
+ATLANTIC COAST AIRLINES HOLDIN             0.000 ACAI    048396105      9.9000        51,500.00        466,575.15        509,850.00
+AVIALL INC.                                0.257 AVL     05366B102Q    15.5100        13,300.00        146,910.88        206,283.00
+BANCFIRST CORP                             1.703 BANF    05945F103     58.7020           900.00         48,214.35         52,831.80
+BANNER CORP                                2.544 BANR    06652V109     25.1500         4,598.00         95,036.57        115,639.70
+BASSETT FURNITURE INDS.                    4.848 BSET    070203104Q    16.5000         3,900.00         52,318.50         64,350.00
+BERKSHIRE HILLS BANC                       1.326 BHL     084680107     36.2000           500.00         16,591.00         18,100.00
+BEVERLY ENTERPRISES                        0.000 BEV     087851309      8.5900        14,000.00        117,628.00        120,260.00
+BIG 5 SPORTING GOODS CORP                  0.000 BGFV    08915P101     20.9500        24,900.00        391,699.86        521,655.00
+BJ'S WHOLESALE CLUB INC.                   0.000 BJ      05548J106     22.9600        47,700.00      1,170,806.60      1,095,192.00
+BOB EVANS FARMS                            1.478 BOBE    096761101Q    32.4600         2,300.00         66,715.87         74,658.00
+BOK FINL CORP                              0.000 BOKF    05561Q201     38.7200           401.00         15,493.04         15,526.72
+BRIGGS & STRATTON                          1.958 BGG     109043109Q    67.4000         8,200.00        363,916.00        552,680.00
+BROOKSTONE INC                             0.000 BKST    114537103     21.3100         3,900.00         42,447.60         83,109.00
+BROOKTROUT INC                             0.000 BRKT    114580103     12.5800         4,300.00         50,525.00         54,094.00
+BUCKLE INC                                 1.805 BKE     118440106     22.1500         4,400.00         88,977.75         97,460.00

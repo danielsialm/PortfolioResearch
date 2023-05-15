@@ -1,0 +1,19 @@
+ASOF02   Date 01/20/2004 Time 18:59:13   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 186
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+EASTGROUP PROPERTY INC                     5.867 EGP     277276101     32.3800        39,700.00      1,068,700.87      1,285,486.00
+NATIONWIDE HEALTH PP                       7.570 NHP     638620104     19.5500        65,500.00      1,129,727.03      1,280,525.00
+PRENTISS PROPERTIES TRUST                  6.789 PP      740706106     32.9900        24,500.00        671,033.22        808,255.00
+
+Instrument Total             4                                                       150,100.00      3,351,839.50      3,920,374.00
+
+Portfolio Total            115                                                     9,046,540.66     91,952,895.77    122,256,575.23
+

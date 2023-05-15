@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:08   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 120
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5JL       JACOBS LEVY - 500
+Instrument - COM       COMMON STOCK
+
+3COM CORP.                                 0.000 COMS    885535104      4.6300       162,200.00        744,195.99        750,986.00
+ACE LTD                                    2.249 ACE     G0070K103     29.3400        85,600.00      2,715,080.27      2,511,504.00
+ADC COMMUNICATIONS INC                     0.000 ADCT    000886101      2.0900       462,400.00      1,018,243.02        966,416.00
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107      6.4600       233,300.00      2,174,911.75      1,507,118.00
+AGERE SYSTEMS INC-CL A                     0.000 AGR/A   00845V100      1.4400       650,200.00      1,248,015.77        936,288.00
+ALLERGAN PHARMACEUTICALS INC.              0.624 AGN     018490102Q    57.6200       112,600.00      6,414,085.14      6,488,012.00
+AMERICAN INTL GROUP                        0.328 AIG     026874107Q    57.8500       328,200.00     19,206,881.47     18,986,370.00
+AMERICREDIT CORP.                          0.000 ACF     03060R101      7.7400        13,300.00        100,282.00        102,942.00
+AMERISOURCEBERGEN CORP                     0.184 ABC     03073E105     54.3100        33,200.00      2,276,919.36      1,803,092.00
+AMKOR TECHNOLOGY INC                       0.000 AMKR    031652100      4.7600        86,286.00        430,047.32        410,721.36
+APPLEBEES INT'L. INC.                      0.258 APPB    037899101     23.1910        61,100.00      1,560,966.42      1,416,970.10
+APPLIED MICRO CIRCUITS CORP                0.000 AMCC    03822W109      3.6900        50,000.00        187,325.00        184,500.00
+APTAR GROUP INC.                           0.768 ATR     038336103Q    31.2400        16,400.00        423,272.52        512,336.00
+ASHLAND INC                                3.855 ASH     044204105Q    28.5300        15,600.00        613,458.79        445,068.00
+AT&T CORPORATION                           2.872 T       001957505Q    26.1100        39,400.00      1,070,600.44      1,028,734.00
+AT&T WIRELESS SERVICES INC                 0.000 AWE     00209A106      5.6500       698,600.00      4,585,469.08      3,947,090.00
+BAKER HUGHES CORP                          1.429 BHI     057224107Q    32.1900       101,900.00      2,919,912.96      3,280,161.00
+BANK OF AMERICA CORP.                      3.679 BAC     060505104Q    69.5700       251,400.00     15,600,094.03     17,489,898.00
+BLOCKBUSTER INC. CLASS A                   0.653 BBI     093679108Q    12.2500        39,700.00        908,910.63        486,325.00
+BOSTON SCIENTIFIC CORP.                    0.000 BSX     101137107     42.5200       191,000.00      5,263,925.05      8,121,320.00
+BRINKER INTERNATIONAL INC                  0.000 EAT     109641100     32.2500           299.99          9,183.53          9,675.00
+BRUNSWICK CORP                             2.517 BC      117043109Q    19.8600        56,000.00      1,318,697.45      1,112,160.00
+CALLAWAY GOLF COMPANY                      2.113 ELY     131193104     13.2500       130,600.00      2,045,605.23      1,730,450.00
+CALPINE CORPORATION                        0.000 CPN     131347106      3.2600        19,800.00         70,191.00         64,548.00
+CARNIVAL CORP                              1.683 CCL     143658102Q    24.9500       157,000.00      5,165,757.07      3,917,150.00
+CENTERPOINT ENERGY INC                     7.529 CNP     15189T107Q     8.5000         5,300.00         37,699.74         45,050.01
+CHEVRONTEXACO CORP                         4.211 CVX     166764100Q    66.4800       163,100.00     12,465,680.60     10,842,888.00
+CHICO'S FAS INC                            0.000 CHS     168615102     18.9100         6,900.00        124,187.00        130,479.00
+CIENA CORP.                                0.000 CIEN    171779101      5.1400       111,000.00        617,044.37        570,540.00
+CINCINNATI FINANCIAL CORP.                 2.370 CINF    172062101Q    37.5500        18,700.00        724,518.74        702,185.00
+CIRCUIT CITY STORES                        0.943 CC      172737108Q     7.4200        72,200.00        990,037.99        535,724.00
+CISCO SYSTEMS                              0.000 CSCO    17275R102     13.1000       775,500.00     13,454,540.39     10,159,050.00
+CITIGROUP INC.                             2.046 C       172967101Q    35.1900       272,400.00      8,438,964.49      9,585,756.00
+CLEAR CHANNEL COMMUNICATIONS               0.000 CCU     184502102     37.2900       144,600.00      5,149,762.16      5,392,134.00
+COACH INC                                  0.000 COH     189754104     32.9200       150,400.00      4,260,911.32      4,951,168.00
+COCA COLA CO.                              1.825 KO      191216100Q    43.8200       349,700.00     17,087,482.40     15,323,854.00
+COCA-COLA ENTERPRISE                       0.736 CCE     191219104     21.7200       172,200.00      3,577,878.69      3,740,184.00
+COLGATE PALMOLIVE                          1.373 CL      194162103Q    52.4300       134,800.00      6,336,236.04      7,067,564.00
+CONEXANT SYSTEMS INC.                      0.000 CNXT    207142100      1.6100       214,228.00        308,831.08        344,907.08

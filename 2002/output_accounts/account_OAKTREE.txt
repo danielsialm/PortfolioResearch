@@ -1,0 +1,10 @@
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+OAKTREE - FIXED INCOME             0.0000  0.000 IF-OAKTREE         00/00/0000     1,192,930.56    119,293,056.10
+OAKTREE - FIXED INCOME/EQUITY      0.0000  0.000 IE-OAKTREE         00/00/0000           459.06         45,906.90
+OAKTREE - LIQUIDITY                0.0000  0.000 IL-OAKTREE         00/00/0000        64,794.29      6,479,429.38
+
+Instrument Total             3                                                     1,258,183.92    125,818,392.38
+
+Portfolio Total              3                                                     1,258,183.92    125,818,392.38    124,538,749.07
+

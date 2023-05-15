@@ -1,0 +1,29 @@
+ASOF04   Date 01/20/2004 Time 18:59:40   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 001
+
+Monthly Market Portfolio
+
+Portfolio ID                                                                          Par/Shares      Book Value      Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+
+EQS       EQUITY SWAPS                                                                           1,461,526,782.49    1,818,421,279.62
+EQS-E     EMERGING SWAP                                                                             11,796,575.73       12,029,186.21
+EQS2      EMERGING ANALYSTS SW                                                                       1,169,449.53        1,659,635.79
+I-ACT     INTERNAL EMERGING                                                                        333,936,882.22      423,383,779.21
+I-ARROW   ARROWSTREET CAPITAL                                                                      656,613,955.23      758,727,649.03
+I-BABS    COLONIAL FIRST STATE                                                                     397,876,791.78      563,859,099.75
+I-BERNS   SANFORD BERNSTEIN EA                                                                   1,077,754,017.73    1,330,148,060.49
+I-SANF    BERSTEIN EMERGING MA                                                                     415,897,245.52      647,388,801.64
+I-EAFE    INTERNAL EAFE INDEX                                                                    1,230,098,698.51    1,410,710,135.44
+I-EAFEVAL EAFE VALUE                                                                               925,618,001.92    1,164,591,865.81
+I-EAP     EMERGING ANALYST POR                                                                     271,804,742.86      375,532,609.17
+I-GEN     GENESIS                                                                                  449,850,484.99      623,168,116.14
+I-LAZAR   EAFE TRANSITION ACCO                                                                       2,085,496.69          153,135.11
+I-MARVIN  MARVIN & PALMER_EAFE                                                                     869,185,807.78    1,047,231,874.10
+I-MARVEM  MARVIN & PALMER EMER                                                                     262,086,990.44      415,582,694.95
+I-PAN     INTERNAL EAFE TOPDOW                                                                     270,008,796.09      275,562,433.45
+I-QUAN    EAFE QUANTITATIVE PO                                                                     517,360,858.87      597,806,312.14
+
+Group Total                                                 1,466,118,409.27 / 5,497,826,361.86  9,154,671,578.38   11,465,956,668.05
+

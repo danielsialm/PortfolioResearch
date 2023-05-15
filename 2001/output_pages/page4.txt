@@ -1,30 +1,50 @@
-ASOF01   Date 01/24/2002 Time 21:29:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 002
+ASOF01   Date 01/24/2002 Time 21:29:07   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2001 To 12/31/2001  Page 001
 
 Monthly Market Portfolio
 
 Investment Desc             Rating Coupon Yield   Identifier      F   Maturity      Par/Shares      Book Value       Market Value
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Group - LIQUIDITY RESERVES
-Portfolio  - LQR       LIQUIDITY RESERVE
-Instrument - FUTURES5  FUTURES EXPOSURE
+Group - FIXED INCOME
+Portfolio  - FI        FIXED INCOME
+Instrument - ABSCARD   ABSCARD BULLET MATURITY
 
-Instrument Total               1                                                        -500.00   -142,843,750.00   -143,650,000.00
+AMER EXP MT CARD 94-3A         AAA 7.8500  8.382 025928AF9        S 09/15/2004    31,675,000.00     31,269,350.77     35,230,325.18
 
-Instrument -ISR       STATE OF ISRAEL BONDS
+Instrument Total               1                                                  31,675,000.00     31,269,350.77     35,230,325.18
 
-STATE OF ISRAEL BOND           NR  8.5000  7.506 CAEL02           S 06/01/2004     5,000,000.00      4,999,999.99      5,032,812.50
-STATE OF ISRAEL BOND           NR  8.5000  7.505 CAEL01           S 06/01/2004     5,000,000.00      4,999,999.99      5,032,812.50
+Instrument -AGC       AGENCY BONDS WITH COUPONS
 
-Instrument Total               2                                                  10,000,000.00      9,999,999.98     10,065,625.00
+FHLMC REFERENCE                AAA+5.1250  5.787 3134A2UJ5        S 10/15/2008    42,000,000.00     40,453,408.18     41,879,436.67
+FHLMC REFERENCE                AAA+5.5000  5.889 3134A4HF4        S 09/15/2011    47,200,000.00     45,849,736.43     46,906,730.67
+FHLMC REFERENCE                AAA+6.7500  6.599 3134A4AA2        S 03/15/2031    20,000,000.00     20,385,000.86     21,642,900.00
+FNMA BENCH CALLABLE            AAA+6.4000  6.430 31359MET6        S 05/14/2009    40,000,000.00     39,930,382.09     41,087,822.23
+FNMA BENCH CALLABLE            AAA+5.5000  5.657 31359MKE2        S 07/18/2006    26,000,000.00     25,837,994.32     27,035,652.23
+FNMA BENCHMARK                 AAA+5.1250  5.682 31359MEM1        S 02/13/2004    25,800,000.00     25,514,639.89     27,185,230.66
+FNMA BENCHMARK                 AAA+5.2500  6.062 31359MEK5        S 01/15/2009    53,000,000.00     50,558,994.65     53,709,051.67
+FNMA BENCHMARK                 AAA+6.2500  6.951 31359MEU3        S 05/15/2029    53,000,000.00     48,443,949.33     53,204,903.89
+FNMA BENCHMARK                 AAA+6.6250  6.994 31359MEY5        S 09/15/2009    42,800,000.00     41,859,564.62     46,398,065.22
+FNMA BENCHMARK                 AAA+6.0000  7.119 31359MDU4        S 05/15/2008     4,900,000.00      4,622,477.98      5,126,755.67
+FNMA BENCHMARK                 AAA+6.3750  6.055 31359MEV1        S 06/15/2009    31,600,000.00     32,197,799.50     33,386,453.33
+FNMA MTN CALLABLE              AAA+6.2900  6.406 31364FZF1        S 04/23/2008    31,235,000.00     31,126,900.42     32,281,719.56
+FNMA MTN CALLABLE              AAA+6.2300  6.410 31364FYA3        S 04/16/2008    37,000,000.00     36,803,762.99     38,209,129.17
 
-Instrument -STIF      SHORT TERM INVESTMENT FUND
+Instrument Total              13                                                 454,535,000.00    443,584,611.26    468,053,850.97
 
-SEI PRIME OBLIGATION FUND          0.0000  0.000 SEI275             12/31/2002     4,500,000.00      4,500,000.00      4,500,000.00
+Instrument -ASB       ASSET BACKED NOTES AND BONDS
 
-Instrument Total             1                                                     4,500,000.00      4,500,000.00      4,500,000.00
+PACIFIC GAS & ELECTRIC 97 A6   AAA 6.3200  6.379 130335AF9        Q 09/25/2003     5,000,000.00      4,999,478.97      5,188,066.67
+SOUTHERN CALIFORNIA EDISON 97- AAA 6.2800  6.334 130335AN2        Q 09/25/2005     5,000,000.00      4,999,720.35      5,170,083.33
+SOUTHERN CALIFORNIA EDISON 97- AAA 6.3800  6.365 130335AP7        Q 09/25/2008    32,000,000.00     32,060,902.99     33,449,066.66
 
-Portfolio Total             39                                                   906,832,500.00    763,687,743.09    762,947,118.11
+Instrument Total               3                                                  42,000,000.00     42,060,102.31     43,807,216.66
 
-Group Total                 39                                906,832,500.00 /             0.00    763,687,743.09    762,947,118.11
+Instrument -CAN       CANADIAN BONDS
+
+ONTARIO PROVINCE GLOBAL        AA3 7.3750  5.609 683234HG6        S 01/27/2003    25,000,000.00     25,452,221.98     26,946,465.28
+ONTARIO PROVINCE GLOBAL        AA3 5.5000  6.351 683234MF2        S 10/01/2008    40,000,000.00     38,151,993.96     40,576,400.00
+QUEBEC PROVINCE                A2  7.5000  6.742 748148PB3        S 07/15/2023     5,000,000.00      5,426,015.34      5,664,116.67
+QUEBEC PROVINCE GLOBAL         A2  5.7500  6.566 748148QQ9        S 02/15/2009    15,000,000.00     14,311,251.67     15,280,833.33
+
+Instrument Total               4                                                  85,000,000.00     83,341,482.95     88,467,815.28
 

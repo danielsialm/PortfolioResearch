@@ -1,0 +1,9 @@
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+SALOMON - FIXED INCOME             0.0000  0.000 IF-SALOMON         00/00/0000     1,671,156.78    167,115,678.11
+SALOMON - LIQUIDITY                0.0000  0.000 IL-SALOMON         00/00/0000        45,978.54      4,597,854.17
+
+Instrument Total             2                                                     1,717,135.32    171,713,532.28
+
+Portfolio Total              2                                                     1,717,135.32    171,713,532.28    196,683,728.86
+

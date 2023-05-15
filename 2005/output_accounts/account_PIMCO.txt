@@ -1,0 +1,9 @@
+Instrument - EXFI      EXTERNAL MANAGED FI
+
+PIMCO - FIXED INCOME               0.0000  0.000 IF-PIMCO           00/00/0000     2,049,523.27    204,952,327.28
+PIMCO - LIQUIDITY                  0.0000  0.000 IL-PIMCO           00/00/0000       163,411.80     16,341,180.10
+
+Instrument Total             2                                                     2,212,935.07    221,293,507.38
+
+Portfolio Total              2                                                     2,212,935.07    221,293,507.38    227,891,678.09
+

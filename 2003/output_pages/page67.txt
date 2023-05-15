@@ -1,0 +1,48 @@
+ASOF02   Date 01/20/2004 Time 18:58:42   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 037
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - RMV       MID-CAP VALUE (Q)
+Instrument - REIT      REAL ESTATE INVESTMENT TRUST
+
+COUSINS PROPERTIES INC                     4.836 CUZ     222795106     30.6000        40,900.00      1,152,328.32      1,251,540.01
+CRESCENT RE EQT. CO.                       8.756 CEI     225756105     17.1300       131,700.00      2,217,738.23      2,256,021.00
+DEVELOPERS DIVERSIFIED RE                  5.481 DDR     251591103Q    33.5700        43,200.00      1,268,942.04      1,450,224.00
+DUKE RE CORPORATION                        5.935 DRE     264411505     31.0000       227,800.00      6,410,873.54      7,061,800.00
+EQUITY RESIDENTIAL PROP                    5.862 EQR     29476L107Q    29.5100       458,600.00     11,113,885.24     13,533,286.00
+FEDERAL REALTY INV.                        5.105 FRT     313747206Q    38.3900         7,500.00        264,443.98        287,925.01
+GENERAL GROWTH PROP                        4.324 GGP     370021107Q    27.7500       360,900.00      7,937,194.49     10,014,975.00
+HEALTH CARE PPTY INV                       6.535 HCP     421915109     50.8000        53,300.00      2,369,346.25      2,707,640.01
+HEALTHCARE RLTY TR                         6.993 HR      421946104     35.7500        70,700.00      2,231,655.64      2,527,525.00
+HOSPITALITY PROPERTIES                     6.976 HPT     44106M102     41.2800        98,600.00      3,038,152.59      4,070,208.00
+HOST MARRIOTT CORP                         8.441 HMT     44107P104     12.3200       466,800.00      4,637,686.35      5,750,976.00
+HRPT PROPERTIES TRUST                      7.928 HRP     40426W101     10.0900       440,900.00      4,271,882.28      4,448,681.00
+ISTAR FINANCIAL INC                        6.812 SFI     45031U101     38.9000       167,000.00      6,210,861.56      6,496,300.00
+KIMCO REALTY CORP                          5.095 KIM     49446R109Q    44.7500       162,800.00      6,461,658.05      7,285,300.00
+LIBERTY PROPERTY TRUST                     6.221 LRY     531172104Q    38.9000       131,900.00      4,496,554.12      5,130,910.01
+MACK-CALI RE CORP.                         6.054 CLI     554489104     41.6200        97,100.00      3,389,456.78      4,041,302.00
+MILLS CORP.                                5.136 MLS     601148109     44.0000         3,600.00        156,168.00        158,400.00
+NEW PLAN EXCEL RE TRUST                    6.688 NXL     648053106Q    24.6700       163,300.00      3,563,800.35      4,028,610.99
+PAN PACIFIC RETAIL                         4.281 PNP     69806L104     47.6500        12,100.00        512,676.20        576,565.01
+PROLOGIS TRUST                             4.487 PLD     743410102Q    32.0900       274,700.00      7,549,627.22      8,815,123.00
+PUBLIC STORAGE INC                         4.148 PSA     74460D109     43.3900       167,800.00      5,919,022.65      7,280,841.99
+REALTY INCOME CORP                         6.000 O       756109104     40.0000        63,100.00      2,530,864.53      2,524,000.00
+REGENCY CENTERS CORP                       5.219 REG     758849103     39.8500        43,400.00      1,546,889.73      1,729,490.01
+ROUSE CO                                   4.000 RSE     779273101     47.0000       130,000.00      5,150,303.34      6,109,999.99
+SHURGARD STORAGE CTRS                      5.737 SHU     82567D104     37.6500         2,200.00         74,322.34         82,829.99
+SIMON PROP GROUP INC.                      5.179 SPG     828806109Q    46.3400       221,100.00      8,356,701.88     10,245,773.99
+THE MACERICH CO                            5.483 MAC     554382101     44.5000        35,300.00      1,316,723.45      1,570,850.00
+THORNBURG MTG INC                          9.411 TMA     885218107     27.2000        21,699.99        572,165.30        590,239.96
+TRIZEC PROPERTIES INC                      5.194 TRZ     89687P107     15.4000       137,100.00      1,812,205.22      2,111,340.01
+UNITED DOMINION RE TRUST                   5.937 UDR     910197102     19.2000        59,700.00      1,068,668.78      1,146,239.99
+VORNADO REALTY TRUST                       5.187 VNO     929042109     54.7500       135,000.00      6,002,946.66      7,391,250.00
+WEINGARTEN RE INVST                        5.276 WRI     948741103     44.3500        77,400.00      3,322,767.34      3,432,690.00
+
+Instrument Total            44                                                     5,663,080.99    153,467,334.74    176,738,971.66
+
+Portfolio Total            534                                                   110,095,504.19  2,564,694,107.14  2,797,498,590.61
+

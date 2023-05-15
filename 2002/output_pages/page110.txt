@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:01   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 082
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+NYFIX INCORPORATED                         0.000 NYFX    670712108      4.5000        33,800.00        963,871.33        152,100.00
+O'CHARLEYS INC                             0.000 CHUX    670823103     20.5300        20,600.00        444,819.02        422,918.00
+O'REILLY AUTOMOTIVE INC.                   0.000 ORLY    686091109     25.2900        57,400.00        958,064.76      1,451,646.00
+OCEANEERING INT'L. INC.                    0.000 OII     675232102     24.7400        28,300.00        548,438.34        700,142.00
+OFFSHORE LOGISTICS                         0.000 OLOG    676255102     21.9200        25,900.00        480,718.23        567,728.00
+OM GROUP, INC.                             8.139 OMG     670872100Q     6.8800        25,400.00        812,861.56        174,752.00
+OMNOVA SOLUTIONS INC                       0.000 OMN     682129101      4.0300        44,100.00        324,637.02        177,723.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108      8.5200        30,400.00        666,268.10        259,007.99
+ORTHODONTIC CENTERS OF AMER                0.000 OCA     68750P103     10.9100        56,200.00      1,093,477.32        613,142.00
+OSHKOSH B'GOSH CL-A                        0.998 GOSHA   688222207Q    28.0500        14,300.00        427,214.56        401,115.00
+OSHKOSH TRUCK CORPORATION                  0.569 OSK     688239201     61.5000        18,900.00        655,168.93      1,162,350.00
+OSTEOTECH INC                              0.000 OSTE    688582105      6.4400        27,500.00        206,834.98        177,100.00
+OWENS & MINOR INC.                         1.948 OMI     690732102Q    16.4200        35,000.00        482,243.06        574,700.00
+OXFORD INDUSTRIES INC.                     3.274 OXM     691497309     25.6500         9,300.00        235,540.78        238,545.00
+P.F.CHANGS CHINA BISTRO INC                0.000 PFCB    69333Y108     36.3000        28,300.00        544,713.65      1,027,290.00
+PACIFIC SUNWEAR OF CALIFORNIA              0.000 PSUN    694873100     17.6900        55,950.00        915,391.24        989,755.50
+PANERA BREAD CO                            0.000 PNRA    69840W108     34.8100        33,000.00        437,720.98      1,148,730.00
+PAREXEL INT'L CORP.                        0.000 PRXL    699462107     10.9900        29,600.00        702,085.68        325,304.00
+PARK ELECTROCHEMICAL CORP.                 1.250 PKE     700416209     19.2000        21,200.00        402,929.35        407,040.00
+PATINA OIL & GAS CORP                      0.758 POG     703224105     31.6500        31,544.00        600,956.44        998,367.59
+PAXAR CORP.                                0.000 PXR     704227107     14.7500        45,000.00        635,568.99        663,750.00
+PC-TEL INC                                 0.000 PCTI    69325Q105      6.7800        21,700.00        152,659.26        147,126.00
+PEDIATRIX MEDICAL GROUP INC.               0.000 PDX     705324101     40.0600        28,700.00      1,028,649.46      1,149,722.01
+PEGASUS SOLUTIONS                          0.000 PEGS    705906105     10.0300        23,400.00        320,142.66        234,701.99
+PENFORD CORP.                              1.703 PENX    707051108     14.0900        11,000.00        192,446.31        154,990.00
+PEP BOYS MM & J                            2.327 PBY     713278109Q    11.6000        56,200.00        656,168.93        651,920.00
+PERFORMANCE FOOD GROUP COMPANY             0.000 PFGC    713755106     33.9590        50,900.00      1,186,892.33      1,728,513.10
+PERICOM SEMICONDUCTOR CORP                 0.000 PSEM    713831105      8.3100        27,800.00        864,452.89        231,018.00
+PHARMACEUTICAL PRODUCT DEVELOP             0.000 PPDI    717124101     29.2700        62,200.00        975,590.23      1,820,594.00
+PHILADELPHIA CONS HLDG CO                  0.000 PHLY    717528103     35.4000        24,500.00        796,558.83        867,300.00
+PHILADELPHIA SUBURBAN CORP.                2.718 PSC     718009608     20.6000        74,648.00      1,186,461.46      1,537,748.80
+PHILLIPS-VAN HEUSEN                        1.297 PVH     718592108     11.5600        32,400.00        431,176.16        374,544.00
+PHOENIX TECHNOLOGIES LTD                   0.000 PTEC    719153108      5.7700        21,400.00        366,298.31        123,478.00
+PHOTON DYNAMICS INC                        0.000 PHTN    719364101     22.8000        18,500.00        680,470.14        421,800.00
+PHOTRONICS INC.                            0.000 PLAB    719405102     13.7000        33,000.00        830,658.73        452,100.00
+PIEDMONT NATURAL GAS CO INC NO             4.526 PNY     720186105     35.3500        36,700.00      1,069,246.39      1,297,345.00
+PINNACLE ENTERTAINMENT, INC.               0.000 PNK     723456109      6.9300        21,700.00        174,897.91        150,381.00
+PINNACLE SYSTEMS                           0.000 PCLE    723481107     13.6100        68,600.00      1,249,621.40        933,646.00
+PIONEER STANDARD ELECTRONICS               1.307 PIOS    723877106      9.1800        34,300.00        532,679.87        314,874.00

@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:59:12   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 183
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6LA       LORD, ABBETT - 2000
+Instrument - COM       COMMON STOCK
+
+ALASKA AIRGROUP INC                        0.000 ALK     011659109     27.2900         5,700.00        131,668.68        155,553.00
+AMERICAN AXLE & MFG HOLDINGS               0.000 AXL     024061103     40.4200        30,900.00        852,226.54      1,248,978.03
+AMERICAN MANAGEMENT SYSTEMS                0.000 AMSY    027352103     15.0700        24,500.00        367,823.15        369,215.00
+AMETEK INC.                                0.497 AME     031100100Q    48.2600         7,400.00        190,024.02        357,124.00
+ANALOGIC CORP.                             0.780 ALOG    032657207     41.0000         2,800.00        139,076.81        114,800.01
+AQUA AMERICA INC                           2.171 WTR     03836W103     22.1000        97,875.00      1,563,137.56      2,163,037.50
+ARRIS GROUP INC.                           0.000 ARRS    04269Q100      7.2400        55,800.00        233,086.95        403,991.99
+ASPEN TECHNOLOGY INC                       0.000 AZPN    045327103     10.2600        33,900.00        202,759.39        347,813.99
+ATMI INC                                   0.000 ATMI    00207R101     23.1400        10,700.00        250,195.78        247,598.00
+ATWOOD OCEANICS                            0.000 ATW     050095108     31.9400        18,700.00        557,414.65        597,278.00
+BANK MUT CORP                              1.229 BKMU    063750103     11.3900        34,043.00        398,203.21        387,749.76
+BARNES & NOBLE INC.                        0.000 BKS     067774109     32.8500        40,500.00      1,031,624.69      1,330,425.01
+BEI TECHNOLOGIES INC                       0.200 BEIQ    05538P104     20.0000        86,900.00      1,264,613.92      1,738,000.00
+BEL FUSE INC-CL B                          0.612 BELFB   077347300     32.6300         5,300.00        160,636.03        172,939.00
+BLYTH INC.                                 0.931 BTH     09643P108     32.2200        20,500.00        605,225.21        660,510.00
+BORG WARNER INC.                           1.175 BWA     099724106     85.0700        12,200.00        801,564.74      1,037,854.00
+BRIGGS & STRATTON                          1.958 BGG     109043109Q    67.4000        33,100.00      1,375,691.83      2,230,939.98
+BROOKSTONE INC                             0.000 BKST    114537103     21.3100        27,100.00        265,743.81        577,501.00
+C-COR ELECTRONICS                          0.000 CCBL    125010108     11.1300        98,800.00        408,887.86      1,099,644.00
+CASELLA WASTE SYS IN                       0.000 CWST    147448104     13.6900        50,500.00        621,340.55        691,345.00
+CASEY'S GENERAL STORES INC.                0.792 CASY    147528103     17.6600        87,800.00      1,145,981.95      1,550,548.00
+CHESAPEAKE ENERGEY CORP                    1.030 CHK     165167107     13.5800        53,100.00        403,264.20        721,097.99
+CLARCOR INC.                               1.133 CLC     179895107Q    44.1000         8,800.00        195,792.83        388,080.00
+CONCURRENT COMPUTER CORP                   0.000 CCUR    206710204      4.3700        78,300.00        259,153.26        342,170.99
+CORUS BANKSHARES INC                       3.168 CORS    220873103     31.5600        16,600.00        465,618.26        523,896.00
+COVANCE INC                                0.000 CVD     222816100     26.8000        67,100.00      1,293,703.35      1,798,280.00
+CULLEN/FROST BANKERS INC                   2.366 CFR     229899109     40.5700        44,500.00      1,462,054.41      1,805,365.00
+CURTISS-WRIGHT CORP.                       0.799 CW      231561101     45.0100        15,400.00        636,996.65        693,154.00
+CYTEC INDUSTRIES                           0.000 CYT     232820100Q    38.3900         3,300.00        127,032.25        126,687.00
+DATASTREAM SYSTEMS INC.                    0.000 DSTM    238124101      7.8500        38,300.00        417,630.14        300,655.00
+DELTA & PINE LAND CO.                      1.574 DLP     247357106     25.4000        68,300.00      1,407,638.02      1,734,819.99
+DIONEX CORP.                               0.000 DNEX    254546104     46.0200        32,500.00        912,216.18      1,495,650.00
+DORAL FINANCIAL CORP.                      1.155 DRL     25811P100     32.2800        69,000.00        854,132.20      2,227,320.00
+ELECTRONICS FOR IMAGING                    0.000 EFII    286082102     26.0200        76,400.00      1,513,420.77      1,987,928.00
+FEDERAL SIGNAL CORP                        2.283 FSS     313855108     17.5200         9,700.00        171,220.03        169,944.00
+FRANKLIN BANK CORP                         0.000 FBTX    352451108     19.0000         1,300.00         18,850.00         24,700.00
+GENESEE & WYO INC                          0.000 GWR     371559105     31.5000        19,100.00        608,649.56        601,650.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102     13.5000       197,100.00      1,399,200.55      2,660,850.00
+GRANT PRIDECO INC.                         0.000 GRP     38821G101     13.0200        89,500.00      1,003,202.52      1,165,290.00

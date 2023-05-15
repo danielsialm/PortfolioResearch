@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:36   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 151
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+WRIGLEY WM JR CO                           1.684 WWY     982526105Q    66.4900        19,800.00      1,129,728.31      1,316,502.00
+WYETH                                      2.170 WYE     983024100Q    46.0700        22,600.00        944,608.08      1,041,182.00
+WYNN RESORTS LTD                           0.000 WYNN    983134107     54.8500         1,000.00         52,145.84         54,850.00
+XCEL ENERGY INC                            4.658 XEL     98389B100Q    18.4600         7,400.00        123,045.77        136,604.00
+XILINX INC                                 1.110 XLNX    983919101     25.2100        11,100.00        289,839.89        279,831.00
+XTO ENERGY INC.                            0.682 XTO     98385X106     43.9400         9,633.00        240,402.97        423,274.02
+YAHOO INC                                  0.000 YHOO    984332106     39.1800        10,200.00        270,402.54        399,636.00
+YUM BRANDS, INC.                           0.981 YUM     988498101     46.8800         6,500.00        296,504.63        304,720.00
+ZIMMER HOLDINGS INC                        0.000 ZMH     98956P102     67.4400         8,800.00        589,825.34        593,472.00
+ZIONS BANCORPORATION                       1.905 ZION    989701107     75.5600         2,900.00        195,473.08        219,124.00
+
+Instrument Total           634                                                    10,183,692.05    284,676,177.96    326,675,026.08
+
+Instrument -REIT      REAL ESTATE INVESTMENT TRUST
+
+AMB PROPERTY CORP.                         0.823 AMB     00163T109     49.1700         1,600.00         68,488.00         78,672.00
+AMERICAN FINANCIAL REALTY TRUS             9.000 AFR     02607P305     12.0000        15,200.00        210,072.02        182,400.00
+APARTMENT INVT & MGMT                      6.337 AIV     03748R101     37.8700         2,200.00         81,810.85         83,314.00
+ARCHSTONE COMMUNITIES                      4.153 ASN     039583109Q    41.8900         4,900.00        168,898.55        205,261.00
+ARDEN REALTY GROUP INC                     4.505 ARI     039793104Q    44.8300           400.00         13,270.27         17,932.00
+AVALONBAY COMMUNITIES                      0.286 AVB     053484101Q    89.2500         1,000.00         67,902.30         89,250.00
+BOSTON PROPERTIES INC                      3.669 BXP     101121101     74.1300         5,400.00        276,146.79        400,302.00
+CAMDEN PROPERTY TRUST                      0.151 CPT     133131102     57.9200           800.00         34,318.00         46,336.00
+CARRAMERICA RE CORP                        3.300 CRE     144418100     34.6300         2,100.00         74,694.69         72,723.00
+CBL & ASSOC PROP                           4.112 CBL     124830100     39.5100         6,800.00        262,889.90        268,668.00
+DEVELOPERS DIVERSIFIED RE                  4.593 DDR     251591103Q    47.0200         1,500.00         47,550.57         70,530.00
+EQUITY OFFICE PROP                         6.594 EOP     294741103     30.3300        11,600.00        345,444.42        351,828.00
+EQUITY RESIDENTIAL PROP                    4.524 EQR     29476L107Q    39.1200         2,200.00         70,501.86         86,064.00
+FEDERAL REALTY INV.                        3.660 FRT     313747206Q    60.6500         5,300.00        250,889.46        321,445.00
+GENERAL GROWTH PROP                        3.490 GGP     370021107Q    46.9900         4,300.00         96,718.89        202,057.00
+HEALTH CARE REIT INC                       7.315 HCN     42217K106     33.9000         1,800.00         63,804.06         61,020.00
+HOSPITALITY PROPERTIES                     7.281 HPT     44106M102     40.1000         1,600.00         71,044.96         64,160.00
+HRPT PROPERTIES TRUST                      8.115 HRP     40426W101     10.3500        29,000.00        352,034.59        300,150.00
+KIMCO REALTY CORP                          4.114 KIM     49446R109Q    32.0800         2,700.00         53,143.79         86,616.00
+MACERICH CO                                4.051 MAC     554382101     67.1400         3,200.00        170,161.52        214,848.00
+MILLS CORP.                                5.984 MLS     601148109     41.9400           300.00         15,894.68         12,582.00
+PAN PACIFIC RETAIL                         3.528 PNP     69806L104     66.8900         5,900.00        374,498.96        394,651.00
+PROLOGIS TRUST                             3.167 PLD     743410102Q    46.7200         2,035.00         76,530.41         95,075.20
+PUBLIC STORAGE INC                         2.953 PSA     74460D109     67.7200         1,100.00         49,668.85         74,492.00

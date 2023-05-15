@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2003 Time 18:53:00   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2002 To 12/31/2002  Page 079
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - SP6       S&P 600 PASSIVE
+Instrument - COM       COMMON STOCK
+
+HILB ROGAL & HAMIL.                        0.880 HRH     431294107Q    40.9000        33,300.00        443,610.69      1,361,970.00
+HOLOGIC INC.                               0.000 HOLX    436440101     12.2100        18,400.00        183,757.71        224,664.00
+HOOPER HOLMES INC                          0.651 HH      439104100      6.1400        69,800.00        730,425.73        428,572.00
+HOT TOPIC INC                              0.000 HOTT    441339108     22.8800        35,450.00        785,044.36        811,096.00
+HUDSON UNITED BANCORP                      3.601 HU      444165104     31.1000        51,098.00      1,509,365.75      1,589,147.80
+HUFFY CORP                                 0.000 HUF     444356109      5.9700        25,600.00        203,350.31        152,831.99
+HUGHES SUPPLY INC.                         1.244 HUG     444482103     27.3200        27,200.00        798,549.00        743,103.99
+HUTCHINSON TECH.                           0.000 HTCH    448407106     20.7000        27,700.00        522,821.66        573,390.00
+HYDRIL COMPANY                             0.000 HYDL    448774109     23.5700        26,200.00        668,153.96        617,534.00
+HYPERION SOLUTIONS CORP.                   0.000 HYSL    44914M104     25.6700        38,600.00        993,685.14        990,862.00
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     37.3000        15,600.00        527,425.75        581,880.00
+IDEX CORPORATION                           1.712 IEX     45167R104     32.7000        36,000.00      1,036,409.13      1,177,200.00
+IDEXX LABS INC.                            0.000 IDXX    45168D104     32.8500        40,000.00        796,569.45      1,314,000.00
+IHOP CORP.                                 0.000 IHP     449623107     24.0000        23,100.00        652,969.71        554,400.00
+IMAGISTICS INTERNATIONAL INC               0.000 IGI     45247T104     20.0000        20,000.00        250,565.83        400,000.00
+IMCO RECYCLING INC.                        0.000 IMR     449681105      8.1300        23,700.00        183,354.60        192,681.00
+IMPATH INC                                 0.000 IMPH    45255G101     19.7200        15,500.00        736,092.82        305,660.00
+INAMED CORP                                0.000 IMDC    453235103     30.8000        23,000.00        578,399.53        708,400.00
+INFORMATION HOLDINGS INC.                  0.000 IHI     456727106     15.5200        24,500.00        803,338.92        380,240.00
+INPUT/OUTPUT INC.                          0.000 IO      457652105      4.2500        55,400.00        944,299.91        235,450.00
+INSIGHT ENTERPRISES INC.                   0.000 NSIT    45765U103      8.3100        53,400.00      1,075,352.62        443,754.00
+INSITUFORM TECHNOLOGIES CL A               0.000 INSU    457667103     17.0500        28,500.00        578,346.29        485,925.00
+INSURANCE AUTO AUCTIONS INC                0.000 IAAI    457875102     16.5900        13,300.00        229,251.91        220,647.00
+INTER-TEL INC.                             0.573 INTL    458372109     20.9100        29,800.00        469,867.68        623,118.00
+INTERFACE INC                              1.954 IFSIA   458665106      3.0700        48,500.00        603,508.01        148,895.00
+INTERMAGNETICS GENERAL CORP                0.000 IMGC    458771102     19.6400        20,498.00        458,305.98        402,580.72
+INTERMET CORP.                             3.809 INMT    45881K104      4.2000        21,400.00        225,502.95         89,880.00
+INTL MULTIFOODS CORP                       3.775 IMC     460043102     21.1900        19,500.00        401,256.24        413,205.00
+INVACARE CORP.                             0.150 IVC     461203101     33.3000        33,300.00        820,362.72      1,108,890.01
+IONICS INC                                 0.000 ION     462218108     22.8000        20,800.00        831,762.36        474,240.00
+IRWIN FINANCIAL CORP                       1.636 IFC     464119106     16.5000        28,400.00        483,084.00        468,600.00
+ITRON INC.                                 0.000 ITRI    465741106     19.1700        23,400.00        332,488.98        448,578.00
+ITT EDUCATIONAL SERVICES INC               0.000 ESI     45068B109     23.5500        53,100.00        818,972.28      1,250,505.00
+J & J SNACK FOODS CORP                     0.000 JJSF    466032109     35.7100         9,800.00        181,219.17        349,958.00
+J. JILL GROUP INC                          0.000 JILL    466189107     13.9800        20,450.00        486,648.49        285,891.00
+JACK IN THE BOX INC.                       0.000 JBX     466367109     17.2900        43,200.00        750,107.05        746,928.00
+JAKKS PACIFIC INC.                         0.000 JAKK    47012E106     13.4700        26,700.00        430,307.71        359,649.00
+JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108      9.6600        31,300.00        835,314.01        302,358.00
+JEFFRIES GROUP INC                         0.476 JEF     472319102     41.9700        29,900.00        827,066.97      1,254,903.00

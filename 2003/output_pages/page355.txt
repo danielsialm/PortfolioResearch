@@ -1,0 +1,43 @@
+ASOF11   Date 01/20/2004 Time 18:59:44   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 027
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+UNILEVER ORD 1.4P                           18.718     0574873      ULVR_       208,602.00        1,685,816.68
+UNION ELECRTRICA FENOSA SA                   5.989     4913223      UNF_S        65,500.00        1,018,809.99
+UNITED OVERSEAS BA                           1.182     6916781      UOB_S       115,000.00          779,945.63
+UTD UTILITIES ORD                           30.094     0646233      UU/_L        81,100.00          744,692.06
+VENTURE MFG SGD0.2                           0.110     6927374      VMS_S        23,000.00          196,838.74
+VESTAS WIND SYSTEMS A/S                      0.022     5964651      VWS_D        73,300.00        1,107,148.52
+VIOHALCO                                     2.330     4934611      BIOX_        35,200.00          184,612.76
+VIVENDI UNIVERSAL EUR                       41.846     4834777      EX_FP        39,886.00        1,122,995.17
+VODAFONE GROUP                           4,642.328     0719210      VOD_L     4,370,175.00       10,653,966.24
+VOEST-ALPINE                                 5.907     4943402      VAST_        30,500.00        1,219,140.75
+VOLKSWAGEN AG                               11.787     5497102      VOW_G        39,500.00        1,910,264.08
+VOLVO AB-B                                   0.000     4937739      VOLVB        19,300.00          334,123.34
+WIENERBERGER BAUST                           6.248     5699373      WIE_A        71,400.00        1,824,452.42
+WPP GROUP                                    1.876     0974042      WPP_L        73,933.00          719,395.73
+YAMANOUCHI PHARM J                           0.000     6985383      4503_        27,000.00          771,140.64
+ZURICH FINANCIAL SERVICES CHF10              0.127     5983816      ZURN_         3,665.00          552,454.73
+
+Instrument Total             328                                             44,727,519.10      512,698,203.88
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EAFE QUANTITATIVE - LIQUIDITY RESERVES       0.000     IL-QUAN                   46,626.54        4,662,654.99
+
+Instrument Total               1                                                 46,626.54        4,662,654.99
+
+Instrument -INTL WARRAINTERNATIONAL WARRANT
+
+SUEZ LYONNAISE DES EAUX STRIP              895.330     5519299      LYSV_        62,784.00                0.00
+
+Instrument Total               1                                                 62,784.00                0.00
+
+Portfolio Total              330                                             44,836,929.65      517,360,858.87        597,806,312.14

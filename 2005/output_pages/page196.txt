@@ -1,0 +1,52 @@
+ASOF02   Date 01/19/2006 Time 18:24:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 163
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+MADDEN STEVEN LTD                          0.000 SHOO    556269108     29.2300        39,500.00        860,612.05      1,154,585.00
+MANUGISTICS GROUP INC.                     0.000 MANU    565011103      1.7500       247,300.00        490,855.64        432,775.00
+MCF CORP                                   0.000 MEM     580395101      1.0500       152,400.00        249,058.76        160,020.00
+MDU COMMUNICATIONS INC                     0.000 MDTV    582828109      1.4700       224,500.00        556,760.00        330,015.00
+MERIDIAN BIOSCIENCE INC                    1.588 VIVO    589584101     20.1400        49,350.00        813,604.31        993,909.00
+MESA AIR GROUP INC                         0.000 MESA    590479101     10.4600        98,400.00        813,920.72      1,029,264.00
+MONOLITHIC POWER SYSTEMS INC               0.000 MPWRE   609839105     14.9900        67,000.00        851,223.91      1,004,330.00
+MULTIMEDIA GAMES, INC.                     0.000 MGAM    625453105      9.2500        85,900.00        693,461.50        794,575.00
+NAPSTER INC                                0.000 NAPS    630797108      3.5200       179,900.00        666,299.84        633,248.00
+NATUS MEDICAL INC                          0.000 BABY    639050103     16.1400        55,800.00        316,299.24        900,612.00
+NEOSE TECHNOLOGIES I                       0.000 NTEC    640522108      1.9300       125,900.00        807,019.00        242,987.00
+NEOWARE SYSTEMS INC                        0.000 NWRE    64065P102     23.3000        58,300.00        780,403.23      1,358,390.00
+OMNICELL INC                               0.000 OMCL    68213N109     11.9500       114,000.00        837,749.50      1,362,300.00
+ON ASSIGNMENT INC                          0.000 ASGN    682159108     10.9100        68,500.00        583,043.38        747,335.00
+ORASURE TECHNOLOGIES                       0.000 OSUR    68554V108      8.8200        82,100.00        690,497.93        724,122.00
+PETROQUEST ENERGY INC                      0.000 PQ      716748108      8.2800        87,000.00        755,886.81        720,360.00
+PICO HOLDINGS INC                          0.000 PICO    693366205     32.2600        29,400.00        380,489.62        948,444.00
+PRIME MONEY MARKET - 6FT                   0.000 IT-FUL  IT-FUL         1.0000        44,628.92         44,628.90         44,628.91
+RACKABLE SYSTEMS INC                       0.000 RACK    750077109     28.4800        52,300.00        871,759.16      1,489,504.00
+RADYNE COMSTREAM INC                       0.000 RADN    750611402     14.5700        86,700.00        823,268.52      1,263,219.00
+REDBACK NETWORKS                           0.000 RBAK    757209507     14.0600       114,200.00        475,229.36      1,605,652.00
+REWARDS NETWORK INC                        0.000 IRN     761557107      6.4000        92,700.00        494,159.99        593,280.00
+RITA MED SYS INC DEL                       0.000 RITA    76774E103      3.9100       150,800.00        465,297.54        589,628.00
+SABA SOFTWARE INC                          0.000 SABA    784932600      4.0800       140,724.00        539,584.39        574,153.92
+SAFEGUARD SCIENTIFIC                       0.000 SFE     786449108      1.9300       274,700.00        352,099.93        530,171.00
+SEACHANGE INTERNATIONAL                    0.000 SEAC    811699107      7.9000       142,300.00        950,986.40      1,124,170.00
+SELECTICA INC                              0.000 SLTC    816288104      2.8500       105,850.00        333,697.68        301,672.50
+SHARPER IMAGE CORP                         0.000 SHRP    820013100      9.7400        58,400.00        812,727.23        568,816.00
+SOUTHERN ENERGY HOMES INC                  0.000 SEHI    842814105      5.7500        49,800.00         67,401.23        286,350.00
+STAMPS COM INC                             0.000 STMP    852857200     22.9600        36,300.00        699,081.49        833,448.00
+SUPERTEX INC                               0.000 SUPX    868532102     44.2500        34,800.00        866,524.04      1,539,900.00
+SYKES ENTERPRISES                          0.000 SYKE    871237103     13.3700        81,100.00        685,689.17      1,084,307.00
+TALK AMERICA HOLDINGS INC                  0.000 TALK    87426R202      8.6300        87,700.00        728,139.04        756,851.00
+THE SPORTSMAN'S GUIDE INC                  0.000 SGDE    848907200     23.8500        36,500.00        803,271.19        870,525.00
+TOPPS INC                                  2.153 TOPP    890786106      7.4300        39,000.00        288,749.90        289,770.00
+TRANSWITCH CORP                            0.000 TXCC    894065101      1.8300       383,500.00        493,145.56        701,805.00
+UNIFI INC                                  0.000 UFI     904677101      3.0400       208,500.00        657,292.29        633,840.00
+VALUEVISION MEDIA INC                      0.000 VVTV    92047K107     12.6000        75,400.00        683,901.78        950,040.00
+VENTIV HEALTH INC.                         0.000 VTIV    922793104     23.6200        50,500.00        493,065.12      1,192,810.00
+WATCHGUARD TECHNOLOGIES INC                0.000 WGRD    941105108      3.7000       136,200.00        665,351.37        503,940.00
+

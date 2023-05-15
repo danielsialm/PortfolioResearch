@@ -1,0 +1,50 @@
+ASOF02   Date 01/21/2005 Time 18:34:52   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 116
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 5IN       INTECH - 1000
+Instrument - COM       COMMON STOCK
+
+3M COMPANY                                 1.754 MMM     88579Y101Q    82.0700        21,300.00      1,344,198.54      1,748,091.00
+ABBOTT LABORATORIES                        2.229 ABT     002824100Q    46.6500        12,600.00        388,412.45        587,790.00
+ABERCROMBIE & FITCH CO                     1.065 ANF     002896207     46.9500         6,800.00        274,454.11        319,260.00
+ACTIVISION INC                             0.000 ATVI    004930202     20.1800         9,000.00        137,387.39        181,620.00
+ACXIOM CORP.                               0.608 ACXM    005125109     26.3000        14,600.00        353,506.51        383,980.00
+ADESA INC                                  1.413 KAR     00686U104     21.2200             0.00              0.18              0.21
+ADOBE SYSTEMS INC.                         0.079 ADBE    00724F101Q    62.7400         1,800.00         92,544.48        112,932.00
+ADVANCED MICRO DEVICES INC.                0.000 AMD     007903107     22.0200        10,000.00        145,548.81        220,200.00
+AETNA INC.                                 0.032 AET     00817Y108    124.7500         6,500.00        518,917.81        810,875.00
+AFFILIATED COMPUTER SERVICES               0.000 ACS     008190100     60.1900         1,000.00         55,390.00         60,190.00
+AFLAC INC                                  0.953 AFL     001055102     39.8400        23,900.00        731,226.99        952,176.00
+AGCO CORP.                                 0.000 AG      001084102     21.8900         3,000.00         64,729.50         65,670.00
+AGILENT TECHNOLOGIES INC                   0.000 A       00846U101     24.1000         1,800.00         58,966.89         43,380.00
+AIR PROD. & CHEM.                          2.001 APD     009158106Q    57.9700         4,000.00        168,754.77        231,880.00
+ALBERTO CULVER CL-B                        0.823 ACV     013068101Q    48.5700         4,800.00        228,871.20        233,136.00
+ALBERTSON'S, INC.                          3.182 ABS     013104104Q    23.8800        18,700.00        448,217.05        446,556.00
+ALCOA INC.                                 1.909 AA      013817101Q    31.4200         2,400.00         76,080.73         75,408.00
+ALLEGHANY CORP DEL                         0.000 Y       017175100    285.2500           200.00         54,329.00         57,050.00
+ALLEGHENY ENERGY INC.                      8.726 AYE     017361106Q    19.7100        14,600.00        239,260.51        287,766.00
+ALLERGAN PHARMACEUTICALS INC.              0.444 AGN     018490102Q    81.0700           700.00         47,285.12         56,749.00
+ALLIANCE DATA SYSTEM                       0.000 ADS     018581108     47.4800         6,800.00        294,928.44        322,864.00
+ALLIANT ENERGY CORPORATION                 3.671 LNT     018802108     28.6000        12,900.00        322,644.67        368,940.00
+ALLIANT TECHSYSTEMS INC.                   0.000 ATK     018804104     65.3800         2,900.00        173,361.22        189,602.00
+ALLIED CAP CORP                            8.823 ALD     01903Q108     25.8400         3,200.00         86,464.97         82,688.00
+ALLMERICA FINANCIAL CORP.                  0.761 AFC     019754100     32.8300         7,300.00        228,007.08        239,659.00
+ALLSTATE CORP                              2.165 ALL     020002101Q    51.7200        19,000.00        794,439.04        982,680.00
+ALLTEL CORP                                2.586 AT      020039103Q    58.7600        20,200.00      1,072,207.91      1,186,952.00
+ALTERA CORP                                0.000 ALTR    021441100     20.7000        12,500.00        256,730.07        258,750.00
+ALTRIA GROUP INC                           4.779 MO      02209S103Q    61.1000        11,500.00        509,580.07        702,650.00
+AMBAC FINANCIAL GROUP INC.                 0.608 ABK     023139108Q    82.1300           600.00         35,325.40         49,278.00
+AMERADA HESS CORP.                         1.456 AHC     023551104Q    82.3800        13,300.00        970,856.80      1,095,654.00
+AMEREN CORP.                               5.065 AEE     023608102Q    50.1400           600.00         24,626.92         30,084.00
+AMERICAN CAPITAL STRATEGIES                8.755 ACAS    024937104     33.3500        14,900.00        466,426.14        496,915.00
+AMERICAN EAGLE OUTFITTERS                  0.509 AEOS    02553E106     47.1000         5,000.00        170,003.19        235,500.00
+AMERICAN ELECTRIC POWER                    4.076 AEP     025537101Q    34.3400        11,500.00        383,061.74        394,910.00
+AMERICAN EXPRESS CO.                       0.851 AXP     025816109Q    56.3700        27,100.00        970,363.66      1,527,627.00
+AMERICAN INTL GROUP                        0.761 AIG     026874107Q    65.6700        45,500.00      2,637,461.39      2,987,985.00
+AMERICAN STANDARD COMPANIES                0.000 ASD     029712106     41.3200        16,400.00        606,711.28        677,648.00
+AMETEK INC.                                0.672 AME     031100100Q    35.6700         8,500.00        233,963.86        303,195.00

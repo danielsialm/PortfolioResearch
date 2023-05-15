@@ -1,0 +1,50 @@
+ASOF11   Date 01/19/2006 Time 18:25:04   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 026
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - I-QUAN    EAFE QUANTITATIVE PO
+Instrument - ICOM      INTERNATIONAL COMMON STOCKS
+
+GAMBRO AB - REDEMPTION A                     0.000     B0N8PJ4      GAMBI        17,000.00           56,342.77
+GECINA ORD FRF 100                           4.498     7742468      GFC_F         3,065.00          366,963.68
+GENERAL PROPERTY GROUP                       4.578     6365866      GPT_A       114,265.00          330,857.92
+GKN ORSH 0.5GBP                              7.152     3064650      GKN_L        79,423.00          359,468.45
+GLAXOSMITHKLINE                              4.907     0925288      GSK_L       268,974.00        5,935,396.18
+GN STORE NORD A/S                            0.115     4501093      GN_DC       119,100.00        1,446,446.50
+GOLDEN OCEAN GROUP LTD                       0.000     B0500H1      8825Z        94,800.00           50,079.81
+GPE BRUX LAMBERT                             1.708     7097328      GBL_B        30,464.00        1,377,600.21
+GREAT-WEST LIFECO                            2.342     2384951      GWO_C         9,200.00          186,917.83
+GROUP DANONE ORD                             1.804     B018SX1      BN_FP        18,012.00        1,477,287.57
+GUNZE Y50                                    0.010     6398709      3002_       222,000.00        1,289,090.10
+GUS PLC                                      5.923     B0NH007      GUS_L        57,193.44          606,117.94
+HAKUHODO DY HOLDINGS INC                     0.005     B05LZ02      2433_        24,600.00        1,543,384.94
+HANG LUNG PROPERTIES LTD                     0.533     6030506      101_H        52,400.00           77,800.69
+HANG SENG BANK HK                            0.662     6408374      11_HK        16,000.00          212,945.65
+HANSON ORD GBP2                              5.009     3351608      HNS_L         3,390.00           36,929.20
+HBOS PLC                                     5.859     3058750      HBOS_       260,131.00        3,221,827.04
+HENDERSON LAND DEVELOPMENT                   0.353     6420538      12_HK        18,400.00           84,794.61
+HITACHI Y50                                  0.011     6429104      6501_       378,200.00        2,292,871.09
+HOKKAIDO ELECTRIC POWER                      0.017     6431325      9509_       107,600.00        2,224,911.47
+HONDA MOTOR CO COM                           0.010     6435145      7267_        71,120.00        3,191,797.50
+HONG KONG ELECTRIC HKD1                      0.594     6435327      6_HK         47,000.00          206,546.92
+HONG KONG EXCHANGES & CLEAR                  0.385     6267359      388_H        26,300.00           61,570.14
+HONGKONG+CHINA GAS                           0.272     6436557      3_HK         51,300.00           94,751.53
+HOYA CORP Y50                                0.012     6441506      7741_        46,800.00        1,220,044.18
+HSBC HOLDINGS ORD                           12.694     0540528      HSBA_       673,395.00        7,040,894.60
+HUTCHISON WHAMPOA                            0.302     6448068      13_HK        44,300.00          360,959.47
+HYPO REAL ESTATE                             0.939     7681248      HRX_G        28,691.00          601,460.75
+IGM FINANCIAL INC                            2.562     2469375      IGM_C         4,800.00          130,886.01
+IMMOFINANZ IMMOBILIEN ANLAGE                 0.000     5679911      IIA_A       454,812.00        4,212,348.43
+IMPERIAL CHEM INDS                           3.955     0459497      ICI_L        83,541.00          372,681.84
+IMPERIAL OIL LTD                             0.712     2454241      IMO_C         4,800.00          263,803.92
+INBEV                                        0.938     4755317      INB_B        69,221.00        1,557,378.82
+INCO LTD                                     0.678     2460367      N_CN          6,600.00          228,326.50
+ING GROEP NV NLG1                            4.508     7154182      INGA_       359,912.00       11,144,283.74
+INPEX CORP                                   0.003     B036Z21      1604_           300.00        2,462,771.76
+INSURANCE AUSTRALIA GROUP                    3.585     6271026      IAG_A        25,534.00          116,666.28
+INTERCONTINENTAL HOTELS GROUP                2.985     B07Q1P2      IHG_L        46,453.00          460,135.56
+IRISH LIFE & PERMANENT                       3.840     4455253      IPM_I        16,157.00          258,331.44

@@ -1,0 +1,50 @@
+ASOF02   Date 01/19/2006 Time 18:24:38   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2005 To 12/31/2005  Page 162
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK - EXTERNALLY MANAGED
+Portfolio  - 6FT       FULLER & THALER - 20
+Instrument - COM       COMMON STOCK
+
+24/7 REAL MEDIA INC                        0.000 TFSM    901314203      7.3400       164,300.00        889,249.38      1,205,962.00
+ACTUATE CORPORATION                        0.000 ACTU    00508B102      3.1400       126,600.00        454,439.91        397,524.00
+ALBANY MOLECULAR RESEARCH                  0.000 AMRI    012423109     12.1500        61,400.00        563,491.34        746,010.00
+ALLOY INC                                  0.000 ALOY    019855105      2.8900       143,600.00        360,236.85        415,004.00
+AMERICAN SCIENCE & ENGINEERING             0.000 ASEI    029429107     62.3700        20,900.00        904,021.14      1,303,533.00
+BLUE COAT SYSTEMS INC                      0.000 BCSI    09534T508     45.7200        27,700.00        442,827.20      1,266,444.00
+BRUKER BIOSCIENCES CORP                    0.000 BRKR    116794108      4.8600       156,900.00        735,165.98        762,534.00
+BTU INTERNATIONAL INC                      0.000 BTUI    056032105     12.6099        54,500.00        767,910.11        687,239.55
+BUCA INC.                                  0.000 BUCA    117769109      5.4500       154,100.00        880,606.52        839,845.00
+CALIFORNIA MICRO DEVICES CORP              0.000 CAMD    130439102      6.5100        31,000.00        272,255.35        201,810.01
+CAPTARIS INC.                              0.000 CAPA    14071N104      3.6900       117,200.00        614,539.47        432,468.00
+CASUAL MALE RETAIL GROUP INC               0.000 CMRG    148711104      6.1300       155,500.00        801,849.69        953,215.00
+CELLEGY PHARMACEUTICALS INC                0.000 CLGY    15115L103      0.5600       111,700.00        712,474.47         62,552.00
+CENTILLIUM COMMUNICATIONS INC              0.000 CTLM    152319109      3.5000       203,767.00        595,005.45        713,184.50
+CHARLOTTE RUSSE HOLDING INC                0.000 CHIC    161048103     20.8300        67,200.00        707,423.46      1,399,776.00
+CROWN MEDIA HLDGS IN                       0.000 CRWN    228411104      9.1700        92,700.00        666,154.07        850,059.00
+CUTERA INC                                 0.000 CUTR    232109108     26.3600        48,500.00        853,748.07      1,278,460.00
+CYBERSOURCE CORP                           0.000 CYBS    23251J106      6.6000       117,700.00        823,747.35        776,820.00
+DELIA*S INC                                0.000 DLIA    246911101      8.3000        71,800.00        522,721.29        595,940.00
+DENDREON CORP                              0.000 DNDN    24823Q107      5.4200        92,200.00        550,905.88        499,724.00
+DESIGN WITHIN REACH INC                    0.000 DWRI    250557105      5.3000       114,700.00        689,867.08        607,910.00
+DIAMONDCLUSTER INTERNATIONAL I             0.000 DTPI    25278P106      7.9400        83,033.00        264,224.54        659,282.02
+DISTRIBUTED ENERGY SYSTEMS COR             0.000 DESC    25475V104      7.5600       112,600.00        625,768.58        851,256.00
+EMERSON RADIO CORP                         0.000 MSN     291087203      3.0600       179,800.00        539,400.00        550,188.00
+FREIGHTCAR AMERICA INC                     0.249 RAIL    357023100     48.0800        23,700.00        753,317.08      1,139,496.00
+GENERAL CABLE CORP                         1.015 BGC     369300108     19.7000        61,800.00        172,653.71      1,217,460.00
+GRAY TELEVISION INC                        1.222 GTN     389375106      9.8200        96,000.00        878,243.79        942,720.00
+GTX INC.                                   0.000 GTXI    40052B108      7.5600        70,000.00        880,269.99        529,200.00
+HAYES LEMMERZ INTERNATIONAL IN             0.000 HAYZ    420781304      3.5200        78,800.00        463,018.95        277,376.00
+HOUSEVALUES INC                            0.000 SOLD    44183Y102     13.0300        47,300.00        633,963.77        616,319.00
+HURCO COMPANIES INC                        0.000 HURC    447324104     30.8200        33,300.00        904,074.53      1,026,306.00
+IBASIS INC                                 0.000 IBAS    450732102      1.8300       153,600.00        325,632.00        281,088.00
+ICU MEDICAL INC.                           0.000 ICUI    44930G107     39.2100        26,600.00        863,837.66      1,042,986.00
+INTEVAC INC                                0.000 IVAC    461148108     13.2000        63,164.00        882,724.25        833,764.80
+J. JILL GROUP INC                          0.000 JILL    466189107     19.0300        47,500.00        858,293.08        903,925.00
+JDA SOFTWARE GROUP INC                     0.000 JDAS    46612K108     17.0100        52,900.00        884,325.39        899,829.00
+LADISH INC                                 0.000 LDSH    505754200     22.3500        39,400.00        613,456.45        880,590.00
+LIFECORE BIOMEDICAL                        0.000 LCBM    532187101     16.2300        51,700.00        758,400.91        839,091.00
+LOJACK CORP                                0.000 LOJN    539451104     24.1300        38,500.00        817,230.11        929,005.00

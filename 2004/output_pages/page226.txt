@@ -1,0 +1,50 @@
+ASOF10   Date 01/21/2005 Time 18:35:09   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2004 To 12/31/2004  Page 007
+
+Monthly Market Portfolio
+
+Investment Desc                              Yield     Identifier F Ticker      Shares              Cost              Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Instrument - COM       COMMON STOCK
+
+@ROAD INC                                    0.000     04648K105   ARDI           157,400          933,962.63        1,087,634.00
+1 800 FLOWERS COM                            0.000     68243Q106   FLWS            24,608          232,753.80          206,953.28
+1ST SOURCE CORP                              1.724     336901103   SRCE            13,100          269,227.76          334,181.00
+21ST CENTY INS GROUP                         0.588     90130N103   TW              36,100          468,365.58          490,960.00
+3COM CORP.                                   0.000     885535104   COMS           820,924        6,217,042.69        3,423,253.08
+3M COMPANY                                   1.754     88579Y101 Q MMM          1,880,107      104,951,366.81      154,300,381.49
+4KIDS ENTERTAINMENT INC.                     0.000     350865101   KDE             15,400          322,578.84          323,708.00
+7-ELEVEN INC                                 0.000     817826209   SE              51,999          823,586.73        1,245,376.05
+99 CENTS ONLY STORES                         0.000     65440K106   NDN             38,800          686,547.57          627,008.00
+AAON INC                                     0.000     000360206   AAON            25,361          474,389.25          407,551.27
+AAR CORPORATION                              0.734     000361105 Q AIR             87,797        1,102,575.14        1,195,795.14
+AARON RENTS INC                              0.208     002535201   RNT             42,100          382,731.06        1,052,500.00
+ABAXIS INC                                   0.000     002567105   ABAX            19,400          376,377.22          281,106.00
+ABBOTT LABORATORIES                          2.229     002824100 Q ABT          2,815,500       87,531,412.32      131,343,075.00
+ABC BANCORP                                  2.666     000400101   ABCB            10,900          182,160.16          228,900.00
+ABERCROMBIE & FITCH CO                       1.065     002896207   ANF            336,900       11,616,407.16       15,817,455.00
+ABGENIX INC                                  0.000     00339B107   ABGX           189,700        2,066,810.70        1,961,498.00
+ABIOMED INC                                  0.000     003654100   ABMD            67,300        1,002,424.27        1,039,112.00
+ABLE LABORATORIES INC                        0.000     00371N407   ABRX            19,900          398,345.29          452,725.00
+ABM INDUSTRIES INC.                          2.129     000957100   ABM            103,425        1,765,054.69        2,039,541.00
+AC MOORE ARTS & CRAFTS INC                   0.000     00086T103   ACMR            15,300          389,793.16          440,793.00
+ACCELRYS INC                                 0.000     00430U103   ACCL           162,500        1,341,345.24        1,267,500.00
+ACCENTURE LTD - CL A                         0.000     G1150G111   ACN            183,424        4,504,680.64        4,952,448.00
+ACCREDITED HOME LENDERS HOLDING CO           0.000     00437P107   LEND            23,450          743,444.66        1,164,996.00
+ACCREDO HEALTH INC                           0.000     00437V104   ACDO            89,800        3,060,539.70        2,489,256.00
+ACE CASH EXPRESS INC                         0.000     004403101   AACE            10,000          265,078.50          296,600.00
+ACE LTD                                      1.918     G0070K103   ACE             23,928          849,202.10        1,022,922.00
+ACETO CORP                                   0.787     004446100   ACET            86,471        1,183,133.13        1,646,407.84
+ACT TELECONFERENCING INC                     0.000     000955104   ACTT           258,000          571,302.43          340,560.00
+ACTEL CORPORATION                            0.000     004934105   ACTL            88,500        1,706,967.15        1,552,290.00
+ACTION PERFORMANCE CO                        1.819     004933107   ATN             17,200          248,954.56          189,028.00
+ACTIVCARD CORP                               0.000     00506J107   ACTI            76,857          574,736.92          684,027.30
+ACTIVISION INC                               0.000     004930202   ATVI           201,954        2,569,597.24        4,075,451.90
+ACTUANT CORP CL A                            0.115     00508X203   ATU            118,005        4,144,023.67        6,153,960.75
+ACTUATE CORPORATION                          0.000     00508B102   ACTU           184,100          671,689.85          469,455.00
+ACUITY BRANDS INC                            1.886     00508Y102   AYI             47,300          787,241.60        1,504,140.00
+ACXIOM CORP.                                 0.608     005125109   ACXM           108,700        2,359,002.28        2,858,810.00
+ADAPTEC INC                                  0.000     00651F108   ADPT           298,500        3,301,484.11        2,265,615.00
+ADC COMMUNICATIONS INC                       0.000     000886101   ADCT           941,900        4,407,179.27        2,524,292.00
+ADE CORP MASS                                0.000     00089C107   ADEX            49,000          966,085.29          917,280.00

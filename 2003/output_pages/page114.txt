@@ -1,0 +1,50 @@
+ASOF02   Date 01/20/2004 Time 18:58:51   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 084
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Coupon Yield  Ticker Identifier F      Price      Par/Shares      Book Value       Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - COMMON STOCK
+Portfolio  - QN2       QUANTITATIVE 2000 (Q
+Instrument - COM       COMMON STOCK
+
+GB&T BANCSHARES INC                        1.523 GBTB    361462104     23.6300         6,800.00        167,625.48        160,684.00
+GEN-PROBE INC                              0.000 GPRO    36866T103     36.4700        62,000.00      1,544,659.68      2,261,140.00
+GENCORP INC                                1.114 GY      368682100Q    10.7700        37,900.00        439,474.25        408,183.00
+GENE LOGIC INC                             0.000 GLGC    368689105      5.1900        67,900.00        385,483.71        352,401.00
+GENENCOR INTERNATIONAL INC                 0.000 GCOR    368709101     15.7500        10,300.00        170,869.36        162,225.01
+GENERAL CABLE CORP                         2.454 BGC     369300108      8.1500        45,900.00        287,822.67        374,085.00
+GENERAL COMMUNICATION                      0.000 GNCMA   369385109      8.7000        36,500.00        274,884.04        317,550.00
+GENESCO INC.                               0.000 GCO     371532102     15.1300        26,300.00        532,426.69        397,919.00
+GENESEE & WYO INC                          0.000 GWR     371559105     31.5000        14,700.00        317,237.55        463,050.00
+GENESIS HEALTHCARE CORP                    0.000 GHCI    37184D101     22.7800        16,900.00        268,600.01        384,982.00
+GENESIS MICROCHIP INC.                     0.000 GNSS    37184C103     18.0400        37,700.00        569,671.74        680,108.00
+GENLYTE GROUP INC                          0.000 GLYT    372302109     58.3800        14,500.00        559,570.36        846,510.00
+GENTA INC                                  0.000 GNTA    37245M207     10.4100        56,700.00        810,404.84        590,247.00
+GENTIVA HEALTH SERVICES                    0.000 GTIV    37247A102     12.6400        30,200.00        315,920.81        381,728.00
+GEORGIA GULF CORP                          1.108 GGC     373200203     28.8800        28,000.00        562,254.06        808,640.00
+GERBER SCIENTIFIC                          4.020 GRB     373730100Q     7.9600        42,900.00        334,847.21        341,484.00
+GERMAN AMERN BANCORP                       3.200 GABC    373865104     17.5000        11,235.00        193,918.72        196,612.50
+GERON CORP                                 0.000 GERN    374163103      9.9700        33,300.00        307,012.19        332,001.00
+GEVITY HR INC                              0.899 GVHR    374393106     22.2400        21,700.00        387,357.41        482,608.00
+GIBRALTAR STL CORP                         0.715 ROCK    37476F103     25.1500        13,700.00        298,455.43        344,555.00
+GLACIER BANCORP INC                        2.469 GBCI    37637Q105     32.4000        21,600.00        564,414.76        699,840.00
+GLADSTONE CAPITAL CO                       5.906 GLAD    376535100     22.3500        10,600.00        205,330.05        236,910.00
+GLATFELTER                                 2.891 GLT     377316104     12.4500        34,400.00        511,385.84        428,280.00
+GLOBAL IMAGING SYSTEMS INC                 0.000 GISX    37934A100     31.7500        17,900.00        410,617.14        568,325.00
+GLOBAL INDUSTRIES LTD.                     0.000 GLBL    379336100      5.1500        86,000.00        433,840.38        442,900.00
+GLOBAL POWER EQUIPMENT GROUP               0.000 GEG     37941P108      6.6800        53,000.00        323,899.46        354,040.00
+GLOBESPAN VIRATA INC                       0.000 GSPN    37957V106      5.8800       145,100.00      1,239,513.23        853,188.00
+GOLD BANC CORP INC                         0.853 GLDB    379907108     14.0600        31,200.00        336,554.17        438,672.00
+GOLDEN TELECOM INC                         0.000 GLDN    38122G107     27.7500        21,300.00        579,866.46        591,075.00
+GOODY'S FAMILY CLOTHING INC.               0.854 GDYS    382588101      9.3600        37,100.00        319,777.90        347,256.00
+GOODYEAR T & R                             6.106 GT      382550101Q     7.8600       157,900.00      3,017,336.99      1,241,094.00
+GORMAN RUPP CO                             2.575 GRC     383082104     26.4000         8,900.00        221,356.93        234,960.00
+GRACE W.R. & COMPANY NEW                   0.000 GRA     38388F108      2.5700        79,200.00        354,206.20        203,544.00
+GRAFTECH INTERNATIONAL LTD                 0.000 GTI     384313102     13.5000        87,500.00        651,648.77      1,181,250.00
+GRANITE CONSTRUCTION INC                   1.702 GVA     387328107     23.4900        39,500.00        767,212.05        927,855.00
+GRAY TELEVISION INC                        0.529 GTN     389375106     15.1200        36,300.00        471,518.67        548,856.00
+GREAT AMERN FINL RES                       0.616 GFR     389915109     16.2200         8,100.00        117,498.91        131,382.00
+GREAT ATL & PAC TEA                        0.000 GAP     390064103Q     8.4000        38,500.00        538,009.97        323,400.00
+GREAT LAKES CHEMICAL CORP.                 1.397 GLK     390568103Q    27.1900        36,700.00      1,067,510.33        997,873.00

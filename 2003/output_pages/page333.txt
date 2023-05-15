@@ -1,0 +1,22 @@
+ASOF09   Date 01/20/2004 Time 18:59:41   STATE TEACHERS RETIREMENT SYSTEM OF OHIO          Period 12/01/2003 To 12/31/2003  Page 005
+
+Monthly Market Portfolio
+
+Investment Desc             Rating Yield   Identifier       F   Maturity      Par/Shares         Book Value          Market Value
+------------------------------------------------------------------------------------------------------------------------------------
+
+Group - INTERNATIONAL
+Portfolio  - EQS2      EMERGING ANALYSTS SW
+Instrument - CPES      COMMERCIAL PAPER - EQUITY SWAPS
+
+NESTLES CAPITAL CORP.                1.014 64105GAE4                          1,003,000.00        1,002,637.90
+
+Instrument Total               1                                              1,003,000.00        1,002,637.90
+
+Instrument -INTF      INTERNATIONAL FUNDS
+
+EQUITY SWAP II - LIQUIDITY RES       0.000 IL-EQS2                                1,668.11          166,811.63
+
+Instrument Total               1                                                  1,668.11          166,811.63
+
+Portfolio Total                2                                              1,004,668.11        1,169,449.53          1,659,635.79
